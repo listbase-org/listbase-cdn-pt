@@ -1,0 +1,1066 @@
+{
+  "id": "pt-lisbon-swift-codigos",
+  "name": "Códigos SWIFT/BIC — Lisbon",
+  "title": "Códigos SWIFT/BIC — Lisbon",
+  "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 170 instituições que a fonte indica com a cidade \"LISBON\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ABANCA CORPORACION BANCARIA, SA, SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "(LISBON UNCONNECTED)",
+      "swift_code": "CAGLPTP1LBU"
+    },
+    {
+      "bank": "ABANCA CORPORACION BANCARIA, SA, SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CAGLPTPL"
+    },
+    {
+      "bank": "AGENCIA GESTAO DA TESOURARIA E DIV. PUBLICA, IGCP EPE",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "IGCPPTPL"
+    },
+    {
+      "bank": "ALLIANZ PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ALPOPTP1"
+    },
+    {
+      "bank": "ARGENTARIA VOLARE",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ARVOPTP1"
+    },
+    {
+      "bank": "ASCOR DEALER S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ASDEPTP1"
+    },
+    {
+      "bank": "ATRIUM INVESTIMENTOS-SOCIEDADE FINANCEIRA DE CORRETAGEM, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "AIFCPTP1"
+    },
+    {
+      "bank": "AXA LIFE EUROPE LIMITED SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "AXLPPTP1"
+    },
+    {
+      "bank": "AXA PORTUGAL SEGUROS VIDA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "APSVPTP1"
+    },
+    {
+      "bank": "BANCO ACTIVOBANK S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ACTVPTPL"
+    },
+    {
+      "bank": "BANCO BAI EUROPA, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BAIPPTPL"
+    },
+    {
+      "bank": "BANCO BIC PORTUGUES, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BPNPPTPL"
+    },
+    {
+      "bank": "BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BBVAPTPL"
+    },
+    {
+      "bank": "BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BBVAPTPLTG2"
+    },
+    {
+      "bank": "BANCO CETELEM SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CETMPTP1"
+    },
+    {
+      "bank": "BANCO COMERCIAL DE MACAU S.A.R.L.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CMACPTP1"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "LISBON",
+      "branch": "(CORRESPONDENT BANKING DIVISION)",
+      "swift_code": "BCOMPTPLINT"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "LISBON",
+      "branch": "(INSTITUTIONAL CUSTODY)",
+      "swift_code": "BCOMPTPLDRI"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "LISBON",
+      "branch": "(TREASURY DIVISION)",
+      "swift_code": "BCOMPTPLDIF"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BCOMPTPLB07"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BCOMPTPLLES"
+    },
+    {
+      "bank": "BANCO CTT, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CTTVPTPL"
+    },
+    {
+      "bank": "BANCO DE INVESTIMENTO GLOBAL S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BDIGPTPL"
+    },
+    {
+      "bank": "BANCO DE INVESTIMENTO IMOBILIARIO SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "INIOPTP1"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(BP- CCBM)",
+      "swift_code": "BGALPTTGCCB"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(BP-BACK-OFFICE)",
+      "swift_code": "BGALPTTGBAC"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(BP-MINIMUM RESERVES)",
+      "swift_code": "BGALPTTGMRR"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(BP-MONETARY POLICY OPERATIONS)",
+      "swift_code": "BGALPTTGSIT"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(COLLATERAL MANAGEMENT PT PARTIES)",
+      "swift_code": "BGALPTPLPTP"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(COLLATERAL MANAGEMENT PT PARTIES)",
+      "swift_code": "BGALPTTGPTP"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(CONTABILIDADE E PAGAMENTOS)",
+      "swift_code": "BGALPTPLDCP"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(CREDIT AND MARKETS DEPARTMENT)",
+      "swift_code": "BGALPTPLCCB"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(DET-EMISSAO E TESOURARIA)",
+      "swift_code": "BGALPTTGDET"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(FUNDS)",
+      "swift_code": "BGALPTPLGPF"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(MERCADO MONETARIO INTERBANCARIO)",
+      "swift_code": "BGALPTTGMMI"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(SICOI INSTANT PAYMENTS SOLUTION)",
+      "swift_code": "BGALPTTGIPS"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "(SISTEMAS DE PAGAMENTOS)",
+      "swift_code": "BGALPTTG"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BGALPTPL"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BGALPTPLCON"
+    },
+    {
+      "bank": "BANCO DE SABADELL S.A",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BSABPTP1"
+    },
+    {
+      "bank": "BANCO DO BRASIL AG-SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BRASPTPL"
+    },
+    {
+      "bank": "BANCO EFISA S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "EFISPTPL"
+    },
+    {
+      "bank": "BANCO EXPRESSO ATLANTICO SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "EXATPTP1"
+    },
+    {
+      "bank": "BANCO FINANTIA S.A.",
+      "city": "LISBON",
+      "branch": "(FINANTIA CORRETORA)",
+      "swift_code": "BFIAPTPLCOR"
+    },
+    {
+      "bank": "BANCO FINANTIA S.A.",
+      "city": "LISBON",
+      "branch": "(FINANTIA INTERNATIONAL)",
+      "swift_code": "BFIAPTPLINT"
+    },
+    {
+      "bank": "BANCO FINANTIA S.A.",
+      "city": "LISBON",
+      "branch": "(FINANTIA SECURITIES)",
+      "swift_code": "BFIAPTPLSEC"
+    },
+    {
+      "bank": "BANCO FINANTIA S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BFIAPTPL"
+    },
+    {
+      "bank": "BANCO INVEST S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "IVVSPTPL"
+    },
+    {
+      "bank": "BANCO MAIS SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MIISPTP1"
+    },
+    {
+      "bank": "BANCO MELLO",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MEOLPTP1"
+    },
+    {
+      "bank": "BANCO MELLO DE INVESTIMENTOS S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MEIIPTP1"
+    },
+    {
+      "bank": "BANCO MELLO IMOBILIARIO, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MEIMPTP1"
+    },
+    {
+      "bank": "BANCO POPULAR PORTUGAL, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CRBNPTPL"
+    },
+    {
+      "bank": "BANCO PORTUGUES DE GESTAO, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BPGPPTPL"
+    },
+    {
+      "bank": "BANCO PORTUGUES DE INVESTIMENTO S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BPIPPTPL"
+    },
+    {
+      "bank": "BANCO PRIVADO ATLANTICO-EUROPA, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BAPAPTPL"
+    },
+    {
+      "bank": "BANCO SANTANDER CONSUMER PORTUGAL SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "IBNBPTP1"
+    },
+    {
+      "bank": "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BNIFPTPL"
+    },
+    {
+      "bank": "BANCO SANTANDER TOTTA, SA",
+      "city": "LISBON",
+      "branch": "(EMIGRANTS REMITTANCES)",
+      "swift_code": "TOTAPTPLEMI"
+    },
+    {
+      "bank": "BANCO SANTANDER TOTTA, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "TOTAPTPL"
+    },
+    {
+      "bank": "BANIF BANCO DE INVESTIMENTO, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BNFIPTPL"
+    },
+    {
+      "bank": "BANK OF CHINA (LUXEMBOURG) S.A. PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BKCHPTPL"
+    },
+    {
+      "bank": "BANKINTER SUCURSAL EN PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BKBKPTPL"
+    },
+    {
+      "bank": "BANQUE DE PATRIMOINES PRIVES SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BBPPPTPL"
+    },
+    {
+      "bank": "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, SUCURSAL PORTUGUESA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PRIBPTPX"
+    },
+    {
+      "bank": "BANQUE PSA FINANCE (SUCURSAL EM PORTUGAL)",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PSABPTP1"
+    },
+    {
+      "bank": "BARCLAYS BANK PLC",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BARCPTPC"
+    },
+    {
+      "bank": "BARCLAYS BANK PLC",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BARCPTPL"
+    },
+    {
+      "bank": "BARCLAYS FUNDOS, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BAUUPTP1"
+    },
+    {
+      "bank": "BBVA INSTITUICAO FINANCEIRA DE CREDITO S.A",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BIFDPTP1"
+    },
+    {
+      "bank": "BEST-BANCO ELECTRONICO DE SERVICO TOTAL S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BESZPTPL"
+    },
+    {
+      "bank": "BIE - BANK AND TRUST LTD",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BITUPTP1"
+    },
+    {
+      "bank": "BNI - BANCO DE NEGOCIOS INTERNACIONAL (EUROPA), S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BNICPTPL"
+    },
+    {
+      "bank": "BNP PARIBAS PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BNPAPTPLLIS"
+    },
+    {
+      "bank": "BNP PARIBAS SECURITIES SERVICES, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PARBPTP1"
+    },
+    {
+      "bank": "BNP PARIBAS SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BNPAPTPL"
+    },
+    {
+      "bank": "BNP PARIBAS WEALTH MANAGEMENT, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BPWMPTP1"
+    },
+    {
+      "bank": "BPI GESTAO DE ACTIVOS - SOCIEDADE GESTORA DE FUNDO S DE INVESTIMENTO MOBILIARIO, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BPGAPTP1"
+    },
+    {
+      "bank": "CAIXA AGRICOLA GESTIONE",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CAOGPTP1"
+    },
+    {
+      "bank": "CAIXA BANCO DE INVESTIMENTO, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CXBIPTPL"
+    },
+    {
+      "bank": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CCCMPTPL"
+    },
+    {
+      "bank": "CAIXA ECONOMICA DA ASSOCIACAO DE SOCORROS MUTUOS DE EMPREGADOS NO COMERCIO DE LISBOA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CEARPTP1"
+    },
+    {
+      "bank": "CAIXA GERAL DE DEPOSITOS",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CGDIPTPL"
+    },
+    {
+      "bank": "CAIXAGEST TECNICAS DE GESTAO DE FUNDOS, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CTGFPTP1"
+    },
+    {
+      "bank": "CENTRAL-BANCO DE INVESTIMENTO, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PCBIPTP1"
+    },
+    {
+      "bank": "CITIBANK EUROPE PLC PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(CITIBANK LISBON TARGET 2)",
+      "swift_code": "CITIPTPXSEC"
+    },
+    {
+      "bank": "CITIBANK EUROPE PLC PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(SUCURSAL EM PORTUGAL)",
+      "swift_code": "CITIPTPX"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 001)",
+      "swift_code": "CITIPTP1001"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 002)",
+      "swift_code": "CITIPTP1002"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 003)",
+      "swift_code": "CITIPTP1003"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 004)",
+      "swift_code": "CITIPTP1004"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 005)",
+      "swift_code": "CITIPTP1005"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 006)",
+      "swift_code": "CITIPTP1006"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 007)",
+      "swift_code": "CITIPTP1007"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 008)",
+      "swift_code": "CITIPTP1008"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 009)",
+      "swift_code": "CITIPTP1009"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 010)",
+      "swift_code": "CITIPTP1010"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 011)",
+      "swift_code": "CITIPTP1011"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 012)",
+      "swift_code": "CITIPTP1012"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 013)",
+      "swift_code": "CITIPTP1013"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 014)",
+      "swift_code": "CITIPTP1014"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 015)",
+      "swift_code": "CITIPTP1015"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(T2S 016)",
+      "swift_code": "CITIPTP1016"
+    },
+    {
+      "bank": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CITIPTP1"
+    },
+    {
+      "bank": "COFIDIS",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CFFIPTP1"
+    },
+    {
+      "bank": "COMPANHIA PORTUGUESA DE RATING, S.A",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "COOGPTP1"
+    },
+    {
+      "bank": "CREDIBANCO - BANCO DE CREDITO PESSOAL SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CRRSPTP1"
+    },
+    {
+      "bank": "CTT-CORREIOS DE PORTUGAL, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CTTPPTP1"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "(SICOI)",
+      "swift_code": "DEUTPTPLSIC"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "DEUTPTPL"
+    },
+    {
+      "bank": "DEXIA CREDIT LOCAL S.A. - SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "DSBLPTPL"
+    },
+    {
+      "bank": "DIF BROKER-SOC.CORRETORA, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "DBRCPTP1"
+    },
+    {
+      "bank": "ESAF - ES FUNDOS DE INVESTIMENTO IMOBILIARIO, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "EFIIPTP1"
+    },
+    {
+      "bank": "ESAF - ES FUNDOS DE INVESTIMENTO MOBILIARIO, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "EFIMPTP1"
+    },
+    {
+      "bank": "ESAF - ES FUNDOS DE PENSOES, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ESFPPTP1"
+    },
+    {
+      "bank": "ESAF - ESPIRITO SANTO GESTAO DE PATRIMONIOS, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ESGPPTP1"
+    },
+    {
+      "bank": "ESER SOCIEDADE FINANCEIRA DE CORRETAGEM SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ESFCPTP1"
+    },
+    {
+      "bank": "ESPIRITO SANTO DEALER SOCIEDADE FINANCEIRA DE CORRETAGEM",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ESDEPTP1"
+    },
+    {
+      "bank": "EURONEXT LISBOA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "XLISPTP1"
+    },
+    {
+      "bank": "F AND C PORTUGAL, GESTAO DE PATRIMONIOS, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PGPAPTP1"
+    },
+    {
+      "bank": "FCE BANK PLC",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "FCEFPTP1"
+    },
+    {
+      "bank": "FINCOR - SOCIEDADE CORRETORA SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "FICCPTP1"
+    },
+    {
+      "bank": "FINIBANCO S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "FBCOPTPPLIS"
+    },
+    {
+      "bank": "FINIVALOR - SOCIEDADE GESTORA DE FUNDOS MOBILIARIOS S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "FIVRPTP1"
+    },
+    {
+      "bank": "FUNDO DE GARANTIA DE DEPOSITOS",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "FUGDPTP1"
+    },
+    {
+      "bank": "FUNDO DE RESOLUCAO",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "FURSPTP1"
+    },
+    {
+      "bank": "FUNDO GARANTIA CREDITO AGRICOLA MUT UO",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "FGCAPTP1"
+    },
+    {
+      "bank": "HAITONG BANK, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ESSIPTPL"
+    },
+    {
+      "bank": "HBF - BANCO FINANCIERO SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "HBFIPTP1"
+    },
+    {
+      "bank": "IM GESTAO DE ATIVOS SOCIEDADE GESTORA DE FUNDOS DE INVESTIMENTO SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "GASGPTP1"
+    },
+    {
+      "bank": "ING BANK NV, SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BBRUPTPL"
+    },
+    {
+      "bank": "INTERMONEY PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "IMPTPTP1"
+    },
+    {
+      "bank": "INTERMONEY VALORES, SOCIEDAD DE VALORES, SA - SUCCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "IVSVPTP1"
+    },
+    {
+      "bank": "INTERVALORES-SOCIEDADE CORRETORA, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ITCAPTP1"
+    },
+    {
+      "bank": "INVESTQUEST SOCIETA GESTORA PATRIMONIOS",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ISGAPTP1"
+    },
+    {
+      "bank": "IPAGOO LLP PORTUGAL BRANCH",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "IPAGPTPL"
+    },
+    {
+      "bank": "ITAU BBA INTERNATIONAL LIMITED, SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ITAUPTPL"
+    },
+    {
+      "bank": "JERONIMO MARTINS SGPS, S.A",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "JERGPTPL"
+    },
+    {
+      "bank": "LISBON BROKERS SOCIEDADE CORRETORA S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "LBSCPTP1"
+    },
+    {
+      "bank": "LUSO PARTNERS - SOCIEDADE CORRETORA, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "LPSCPTP1"
+    },
+    {
+      "bank": "M.G. GESTAO DE ACTIVOS FINANCEIROS-SOCIEDADE GESTORA DE FUNDOS DE INVESTIMENTO MOBILIARIO S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "GAFSPTP1"
+    },
+    {
+      "bank": "MACIF PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MAPGPTP1"
+    },
+    {
+      "bank": "MATH FUND",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MAUDPTP1"
+    },
+    {
+      "bank": "MIDAS SECURITIES",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MIDEPTP1"
+    },
+    {
+      "bank": "MIILLENNIUM BCP - GESTAO DE FUNDOS DE INVESTIMENTO, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MBGFPTP1"
+    },
+    {
+      "bank": "MILLENIUM BCP",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MIBPPTP1"
+    },
+    {
+      "bank": "MONTEPIO GERAL - CAIXA ECONOMICA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "MPIOPTPL"
+    },
+    {
+      "bank": "MTS PORTUGAL SGMR, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PMTSPTP1"
+    },
+    {
+      "bank": "NCO DEALER, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "NCOEPTP1"
+    },
+    {
+      "bank": "NOVO BANCO, SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "BESCPTPL"
+    },
+    {
+      "bank": "OMICLEAR,C.C.,S.A.",
+      "city": "LISBON",
+      "branch": "(ANCILLARY SYSTEM ACCOUNT)",
+      "swift_code": "OMICPTPLASA"
+    },
+    {
+      "bank": "OMICLEAR,C.C.,S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "OMICPTPL"
+    },
+    {
+      "bank": "OMICLEAR,C.C.,S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "OMICPTPLCLI"
+    },
+    {
+      "bank": "ONEY IFIC SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ONIFPTP1"
+    },
+    {
+      "bank": "OREY VALORES-SOCIEDADE CORRETORA, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "OVSCPTP1"
+    },
+    {
+      "bank": "PEXSETTLE",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PEXSPTP1"
+    },
+    {
+      "bank": "PT PAY SA",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "PAYYPTP1"
+    },
+    {
+      "bank": "ROYAL BANK OF SCOTLAND PLC-SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "RBOSPTP1"
+    },
+    {
+      "bank": "SAMSUNG ELECTRONICA PORTUGAL",
+      "city": "LISBON",
+      "branch": "(SEP)",
+      "swift_code": "SECTPTP14E0"
+    },
+    {
+      "bank": "SAMSUNG ELECTRONICA PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "SECTPTP1"
+    },
+    {
+      "bank": "SANTANDER ASSET MANAGEMENT-SOCIEDADE GESTORA DE FUNDOS DE INVESTIMENTO MOBILIARIO, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "SAGCPTP1"
+    },
+    {
+      "bank": "SIBS PAGAMENTOS, S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "SIAOPTP1"
+    },
+    {
+      "bank": "SIBS-SOCIEDADE INTERBANCARIA DE SERVICOS S.A",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "SISRPTP1"
+    },
+    {
+      "bank": "SOCIETA GESTORA DO FUNDO DE PENSOES",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "SGFEPTP1"
+    },
+    {
+      "bank": "ST.GALLER KANTONALBANK AG - SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "CCIEPTPX"
+    },
+    {
+      "bank": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
+      "city": "LISBON",
+      "branch": "(LISBON OFFICE)",
+      "swift_code": "BOTKPTP1"
+    },
+    {
+      "bank": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "UIFCPTP1"
+    },
+    {
+      "bank": "WIZINK BANK S.A. SUCURSAL EM PORTUGAL",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "WZNKPTPL"
+    },
+    {
+      "bank": "X-TRADE BROKERS D.M. S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "TBPTPTP1"
+    },
+    {
+      "bank": "ZURICH-COMPANHIA DE SEGUROS S.A.",
+      "city": "LISBON",
+      "branch": "",
+      "swift_code": "ZURIPTPL"
+    }
+  ],
+  "meta": {
+    "title": "Códigos SWIFT/BIC — Lisbon - Download gratuito",
+    "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 170 instituições que a fonte indica com a cidade \"LISBON\". Contém 170 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Códigos SWIFT/BIC — Lisbon | ListBase",
+    "seo_description": "Baixar Códigos SWIFT/BIC — Lisbon — 170 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 170 registros / 4 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

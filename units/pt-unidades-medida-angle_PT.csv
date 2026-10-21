@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Categoria","Nome","Abreviacao","Estreito","Padrao"
+"1","angle-arc-minute","angle","minutos de arco","arcmins","arcmin","{0} minutos de arco"
+"2","angle-arc-second","angle","segundos de arco","arcsegs","arcseg","{0} segundos de arco"
+"3","angle-degree","angle","graus","graus","graus","{0} graus"
+"4","angle-radian","angle","radianos","radianos","rad","{0} radianos"
+"5","angle-revolution","angle","revoluções","rev","rev","{0} revoluções"
+"6","angle-steradian","angle","esterradianos","sr","sr","{0} esterradianos"

@@ -1,0 +1,8 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords","Parent Index"
+"321241","LPCI","heliport","Coimbra University Hospital Helipad","40.219877","-8.413009","331","EU","PT","PT-06","06","Coimbra District","Coimbra","no","LPCI","","LPCI","","","https://en.wikipedia.org/wiki/Hospitais_da_Universidade_de_Coimbra","","3289"
+"4443","LPCO","medium_airport","Aerodromo Municipal de Coimbra","40.158758","-8.470815","587","EU","PT","PT-06","06","Coimbra District","Coimbra","no","LPCO","","LPCO","","","https://en.wikipedia.org/wiki/Coimbra_Airport","CBP","3291"
+"30086","LPLZ","small_airport","Aerodromo da Lousã","40.143042","-8.240987","654","EU","PT","PT-06","06","Coimbra District","Lousã","no","","","LPLZ","","","","","3309"
+"316226","PT-0029","small_airport","Aeródromo de Coja","40.2748","-7.9747","925","EU","PT","PT-06","06","Coimbra District","Arganil","no","","","","","","","","3378"
+"320264","PT-0037","small_airport","Aeródromo da Pampilhosa da Serra","40.026869","-7.955008","","EU","PT","PT-06","06","Coimbra District","Pampilhosa da Serra","no","","","","","","","","3386"
+"323769","PT-0049","heliport","Coimbra Hospital Covões Heliport","40.194812","-8.460207","265","EU","PT","PT-06","06","Coimbra District","Coimba","no","LPCV","","LPCV","","","","","3398"
+"335852","PT-0142","small_airport","Quinta de Fôja","40.18503","-8.704338","","EU","PT","PT-06","06","Coimbra District","Montemor-o-velho","no","","","","","","","agricultural","3491"

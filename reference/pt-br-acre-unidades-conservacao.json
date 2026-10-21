@@ -1,0 +1,304 @@
+{
+  "id": "pt-br-acre-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Acre (AC)",
+  "title": "Unidades de Conservação Federais — Acre (AC)",
+  "description": "11 unidades de conservação federais (ICMBio) com território em Acre (AC), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 78,
+      "nome": "ESTAÇÃO ECOLÓGICA RIO ACRE",
+      "codigo_cnuc": "0000.00.0068",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 78930.0545,
+      "ato_legal": "DEC 86.061, de 02/06/1981",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 118,
+      "nome": "FLORESTA NACIONAL DE SANTA ROSA DO PURUS",
+      "codigo_cnuc": "0000.00.0107",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 21147.8044,
+      "ato_legal": "DEC S/N de 07/08/2001",
+      "nucleo_gestao": "ICMBio Sena Madureira",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 119,
+      "nome": "FLORESTA NACIONAL DE SÃO FRANCISCO",
+      "codigo_cnuc": "0000.00.0108",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 1561.1407,
+      "ato_legal": "DEC S/N de 07/08/2001",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 140,
+      "nome": "FLORESTA NACIONAL DO MACAUÃ",
+      "codigo_cnuc": "0000.00.0120",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 176347.3644,
+      "ato_legal": "DEC 96.189, de 21/06/1988",
+      "nucleo_gestao": "ICMBio Sena Madureira",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 171,
+      "nome": "PARQUE NACIONAL DA SERRA DO DIVISOR",
+      "codigo_cnuc": "0000.00.0149",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 837559.6311,
+      "ato_legal": "DEC 97.839, de 16/06/1989",
+      "nucleo_gestao": "ICMBio Cruzeiro do Sul",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 281,
+      "nome": "RESERVA EXTRATIVISTA CHICO MENDES",
+      "codigo_cnuc": "0000.00.0222",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 931542.9422,
+      "ato_legal": "DEC 99.144, de 12/03/1990",
+      "nucleo_gestao": "ICMBio Chico Mendes",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 289,
+      "nome": "RESERVA EXTRATIVISTA DO ALTO JURUÁ",
+      "codigo_cnuc": "0000.00.1517",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 537949.3592,
+      "ato_legal": "DEC 98.863, de 23/01/1990",
+      "nucleo_gestao": "ICMBio Cruzeiro do Sul",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 290,
+      "nome": "RESERVA EXTRATIVISTA DO ALTO TARAUACÁ",
+      "codigo_cnuc": "0000.00.0274",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 154133.8456,
+      "ato_legal": "DEC S/N, de 8/11/2000",
+      "nucleo_gestao": "ICMBio Alto Tarauacá-Santa Rosa do Purus",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 293,
+      "nome": "RESERVA EXTRATIVISTA DO CAZUMBÁ-IRACEMA",
+      "codigo_cnuc": "0000.00.0232",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 756463.9922,
+      "ato_legal": "DEC S/N, de 19/10/2002",
+      "nucleo_gestao": "ICMBio Sena Madureira",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 335,
+      "nome": "RESERVA EXTRATIVISTA RIOZINHO DA LIBERDADE",
+      "codigo_cnuc": "0000.00.0257",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC, AM",
+      "uf_abrangencia": "AC/AM",
+      "estados": "Acre, Amazonas",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 324905.9324,
+      "ato_legal": "DEC S/N, de 17/02/2005",
+      "nucleo_gestao": "ICMBio Cruzeiro do Sul",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 49,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO SERINGAL NOVA ESPERANÇA",
+      "codigo_cnuc": "0000.00.0044",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 2573.9821,
+      "ato_legal": "DEC S/N de 20/08/1999",
+      "nucleo_gestao": "ICMBio Chico Mendes",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Acre (AC) - Download gratuito",
+    "description": "11 unidades de conservação federais (ICMBio) com território em Acre (AC), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 11 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Acre (AC) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Acre (AC) — 11 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 11 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

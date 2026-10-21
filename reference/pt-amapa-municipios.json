@@ -1,0 +1,373 @@
+{
+  "id": "pt-amapa-municipios",
+  "name": "Municípios de Amapá (AP) — 16 municípios",
+  "title": "Municípios de Amapá (AP) — 16 municípios",
+  "description": "Lista dos 16 municípios do estado de Amapá (AP), região Norte, segundo a divisão político-administrativa do IBGE. Cada município inclui código IBGE, nome, latitude/longitude, sinalização de capital, DDD ANATEL e fuso horário IANA. Cobertura SEO para queries do tipo 'cidades de amapá', 'municípios de amapá', e 'lista de cidades AP'.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "codigo_ibge",
+      "label": "Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "siafi_id",
+      "label": "Siafi Id",
+      "type": "number"
+    },
+    {
+      "key": "ddd",
+      "label": "Ddd",
+      "type": "number"
+    },
+    {
+      "key": "fuso_horario",
+      "label": "Fuso Horario",
+      "type": "string"
+    },
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "estado_slug",
+      "label": "Estado Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_ibge": 1600105,
+      "nome": "Amapá",
+      "slug": "amapa",
+      "capital": false,
+      "latitude": 2.05267,
+      "longitude": -50.7957,
+      "siafi_id": "0601",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600204,
+      "nome": "Calçoene",
+      "slug": "calcoene",
+      "capital": false,
+      "latitude": 2.50475,
+      "longitude": -50.9512,
+      "siafi_id": "0603",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600212,
+      "nome": "Cutias",
+      "slug": "cutias",
+      "capital": false,
+      "latitude": 0.970761,
+      "longitude": -50.8005,
+      "siafi_id": "0667",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600238,
+      "nome": "Ferreira Gomes",
+      "slug": "ferreira-gomes",
+      "capital": false,
+      "latitude": 0.857256,
+      "longitude": -51.1795,
+      "siafi_id": "0611",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600253,
+      "nome": "Itaubal",
+      "slug": "itaubal",
+      "capital": false,
+      "latitude": 0.602185,
+      "longitude": -50.6996,
+      "siafi_id": "0669",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600279,
+      "nome": "Laranjal do Jari",
+      "slug": "laranjal-do-jari",
+      "capital": false,
+      "latitude": -0.804911,
+      "longitude": -52.453,
+      "siafi_id": "0613",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600303,
+      "nome": "Macapá",
+      "slug": "macapa",
+      "capital": true,
+      "latitude": 0.034934,
+      "longitude": -51.0694,
+      "siafi_id": "0605",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600402,
+      "nome": "Mazagão",
+      "slug": "mazagao",
+      "capital": false,
+      "latitude": -0.11336,
+      "longitude": -51.2891,
+      "siafi_id": "0607",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600501,
+      "nome": "Oiapoque",
+      "slug": "oiapoque",
+      "capital": false,
+      "latitude": 3.84074,
+      "longitude": -51.8331,
+      "siafi_id": "0609",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600154,
+      "nome": "Pedra Branca do Amapari",
+      "slug": "pedra-branca-do-amapari",
+      "capital": false,
+      "latitude": 0.777424,
+      "longitude": -51.9503,
+      "siafi_id": "0663",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600535,
+      "nome": "Porto Grande",
+      "slug": "porto-grande",
+      "capital": false,
+      "latitude": 0.71243,
+      "longitude": -51.4155,
+      "siafi_id": "0671",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600550,
+      "nome": "Pracuúba",
+      "slug": "pracuuba",
+      "capital": false,
+      "latitude": 1.74543,
+      "longitude": -50.7892,
+      "siafi_id": "0673",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600600,
+      "nome": "Santana",
+      "slug": "santana",
+      "capital": false,
+      "latitude": -0.045434,
+      "longitude": -51.1729,
+      "siafi_id": "0615",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600055,
+      "nome": "Serra do Navio",
+      "slug": "serra-do-navio",
+      "capital": false,
+      "latitude": 0.901357,
+      "longitude": -52.0036,
+      "siafi_id": "0665",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600709,
+      "nome": "Tartarugalzinho",
+      "slug": "tartarugalzinho",
+      "capital": false,
+      "latitude": 1.50652,
+      "longitude": -50.9087,
+      "siafi_id": "0617",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    },
+    {
+      "codigo_ibge": 1600808,
+      "nome": "Vitória do Jari",
+      "slug": "vitoria-do-jari",
+      "capital": false,
+      "latitude": -0.938,
+      "longitude": -52.424,
+      "siafi_id": "0070",
+      "ddd": 96,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 16,
+      "uf": "AP",
+      "estado": "Amapá",
+      "estado_slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte"
+    }
+  ],
+  "meta": {
+    "title": "Municípios de Amapá (AP) — 16 municípios - Download gratuito",
+    "description": "Lista dos 16 municípios do estado de Amapá (AP), região Norte, segundo a divisão político-administrativa do IBGE. Cada município inclui código IBGE, nome, latitude/longitude, sinalização de capital, DDD ANATEL e fuso horário IANA. Cobertura SEO para queries do tipo 'cidades de amapá', 'municípios de amapá', e 'lista de cidades AP'. Contém 16 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Municípios de Amapá (AP) — 16 municípios | ListBase",
+    "seo_description": "Baixar Municípios de Amapá (AP) — 16 municípios — 16 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 16 registros / 15 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

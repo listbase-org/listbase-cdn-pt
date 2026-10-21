@@ -1,0 +1,187 @@
+{
+  "id": "pt-unidades-medida-energy",
+  "name": "Unidades de medida — categoria 'energy' (14)",
+  "title": "Unidades de medida — categoria 'energy' (14)",
+  "description": "Unidades de medida da categoria 'energy' do locale pt do CLDR, com nomes em português.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "categoria": "energy",
+      "nome": "becqueréis",
+      "abreviacao": "Bq",
+      "estreito": "Bq",
+      "padrao": "{0} becqueréis"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "categoria": "energy",
+      "nome": "unidades térmicas britânicas",
+      "abreviacao": "BTU",
+      "estreito": "BTU",
+      "padrao": "{0} unidades térmicas britânicas"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "categoria": "energy",
+      "nome": "BTU-IT",
+      "abreviacao": "BTU-IT",
+      "estreito": "BTU-IT",
+      "padrao": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "categoria": "energy",
+      "nome": "calorias",
+      "abreviacao": "cal",
+      "estreito": "cal",
+      "padrao": "{0} calorias"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "categoria": "energy",
+      "nome": "calorias [IT]",
+      "abreviacao": "cal-IT",
+      "estreito": "cal-IT",
+      "padrao": "{0} calorias [IT]"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "categoria": "energy",
+      "nome": "elétrons-volt",
+      "abreviacao": "elétron-volt",
+      "estreito": "eV",
+      "padrao": "{0} elétrons-volt"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "categoria": "energy",
+      "nome": "calorias",
+      "abreviacao": "cal",
+      "estreito": "cal",
+      "padrao": "{0} calorias"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "categoria": "energy",
+      "nome": "grays",
+      "abreviacao": "Gy",
+      "estreito": "Gy",
+      "padrao": "{0} grays"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "categoria": "energy",
+      "nome": "joules",
+      "abreviacao": "joules",
+      "estreito": "joule",
+      "padrao": "{0} joules"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "categoria": "energy",
+      "nome": "quilocalorias",
+      "abreviacao": "kcal",
+      "estreito": "kcal",
+      "padrao": "{0} quilocalorias"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "categoria": "energy",
+      "nome": "quilojoules",
+      "abreviacao": "quilojoule",
+      "estreito": "kJ",
+      "padrao": "{0} quilojoules"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "categoria": "energy",
+      "nome": "quilowatts-hora",
+      "abreviacao": "kW-hora",
+      "estreito": "kWh",
+      "padrao": "{0} quilowatts-hora"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "categoria": "energy",
+      "nome": "sieverts",
+      "abreviacao": "Sv",
+      "estreito": "Sv",
+      "padrao": "{0} sieverts"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "categoria": "energy",
+      "nome": "unidades térmicas norte-americanas",
+      "abreviacao": "thm EUA",
+      "estreito": "thm EUA",
+      "padrao": "{0} unidades térmicas norte-americanas"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'energy' (14) - Download gratuito",
+    "description": "Unidades de medida da categoria 'energy' do locale pt do CLDR, com nomes em português. Contém 14 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'energy' (14) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'energy' (14) — 14 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 14 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

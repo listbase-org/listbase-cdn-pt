@@ -1,0 +1,211 @@
+{
+  "id": "pt-canais-tv-series",
+  "name": "Canais de televisão de séries de Portugal",
+  "title": "Canais de televisão de séries de Portugal",
+  "description": "Canais de televisão portugueses da categoria «series» (de séries) — 8 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AMCCrime.pt",
+      "name": "AMC Crime",
+      "alt_names": "Crimen + Investigaçao",
+      "network": "AMC Networks International Southern Europe",
+      "owners": "AMC Networks Inc.",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://amccrime.pt/"
+    },
+    {
+      "id": 2,
+      "channel_id": "FoxCrime.pt",
+      "name": "Fox Crime",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2007-09-26",
+      "closed": "2024-02-07",
+      "replaced_by": "StarCrime.pt",
+      "website": "http://foxcrime.canais-fox.pt/"
+    },
+    {
+      "id": 3,
+      "channel_id": "FoxLife.pt",
+      "name": "Fox Life",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "2024-02-07",
+      "replaced_by": "StarLife.pt",
+      "website": "http://foxlife.canais-fox.pt/"
+    },
+    {
+      "id": 4,
+      "channel_id": "MorangoscomAcucar.pt",
+      "name": "Morangos com Acucar",
+      "alt_names": "Morangos com Açúcar",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvi.iol.pt/morangoscomacucar/"
+    },
+    {
+      "id": 5,
+      "channel_id": "SICNovelas.pt",
+      "name": "SIC Novelas",
+      "alt_names": "",
+      "network": "",
+      "owners": "Impresa",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2023-03-14",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 6,
+      "channel_id": "TLNNetwork.pt",
+      "name": "TLN Network",
+      "alt_names": "",
+      "network": "Televisa Networks",
+      "owners": "",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://afiliados.televisa-networks.com/programacion/tlnetwork/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TVIFiccao.pt",
+      "name": "TVI Ficcao",
+      "alt_names": "TVI Ficção",
+      "network": "",
+      "owners": "Media Capital",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2012-10-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tviplayer.iol.pt/direto/TVI_FICCAO"
+    },
+    {
+      "id": 8,
+      "channel_id": "VinTV.pt",
+      "name": "VinTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "NOS SGPS S.A., AMC Networks Inc.",
+      "country": "PT",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2026-05-04",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://vintv.pt/"
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão de séries de Portugal - Download gratuito",
+    "description": "Canais de televisão portugueses da categoria «series» (de séries) — 8 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 8 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão de séries de Portugal | ListBase",
+    "seo_description": "Baixar Canais de televisão de séries de Portugal — 8 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 8 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

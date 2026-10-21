@@ -1,0 +1,621 @@
+{
+  "id": "pt-br-amazonas-feriados-estaduais",
+  "name": "Feriados Estaduais de Amazonas (AM) — Brasil (2010–2026)",
+  "title": "Feriados Estaduais de Amazonas (AM) — Brasil (2010–2026)",
+  "description": "Feriados estaduais do estado brasileiro de Amazonas (AM) de 2010 a 2026, com nome, data e descrição. Subconjunto por unidade federativa do cadastro nacional pt-br-feriados-estaduais (partição pela coluna nativa `uf`).",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "codigo_ibge",
+      "label": "Codigo Ibge",
+      "type": "string"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "data_iso",
+      "label": "Data Iso",
+      "type": "date"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "05/09/2010",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2010",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2010",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2011",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2011",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2011",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2012",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2012",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2012",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2013",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2013",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2013",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2014",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2014",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2014",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2015",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2015",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2015",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2016",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2016",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2016",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2017",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2017",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2017",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2018",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2018",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2018",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2019",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2019",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2019",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2020",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2020",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2020",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2021",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2021",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2021",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2022",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2022",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2022",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2023",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2023",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2023",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2024",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2024",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2024",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2025",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "20/11/2025",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-11-20",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2025",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-12-08",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "05/09/2026",
+      "nome": "Aniversário do Amazonas",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia da elevação do Amazonas à categoria de província.",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-09-05",
+      "estado": "Amazonas"
+    },
+    {
+      "data": "08/12/2026",
+      "nome": "Dia de Nossa Senhora da Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "",
+      "uf": "AM",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-12-08",
+      "estado": "Amazonas"
+    }
+  ],
+  "meta": {
+    "title": "Feriados Estaduais de Amazonas (AM) — Brasil (2010–2026) - Download gratuito",
+    "description": "Feriados estaduais do estado brasileiro de Amazonas (AM) de 2010 a 2026, com nome, data e descrição. Subconjunto por unidade federativa do cadastro nacional pt-br-feriados-estaduais (partição pela coluna nativa `uf`). Contém 50 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Feriados Estaduais de Amazonas (AM) — Brasil (2010–2026) | ListBase",
+    "seo_description": "Baixar Feriados Estaduais de Amazonas (AM) — Brasil (2010–2026) — 50 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 50 registros / 9 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

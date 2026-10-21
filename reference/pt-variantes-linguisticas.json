@@ -1,0 +1,246 @@
+{
+  "id": "pt-variantes-linguisticas",
+  "name": "Variantes linguísticas — nomes em português (CLDR)",
+  "title": "Variantes linguísticas — nomes em português (CLDR)",
+  "description": "Códigos de variante de idioma BCP 47 e seus nomes em português do locale pt do CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1901",
+      "nome": "ortografia alemã tradicional"
+    },
+    {
+      "id": 2,
+      "code": "1994",
+      "nome": "ortografia resiana padronizada"
+    },
+    {
+      "id": 3,
+      "code": "1996",
+      "nome": "ortografia alemã de 1996"
+    },
+    {
+      "id": 4,
+      "code": "1606NICT",
+      "nome": "francês antigo de 1606"
+    },
+    {
+      "id": 5,
+      "code": "1694ACAD",
+      "nome": "francês da idade moderna"
+    },
+    {
+      "id": 6,
+      "code": "1959ACAD",
+      "nome": "acadêmico"
+    },
+    {
+      "id": 7,
+      "code": "ABL1943",
+      "nome": "Formulário Ortográfico de 1943"
+    },
+    {
+      "id": 8,
+      "code": "AO1990",
+      "nome": "Acordo Ortográfico da Língua Portuguesa de 1990"
+    },
+    {
+      "id": 9,
+      "code": "AREVELA",
+      "nome": "armênio oriental"
+    },
+    {
+      "id": 10,
+      "code": "AREVMDA",
+      "nome": "armênio ocidental"
+    },
+    {
+      "id": 11,
+      "code": "BAKU1926",
+      "nome": "alfabeto latino turco unificado"
+    },
+    {
+      "id": 12,
+      "code": "BISCAYAN",
+      "nome": "biscainho"
+    },
+    {
+      "id": 13,
+      "code": "BISKE",
+      "nome": "dialeto san giorgio/bila"
+    },
+    {
+      "id": 14,
+      "code": "BOONT",
+      "nome": "boontling"
+    },
+    {
+      "id": 15,
+      "code": "COLB1945",
+      "nome": "Convenção Ortográfica Luso-Brasileira de 1945"
+    },
+    {
+      "id": 16,
+      "code": "FONIPA",
+      "nome": "fonética do Alfabeto Fonético Internacional"
+    },
+    {
+      "id": 17,
+      "code": "FONUPA",
+      "nome": "fonética do Alfabeto Fonético Urálico"
+    },
+    {
+      "id": 18,
+      "code": "HEPBURN",
+      "nome": "romanização hepburn"
+    },
+    {
+      "id": 19,
+      "code": "HOGNORSK",
+      "nome": "alto noruego"
+    },
+    {
+      "id": 20,
+      "code": "KKCOR",
+      "nome": "ortografia comum"
+    },
+    {
+      "id": 21,
+      "code": "LIPAW",
+      "nome": "dialeto lipovaz de Resian"
+    },
+    {
+      "id": 22,
+      "code": "MONOTON",
+      "nome": "monotônico"
+    },
+    {
+      "id": 23,
+      "code": "NDYUKA",
+      "nome": "dialeto ndyuka"
+    },
+    {
+      "id": 24,
+      "code": "NEDIS",
+      "nome": "dialeto natisone"
+    },
+    {
+      "id": 25,
+      "code": "NJIVA",
+      "nome": "dialeto gniva/njiva"
+    },
+    {
+      "id": 26,
+      "code": "OSOJS",
+      "nome": "dialeto oseacco/osojane"
+    },
+    {
+      "id": 27,
+      "code": "PAMAKA",
+      "nome": "dialeto pamaka"
+    },
+    {
+      "id": 28,
+      "code": "PINYIN",
+      "nome": "romanização Pinyin"
+    },
+    {
+      "id": 29,
+      "code": "POLYTON",
+      "nome": "politônico"
+    },
+    {
+      "id": 30,
+      "code": "POSIX",
+      "nome": "computador"
+    },
+    {
+      "id": 31,
+      "code": "REVISED",
+      "nome": "ortografia revisada"
+    },
+    {
+      "id": 32,
+      "code": "ROZAJ",
+      "nome": "resiano"
+    },
+    {
+      "id": 33,
+      "code": "SAAHO",
+      "nome": "saho"
+    },
+    {
+      "id": 34,
+      "code": "SCOTLAND",
+      "nome": "inglês padrão escocês"
+    },
+    {
+      "id": 35,
+      "code": "SCOUSE",
+      "nome": "scouse"
+    },
+    {
+      "id": 36,
+      "code": "SOLBA",
+      "nome": "dialeto stolvizza/solbica"
+    },
+    {
+      "id": 37,
+      "code": "TARASK",
+      "nome": "ortografia taraskievica"
+    },
+    {
+      "id": 38,
+      "code": "UCCOR",
+      "nome": "ortografia unificada"
+    },
+    {
+      "id": 39,
+      "code": "UCRCOR",
+      "nome": "ortografia revisada e unificada"
+    },
+    {
+      "id": 40,
+      "code": "VALENCIA",
+      "nome": "valenciano"
+    },
+    {
+      "id": 41,
+      "code": "WADEGILE",
+      "nome": "romanização Wade-Giles"
+    }
+  ],
+  "meta": {
+    "title": "Variantes linguísticas — nomes em português (CLDR) - Download gratuito",
+    "description": "Códigos de variante de idioma BCP 47 e seus nomes em português do locale pt do CLDR. Contém 41 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Variantes linguísticas — nomes em português (CLDR) | ListBase",
+    "seo_description": "Baixar Variantes linguísticas — nomes em português (CLDR) — 41 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 41 registros / 3 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

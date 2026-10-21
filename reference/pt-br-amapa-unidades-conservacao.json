@@ -1,0 +1,232 @@
+{
+  "id": "pt-br-amapa-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Amapá (AP)",
+  "title": "Unidades de Conservação Federais — Amapá (AP)",
+  "description": "7 unidades de conservação federais (ICMBio) com território em Amapá (AP), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 63,
+      "nome": "ESTAÇÃO ECOLÓGICA DE MARACÁ-JIPIOCA",
+      "codigo_cnuc": "0000.00.0058",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "AP",
+      "uf_abrangencia": "AP",
+      "estados": "Amapá",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 58756.9503,
+      "ato_legal": "DEC 86.061 de 02/06/1981",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 70,
+      "nome": "ESTAÇÃO ECOLÓGICA DO JARI",
+      "codigo_cnuc": "0000.00.0067",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "PA, AP",
+      "uf_abrangencia": "PA/AP",
+      "estados": "Pará, Amapá",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 231082.0936,
+      "ato_legal": "DEC 87.092, de 12/04/1982; DEC 89.440, de 13/03/1984",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 128,
+      "nome": "FLORESTA NACIONAL DO AMAPÁ",
+      "codigo_cnuc": "0000.00.0113",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "AP",
+      "uf_abrangencia": "AP",
+      "estados": "Amapá",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 460359.1432,
+      "ato_legal": "DEC 97.630, de 10/04/1989",
+      "nucleo_gestao": "ICMBio Amapá Central",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 200,
+      "nome": "PARQUE NACIONAL DO CABO ORANGE",
+      "codigo_cnuc": "0000.00.0169",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "AP",
+      "uf_abrangencia": "AP",
+      "estados": "Amapá",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 657327.7744,
+      "ato_legal": "DEC 84.913, de 15/07/1980",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 225,
+      "nome": "PARQUE NACIONAL MONTANHAS DO TUMUCUMAQUE",
+      "codigo_cnuc": "0000.00.0187",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "AP",
+      "uf_abrangencia": "AP",
+      "estados": "Amapá",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 3865172.4822,
+      "ato_legal": "DEC S/N, de 22/08/2002",
+      "nucleo_gestao": "ICMBio Amapá Central",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 261,
+      "nome": "RESERVA BIOLÓGICA DO LAGO PIRATUBA",
+      "codigo_cnuc": "0000.00.0209",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "AP",
+      "uf_abrangencia": "AP",
+      "estados": "Amapá",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 392474.8489,
+      "ato_legal": "DEC 84.914 de 16/07/1980; DEC 89.932 de 10/07/1984",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 302,
+      "nome": "RESERVA EXTRATIVISTA DO RIO CAJARI",
+      "codigo_cnuc": "0000.00.1518",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "AP",
+      "uf_abrangencia": "AP",
+      "estados": "Amapá",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 532404.5105,
+      "ato_legal": "DEC 99.145, de 12/03/1990",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Amapá (AP) - Download gratuito",
+    "description": "7 unidades de conservação federais (ICMBio) com território em Amapá (AP), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 7 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Amapá (AP) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Amapá (AP) — 7 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 7 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

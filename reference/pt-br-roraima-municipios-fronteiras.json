@@ -1,0 +1,316 @@
+{
+  "id": "pt-br-roraima-municipios-fronteiras",
+  "name": "Fronteiras dos Municípios — Roraima (RR)",
+  "title": "Fronteiras dos Municípios — Roraima (RR)",
+  "description": "15 municípios do estado de Roraima (RR) com nome, slug, UF, bounding box (min/max lat/lng), centroide e fronteiras geográficas em coordenadas WGS-84. Fronteiras provenientes do IBGE (malhas digitais 2010, escala 1:250.000) simplificadas via mapshaper pelo upstream eduardo-veras/kml-brasil.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_upper",
+      "label": "Name Upper",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "bbox_min_lat",
+      "label": "Bbox Min Lat",
+      "type": "number"
+    },
+    {
+      "key": "bbox_max_lat",
+      "label": "Bbox Max Lat",
+      "type": "number"
+    },
+    {
+      "key": "bbox_min_lng",
+      "label": "Bbox Min Lng",
+      "type": "number"
+    },
+    {
+      "key": "bbox_max_lng",
+      "label": "Bbox Max Lng",
+      "type": "number"
+    },
+    {
+      "key": "centroid_lat",
+      "label": "Centroid Lat",
+      "type": "number"
+    },
+    {
+      "key": "centroid_lng",
+      "label": "Centroid Lng",
+      "type": "number"
+    },
+    {
+      "key": "border_point_count",
+      "label": "Border Point Count",
+      "type": "number"
+    },
+    {
+      "key": "borders",
+      "label": "Borders",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alto Alegre",
+      "name_upper": "ALTO ALEGRE",
+      "slug": "alto-alegre",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 2.466565886806279,
+      "bbox_max_lat": 3.742123884809473,
+      "bbox_min_lng": -64.2399678162617,
+      "bbox_max_lng": -61.00051145194192,
+      "centroid_lat": 3.091441428088309,
+      "centroid_lng": -62.7614588825919,
+      "border_point_count": 102,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Amajari",
+      "name_upper": "AMAJARI",
+      "slug": "amajari",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 3.1257483035413998,
+      "bbox_max_lat": 4.325385460670532,
+      "bbox_min_lng": -64.8216380966208,
+      "bbox_max_lng": -60.60640094194986,
+      "centroid_lat": 3.756077355424947,
+      "centroid_lng": -62.8166902167194,
+      "border_point_count": 140,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Boa Vista",
+      "name_upper": "BOA VISTA",
+      "slug": "boa-vista",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 2.4376819469643465,
+      "bbox_max_lat": 3.581346366541652,
+      "bbox_min_lng": -61.00053690635309,
+      "bbox_max_lng": -60.28578375891328,
+      "centroid_lat": 3.1424651830289667,
+      "centroid_lng": -60.62126112755253,
+      "border_point_count": 28,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Bonfim",
+      "name_upper": "BONFIM",
+      "slug": "bonfim",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 1.9996340160969908,
+      "bbox_max_lat": 3.5862892842231417,
+      "bbox_min_lng": -60.568285946938886,
+      "bbox_max_lng": -59.719387598358935,
+      "centroid_lat": 2.7833510972393936,
+      "centroid_lng": -60.089671331278886,
+      "border_point_count": 50,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Cantá",
+      "name_upper": "CANTÁ",
+      "slug": "canta",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 1.7230010726414093,
+      "bbox_max_lat": 2.8849078208393166,
+      "bbox_min_lng": -61.05299230095386,
+      "bbox_max_lng": -60.15663900778395,
+      "centroid_lat": 2.2343288511342547,
+      "centroid_lng": -60.52181334244812,
+      "border_point_count": 44,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Caracaraí",
+      "name_upper": "CARACARAÍ",
+      "slug": "caracarai",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": -1.4010595774374792,
+      "bbox_max_lat": 2.02563467549993,
+      "bbox_min_lng": -62.73634932416195,
+      "bbox_max_lng": -59.41271990839704,
+      "centroid_lat": 0.7289129128816598,
+      "centroid_lng": -61.34213943274777,
+      "border_point_count": 142,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Caroebe",
+      "name_upper": "CAROEBE",
+      "slug": "caroebe",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 0.2635102790761721,
+      "bbox_max_lat": 1.6240738974924511,
+      "bbox_min_lng": -59.81772502868711,
+      "bbox_max_lng": -58.895497926388146,
+      "centroid_lat": 1.0600852542947372,
+      "centroid_lng": -59.47671815664486,
+      "border_point_count": 33,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Iracema",
+      "name_upper": "IRACEMA",
+      "slug": "iracema",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 1.529629589134288,
+      "bbox_max_lat": 2.829900975849398,
+      "bbox_min_lng": -63.978051599102,
+      "bbox_max_lng": -60.938266228203815,
+      "centroid_lat": 2.248966134202002,
+      "centroid_lng": -62.56359385413969,
+      "border_point_count": 81,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Mucajaí",
+      "name_upper": "MUCAJAÍ",
+      "slug": "mucajai",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 2.1263827529617174,
+      "bbox_max_lat": 2.947399180927505,
+      "bbox_min_lng": -63.09644274933339,
+      "bbox_max_lng": -60.836616959904745,
+      "centroid_lat": 2.534635811113197,
+      "centroid_lng": -61.90574690637846,
+      "border_point_count": 62,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Normandia",
+      "name_upper": "NORMANDIA",
+      "slug": "normandia",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 3.369070654287327,
+      "bbox_max_lat": 4.303541344557459,
+      "bbox_min_lng": -60.53971125966689,
+      "bbox_max_lng": -59.51633414770271,
+      "centroid_lat": 3.881364763285441,
+      "centroid_lng": -60.05161824889033,
+      "border_point_count": 41,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Pacaraima",
+      "name_upper": "PACARAIMA",
+      "slug": "pacaraima",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 3.4484557466354318,
+      "bbox_max_lat": 4.884623333400157,
+      "bbox_min_lng": -61.52106749866607,
+      "bbox_max_lng": -60.41023470097065,
+      "centroid_lat": 4.199069938926589,
+      "centroid_lng": -60.81880517353656,
+      "border_point_count": 54,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Rorainópolis",
+      "name_upper": "RORAINÓPOLIS",
+      "slug": "rorainopolis",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": -1.5806331063327548,
+      "bbox_max_lat": 1.1424120183999662,
+      "bbox_min_lng": -61.88968147412072,
+      "bbox_max_lng": -60.03669516654867,
+      "centroid_lat": -0.1224562142753428,
+      "centroid_lng": -61.009413882732325,
+      "border_point_count": 107,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "São João da Baliza",
+      "name_upper": "SÃO JOÃO DA BALIZA",
+      "slug": "sao-joao-da-baliza",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 0.2635403110365928,
+      "bbox_max_lat": 1.2760274019431108,
+      "bbox_min_lng": -60.15300685108525,
+      "bbox_max_lng": -59.43355367216418,
+      "centroid_lat": 0.6879637201220488,
+      "centroid_lng": -59.81529412491354,
+      "border_point_count": 29,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "São Luiz",
+      "name_upper": "SÃO LUIZ",
+      "slug": "sao-luiz",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 0.5635210613479558,
+      "bbox_max_lat": 1.1354681990981703,
+      "bbox_min_lng": -60.40267277402927,
+      "bbox_max_lng": -59.98106369383436,
+      "centroid_lat": 0.8535476446712694,
+      "centroid_lng": -60.18219686155376,
+      "border_point_count": 19,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Uiramutã",
+      "name_upper": "UIRAMUTÃ",
+      "slug": "uiramuta",
+      "uf": "RR",
+      "state": "Roraima",
+      "bbox_min_lat": 4.16048539078821,
+      "bbox_max_lat": 5.271841076804321,
+      "bbox_min_lng": -60.697177187277305,
+      "bbox_max_lng": -59.676058517586455,
+      "centroid_lat": 4.62774130918471,
+      "centroid_lng": -60.20550663209595,
+      "border_point_count": 51,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    }
+  ],
+  "meta": {
+    "title": "Fronteiras dos Municípios — Roraima (RR) - Download gratuito",
+    "description": "15 municípios do estado de Roraima (RR) com nome, slug, UF, bounding box (min/max lat/lng), centroide e fronteiras geográficas em coordenadas WGS-84. Fronteiras provenientes do IBGE (malhas digitais 2010, escala 1:250.000) simplificadas via mapshaper pelo upstream eduardo-veras/kml-brasil. Contém 15 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fronteiras dos Municípios — Roraima (RR) | ListBase",
+    "seo_description": "Baixar Fronteiras dos Municípios — Roraima (RR) — 15 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 15 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

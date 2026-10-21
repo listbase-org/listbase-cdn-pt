@@ -1,0 +1,120 @@
+{
+  "id": "pt-fusos-horarios-atlantic",
+  "name": "Fusos horários — Atlantic (8)",
+  "title": "Fusos horários — Atlantic (8)",
+  "description": "Fusos horários cujo identificador IANA começa com 'Atlantic/', com nomes em português.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "nome_padrao",
+      "label": "Nome Padrao",
+      "type": "string"
+    },
+    {
+      "key": "nome_verao",
+      "label": "Nome Verao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "regiao": "Atlantic",
+      "cidade": "Açores",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Bermuda",
+      "regiao": "Atlantic",
+      "cidade": "Bermudas",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Canary",
+      "regiao": "Atlantic",
+      "cidade": "Canárias",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Cape_Verde",
+      "regiao": "Atlantic",
+      "cidade": "Cabo Verde",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/Faeroe",
+      "regiao": "Atlantic",
+      "cidade": "Ilhas Faroé",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/Reykjavik",
+      "regiao": "Atlantic",
+      "cidade": "Reykjavík",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Atlantic/South_Georgia",
+      "regiao": "Atlantic",
+      "cidade": "Geórgia do Sul",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Atlantic/St_Helena",
+      "regiao": "Atlantic",
+      "cidade": "Santa Helena",
+      "nome_padrao": "",
+      "nome_verao": ""
+    }
+  ],
+  "meta": {
+    "title": "Fusos horários — Atlantic (8) - Download gratuito",
+    "description": "Fusos horários cujo identificador IANA começa com 'Atlantic/', com nomes em português. Contém 8 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fusos horários — Atlantic (8) | ListBase",
+    "seo_description": "Baixar Fusos horários — Atlantic (8) — 8 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 8 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

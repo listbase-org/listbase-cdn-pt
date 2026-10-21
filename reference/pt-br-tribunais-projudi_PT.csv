@@ -1,0 +1,4 @@
+﻿"Codigo","Tribunal","Nome","Ramo","Uf","Ufs","Regiao","Instancia","Instancia Nome","Sistema","Sistema Nome","Url","Url Portal","Sistema Anterior","Url Anterior","Observacao","Arquivo Fonte"
+"TJBA_1G","TJBA","Tribunal de Justiça — Bahia","Justiça Estadual","BA","BA","","1g","1º grau","projudi","Projudi","https://projudi.tjba.jus.br/projudi/","","","","Projudi integrated 1st and 2nd degree - single login page","tj.json"
+"TJGO_1G","TJGO","Tribunal de Justiça — Goiás","Justiça Estadual","GO","GO","","1g","1º grau","projudi","Projudi","https://projudi.tjgo.jus.br/","","","","Projudi integrated 1st and 2nd degree - single login page","tj.json"
+"TJPR_1G","TJPR","Tribunal de Justiça — Paraná","Justiça Estadual","PR","PR","","1g","1º grau","projudi","Projudi","https://projudi.tjpr.jus.br/projudi/","","","","Projudi integrated 1st and 2nd degree - single login page","tj.json"

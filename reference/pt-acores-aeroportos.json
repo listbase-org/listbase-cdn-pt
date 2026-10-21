@@ -1,0 +1,376 @@
+{
+  "id": "pt-acores-aeroportos",
+  "name": "Aeroportos de Açores (Portugal) — 10 registos",
+  "title": "Aeroportos de Açores (Portugal) — 10 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Açores (Região Autónoma, PT-20), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 4439,
+      "ident": "LPAZ",
+      "type": "medium_airport",
+      "name": "Santa Maria Airport",
+      "latitude_deg": 36.97140121459961,
+      "longitude_deg": -25.17060089111328,
+      "elevation_ft": 308,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Vila do Porto",
+      "scheduled_service": "yes",
+      "icao_code": "LPAZ",
+      "iata_code": "SMA",
+      "gps_code": "LPAZ",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Maria_Airport",
+      "keywords": "",
+      "parent_index": 3280
+    },
+    {
+      "id": 29487,
+      "ident": "LPCR",
+      "type": "small_airport",
+      "name": "Corvo Airport",
+      "latitude_deg": 39.671501,
+      "longitude_deg": -31.1136,
+      "elevation_ft": 62,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Corvo",
+      "scheduled_service": "yes",
+      "icao_code": "LPCR",
+      "iata_code": "CVU",
+      "gps_code": "LPCR",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Corvo_Airport",
+      "keywords": "",
+      "parent_index": 3292
+    },
+    {
+      "id": 4447,
+      "ident": "LPFL",
+      "type": "medium_airport",
+      "name": "Flores Airport",
+      "latitude_deg": 39.455299377441406,
+      "longitude_deg": -31.131399154663086,
+      "elevation_ft": 112,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Santa Cruz das Flores",
+      "scheduled_service": "yes",
+      "icao_code": "LPFL",
+      "iata_code": "FLW",
+      "gps_code": "LPFL",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Flores_Airport",
+      "keywords": "",
+      "parent_index": 3298
+    },
+    {
+      "id": 4449,
+      "ident": "LPGR",
+      "type": "medium_airport",
+      "name": "Graciosa Airport",
+      "latitude_deg": 39.092201232910156,
+      "longitude_deg": -28.029800415039062,
+      "elevation_ft": 86,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Santa Cruz da Graciosa",
+      "scheduled_service": "yes",
+      "icao_code": "LPGR",
+      "iata_code": "GRW",
+      "gps_code": "LPGR",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Graciosa_Airport",
+      "keywords": "",
+      "parent_index": 3301
+    },
+    {
+      "id": 4450,
+      "ident": "LPHR",
+      "type": "medium_airport",
+      "name": "Horta Airport",
+      "latitude_deg": 38.519901275634766,
+      "longitude_deg": -28.715900421142578,
+      "elevation_ft": 118,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Horta",
+      "scheduled_service": "yes",
+      "icao_code": "LPHR",
+      "iata_code": "HOR",
+      "gps_code": "LPHR",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Horta_Airport",
+      "keywords": "",
+      "parent_index": 3304
+    },
+    {
+      "id": 4451,
+      "ident": "LPLA",
+      "type": "medium_airport",
+      "name": "Lajes Airport",
+      "latitude_deg": 38.761799,
+      "longitude_deg": -27.090799,
+      "elevation_ft": 180,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Praia da Vitória",
+      "scheduled_service": "yes",
+      "icao_code": "LPLA",
+      "iata_code": "TER",
+      "gps_code": "LPLA",
+      "local_code": "",
+      "home_link": "http://aerogarelajes.azores.gov.pt",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Lajes_Field",
+      "keywords": "Terceira Island",
+      "parent_index": 3308
+    },
+    {
+      "id": 4456,
+      "ident": "LPPD",
+      "type": "large_airport",
+      "name": "João Paulo II Airport",
+      "latitude_deg": 37.7411994934,
+      "longitude_deg": -25.6979007721,
+      "elevation_ft": 259,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Ponta Delgada",
+      "scheduled_service": "yes",
+      "icao_code": "LPPD",
+      "iata_code": "PDL",
+      "gps_code": "LPPD",
+      "local_code": "",
+      "home_link": "http://www.ana.pt/en-US/Aeroportos/acores/PontaDelgada/Pages/Homepage-PontaDelgada.aspx",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Paulo_II_Airport",
+      "keywords": "",
+      "parent_index": 3326
+    },
+    {
+      "id": 4457,
+      "ident": "LPPI",
+      "type": "medium_airport",
+      "name": "Pico Airport",
+      "latitude_deg": 38.554298,
+      "longitude_deg": -28.441299,
+      "elevation_ft": 109,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Pico Island",
+      "scheduled_service": "yes",
+      "icao_code": "LPPI",
+      "iata_code": "PIX",
+      "gps_code": "LPPI",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Pico_Airport",
+      "keywords": "",
+      "parent_index": 3327
+    },
+    {
+      "id": 4462,
+      "ident": "LPSJ",
+      "type": "medium_airport",
+      "name": "São Jorge Airport",
+      "latitude_deg": 38.665501,
+      "longitude_deg": -28.1758,
+      "elevation_ft": 311,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Velas",
+      "scheduled_service": "yes",
+      "icao_code": "LPSJ",
+      "iata_code": "SJZ",
+      "gps_code": "LPSJ",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Airport",
+      "keywords": "",
+      "parent_index": 3335
+    },
+    {
+      "id": 43779,
+      "ident": "PT-0011",
+      "type": "heliport",
+      "name": "Hospital do Divino Espirito Santo Heliport",
+      "latitude_deg": 37.75285,
+      "longitude_deg": -25.676204,
+      "elevation_ft": 305,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-20",
+      "region_local_code": "20",
+      "region_name": "Autonomous Region of Azores",
+      "municipality": "Ponta Delgada",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPES",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3360
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Açores (Portugal) — 10 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Açores (Região Autónoma, PT-20), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 10 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Açores (Portugal) — 10 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Açores (Portugal) — 10 registos — 10 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 10 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "id": "pt-br-tribunais-e-saj",
+  "name": "Tribunais que usam e-SAJ",
+  "title": "Tribunais que usam e-SAJ",
+  "description": "12 pontos de acesso de tribunais brasileiros que operam o sistema e-SAJ, com instância e URL. Recorte de pt-br-tribunais-sistemas-processo-eletronico.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "codigo",
+      "label": "Codigo",
+      "type": "string"
+    },
+    {
+      "key": "tribunal",
+      "label": "Tribunal",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "ramo",
+      "label": "Ramo",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "instancia",
+      "label": "Instancia",
+      "type": "string"
+    },
+    {
+      "key": "instancia_nome",
+      "label": "Instancia Nome",
+      "type": "string"
+    },
+    {
+      "key": "sistema",
+      "label": "Sistema",
+      "type": "string"
+    },
+    {
+      "key": "sistema_nome",
+      "label": "Sistema Nome",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "url_portal",
+      "label": "Url Portal",
+      "type": "string"
+    },
+    {
+      "key": "sistema_anterior",
+      "label": "Sistema Anterior",
+      "type": "string"
+    },
+    {
+      "key": "url_anterior",
+      "label": "Url Anterior",
+      "type": "string"
+    },
+    {
+      "key": "observacao",
+      "label": "Observacao",
+      "type": "string"
+    },
+    {
+      "key": "arquivo_fonte",
+      "label": "Arquivo Fonte",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "codigo": "TJAC_1G",
+      "tribunal": "TJAC",
+      "nome": "Tribunal de Justiça — Acre",
+      "ramo": "Justiça Estadual",
+      "uf": "AC",
+      "ufs": "AC",
+      "regiao": "",
+      "instancia": "1g",
+      "instancia_nome": "1º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjac.jus.br/cpopg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJAC_2G",
+      "tribunal": "TJAC",
+      "nome": "Tribunal de Justiça — Acre",
+      "ramo": "Justiça Estadual",
+      "uf": "AC",
+      "ufs": "AC",
+      "regiao": "",
+      "instancia": "2g",
+      "instancia_nome": "2º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjac.jus.br/cposg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJAL_1G",
+      "tribunal": "TJAL",
+      "nome": "Tribunal de Justiça — Alagoas",
+      "ramo": "Justiça Estadual",
+      "uf": "AL",
+      "ufs": "AL",
+      "regiao": "",
+      "instancia": "1g",
+      "instancia_nome": "1º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://www2.tjal.jus.br/cpopg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJAL_2G",
+      "tribunal": "TJAL",
+      "nome": "Tribunal de Justiça — Alagoas",
+      "ramo": "Justiça Estadual",
+      "uf": "AL",
+      "ufs": "AL",
+      "regiao": "",
+      "instancia": "2g",
+      "instancia_nome": "2º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://www2.tjal.jus.br/cposg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJAM_1G",
+      "tribunal": "TJAM",
+      "nome": "Tribunal de Justiça — Amazonas",
+      "ramo": "Justiça Estadual",
+      "uf": "AM",
+      "ufs": "AM",
+      "regiao": "",
+      "instancia": "1g",
+      "instancia_nome": "1º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://consultasaj.tjam.jus.br/cpopg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJAM_2G",
+      "tribunal": "TJAM",
+      "nome": "Tribunal de Justiça — Amazonas",
+      "ramo": "Justiça Estadual",
+      "uf": "AM",
+      "ufs": "AM",
+      "regiao": "",
+      "instancia": "2g",
+      "instancia_nome": "2º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://consultasaj.tjam.jus.br/cposg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJCE_1G",
+      "tribunal": "TJCE",
+      "nome": "Tribunal de Justiça — Ceará",
+      "ramo": "Justiça Estadual",
+      "uf": "CE",
+      "ufs": "CE",
+      "regiao": "",
+      "instancia": "1g",
+      "instancia_nome": "1º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjce.jus.br/cpopg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "pje",
+      "url_anterior": "https://pje.tjce.jus.br/pje1grau/login.seam",
+      "observacao": "TJCE uses e-SAJ, not PJE",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJCE_2G",
+      "tribunal": "TJCE",
+      "nome": "Tribunal de Justiça — Ceará",
+      "ramo": "Justiça Estadual",
+      "uf": "CE",
+      "ufs": "CE",
+      "regiao": "",
+      "instancia": "2g",
+      "instancia_nome": "2º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjce.jus.br/cposg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "pje",
+      "url_anterior": "https://pje.tjce.jus.br/pje2grau/login.seam",
+      "observacao": "TJCE uses e-SAJ, not PJE",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJMS_1G",
+      "tribunal": "TJMS",
+      "nome": "Tribunal de Justiça — Mato Grosso do Sul",
+      "ramo": "Justiça Estadual",
+      "uf": "MS",
+      "ufs": "MS",
+      "regiao": "",
+      "instancia": "1g",
+      "instancia_nome": "1º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjms.jus.br/cpopg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJMS_2G",
+      "tribunal": "TJMS",
+      "nome": "Tribunal de Justiça — Mato Grosso do Sul",
+      "ramo": "Justiça Estadual",
+      "uf": "MS",
+      "ufs": "MS",
+      "regiao": "",
+      "instancia": "2g",
+      "instancia_nome": "2º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjms.jus.br/cposg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJSP_1G",
+      "tribunal": "TJSP",
+      "nome": "Tribunal de Justiça — São Paulo",
+      "ramo": "Justiça Estadual",
+      "uf": "SP",
+      "ufs": "SP",
+      "regiao": "",
+      "instancia": "1g",
+      "instancia_nome": "1º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjsp.jus.br/cpopg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    },
+    {
+      "codigo": "TJSP_2G",
+      "tribunal": "TJSP",
+      "nome": "Tribunal de Justiça — São Paulo",
+      "ramo": "Justiça Estadual",
+      "uf": "SP",
+      "ufs": "SP",
+      "regiao": "",
+      "instancia": "2g",
+      "instancia_nome": "2º grau",
+      "sistema": "esaj",
+      "sistema_nome": "e-SAJ",
+      "url": "https://esaj.tjsp.jus.br/cposg/open.do",
+      "url_portal": "",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "",
+      "arquivo_fonte": "tj.json"
+    }
+  ],
+  "meta": {
+    "title": "Tribunais que usam e-SAJ - Download gratuito",
+    "description": "12 pontos de acesso de tribunais brasileiros que operam o sistema e-SAJ, com instância e URL. Recorte de pt-br-tribunais-sistemas-processo-eletronico. Contém 12 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Tribunais que usam e-SAJ | ListBase",
+    "seo_description": "Baixar Tribunais que usam e-SAJ — 12 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 12 registros / 17 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

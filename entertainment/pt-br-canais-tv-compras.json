@@ -1,0 +1,211 @@
+{
+  "id": "pt-br-canais-tv-compras",
+  "name": "Canais de televisão de televendas do Brasil",
+  "title": "Canais de televisão de televendas do Brasil",
+  "description": "Canais de televisão brasileiros da categoria «shop» (de televendas) — 8 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "1001Noites.br",
+      "name": "1001 Noites",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://1001noites.com.br/"
+    },
+    {
+      "id": 2,
+      "channel_id": "MedalhaoPersa.br",
+      "name": "Medalhao Persa",
+      "alt_names": "Medalhão Persa",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://medalhaopersa.com.br/"
+    },
+    {
+      "id": 3,
+      "channel_id": "Polishop.br",
+      "name": "Polishop",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.polishop.com.br/"
+    },
+    {
+      "id": 4,
+      "channel_id": "Polishop2.br",
+      "name": "Polishop 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.polishop.com.br/"
+    },
+    {
+      "id": 5,
+      "channel_id": "Shoptime.br",
+      "name": "Shoptime",
+      "alt_names": "",
+      "network": "",
+      "owners": "B2W",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.shoptime.com.br/"
+    },
+    {
+      "id": 6,
+      "channel_id": "TVShopTour.br",
+      "name": "TV Shop Tour",
+      "alt_names": "Shop Tour TV",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "1987-01-01",
+      "closed": "2014-01-01",
+      "replaced_by": "TVNovoTempo.br",
+      "website": "https://www.shoptour.com.br/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TVShoptime.br",
+      "name": "TV Shoptime",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.shoptime.com.br/ofertasdatv/?chave=TV_FAIXA_FOOTER"
+    },
+    {
+      "id": 8,
+      "channel_id": "TVTudoBH.br",
+      "name": "TV Tudo BH",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tvtudo.tv.br/"
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão de televendas do Brasil - Download gratuito",
+    "description": "Canais de televisão brasileiros da categoria «shop» (de televendas) — 8 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 8 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão de televendas do Brasil | ListBase",
+    "seo_description": "Baixar Canais de televisão de televendas do Brasil — 8 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 8 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

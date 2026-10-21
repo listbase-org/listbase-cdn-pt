@@ -1,0 +1,128 @@
+{
+  "id": "pt-usinas-nucleares",
+  "name": "Usinas nucleares no Brasil",
+  "title": "Usinas nucleares no Brasil",
+  "description": "Usinas nucleares no Brasil — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Angra-1",
+      "latitude": -23.008,
+      "longitude": -44.457,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 2LP",
+      "construction_start": "1971-05-01",
+      "operational_from": "1985-01-01",
+      "operational_to": "",
+      "capacity_mw": 609,
+      "iaea_id": 24,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Angra-2",
+      "latitude": -23.008,
+      "longitude": -44.457,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "PRE KONVOI",
+      "construction_start": "1976-01-01",
+      "operational_from": "2001-02-01",
+      "operational_to": "",
+      "capacity_mw": 1245,
+      "iaea_id": 25,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Angra-3",
+      "latitude": -23.01,
+      "longitude": -44.47,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "PRE KONVOI",
+      "construction_start": "2010-05-30",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1340,
+      "iaea_id": 26,
+      "data_source": "WNA/IAEA"
+    }
+  ],
+  "meta": {
+    "title": "Usinas nucleares no Brasil - Download gratuito",
+    "description": "Usinas nucleares no Brasil — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Contém 3 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Usinas nucleares no Brasil | ListBase",
+    "seo_description": "Baixar Usinas nucleares no Brasil — 3 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 3 registros / 12 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

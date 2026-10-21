@@ -1,0 +1,166 @@
+{
+  "id": "pt-br-canais-tv-estilo-de-vida",
+  "name": "Canais de televisão de estilo de vida do Brasil",
+  "title": "Canais de televisão de estilo de vida do Brasil",
+  "description": "Canais de televisão brasileiros da categoria «lifestyle» (de estilo de vida) — 5 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "CanalSaude.br",
+      "name": "Canal Saude",
+      "alt_names": "Canal Saúde",
+      "network": "",
+      "owners": "Sistema Unico de Saude",
+      "country": "BR",
+      "categories": "education, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.canalsaude.fiocruz.br/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CanalViva.br",
+      "name": "Canal Viva",
+      "alt_names": "Viva",
+      "network": "",
+      "owners": "Canais Globo",
+      "country": "BR",
+      "categories": "lifestyle, entertainment",
+      "is_nsfw": false,
+      "launched": "2010-05-18",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://globosatplay.globo.com/viva/"
+    },
+    {
+      "id": 3,
+      "channel_id": "FashionTV.br",
+      "name": "FashionTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Michel Adam Lisowski",
+      "country": "BR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2007-08-06",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://boxbrazil.tv.br/fashion-tv/"
+    },
+    {
+      "id": 4,
+      "channel_id": "IdealTV.br",
+      "name": "Ideal TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Abril Radiodifusao",
+      "country": "BR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2007-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 5,
+      "channel_id": "Loupe.br",
+      "name": "Loupe",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão de estilo de vida do Brasil - Download gratuito",
+    "description": "Canais de televisão brasileiros da categoria «lifestyle» (de estilo de vida) — 5 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 5 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão de estilo de vida do Brasil | ListBase",
+    "seo_description": "Baixar Canais de televisão de estilo de vida do Brasil — 5 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 5 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

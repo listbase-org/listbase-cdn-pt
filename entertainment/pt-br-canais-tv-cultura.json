@@ -1,0 +1,301 @@
+{
+  "id": "pt-br-canais-tv-cultura",
+  "name": "Canais de televisão culturais do Brasil",
+  "title": "Canais de televisão culturais do Brasil",
+  "description": "Canais de televisão brasileiros da categoria «culture» (culturais) — 14 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Arte1.br",
+      "name": "Arte 1",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bandeirantes Group",
+      "country": "BR",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://canalarte1.com.br/"
+    },
+    {
+      "id": 2,
+      "channel_id": "Curta.br",
+      "name": "Curta!",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://canalcurta.tv.br/"
+    },
+    {
+      "id": 3,
+      "channel_id": "DunasTV.br",
+      "name": "Dunas TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "culture, travel",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 4,
+      "channel_id": "PortalCultura.br",
+      "name": "Portal Cultura",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.portalcultura.com.br/"
+    },
+    {
+      "id": 5,
+      "channel_id": "STZTV.br",
+      "name": "STZ TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "news, culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://stztv.org.br/"
+    },
+    {
+      "id": 6,
+      "channel_id": "TVBEJoinville.br",
+      "name": "TVBE Joinville",
+      "alt_names": "",
+      "network": "TV Brasil",
+      "owners": "Fundação Cultural e Educacional de Itajaí",
+      "country": "BR",
+      "categories": "culture, education",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tvbejoinville.com.br/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TVERS.br",
+      "name": "TVE RS",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "culture, education",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tve.com.br/"
+    },
+    {
+      "id": 8,
+      "channel_id": "TVIbiapabana.br",
+      "name": "TV Ibiapabana",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "entertainment, culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvibiapaba.com.br/"
+    },
+    {
+      "id": 9,
+      "channel_id": "TVLifeAmerica.br",
+      "name": "TV Life America",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvlifeamerica.com/"
+    },
+    {
+      "id": 10,
+      "channel_id": "TVOmindare.br",
+      "name": "TV Omindare",
+      "alt_names": "TV Omindaré",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tvomindare.tv.br/"
+    },
+    {
+      "id": 11,
+      "channel_id": "TVUFOP.br",
+      "name": "TV UFOP",
+      "alt_names": "",
+      "network": "",
+      "owners": "Universidade Federal de Ouro Preto",
+      "country": "BR",
+      "categories": "public, education, culture",
+      "is_nsfw": false,
+      "launched": "2011-10-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv.ufop.br/"
+    },
+    {
+      "id": 12,
+      "channel_id": "TVdasArtes.br",
+      "name": "TV das Artes",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tvdasartes.com/"
+    },
+    {
+      "id": 13,
+      "channel_id": "UniscTV.br",
+      "name": "Unisc TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "education, culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.unisc.br/pt/unisc-tv/ao-vivo"
+    },
+    {
+      "id": 14,
+      "channel_id": "UnisulTV.br",
+      "name": "Unisul TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "education, culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://unisultv.blogspot.com/"
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão culturais do Brasil - Download gratuito",
+    "description": "Canais de televisão brasileiros da categoria «culture» (culturais) — 14 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 14 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão culturais do Brasil | ListBase",
+    "seo_description": "Baixar Canais de televisão culturais do Brasil — 14 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 14 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

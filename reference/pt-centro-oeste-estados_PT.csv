@@ -1,0 +1,5 @@
+﻿"Codigo Uf","Uf","Nome","Slug","Regiao","Regiao Slug","Latitude","Longitude","Capital Nome","Capital Codigo Ibge","Municipios Count"
+"53","DF","Distrito Federal","distrito-federal","Centro-Oeste","centro-oeste","-15.83","-47.86","Brasília","5300108","1"
+"52","GO","Goiás","goias","Centro-Oeste","centro-oeste","-15.98","-49.86","Goiânia","5208707","246"
+"51","MT","Mato Grosso","mato-grosso","Centro-Oeste","centro-oeste","-12.64","-55.42","Cuiabá","5103403","142"
+"50","MS","Mato Grosso do Sul","mato-grosso-do-sul","Centro-Oeste","centro-oeste","-20.51","-54.54","Campo Grande","5002704","79"

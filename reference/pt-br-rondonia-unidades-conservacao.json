@@ -1,0 +1,358 @@
+{
+  "id": "pt-br-rondonia-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Rondônia (RO)",
+  "title": "Unidades de Conservação Federais — Rondônia (RO)",
+  "description": "14 unidades de conservação federais (ICMBio) com território em Rondônia (RO), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 59,
+      "nome": "ESTAÇÃO ECOLÓGICA DE CUNIÃ",
+      "codigo_cnuc": "0000.00.0053",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "RO, AM",
+      "uf_abrangencia": "RO/AM",
+      "estados": "Rondônia, Amazonas",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 182601.2877,
+      "ato_legal": "DEC S/N de 27/09/2001; DEC S/N de 21/12/2007; DEC S/N de 13/03/2008; LEI 12.249 de 11/06/2010",
+      "nucleo_gestao": "ICMBio Cuniã-Jacundá",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 104,
+      "nome": "FLORESTA NACIONAL DE JACUNDÁ",
+      "codigo_cnuc": "0000.00.0097",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 220809.2075,
+      "ato_legal": "DEC S/N de 01/12/2004",
+      "nucleo_gestao": "ICMBio Cuniã-Jacundá",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 132,
+      "nome": "FLORESTA NACIONAL DO BOM FUTURO",
+      "codigo_cnuc": "0000.00.0116",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 98340.1037,
+      "ato_legal": "DEC 96.188 de 21/06/1988; LEI 12.249 de 11/06/2010",
+      "nucleo_gestao": "ICMBio Porto Velho",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 138,
+      "nome": "FLORESTA NACIONAL DO JAMARI",
+      "codigo_cnuc": "0000.00.0118",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 226723.7884,
+      "ato_legal": "DEC 90.224, de 25/09/1984",
+      "nucleo_gestao": "ICMBio Porto Velho",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 191,
+      "nome": "PARQUE NACIONAL DE PACAÁS NOVOS",
+      "codigo_cnuc": "0000.00.0163",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 706104.4635,
+      "ato_legal": "DEC 84.019, de 21/09/1979",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 214,
+      "nome": "PARQUE NACIONAL DOS CAMPOS AMAZÔNICOS",
+      "codigo_cnuc": "0000.00.0284",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "RO, MT, AM",
+      "uf_abrangencia": "RO/MT/AM",
+      "estados": "Rondônia, Mato Grosso, Amazonas",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 961326.649,
+      "ato_legal": "DEC S/N, de 21/06/2006; MP 542, de 12/08/2011; LEI 12.678, de 25/06/2012",
+      "nucleo_gestao": "ICMBio Humaitá",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 221,
+      "nome": "PARQUE NACIONAL MAPINGUARI",
+      "codigo_cnuc": "0000.00.1633",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "AM, RO",
+      "uf_abrangencia": "AM/RO",
+      "estados": "Amazonas, Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 1776932.0447,
+      "ato_legal": "DEC S/N de 05/06/2008; LEI 12.249, de 11/06/2010; LEI 12.678, de 25/06/2012",
+      "nucleo_gestao": "ICMBio Porto Velho",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 227,
+      "nome": "PARQUE NACIONAL SERRA DA CUTIA",
+      "codigo_cnuc": "0000.00.0188",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 283503.4953,
+      "ato_legal": "DEC S/N, de 01/08/2001",
+      "nucleo_gestao": "ICMBio Guajará-Mirim",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 258,
+      "nome": "RESERVA BIOLÓGICA DO GUAPORÉ",
+      "codigo_cnuc": "0000.00.0206",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 615776.3293,
+      "ato_legal": "DEC 87.587 de 20/09/1982",
+      "nucleo_gestao": "ICMBio Cautário-Guaporé",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 260,
+      "nome": "RESERVA BIOLÓGICA DO JARU",
+      "codigo_cnuc": "0000.00.0208",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 346864.1982,
+      "ato_legal": "DEC 83.716 de 11/07/1979; DEC S/N de 02/05/2006",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 279,
+      "nome": "RESERVA EXTRATIVISTA BARREIRO DAS ANTAS",
+      "codigo_cnuc": "0000.00.0221",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 106198.5222,
+      "ato_legal": "DEC S/N, de 07/08/2001",
+      "nucleo_gestao": "ICMBio Guajará-Mirim",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 297,
+      "nome": "RESERVA EXTRATIVISTA DO LAGO DO CUNIÃ",
+      "codigo_cnuc": "0000.00.0233",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 76411.7058,
+      "ato_legal": "DEC 3.238, de 10/11/1999 ; DEC 9.638, de 26/12/2018 e Lei 15.039/24",
+      "nucleo_gestao": "ICMBio Cuniã-Jacundá",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 303,
+      "nome": "RESERVA EXTRATIVISTA DO RIO DO CAUTÁRIO",
+      "codigo_cnuc": "0000.00.0238",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 75125.4962,
+      "ato_legal": "DEC S/N, de 07/08/2001",
+      "nucleo_gestao": "ICMBio Cautário-Guaporé",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 305,
+      "nome": "RESERVA EXTRATIVISTA DO RIO OURO PRETO",
+      "codigo_cnuc": "0000.00.0256",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "RO",
+      "uf_abrangencia": "RO",
+      "estados": "Rondônia",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 183987.446,
+      "ato_legal": "DEC 99.166, de 13/03/1990 e Lei 15.039/24",
+      "nucleo_gestao": "ICMBio Guajará-Mirim",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Rondônia (RO) - Download gratuito",
+    "description": "14 unidades de conservação federais (ICMBio) com território em Rondônia (RO), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 14 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Rondônia (RO) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Rondônia (RO) — 14 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 14 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

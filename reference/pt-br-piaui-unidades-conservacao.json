@@ -1,0 +1,304 @@
+{
+  "id": "pt-br-piaui-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Piauí (PI)",
+  "title": "Unidades de Conservação Federais — Piauí (PI)",
+  "description": "11 unidades de conservação federais (ICMBio) com território em Piauí (PI), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 68,
+      "nome": "ESTAÇÃO ECOLÓGICA DE URUÇUÍ - UNA",
+      "codigo_cnuc": "0000.00.0065",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "PI",
+      "uf_abrangencia": "PI",
+      "estados": "Piauí",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 129196.4437,
+      "ato_legal": "DEC 86.061, de 02/06/1981",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 110,
+      "nome": "FLORESTA NACIONAL DE PALMARES",
+      "codigo_cnuc": "0000.00.0102",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "PI",
+      "uf_abrangencia": "PI",
+      "estados": "Piauí",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 168.2107,
+      "ato_legal": "DEC S/N de 21/02/2005",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 167,
+      "nome": "PARQUE NACIONAL DA SERRA DA CAPIVARA",
+      "codigo_cnuc": "0000.00.0145",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "PI",
+      "uf_abrangencia": "PI",
+      "estados": "Piauí",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 100764.1938,
+      "ato_legal": "DEC 83.548, de 05/06/1979; DEC 99.143, de 12/03/1990",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 168,
+      "nome": "PARQUE NACIONAL DA SERRA DAS CONFUSÕES",
+      "codigo_cnuc": "0000.00.0146",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "PI",
+      "uf_abrangencia": "PI",
+      "estados": "Piauí",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA e CERRADO",
+      "area_ha": 823854.539,
+      "ato_legal": "DEC S/N, de 02/10/1998; DEC S/N, de 30/12/2010",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 181,
+      "nome": "PARQUE NACIONAL DAS NASCENTES DO RIO PARNAÍBA",
+      "codigo_cnuc": "0000.00.0156",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "MA, PI, BA",
+      "uf_abrangencia": "MA/PI/BA",
+      "estados": "Maranhão, Piauí, Bahia",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 749774.1751,
+      "ato_legal": "DEC S/N, de 16/07/2002; LEI 13.090, de 12/01/2015",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 194,
+      "nome": "PARQUE NACIONAL DE SETE CIDADES",
+      "codigo_cnuc": "0000.00.0166",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "PI",
+      "uf_abrangencia": "PI",
+      "estados": "Piauí",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 6310.848,
+      "ato_legal": "DEC 50.744, de 05/06/1961",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 325,
+      "nome": "RESERVA EXTRATIVISTA MARINHA DO DELTA DO PARNAÍBA",
+      "codigo_cnuc": "0000.00.0225",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "MA, PI",
+      "uf_abrangencia": "MA/PI",
+      "estados": "Maranhão, Piauí",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO e SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 27022.0734,
+      "ato_legal": "DEC S/N, de 16/11/2000",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 12,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA CHAPADA DO ARARIPE",
+      "codigo_cnuc": "0000.00.0008",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PI, CE, PE",
+      "uf_abrangencia": "PI/CE/PE",
+      "estados": "Piauí, Ceará, Pernambuco",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 1017366.2383,
+      "ato_legal": "DEC S/N de 04/08/1997",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 24,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DELTA DO PARNAÍBA",
+      "codigo_cnuc": "0000.00.0019",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "MA, PI, CE",
+      "uf_abrangencia": "MA/PI/CE",
+      "estados": "Maranhão, Piauí, Ceará",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO, CAATINGA e SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 309593.7707,
+      "ato_legal": "DEC S/N de 28/08/1996",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 35,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL SERRA DA IBIAPABA",
+      "codigo_cnuc": "0000.00.0029",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PI, CE",
+      "uf_abrangencia": "PI/CE",
+      "estados": "Piauí, Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA e CERRADO",
+      "area_ha": 1628740.5163,
+      "ato_legal": "DEC S/N de 26/11/1996",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 37,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL SERRA DA TABATINGA",
+      "codigo_cnuc": "0000.00.0012",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "MA, PI",
+      "uf_abrangencia": "MA/PI",
+      "estados": "Maranhão, Piauí",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 41779.6077,
+      "ato_legal": "DEC 99.278 de 06/06/1990; DEC S/N de 16/07/2002",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Piauí (PI) - Download gratuito",
+    "description": "11 unidades de conservação federais (ICMBio) com território em Piauí (PI), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 11 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Piauí (PI) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Piauí (PI) — 11 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 11 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

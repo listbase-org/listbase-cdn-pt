@@ -1,0 +1,133 @@
+{
+  "id": "pt-sudeste-estados",
+  "name": "Estados da Região Sudeste — 4 unidades federativas",
+  "title": "Estados da Região Sudeste — 4 unidades federativas",
+  "description": "Lista dos 4 estados que compõem a Região Sudeste do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Sudeste é a mais populosa e economicamente desenvolvida do Brasil, concentrando os principais polos urbanos. Composta por 4 estados: Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "capital_nome",
+      "label": "Capital Nome",
+      "type": "string"
+    },
+    {
+      "key": "capital_codigo_ibge",
+      "label": "Capital Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_uf": 32,
+      "uf": "ES",
+      "nome": "Espírito Santo",
+      "slug": "espirito-santo",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -19.19,
+      "longitude": -40.34,
+      "capital_nome": "Vitória",
+      "capital_codigo_ibge": 3205309,
+      "municipios_count": 78
+    },
+    {
+      "codigo_uf": 31,
+      "uf": "MG",
+      "nome": "Minas Gerais",
+      "slug": "minas-gerais",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -18.1,
+      "longitude": -44.38,
+      "capital_nome": "Belo Horizonte",
+      "capital_codigo_ibge": 3106200,
+      "municipios_count": 853
+    },
+    {
+      "codigo_uf": 33,
+      "uf": "RJ",
+      "nome": "Rio de Janeiro",
+      "slug": "rio-de-janeiro",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -22.25,
+      "longitude": -42.66,
+      "capital_nome": "Rio de Janeiro",
+      "capital_codigo_ibge": 3304557,
+      "municipios_count": 92
+    },
+    {
+      "codigo_uf": 35,
+      "uf": "SP",
+      "nome": "São Paulo",
+      "slug": "sao-paulo",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -22.19,
+      "longitude": -48.79,
+      "capital_nome": "São Paulo",
+      "capital_codigo_ibge": 3550308,
+      "municipios_count": 645
+    }
+  ],
+  "meta": {
+    "title": "Estados da Região Sudeste — 4 unidades federativas - Download gratuito",
+    "description": "Lista dos 4 estados que compõem a Região Sudeste do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Sudeste é a mais populosa e economicamente desenvolvida do Brasil, concentrando os principais polos urbanos. Composta por 4 estados: Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo. Contém 4 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Estados da Região Sudeste — 4 unidades federativas | ListBase",
+    "seo_description": "Baixar Estados da Região Sudeste — 4 unidades federativas — 4 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 4 registros / 11 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "pt-br-rio-grande-do-norte-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Rio Grande do Norte (RN)",
+  "title": "Unidades de Conservação Federais — Rio Grande do Norte (RN)",
+  "description": "4 unidades de conservação federais (ICMBio) com território em Rio Grande do Norte (RN), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 71,
+      "nome": "ESTAÇÃO ECOLÓGICA DO SERIDÓ",
+      "codigo_cnuc": "0000.00.0069",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "RN",
+      "uf_abrangencia": "RN",
+      "estados": "Rio Grande do Norte",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 1123.6123,
+      "ato_legal": "DEC 87.222, de 31/05/1982",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 84,
+      "nome": "FLORESTA NACIONAL DE AÇU",
+      "codigo_cnuc": "0000.00.0082",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RN",
+      "uf_abrangencia": "RN",
+      "estados": "Rio Grande do Norte",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 211.3783,
+      "ato_legal": "Portaria 245 de 18/07/2001",
+      "nucleo_gestao": "ICMBio Mossoró",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 108,
+      "nome": "FLORESTA NACIONAL DE NÍSIA FLORESTA",
+      "codigo_cnuc": "0000.00.0100",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RN",
+      "uf_abrangencia": "RN",
+      "estados": "Rio Grande do Norte",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 2967.4405,
+      "ato_legal": "DEC S/N de 27/09/2001",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 161,
+      "nome": "PARQUE NACIONAL DA FURNA FEIA",
+      "codigo_cnuc": "0000.00.2633",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "RN",
+      "uf_abrangencia": "RN",
+      "estados": "Rio Grande do Norte",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 8558.7089,
+      "ato_legal": "DEC S/N, de 05/06/2012",
+      "nucleo_gestao": "ICMBio Mossoró",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Rio Grande do Norte (RN) - Download gratuito",
+    "description": "4 unidades de conservação federais (ICMBio) com território em Rio Grande do Norte (RN), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 4 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Rio Grande do Norte (RN) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Rio Grande do Norte (RN) — 4 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 4 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

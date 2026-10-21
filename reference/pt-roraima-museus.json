@@ -1,0 +1,496 @@
+{
+  "id": "pt-roraima-museus",
+  "name": "Museus de Roraima (RR) — Cadastro Nacional de Museus / IBRAM",
+  "title": "Museus de Roraima (RR) — Cadastro Nacional de Museus / IBRAM",
+  "description": "5 museus do estado de Roraima (RR), região Norte, do Cadastro Nacional de Museus do Brasil (IBRAM). Cada museu inclui endereço, coordenadas, contato, natureza administrativa, temática do acervo, ano de abertura, horários, política de ingresso e infraestrutura de acessibilidade. Recorte por estado do catálogo nacional pt-br-museus. Cobertura para consultas do tipo 'museus de roraima', 'museus RR'.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "natureza_administrativa",
+      "label": "Natureza Administrativa",
+      "type": "string"
+    },
+    {
+      "key": "instituicao_mantenedora",
+      "label": "Instituicao Mantenedora",
+      "type": "string"
+    },
+    {
+      "key": "endereco_visitacao",
+      "label": "Endereco Visitacao",
+      "type": "string"
+    },
+    {
+      "key": "numero_visitacao",
+      "label": "Numero Visitacao",
+      "type": "number"
+    },
+    {
+      "key": "complemento_visitacao",
+      "label": "Complemento Visitacao",
+      "type": "string"
+    },
+    {
+      "key": "bairro_visitacao",
+      "label": "Bairro Visitacao",
+      "type": "string"
+    },
+    {
+      "key": "cep_visitacao",
+      "label": "Cep Visitacao",
+      "type": "string"
+    },
+    {
+      "key": "municipio_visitacao",
+      "label": "Municipio Visitacao",
+      "type": "string"
+    },
+    {
+      "key": "uf_visitacao",
+      "label": "Uf Visitacao",
+      "type": "string"
+    },
+    {
+      "key": "estado_visitacao",
+      "label": "Estado Visitacao",
+      "type": "string"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "endereco_correspondencia",
+      "label": "Endereco Correspondencia",
+      "type": "string"
+    },
+    {
+      "key": "numero_correspondencia",
+      "label": "Numero Correspondencia",
+      "type": "number"
+    },
+    {
+      "key": "complemento_correspondencia",
+      "label": "Complemento Correspondencia",
+      "type": "string"
+    },
+    {
+      "key": "caixa_postal",
+      "label": "Caixa Postal",
+      "type": "string"
+    },
+    {
+      "key": "bairro_correspondencia",
+      "label": "Bairro Correspondencia",
+      "type": "string"
+    },
+    {
+      "key": "cep_correspondencia",
+      "label": "Cep Correspondencia",
+      "type": "string"
+    },
+    {
+      "key": "municipio_correspondencia",
+      "label": "Municipio Correspondencia",
+      "type": "string"
+    },
+    {
+      "key": "uf_correspondencia",
+      "label": "Uf Correspondencia",
+      "type": "string"
+    },
+    {
+      "key": "estado_correspondencia",
+      "label": "Estado Correspondencia",
+      "type": "string"
+    },
+    {
+      "key": "telefone",
+      "label": "Telefone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "site",
+      "label": "Site",
+      "type": "string"
+    },
+    {
+      "key": "acervo",
+      "label": "Acervo",
+      "type": "string"
+    },
+    {
+      "key": "tematica_principal",
+      "label": "Tematica Principal",
+      "type": "string"
+    },
+    {
+      "key": "ano_abertura",
+      "label": "Ano Abertura",
+      "type": "number"
+    },
+    {
+      "key": "situacao_funcionamento",
+      "label": "Situacao Funcionamento",
+      "type": "string"
+    },
+    {
+      "key": "horarios",
+      "label": "Horarios",
+      "type": "string"
+    },
+    {
+      "key": "ingresso_cobrado",
+      "label": "Ingresso Cobrado",
+      "type": "boolean"
+    },
+    {
+      "key": "valor_ingresso",
+      "label": "Valor Ingresso",
+      "type": "number"
+    },
+    {
+      "key": "promove_visitas_guiadas",
+      "label": "Promove Visitas Guiadas",
+      "type": "boolean"
+    },
+    {
+      "key": "infraestrutura_turistas_estrangeiros",
+      "label": "Infraestrutura Turistas Estrangeiros",
+      "type": "boolean"
+    },
+    {
+      "key": "infraestrutura_mobilidade_reduzida",
+      "label": "Infraestrutura Mobilidade Reduzida",
+      "type": "boolean"
+    },
+    {
+      "key": "servicos_deficientes_auditivos_visuais",
+      "label": "Servicos Deficientes Auditivos Visuais",
+      "type": "boolean"
+    },
+    {
+      "key": "possui_arquivo_historico",
+      "label": "Possui Arquivo Historico",
+      "type": "boolean"
+    },
+    {
+      "key": "arquivo_acessivel_publico",
+      "label": "Arquivo Acessivel Publico",
+      "type": "boolean"
+    },
+    {
+      "key": "possui_biblioteca",
+      "label": "Possui Biblioteca",
+      "type": "boolean"
+    },
+    {
+      "key": "biblioteca_acessivel_publico",
+      "label": "Biblioteca Acessivel Publico",
+      "type": "string"
+    },
+    {
+      "key": "cnpj",
+      "label": "Cnpj",
+      "type": "string"
+    },
+    {
+      "key": "possui_regimento_interno",
+      "label": "Possui Regimento Interno",
+      "type": "boolean"
+    },
+    {
+      "key": "possui_plano_museologico",
+      "label": "Possui Plano Museologico",
+      "type": "boolean"
+    },
+    {
+      "key": "possui_politica_aquisicao",
+      "label": "Possui Politica Aquisicao",
+      "type": "boolean"
+    },
+    {
+      "key": "possui_politica_descarte",
+      "label": "Possui Politica Descarte",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": "8.28.85.0756",
+      "nome": "Casa da Cultura Madre Leotávia Zoller",
+      "natureza_administrativa": "Pública Estadual",
+      "instituicao_mantenedora": "",
+      "endereco_visitacao": "Avenida Jaime Brasil",
+      "numero_visitacao": "235",
+      "complemento_visitacao": "",
+      "bairro_visitacao": "Centro",
+      "cep_visitacao": "69301-305",
+      "municipio_visitacao": "Boa Vista",
+      "uf_visitacao": "RR",
+      "estado_visitacao": "Roraima",
+      "longitude": -60.675839,
+      "latitude": 2.823512,
+      "endereco_correspondencia": "Avenida Jaime Brasil",
+      "numero_correspondencia": "235",
+      "complemento_correspondencia": "",
+      "caixa_postal": "",
+      "bairro_correspondencia": "Centro",
+      "cep_correspondencia": "69301-305",
+      "municipio_correspondencia": "Boa Vista",
+      "uf_correspondencia": "RR",
+      "estado_correspondencia": "Roraima",
+      "telefone": "(95) 3623-3244",
+      "email": "naurachaves@hotmail.com; saraivameire@gmail.com",
+      "site": "",
+      "acervo": "",
+      "tematica_principal": "",
+      "ano_abertura": 1994,
+      "situacao_funcionamento": "Fechado",
+      "horarios": "",
+      "ingresso_cobrado": false,
+      "valor_ingresso": "0",
+      "promove_visitas_guiadas": false,
+      "infraestrutura_turistas_estrangeiros": false,
+      "infraestrutura_mobilidade_reduzida": "",
+      "servicos_deficientes_auditivos_visuais": "",
+      "possui_arquivo_historico": false,
+      "arquivo_acessivel_publico": false,
+      "possui_biblioteca": false,
+      "biblioteca_acessivel_publico": "",
+      "cnpj": "",
+      "possui_regimento_interno": "",
+      "possui_plano_museologico": "",
+      "possui_politica_aquisicao": "",
+      "possui_politica_descarte": ""
+    },
+    {
+      "id": "2.56.43.1980",
+      "nome": "Espaço Cultural do Forte São Joaquim do Rio Branco",
+      "natureza_administrativa": "Pública Federal",
+      "instituicao_mantenedora": "",
+      "endereco_visitacao": "Avenida General Sampaio",
+      "numero_visitacao": "s/n",
+      "complemento_visitacao": "Quartel do 7º BIS",
+      "bairro_visitacao": "13 de Setembro",
+      "cep_visitacao": "69308-150",
+      "municipio_visitacao": "Boa Vista",
+      "uf_visitacao": "RR",
+      "estado_visitacao": "Roraima",
+      "longitude": -60.685462,
+      "latitude": 2.802935,
+      "endereco_correspondencia": "Avenida General Sampaio",
+      "numero_correspondencia": "s/n",
+      "complemento_correspondencia": "Quartel do 7º BIS",
+      "caixa_postal": "",
+      "bairro_correspondencia": "13 de Setembro",
+      "cep_correspondencia": "69308-150",
+      "municipio_correspondencia": "Boa Vista",
+      "uf_correspondencia": "RR",
+      "estado_correspondencia": "Roraima",
+      "telefone": "(95) 3212-3312",
+      "email": "cfronrr@outlook.com.br",
+      "site": "",
+      "acervo": "",
+      "tematica_principal": "História",
+      "ano_abertura": 2010,
+      "situacao_funcionamento": "Fechado",
+      "horarios": "segunda: Fechado; terca: 08:00 - 16:00; quarta: 08:00 - 16:00; quinta: 08:00 - 16:00; sexta: 08:00 - 16:00; sabado: 08:00 - 16:00; domingo: 08:00 - 16:00",
+      "ingresso_cobrado": false,
+      "valor_ingresso": "",
+      "promove_visitas_guiadas": true,
+      "infraestrutura_turistas_estrangeiros": true,
+      "infraestrutura_mobilidade_reduzida": false,
+      "servicos_deficientes_auditivos_visuais": false,
+      "possui_arquivo_historico": false,
+      "arquivo_acessivel_publico": false,
+      "possui_biblioteca": false,
+      "biblioteca_acessivel_publico": "",
+      "cnpj": "Centro Cultural",
+      "possui_regimento_interno": false,
+      "possui_plano_museologico": false,
+      "possui_politica_aquisicao": false,
+      "possui_politica_descarte": false
+    },
+    {
+      "id": "2.94.00.1396",
+      "nome": "Museu Integrado de Roraima",
+      "natureza_administrativa": "Pública Estadual",
+      "instituicao_mantenedora": "",
+      "endereco_visitacao": "Avenida Brigadeiro Eduardo Gomes",
+      "numero_visitacao": "2868",
+      "complemento_visitacao": "",
+      "bairro_visitacao": "Parque Anauá",
+      "cep_visitacao": "69305-010",
+      "municipio_visitacao": "Boa Vista",
+      "uf_visitacao": "RR",
+      "estado_visitacao": "Roraima",
+      "longitude": -60.675839,
+      "latitude": 2.823512,
+      "endereco_correspondencia": "Avenida Ville Roy",
+      "numero_correspondencia": "4935",
+      "complemento_correspondencia": "Fundação Estadual do Meio Ambiente e Recursos Hídricos - FEMARH",
+      "caixa_postal": "",
+      "bairro_correspondencia": "São Pedro",
+      "cep_correspondencia": "73358-620",
+      "municipio_correspondencia": "Boa Vista",
+      "uf_correspondencia": "RR",
+      "estado_correspondencia": "Roraima",
+      "telefone": "(95) 3623-1663",
+      "email": "mirr@femact.rr.gov.br",
+      "site": "www.femact.rr.gov.br/",
+      "acervo": "antropologia_e_etnografia: 1; arqueologia: 2; artes_visuais: 3; ciencias_naturais_e_historia_natural: 4; ciencia_e_tecnologia: 5; historia: 6; imagem_e_som: 7",
+      "tematica_principal": "",
+      "ano_abertura": 1985,
+      "situacao_funcionamento": "Fechado",
+      "horarios": "terca: 08:00 - 17:30; quarta: 08:00 - 17:30; quinta: 08:00 - 17:30; sexta: 08:00 - 17:30; sabado: Fechado; domingo: Fechado",
+      "ingresso_cobrado": false,
+      "valor_ingresso": "0",
+      "promove_visitas_guiadas": true,
+      "infraestrutura_turistas_estrangeiros": false,
+      "infraestrutura_mobilidade_reduzida": "",
+      "servicos_deficientes_auditivos_visuais": "",
+      "possui_arquivo_historico": true,
+      "arquivo_acessivel_publico": true,
+      "possui_biblioteca": true,
+      "biblioteca_acessivel_publico": "",
+      "cnpj": "",
+      "possui_regimento_interno": "",
+      "possui_plano_museologico": "",
+      "possui_politica_aquisicao": "",
+      "possui_politica_descarte": ""
+    },
+    {
+      "id": "8.00.32.1339",
+      "nome": "Parque Nacional Serra da Mocidade",
+      "natureza_administrativa": "Pública Federal",
+      "instituicao_mantenedora": "",
+      "endereco_visitacao": "Parque Nacional Serra da Mocidade",
+      "numero_visitacao": "s/n",
+      "complemento_visitacao": "",
+      "bairro_visitacao": "Mecejana",
+      "cep_visitacao": "69304-650",
+      "municipio_visitacao": "Caracaraí",
+      "uf_visitacao": "RR",
+      "estado_visitacao": "Roraima",
+      "longitude": -61.130891,
+      "latitude": 1.827324,
+      "endereco_correspondencia": "Parque Nacional Serra da Mocidade",
+      "numero_correspondencia": "s/n",
+      "complemento_correspondencia": "",
+      "caixa_postal": "",
+      "bairro_correspondencia": "Mecejana",
+      "cep_correspondencia": "69304-650",
+      "municipio_correspondencia": "Caracaraí",
+      "uf_correspondencia": "RR",
+      "estado_correspondencia": "Roraima",
+      "telefone": "(95) 2121-2545 / (95) 9134-6858",
+      "email": "",
+      "site": "",
+      "acervo": "",
+      "tematica_principal": "",
+      "ano_abertura": "",
+      "situacao_funcionamento": "Aberto",
+      "horarios": "",
+      "ingresso_cobrado": false,
+      "valor_ingresso": "0",
+      "promove_visitas_guiadas": false,
+      "infraestrutura_turistas_estrangeiros": false,
+      "infraestrutura_mobilidade_reduzida": "",
+      "servicos_deficientes_auditivos_visuais": "",
+      "possui_arquivo_historico": false,
+      "arquivo_acessivel_publico": false,
+      "possui_biblioteca": false,
+      "biblioteca_acessivel_publico": "",
+      "cnpj": "",
+      "possui_regimento_interno": "",
+      "possui_plano_museologico": "",
+      "possui_politica_aquisicao": "",
+      "possui_politica_descarte": ""
+    },
+    {
+      "id": "8.09.69.6782",
+      "nome": "Parque Nacional Viruá",
+      "natureza_administrativa": "Pública Federal",
+      "instituicao_mantenedora": "",
+      "endereco_visitacao": "Avenida Brigadeiro Eduardo Gomes",
+      "numero_visitacao": "4358",
+      "complemento_visitacao": "",
+      "bairro_visitacao": "Mecejana",
+      "cep_visitacao": "69304-650",
+      "municipio_visitacao": "Caracaraí",
+      "uf_visitacao": "RR",
+      "estado_visitacao": "Roraima",
+      "longitude": -61.130891,
+      "latitude": 1.827324,
+      "endereco_correspondencia": "Rua Alfredo Cruz",
+      "numero_correspondencia": "283",
+      "complemento_correspondencia": "Parque Nacional do Viruá - ICMBio",
+      "caixa_postal": "",
+      "bairro_correspondencia": "Centro",
+      "cep_correspondencia": "69301-140",
+      "municipio_correspondencia": "Caracaraí",
+      "uf_correspondencia": "RR",
+      "estado_correspondencia": "Roraima",
+      "telefone": "(95) 3623-9513",
+      "email": "lisboa.icmbio@gmail.com",
+      "site": "",
+      "acervo": "",
+      "tematica_principal": "",
+      "ano_abertura": "",
+      "situacao_funcionamento": "Aberto",
+      "horarios": "",
+      "ingresso_cobrado": false,
+      "valor_ingresso": "0",
+      "promove_visitas_guiadas": false,
+      "infraestrutura_turistas_estrangeiros": false,
+      "infraestrutura_mobilidade_reduzida": "",
+      "servicos_deficientes_auditivos_visuais": "",
+      "possui_arquivo_historico": false,
+      "arquivo_acessivel_publico": false,
+      "possui_biblioteca": false,
+      "biblioteca_acessivel_publico": "",
+      "cnpj": "",
+      "possui_regimento_interno": "",
+      "possui_plano_museologico": "",
+      "possui_politica_aquisicao": "",
+      "possui_politica_descarte": ""
+    }
+  ],
+  "meta": {
+    "title": "Museus de Roraima (RR) — Cadastro Nacional de Museus / IBRAM - Download gratuito",
+    "description": "5 museus do estado de Roraima (RR), região Norte, do Cadastro Nacional de Museus do Brasil (IBRAM). Cada museu inclui endereço, coordenadas, contato, natureza administrativa, temática do acervo, ano de abertura, horários, política de ingresso e infraestrutura de acessibilidade. Recorte por estado do catálogo nacional pt-br-museus. Cobertura para consultas do tipo 'museus de roraima', 'museus RR'. Contém 5 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Museus de Roraima (RR) — Cadastro Nacional de Museus / IBRAM | ListBase",
+    "seo_description": "Baixar Museus de Roraima (RR) — Cadastro Nacional de Museus / IBRAM — 5 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 5 registros / 46 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

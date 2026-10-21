@@ -1,0 +1,286 @@
+{
+  "id": "pt-br-goias-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Goiás (GO)",
+  "title": "Unidades de Conservação Federais — Goiás (GO)",
+  "description": "10 unidades de conservação federais (ICMBio) com território em Goiás (GO), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 82,
+      "nome": "FLORESTA NACIONAL DA MATA GRANDE",
+      "codigo_cnuc": "0000.00.0128",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO",
+      "uf_abrangencia": "GO",
+      "estados": "Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 1951.6336,
+      "ato_legal": "DEC S/N, de 13/10/2003",
+      "nucleo_gestao": "ICMBio Mata Grande - Terra Ronca",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 122,
+      "nome": "FLORESTA NACIONAL DE SILVÂNIA",
+      "codigo_cnuc": "0000.00.0110",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO",
+      "uf_abrangencia": "GO",
+      "estados": "Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 486.6078,
+      "ato_legal": "Portaria 247 de 18/07/2001",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 160,
+      "nome": "PARQUE NACIONAL DA CHAPADA DOS VEADEIROS",
+      "codigo_cnuc": "0000.00.0139",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "GO",
+      "uf_abrangencia": "GO",
+      "estados": "Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 240586.5633,
+      "ato_legal": "DEC 49.875, de 11/01/1961; DEC 70.492, de 11/05/1972; DEC 86.173, DE 2 DE JULHO DE 1981; DEC 86.596, de 17/11/1981; DEC S/N, de 27/09/2001; DEC S/N de 05/06/2017.",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 180,
+      "nome": "PARQUE NACIONAL DAS EMAS",
+      "codigo_cnuc": "0000.00.0155",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "MS, GO",
+      "uf_abrangencia": "MS/GO",
+      "estados": "Mato Grosso do Sul, Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 132787.8603,
+      "ato_legal": "DEC 49.874, de 11/01/1961; DEC 70.375, de 06/04/1972",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 287,
+      "nome": "RESERVA EXTRATIVISTA DE RECANTO DAS ARARAS DE TERRA RONCA",
+      "codigo_cnuc": "0000.00.0286",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO",
+      "uf_abrangencia": "GO",
+      "estados": "Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 12349.3298,
+      "ato_legal": "DEC S/N, de 11/09/2006",
+      "nucleo_gestao": "ICMBio Mata Grande - Terra Ronca",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 311,
+      "nome": "RESERVA EXTRATIVISTA LAGO DO CEDRO",
+      "codigo_cnuc": "0000.00.0287",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO",
+      "uf_abrangencia": "GO",
+      "estados": "Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 17178.0507,
+      "ato_legal": "DEC S/N,de 11/09/2006",
+      "nucleo_gestao": "ICMBio Meandros do Araguaia",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 7,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA BACIA DO RIO DESCOBERTO",
+      "codigo_cnuc": "0000.00.0003",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO, DF",
+      "uf_abrangencia": "GO/DF",
+      "estados": "Goiás, Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 41783.6139,
+      "ato_legal": "DEC 88.940 de 07/11/1983",
+      "nucleo_gestao": "ICMBio Descoberto-Brasília",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 17,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DAS NASCENTES DO RIO VERMELHO",
+      "codigo_cnuc": "0000.00.0028",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "BA, GO",
+      "uf_abrangencia": "BA/GO",
+      "estados": "Bahia, Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 173968.8692,
+      "ato_legal": "DEC S/N de 27/09/2001",
+      "nucleo_gestao": "ICMBio Mambaí",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 30,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DO PLANALTO CENTRAL",
+      "codigo_cnuc": "0000.00.0023",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO, DF",
+      "uf_abrangencia": "GO/DF",
+      "estados": "Goiás, Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 503423.3577,
+      "ato_legal": "DEC S/N de 10/01/2002",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 33,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DOS MEANDROS DO RIO ARAGUAIA",
+      "codigo_cnuc": "0000.00.0024",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "MT, GO",
+      "uf_abrangencia": "MT/GO",
+      "estados": "Mato Grosso, Goiás",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 359194.0922,
+      "ato_legal": "DEC S/N de 02/10/1998",
+      "nucleo_gestao": "ICMBio Meandros do Araguaia",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Goiás (GO) - Download gratuito",
+    "description": "10 unidades de conservação federais (ICMBio) com território em Goiás (GO), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 10 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Goiás (GO) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Goiás (GO) — 10 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 10 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

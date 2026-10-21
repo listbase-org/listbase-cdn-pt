@@ -1,0 +1,301 @@
+{
+  "id": "pt-canais-tv-desporto",
+  "name": "Canais de televisão de desporto de Portugal",
+  "title": "Canais de televisão de desporto de Portugal",
+  "description": "Canais de televisão portugueses da categoria «sports» (de desporto) — 14 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "ABolaTV.pt",
+      "name": "A Bola TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Sociedade Vicra Desportiva",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2012-10-12",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.abolatv.pt/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CampoPequenoTV.pt",
+      "name": "Campo Pequeno TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.campopequeno.com/campopequenotv/"
+    },
+    {
+      "id": 3,
+      "channel_id": "Canal11.pt",
+      "name": "Canal 11",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://canal11.pt/"
+    },
+    {
+      "id": 4,
+      "channel_id": "FUELTV.pt",
+      "name": "FUEL TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "FUEL TV S.A.",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2003-07-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://fuel.tv/"
+    },
+    {
+      "id": 5,
+      "channel_id": "SportTV1.pt",
+      "name": "Sport TV1",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/"
+    },
+    {
+      "id": 6,
+      "channel_id": "SportTV2.pt",
+      "name": "Sport TV2",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/"
+    },
+    {
+      "id": 7,
+      "channel_id": "SportTV3.pt",
+      "name": "Sport TV3",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/"
+    },
+    {
+      "id": 8,
+      "channel_id": "SportTV4.pt",
+      "name": "Sport TV4",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/"
+    },
+    {
+      "id": 9,
+      "channel_id": "SportTV5.pt",
+      "name": "Sport TV5",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/"
+    },
+    {
+      "id": 10,
+      "channel_id": "SportTV6.pt",
+      "name": "Sport TV6",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/"
+    },
+    {
+      "id": 11,
+      "channel_id": "SportTV7.pt",
+      "name": "Sport TV7",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/live/canal/7600/SPORT.TV7"
+    },
+    {
+      "id": 12,
+      "channel_id": "SportTVAfrica1.pt",
+      "name": "Sport TV Africa 1",
+      "alt_names": "Sport TV África 1",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/sport-tv-africa/#733"
+    },
+    {
+      "id": 13,
+      "channel_id": "SportTVPlus.pt",
+      "name": "Sport TV+",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sporttv.pt/"
+    },
+    {
+      "id": 14,
+      "channel_id": "SportingTV.pt",
+      "name": "Sporting TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2014-07-17",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.sporting.pt/"
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão de desporto de Portugal - Download gratuito",
+    "description": "Canais de televisão portugueses da categoria «sports» (de desporto) — 14 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 14 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão de desporto de Portugal | ListBase",
+    "seo_description": "Baixar Canais de televisão de desporto de Portugal — 14 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 14 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "pt-metro-sp-linha-4-amarela-estacoes",
+  "name": "Estações da Linha 4-Amarela — Metrô de São Paulo",
+  "title": "Estações da Linha 4-Amarela — Metrô de São Paulo",
+  "description": "Estações da Linha 4-Amarela (11 estações), recortadas da lista consolidada Horaddrim/metrosp (Unlicense) com enriquecimento opcional de rafaelrinaldi/siga (MIT) para lat/lon, endereço e horário.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_name",
+      "label": "Station Name",
+      "type": "string"
+    },
+    {
+      "key": "station_slug",
+      "label": "Station Slug",
+      "type": "string"
+    },
+    {
+      "key": "line_name",
+      "label": "Line Name",
+      "type": "string"
+    },
+    {
+      "key": "line_slug",
+      "label": "Line Slug",
+      "type": "string"
+    },
+    {
+      "key": "line_number",
+      "label": "Line Number",
+      "type": "number"
+    },
+    {
+      "key": "line_color",
+      "label": "Line Color",
+      "type": "string"
+    },
+    {
+      "key": "station_code",
+      "label": "Station Code",
+      "type": "string"
+    },
+    {
+      "key": "sequence",
+      "label": "Sequence",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "schedule",
+      "label": "Schedule",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 68,
+      "station_name": "Vila Sônia",
+      "station_slug": "vila-sonia",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "",
+      "sequence": "",
+      "latitude": "",
+      "longitude": "",
+      "address": "",
+      "schedule": "",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp"
+    },
+    {
+      "id": 69,
+      "station_name": "São Paulo-Morumbi",
+      "station_slug": "sao-paulo-morumbi",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "",
+      "sequence": "",
+      "latitude": "",
+      "longitude": "",
+      "address": "",
+      "schedule": "",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp"
+    },
+    {
+      "id": 70,
+      "station_name": "Butantã",
+      "station_slug": "butanta",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "BTT",
+      "sequence": 5,
+      "latitude": "-23.571563",
+      "longitude": "-46.708667",
+      "address": "Avenida Vital Brasil, Esquina Com A Rua Pirajussara.",
+      "schedule": "04h40 às 00h00: Domingo A Sexta, 04h40 às 01h00: Sábados",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp + rafaelrinaldi/siga (overlay)"
+    },
+    {
+      "id": 71,
+      "station_name": "Pinheiros",
+      "station_slug": "pinheiros",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "PIN",
+      "sequence": 4,
+      "latitude": "-23.566499",
+      "longitude": "-46.702082",
+      "address": "Rua Capri, 145.",
+      "schedule": "04h40 às 00h00: Domingo A Sexta, 04h40 às 01h00: Sábados",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp + rafaelrinaldi/siga (overlay)"
+    },
+    {
+      "id": 72,
+      "station_name": "Faria Lima",
+      "station_slug": "faria-lima",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "FLM",
+      "sequence": 3,
+      "latitude": "-23.566972",
+      "longitude": "-46.693817",
+      "address": "Avenida Faria Lima, Altura Do Número 940.",
+      "schedule": "04h40 às 00h00: Domingo A Sexta, 04h40 às 01h00: Sábados",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp + rafaelrinaldi/siga (overlay)"
+    },
+    {
+      "id": 73,
+      "station_name": "Fradique Coutinho",
+      "station_slug": "fradique-coutinho",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "",
+      "sequence": "",
+      "latitude": "",
+      "longitude": "",
+      "address": "",
+      "schedule": "",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp"
+    },
+    {
+      "id": 74,
+      "station_name": "Oscar Freire",
+      "station_slug": "oscar-freire",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "",
+      "sequence": "",
+      "latitude": "",
+      "longitude": "",
+      "address": "",
+      "schedule": "",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp"
+    },
+    {
+      "id": 75,
+      "station_name": "Paulista",
+      "station_slug": "paulista",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "PAU",
+      "sequence": 2,
+      "latitude": "-23.555391",
+      "longitude": "-46.662713",
+      "address": "Rua Da Consolação, Próxima Ao Cruzamento Com A Avenida Paulista.",
+      "schedule": "04h40 às 00h00: Domingo A Sexta, 04h40 às 01h00: Sábados",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp + rafaelrinaldi/siga (overlay)"
+    },
+    {
+      "id": 76,
+      "station_name": "Higienópolis-Mackenzie",
+      "station_slug": "higienopolis-mackenzie",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "",
+      "sequence": "",
+      "latitude": "",
+      "longitude": "",
+      "address": "",
+      "schedule": "",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp"
+    },
+    {
+      "id": 77,
+      "station_name": "República",
+      "station_slug": "republica",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "REP",
+      "sequence": 1,
+      "latitude": "-23.541929",
+      "longitude": "-46.642249",
+      "address": "Rua Do Arouche, 24",
+      "schedule": "04h40 às 00h25: Domingo A Sexta, 04h40 às 01h00: Sábados",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp + rafaelrinaldi/siga (overlay)"
+    },
+    {
+      "id": 78,
+      "station_name": "Luz",
+      "station_slug": "luz",
+      "line_name": "Linha 4-Amarela",
+      "line_slug": "linha-4-amarela",
+      "line_number": "4",
+      "line_color": "Amarela",
+      "station_code": "LUZ",
+      "sequence": 0,
+      "latitude": "-23.537952",
+      "longitude": "-46.633515",
+      "address": "Av. Prestes Maia, 925",
+      "schedule": "04h40 às 00h30: Domingo A Sexta, 04h40 às 01h00: Sábados",
+      "city": "São Paulo (Região Metropolitana)",
+      "country": "BR",
+      "source": "Horaddrim/metrosp + rafaelrinaldi/siga (overlay)"
+    }
+  ],
+  "meta": {
+    "title": "Estações da Linha 4-Amarela — Metrô de São Paulo - Download gratuito",
+    "description": "Estações da Linha 4-Amarela (11 estações), recortadas da lista consolidada Horaddrim/metrosp (Unlicense) com enriquecimento opcional de rafaelrinaldi/siga (MIT) para lat/lon, endereço e horário. Contém 11 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Estações da Linha 4-Amarela — Metrô de São Paulo | ListBase",
+    "seo_description": "Baixar Estações da Linha 4-Amarela — Metrô de São Paulo — 11 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 11 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

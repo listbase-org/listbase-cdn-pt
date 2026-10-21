@@ -1,0 +1,120 @@
+{
+  "id": "pt-sul-estados",
+  "name": "Estados da Região Sul — 3 unidades federativas",
+  "title": "Estados da Região Sul — 3 unidades federativas",
+  "description": "Lista dos 3 estados que compõem a Região Sul do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Sul é composta por 3 estados (Paraná, Santa Catarina e Rio Grande do Sul) e caracteriza-se por clima subtropical, forte herança imigratória europeia e elevado IDH.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "capital_nome",
+      "label": "Capital Nome",
+      "type": "string"
+    },
+    {
+      "key": "capital_codigo_ibge",
+      "label": "Capital Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_uf": 41,
+      "uf": "PR",
+      "nome": "Paraná",
+      "slug": "parana",
+      "regiao": "Sul",
+      "regiao_slug": "sul",
+      "latitude": -24.89,
+      "longitude": -51.55,
+      "capital_nome": "Curitiba",
+      "capital_codigo_ibge": 4106902,
+      "municipios_count": 399
+    },
+    {
+      "codigo_uf": 43,
+      "uf": "RS",
+      "nome": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul",
+      "regiao": "Sul",
+      "regiao_slug": "sul",
+      "latitude": -30.17,
+      "longitude": -53.5,
+      "capital_nome": "Porto Alegre",
+      "capital_codigo_ibge": 4314902,
+      "municipios_count": 497
+    },
+    {
+      "codigo_uf": 42,
+      "uf": "SC",
+      "nome": "Santa Catarina",
+      "slug": "santa-catarina",
+      "regiao": "Sul",
+      "regiao_slug": "sul",
+      "latitude": -27.45,
+      "longitude": -50.95,
+      "capital_nome": "Florianópolis",
+      "capital_codigo_ibge": 4205407,
+      "municipios_count": 295
+    }
+  ],
+  "meta": {
+    "title": "Estados da Região Sul — 3 unidades federativas - Download gratuito",
+    "description": "Lista dos 3 estados que compõem a Região Sul do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Sul é composta por 3 estados (Paraná, Santa Catarina e Rio Grande do Sul) e caracteriza-se por clima subtropical, forte herança imigratória europeia e elevado IDH. Contém 3 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Estados da Região Sul — 3 unidades federativas | ListBase",
+    "seo_description": "Baixar Estados da Região Sul — 3 unidades federativas — 3 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 3 registros / 11 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

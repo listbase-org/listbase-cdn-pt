@@ -1,0 +1,271 @@
+{
+  "id": "pt-canais-tv-entretenimento",
+  "name": "Canais de televisão de entretenimento de Portugal",
+  "title": "Canais de televisão de entretenimento de Portugal",
+  "description": "Canais de televisão portugueses da categoria «entertainment» (de entretenimento) — 12 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AMCBreak.pt",
+      "name": "AMC Break",
+      "alt_names": "Blaze, A&E, The Biography Channel",
+      "network": "",
+      "owners": "AMC Networks Inc.",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2018-04-18",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://blazetv.pt/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CanalQ.pt",
+      "name": "Canal Q",
+      "alt_names": "",
+      "network": "",
+      "owners": "Produções Fictícias",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2010-03-29",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.canalq.pt/"
+    },
+    {
+      "id": 3,
+      "channel_id": "DiscoveryChannel.pt",
+      "name": "Discovery Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "Warner Bros. Discovery Inc.",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "1995-10-18",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://discoverychannel.com.pt/programacao/discovery-channel"
+    },
+    {
+      "id": 4,
+      "channel_id": "Fox.pt",
+      "name": "Fox",
+      "alt_names": "",
+      "network": "",
+      "owners": "Fox Networks Group Portugal SA",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "StarChannel.pt",
+      "website": "http://fox.canais-fox.pt/"
+    },
+    {
+      "id": 5,
+      "channel_id": "Globo.pt",
+      "name": "Globo",
+      "alt_names": "",
+      "network": "",
+      "owners": "Grupo Globo",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2007-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://globointernacional.globo.com/GloboPortugal/Paginas/home.aspx"
+    },
+    {
+      "id": 6,
+      "channel_id": "GloboNow.pt",
+      "name": "Globo Now",
+      "alt_names": "",
+      "network": "",
+      "owners": "Grupo Globo",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2007-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://globointernacional.globo.com/GloboNOW/"
+    },
+    {
+      "id": 7,
+      "channel_id": "Historia.pt",
+      "name": "Historia",
+      "alt_names": "História",
+      "network": "",
+      "owners": "AMC Networks Inc.",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://canalhistoria.pt/"
+    },
+    {
+      "id": 8,
+      "channel_id": "MTV.pt",
+      "name": "MTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Paramount Networks EMEAA",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2003-07-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.mtv.pt/"
+    },
+    {
+      "id": 9,
+      "channel_id": "NosStudios.pt",
+      "name": "Nos Studios",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.nos.pt/particulares/televisao/canais/exclusivos/Pages/nos-studios.aspx?channel=547"
+    },
+    {
+      "id": 10,
+      "channel_id": "StarChannel.pt",
+      "name": "Star Channel",
+      "alt_names": "",
+      "network": "The Walt Disney Company Portugal",
+      "owners": "The Walt Disney Company Iberia S.L.",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.starchannel.pt/"
+    },
+    {
+      "id": 11,
+      "channel_id": "TVIReality.pt",
+      "name": "TVI Reality",
+      "alt_names": "",
+      "network": "",
+      "owners": "Media Capital",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2015-10-03",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvi.iol.pt/tvireality/"
+    },
+    {
+      "id": 12,
+      "channel_id": "WEBTVPaixaoFM.pt",
+      "name": "WEB TV Paixao FM",
+      "alt_names": "WEB TV Paixão FM",
+      "network": "",
+      "owners": "",
+      "country": "PT",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://radiopaixaofm.live/"
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão de entretenimento de Portugal - Download gratuito",
+    "description": "Canais de televisão portugueses da categoria «entertainment» (de entretenimento) — 12 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 12 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão de entretenimento de Portugal | ListBase",
+    "seo_description": "Baixar Canais de televisão de entretenimento de Portugal — 12 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 12 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

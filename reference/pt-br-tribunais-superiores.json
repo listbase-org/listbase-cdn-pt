@@ -1,0 +1,168 @@
+{
+  "id": "pt-br-tribunais-superiores",
+  "name": "Tribunais superiores (STF, STJ, TST) — portais e consulta processual",
+  "title": "Tribunais superiores (STF, STJ, TST) — portais e consulta processual",
+  "description": "3 pontos de acesso (Tribunal Superior) com sistema de processo eletrônico, instância e URL oficial. Recorte de pt-br-tribunais-sistemas-processo-eletronico.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "codigo",
+      "label": "Codigo",
+      "type": "string"
+    },
+    {
+      "key": "tribunal",
+      "label": "Tribunal",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "ramo",
+      "label": "Ramo",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "instancia",
+      "label": "Instancia",
+      "type": "string"
+    },
+    {
+      "key": "instancia_nome",
+      "label": "Instancia Nome",
+      "type": "string"
+    },
+    {
+      "key": "sistema",
+      "label": "Sistema",
+      "type": "string"
+    },
+    {
+      "key": "sistema_nome",
+      "label": "Sistema Nome",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "url_portal",
+      "label": "Url Portal",
+      "type": "string"
+    },
+    {
+      "key": "sistema_anterior",
+      "label": "Sistema Anterior",
+      "type": "string"
+    },
+    {
+      "key": "url_anterior",
+      "label": "Url Anterior",
+      "type": "string"
+    },
+    {
+      "key": "observacao",
+      "label": "Observacao",
+      "type": "string"
+    },
+    {
+      "key": "arquivo_fonte",
+      "label": "Arquivo Fonte",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "codigo": "STF",
+      "tribunal": "STF",
+      "nome": "Supremo Tribunal Federal",
+      "ramo": "Tribunal Superior",
+      "uf": "",
+      "ufs": "",
+      "regiao": "",
+      "instancia": "",
+      "instancia_nome": "",
+      "sistema": "proprio",
+      "sistema_nome": "Sistema próprio",
+      "url": "https://portal.stf.jus.br/processos/",
+      "url_portal": "https://portal.stf.jus.br/",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "Supreme Federal Court - Constitutional matters",
+      "arquivo_fonte": "superior_courts.json"
+    },
+    {
+      "codigo": "STJ",
+      "tribunal": "STJ",
+      "nome": "Superior Tribunal de Justiça",
+      "ramo": "Tribunal Superior",
+      "uf": "",
+      "ufs": "",
+      "regiao": "",
+      "instancia": "",
+      "instancia_nome": "",
+      "sistema": "proprio",
+      "sistema_nome": "Sistema próprio",
+      "url": "https://processo.stj.jus.br/processo/pesquisa/",
+      "url_portal": "https://www.stj.jus.br/",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "Superior Court of Justice - Federal law uniformity",
+      "arquivo_fonte": "superior_courts.json"
+    },
+    {
+      "codigo": "TST",
+      "tribunal": "TST",
+      "nome": "Tribunal Superior do Trabalho",
+      "ramo": "Tribunal Superior",
+      "uf": "",
+      "ufs": "",
+      "regiao": "",
+      "instancia": "",
+      "instancia_nome": "",
+      "sistema": "pje",
+      "sistema_nome": "PJe (Processo Judicial Eletrônico)",
+      "url": "https://pje.tst.jus.br/",
+      "url_portal": "https://www.tst.jus.br/",
+      "sistema_anterior": "",
+      "url_anterior": "",
+      "observacao": "Superior Labour Court",
+      "arquivo_fonte": "superior_courts.json"
+    }
+  ],
+  "meta": {
+    "title": "Tribunais superiores (STF, STJ, TST) — portais e consulta processual - Download gratuito",
+    "description": "3 pontos de acesso (Tribunal Superior) com sistema de processo eletrônico, instância e URL oficial. Recorte de pt-br-tribunais-sistemas-processo-eletronico. Contém 3 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Tribunais superiores (STF, STJ, TST) — portais e consulta processual | ListBase",
+    "seo_description": "Baixar Tribunais superiores (STF, STJ, TST) — portais e consulta processual — 3 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 3 registros / 17 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+﻿"Codigo Uf","Uf","Nome","Slug","Regiao","Regiao Slug","Latitude","Longitude","Capital Nome","Capital Codigo Ibge","Municipios Count"
+"32","ES","Espírito Santo","espirito-santo","Sudeste","sudeste","-19.19","-40.34","Vitória","3205309","78"
+"31","MG","Minas Gerais","minas-gerais","Sudeste","sudeste","-18.1","-44.38","Belo Horizonte","3106200","853"
+"33","RJ","Rio de Janeiro","rio-de-janeiro","Sudeste","sudeste","-22.25","-42.66","Rio de Janeiro","3304557","92"
+"35","SP","São Paulo","sao-paulo","Sudeste","sudeste","-22.19","-48.79","São Paulo","3550308","645"

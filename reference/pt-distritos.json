@@ -1,0 +1,216 @@
+{
+  "id": "pt-distritos",
+  "name": "Distritos de Portugal",
+  "title": "Distritos de Portugal",
+  "description": "Administrative regions/states of PT with coordinates",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2233,
+      "name": "Açores",
+      "state_code": "",
+      "type": "autonomous region",
+      "latitude": "37.80855640",
+      "longitude": "-25.47313740"
+    },
+    {
+      "id": 2235,
+      "name": "Aveiro",
+      "state_code": "",
+      "type": "district",
+      "latitude": "40.67915040",
+      "longitude": "-8.52171660"
+    },
+    {
+      "id": 2230,
+      "name": "Beja",
+      "state_code": "",
+      "type": "district",
+      "latitude": "38.01544790",
+      "longitude": "-7.86503680"
+    },
+    {
+      "id": 2244,
+      "name": "Braga",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.55038800",
+      "longitude": "-8.42613010"
+    },
+    {
+      "id": 2229,
+      "name": "Bragança",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.80616520",
+      "longitude": "-6.75674270"
+    },
+    {
+      "id": 2241,
+      "name": "Castelo Branco",
+      "state_code": "",
+      "type": "district",
+      "latitude": "39.82663220",
+      "longitude": "-7.49193180"
+    },
+    {
+      "id": 2246,
+      "name": "Coimbra",
+      "state_code": "",
+      "type": "district",
+      "latitude": "40.21119310",
+      "longitude": "-8.42946320"
+    },
+    {
+      "id": 2236,
+      "name": "Évora",
+      "state_code": "",
+      "type": "district",
+      "latitude": "38.57444680",
+      "longitude": "-7.90765530"
+    },
+    {
+      "id": 2239,
+      "name": "Faro",
+      "state_code": "",
+      "type": "district",
+      "latitude": "37.01935480",
+      "longitude": "-7.93043970"
+    },
+    {
+      "id": 4859,
+      "name": "Guarda",
+      "state_code": "",
+      "type": "district",
+      "latitude": "40.53859720",
+      "longitude": "-7.26757720"
+    },
+    {
+      "id": 2240,
+      "name": "Leiria",
+      "state_code": "",
+      "type": "district",
+      "latitude": "39.74379020",
+      "longitude": "-8.80711190"
+    },
+    {
+      "id": 2228,
+      "name": "Lisbon",
+      "state_code": "",
+      "type": "district",
+      "latitude": "38.70775070",
+      "longitude": "-9.13659190"
+    },
+    {
+      "id": 2231,
+      "name": "Madeira",
+      "state_code": "",
+      "type": "autonomous region",
+      "latitude": "32.75175010",
+      "longitude": "-16.98174870"
+    },
+    {
+      "id": 2232,
+      "name": "Portalegre",
+      "state_code": "",
+      "type": "district",
+      "latitude": "39.29670860",
+      "longitude": "-7.42847550"
+    },
+    {
+      "id": 2243,
+      "name": "Porto",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.14766290",
+      "longitude": "-8.60789730"
+    },
+    {
+      "id": 2238,
+      "name": "Santarém",
+      "state_code": "",
+      "type": "district",
+      "latitude": "39.23666870",
+      "longitude": "-8.68599440"
+    },
+    {
+      "id": 2242,
+      "name": "Setúbal",
+      "state_code": "",
+      "type": "district",
+      "latitude": "38.52409330",
+      "longitude": "-8.89258760"
+    },
+    {
+      "id": 2245,
+      "name": "Viana do Castelo",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.69180460",
+      "longitude": "-8.83445100"
+    },
+    {
+      "id": 2234,
+      "name": "Vila Real",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.30035270",
+      "longitude": "-7.74572740"
+    },
+    {
+      "id": 2237,
+      "name": "Viseu",
+      "state_code": "",
+      "type": "district",
+      "latitude": "40.65884240",
+      "longitude": "-7.91475600"
+    }
+  ],
+  "meta": {
+    "title": "Distritos de Portugal - Download gratuito",
+    "description": "Administrative regions/states of PT with coordinates Contém 20 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Distritos de Portugal | ListBase",
+    "seo_description": "Baixar Distritos de Portugal — 20 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 20 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

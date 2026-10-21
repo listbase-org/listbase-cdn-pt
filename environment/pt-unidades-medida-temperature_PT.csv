@@ -1,0 +1,6 @@
+﻿"Id","Unit Code","Categoria","Nome","Abreviacao","Estreito","Padrao"
+"1","temperature-celsius","temperature","graus Celsius","graus C","°C","{0} graus Celsius"
+"2","temperature-fahrenheit","temperature","graus Fahrenheit","graus F","°F","{0} graus Fahrenheit"
+"3","temperature-generic","temperature","°","°","°","{0}°"
+"4","temperature-kelvin","temperature","kelvins","K","K","{0} kelvins"
+"5","temperature-rankine","temperature","°R","°R","°R","{0} °R"

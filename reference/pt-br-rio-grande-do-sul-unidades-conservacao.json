@@ -1,0 +1,286 @@
+{
+  "id": "pt-br-rio-grande-do-sul-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Rio Grande do Sul (RS)",
+  "title": "Unidades de Conservação Federais — Rio Grande do Sul (RS)",
+  "description": "10 unidades de conservação federais (ICMBio) com território em Rio Grande do Sul (RS), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 57,
+      "nome": "ESTAÇÃO ECOLÓGICA DE ARACURI-ESMERALDA",
+      "codigo_cnuc": "0000.00.0050",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 276.9792,
+      "ato_legal": "DEC 86.061 de 2/6/1981.",
+      "nucleo_gestao": "ICMBio Passo Fundo",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 72,
+      "nome": "ESTAÇÃO ECOLÓGICA DO TAIM",
+      "codigo_cnuc": "0000.00.0070",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "PAMPA",
+      "bioma_compensacao_reserva_legal": "PAMPA",
+      "area_ha": 32806.3137,
+      "ato_legal": "DEC 92.963, de 21/07/1986; DEC S/N de 05/06/2003; DEC S/N de 05/06/2017",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 91,
+      "nome": "FLORESTA NACIONAL DE CANELA",
+      "codigo_cnuc": "0000.00.0087",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 563.5208,
+      "ato_legal": "Portaria 561 de 25/10/1968",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 113,
+      "nome": "FLORESTA NACIONAL DE PASSO FUNDO",
+      "codigo_cnuc": "0000.00.0130",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 1333.6314,
+      "ato_legal": "Portaria 561 de 25/10/1968",
+      "nucleo_gestao": "ICMBio Passo Fundo",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 120,
+      "nome": "FLORESTA NACIONAL DE SÃO FRANCISCO DE PAULA",
+      "codigo_cnuc": "0000.00.0133",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 231556.8807,
+      "ato_legal": "Portaria 561 de 25/10/1968",
+      "nucleo_gestao": "ICMBio Alto Tarauacá-Santa Rosa do Purus",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 162,
+      "nome": "PARQUE NACIONAL DA LAGOA DO PEIXE",
+      "codigo_cnuc": "0000.00.0140",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "PAMPA",
+      "bioma_compensacao_reserva_legal": "PAMPA",
+      "area_ha": 36721.9306,
+      "ato_legal": "DEC 93.546, de 06/11/1986",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 177,
+      "nome": "PARQUE NACIONAL DA SERRA GERAL",
+      "codigo_cnuc": "0000.00.0153",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "SC, RS",
+      "uf_abrangencia": "SC/RS",
+      "estados": "Santa Catarina, Rio Grande do Sul",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 17274.4918,
+      "ato_legal": "DEC 531, de 20/05/1992",
+      "nucleo_gestao": "ICMBio Aparados da Serra Geral",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 184,
+      "nome": "PARQUE NACIONAL DE APARADOS DA SERRA",
+      "codigo_cnuc": "0000.00.0158",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "SC, RS",
+      "uf_abrangencia": "SC/RS",
+      "estados": "Santa Catarina, Rio Grande do Sul",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 12966.2565,
+      "ato_legal": "DEC 47.446, de 17/12/1959;DEC 70.296, de 17/03/1972",
+      "nucleo_gestao": "ICMBio Aparados da Serra Geral",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 231,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DA ILHA DOS LOBOS",
+      "codigo_cnuc": "0000.00.0190",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 142.3882,
+      "ato_legal": "DEC 88.463, DE 04/07/1983; DEC S/N de 13/02/2006",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 28,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DO IBIRAPUITÃ",
+      "codigo_cnuc": "0000.00.0021",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "PAMPA",
+      "bioma_compensacao_reserva_legal": "PAMPA",
+      "area_ha": 316792.0154,
+      "ato_legal": "DEC 529 de 20/05/1992",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Rio Grande do Sul (RS) - Download gratuito",
+    "description": "10 unidades de conservação federais (ICMBio) com território em Rio Grande do Sul (RS), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 10 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Rio Grande do Sul (RS) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Rio Grande do Sul (RS) — 10 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 10 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

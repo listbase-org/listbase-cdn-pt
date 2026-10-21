@@ -1,0 +1,79 @@
+{
+  "id": "pt-unidades-medida-torque",
+  "name": "Unidades de medida — categoria 'torque' (2)",
+  "title": "Unidades de medida — categoria 'torque' (2)",
+  "description": "Unidades de medida da categoria 'torque' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "torque-newton-meter",
+      "categoria": "torque",
+      "nome": "newton-metros",
+      "abreviacao": "N⋅m",
+      "estreito": "N⋅m",
+      "padrao": "{0} newton-metros"
+    },
+    {
+      "id": 2,
+      "unit_code": "torque-pound-force-foot",
+      "categoria": "torque",
+      "nome": "pés-libra",
+      "abreviacao": "lbf⋅ft",
+      "estreito": "lbf⋅ft",
+      "padrao": "{0} pés-libra"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'torque' (2) - Download gratuito",
+    "description": "Unidades de medida da categoria 'torque' do locale pt do CLDR, com nomes em português. Contém 2 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'torque' (2) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'torque' (2) — 2 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 2 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

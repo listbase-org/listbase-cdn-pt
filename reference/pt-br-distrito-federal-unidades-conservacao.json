@@ -1,0 +1,232 @@
+{
+  "id": "pt-br-distrito-federal-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Distrito Federal (DF)",
+  "title": "Unidades de Conservação Federais — Distrito Federal (DF)",
+  "description": "7 unidades de conservação federais (ICMBio) com território em Distrito Federal (DF), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 89,
+      "nome": "FLORESTA NACIONAL DE BRASÍLIA",
+      "codigo_cnuc": "0000.00.0086",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "DF",
+      "uf_abrangencia": "DF",
+      "estados": "Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 5622.7909,
+      "ato_legal": "DEC S/N, de 10/06/1999; LEI 14.447, de 09/09/2022",
+      "nucleo_gestao": "ICMBio Descoberto-Brasília",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 186,
+      "nome": "PARQUE NACIONAL DE BRASÍLIA",
+      "codigo_cnuc": "0000.00.0159",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "DF",
+      "uf_abrangencia": "DF",
+      "estados": "Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 42355.5419,
+      "ato_legal": "DEC 241, de 29/11/1961; LEI 11.285, de 09/03/2006",
+      "nucleo_gestao": "ICMBio Brasília-Contagem",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 242,
+      "nome": "RESERVA BIOLÓGICA DA CONTAGEM",
+      "codigo_cnuc": "0000.00.0192",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "DF",
+      "uf_abrangencia": "DF",
+      "estados": "Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 3411.7169,
+      "ato_legal": "DEC S/N de 13/12/2002",
+      "nucleo_gestao": "ICMBio Brasília-Contagem",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 7,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA BACIA DO RIO DESCOBERTO",
+      "codigo_cnuc": "0000.00.0003",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO, DF",
+      "uf_abrangencia": "GO/DF",
+      "estados": "Goiás, Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 41783.6139,
+      "ato_legal": "DEC 88.940 de 07/11/1983",
+      "nucleo_gestao": "ICMBio Descoberto-Brasília",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 8,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA BACIA DO RIO SÃO BARTOLOMEU",
+      "codigo_cnuc": "0000.00.0004",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "DF",
+      "uf_abrangencia": "DF",
+      "estados": "Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 82680.8036,
+      "ato_legal": "DEC 88.940 de 07/11/1983",
+      "nucleo_gestao": "Gestão transferida ao Ibram-DF",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 30,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DO PLANALTO CENTRAL",
+      "codigo_cnuc": "0000.00.0023",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "GO, DF",
+      "uf_abrangencia": "GO/DF",
+      "estados": "Goiás, Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 503423.3577,
+      "ato_legal": "DEC S/N de 10/01/2002",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 39,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO CAPETINGA - TAQUARA",
+      "codigo_cnuc": "0000.00.0031",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "DF",
+      "uf_abrangencia": "DF",
+      "estados": "Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 2057.226,
+      "ato_legal": "DEC 91.303 de 03/06/1985",
+      "nucleo_gestao": "Gestão compartilhada com UnB",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Distrito Federal (DF) - Download gratuito",
+    "description": "7 unidades de conservação federais (ICMBio) com território em Distrito Federal (DF), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 7 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Distrito Federal (DF) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Distrito Federal (DF) — 7 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 7 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

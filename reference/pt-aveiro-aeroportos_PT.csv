@@ -1,0 +1,8 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords","Parent Index"
+"321238","LPAG","heliport","Albergaria-a-Velha Heliport","40.707119","-8.4914","460","EU","PT","PT-01","01","Aveiro District","Albergaria-a-Velha","no","LPAG","","LPAG","","","","","3277"
+"4438","LPAV","small_airport","São Jacinto Airfield","40.656741","-8.741544","26","EU","PT","PT-01","01","Aveiro District","Aveiro","no","LPAV","","LPAV","","","https://en.wikipedia.org/wiki/S%C3%A3o_Jacinto_Airport","ZAV, Aveiro Airbase","3279"
+"29858","LPIN","small_airport","Espinho Airfield","40.974201","-8.64444","10","EU","PT","PT-01","01","Aveiro District","","no","","","LPIN","","","https://en.wikipedia.org/wiki/Espinho_Airfield","","3305"
+"4455","LPOV","medium_airport","Ovar Air Base","40.915901","-8.64592","56","EU","PT","PT-01","01","Aveiro District","Ovar","no","","","LPOV","","","https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Ovar","","3323"
+"43782","PT-0014","heliport","São Sebastião Hospital Helipad","40.929417","-8.548319","521","EU","PT","PT-01","01","Aveiro District","Santa Maria da Feira","no","LPSS","","LPSS","","","","","3363"
+"43786","PT-0018","heliport","Santa Maria da Feira Heliport","40.93005","-8.54234","485","EU","PT","PT-01","01","Aveiro District","Santa Maria da Feira","no","","","","","","","","3367"
+"315657","PT-0026","small_airport","Casarão UL","40.548704","-8.40548","","EU","PT","PT-01","01","Aveiro District","Águeda","no","","","","LP76","","","","3375"

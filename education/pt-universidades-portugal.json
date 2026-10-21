@@ -1,0 +1,726 @@
+{
+  "id": "pt-universidades-portugal",
+  "name": "Portugal — Universidades (Universities)",
+  "title": "Portugal — Universidades (Universities)",
+  "description": "List of universities, polytechnics and higher-education institutions in Portugal. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region (district) where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Portugal\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Academia Nacional Superior de Orquesta",
+      "slug": "oml",
+      "domain": "oml.pt",
+      "domains": "oml.pt",
+      "web_page": "http://www.oml.pt/anso/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Católica Lisbon School of Business & Economics",
+      "slug": "clsbe",
+      "domain": "clsbe.lisboa.ucp.pt",
+      "domains": "clsbe.lisboa.ucp.pt",
+      "web_page": "https://www.clsbe.lisboa.ucp.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Escola Nautica Infante D. Henrique",
+      "slug": "enautica",
+      "domain": "enautica.pt",
+      "domains": "enautica.pt",
+      "web_page": "http://www.enautica.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Escola Superior de Artes e Design",
+      "slug": "esad",
+      "domain": "esad.pt",
+      "domains": "esad.pt",
+      "web_page": "http://www.esad.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Escola Superior de Hotelaria e Turismo do Estoril",
+      "slug": "eshte",
+      "domain": "eshte.pt",
+      "domains": "eshte.pt",
+      "web_page": "http://www.eshte.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Escola Superior de Media Artes e Design",
+      "slug": "esmad",
+      "domain": "esmad.ipp.pt",
+      "domains": "esmad.ipp.pt, www.esmad.ipp.pt",
+      "web_page": "https://www.esmad.ipp.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "European University Portugal",
+      "slug": "europeanuniversity",
+      "domain": "europeanuniversity.pt",
+      "domains": "europeanuniversity.pt",
+      "web_page": "http://www.europeanuniversity.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "ISCTE - Instituto Universitário de Lisboa",
+      "slug": "iscte",
+      "domain": "iscte.pt",
+      "domains": "iscte.pt, iscte-iul.pt",
+      "web_page": "http://www.iscte-iul.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Piaget",
+      "slug": "ipiaget",
+      "domain": "ipiaget.org",
+      "domains": "ipiaget.org",
+      "web_page": "http://www.ipiaget.org/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politecnico do Porto",
+      "slug": "ipp",
+      "domain": "ipp.pt",
+      "domains": "ipp.pt",
+      "web_page": "http://www.ipp.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico da Guarda",
+      "slug": "ipg",
+      "domain": "ipg.pt",
+      "domains": "ipg.pt",
+      "web_page": "http://www.ipg.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Beja",
+      "slug": "ipbeja",
+      "domain": "ipbeja.pt",
+      "domains": "ipbeja.pt",
+      "web_page": "http://www.ipbeja.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Bragança",
+      "slug": "ipb",
+      "domain": "ipb.pt",
+      "domains": "ipb.pt",
+      "web_page": "http://www.ipb.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Castelo Branco",
+      "slug": "ipcb",
+      "domain": "ipcb.pt",
+      "domains": "ipcb.pt",
+      "web_page": "http://www.ipcb.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Coimbra",
+      "slug": "ipc",
+      "domain": "ipc.pt",
+      "domains": "ipc.pt",
+      "web_page": "http://www.ipc.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Leiria",
+      "slug": "ipleiria",
+      "domain": "ipleiria.pt",
+      "domains": "ipleiria.pt, my.ipleiria.pt",
+      "web_page": "https://www.ipleiria.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Lisboa",
+      "slug": "ipl",
+      "domain": "ipl.pt",
+      "domains": "ipl.pt",
+      "web_page": "http://www.ipl.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Portalegre",
+      "slug": "ipportalegre",
+      "domain": "ipportalegre.pt",
+      "domains": "ipportalegre.pt",
+      "web_page": "http://www.ipportalegre.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Santarém",
+      "slug": "ipsantarem",
+      "domain": "ipsantarem.pt",
+      "domains": "ipsantarem.pt",
+      "web_page": "http://www.ipsantarem.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Setúbal",
+      "slug": "ips",
+      "domain": "ips.pt",
+      "domains": "ips.pt",
+      "web_page": "http://www.ips.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Tomar",
+      "slug": "ipt",
+      "domain": "ipt.pt",
+      "domains": "ipt.pt",
+      "web_page": "http://www.ipt.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico de Viana do Castelo",
+      "slug": "ipvc",
+      "domain": "ipvc.pt",
+      "domains": "ipvc.pt",
+      "web_page": "http://www.ipvc.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Politécnico do Cávado e do Ave",
+      "slug": "ipca",
+      "domain": "ipca.pt",
+      "domains": "ipca.pt",
+      "web_page": "http://www.ipca.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior Bissaya Barreto",
+      "slug": "isbb",
+      "domain": "isbb.pt",
+      "domains": "isbb.pt",
+      "web_page": "http://www.isbb.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior D. Afonso III - INUAF",
+      "slug": "inuaf-studia",
+      "domain": "inuaf-studia.pt",
+      "domains": "inuaf-studia.pt",
+      "web_page": "http://www.inuaf-studia.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior Novas Profissões - INP",
+      "slug": "inp",
+      "domain": "inp.pt",
+      "domains": "inp.pt",
+      "web_page": "http://www.inp.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Gaya",
+      "slug": "ispgaya",
+      "domain": "ispgaya.pt",
+      "domains": "ispgaya.pt",
+      "web_page": "http://www.ispgaya.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Assistentes e Intérpretes",
+      "slug": "isai",
+      "domain": "isai.pt",
+      "domains": "isai.pt",
+      "web_page": "http://www.isai.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências Educativas",
+      "slug": "pedago",
+      "domain": "pedago.pt",
+      "domains": "pedago.pt",
+      "web_page": "http://www.pedago.pt/isce.htm",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências Empresariais e de Turismo",
+      "slug": "iscet",
+      "domain": "iscet.pt",
+      "domains": "iscet.pt",
+      "web_page": "http://www.iscet.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Entre Douro e Vouga",
+      "slug": "isvouga",
+      "domain": "isvouga.com",
+      "domains": "isvouga.com",
+      "web_page": "http://www.isvouga.com/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Gestão - ISG",
+      "slug": "isg",
+      "domain": "isg.pt",
+      "domains": "isg.pt",
+      "web_page": "http://www.isg.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Informática e Gestão",
+      "slug": "cocite",
+      "domain": "cocite.pt",
+      "domains": "cocite.pt",
+      "web_page": "http://www.cocite.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Línguas e Administração",
+      "slug": "isla",
+      "domain": "isla.pt",
+      "domains": "isla.pt",
+      "web_page": "http://www.isla.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Paços de Brandão",
+      "slug": "ispab",
+      "domain": "ispab.pt",
+      "domains": "ispab.pt",
+      "web_page": "http://www.ispab.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Psicologia Aplicada",
+      "slug": "ispa",
+      "domain": "ispa.pt",
+      "domains": "ispa.pt",
+      "web_page": "http://www.ispa.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Saúde do Alto Ave",
+      "slug": "isave",
+      "domain": "isave.edu.pt",
+      "domains": "isave.edu.pt",
+      "web_page": "http://www.isave.edu.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Tecnologias Avançadas - ISTEC",
+      "slug": "istec",
+      "domain": "istec.pt",
+      "domains": "istec.pt",
+      "web_page": "http://www.istec.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Superior de Transportes e Comunicações",
+      "slug": "istp",
+      "domain": "istp.pt",
+      "domains": "istp.pt",
+      "web_page": "http://www.istp.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto de Artes Visuais, Design e Marketing - IADE",
+      "slug": "iade",
+      "domain": "iade.pt",
+      "domains": "iade.pt",
+      "web_page": "http://www.iade.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "NOVA School of Science and Technology",
+      "slug": "campus",
+      "domain": "campus.fct.unl.pt",
+      "domains": "campus.fct.unl.pt",
+      "web_page": "https://fct.unl.pt",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Nova School of Business and Economics",
+      "slug": "novasbe",
+      "domain": "novasbe.unl.pt",
+      "domains": "novasbe.unl.pt",
+      "web_page": "https://www.novasbe.unl.pt/en/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Aberta Lisboa",
+      "slug": "univ-ab",
+      "domain": "univ-ab.pt",
+      "domains": "univ-ab.pt",
+      "web_page": "http://www.univ-ab.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Atlântica",
+      "slug": "uatla",
+      "domain": "uatla.pt",
+      "domains": "uatla.pt",
+      "web_page": "http://www.uatla.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Autónoma de Lisboa Luís de Camoes",
+      "slug": "universidade-autonoma",
+      "domain": "universidade-autonoma.pt",
+      "domains": "universidade-autonoma.pt",
+      "web_page": "http://www.universidade-autonoma.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Catolica Portuguesa",
+      "slug": "ucp",
+      "domain": "ucp.pt",
+      "domains": "ucp.pt",
+      "web_page": "http://www.ucp.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Fernando Pessoa",
+      "slug": "ufp",
+      "domain": "ufp.pt",
+      "domains": "ufp.pt",
+      "web_page": "http://www.ufp.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Independente",
+      "slug": "uni",
+      "domain": "uni.pt",
+      "domains": "uni.pt",
+      "web_page": "http://www.uni.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Internacional Lisboa",
+      "slug": "uinternacional",
+      "domain": "uinternacional.pt",
+      "domains": "uinternacional.pt",
+      "web_page": "http://www.uinternacional.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Lusiada",
+      "slug": "ulusiada",
+      "domain": "ulusiada.pt",
+      "domains": "ulusiada.pt",
+      "web_page": "http://www.ulusiada.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Lusófona de Humanidades e Technologias",
+      "slug": "ulusofona",
+      "domain": "ulusofona.pt",
+      "domains": "ulusofona.pt",
+      "web_page": "http://www.ulusofona.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Moderna de Lisboa",
+      "slug": "umoderna",
+      "domain": "umoderna.pt",
+      "domains": "umoderna.pt",
+      "web_page": "http://www.umoderna.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Nova de Lisboa",
+      "slug": "unl",
+      "domain": "unl.pt",
+      "domains": "unl.pt",
+      "web_page": "http://www.unl.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Portucalense Infante D. Henrique",
+      "slug": "uportu",
+      "domain": "uportu.pt",
+      "domains": "uportu.pt",
+      "web_page": "http://www.uportu.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Tecnica de Lisboa",
+      "slug": "utl",
+      "domain": "utl.pt",
+      "domains": "utl.pt",
+      "web_page": "http://www.utl.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade da Beira Interior",
+      "slug": "ubi",
+      "domain": "ubi.pt",
+      "domains": "ubi.pt",
+      "web_page": "http://www.ubi.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade da Madeira",
+      "slug": "uma",
+      "domain": "uma.pt",
+      "domains": "uma.pt",
+      "web_page": "http://www.uma.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Aveiro",
+      "slug": "ua",
+      "domain": "ua.pt",
+      "domains": "ua.pt",
+      "web_page": "http://www.ua.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Coimbra",
+      "slug": "uc",
+      "domain": "uc.pt",
+      "domains": "uc.pt",
+      "web_page": "http://www.uc.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Evora",
+      "slug": "uevora",
+      "domain": "uevora.pt",
+      "domains": "uevora.pt",
+      "web_page": "http://www.uevora.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Lisboa",
+      "slug": "ul",
+      "domain": "ul.pt",
+      "domains": "ul.pt, campus.ul.pt",
+      "web_page": "http://www.ul.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Tras-os-Montes e Alto Douro",
+      "slug": "utad",
+      "domain": "utad.pt",
+      "domains": "utad.pt",
+      "web_page": "http://www.utad.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Algarve",
+      "slug": "ualg",
+      "domain": "ualg.pt",
+      "domains": "ualg.pt",
+      "web_page": "http://www.ualg.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Minho",
+      "slug": "uminho",
+      "domain": "uminho.pt",
+      "domains": "uminho.pt",
+      "web_page": "http://www.uminho.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Porto",
+      "slug": "up",
+      "domain": "up.pt",
+      "domains": "up.pt",
+      "web_page": "http://www.up.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade dos Acores",
+      "slug": "uac",
+      "domain": "uac.pt",
+      "domains": "uac.pt",
+      "web_page": "http://www.uac.pt/",
+      "country": "Portugal",
+      "country_code": "PT",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Portugal — Universidades (Universities) - Download gratuito",
+    "description": "List of universities, polytechnics and higher-education institutions in Portugal. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region (district) where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Portugal\"). Contém 66 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Portugal — Universidades (Universities) | ListBase",
+    "seo_description": "Baixar Portugal — Universidades (Universities) — 66 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 66 registros / 8 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

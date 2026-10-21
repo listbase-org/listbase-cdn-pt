@@ -1,0 +1,304 @@
+{
+  "id": "pt-coimbra-aeroportos",
+  "name": "Aeroportos de Coimbra (Portugal) — 7 registos",
+  "title": "Aeroportos de Coimbra (Portugal) — 7 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Coimbra (Distrito, PT-06), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 321241,
+      "ident": "LPCI",
+      "type": "heliport",
+      "name": "Coimbra University Hospital Helipad",
+      "latitude_deg": 40.219877,
+      "longitude_deg": -8.413009,
+      "elevation_ft": 331,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-06",
+      "region_local_code": "06",
+      "region_name": "Coimbra District",
+      "municipality": "Coimbra",
+      "scheduled_service": "no",
+      "icao_code": "LPCI",
+      "iata_code": "",
+      "gps_code": "LPCI",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Hospitais_da_Universidade_de_Coimbra",
+      "keywords": "",
+      "parent_index": 3289
+    },
+    {
+      "id": 4443,
+      "ident": "LPCO",
+      "type": "medium_airport",
+      "name": "Aerodromo Municipal de Coimbra",
+      "latitude_deg": 40.158758,
+      "longitude_deg": -8.470815,
+      "elevation_ft": 587,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-06",
+      "region_local_code": "06",
+      "region_name": "Coimbra District",
+      "municipality": "Coimbra",
+      "scheduled_service": "no",
+      "icao_code": "LPCO",
+      "iata_code": "",
+      "gps_code": "LPCO",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Coimbra_Airport",
+      "keywords": "CBP",
+      "parent_index": 3291
+    },
+    {
+      "id": 30086,
+      "ident": "LPLZ",
+      "type": "small_airport",
+      "name": "Aerodromo da Lousã",
+      "latitude_deg": 40.143042,
+      "longitude_deg": -8.240987,
+      "elevation_ft": 654,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-06",
+      "region_local_code": "06",
+      "region_name": "Coimbra District",
+      "municipality": "Lousã",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPLZ",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3309
+    },
+    {
+      "id": 316226,
+      "ident": "PT-0029",
+      "type": "small_airport",
+      "name": "Aeródromo de Coja",
+      "latitude_deg": 40.2748,
+      "longitude_deg": -7.9747,
+      "elevation_ft": 925,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-06",
+      "region_local_code": "06",
+      "region_name": "Coimbra District",
+      "municipality": "Arganil",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3378
+    },
+    {
+      "id": 320264,
+      "ident": "PT-0037",
+      "type": "small_airport",
+      "name": "Aeródromo da Pampilhosa da Serra",
+      "latitude_deg": 40.026869,
+      "longitude_deg": -7.955008,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-06",
+      "region_local_code": "06",
+      "region_name": "Coimbra District",
+      "municipality": "Pampilhosa da Serra",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3386
+    },
+    {
+      "id": 323769,
+      "ident": "PT-0049",
+      "type": "heliport",
+      "name": "Coimbra Hospital Covões Heliport",
+      "latitude_deg": 40.194812,
+      "longitude_deg": -8.460207,
+      "elevation_ft": 265,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-06",
+      "region_local_code": "06",
+      "region_name": "Coimbra District",
+      "municipality": "Coimba",
+      "scheduled_service": "no",
+      "icao_code": "LPCV",
+      "iata_code": "",
+      "gps_code": "LPCV",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3398
+    },
+    {
+      "id": 335852,
+      "ident": "PT-0142",
+      "type": "small_airport",
+      "name": "Quinta de Fôja",
+      "latitude_deg": 40.18503,
+      "longitude_deg": -8.704338,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-06",
+      "region_local_code": "06",
+      "region_name": "Coimbra District",
+      "municipality": "Montemor-o-velho",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "agricultural",
+      "parent_index": 3491
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Coimbra (Portugal) — 7 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Coimbra (Distrito, PT-06), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 7 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Coimbra (Portugal) — 7 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Coimbra (Portugal) — 7 registos — 7 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 7 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

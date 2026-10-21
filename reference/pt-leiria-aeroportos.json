@@ -1,0 +1,376 @@
+{
+  "id": "pt-leiria-aeroportos",
+  "name": "Aeroportos de Leiria (Portugal) — 10 registos",
+  "title": "Aeroportos de Leiria (Portugal) — 10 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Leiria (Distrito, PT-10), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 30066,
+      "ident": "LPJF",
+      "type": "small_airport",
+      "name": "Aerodromo de Leiria",
+      "latitude_deg": 39.779907,
+      "longitude_deg": -8.820238,
+      "elevation_ft": 151,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Leiria",
+      "scheduled_service": "no",
+      "icao_code": "LPJF",
+      "iata_code": "",
+      "gps_code": "LPJF",
+      "local_code": "",
+      "home_link": "https://www.aeroclubeleiria.pt/",
+      "wikipedia_link": "",
+      "keywords": "QLR",
+      "parent_index": 3307
+    },
+    {
+      "id": 4453,
+      "ident": "LPMR",
+      "type": "medium_airport",
+      "name": "Monte Real Air Base",
+      "latitude_deg": 39.828335,
+      "longitude_deg": -8.8875,
+      "elevation_ft": 187,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "LPMR",
+      "iata_code": "",
+      "gps_code": "LPMR",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Monte_Real_Air_Base",
+      "keywords": "QLR",
+      "parent_index": 3318
+    },
+    {
+      "id": 43778,
+      "ident": "PT-0010",
+      "type": "heliport",
+      "name": "Hospital Distrital Leiria heliport",
+      "latitude_deg": 39.744537,
+      "longitude_deg": -8.793105,
+      "elevation_ft": 200,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Leiria",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPLE",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3359
+    },
+    {
+      "id": 320147,
+      "ident": "PT-0033",
+      "type": "small_airport",
+      "name": "Aeródromo de Pombal UL",
+      "latitude_deg": 39.885631,
+      "longitude_deg": -8.649693,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Pombal",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "LP69",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Casalinho",
+      "parent_index": 3382
+    },
+    {
+      "id": 326666,
+      "ident": "PT-0053",
+      "type": "closed",
+      "name": "Fátima Salgueira Airstrip",
+      "latitude_deg": 39.560839,
+      "longitude_deg": -8.640919,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Fátima",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3402
+    },
+    {
+      "id": 326734,
+      "ident": "PT-0097",
+      "type": "closed",
+      "name": "Aerodromo do Coentral",
+      "latitude_deg": 40.0767,
+      "longitude_deg": -8.158336,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Castanheira de Pêra",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3446
+    },
+    {
+      "id": 326735,
+      "ident": "PT-0098",
+      "type": "closed",
+      "name": "Pista do Sorraia",
+      "latitude_deg": 39.966636,
+      "longitude_deg": -8.157102,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Pedrógão Grande",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3447
+    },
+    {
+      "id": 326738,
+      "ident": "PT-0101",
+      "type": "small_airport",
+      "name": "Aerodromo de Atouguia da Baleia UL",
+      "latitude_deg": 39.347424,
+      "longitude_deg": -9.32014,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Peniche",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "LP49",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3450
+    },
+    {
+      "id": 329167,
+      "ident": "PT-0133",
+      "type": "heliport",
+      "name": "Heliporto de Alcaria",
+      "latitude_deg": 39.577785,
+      "longitude_deg": -8.784498,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Alcaria",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3482
+    },
+    {
+      "id": 509982,
+      "ident": "PT-0149",
+      "type": "heliport",
+      "name": "Fátima Fire Brigade Heliport",
+      "latitude_deg": 39.62688,
+      "longitude_deg": -8.68449,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-10",
+      "region_local_code": "10",
+      "region_name": "Leiria District",
+      "municipality": "Fátima",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3498
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Leiria (Portugal) — 10 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Leiria (Distrito, PT-10), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 10 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Leiria (Portugal) — 10 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Leiria (Portugal) — 10 registos — 10 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 10 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

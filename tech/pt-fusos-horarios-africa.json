@@ -1,0 +1,200 @@
+{
+  "id": "pt-fusos-horarios-africa",
+  "name": "Fusos horários — Africa (18)",
+  "title": "Fusos horários — Africa (18)",
+  "description": "Fusos horários cujo identificador IANA começa com 'Africa/', com nomes em português.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "nome_padrao",
+      "label": "Nome Padrao",
+      "type": "string"
+    },
+    {
+      "key": "nome_verao",
+      "label": "Nome Verao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Accra",
+      "regiao": "Africa",
+      "cidade": "Acra",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Addis_Ababa",
+      "regiao": "Africa",
+      "cidade": "Adis Abeba",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Algiers",
+      "regiao": "Africa",
+      "cidade": "Argel",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Asmera",
+      "regiao": "Africa",
+      "cidade": "Asmara",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Conakry",
+      "regiao": "Africa",
+      "cidade": "Conacri",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Djibouti",
+      "regiao": "Africa",
+      "cidade": "Djibuti",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/El_Aaiun",
+      "regiao": "Africa",
+      "cidade": "El Aaiún",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Johannesburg",
+      "regiao": "Africa",
+      "cidade": "Joanesburgo",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Khartoum",
+      "regiao": "Africa",
+      "cidade": "Cartum",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Lome",
+      "regiao": "Africa",
+      "cidade": "Lomé",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Mogadishu",
+      "regiao": "Africa",
+      "cidade": "Mogadíscio",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Monrovia",
+      "regiao": "Africa",
+      "cidade": "Monróvia",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Nairobi",
+      "regiao": "Africa",
+      "cidade": "Nairóbi",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Ndjamena",
+      "regiao": "Africa",
+      "cidade": "N’Djamena",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Porto-Novo",
+      "regiao": "Africa",
+      "cidade": "Porto Novo",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Sao_Tome",
+      "regiao": "Africa",
+      "cidade": "São Tomé",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Tripoli",
+      "regiao": "Africa",
+      "cidade": "Trípoli",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Tunis",
+      "regiao": "Africa",
+      "cidade": "Túnis",
+      "nome_padrao": "",
+      "nome_verao": ""
+    }
+  ],
+  "meta": {
+    "title": "Fusos horários — Africa (18) - Download gratuito",
+    "description": "Fusos horários cujo identificador IANA começa com 'Africa/', com nomes em português. Contém 18 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fusos horários — Africa (18) | ListBase",
+    "seo_description": "Baixar Fusos horários — Africa (18) — 18 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 18 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

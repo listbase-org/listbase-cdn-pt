@@ -1,0 +1,8 @@
+﻿"Codigo Uf","Uf","Nome","Slug","Regiao","Regiao Slug","Latitude","Longitude","Capital Nome","Capital Codigo Ibge","Municipios Count"
+"12","AC","Acre","acre","Norte","norte","-8.77","-70.55","Rio Branco","1200401","22"
+"16","AP","Amapá","amapa","Norte","norte","1.41","-51.77","Macapá","1600303","16"
+"13","AM","Amazonas","amazonas","Norte","norte","-3.47","-65.1","Manaus","1302603","62"
+"15","PA","Pará","para","Norte","norte","-3.79","-52.48","Belém","1501402","144"
+"11","RO","Rondônia","rondonia","Norte","norte","-10.83","-63.34","Porto Velho","1100205","52"
+"14","RR","Roraima","roraima","Norte","norte","1.99","-61.33","Boa Vista","1400100","15"
+"17","TO","Tocantins","tocantins","Norte","norte","-9.46","-48.26","Palmas","1721000","139"

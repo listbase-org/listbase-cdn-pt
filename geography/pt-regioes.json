@@ -1,0 +1,116 @@
+{
+  "id": "pt-regioes",
+  "name": "Regiões do Brasil — 5 regiões geográficas IBGE",
+  "title": "Regiões do Brasil — 5 regiões geográficas IBGE",
+  "description": "As 5 regiões geográficas brasileiras conforme classificação do IBGE: Norte, Nordeste, Centro-Oeste, Sudeste e Sul. Cada região inclui a contagem de estados, municípios e capitais, a lista de UFs membros, os nomes dos estados e uma descrição em português. Taxonomia base para agrupar estados e municípios por macrorregião.",
+  "category": "geography",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "estados_count",
+      "label": "Estados Count",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    },
+    {
+      "key": "capitais_count",
+      "label": "Capitais Count",
+      "type": "number"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "estados_nomes",
+      "label": "Estados Nomes",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Norte",
+      "slug": "norte",
+      "estados_count": 7,
+      "municipios_count": 450,
+      "capitais_count": 7,
+      "ufs": "RO, AC, AM, RR, PA, AP, TO",
+      "estados_nomes": "Rondônia, Acre, Amazonas, Roraima, Pará, Amapá, Tocantins",
+      "descricao": "A Região Norte é a maior região do Brasil em extensão territorial, abrangendo a maior parte da Floresta Amazônica. Composta por 7 unidades federativas: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins."
+    },
+    {
+      "nome": "Nordeste",
+      "slug": "nordeste",
+      "estados_count": 9,
+      "municipios_count": 1794,
+      "capitais_count": 9,
+      "ufs": "MA, PI, CE, RN, PB, PE, AL, SE, BA",
+      "estados_nomes": "Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia",
+      "descricao": "A Região Nordeste é composta por 9 estados e abriga uma vasta faixa litorânea, o sertão semiárido e ricas tradições culturais. Estados: Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe."
+    },
+    {
+      "nome": "Centro-Oeste",
+      "slug": "centro-oeste",
+      "estados_count": 4,
+      "municipios_count": 468,
+      "capitais_count": 4,
+      "ufs": "MS, MT, GO, DF",
+      "estados_nomes": "Mato Grosso do Sul, Mato Grosso, Goiás, Distrito Federal",
+      "descricao": "A Região Centro-Oeste reúne 3 estados e o Distrito Federal, ocupando o centro geográfico do Brasil e abrangendo o Cerrado e parte do Pantanal. Inclui Goiás, Mato Grosso, Mato Grosso do Sul e o Distrito Federal (Brasília)."
+    },
+    {
+      "nome": "Sudeste",
+      "slug": "sudeste",
+      "estados_count": 4,
+      "municipios_count": 1668,
+      "capitais_count": 4,
+      "ufs": "MG, ES, RJ, SP",
+      "estados_nomes": "Minas Gerais, Espírito Santo, Rio de Janeiro, São Paulo",
+      "descricao": "A Região Sudeste é a mais populosa e economicamente desenvolvida do Brasil, concentrando os principais polos urbanos. Composta por 4 estados: Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo."
+    },
+    {
+      "nome": "Sul",
+      "slug": "sul",
+      "estados_count": 3,
+      "municipios_count": 1191,
+      "capitais_count": 3,
+      "ufs": "PR, SC, RS",
+      "estados_nomes": "Paraná, Santa Catarina, Rio Grande do Sul",
+      "descricao": "A Região Sul é composta por 3 estados (Paraná, Santa Catarina e Rio Grande do Sul) e caracteriza-se por clima subtropical, forte herança imigratória europeia e elevado IDH."
+    }
+  ],
+  "meta": {
+    "title": "Regiões do Brasil — 5 regiões geográficas IBGE - Download gratuito",
+    "description": "As 5 regiões geográficas brasileiras conforme classificação do IBGE: Norte, Nordeste, Centro-Oeste, Sudeste e Sul. Cada região inclui a contagem de estados, municípios e capitais, a lista de UFs membros, os nomes dos estados e uma descrição em português. Taxonomia base para agrupar estados e municípios por macrorregião. Contém 5 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Regiões do Brasil — 5 regiões geográficas IBGE | ListBase",
+    "seo_description": "Baixar Regiões do Brasil — 5 regiões geográficas IBGE — 5 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 5 registros / 8 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

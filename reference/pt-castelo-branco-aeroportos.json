@@ -1,0 +1,328 @@
+{
+  "id": "pt-castelo-branco-aeroportos",
+  "name": "Aeroportos de Castelo Branco (Portugal) — 8 registos",
+  "title": "Aeroportos de Castelo Branco (Portugal) — 8 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Castelo Branco (Distrito, PT-05), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 315898,
+      "ident": "LPCB",
+      "type": "medium_airport",
+      "name": "Aerodromo de Castelo Branco",
+      "latitude_deg": 39.844528,
+      "longitude_deg": -7.439875,
+      "elevation_ft": 1300,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Castelo Branco",
+      "scheduled_service": "no",
+      "icao_code": "LPCB",
+      "iata_code": "",
+      "gps_code": "LPCB",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Castelo_Branco",
+      "keywords": "",
+      "parent_index": 3285
+    },
+    {
+      "id": 321242,
+      "ident": "LPCL",
+      "type": "heliport",
+      "name": "Covilhã Hospital Helipad",
+      "latitude_deg": 40.267597,
+      "longitude_deg": -7.491298,
+      "elevation_ft": 1585,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Covilhã",
+      "scheduled_service": "no",
+      "icao_code": "LPCL",
+      "iata_code": "",
+      "gps_code": "LPCL",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3290
+    },
+    {
+      "id": 321234,
+      "ident": "LPMD",
+      "type": "heliport",
+      "name": "Mirandela Hospital Heliport",
+      "latitude_deg": 41.484771,
+      "longitude_deg": -7.190643,
+      "elevation_ft": 732,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Mirandela",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPMD",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3313
+    },
+    {
+      "id": 29488,
+      "ident": "LPMF",
+      "type": "small_airport",
+      "name": "Aerodromo de Monfortinho",
+      "latitude_deg": 39.976398,
+      "longitude_deg": -6.906624,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Idanha-a-Nova",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPMF",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Monfortinho_Airport",
+      "keywords": "",
+      "parent_index": 3314
+    },
+    {
+      "id": 320291,
+      "ident": "PT-0040",
+      "type": "small_airport",
+      "name": "Aérodromo Municipal de Proença-a-Nova",
+      "latitude_deg": 39.731217,
+      "longitude_deg": -7.87495,
+      "elevation_ft": 1335,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Proença-a-Nova",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPPN",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3389
+    },
+    {
+      "id": 326737,
+      "ident": "PT-0100",
+      "type": "closed",
+      "name": "Pista do Ladoeiro",
+      "latitude_deg": 39.849493,
+      "longitude_deg": -7.281222,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Idanha-a-Nova",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3449
+    },
+    {
+      "id": 510532,
+      "ident": "PT-0151",
+      "type": "small_airport",
+      "name": "Campo de Voo da Quinta Branca",
+      "latitude_deg": 40.25716,
+      "longitude_deg": -7.459524,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Covilhã",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "https://www.aeroclubedacovilha.com/",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3500
+    },
+    {
+      "id": 4445,
+      "ident": "PT-0157",
+      "type": "closed",
+      "name": "Covilhã Airfield",
+      "latitude_deg": 40.264801,
+      "longitude_deg": -7.47996,
+      "elevation_ft": 1572,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "region_local_code": "05",
+      "region_name": "Castelo Branco District",
+      "municipality": "Covilhã",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Covilh%C3%A3_Airport",
+      "keywords": "COV, LPCV",
+      "parent_index": 3506
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Castelo Branco (Portugal) — 8 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Castelo Branco (Distrito, PT-05), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 8 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Castelo Branco (Portugal) — 8 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Castelo Branco (Portugal) — 8 registos — 8 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 8 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "id": "pt-br-canais-tv-series",
+  "name": "Canais de televisão de séries do Brasil",
+  "title": "Canais de televisão de séries do Brasil",
+  "description": "Canais de televisão brasileiros da categoria «series» (de séries) — 13 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AWTV.br",
+      "name": "AWTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "classic, series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://awtv.com.br/"
+    },
+    {
+      "id": 2,
+      "channel_id": "HBO.br",
+      "name": "HBO",
+      "alt_names": "HBO Brasil",
+      "network": "",
+      "owners": "Warner Bros. Discovery",
+      "country": "BR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "1994-07-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://hbobrasil.com/"
+    },
+    {
+      "id": 3,
+      "channel_id": "HBO2.br",
+      "name": "HBO 2",
+      "alt_names": "HBO 2 Brasil",
+      "network": "HBO",
+      "owners": "Warner Bros. Discovery",
+      "country": "BR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "1995-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://br.hbomax.tv/hbo2"
+    },
+    {
+      "id": 4,
+      "channel_id": "HBOXtreme.br",
+      "name": "HBO Xtreme",
+      "alt_names": "",
+      "network": "",
+      "owners": "Warner Bros. Discovery",
+      "country": "BR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2020-02-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hbobrasil.com/"
+    },
+    {
+      "id": 5,
+      "channel_id": "JeannieeumGenio.br",
+      "name": "Jeannie e um Genio",
+      "alt_names": "Jeannie é um Gênio",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 6,
+      "channel_id": "PlusSBTNovelas.br",
+      "name": "+SBT Novelas",
+      "alt_names": "",
+      "network": "",
+      "owners": "Grupo Silvio Santos",
+      "country": "BR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mais.sbt.com.br/"
+    },
+    {
+      "id": 7,
+      "channel_id": "SeriesClassic.br",
+      "name": "Series Classic",
+      "alt_names": "Séries Classic",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 8,
+      "channel_id": "StarChannel.br",
+      "name": "Star Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.star-brasil.com/"
+    },
+    {
+      "id": 9,
+      "channel_id": "SuperflixTV.br",
+      "name": "Superflix TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "entertainment, series, movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 10,
+      "channel_id": "TVSeries.br",
+      "name": "TV Series",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 11,
+      "channel_id": "TelaViva.br",
+      "name": "Tela Viva",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "family, movies, series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://telaviva.com.br/"
+    },
+    {
+      "id": 12,
+      "channel_id": "UrbanSeries.br",
+      "name": "Urban Series",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://urbantv.com.br/"
+    },
+    {
+      "id": 13,
+      "channel_id": "XtremeTV.br",
+      "name": "Xtreme TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "animation, series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://xtremetv.com.br/"
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão de séries do Brasil - Download gratuito",
+    "description": "Canais de televisão brasileiros da categoria «series» (de séries) — 13 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 13 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão de séries do Brasil | ListBase",
+    "seo_description": "Baixar Canais de televisão de séries do Brasil — 13 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 13 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

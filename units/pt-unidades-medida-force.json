@@ -1,0 +1,97 @@
+{
+  "id": "pt-unidades-medida-force",
+  "name": "Unidades de medida — categoria 'force' (4)",
+  "title": "Unidades de medida — categoria 'force' (4)",
+  "description": "Unidades de medida da categoria 'force' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "categoria": "force",
+      "nome": "quilogramas-força",
+      "abreviacao": "kgf",
+      "estreito": "kgf",
+      "padrao": "{0} quilogramas-força"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "categoria": "force",
+      "nome": "quilowatts-hora por 100 quilômetros",
+      "abreviacao": "kWh/100km",
+      "estreito": "kWh/100km",
+      "padrao": "{0} quilowatts-hora por 100 quilômetros"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "categoria": "force",
+      "nome": "newtons",
+      "abreviacao": "newton",
+      "estreito": "N",
+      "padrao": "{0} newtons"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "categoria": "force",
+      "nome": "libras de força",
+      "abreviacao": "libra-força",
+      "estreito": "lbf",
+      "padrao": "{0} libras de força"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'force' (4) - Download gratuito",
+    "description": "Unidades de medida da categoria 'force' do locale pt do CLDR, com nomes em português. Contém 4 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'force' (4) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'force' (4) — 4 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 4 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

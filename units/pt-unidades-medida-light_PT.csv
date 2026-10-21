@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Categoria","Nome","Abreviacao","Estreito","Padrao"
+"1","light-candela","light","candela","cd","cd","{0} candelas"
+"2","light-lumen","light","lúmen","lm","lm","{0} lúmens"
+"3","light-lux","light","lux","lux","lux","{0} lux"
+"4","light-solar-luminosity","light","luminosidades solares","luminosidades solares","L☉","{0} luminosidades solares"

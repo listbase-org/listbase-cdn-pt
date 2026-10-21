@@ -1,0 +1,70 @@
+{
+  "id": "pt-madeira-swift-codigos",
+  "name": "Códigos SWIFT/BIC — Madeira",
+  "title": "Códigos SWIFT/BIC — Madeira",
+  "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 4 instituições que a fonte indica com a cidade \"MADEIRA\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANCO BIC PORTUGUES, S.A.",
+      "city": "MADEIRA",
+      "branch": "(SUCURSAL FINANCEIRA EXTERIOR)",
+      "swift_code": "BPNPPTPLSFE"
+    },
+    {
+      "bank": "BANCO FINANTIA S.A.",
+      "city": "MADEIRA",
+      "branch": "(MADEIRA OFFSHORE BRANCH)",
+      "swift_code": "BFIAPTPLSFE"
+    },
+    {
+      "bank": "BANCO SANTANDER TOTTA, SA",
+      "city": "MADEIRA",
+      "branch": "(MADEIRA OFFSHORE BRANCH)",
+      "swift_code": "TOTAPTPLMOB"
+    },
+    {
+      "bank": "CAIXA BANCO DE INVESTIMENTO, S.A.",
+      "city": "MADEIRA",
+      "branch": "(MADEIRA OFFSHORE BRANCH)",
+      "swift_code": "CXBIPTPLMOB"
+    }
+  ],
+  "meta": {
+    "title": "Códigos SWIFT/BIC — Madeira - Download gratuito",
+    "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 4 instituições que a fonte indica com a cidade \"MADEIRA\". Contém 4 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Códigos SWIFT/BIC — Madeira | ListBase",
+    "seo_description": "Baixar Códigos SWIFT/BIC — Madeira — 4 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 4 registros / 4 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "pt-clubes-futebol",
+  "name": "Clubes de futebol de Portugal",
+  "title": "Clubes de futebol de Portugal",
+  "description": "Football clubs in PT with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "SC União Torreense",
+      "founded": 1917,
+      "aliases": "União Torreense, SCU Torreense | Sport Clube União Torreense, Sport União Torreense"
+    },
+    {
+      "name": "CD Cova Piedade",
+      "founded": 1947,
+      "aliases": "Cova da Piedade, Clube Desportivo Cova da Piedade, Estoril, GD Estoril Praia | Grupo Desportivo Estoril Praia, GD Estoril, Porto | Futebol Clube do Porto, Porto B | Futebol Clube do Porto B, Boavista | Boavista Porto | Boavista Porto FC, Boavista Futebol Clube, Oliveirense | União Desportiva Oliveirense"
+    },
+    {
+      "name": "CD Aves",
+      "founded": 1930,
+      "aliases": "Aves | Desportivo Aves, CD das Aves | Desportivo das Aves"
+    },
+    {
+      "name": "AVS Futebol",
+      "founded": 2023,
+      "aliases": "AVS, AVS Futebol SAD, Chaves | Grupo Desportivo de Chaves"
+    },
+    {
+      "name": "CD Feirense",
+      "founded": 1918,
+      "aliases": "Feirense | Clube Desportivo Feirense, Vitória, Guimarães | Vit. Guimarães | Vitória Guimarães, Vitória Sport Clube (de Guimarães), Vitória SC, Setúbal | Vitória Setúbal, Vitória FC, Marítimo | Marítimo Funchal, CS Marítimo Madeira, Club Sport Marítimo, Nacional  | CD Nacional | Nacional da Madeira, Clube Desportivo Nacional, Nacional Funchal, Moreirense, Moreirense Futebol Clube, Paços | Paços Ferreira | Paços de Ferreira, FC Paços Ferreira, Futebol Clube Paços de Ferreira, Portimonense, Portimonense Sporting Clube, Rio Ave, Rio Ave Futebol Clube, Braga | Sp Braga | Sporting Braga, Sporting Clube de Braga"
+    },
+    {
+      "name": "FC Vizela",
+      "founded": 1939,
+      "aliases": "Futebol Clube de Vizela, Vizela, Tondela, Clube Desportivo de Tondela, Académica | Académ. Coimbra | A. Académica de Coimbra, Associação Académica de Coimbra, Associação Académica de Coimbra - Organismo Autónomo de Futebol  # (AAC–OAF), Associação Académica de Coimbra - O.A.F, Arouca, Futebol Clube de Arouca"
+    },
+    {
+      "name": "FC Penafiel",
+      "founded": 1951,
+      "aliases": "Penafiel | Futebol Clube de Penafiel, Beira-Mar, Desp. Chaves, Est Amadora | Estrela Amadora, Estrela da Amadora, CF Estrela, Club Football Estrela Amadora, Club Football Estrela da Amadora, Club Foot Estrela"
+    },
+    {
+      "name": "SC Farense",
+      "founded": 1910,
+      "aliases": "Farense, Sporting Farense | Sporting Clube Farense, Gil Vicente, Gil Vicente Futebol Clube, Leiria | UD Leiria | União Desportiva de Leiria, União Leiria, Madeira | União Madeira, Salgueiros, Tirsense, Campomaior | Campomaiorense, Felgueiras, Leça, Alverca |  Alverca Futebol, Espinho | SC Espinho | Sporting Clube de Espinho"
+    },
+    {
+      "name": "Leixões SC",
+      "founded": 1907,
+      "aliases": "Leixões | Leixões Sport Club, Naval | Associação Naval 1º de Maio, Naval 1° de Maio       ### todo/fix: add ° to norm_names!!!!!!, Olhanense, Santa Clara, Clube Desportivo Santa Clara, Trofense | Clube Desportivo Trofense"
+    },
+    {
+      "name": "Varzim SC",
+      "founded": 1915,
+      "aliases": "Varzim | Varzim Sport Club"
+    },
+    {
+      "name": "FC Famalicão",
+      "founded": 1931,
+      "aliases": "Famalicão | Futebol Clube de Famalicão"
+    },
+    {
+      "name": "SC Covilhã",
+      "founded": 1923,
+      "aliases": "Sp. Covilhã | Sporting Covilhã, Sporting da Covilhã | Sporting Clube da Covilhã, SCC, Académico de Viseu | Académico de Viseu FC, Anadia Futebol Clube"
+    },
+    {
+      "name": "CU Fabril Barreiro",
+      "founded": 1937,
+      "aliases": "Fabril | Fabril Barreiro | Fabril do Barreiro, GD Fabril | Grupo Desportivo Fabril, GD CUF Barreiro, CUF Barreiro | CUF do Barreiro    # Companhia União Fabril"
+    },
+    {
+      "name": "FC Barreirense",
+      "founded": 1911,
+      "aliases": "Futebol Clube Barreirense, Amarante Futebol Clube, Amarante, Länk FC Vilaverdense"
+    }
+  ],
+  "meta": {
+    "title": "Clubes de futebol de Portugal - Download gratuito",
+    "description": "Football clubs in PT with founding year, stadium, city Contém 14 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Clubes de futebol de Portugal | ListBase",
+    "seo_description": "Baixar Clubes de futebol de Portugal — 14 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 14 registros / 3 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

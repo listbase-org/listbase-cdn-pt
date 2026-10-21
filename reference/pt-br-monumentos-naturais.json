@@ -1,0 +1,214 @@
+{
+  "id": "pt-br-monumentos-naturais",
+  "name": "Monumento Natural — unidades federais do Brasil (Mona)",
+  "title": "Monumento Natural — unidades federais do Brasil (Mona)",
+  "description": "6 unidades de conservação federais da categoria Monumento Natural (Mona, grupo Proteção Integral) geridas pelo ICMBio, com UF, bioma, área e ato legal. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 149,
+      "nome": "MONUMENTO NATURAL CAVERNAS DE SÃO DESIDÉRIO",
+      "codigo_cnuc": "0000.00.4855",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "BA",
+      "uf_abrangencia": "BA",
+      "estados": "Bahia",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 16193.9735,
+      "ato_legal": "Decreto n. 12.042, de 5 de junho de 2024",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 150,
+      "nome": "MONUMENTO NATURAL DAS ILHAS DE TRINDADE, MARTIM VAZ E DO MONTE COLUMBIA",
+      "codigo_cnuc": "0000.00.3642",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "BA",
+      "uf_abrangencia": "BA",
+      "estados": "Bahia",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 6769671.7551,
+      "ato_legal": "DEC 9.312 de 19/03/2018",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 151,
+      "nome": "MONUMENTO NATURAL DO ARQUIPÉLAGO DAS ILHAS CAGARRAS",
+      "codigo_cnuc": "0000.00.0034",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "RJ",
+      "uf_abrangencia": "RJ",
+      "estados": "Rio de Janeiro",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 91.1982,
+      "ato_legal": "LEI 12.229 de 13/04/2010",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 152,
+      "nome": "MONUMENTO NATURAL DO ARQUIPÉLAGO DE SÃO PEDRO E SÃO PAULO",
+      "codigo_cnuc": "0000.00.3644",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 4726317.8357,
+      "ato_legal": "DEC 9.313 de 19/03/2018",
+      "nucleo_gestao": "ICMBio Noronha",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 153,
+      "nome": "MONUMENTO NATURAL DO RIO SÃO FRANCISCO",
+      "codigo_cnuc": "0000.00.1812",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "BA, SE, AL",
+      "uf_abrangencia": "BA/SE/AL",
+      "estados": "Bahia, Sergipe, Alagoas",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 26736.7008,
+      "ato_legal": "DEC S/N, de 05/06/2009",
+      "nucleo_gestao": "ICMBio Paulo Afonso",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 154,
+      "nome": "MONUMENTO NATURAL DOS PONTÕES CAPIXABAS",
+      "codigo_cnuc": "0000.00.0181",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 17443.6335,
+      "ato_legal": "DEC S/N de 19/12/2002; Lei ordinária 11.686, de 02/06/2008",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Monumento Natural — unidades federais do Brasil (Mona) - Download gratuito",
+    "description": "6 unidades de conservação federais da categoria Monumento Natural (Mona, grupo Proteção Integral) geridas pelo ICMBio, com UF, bioma, área e ato legal. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 6 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Monumento Natural — unidades federais do Brasil (Mona) | ListBase",
+    "seo_description": "Baixar Monumento Natural — unidades federais do Brasil (Mona) — 6 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 6 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

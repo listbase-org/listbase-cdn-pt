@@ -1,0 +1,280 @@
+{
+  "id": "pt-braganca-aeroportos",
+  "name": "Aeroportos de Bragança (Portugal) — 6 registos",
+  "title": "Aeroportos de Bragança (Portugal) — 6 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Bragança (Distrito, PT-04), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 4440,
+      "ident": "LPBG",
+      "type": "medium_airport",
+      "name": "Bragança Airport",
+      "latitude_deg": 41.8578,
+      "longitude_deg": -6.70713,
+      "elevation_ft": 2241,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-04",
+      "region_local_code": "04",
+      "region_name": "Bragança District",
+      "municipality": "Bragança",
+      "scheduled_service": "yes",
+      "icao_code": "LPBG",
+      "iata_code": "BGC",
+      "gps_code": "LPBG",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Bragan%C3%A7a_Airport",
+      "keywords": "",
+      "parent_index": 3281
+    },
+    {
+      "id": 321235,
+      "ident": "LPMC",
+      "type": "heliport",
+      "name": "Macedo de Cavaleiros",
+      "latitude_deg": 41.52532,
+      "longitude_deg": -6.966368,
+      "elevation_ft": 1781,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-04",
+      "region_local_code": "04",
+      "region_name": "Bragança District",
+      "municipality": "Macedo de Cavaleiros",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPMC",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3312
+    },
+    {
+      "id": 29489,
+      "ident": "LPMI",
+      "type": "small_airport",
+      "name": "Mirandela Airfield",
+      "latitude_deg": 41.468006,
+      "longitude_deg": -7.226257,
+      "elevation_ft": 1329,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-04",
+      "region_local_code": "04",
+      "region_name": "Bragança District",
+      "municipality": "Mirandela",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPMI",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Mirandela_Airport",
+      "keywords": "",
+      "parent_index": 3315
+    },
+    {
+      "id": 30147,
+      "ident": "LPMU",
+      "type": "small_airport",
+      "name": "Mogadouro Airfield",
+      "latitude_deg": 41.3963,
+      "longitude_deg": -6.68348,
+      "elevation_ft": 2344,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-04",
+      "region_local_code": "04",
+      "region_name": "Bragança District",
+      "municipality": "Mogadouro",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPMU",
+      "local_code": "",
+      "home_link": "http://www.vooavela.mogadouro.pt/",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3320
+    },
+    {
+      "id": 321267,
+      "ident": "LPTM",
+      "type": "heliport",
+      "name": "Bragança Hospital Helipad",
+      "latitude_deg": 41.80265,
+      "longitude_deg": -6.768767,
+      "elevation_ft": 2401,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-04",
+      "region_local_code": "04",
+      "region_name": "Bragança District",
+      "municipality": "Bragança",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPTM",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3341
+    },
+    {
+      "id": 510154,
+      "ident": "PT-0150",
+      "type": "small_airport",
+      "name": "Urros ULM",
+      "latitude_deg": 41.086921,
+      "longitude_deg": -7.013526,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-04",
+      "region_local_code": "04",
+      "region_name": "Bragança District",
+      "municipality": "Urros",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3499
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Bragança (Portugal) — 6 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Bragança (Distrito, PT-04), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 6 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Bragança (Portugal) — 6 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Bragança (Portugal) — 6 registos — 6 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 6 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

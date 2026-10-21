@@ -1,0 +1,88 @@
+{
+  "id": "pt-oeiras-swift-codigos",
+  "name": "Códigos SWIFT/BIC — Oeiras",
+  "title": "Códigos SWIFT/BIC — Oeiras",
+  "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 7 instituições que a fonte indica com a cidade \"OEIRAS\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ANDRADE GUTIERREZ-EUROPA, AFRICA, ASIA, S.A.",
+      "city": "OEIRAS",
+      "branch": "",
+      "swift_code": "AGEAPTPL"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "OEIRAS",
+      "branch": "(ALL NON LISTED BRANCHES)",
+      "swift_code": "BCOMPTPL"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "OEIRAS",
+      "branch": "(BOPB - LISBOA)",
+      "swift_code": "BCOMPTPLB01"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "OEIRAS",
+      "branch": "(COLLECTIONS/DOC CREDITS)",
+      "swift_code": "BCOMPTPLLEU"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "OEIRAS",
+      "branch": "(TAGUS PARK)",
+      "swift_code": "BCOMPTPLOTP"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "OEIRAS",
+      "branch": "",
+      "swift_code": "CISFPTP1"
+    },
+    {
+      "bank": "FCA CAPITAL PORTUGAL INSTITUICAO FINANCEIRA DE CREDITO SA",
+      "city": "OEIRAS",
+      "branch": "",
+      "swift_code": "FCPIPTP1"
+    }
+  ],
+  "meta": {
+    "title": "Códigos SWIFT/BIC — Oeiras - Download gratuito",
+    "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 7 instituições que a fonte indica com a cidade \"OEIRAS\". Contém 7 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Códigos SWIFT/BIC — Oeiras | ListBase",
+    "seo_description": "Baixar Códigos SWIFT/BIC — Oeiras — 7 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 7 registros / 4 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "id": "pt-sergipe-aeroportos",
+  "name": "Aeroportos de Sergipe (Brasil) — 10 registos",
+  "title": "Aeroportos de Sergipe (Brasil) — 10 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Sergipe (Estado, BR-SE), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 342312,
+      "ident": "BR-1456",
+      "type": "heliport",
+      "name": "Reserva Mangabeiras Heliport",
+      "latitude_deg": -11.248897,
+      "longitude_deg": -37.336392,
+      "elevation_ft": 33,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Estância",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SITW",
+      "local_code": "SE0005",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 1444
+    },
+    {
+      "id": 345125,
+      "ident": "BR-1576",
+      "type": "small_airport",
+      "name": "Fazenda Água Boa Maricultura Airport",
+      "latitude_deg": -11.118369,
+      "longitude_deg": -37.208696,
+      "elevation_ft": 16,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Itaporanga d'Ajuda",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SSXB",
+      "local_code": "SE0009",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 1560
+    },
+    {
+      "id": 30297,
+      "ident": "BR-2228",
+      "type": "small_airport",
+      "name": "Propriá Airport",
+      "latitude_deg": -10.25612,
+      "longitude_deg": -36.80237,
+      "elevation_ft": 164,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Propriá",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "SNOP",
+      "parent_index": 2205
+    },
+    {
+      "id": 5862,
+      "ident": "SBAR",
+      "type": "medium_airport",
+      "name": "Aracaju - Santa Maria Airport",
+      "latitude_deg": -10.98394,
+      "longitude_deg": -37.072873,
+      "elevation_ft": 23,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Aracaju",
+      "scheduled_service": "yes",
+      "icao_code": "SBAR",
+      "iata_code": "AJU",
+      "gps_code": "SBAR",
+      "local_code": "SE0001",
+      "home_link": "https://www.aenabrasil.com.br/pt/aeroportos/aeroporto-internacional-santa-maria-aracaju/index.html",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Sergipe)",
+      "keywords": "",
+      "parent_index": 3523
+    },
+    {
+      "id": 507225,
+      "ident": "SI8M",
+      "type": "small_airport",
+      "name": "Hospital de Amor Airport",
+      "latitude_deg": -10.900962,
+      "longitude_deg": -37.632292,
+      "elevation_ft": 502,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Lagarto",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SI8M",
+      "local_code": "SE0010",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 4783
+    },
+    {
+      "id": 29663,
+      "ident": "SNAU",
+      "type": "small_airport",
+      "name": "Aeroclube de Sergipe Airport",
+      "latitude_deg": -10.901452,
+      "longitude_deg": -37.082921,
+      "elevation_ft": 26,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Aracaju",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SISG",
+      "local_code": "SE0003",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Aeroclube_de_Sergipe",
+      "keywords": "SNAU",
+      "parent_index": 6404
+    },
+    {
+      "id": 597071,
+      "ident": "SNH8",
+      "type": "heliport",
+      "name": "Serra do Machado Heliport",
+      "latitude_deg": -10.554189,
+      "longitude_deg": -37.382606,
+      "elevation_ft": 774,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Ribeirópolis",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SNH8",
+      "local_code": "SE0011",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 6552
+    },
+    {
+      "id": 37164,
+      "ident": "SNLU",
+      "type": "small_airport",
+      "name": "Fazenda Boa Luz Airport",
+      "latitude_deg": -10.838153,
+      "longitude_deg": -37.196016,
+      "elevation_ft": 171,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Laranjeiras",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SIBI",
+      "local_code": "SE0002",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "SNLU",
+      "parent_index": 6663
+    },
+    {
+      "id": 37199,
+      "ident": "SNOD",
+      "type": "small_airport",
+      "name": "SKYJU Airport",
+      "latitude_deg": -11.421918,
+      "longitude_deg": -37.323831,
+      "elevation_ft": 10,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Estância",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SSKX",
+      "local_code": "SE0004",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "SNOD, Praia do Saco",
+      "parent_index": 6714
+    },
+    {
+      "id": 44452,
+      "ident": "SWGX",
+      "type": "heliport",
+      "name": "Primavera Hospital Helipad",
+      "latitude_deg": -10.950251,
+      "longitude_deg": -37.064921,
+      "elevation_ft": 128,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SE",
+      "region_local_code": "SE",
+      "region_name": "Sergipe",
+      "municipality": "Aracaju",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "SJPV",
+      "local_code": "SE0006",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "SWGX",
+      "parent_index": 7832
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Sergipe (Brasil) — 10 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Sergipe (Estado, BR-SE), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 10 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Sergipe (Brasil) — 10 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Sergipe (Brasil) — 10 registos — 10 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 10 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

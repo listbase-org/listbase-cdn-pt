@@ -1,0 +1,340 @@
+{
+  "id": "pt-br-areas-relevante-interesse-ecologico",
+  "name": "Área de Relevante Interesse Ecológico — unidades federais do Brasil (ARIE)",
+  "title": "Área de Relevante Interesse Ecológico — unidades federais do Brasil (ARIE)",
+  "description": "13 unidades de conservação federais da categoria Área de Relevante Interesse Ecológico (ARIE, grupo Uso Sustentável) geridas pelo ICMBio, com UF, bioma, área e ato legal. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 38,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO BURITI DE VASSUNUNGA",
+      "codigo_cnuc": "0000.00.0030",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "SP",
+      "uf_abrangencia": "SP",
+      "estados": "São Paulo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 150.9755,
+      "ato_legal": "DEC 99.276/1990",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 39,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO CAPETINGA - TAQUARA",
+      "codigo_cnuc": "0000.00.0031",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "DF",
+      "uf_abrangencia": "DF",
+      "estados": "Distrito Federal",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 2057.226,
+      "ato_legal": "DEC 91.303 de 03/06/1985",
+      "nucleo_gestao": "Gestão compartilhada com UnB",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 40,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO CERRADO PÉ-DE-GIGANTE",
+      "codigo_cnuc": "0000.00.0032",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "SP",
+      "uf_abrangencia": "SP",
+      "estados": "São Paulo",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 1199.0535,
+      "ato_legal": "DEC 99.275 de 06/06/1990",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 41,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO DA MATA DE SANTA GENEBRA",
+      "codigo_cnuc": "0000.00.0040",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "SP",
+      "uf_abrangencia": "SP",
+      "estados": "São Paulo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 241.5536,
+      "ato_legal": "DEC 91.885 de 05/11/1985",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 42,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO FLORESTA DA CICUTA",
+      "codigo_cnuc": "0000.00.0035",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "RJ",
+      "uf_abrangencia": "RJ",
+      "estados": "Rio de Janeiro",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 125.141,
+      "ato_legal": "DEC 90.792 de 09/01/1985",
+      "nucleo_gestao": "ICMBio Rio Paraíba do Sul",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 43,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO ILHA DO AMEIXAL",
+      "codigo_cnuc": "0000.00.0036",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "SP",
+      "uf_abrangencia": "SP",
+      "estados": "São Paulo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 358.888,
+      "ato_legal": "DEC 91.889 de 05/11/1985",
+      "nucleo_gestao": "ICMBio Iguape",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 44,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO ILHAS DA QUEIMADA PEQUENA E QUEIMADA GRANDE",
+      "codigo_cnuc": "0000.00.0037",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "SP",
+      "uf_abrangencia": "SP",
+      "estados": "São Paulo",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 65.1749,
+      "ato_legal": "DEC 91.887 de 05/11/1985",
+      "nucleo_gestao": "ICMBio Iguape",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 45,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO JAVARÍ-BURITI",
+      "codigo_cnuc": "0000.00.0038",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "AM",
+      "uf_abrangencia": "AM",
+      "estados": "Amazonas",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 13177.1193,
+      "ato_legal": "DEC 91.886 de 05/11/1985",
+      "nucleo_gestao": "ICMBio Tefé",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 46,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO MANGUEZAIS DA FOZ DO RIO MAMANGUAPE",
+      "codigo_cnuc": "0000.00.0039",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA e SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 5769.5403,
+      "ato_legal": "DEC 91.890 de 05/11/1985",
+      "nucleo_gestao": "ICMBio Mamanguape",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 47,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO MATÃO DE COSMÓPOLIS",
+      "codigo_cnuc": "0000.00.0041",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "SP",
+      "uf_abrangencia": "SP",
+      "estados": "São Paulo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 173.0894,
+      "ato_legal": "DEC 90.791 de 09/01/1985",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 48,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO PROJETO DINÂMICA BIOLÓGICA DE FRAGMENTOS FLORESTAIS",
+      "codigo_cnuc": "0000.00.0043",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "AM",
+      "uf_abrangencia": "AM",
+      "estados": "Amazonas",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 3336.3297,
+      "ato_legal": "DEC 91.884 de 05/11/1985",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 49,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO SERINGAL NOVA ESPERANÇA",
+      "codigo_cnuc": "0000.00.0044",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "AC",
+      "uf_abrangencia": "AC",
+      "estados": "Acre",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 2573.9821,
+      "ato_legal": "DEC S/N de 20/08/1999",
+      "nucleo_gestao": "ICMBio Chico Mendes",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 50,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO SERRA DA ABELHA",
+      "codigo_cnuc": "0000.00.0045",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "SC",
+      "uf_abrangencia": "SC",
+      "estados": "Santa Catarina",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 5016.604,
+      "ato_legal": "DEC S/N de 28/05/1996",
+      "nucleo_gestao": "ICMBio Ibirama",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Área de Relevante Interesse Ecológico — unidades federais do Brasil (ARIE) - Download gratuito",
+    "description": "13 unidades de conservação federais da categoria Área de Relevante Interesse Ecológico (ARIE, grupo Uso Sustentável) geridas pelo ICMBio, com UF, bioma, área e ato legal. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 13 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Área de Relevante Interesse Ecológico — unidades federais do Brasil (ARIE) | ListBase",
+    "seo_description": "Baixar Área de Relevante Interesse Ecológico — unidades federais do Brasil (ARIE) — 13 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 13 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,1956 @@
+{
+  "id": "pt-universidades-brasil",
+  "name": "Brazil — Universidades (Universities)",
+  "title": "Brazil — Universidades (Universities)",
+  "description": "List of universities and higher-education institutions in Brazil. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region (state / unidade federativa) where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Brazil\"). Native Portuguese-language names and diacritics preserved verbatim.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 189,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Centro Regional Universitário de Espiríto Santo do Pinhal",
+      "slug": "creupi",
+      "domain": "creupi.br",
+      "domains": "creupi.br",
+      "web_page": "http://www.creupi.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente - TOLEDO PRUDENTE",
+      "slug": "toledoprudente",
+      "domain": "toledoprudente.edu.br",
+      "domains": "toledoprudente.edu.br",
+      "web_page": "https://toledoprudente.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "Presidente Prudente"
+    },
+    {
+      "name": "Centro Universitário Barao de Maua",
+      "slug": "baraodemaua",
+      "domain": "baraodemaua.br",
+      "domains": "baraodemaua.br",
+      "web_page": "http://www.baraodemaua.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário Claretiano",
+      "slug": "claretiano",
+      "domain": "claretiano.edu.br",
+      "domains": "claretiano.edu.br",
+      "web_page": "http://www.claretiano.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário De Goiás - UNIGOIÁS",
+      "slug": "unigoias",
+      "domain": "unigoias.com.br",
+      "domains": "unigoias.com.br",
+      "web_page": "https://unigoias.com.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "Goiânia"
+    },
+    {
+      "name": "Centro Universitário Facens - UniFACENS",
+      "slug": "facens",
+      "domain": "facens.br",
+      "domains": "facens.br",
+      "web_page": "https://facens.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São Paulo"
+    },
+    {
+      "name": "Centro Universitário Monte Serrat",
+      "slug": "unimonte",
+      "domain": "unimonte.br",
+      "domains": "unimonte.br",
+      "web_page": "http://www.unimonte.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário Newton Paiva",
+      "slug": "newtonpaiva",
+      "domain": "newtonpaiva.br",
+      "domains": "newtonpaiva.br",
+      "web_page": "http://www.newtonpaiva.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário Plinio Leite",
+      "slug": "unipli",
+      "domain": "unipli.com.br",
+      "domains": "unipli.com.br",
+      "web_page": "http://www.unipli.com.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário Senac",
+      "slug": "sp",
+      "domain": "sp.senac.br",
+      "domains": "sp.senac.br",
+      "web_page": "http://www.sp.senac.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário Serra dos Órgãos",
+      "slug": "unifeso",
+      "domain": "unifeso.edu.br",
+      "domains": "unifeso.edu.br",
+      "web_page": "http://www.unifeso.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário UniFatecie",
+      "slug": "fatecie",
+      "domain": "fatecie.edu.br",
+      "domains": "fatecie.edu.br",
+      "web_page": "https://unifatecie.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário de Araraquara",
+      "slug": "uniara",
+      "domain": "uniara.edu.br",
+      "domains": "uniara.edu.br, uniara.com.br",
+      "web_page": "http://www.uniara.com.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário de Brasília, UNICEUB",
+      "slug": "sempreceub",
+      "domain": "sempreceub.com",
+      "domains": "sempreceub.com, uniceub.br",
+      "web_page": "https://www.uniceub.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário de João Pessoa",
+      "slug": "unipe",
+      "domain": "unipe.br",
+      "domains": "unipe.br",
+      "web_page": "http://www.unipe.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitário Álvares Penteado - FECAP",
+      "slug": "fecap",
+      "domain": "fecap.br",
+      "domains": "fecap.br",
+      "web_page": "https://www.fecap.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São Paulo"
+    },
+    {
+      "name": "Cruzeiro do Sul University",
+      "slug": "aluno",
+      "domain": "aluno.cruzeirodosul.edu.br",
+      "domains": "aluno.cruzeirodosul.edu.br",
+      "web_page": "https://cruzeirodosul.edu.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória",
+      "slug": "emescam",
+      "domain": "emescam.br",
+      "domains": "emescam.br",
+      "web_page": "http://www.emescam.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "FAAP - Fundação Armando Alvares Penteado",
+      "slug": "faap",
+      "domain": "faap.br",
+      "domains": "faap.br",
+      "web_page": "http://www.faap.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "FAE Business School - Faculdade de Administração e Economia",
+      "slug": "fae",
+      "domain": "fae.edu",
+      "domains": "fae.edu",
+      "web_page": "http://www.fae.edu/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Faculdade Do Instituto Nacional De Pós-Graduação - Faculdade INPG",
+      "slug": "inpg",
+      "domain": "inpg.edu.br",
+      "domains": "inpg.edu.br",
+      "web_page": "https://www.inpg.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São Paulo"
+    },
+    {
+      "name": "Faculdade Dom Bosco",
+      "slug": "faculdadedombosco",
+      "domain": "faculdadedombosco.edu.br",
+      "domains": "faculdadedombosco.edu.br",
+      "web_page": "https://faculdadedombosco.edu.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Faculdade Impacta - IMPACTA",
+      "slug": "impacta",
+      "domain": "impacta.edu.br",
+      "domains": "impacta.edu.br",
+      "web_page": "https://www.impacta.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São Paulo"
+    },
+    {
+      "name": "Faculdade Integradas do Ceará",
+      "slug": "fic",
+      "domain": "fic.br",
+      "domains": "fic.br",
+      "web_page": "http://www.fic.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Faculdade Italo Brasileira",
+      "slug": "italo",
+      "domain": "italo.br",
+      "domains": "italo.br",
+      "web_page": "http://www.italo.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Faculdades Integradas Curitiba",
+      "slug": "faculdadescuritiba",
+      "domain": "faculdadescuritiba.br",
+      "domains": "faculdadescuritiba.br",
+      "web_page": "http://www.faculdadescuritiba.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Faculdades Integradas Toledo",
+      "slug": "toledo",
+      "domain": "toledo.br",
+      "domains": "toledo.br",
+      "web_page": "http://www.toledo.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Faculdades Integradas UPIS",
+      "slug": "upis",
+      "domain": "upis.br",
+      "domains": "upis.br",
+      "web_page": "http://www.upis.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Faculdades Integradas do Brasil - UNIBRASIL",
+      "slug": "unibrasil",
+      "domain": "unibrasil.com.br",
+      "domains": "unibrasil.com.br",
+      "web_page": "http://www.unibrasil.com.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Federal Institute of Education",
+      "slug": "aluno",
+      "domain": "aluno.ifsp.edu.br",
+      "domains": "aluno.ifsp.edu.br",
+      "web_page": "https://ifsp.edu.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Fundação Educacional de Ituverava",
+      "slug": "feituverava",
+      "domain": "feituverava.com.br",
+      "domains": "feituverava.com.br",
+      "web_page": "http://www.feituverava.com.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Fundação Hermínio Ometto",
+      "slug": "fho",
+      "domain": "fho.edu.br",
+      "domains": "fho.edu.br",
+      "web_page": "https://www.fho.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São Paulo"
+    },
+    {
+      "name": "Insper Instituto de Ensino e Pesquisa",
+      "slug": "insper",
+      "domain": "insper.edu.br",
+      "domains": "insper.edu.br",
+      "web_page": "https://www.insper.edu.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "SP"
+    },
+    {
+      "name": "Instituto Infnet",
+      "slug": "infnet",
+      "domain": "infnet.edu.br",
+      "domains": "infnet.edu.br, al.infnet.edu.br, prof.infnet.edu.br",
+      "web_page": "https://www.infnet.edu.br/infnet/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "Rio de Janeiro"
+    },
+    {
+      "name": "Instituto Mauá de Tecnologia",
+      "slug": "maua",
+      "domain": "maua.br",
+      "domains": "maua.br",
+      "web_page": "http://www.maua.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Militar de Engenharia",
+      "slug": "ime",
+      "domain": "ime.eb.mil.br",
+      "domains": "ime.eb.mil.br",
+      "web_page": "http://www.ime.eb.mil.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Nacional de Matemática Pura e Aplicada - IMPA",
+      "slug": "impa",
+      "domain": "impa.br",
+      "domains": "impa.br",
+      "web_page": "http://www.impa.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto Tecnológico de Aeronáutica",
+      "slug": "ita",
+      "domain": "ita.br",
+      "domains": "ita.br",
+      "web_page": "http://www.ita.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Instituto de Tecnologia e Liderança - Inteli",
+      "slug": "inteli",
+      "domain": "inteli.edu.br",
+      "domains": "inteli.edu.br",
+      "web_page": "https://www.inteli.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São Paulo"
+    },
+    {
+      "name": "Polytechnic University of Pernambuco",
+      "slug": "upe",
+      "domain": "upe.poli.br",
+      "domains": "upe.poli.br, ecomp.poli.br, poli.br",
+      "web_page": "https://upe.poli.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Pontificia Universidade Católica do Paraná",
+      "slug": "pucpr",
+      "domain": "pucpr.br",
+      "domains": "pucpr.br",
+      "web_page": "http://www.pucpr.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Pontifícia Universidade Católica de Campinas",
+      "slug": "puccamp",
+      "domain": "puccamp.br",
+      "domains": "puccamp.br",
+      "web_page": "http://www.puccamp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Pontifícia Universidade Católica de Minas Gerais",
+      "slug": "pucminas",
+      "domain": "pucminas.br",
+      "domains": "pucminas.br",
+      "web_page": "http://www.pucminas.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Pontifícia Universidade Católica de São Paulo",
+      "slug": "pucsp",
+      "domain": "pucsp.br",
+      "domains": "pucsp.br",
+      "web_page": "http://www.pucsp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Pontifícia Universidade Católica do Rio Grande do Sul",
+      "slug": "pucrs",
+      "domain": "pucrs.br",
+      "domains": "pucrs.br",
+      "web_page": "http://www.pucrs.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Pontifícia Universidade Católica do Rio de Janeiro",
+      "slug": "puc-rio",
+      "domain": "puc-rio.br",
+      "domains": "puc-rio.br",
+      "web_page": "http://www.puc-rio.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "UNINOVE",
+      "slug": "uninove",
+      "domain": "uninove.br",
+      "domains": "uninove.br, uni9.edu.br",
+      "web_page": "https://uninove.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Anhembi Morumbi - UAM",
+      "slug": "anhembi",
+      "domain": "anhembi.br",
+      "domains": "anhembi.br",
+      "web_page": "https://portal.anhembi.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São Paulo"
+    },
+    {
+      "name": "Universidade Bandeirante de São Paulo",
+      "slug": "uniban",
+      "domain": "uniban.br",
+      "domains": "uniban.br",
+      "web_page": "http://www.uniban.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Braz Cubas",
+      "slug": "brazcubas",
+      "domain": "brazcubas.br",
+      "domains": "brazcubas.br",
+      "web_page": "http://www.brazcubas.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Camilo Castelo Branco",
+      "slug": "unicastelo",
+      "domain": "unicastelo.br",
+      "domains": "unicastelo.br",
+      "web_page": "http://www.unicastelo.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Candido Mendes",
+      "slug": "candidomendes",
+      "domain": "candidomendes.br",
+      "domains": "candidomendes.br",
+      "web_page": "http://www.candidomendes.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Castelo Branco",
+      "slug": "castelobranco",
+      "domain": "castelobranco.br",
+      "domains": "castelobranco.br",
+      "web_page": "http://www.castelobranco.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica Dom Bosco",
+      "slug": "unibosco",
+      "domain": "unibosco.br",
+      "domains": "unibosco.br",
+      "web_page": "http://www.unibosco.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica de Brasília",
+      "slug": "ucb",
+      "domain": "ucb.br",
+      "domains": "ucb.br",
+      "web_page": "http://www.ucb.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica de Goiás",
+      "slug": "ucg",
+      "domain": "ucg.br",
+      "domains": "ucg.br",
+      "web_page": "http://www.ucg.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica de Pelotas",
+      "slug": "ucpel",
+      "domain": "ucpel.tche.br",
+      "domains": "ucpel.tche.br",
+      "web_page": "http://www.ucpel.tche.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica de Pernambuco",
+      "slug": "unicap",
+      "domain": "unicap.br",
+      "domains": "unicap.br",
+      "web_page": "http://www.unicap.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica de Petrópolis",
+      "slug": "ucp",
+      "domain": "ucp.br",
+      "domains": "ucp.br",
+      "web_page": "http://www.ucp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica de Santos",
+      "slug": "unisantos",
+      "domain": "unisantos.com.br",
+      "domains": "unisantos.com.br",
+      "web_page": "http://www.unisantos.com.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Católica do Salvador",
+      "slug": "ucsal",
+      "domain": "ucsal.br",
+      "domains": "ucsal.br, ucsal.edu.br",
+      "web_page": "http://www.ucsal.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "Salvador"
+    },
+    {
+      "name": "Universidade Cidade de São Paulo",
+      "slug": "unicid",
+      "domain": "unicid.br",
+      "domains": "unicid.br",
+      "web_page": "http://www.unicid.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Comunitária da Região de Chapecó - Unochapecó",
+      "slug": "unochapeco",
+      "domain": "unochapeco.edu.br",
+      "domains": "unochapeco.edu.br",
+      "web_page": "https://unochapeco.edu.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Cruzeiro do Sul",
+      "slug": "unicsul",
+      "domain": "unicsul.br",
+      "domains": "unicsul.br",
+      "web_page": "http://www.unicsul.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual Paulista",
+      "slug": "unesp",
+      "domain": "unesp.br",
+      "domains": "unesp.br",
+      "web_page": "http://www.unesp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual Sudoeste da Bahia",
+      "slug": "uesb",
+      "domain": "uesb.br",
+      "domains": "uesb.br",
+      "web_page": "http://www.uesb.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual da Paraíba",
+      "slug": "uepb",
+      "domain": "uepb.edu.br",
+      "domains": "uepb.edu.br",
+      "web_page": "http://www.uepb.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual de Campinas",
+      "slug": "unicamp",
+      "domain": "unicamp.br",
+      "domains": "unicamp.br",
+      "web_page": "http://www.unicamp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual de Feira de Santana",
+      "slug": "uefs",
+      "domain": "uefs.br",
+      "domains": "uefs.br",
+      "web_page": "http://www.uefs.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual de Londrina",
+      "slug": "uel",
+      "domain": "uel.br",
+      "domains": "uel.br",
+      "web_page": "http://www.uel.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual de Maringá",
+      "slug": "uem",
+      "domain": "uem.br",
+      "domains": "uem.br",
+      "web_page": "http://www.uem.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual de Montes Claros",
+      "slug": "unimontes",
+      "domain": "unimontes.br",
+      "domains": "unimontes.br",
+      "web_page": "http://www.unimontes.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual de Ponta Grossa",
+      "slug": "uepg",
+      "domain": "uepg.br",
+      "domains": "uepg.br",
+      "web_page": "http://www.uepg.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual de Santa Cruz",
+      "slug": "uesc",
+      "domain": "uesc.br",
+      "domains": "uesc.br",
+      "web_page": "http://www.uesc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual do Ceará",
+      "slug": "uece",
+      "domain": "uece.br",
+      "domains": "uece.br",
+      "web_page": "http://www.uece.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual do Maranhão",
+      "slug": "uema",
+      "domain": "uema.br",
+      "domains": "uema.br",
+      "web_page": "http://www.uema.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual do Norte Fluminense",
+      "slug": "uenf",
+      "domain": "uenf.br",
+      "domains": "uenf.br",
+      "web_page": "http://www.uenf.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual do Norte do Parana",
+      "slug": "uenp",
+      "domain": "uenp.edu.br",
+      "domains": "uenp.edu.br",
+      "web_page": "https://uenp.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual do Oeste do Paraná",
+      "slug": "unioeste",
+      "domain": "unioeste.br",
+      "domains": "unioeste.br",
+      "web_page": "http://www.unioeste.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual do Piauí",
+      "slug": "uespi",
+      "domain": "uespi.br",
+      "domains": "uespi.br",
+      "web_page": "http://www.uespi.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estadual do Vale do Acaraú",
+      "slug": "uvanet",
+      "domain": "uvanet.br",
+      "domains": "uvanet.br",
+      "web_page": "http://www.uvanet.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Estácio de Sá",
+      "slug": "estacio",
+      "domain": "estacio.br",
+      "domains": "estacio.br",
+      "web_page": "http://www.estacio.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal Fluminense",
+      "slug": "uff",
+      "domain": "uff.br",
+      "domains": "uff.br",
+      "web_page": "http://www.uff.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal Rural de Pernambuco",
+      "slug": "ufrpe",
+      "domain": "ufrpe.br",
+      "domains": "ufrpe.br",
+      "web_page": "http://www.ufrpe.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal Rural do Rio de Janeiro",
+      "slug": "ufrrj",
+      "domain": "ufrrj.br",
+      "domains": "ufrrj.br",
+      "web_page": "http://www.ufrrj.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal da Bahia",
+      "slug": "ufba",
+      "domain": "ufba.br",
+      "domains": "ufba.br",
+      "web_page": "http://www.ufba.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal da Grande Dourados",
+      "slug": "ufgd",
+      "domain": "ufgd.edu.br",
+      "domains": "ufgd.edu.br",
+      "web_page": "http://www.ufgd.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal da Paraíba",
+      "slug": "ufpb",
+      "domain": "ufpb.br",
+      "domains": "ufpb.br",
+      "web_page": "http://www.ufpb.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Alagoas",
+      "slug": "ufal",
+      "domain": "ufal.br",
+      "domains": "ufal.br",
+      "web_page": "http://www.ufal.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Campina Grande",
+      "slug": "ufcg",
+      "domain": "ufcg.edu.br",
+      "domains": "ufcg.edu.br",
+      "web_page": "http://www.ufcg.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Goiás",
+      "slug": "ufg",
+      "domain": "ufg.br",
+      "domains": "ufg.br",
+      "web_page": "http://www.ufg.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Itajubá",
+      "slug": "unifei",
+      "domain": "unifei.edu.br",
+      "domains": "unifei.edu.br",
+      "web_page": "https://unifei.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Juiz de Fora",
+      "slug": "ufjf",
+      "domain": "ufjf.br",
+      "domains": "ufjf.br",
+      "web_page": "http://www.ufjf.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Lavras",
+      "slug": "ufla",
+      "domain": "ufla.br",
+      "domains": "ufla.br",
+      "web_page": "http://www.ufla.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Mato Grosso",
+      "slug": "ufmt",
+      "domain": "ufmt.br",
+      "domains": "ufmt.br",
+      "web_page": "http://www.ufmt.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Mato Grosso do Sul",
+      "slug": "ufms",
+      "domain": "ufms.br",
+      "domains": "ufms.br",
+      "web_page": "http://www.ufms.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Minas Gerais",
+      "slug": "ufmg",
+      "domain": "ufmg.br",
+      "domains": "ufmg.br, dcc.ufmg.br",
+      "web_page": "http://www.ufmg.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Ouro Preto",
+      "slug": "ufop",
+      "domain": "ufop.br",
+      "domains": "ufop.br",
+      "web_page": "http://www.ufop.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Pelotas",
+      "slug": "ufpel",
+      "domain": "ufpel.tche.br",
+      "domains": "ufpel.tche.br",
+      "web_page": "http://www.ufpel.tche.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Pernambuco",
+      "slug": "ufpe",
+      "domain": "ufpe.br",
+      "domains": "ufpe.br",
+      "web_page": "http://www.ufpe.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Rondônia",
+      "slug": "unir",
+      "domain": "unir.br",
+      "domains": "unir.br",
+      "web_page": "http://www.unir.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Roraima",
+      "slug": "technet",
+      "domain": "technet.com.br",
+      "domains": "technet.com.br",
+      "web_page": "http://www.technet.com.br/vestibular/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Santa Catarina",
+      "slug": "ufsc",
+      "domain": "ufsc.br",
+      "domains": "ufsc.br",
+      "web_page": "http://www.ufsc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Santa Maria",
+      "slug": "ufsm",
+      "domain": "ufsm.br",
+      "domains": "ufsm.br",
+      "web_page": "http://www.ufsm.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Sergipe",
+      "slug": "ufs",
+      "domain": "ufs.br",
+      "domains": "ufs.br",
+      "web_page": "http://www.ufs.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de São Carlos",
+      "slug": "ufscar",
+      "domain": "ufscar.br",
+      "domains": "ufscar.br",
+      "web_page": "http://www.ufscar.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de São João del-Rei",
+      "slug": "ufsj",
+      "domain": "ufsj.edu.br",
+      "domains": "ufsj.edu.br",
+      "web_page": "https://www.ufsj.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de São Paulo",
+      "slug": "epm",
+      "domain": "epm.br",
+      "domains": "epm.br",
+      "web_page": "http://www.epm.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Uberlândia",
+      "slug": "ufu",
+      "domain": "ufu.br",
+      "domains": "ufu.br",
+      "web_page": "http://www.ufu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal de Viçosa",
+      "slug": "ufv",
+      "domain": "ufv.br",
+      "domains": "ufv.br",
+      "web_page": "http://www.ufv.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do ABC",
+      "slug": "ufabc",
+      "domain": "ufabc.edu.br",
+      "domains": "ufabc.edu.br",
+      "web_page": "http://www.ufabc.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Acre",
+      "slug": "ufac",
+      "domain": "ufac.br",
+      "domains": "ufac.br",
+      "web_page": "http://www.ufac.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Amapá",
+      "slug": "unifap",
+      "domain": "unifap.br",
+      "domains": "unifap.br",
+      "web_page": "http://www.unifap.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Ceará",
+      "slug": "ufc",
+      "domain": "ufc.br",
+      "domains": "ufc.br",
+      "web_page": "http://www.ufc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Espírito Santo",
+      "slug": "ufes",
+      "domain": "ufes.br",
+      "domains": "ufes.br",
+      "web_page": "http://www.ufes.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Maranhão",
+      "slug": "ufma",
+      "domain": "ufma.br",
+      "domains": "ufma.br",
+      "web_page": "http://www.ufma.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Paraná",
+      "slug": "ufpr",
+      "domain": "ufpr.br",
+      "domains": "ufpr.br",
+      "web_page": "http://www.ufpr.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Pará",
+      "slug": "ufpa",
+      "domain": "ufpa.br",
+      "domains": "ufpa.br",
+      "web_page": "http://www.ufpa.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Piauí",
+      "slug": "ufpi",
+      "domain": "ufpi.br",
+      "domains": "ufpi.br",
+      "web_page": "http://www.ufpi.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Rio Grande",
+      "slug": "furg",
+      "domain": "furg.br",
+      "domains": "furg.br",
+      "web_page": "http://www.furg.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Rio Grande do Norte",
+      "slug": "ufrn",
+      "domain": "ufrn.br",
+      "domains": "ufrn.br",
+      "web_page": "http://www.ufrn.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Rio Grande do Sul",
+      "slug": "ufrgs",
+      "domain": "ufrgs.br",
+      "domains": "ufrgs.br",
+      "web_page": "http://www.ufrgs.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Rio de Janeiro",
+      "slug": "ufrj",
+      "domain": "ufrj.br",
+      "domains": "ufrj.br",
+      "web_page": "http://www.ufrj.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Triângulo Mineiro",
+      "slug": "uftm",
+      "domain": "uftm.edu.br",
+      "domains": "uftm.edu.br",
+      "web_page": "http://www.uftm.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal do Vale do São Francisco",
+      "slug": "univasf",
+      "domain": "univasf.edu.br",
+      "domains": "univasf.edu.br",
+      "web_page": "http://www.univasf.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+      "slug": "ufvjm",
+      "domain": "ufvjm.edu.br",
+      "domains": "ufvjm.edu.br",
+      "web_page": "http://www.ufvjm.edu.br",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Franciscana",
+      "slug": "ufn",
+      "domain": "ufn.edu.br",
+      "domains": "ufn.edu.br",
+      "web_page": "https://www.ufn.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Gama Filho",
+      "slug": "ugf",
+      "domain": "ugf.br",
+      "domains": "ugf.br",
+      "web_page": "http://www.ugf.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Ibirapuera",
+      "slug": "unib",
+      "domain": "unib.br",
+      "domains": "unib.br",
+      "web_page": "http://www.unib.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Luterana do Brasil",
+      "slug": "ulbra",
+      "domain": "ulbra.br",
+      "domains": "ulbra.br",
+      "web_page": "http://www.ulbra.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Mackenzie",
+      "slug": "mackenzie",
+      "domain": "mackenzie.br",
+      "domains": "mackenzie.br",
+      "web_page": "http://www.mackenzie.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Metodista de Piracicaba",
+      "slug": "unimep",
+      "domain": "unimep.br",
+      "domains": "unimep.br",
+      "web_page": "http://www.unimep.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Metropolitana de Santos",
+      "slug": "unimes",
+      "domain": "unimes.com.br",
+      "domains": "unimes.com.br",
+      "web_page": "http://www.unimes.com.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Paulista",
+      "slug": "unip-objetivo",
+      "domain": "unip-objetivo.br",
+      "domains": "unip-objetivo.br",
+      "web_page": "http://www.unip-objetivo.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Potiguar",
+      "slug": "unp",
+      "domain": "unp.br",
+      "domains": "unp.br",
+      "web_page": "http://www.unp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Regional Integrada do Alto Uruguai e das Missões",
+      "slug": "uri",
+      "domain": "uri.br",
+      "domains": "uri.br",
+      "web_page": "http://www.uri.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Regional de Blumenau",
+      "slug": "furb",
+      "domain": "furb.rct-sc.br",
+      "domains": "furb.rct-sc.br",
+      "web_page": "http://www.furb.rct-sc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Regional do Cariri",
+      "slug": "urca",
+      "domain": "urca.br",
+      "domains": "urca.br",
+      "web_page": "http://www.urca.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+      "slug": "unijui",
+      "domain": "unijui.tche.br",
+      "domains": "unijui.tche.br",
+      "web_page": "http://www.unijui.tche.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Salgado de Oliveira",
+      "slug": "universo",
+      "domain": "universo.br",
+      "domains": "universo.br",
+      "web_page": "http://www.universo.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Salvador",
+      "slug": "unifacs",
+      "domain": "unifacs.br",
+      "domains": "unifacs.br",
+      "web_page": "http://www.unifacs.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Santa Cecília dos Bandeirantes",
+      "slug": "stcecilia",
+      "domain": "stcecilia.br",
+      "domains": "stcecilia.br",
+      "web_page": "http://www.stcecilia.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Santa Úrsula",
+      "slug": "usu",
+      "domain": "usu.br",
+      "domains": "usu.br",
+      "web_page": "http://www.usu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade São Francisco",
+      "slug": "usf",
+      "domain": "usf.br",
+      "domains": "usf.br",
+      "web_page": "http://www.usf.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade São Judas Tadeu",
+      "slug": "saojudas",
+      "domain": "saojudas.br",
+      "domains": "saojudas.br",
+      "web_page": "http://www.saojudas.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade São Marcos",
+      "slug": "smarcos",
+      "domain": "smarcos.br",
+      "domains": "smarcos.br",
+      "web_page": "http://www.smarcos.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Tecnológica Federal do Paraná",
+      "slug": "utfpr",
+      "domain": "utfpr.edu.br",
+      "domains": "utfpr.edu.br",
+      "web_page": "https://www.utfpr.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Tiradentes",
+      "slug": "unit",
+      "domain": "unit.br",
+      "domains": "unit.br",
+      "web_page": "http://www.unit.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Vale do Rio Doce",
+      "slug": "univale",
+      "domain": "univale.br",
+      "domains": "univale.br",
+      "web_page": "http://www.univale.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Vale do Rio dos Sinos",
+      "slug": "unisinos",
+      "domain": "unisinos.br",
+      "domains": "unisinos.br",
+      "web_page": "http://www.unisinos.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Veiga de Almeida",
+      "slug": "uva",
+      "domain": "uva.br",
+      "domains": "uva.br",
+      "web_page": "http://www.uva.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade Virtual do Estado de São Paulo",
+      "slug": "univesp",
+      "domain": "univesp.br",
+      "domains": "univesp.br",
+      "web_page": "https://univesp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade da Amazônia",
+      "slug": "unama",
+      "domain": "unama.br",
+      "domains": "unama.br",
+      "web_page": "http://www.unama.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade da Região da Campanha",
+      "slug": "urcamp",
+      "domain": "urcamp.tche.br",
+      "domains": "urcamp.tche.br",
+      "web_page": "http://www.urcamp.tche.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Alfenas",
+      "slug": "unifenas",
+      "domain": "unifenas.br",
+      "domains": "unifenas.br",
+      "web_page": "http://www.unifenas.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Brasília",
+      "slug": "unb",
+      "domain": "unb.br",
+      "domains": "unb.br",
+      "web_page": "http://www.unb.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Caxias do Sul",
+      "slug": "ucs",
+      "domain": "ucs.tche.br",
+      "domains": "ucs.tche.br",
+      "web_page": "http://www.ucs.tche.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Cruz Alta",
+      "slug": "unicruz",
+      "domain": "unicruz.tche.br",
+      "domains": "unicruz.tche.br",
+      "web_page": "http://www.unicruz.tche.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Fortaleza",
+      "slug": "unifor",
+      "domain": "unifor.br",
+      "domains": "unifor.br",
+      "web_page": "http://www.unifor.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Franca",
+      "slug": "unifran",
+      "domain": "unifran.br",
+      "domains": "unifran.br",
+      "web_page": "http://www.unifran.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Guarulhos",
+      "slug": "ung",
+      "domain": "ung.br",
+      "domains": "ung.br",
+      "web_page": "http://www.ung.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Itaúna",
+      "slug": "web",
+      "domain": "web.prover.com.br",
+      "domains": "web.prover.com.br",
+      "web_page": "http://web.prover.com.br/fui/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Marília",
+      "slug": "unimar",
+      "domain": "unimar.br",
+      "domains": "unimar.br",
+      "web_page": "http://www.unimar.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Mogi das Cruzes",
+      "slug": "umc",
+      "domain": "umc.br",
+      "domains": "umc.br",
+      "web_page": "http://www.umc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Nova Iguaçu",
+      "slug": "unig",
+      "domain": "unig.br",
+      "domains": "unig.br",
+      "web_page": "http://www.unig.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Passo Fundo",
+      "slug": "upf",
+      "domain": "upf.tche.br",
+      "domains": "upf.tche.br",
+      "web_page": "http://www.upf.tche.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Pernambuco",
+      "slug": "upe",
+      "domain": "upe.br",
+      "domains": "upe.br",
+      "web_page": "http://www.upe.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Ribeirão Preto",
+      "slug": "unaerp",
+      "domain": "unaerp.br",
+      "domains": "unaerp.br",
+      "web_page": "http://www.unaerp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Santa Cruz do Sul",
+      "slug": "unisc",
+      "domain": "unisc.br",
+      "domains": "unisc.br",
+      "web_page": "http://www.unisc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Santo Amaro",
+      "slug": "unisa",
+      "domain": "unisa.br",
+      "domains": "unisa.br",
+      "web_page": "http://www.unisa.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de São Paulo",
+      "slug": "usp",
+      "domain": "usp.br",
+      "domains": "usp.br",
+      "web_page": "http://www.usp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Taubaté",
+      "slug": "unitau",
+      "domain": "unitau.br",
+      "domains": "unitau.br",
+      "web_page": "http://www.unitau.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Tocantins",
+      "slug": "pop-to",
+      "domain": "pop-to.rnp.br",
+      "domains": "pop-to.rnp.br",
+      "web_page": "http://www.pop-to.rnp.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade de Uberaba",
+      "slug": "uniube",
+      "domain": "uniube.br",
+      "domains": "uniube.br",
+      "web_page": "http://www.uniube.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Amazonas",
+      "slug": "fua",
+      "domain": "fua.br",
+      "domains": "fua.br",
+      "web_page": "http://www.fua.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Estado da Bahia",
+      "slug": "uneb",
+      "domain": "uneb.br",
+      "domains": "uneb.br",
+      "web_page": "http://www.uneb.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Estado de Santa Catarina",
+      "slug": "udesc",
+      "domain": "udesc.br",
+      "domains": "udesc.br",
+      "web_page": "http://www.udesc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Estado do Rio Grande do Norte",
+      "slug": "uern",
+      "domain": "uern.br",
+      "domains": "uern.br",
+      "web_page": "http://www.uern.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Estado do Rio de Janeiro",
+      "slug": "uerj",
+      "domain": "uerj.br",
+      "domains": "uerj.br",
+      "web_page": "http://www.uerj.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Extremo Sul Catarinense",
+      "slug": "unesc",
+      "domain": "unesc.rct-sc.br",
+      "domains": "unesc.rct-sc.br",
+      "web_page": "http://www.unesc.rct-sc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Grande Rio",
+      "slug": "unigranrio",
+      "domain": "unigranrio.br",
+      "domains": "unigranrio.br",
+      "web_page": "http://www.unigranrio.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Oeste Paulista",
+      "slug": "unoeste",
+      "domain": "unoeste.br",
+      "domains": "unoeste.br",
+      "web_page": "http://www.unoeste.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Oeste de Santa Catarina",
+      "slug": "unoesc",
+      "domain": "unoesc.edu.br",
+      "domains": "unoesc.edu.br",
+      "web_page": "http://www.unoesc.edu.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Rio de Janeiro",
+      "slug": "unirio",
+      "domain": "unirio.br",
+      "domains": "unirio.br",
+      "web_page": "http://www.unirio.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Sagrado Coração",
+      "slug": "usc",
+      "domain": "usc.br",
+      "domains": "usc.br",
+      "web_page": "http://www.usc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Sul de Santa Catarina",
+      "slug": "unisul",
+      "domain": "unisul.br",
+      "domains": "unisul.br",
+      "web_page": "http://www.unisul.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Vale do Itajaí",
+      "slug": "univali",
+      "domain": "univali.rct-sc.br",
+      "domains": "univali.rct-sc.br",
+      "web_page": "http://www.univali.rct-sc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade do Vale do Paraíba – Univap",
+      "slug": "univap",
+      "domain": "univap.br",
+      "domains": "univap.br",
+      "web_page": "https://www.univap.br/univap/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": "São José dos Campos"
+    },
+    {
+      "name": "Universidade para o Desenvolvimento do Alto Vale do Itajaí",
+      "slug": "unidavi",
+      "domain": "unidavi.rct-sc.br",
+      "domains": "unidavi.rct-sc.br",
+      "web_page": "http://www.unidavi.rct-sc.br/",
+      "country": "Brazil",
+      "country_code": "BR",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Brazil — Universidades (Universities) - Download gratuito",
+    "description": "List of universities and higher-education institutions in Brazil. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region (state / unidade federativa) where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Brazil\"). Native Portuguese-language names and diacritics preserved verbatim. Contém 189 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Brazil — Universidades (Universities) | ListBase",
+    "seo_description": "Baixar Brazil — Universidades (Universities) — 189 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 189 registros / 8 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "pt-unidades-medida-graphics",
+  "name": "Unidades de medida — categoria 'graphics' (8)",
+  "title": "Unidades de medida — categoria 'graphics' (8)",
+  "description": "Unidades de medida da categoria 'graphics' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "categoria": "graphics",
+      "nome": "pontos",
+      "abreviacao": "pts",
+      "estreito": "pt",
+      "padrao": "{0} pts"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "categoria": "graphics",
+      "nome": "pontos por centímetro",
+      "abreviacao": "",
+      "estreito": "",
+      "padrao": "{0} pontos por centímetro"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "categoria": "graphics",
+      "nome": "pontos por polegada",
+      "abreviacao": "dpi",
+      "estreito": "dpi",
+      "padrao": "{0} pontos por polegada"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "categoria": "graphics",
+      "nome": "em tipográfico",
+      "abreviacao": "em",
+      "estreito": "em",
+      "padrao": "{0} ems"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "categoria": "graphics",
+      "nome": "megapixels",
+      "abreviacao": "megapixels",
+      "estreito": "MP",
+      "padrao": "{0} megapixels"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "categoria": "graphics",
+      "nome": "pixels",
+      "abreviacao": "pixels",
+      "estreito": "px",
+      "padrao": "{0} pixels"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "categoria": "graphics",
+      "nome": "pixels por centímetro",
+      "abreviacao": "ppcm",
+      "estreito": "ppcm",
+      "padrao": "{0} pixels por centímetro"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "categoria": "graphics",
+      "nome": "pixels por polegada",
+      "abreviacao": "ppi",
+      "estreito": "ppi",
+      "padrao": "{0} pixels por polegada"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'graphics' (8) - Download gratuito",
+    "description": "Unidades de medida da categoria 'graphics' do locale pt do CLDR, com nomes em português. Contém 8 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'graphics' (8) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'graphics' (8) — 8 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 8 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

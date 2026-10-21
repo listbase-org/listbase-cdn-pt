@@ -1,0 +1,169 @@
+{
+  "id": "pt-unidades-medida-pressure",
+  "name": "Unidades de medida — categoria 'pressure' (12)",
+  "title": "Unidades de medida — categoria 'pressure' (12)",
+  "description": "Unidades de medida da categoria 'pressure' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "categoria": "pressure",
+      "nome": "atmosferas",
+      "abreviacao": "atm",
+      "estreito": "atm",
+      "padrao": "{0} atmosferas"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "categoria": "pressure",
+      "nome": "bars",
+      "abreviacao": "bar",
+      "estreito": "bar",
+      "padrao": "{0} bars"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "categoria": "pressure",
+      "nome": "gas E",
+      "abreviacao": "gas E",
+      "estreito": "gas E",
+      "padrao": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "categoria": "pressure",
+      "nome": "hectopascais",
+      "abreviacao": "hPa",
+      "estreito": "hPa",
+      "padrao": "{0} hectopascais"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "categoria": "pressure",
+      "nome": "polegadas de mercúrio",
+      "abreviacao": "inHg",
+      "estreito": "inHg",
+      "padrao": "{0} polegadas de mercúrio"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "categoria": "pressure",
+      "nome": "quilopascais",
+      "abreviacao": "kPa",
+      "estreito": "kPa",
+      "padrao": "{0} quilopascais"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "categoria": "pressure",
+      "nome": "megapascais",
+      "abreviacao": "MPa",
+      "estreito": "MPa",
+      "padrao": "{0} megapascais"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "categoria": "pressure",
+      "nome": "milibares",
+      "abreviacao": "mbar",
+      "estreito": "mbar",
+      "padrao": "{0} milibares"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "categoria": "pressure",
+      "nome": "milímetros de mercúrio",
+      "abreviacao": "mmHg",
+      "estreito": "mmHg",
+      "padrao": "{0} milímetros de mercúrio"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "categoria": "pressure",
+      "nome": "de mercúrio",
+      "abreviacao": "de Hg",
+      "estreito": "de Hg",
+      "padrao": "{0} de mercúrio"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "categoria": "pressure",
+      "nome": "pascais",
+      "abreviacao": "Pa",
+      "estreito": "Pa",
+      "padrao": "{0} pascais"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "categoria": "pressure",
+      "nome": "libras por polegada quadrada",
+      "abreviacao": "psi",
+      "estreito": "psi",
+      "padrao": "{0} libras por polegada quadrada"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'pressure' (12) - Download gratuito",
+    "description": "Unidades de medida da categoria 'pressure' do locale pt do CLDR, com nomes em português. Contém 12 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'pressure' (12) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'pressure' (12) — 12 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 12 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pt-fusos-horarios-antarctica",
+  "name": "Fusos horários — Antarctica (2)",
+  "title": "Fusos horários — Antarctica (2)",
+  "description": "Fusos horários cujo identificador IANA começa com 'Antarctica/', com nomes em português.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "nome_padrao",
+      "label": "Nome Padrao",
+      "type": "string"
+    },
+    {
+      "key": "nome_verao",
+      "label": "Nome Verao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Antarctica/DumontDUrville",
+      "regiao": "Antarctica",
+      "cidade": "Dumont-d’Urville",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Antarctica/Syowa",
+      "regiao": "Antarctica",
+      "cidade": "Showa",
+      "nome_padrao": "",
+      "nome_verao": ""
+    }
+  ],
+  "meta": {
+    "title": "Fusos horários — Antarctica (2) - Download gratuito",
+    "description": "Fusos horários cujo identificador IANA começa com 'Antarctica/', com nomes em português. Contém 2 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fusos horários — Antarctica (2) | ListBase",
+    "seo_description": "Baixar Fusos horários — Antarctica (2) — 2 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 2 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

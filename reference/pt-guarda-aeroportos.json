@@ -1,0 +1,256 @@
+{
+  "id": "pt-guarda-aeroportos",
+  "name": "Aeroportos de Guarda (Portugal) — 5 registos",
+  "title": "Aeroportos de Guarda (Portugal) — 5 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Guarda (Distrito, PT-09), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 43777,
+      "ident": "PT-0009",
+      "type": "heliport",
+      "name": "Hospital Distrital de Guarda Heliport",
+      "latitude_deg": 40.529842,
+      "longitude_deg": -7.278002,
+      "elevation_ft": 3278,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-09",
+      "region_local_code": "09",
+      "region_name": "Guarda District",
+      "municipality": "Guarda",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPGA",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3358
+    },
+    {
+      "id": 320152,
+      "ident": "PT-0035",
+      "type": "small_airport",
+      "name": "Aeródromo de Seia",
+      "latitude_deg": 40.453186,
+      "longitude_deg": -7.692059,
+      "elevation_ft": 1445,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-09",
+      "region_local_code": "09",
+      "region_name": "Guarda District",
+      "municipality": "Seia",
+      "scheduled_service": "no",
+      "icao_code": "LPSE",
+      "iata_code": "",
+      "gps_code": "LPSE",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Serra da Estrela, Seia Airfield",
+      "parent_index": 3384
+    },
+    {
+      "id": 326736,
+      "ident": "PT-0099",
+      "type": "small_airport",
+      "name": "Pista do Cabeço da Vaca UL",
+      "latitude_deg": 40.345145,
+      "longitude_deg": -6.979752,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-09",
+      "region_local_code": "09",
+      "region_name": "Guarda District",
+      "municipality": "Sabugal",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "LP66",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3448
+    },
+    {
+      "id": 329856,
+      "ident": "PT-0136",
+      "type": "small_airport",
+      "name": "Dragoa Airstrip",
+      "latitude_deg": 40.406895,
+      "longitude_deg": -6.997218,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-09",
+      "region_local_code": "09",
+      "region_name": "Guarda District",
+      "municipality": "Sabugal",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3485
+    },
+    {
+      "id": 508880,
+      "ident": "PT-0148",
+      "type": "heliport",
+      "name": "Aguiar da Beira Heliport",
+      "latitude_deg": 40.81751,
+      "longitude_deg": -7.53645,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-09",
+      "region_local_code": "09",
+      "region_name": "Guarda District",
+      "municipality": "Aguiar da Beira",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "LP65",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3497
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Guarda (Portugal) — 5 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Guarda (Distrito, PT-09), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 5 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Guarda (Portugal) — 5 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Guarda (Portugal) — 5 registos — 5 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 5 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

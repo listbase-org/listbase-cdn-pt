@@ -1,0 +1,1636 @@
+{
+  "id": "pt-br-feriados-nacionais",
+  "name": "Feriados Nacionais do Brasil (2010–2026)",
+  "title": "Feriados Nacionais do Brasil (2010–2026)",
+  "description": "Feriados nacionais brasileiros de 2010 a 2026, com nome, data e descrição, conforme o repositório feriados-brasil. Campos derivados: ano (do nome do ficheiro-fonte), data_iso (convertido de data DD/MM/YYYY).",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 157,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "codigo_ibge",
+      "label": "Codigo Ibge",
+      "type": "string"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "data_iso",
+      "label": "Data Iso",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "data": "01/01/2010",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-01-01"
+    },
+    {
+      "data": "02/04/2010",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-04-02"
+    },
+    {
+      "data": "21/04/2010",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-04-21"
+    },
+    {
+      "data": "01/05/2010",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-05-01"
+    },
+    {
+      "data": "07/09/2010",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-09-07"
+    },
+    {
+      "data": "12/10/2010",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-10-12"
+    },
+    {
+      "data": "02/11/2010",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-11-02"
+    },
+    {
+      "data": "15/11/2010",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-11-15"
+    },
+    {
+      "data": "25/12/2010",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-12-25"
+    },
+    {
+      "data": "01/01/2011",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-01-01"
+    },
+    {
+      "data": "21/04/2011",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-04-21"
+    },
+    {
+      "data": "22/04/2011",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-04-22"
+    },
+    {
+      "data": "01/05/2011",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-05-01"
+    },
+    {
+      "data": "07/09/2011",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-09-07"
+    },
+    {
+      "data": "12/10/2011",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-10-12"
+    },
+    {
+      "data": "02/11/2011",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-11-02"
+    },
+    {
+      "data": "15/11/2011",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-11-15"
+    },
+    {
+      "data": "25/12/2011",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-12-25"
+    },
+    {
+      "data": "01/01/2012",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-01-01"
+    },
+    {
+      "data": "06/04/2012",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-04-06"
+    },
+    {
+      "data": "21/04/2012",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-04-21"
+    },
+    {
+      "data": "01/05/2012",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-05-01"
+    },
+    {
+      "data": "07/09/2012",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-09-07"
+    },
+    {
+      "data": "12/10/2012",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-10-12"
+    },
+    {
+      "data": "02/11/2012",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-11-02"
+    },
+    {
+      "data": "15/11/2012",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-11-15"
+    },
+    {
+      "data": "25/12/2012",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-12-25"
+    },
+    {
+      "data": "01/01/2013",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-01-01"
+    },
+    {
+      "data": "29/03/2013",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-03-29"
+    },
+    {
+      "data": "21/04/2013",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-04-21"
+    },
+    {
+      "data": "01/05/2013",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-05-01"
+    },
+    {
+      "data": "07/09/2013",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-09-07"
+    },
+    {
+      "data": "12/10/2013",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-10-12"
+    },
+    {
+      "data": "02/11/2013",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-11-02"
+    },
+    {
+      "data": "15/11/2013",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-11-15"
+    },
+    {
+      "data": "25/12/2013",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-12-25"
+    },
+    {
+      "data": "01/01/2014",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-01-01"
+    },
+    {
+      "data": "18/04/2014",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-04-18"
+    },
+    {
+      "data": "21/04/2014",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-04-21"
+    },
+    {
+      "data": "01/05/2014",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-05-01"
+    },
+    {
+      "data": "07/09/2014",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-09-07"
+    },
+    {
+      "data": "12/10/2014",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-10-12"
+    },
+    {
+      "data": "02/11/2014",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-11-02"
+    },
+    {
+      "data": "15/11/2014",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-11-15"
+    },
+    {
+      "data": "25/12/2014",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-12-25"
+    },
+    {
+      "data": "01/01/2015",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-01-01"
+    },
+    {
+      "data": "03/04/2015",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-04-03"
+    },
+    {
+      "data": "21/04/2015",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-04-21"
+    },
+    {
+      "data": "01/05/2015",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-05-01"
+    },
+    {
+      "data": "07/09/2015",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-09-07"
+    },
+    {
+      "data": "12/10/2015",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-10-12"
+    },
+    {
+      "data": "02/11/2015",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-11-02"
+    },
+    {
+      "data": "15/11/2015",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-11-15"
+    },
+    {
+      "data": "25/12/2015",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-12-25"
+    },
+    {
+      "data": "01/01/2016",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-01-01"
+    },
+    {
+      "data": "25/03/2016",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-03-25"
+    },
+    {
+      "data": "21/04/2016",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-04-21"
+    },
+    {
+      "data": "01/05/2016",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-05-01"
+    },
+    {
+      "data": "07/09/2016",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-09-07"
+    },
+    {
+      "data": "12/10/2016",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-10-12"
+    },
+    {
+      "data": "02/11/2016",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-11-02"
+    },
+    {
+      "data": "15/11/2016",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-11-15"
+    },
+    {
+      "data": "25/12/2016",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-12-25"
+    },
+    {
+      "data": "01/01/2017",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-01-01"
+    },
+    {
+      "data": "14/04/2017",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-04-14"
+    },
+    {
+      "data": "21/04/2017",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-04-21"
+    },
+    {
+      "data": "01/05/2017",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-05-01"
+    },
+    {
+      "data": "07/09/2017",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-09-07"
+    },
+    {
+      "data": "12/10/2017",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-10-12"
+    },
+    {
+      "data": "02/11/2017",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-11-02"
+    },
+    {
+      "data": "15/11/2017",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-11-15"
+    },
+    {
+      "data": "25/12/2017",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-12-25"
+    },
+    {
+      "data": "01/01/2018",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-01-01"
+    },
+    {
+      "data": "30/03/2018",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-03-30"
+    },
+    {
+      "data": "21/04/2018",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-04-21"
+    },
+    {
+      "data": "01/05/2018",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-05-01"
+    },
+    {
+      "data": "07/09/2018",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-09-07"
+    },
+    {
+      "data": "12/10/2018",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-10-12"
+    },
+    {
+      "data": "02/11/2018",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-11-02"
+    },
+    {
+      "data": "15/11/2018",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-11-15"
+    },
+    {
+      "data": "25/12/2018",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-12-25"
+    },
+    {
+      "data": "01/01/2019",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-01-01"
+    },
+    {
+      "data": "19/04/2019",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-04-19"
+    },
+    {
+      "data": "21/04/2019",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-04-21"
+    },
+    {
+      "data": "01/05/2019",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-05-01"
+    },
+    {
+      "data": "07/09/2019",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-09-07"
+    },
+    {
+      "data": "12/10/2019",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-10-12"
+    },
+    {
+      "data": "02/11/2019",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-11-02"
+    },
+    {
+      "data": "15/11/2019",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-11-15"
+    },
+    {
+      "data": "25/12/2019",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-12-25"
+    },
+    {
+      "data": "01/01/2020",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-01-01"
+    },
+    {
+      "data": "10/04/2020",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-04-10"
+    },
+    {
+      "data": "21/04/2020",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-04-21"
+    },
+    {
+      "data": "01/05/2020",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-05-01"
+    },
+    {
+      "data": "07/09/2020",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-09-07"
+    },
+    {
+      "data": "12/10/2020",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-10-12"
+    },
+    {
+      "data": "02/11/2020",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-11-02"
+    },
+    {
+      "data": "15/11/2020",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-11-15"
+    },
+    {
+      "data": "25/12/2020",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-12-25"
+    },
+    {
+      "data": "01/01/2021",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-01-01"
+    },
+    {
+      "data": "02/04/2021",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-04-02"
+    },
+    {
+      "data": "21/04/2021",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-04-21"
+    },
+    {
+      "data": "01/05/2021",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-05-01"
+    },
+    {
+      "data": "07/09/2021",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-09-07"
+    },
+    {
+      "data": "12/10/2021",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-10-12"
+    },
+    {
+      "data": "02/11/2021",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-11-02"
+    },
+    {
+      "data": "15/11/2021",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-11-15"
+    },
+    {
+      "data": "25/12/2021",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-12-25"
+    },
+    {
+      "data": "01/01/2022",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-01-01"
+    },
+    {
+      "data": "15/04/2022",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-04-15"
+    },
+    {
+      "data": "21/04/2022",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-04-21"
+    },
+    {
+      "data": "01/05/2022",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-05-01"
+    },
+    {
+      "data": "07/09/2022",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-09-07"
+    },
+    {
+      "data": "12/10/2022",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-10-12"
+    },
+    {
+      "data": "02/11/2022",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-11-02"
+    },
+    {
+      "data": "15/11/2022",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-11-15"
+    },
+    {
+      "data": "25/12/2022",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-12-25"
+    },
+    {
+      "data": "01/01/2023",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-01-01"
+    },
+    {
+      "data": "07/04/2023",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-04-07"
+    },
+    {
+      "data": "21/04/2023",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-04-21"
+    },
+    {
+      "data": "01/05/2023",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-05-01"
+    },
+    {
+      "data": "07/09/2023",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-09-07"
+    },
+    {
+      "data": "12/10/2023",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-10-12"
+    },
+    {
+      "data": "02/11/2023",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-11-02"
+    },
+    {
+      "data": "15/11/2023",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-11-15"
+    },
+    {
+      "data": "25/12/2023",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-12-25"
+    },
+    {
+      "data": "01/01/2024",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-01-01"
+    },
+    {
+      "data": "29/03/2024",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-03-29"
+    },
+    {
+      "data": "21/04/2024",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-04-21"
+    },
+    {
+      "data": "01/05/2024",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-05-01"
+    },
+    {
+      "data": "07/09/2024",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-09-07"
+    },
+    {
+      "data": "12/10/2024",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-10-12"
+    },
+    {
+      "data": "02/11/2024",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-11-02"
+    },
+    {
+      "data": "15/11/2024",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-11-15"
+    },
+    {
+      "data": "20/11/2024",
+      "nome": "Consciência Negra",
+      "tipo": "NACIONAL",
+      "descricao": "Dia Nacional de Zumbi ou Dia da Consciência Negra é Feriado Nacional, conforme Lei 14.759/2023",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-11-20"
+    },
+    {
+      "data": "25/12/2024",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-12-25"
+    },
+    {
+      "data": "01/01/2025",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-01-01"
+    },
+    {
+      "data": "18/04/2025",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-04-18"
+    },
+    {
+      "data": "21/04/2025",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-04-21"
+    },
+    {
+      "data": "01/05/2025",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-05-01"
+    },
+    {
+      "data": "07/09/2025",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-09-07"
+    },
+    {
+      "data": "12/10/2025",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-10-12"
+    },
+    {
+      "data": "02/11/2025",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-11-02"
+    },
+    {
+      "data": "15/11/2025",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-11-15"
+    },
+    {
+      "data": "20/11/2025",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "NACIONAL",
+      "descricao": "Em dezembro de 2023, o presidente Luiz Inácio Lula da Silva declarou a celebração do Dia Nacional de Zumbi e da Consciência Negra feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-11-20"
+    },
+    {
+      "data": "20/11/2025",
+      "nome": "Consciência Negra",
+      "tipo": "NACIONAL",
+      "descricao": "Dia Nacional de Zumbi ou Dia da Consciência Negra é Feriado Nacional, conforme Lei 14.759/2023",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-11-20"
+    },
+    {
+      "data": "25/12/2025",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-12-25"
+    },
+    {
+      "data": "01/01/2026",
+      "nome": "Ano Novo",
+      "tipo": "NACIONAL",
+      "descricao": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-01-01"
+    },
+    {
+      "data": "03/04/2026",
+      "nome": "Sexta-Feira Santa",
+      "tipo": "NACIONAL",
+      "descricao": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-04-03"
+    },
+    {
+      "data": "21/04/2026",
+      "nome": "Dia de Tiradentes",
+      "tipo": "NACIONAL",
+      "descricao": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-04-21"
+    },
+    {
+      "data": "01/05/2026",
+      "nome": "Dia do Trabalho",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-05-01"
+    },
+    {
+      "data": "07/09/2026",
+      "nome": "Independência do Brasil",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-09-07"
+    },
+    {
+      "data": "12/10/2026",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "NACIONAL",
+      "descricao": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-10-12"
+    },
+    {
+      "data": "02/11/2026",
+      "nome": "Dia de Finados",
+      "tipo": "NACIONAL",
+      "descricao": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-11-02"
+    },
+    {
+      "data": "15/11/2026",
+      "nome": "Proclamação da República",
+      "tipo": "NACIONAL",
+      "descricao": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-11-15"
+    },
+    {
+      "data": "20/11/2026",
+      "nome": "Consciência Negra",
+      "tipo": "NACIONAL",
+      "descricao": "Dia Nacional de Zumbi ou Dia da Consciência Negra é Feriado Nacional, conforme Lei 14.759/2023",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-11-20"
+    },
+    {
+      "data": "25/12/2026",
+      "nome": "Natal",
+      "tipo": "NACIONAL",
+      "descricao": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+      "uf": "",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-12-25"
+    }
+  ],
+  "meta": {
+    "title": "Feriados Nacionais do Brasil (2010–2026) - Download gratuito",
+    "description": "Feriados nacionais brasileiros de 2010 a 2026, com nome, data e descrição, conforme o repositório feriados-brasil. Campos derivados: ano (do nome do ficheiro-fonte), data_iso (convertido de data DD/MM/YYYY). Contém 157 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Feriados Nacionais do Brasil (2010–2026) | ListBase",
+    "seo_description": "Baixar Feriados Nacionais do Brasil (2010–2026) — 157 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 157 registros / 8 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "pt-br-roraima-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Roraima (RR)",
+  "title": "Unidades de Conservação Federais — Roraima (RR)",
+  "description": "11 unidades de conservação federais (ICMBio) com território em Roraima (RR), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 62,
+      "nome": "ESTAÇÃO ECOLÓGICA DE MARACÁ",
+      "codigo_cnuc": "0000.00.0057",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "RR",
+      "uf_abrangencia": "RR",
+      "estados": "Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 154221.7268,
+      "ato_legal": "DEC 86.061, de 02/06/1981 e Decreto de ampliação de 11.684 de 05 /09/2023",
+      "nucleo_gestao": "ICMBio Roraima",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 76,
+      "nome": "ESTAÇÃO ECOLÓGICA NIQUIÁ",
+      "codigo_cnuc": "0000.00.0060",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "RR",
+      "uf_abrangencia": "RR",
+      "estados": "Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 306394.5491,
+      "ato_legal": "DEC 91.306, de 03/06/1985",
+      "nucleo_gestao": "ICMBio Roraima",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 86,
+      "nome": "FLORESTA NACIONAL DE ANAUÁ",
+      "codigo_cnuc": "0000.00.0084",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RR",
+      "uf_abrangencia": "RR",
+      "estados": "Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 259402.9894,
+      "ato_legal": "DEC S/N de 18/02/2005",
+      "nucleo_gestao": "ICMBio Roraima",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 117,
+      "nome": "FLORESTA NACIONAL DE RORAIMA",
+      "codigo_cnuc": "0000.00.0106",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "AM, RR",
+      "uf_abrangencia": "AM/RR",
+      "estados": "Amazonas, Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 169628.7017,
+      "ato_legal": "DEC 97.545, de 01/03/1989; LEI 12.058, de 13/12/2009.",
+      "nucleo_gestao": "ICMBio Roraima",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 129,
+      "nome": "FLORESTA NACIONAL DO AMAZONAS",
+      "codigo_cnuc": "0000.00.0114",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "AM, RR",
+      "uf_abrangencia": "AM/RR",
+      "estados": "Amazonas, Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 1944230.0948,
+      "ato_legal": "DEC 97.546, de 01/03/1989",
+      "nucleo_gestao": "ICMBio Pico da Neblina",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 141,
+      "nome": "FLORESTA NACIONAL DO PARIMA",
+      "codigo_cnuc": "0000.00.4617",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "RR",
+      "uf_abrangencia": "RR",
+      "estados": "Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 109484.6197,
+      "ato_legal": "DEC 11.685 de 05/09/2023",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 205,
+      "nome": "PARQUE NACIONAL DO JAÚ",
+      "codigo_cnuc": "0000.00.0173",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "AM, RR",
+      "uf_abrangencia": "AM/RR",
+      "estados": "Amazonas, Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 862895.2729,
+      "ato_legal": "DEC 85.200 de 24/09/1980",
+      "nucleo_gestao": "ICMBio Novo Airão",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 207,
+      "nome": "PARQUE NACIONAL DO MONTE RORAIMA",
+      "codigo_cnuc": "0000.00.0174",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "RR",
+      "uf_abrangencia": "RR",
+      "estados": "Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 116749.2403,
+      "ato_legal": "DEC 97.887, de 28/06/1989",
+      "nucleo_gestao": "ICMBio Roraima",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 213,
+      "nome": "PARQUE NACIONAL DO VIRUÁ",
+      "codigo_cnuc": "0000.00.0179",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "RR",
+      "uf_abrangencia": "RR",
+      "estados": "Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 280983.1956,
+      "ato_legal": "DEC S/N, de 29/04/1998 e Decreto n┬░ 11.683 de 05/09/2023",
+      "nucleo_gestao": "ICMBio Roraima",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 228,
+      "nome": "PARQUE NACIONAL SERRA DA MOCIDADE",
+      "codigo_cnuc": "0000.00.0189",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "AM, RR",
+      "uf_abrangencia": "AM/RR",
+      "estados": "Amazonas, Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 359943.6147,
+      "ato_legal": "DEC S/N, de 29/04/1998",
+      "nucleo_gestao": "ICMBio Roraima",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 278,
+      "nome": "RESERVA EXTRATIVISTA BAIXO RIO BRANCO-JAUAPERI",
+      "codigo_cnuc": "0000.00.3693",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "AM, RR",
+      "uf_abrangencia": "AM/RR",
+      "estados": "Amazonas, Roraima",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 580630.9206,
+      "ato_legal": "DEC 9.401 de 05/06/2018",
+      "nucleo_gestao": "ICMBio Novo Airão",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Roraima (RR) - Download gratuito",
+    "description": "11 unidades de conservação federais (ICMBio) com território em Roraima (RR), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 11 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Roraima (RR) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Roraima (RR) — 11 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 11 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

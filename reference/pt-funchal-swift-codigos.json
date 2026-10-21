@@ -1,0 +1,106 @@
+{
+  "id": "pt-funchal-swift-codigos",
+  "name": "Códigos SWIFT/BIC — Funchal",
+  "title": "Códigos SWIFT/BIC — Funchal",
+  "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 10 instituições que a fonte indica com a cidade \"FUNCHAL\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "FUNCHAL",
+      "branch": "(OFFSHORE BRANCH - CORPORATE AREA)",
+      "swift_code": "BCOMPTPLOFI"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "FUNCHAL",
+      "branch": "(OFFSHORE BRANCH)",
+      "swift_code": "BCOMPTPLSFE"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "FUNCHAL",
+      "branch": "",
+      "swift_code": "BCOMPTPLFUN"
+    },
+    {
+      "bank": "BANCO DE BOSTON LATINO AMERICANO S.A.",
+      "city": "FUNCHAL",
+      "branch": "",
+      "swift_code": "BBLAPTP1"
+    },
+    {
+      "bank": "BANCO MADESANT - SOCIEDADE UNIPESSOAL S.A. (ZONA FRANCA DA MADEIRA)",
+      "city": "FUNCHAL",
+      "branch": "",
+      "swift_code": "MASNPTP1"
+    },
+    {
+      "bank": "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)",
+      "city": "FUNCHAL",
+      "branch": "(ENDERECO SWIFT FUNCHAL)",
+      "swift_code": "BNIFPTPLFUN"
+    },
+    {
+      "bank": "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)",
+      "city": "FUNCHAL",
+      "branch": "(ENDERECO SWIFT SFE)",
+      "swift_code": "BNIFPTPLSFE"
+    },
+    {
+      "bank": "CAIXA GERAL DE DEPOSITOS",
+      "city": "FUNCHAL",
+      "branch": "(MADEIRA OFFSHORE BRANCH)",
+      "swift_code": "CGDIPTPLOSF"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG PORTUGAL BRANCH",
+      "city": "FUNCHAL",
+      "branch": "(SUCURSAL FINANCEIRA EXTERIOR - OFFSHORE)",
+      "swift_code": "DEUTPTPLFUN"
+    },
+    {
+      "bank": "NOVO BANCO, SA",
+      "city": "FUNCHAL",
+      "branch": "(SUCURSAL FINANCEIRA EXTERIOR, MADEIRA BRANCH)",
+      "swift_code": "BESCPTPLOSF"
+    }
+  ],
+  "meta": {
+    "title": "Códigos SWIFT/BIC — Funchal - Download gratuito",
+    "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 10 instituições que a fonte indica com a cidade \"FUNCHAL\". Contém 10 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Códigos SWIFT/BIC — Funchal | ListBase",
+    "seo_description": "Baixar Códigos SWIFT/BIC — Funchal — 10 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 10 registros / 4 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

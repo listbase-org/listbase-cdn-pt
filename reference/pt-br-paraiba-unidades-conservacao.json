@@ -1,0 +1,250 @@
+{
+  "id": "pt-br-paraiba-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Paraíba (PB)",
+  "title": "Unidades de Conservação Federais — Paraíba (PB)",
+  "description": "8 unidades de conservação federais (ICMBio) com território em Paraíba (PB), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 83,
+      "nome": "FLORESTA NACIONAL DA RESTINGA DE CABEDELO",
+      "codigo_cnuc": "0000.00.0132",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 113.2663,
+      "ato_legal": "DEC S/N, de 02/06/2004",
+      "nucleo_gestao": "ICMBio Cabedelo",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 152,
+      "nome": "MONUMENTO NATURAL DO ARQUIPÉLAGO DE SÃO PEDRO E SÃO PAULO",
+      "codigo_cnuc": "0000.00.3644",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 4726317.8357,
+      "ato_legal": "DEC 9.313 de 19/03/2018",
+      "nucleo_gestao": "ICMBio Noronha",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 175,
+      "nome": "PARQUE NACIONAL DA SERRA DO TEIXEIRA",
+      "codigo_cnuc": "0000.00.4581",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 61095.7026,
+      "ato_legal": "DEC 11.522 de 05/06/2023",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 267,
+      "nome": "RESERVA BIOLÓGICA GUARIBAS",
+      "codigo_cnuc": "0000.00.0196",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 4274.5296,
+      "ato_legal": "DEC 98.884 de 25/01/1990",
+      "nucleo_gestao": "ICMBio Mamanguape",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 273,
+      "nome": "RESERVA EXTRATIVISTA ACAÚ-GOIANA",
+      "codigo_cnuc": "0000.00.1563",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "PB, PE",
+      "uf_abrangencia": "PB/PE",
+      "estados": "Paraíba, Pernambuco",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 6708.6905,
+      "ato_legal": "DEC S/N, de 26/09/2007",
+      "nucleo_gestao": "ICMBio Cabedelo",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 11,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA BARRA DO RIO MAMANGUAPE",
+      "codigo_cnuc": "0000.00.0007",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO e MATA ATLÂNTICA",
+      "area_ha": 14917.7912,
+      "ato_legal": "DEC 924 de 10/09/1993; DEC S;N 7/04/1998",
+      "nucleo_gestao": "ICMBio Mamanguape",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 25,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DO ARQUIPÉLAGO DE SÃO PEDRO E SÃO PAULO",
+      "codigo_cnuc": "0000.00.3643",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 38450193.8156,
+      "ato_legal": "DEC 9.313 de 19/03/2018",
+      "nucleo_gestao": "ICMBio Noronha",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 46,
+      "nome": "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO MANGUEZAIS DA FOZ DO RIO MAMANGUAPE",
+      "codigo_cnuc": "0000.00.0039",
+      "categoria": "Área de Relevante Interesse Ecológico",
+      "sigla_categoria": "ARIE",
+      "grupo": "Uso Sustentável",
+      "ufs": "PB",
+      "uf_abrangencia": "PB",
+      "estados": "Paraíba",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA e SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 5769.5403,
+      "ato_legal": "DEC 91.890 de 05/11/1985",
+      "nucleo_gestao": "ICMBio Mamanguape",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Paraíba (PB) - Download gratuito",
+    "description": "8 unidades de conservação federais (ICMBio) com território em Paraíba (PB), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 8 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Paraíba (PB) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Paraíba (PB) — 8 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 8 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

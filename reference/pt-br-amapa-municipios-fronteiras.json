@@ -1,0 +1,331 @@
+{
+  "id": "pt-br-amapa-municipios-fronteiras",
+  "name": "Fronteiras dos Municípios — Amapá (AP)",
+  "title": "Fronteiras dos Municípios — Amapá (AP)",
+  "description": "16 municípios do estado de Amapá (AP) com nome, slug, UF, bounding box (min/max lat/lng), centroide e fronteiras geográficas em coordenadas WGS-84. Fronteiras provenientes do IBGE (malhas digitais 2010, escala 1:250.000) simplificadas via mapshaper pelo upstream eduardo-veras/kml-brasil.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_upper",
+      "label": "Name Upper",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "bbox_min_lat",
+      "label": "Bbox Min Lat",
+      "type": "number"
+    },
+    {
+      "key": "bbox_max_lat",
+      "label": "Bbox Max Lat",
+      "type": "number"
+    },
+    {
+      "key": "bbox_min_lng",
+      "label": "Bbox Min Lng",
+      "type": "number"
+    },
+    {
+      "key": "bbox_max_lng",
+      "label": "Bbox Max Lng",
+      "type": "number"
+    },
+    {
+      "key": "centroid_lat",
+      "label": "Centroid Lat",
+      "type": "number"
+    },
+    {
+      "key": "centroid_lng",
+      "label": "Centroid Lng",
+      "type": "number"
+    },
+    {
+      "key": "border_point_count",
+      "label": "Border Point Count",
+      "type": "number"
+    },
+    {
+      "key": "borders",
+      "label": "Borders",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Amapá",
+      "name_upper": "AMAPÁ",
+      "slug": "amapa",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 1.1703246913314729,
+      "bbox_max_lat": 2.2077271254065636,
+      "bbox_min_lng": -51.65903365947577,
+      "bbox_max_lng": -49.877528662517705,
+      "centroid_lat": 1.7551915732445589,
+      "centroid_lng": -50.75328700310068,
+      "border_point_count": 75,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Calçoene",
+      "name_upper": "CALÇOENE",
+      "slug": "calcoene",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 1.3167400275302725,
+      "bbox_max_lat": 3.9236607974079334,
+      "bbox_min_lng": -52.06512179733306,
+      "bbox_max_lng": -50.68266579259222,
+      "centroid_lat": 2.4575477920951583,
+      "centroid_lng": -51.41313889804623,
+      "border_point_count": 110,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Cutias",
+      "name_upper": "CUTIAS",
+      "slug": "cutias",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 0.7980493114266096,
+      "bbox_max_lat": 1.3349375896980291,
+      "bbox_min_lng": -50.95166803255364,
+      "bbox_max_lng": -50.067209513608134,
+      "centroid_lat": 1.0553351389591998,
+      "centroid_lng": -50.47842717147431,
+      "border_point_count": 41,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Ferreira Gomes",
+      "name_upper": "FERREIRA GOMES",
+      "slug": "ferreira-gomes",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 0.4233492729506452,
+      "bbox_max_lat": 1.3237249098767165,
+      "bbox_min_lng": -52.00886446572247,
+      "bbox_max_lng": -50.886837229154764,
+      "centroid_lat": 0.9037805495395563,
+      "centroid_lng": -51.3608380254714,
+      "border_point_count": 59,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Itaubal",
+      "name_upper": "ITAUBAL",
+      "slug": "itaubal",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 0.2087487628451754,
+      "bbox_max_lat": 0.7701367724940837,
+      "bbox_min_lng": -50.92547538857826,
+      "bbox_max_lng": -50.40986158414478,
+      "centroid_lat": 0.5735443726383699,
+      "centroid_lng": -50.65554907578374,
+      "border_point_count": 33,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Laranjal do Jari",
+      "name_upper": "LARANJAL DO JARI",
+      "slug": "laranjal-do-jari",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": -0.9226898681428679,
+      "bbox_max_lat": 2.471486166753266,
+      "bbox_min_lng": -54.874696404115696,
+      "bbox_max_lng": -51.935617408216785,
+      "centroid_lat": 0.9174155162181484,
+      "centroid_lng": -53.231955325692695,
+      "border_point_count": 180,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Macapá",
+      "name_upper": "MACAPÁ",
+      "slug": "macapa",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": -0.09753778454108897,
+      "bbox_max_lat": 1.2404181124060187,
+      "bbox_min_lng": -51.493130405743614,
+      "bbox_max_lng": -49.89191337350337,
+      "centroid_lat": 0.5829635834903869,
+      "centroid_lng": -50.75680267026512,
+      "border_point_count": 98,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Mazagão",
+      "name_upper": "MAZAGÃO",
+      "slug": "mazagao",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": -0.9093351839715069,
+      "bbox_max_lat": 0.8301219999303839,
+      "bbox_min_lng": -52.75298495838905,
+      "bbox_max_lng": -51.2080541358896,
+      "centroid_lat": 0.012746497861496809,
+      "centroid_lng": -52.076967105691644,
+      "border_point_count": 79,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Oiapoque",
+      "name_upper": "OIAPOQUE",
+      "slug": "oiapoque",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 1.9465615067082354,
+      "bbox_max_lat": 4.436746317088932,
+      "bbox_min_lng": -53.27918490296088,
+      "bbox_max_lng": -51.14764597438216,
+      "centroid_lat": 2.8754197956290772,
+      "centroid_lng": -52.07713429366446,
+      "border_point_count": 112,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Pedra Branca do Amapari",
+      "name_upper": "PEDRA BRANCA DO AMAPARI",
+      "slug": "pedra-branca-do-amapari",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 0.4325119472686083,
+      "bbox_max_lat": 2.0247665851098873,
+      "bbox_min_lng": -53.05891772597221,
+      "bbox_max_lng": -51.707163918480035,
+      "centroid_lat": 1.1438613849223909,
+      "centroid_lng": -52.42419710498604,
+      "border_point_count": 95,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Porto Grande",
+      "name_upper": "PORTO GRANDE",
+      "slug": "porto-grande",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 0.21719389418291257,
+      "bbox_max_lat": 0.9941106977505569,
+      "bbox_min_lng": -52.348096127634165,
+      "bbox_max_lng": -51.048282692791986,
+      "centroid_lat": 0.5976088798801962,
+      "centroid_lng": -51.69524810406191,
+      "border_point_count": 73,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Pracuúba",
+      "name_upper": "PRACUÚBA",
+      "slug": "pracuuba",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 1.3167400275302725,
+      "bbox_max_lat": 1.894166481797754,
+      "bbox_min_lng": -51.99062530991006,
+      "bbox_max_lng": -50.5358072659925,
+      "centroid_lat": 1.658589911605715,
+      "centroid_lng": -51.22119588365149,
+      "border_point_count": 57,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Santana",
+      "name_upper": "SANTANA",
+      "slug": "santana",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": -0.11700727136843625,
+      "bbox_max_lat": 0.4679090309770686,
+      "bbox_min_lng": -51.57324596522909,
+      "bbox_max_lng": -51.11839402566369,
+      "centroid_lat": 0.13467479422366593,
+      "centroid_lng": -51.34154855807463,
+      "border_point_count": 29,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Serra do Navio",
+      "name_upper": "SERRA DO NAVIO",
+      "slug": "serra-do-navio",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 0.84803120077936,
+      "bbox_max_lat": 2.4365365011586277,
+      "bbox_min_lng": -52.86793782666933,
+      "bbox_max_lng": -51.8151088035284,
+      "centroid_lat": 1.6564463743860829,
+      "centroid_lng": -52.23464832888894,
+      "border_point_count": 82,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Tartarugalzinho",
+      "name_upper": "TARTARUGALZINHO",
+      "slug": "tartarugalzinho",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": 0.9408722076863114,
+      "bbox_max_lat": 1.690483235013346,
+      "bbox_min_lng": -51.466662095279446,
+      "bbox_max_lng": -50.4229970999362,
+      "centroid_lat": 1.266642271413748,
+      "centroid_lng": -51.054981080020774,
+      "border_point_count": 50,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    },
+    {
+      "name": "Vitória do Jari",
+      "name_upper": "VITÓRIA DO JARI",
+      "slug": "vitoria-do-jari",
+      "uf": "AP",
+      "state": "Amapá",
+      "bbox_min_lat": -1.2359841127765208,
+      "bbox_max_lat": -0.7955223538734799,
+      "bbox_min_lng": -52.45551787345107,
+      "bbox_max_lng": -51.683507056905114,
+      "centroid_lat": -0.9943082539995975,
+      "centroid_lng": -52.066996640544026,
+      "border_point_count": 39,
+      "borders": "[object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]: [object Object]"
+    }
+  ],
+  "meta": {
+    "title": "Fronteiras dos Municípios — Amapá (AP) - Download gratuito",
+    "description": "16 municípios do estado de Amapá (AP) com nome, slug, UF, bounding box (min/max lat/lng), centroide e fronteiras geográficas em coordenadas WGS-84. Fronteiras provenientes do IBGE (malhas digitais 2010, escala 1:250.000) simplificadas via mapshaper pelo upstream eduardo-veras/kml-brasil. Contém 16 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fronteiras dos Municípios — Amapá (AP) | ListBase",
+    "seo_description": "Baixar Fronteiras dos Municípios — Amapá (AP) — 16 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 16 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "pt-br-canais-tv-ar-livre",
+  "name": "Canais de televisão de ar livre do Brasil",
+  "title": "Canais de televisão de ar livre do Brasil",
+  "description": "Canais de televisão brasileiros da categoria «outdoor» (de ar livre) — 6 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AgroBrasilTV.br",
+      "name": "AgroBrasil TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "outdoor",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://agrobrasiltv.com.br/"
+    },
+    {
+      "id": 2,
+      "channel_id": "AgroCanal.br",
+      "name": "AgroCanal",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "education, outdoor",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://sba1.com/"
+    },
+    {
+      "id": 3,
+      "channel_id": "CanalRural.br",
+      "name": "Canal Rural",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "outdoor",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://canalrural.uol.com.br/"
+    },
+    {
+      "id": 4,
+      "channel_id": "CanaldoCriador.br",
+      "name": "Canal do Criador",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "outdoor",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.canaldocriador.com.br/"
+    },
+    {
+      "id": 5,
+      "channel_id": "FishTV.br",
+      "name": "Fish TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "outdoor",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.fishtv.com/"
+    },
+    {
+      "id": 6,
+      "channel_id": "TerraViva.br",
+      "name": "Terra Viva",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "outdoor",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão de ar livre do Brasil - Download gratuito",
+    "description": "Canais de televisão brasileiros da categoria «outdoor» (de ar livre) — 6 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 6 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão de ar livre do Brasil | ListBase",
+    "seo_description": "Baixar Canais de televisão de ar livre do Brasil — 6 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 6 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

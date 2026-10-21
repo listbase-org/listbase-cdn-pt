@@ -1,0 +1,304 @@
+{
+  "id": "pt-br-pernambuco-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Pernambuco (PE)",
+  "title": "Unidades de Conservação Federais — Pernambuco (PE)",
+  "description": "11 unidades de conservação federais (ICMBio) com território em Pernambuco (PE), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 107,
+      "nome": "FLORESTA NACIONAL DE NEGREIROS",
+      "codigo_cnuc": "0000.00.1605",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "PE",
+      "uf_abrangencia": "PE",
+      "estados": "Pernambuco",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 168.8433,
+      "ato_legal": "DEC S/N de 11/10/2007",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 201,
+      "nome": "PARQUE NACIONAL DO CATIMBAU",
+      "codigo_cnuc": "0000.00.0170",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "PE",
+      "uf_abrangencia": "PE",
+      "estados": "Pernambuco",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 62239.5907,
+      "ato_legal": "DEC S/N, de 13/12/2002",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 223,
+      "nome": "PARQUE NACIONAL MARINHO DE FERNANDO DE NORONHA",
+      "codigo_cnuc": "0000.00.0186",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "PE",
+      "uf_abrangencia": "PE",
+      "estados": "Pernambuco",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 10932.5672,
+      "ato_legal": "DEC 96.693, de 14/09/1988",
+      "nucleo_gestao": "ICMBio Noronha",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 247,
+      "nome": "RESERVA BIOLÓGICA DE PEDRA TALHADA",
+      "codigo_cnuc": "0000.00.0197",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "PE, AL",
+      "uf_abrangencia": "PE/AL",
+      "estados": "Pernambuco, Alagoas",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 4382.3723,
+      "ato_legal": "DEC 98.524 de 13/12/1989",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 249,
+      "nome": "RESERVA BIOLÓGICA DE SALTINHO",
+      "codigo_cnuc": "0000.00.0198",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "PE",
+      "uf_abrangencia": "PE",
+      "estados": "Pernambuco",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 562.5769,
+      "ato_legal": "DEC 88.744 de 21/09/1983",
+      "nucleo_gestao": "ICMBio Costa dos Corais",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 251,
+      "nome": "RESERVA BIOLÓGICA DE SERRA NEGRA",
+      "codigo_cnuc": "0000.00.0200",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "PE",
+      "uf_abrangencia": "PE",
+      "estados": "Pernambuco",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 624.8583,
+      "ato_legal": "DEC 87.591 de 20/08/1982",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 255,
+      "nome": "RESERVA BIOLÓGICA DO ATOL DAS ROCAS",
+      "codigo_cnuc": "0000.00.0203",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "PE",
+      "uf_abrangencia": "PE",
+      "estados": "Pernambuco",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 35187.0142,
+      "ato_legal": "DEC 83.549 de 05/06/1979",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 273,
+      "nome": "RESERVA EXTRATIVISTA ACAÚ-GOIANA",
+      "codigo_cnuc": "0000.00.1563",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "PB, PE",
+      "uf_abrangencia": "PB/PE",
+      "estados": "Paraíba, Pernambuco",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 6708.6905,
+      "ato_legal": "DEC S/N, de 26/09/2007",
+      "nucleo_gestao": "ICMBio Cabedelo",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 12,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA CHAPADA DO ARARIPE",
+      "codigo_cnuc": "0000.00.0008",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PI, CE, PE",
+      "uf_abrangencia": "PI/CE/PE",
+      "estados": "Piauí, Ceará, Pernambuco",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 1017366.2383,
+      "ato_legal": "DEC S/N de 04/08/1997",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 13,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA COSTA DOS CORAIS",
+      "codigo_cnuc": "0000.00.0009",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PE, AL",
+      "uf_abrangencia": "PE/AL",
+      "estados": "Pernambuco, Alagoas",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 405642.3972,
+      "ato_legal": "DEC S/N de 23/10/1997",
+      "nucleo_gestao": "ICMBio Costa dos Corais",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 20,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DE FERNANDO DE NORONHA - ROCAS - SÃO PEDRO E SÃO PAULO",
+      "codigo_cnuc": "0000.00.0015",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PE",
+      "uf_abrangencia": "PE",
+      "estados": "Pernambuco",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 154405.8156,
+      "ato_legal": "DEC 92.755 de 05/06/1986",
+      "nucleo_gestao": "ICMBio Noronha",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Pernambuco (PE) - Download gratuito",
+    "description": "11 unidades de conservação federais (ICMBio) com território em Pernambuco (PE), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 11 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Pernambuco (PE) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Pernambuco (PE) — 11 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 11 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

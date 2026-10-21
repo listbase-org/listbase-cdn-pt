@@ -1,0 +1,178 @@
+{
+  "id": "pt-unidades-medida-concentr",
+  "name": "Unidades de medida — categoria 'concentr' (13)",
+  "title": "Unidades de medida — categoria 'concentr' (13)",
+  "description": "Unidades de medida da categoria 'concentr' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "categoria": "concentr",
+      "nome": "itens",
+      "abreviacao": "item",
+      "estreito": "item",
+      "padrao": "{0} itens"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "categoria": "concentr",
+      "nome": "kilates",
+      "abreviacao": "kilates",
+      "estreito": "kilate",
+      "padrao": "{0} kilates"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "categoria": "concentr",
+      "nome": "katals",
+      "abreviacao": "kat",
+      "estreito": "kat",
+      "padrao": "{0} katals"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "categoria": "concentr",
+      "nome": "miligramas por decilitro",
+      "abreviacao": "mg/dl",
+      "estreito": "mg/dl",
+      "padrao": "{0} miligramas por decilitro"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "categoria": "concentr",
+      "nome": "milimols por litro",
+      "abreviacao": "milimol/litro",
+      "estreito": "mmol/l",
+      "padrao": "{0} milimols por litro"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "categoria": "concentr",
+      "nome": "mols",
+      "abreviacao": "mol",
+      "estreito": "mol",
+      "padrao": "{0} mols"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "categoria": "concentr",
+      "nome": "de glicose",
+      "abreviacao": "Glc",
+      "estreito": "Glc",
+      "padrao": "{0} de glicose"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "categoria": "concentr",
+      "nome": "partes",
+      "abreviacao": "parte",
+      "estreito": "parte",
+      "padrao": "{0} partes"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "categoria": "concentr",
+      "nome": "partes por milhão",
+      "abreviacao": "partes/milhão",
+      "estreito": "ppm",
+      "padrao": "{0} partes por milhão"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "categoria": "concentr",
+      "nome": "partes por bilhão",
+      "abreviacao": "partes/bilhão",
+      "estreito": "ppb",
+      "padrao": "{0} partes por bilhão"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "categoria": "concentr",
+      "nome": "por cento",
+      "abreviacao": "por cento",
+      "estreito": "%",
+      "padrao": "{0} por cento"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "categoria": "concentr",
+      "nome": "por mil",
+      "abreviacao": "por mil",
+      "estreito": "‰",
+      "padrao": "{0} por mil"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "categoria": "concentr",
+      "nome": "ponto base",
+      "abreviacao": "ponto base",
+      "estreito": "‱",
+      "padrao": "{0} pontos base"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'concentr' (13) - Download gratuito",
+    "description": "Unidades de medida da categoria 'concentr' do locale pt do CLDR, com nomes em português. Contém 13 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'concentr' (13) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'concentr' (13) — 13 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 13 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

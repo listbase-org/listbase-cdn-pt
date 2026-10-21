@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Categoria","Nome","Abreviacao","Estreito","Padrao"
+"1","power-gigawatt","power","gigawatts","GW","GW","{0} gigawatts"
+"2","power-horsepower","power","cavalos-vapor","cv","cv","{0} cavalos-vapor"
+"3","power-kilowatt","power","quilowatts","kW","kW","{0} quilowatts"
+"4","power-megawatt","power","megawatts","MW","MW","{0} megawatts"
+"5","power-milliwatt","power","miliwatts","mW","mW","{0} miliwatts"
+"6","power-watt","power","watts","watts","watt","{0} watts"

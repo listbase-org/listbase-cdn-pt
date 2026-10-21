@@ -1,0 +1,322 @@
+{
+  "id": "pt-br-ceara-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Ceará (CE)",
+  "title": "Unidades de Conservação Federais — Ceará (CE)",
+  "description": "12 unidades de conservação federais (ICMBio) com território em Ceará (CE), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 56,
+      "nome": "ESTAÇÃO ECOLÓGICA DE AIUABA",
+      "codigo_cnuc": "0000.00.0048",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 11335.1929,
+      "ato_legal": "DEC S/N, de 06/02/2001",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 69,
+      "nome": "ESTAÇÃO ECOLÓGICA DO CASTANHÃO",
+      "codigo_cnuc": "0000.00.0066",
+      "categoria": "Estação Ecológica",
+      "sigla_categoria": "Esec",
+      "grupo": "Proteção Integral",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 12574.6361,
+      "ato_legal": "DEC S/N, de 27/09/2001",
+      "nucleo_gestao": "ICMBio Mossoró",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 123,
+      "nome": "FLORESTA NACIONAL DE SOBRAL",
+      "codigo_cnuc": "0000.00.0111",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 661.0234,
+      "ato_legal": "Portaria 358, de 27/09/2001",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 130,
+      "nome": "FLORESTA NACIONAL DO ARARIPE-APODI",
+      "codigo_cnuc": "0000.00.0115",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 38920.0619,
+      "ato_legal": "DEC LEI 9.226, de 02/05/1946; DEC S/N de 05/06/2012",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 190,
+      "nome": "PARQUE NACIONAL DE JERICOACOARA",
+      "codigo_cnuc": "0000.00.0162",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 8855.4686,
+      "ato_legal": "DEC S/N, de 04/02/2002; LEI 11.486, de 15/06/2007",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 195,
+      "nome": "PARQUE NACIONAL DE UBAJARA",
+      "codigo_cnuc": "0000.00.0167",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 6304.4428,
+      "ato_legal": "DEC 45.954, de 30/04/1959; DEC 72.144, de 26/04/1973; DEC S/N, de 13/12/2002",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 292,
+      "nome": "RESERVA EXTRATIVISTA DO BATOQUE",
+      "codigo_cnuc": "0000.00.0231",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 601.4468,
+      "ato_legal": "DEC S/N, de 05/06/2003",
+      "nucleo_gestao": "ICMBio Batoque-Prainha",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 330,
+      "nome": "RESERVA EXTRATIVISTA PRAINHA DO CANTO VERDE",
+      "codigo_cnuc": "0000.00.1809",
+      "categoria": "Reserva Extrativista",
+      "sigla_categoria": "Resex",
+      "grupo": "Uso Sustentável",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 29805.4819,
+      "ato_legal": "DEC S/N, de 05/06/2009",
+      "nucleo_gestao": "ICMBio Batoque-Prainha",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 12,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DA CHAPADA DO ARARIPE",
+      "codigo_cnuc": "0000.00.0008",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PI, CE, PE",
+      "uf_abrangencia": "PI/CE/PE",
+      "estados": "Piauí, Ceará, Pernambuco",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 1017366.2383,
+      "ato_legal": "DEC S/N de 04/08/1997",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 24,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL DELTA DO PARNAÍBA",
+      "codigo_cnuc": "0000.00.0019",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "MA, PI, CE",
+      "uf_abrangencia": "MA/PI/CE",
+      "estados": "Maranhão, Piauí, Ceará",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO, CAATINGA e SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 309593.7707,
+      "ato_legal": "DEC S/N de 28/08/1996",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 35,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL SERRA DA IBIAPABA",
+      "codigo_cnuc": "0000.00.0029",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "PI, CE",
+      "uf_abrangencia": "PI/CE",
+      "estados": "Piauí, Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA e CERRADO",
+      "area_ha": 1628740.5163,
+      "ato_legal": "DEC S/N de 26/11/1996",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 36,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL SERRA DA MERUOCA",
+      "codigo_cnuc": "0000.00.1683",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "CE",
+      "uf_abrangencia": "CE",
+      "estados": "Ceará",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 29361.7424,
+      "ato_legal": "LEI 11.891 de 24/12/2008",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Ceará (CE) - Download gratuito",
+    "description": "12 unidades de conservação federais (ICMBio) com território em Ceará (CE), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 12 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Ceará (CE) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Ceará (CE) — 12 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 12 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

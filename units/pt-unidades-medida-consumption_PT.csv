@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Categoria","Nome","Abreviacao","Estreito","Padrao"
+"1","consumption-liter-per-100-kilometer","consumption","litros por 100 quilômetros","l/100 km","l/100 km","{0} litros por 100 quilômetros"
+"2","consumption-liter-per-kilometer","consumption","litros por quilômetro","litros/km","l/km","{0} litros por quilômetro"
+"3","consumption-mile-per-gallon","consumption","milhas por galão","milhas/gal","mpg","{0} milhas por galão"
+"4","consumption-mile-per-gallon-imperial","consumption","milhas por galão imperial","milhas/gal. imp.","milhas/gal. imp.","{0} milhas por galão imperial"

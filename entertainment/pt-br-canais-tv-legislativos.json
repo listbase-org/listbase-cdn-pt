@@ -1,0 +1,361 @@
+{
+  "id": "pt-br-canais-tv-legislativos",
+  "name": "Canais de televisão legislativos do Brasil",
+  "title": "Canais de televisão legislativos do Brasil",
+  "description": "Canais de televisão brasileiros da categoria «legislative» (legislativos) — 18 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AssembleiaLegislativaTV.br",
+      "name": "Assembleia Legislativa TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www2.al.rs.gov.br/tvassembleia/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CanalGov.br",
+      "name": "Canal Gov",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "2023-07-25",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://agenciagov.ebc.com.br/"
+    },
+    {
+      "id": 3,
+      "channel_id": "RioTVCamara.br",
+      "name": "Rio TV Camara",
+      "alt_names": "Rio TV Câmara",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://camara.rio/"
+    },
+    {
+      "id": 4,
+      "channel_id": "TVALBA.br",
+      "name": "TV ALBA",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.al.ba.gov.br/midia-center/tvalba"
+    },
+    {
+      "id": 5,
+      "channel_id": "TVALMG.br",
+      "name": "TV ALMG",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 6,
+      "channel_id": "TVAlese.br",
+      "name": "TV Alese",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://al.se.leg.br/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TVAssembleiaCeara.br",
+      "name": "TV Assembleia Ceara",
+      "alt_names": "TV Assembléia Ceará",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.al.ce.gov.br/"
+    },
+    {
+      "id": 8,
+      "channel_id": "TVAssembleiaMatoGrosso.br",
+      "name": "TV Assembleia Mato Grosso",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.al.mt.gov.br/institucional/tv/"
+    },
+    {
+      "id": 9,
+      "channel_id": "TVAssembleiaMinasGerais.br",
+      "name": "TV Assembleia Minas Gerais",
+      "alt_names": "TV Assembléia Minas Gerais",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.almg.gov.br/acompanhe/tv_assembleia/"
+    },
+    {
+      "id": 10,
+      "channel_id": "TVAssembleiaParana.br",
+      "name": "TV Assembleia Parana",
+      "alt_names": "TV Assembleia Paraná",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.alep.pr.gov.br/sala_de_imprensa/tv_sinal"
+    },
+    {
+      "id": 11,
+      "channel_id": "TVAssembleiaPiaui.br",
+      "name": "TV Assembleia Piaui",
+      "alt_names": "TV Assembléia Piauí",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.alepi.pi.gov.br/"
+    },
+    {
+      "id": 12,
+      "channel_id": "TVAssembleiaRN.br",
+      "name": "TV Assembleia RN",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.al.rn.gov.br/tvs"
+    },
+    {
+      "id": 13,
+      "channel_id": "TVCamara.br",
+      "name": "TV Camara",
+      "alt_names": "TV Câmara",
+      "network": "",
+      "owners": "Brazilian Chamber of Deputies",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "1998-01-20",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.camara.leg.br/tv"
+    },
+    {
+      "id": 14,
+      "channel_id": "TVCamara2.br",
+      "name": "TV Camara 2",
+      "alt_names": "TV Câmara 2",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 15,
+      "channel_id": "TVCamaraPortoAlegre.br",
+      "name": "TV Camara Porto Alegre",
+      "alt_names": "TV Câmara Porto Alegre, Câmara POA TV",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.camarapoa.rs.gov.br/institucional/tvcamara"
+    },
+    {
+      "id": 16,
+      "channel_id": "TVCamaraSalvador.br",
+      "name": "TV Camara Salvador",
+      "alt_names": "TV Câmara",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.cms.ba.gov.br/tv-camara"
+    },
+    {
+      "id": 17,
+      "channel_id": "TVCamaradeSaoPaulo.br",
+      "name": "TV Camara de Sao Paulo",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 18,
+      "channel_id": "TVCidadaAlagoas.br",
+      "name": "TV Cidada Alagoas",
+      "alt_names": "TV Cidadã Alagoas",
+      "network": "",
+      "owners": "Tribunal de Contas do Estado de Alagoas",
+      "country": "BR",
+      "categories": "legislative, news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tceal.tc.br/"
+    }
+  ],
+  "meta": {
+    "title": "Canais de televisão legislativos do Brasil - Download gratuito",
+    "description": "Canais de televisão brasileiros da categoria «legislative» (legislativos) — 18 canais do registo aberto iptv-org/database. Inclui o nome do canal, nomes alternativos, a rede, os proprietários, as categorias, as datas de lançamento e de encerramento e o site oficial. Contém 18 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Canais de televisão legislativos do Brasil | ListBase",
+    "seo_description": "Baixar Canais de televisão legislativos do Brasil — 18 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 18 registros / 13 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

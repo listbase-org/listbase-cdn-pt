@@ -1,0 +1,172 @@
+{
+  "id": "pt-norte-estados",
+  "name": "Estados da Região Norte — 7 unidades federativas",
+  "title": "Estados da Região Norte — 7 unidades federativas",
+  "description": "Lista dos 7 estados que compõem a Região Norte do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Norte é a maior região do Brasil em extensão territorial, abrangendo a maior parte da Floresta Amazônica. Composta por 7 unidades federativas: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "capital_nome",
+      "label": "Capital Nome",
+      "type": "string"
+    },
+    {
+      "key": "capital_codigo_ibge",
+      "label": "Capital Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_uf": 12,
+      "uf": "AC",
+      "nome": "Acre",
+      "slug": "acre",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -8.77,
+      "longitude": -70.55,
+      "capital_nome": "Rio Branco",
+      "capital_codigo_ibge": 1200401,
+      "municipios_count": 22
+    },
+    {
+      "codigo_uf": 16,
+      "uf": "AP",
+      "nome": "Amapá",
+      "slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": 1.41,
+      "longitude": -51.77,
+      "capital_nome": "Macapá",
+      "capital_codigo_ibge": 1600303,
+      "municipios_count": 16
+    },
+    {
+      "codigo_uf": 13,
+      "uf": "AM",
+      "nome": "Amazonas",
+      "slug": "amazonas",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -3.47,
+      "longitude": -65.1,
+      "capital_nome": "Manaus",
+      "capital_codigo_ibge": 1302603,
+      "municipios_count": 62
+    },
+    {
+      "codigo_uf": 15,
+      "uf": "PA",
+      "nome": "Pará",
+      "slug": "para",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -3.79,
+      "longitude": -52.48,
+      "capital_nome": "Belém",
+      "capital_codigo_ibge": 1501402,
+      "municipios_count": 144
+    },
+    {
+      "codigo_uf": 11,
+      "uf": "RO",
+      "nome": "Rondônia",
+      "slug": "rondonia",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -10.83,
+      "longitude": -63.34,
+      "capital_nome": "Porto Velho",
+      "capital_codigo_ibge": 1100205,
+      "municipios_count": 52
+    },
+    {
+      "codigo_uf": 14,
+      "uf": "RR",
+      "nome": "Roraima",
+      "slug": "roraima",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": 1.99,
+      "longitude": -61.33,
+      "capital_nome": "Boa Vista",
+      "capital_codigo_ibge": 1400100,
+      "municipios_count": 15
+    },
+    {
+      "codigo_uf": 17,
+      "uf": "TO",
+      "nome": "Tocantins",
+      "slug": "tocantins",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -9.46,
+      "longitude": -48.26,
+      "capital_nome": "Palmas",
+      "capital_codigo_ibge": 1721000,
+      "municipios_count": 139
+    }
+  ],
+  "meta": {
+    "title": "Estados da Região Norte — 7 unidades federativas - Download gratuito",
+    "description": "Lista dos 7 estados que compõem a Região Norte do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Norte é a maior região do Brasil em extensão territorial, abrangendo a maior parte da Floresta Amazônica. Composta por 7 unidades federativas: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins. Contém 7 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Estados da Região Norte — 7 unidades federativas | ListBase",
+    "seo_description": "Baixar Estados da Região Norte — 7 unidades federativas — 7 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 7 registros / 11 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

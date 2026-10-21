@@ -1,0 +1,340 @@
+{
+  "id": "pt-unidades-medida-length",
+  "name": "Unidades de medida — categoria 'length' (31)",
+  "title": "Unidades de medida — categoria 'length' (31)",
+  "description": "Unidades de medida da categoria 'length' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "categoria": "length",
+      "nome": "unidades astronômicas",
+      "abreviacao": "ua",
+      "estreito": "ua",
+      "padrao": "{0} unidades astronômicas"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "categoria": "length",
+      "nome": "centímetros",
+      "abreviacao": "cm",
+      "estreito": "cm",
+      "padrao": "{0} centímetros"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "categoria": "length",
+      "nome": "chain",
+      "abreviacao": "chain",
+      "estreito": "chain",
+      "padrao": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "categoria": "length",
+      "nome": "decímetros",
+      "abreviacao": "dm",
+      "estreito": "dm",
+      "padrao": "{0} decímetros"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "categoria": "length",
+      "nome": "raio terrestre",
+      "abreviacao": "R⊕",
+      "estreito": "R⊕",
+      "padrao": "{0} raios terrestres"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "categoria": "length",
+      "nome": "braças",
+      "abreviacao": "braças",
+      "estreito": "braça",
+      "padrao": "{0} braças"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "categoria": "length",
+      "nome": "pés",
+      "abreviacao": "pés",
+      "estreito": "ft",
+      "padrao": "{0} pés"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "categoria": "length",
+      "nome": "furlongs",
+      "abreviacao": "furlongs",
+      "estreito": "furlong",
+      "padrao": "{0} furlongs"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "categoria": "length",
+      "nome": "polegadas",
+      "abreviacao": "pol.",
+      "estreito": "pol.",
+      "padrao": "{0} polegadas"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "categoria": "length",
+      "nome": "jo [JP]",
+      "abreviacao": "jo [JP]",
+      "estreito": "jo [JP]",
+      "padrao": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "categoria": "length",
+      "nome": "ken [JP]",
+      "abreviacao": "ken [JP]",
+      "estreito": "ken [JP]",
+      "padrao": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "categoria": "length",
+      "nome": "quilômetros",
+      "abreviacao": "km",
+      "estreito": "km",
+      "padrao": "{0} quilômetros"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "categoria": "length",
+      "nome": "anos-luz",
+      "abreviacao": "anos-luz",
+      "estreito": "anos-luz",
+      "padrao": "{0} anos-luz"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "categoria": "length",
+      "nome": "metros",
+      "abreviacao": "m",
+      "estreito": "m",
+      "padrao": "{0} metros"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "categoria": "length",
+      "nome": "micrômetros",
+      "abreviacao": "μm",
+      "estreito": "μm",
+      "padrao": "{0} micrômetros"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "categoria": "length",
+      "nome": "milhas",
+      "abreviacao": "milhas",
+      "estreito": "mi",
+      "padrao": "{0} milhas"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "categoria": "length",
+      "nome": "milhas escandinavas",
+      "abreviacao": "smi",
+      "estreito": "smi",
+      "padrao": "{0} milhas escandinavas"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "categoria": "length",
+      "nome": "milímetros",
+      "abreviacao": "mm",
+      "estreito": "mm",
+      "padrao": "{0} milímetros"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "categoria": "length",
+      "nome": "nanômetros",
+      "abreviacao": "nm",
+      "estreito": "nm",
+      "padrao": "{0} nanômetros"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "categoria": "length",
+      "nome": "milhas náuticas",
+      "abreviacao": "mn",
+      "estreito": "mn",
+      "padrao": "{0} milhas náuticas"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "categoria": "length",
+      "nome": "parsecs",
+      "abreviacao": "parsecs",
+      "estreito": "parsec",
+      "padrao": "{0} parsecs"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "categoria": "length",
+      "nome": "picômetros",
+      "abreviacao": "pm",
+      "estreito": "pm",
+      "padrao": "{0} picômetros"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "categoria": "length",
+      "nome": "pontos tipográficos",
+      "abreviacao": "pts tipográficos",
+      "estreito": "pt",
+      "padrao": "{0} pontos"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "categoria": "length",
+      "nome": "ri [JP]",
+      "abreviacao": "ri [JP]",
+      "estreito": "ri [JP]",
+      "padrao": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "categoria": "length",
+      "nome": "rin [JP]",
+      "abreviacao": "rin [JP]",
+      "estreito": "rin [JP]",
+      "padrao": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "categoria": "length",
+      "nome": "rod",
+      "abreviacao": "rod",
+      "estreito": "rod",
+      "padrao": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "categoria": "length",
+      "nome": "shaku [cloth, JP]",
+      "abreviacao": "shaku [cloth, JP]",
+      "estreito": "shaku [cloth, JP]",
+      "padrao": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "categoria": "length",
+      "nome": "shaku [JP]",
+      "abreviacao": "shaku [JP]",
+      "estreito": "shaku [JP]",
+      "padrao": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "categoria": "length",
+      "nome": "raios solares",
+      "abreviacao": "raios solares",
+      "estreito": "R☉",
+      "padrao": "{0} raios solares"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "categoria": "length",
+      "nome": "sun [JP]",
+      "abreviacao": "sun [JP]",
+      "estreito": "sun [JP]",
+      "padrao": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "categoria": "length",
+      "nome": "jardas",
+      "abreviacao": "jardas",
+      "estreito": "yd",
+      "padrao": "{0} jardas"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'length' (31) - Download gratuito",
+    "description": "Unidades de medida da categoria 'length' do locale pt do CLDR, com nomes em português. Contém 31 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'length' (31) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'length' (31) — 31 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 31 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

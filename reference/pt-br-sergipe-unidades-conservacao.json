@@ -1,0 +1,178 @@
+{
+  "id": "pt-br-sergipe-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Sergipe (SE)",
+  "title": "Unidades de Conservação Federais — Sergipe (SE)",
+  "description": "4 unidades de conservação federais (ICMBio) com território em Sergipe (SE), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 134,
+      "nome": "FLORESTA NACIONAL DO IBURA",
+      "codigo_cnuc": "0000.00.0269",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "SE",
+      "uf_abrangencia": "SE",
+      "estados": "Sergipe",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 144.1422,
+      "ato_legal": "DEC S/N de 19/09/2005",
+      "nucleo_gestao": "ICMBio Itabaiana-Ibura",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 153,
+      "nome": "MONUMENTO NATURAL DO RIO SÃO FRANCISCO",
+      "codigo_cnuc": "0000.00.1812",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "BA, SE, AL",
+      "uf_abrangencia": "BA/SE/AL",
+      "estados": "Bahia, Sergipe, Alagoas",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 26736.7008,
+      "ato_legal": "DEC S/N, de 05/06/2009",
+      "nucleo_gestao": "ICMBio Paulo Afonso",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 229,
+      "nome": "PARQUE NACIONAL SERRA DE ITABAIANA",
+      "codigo_cnuc": "0000.00.0147",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "SE",
+      "uf_abrangencia": "SE",
+      "estados": "Sergipe",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 8024.7943,
+      "ato_legal": "DEC S/N, de 15/06/2005",
+      "nucleo_gestao": "ICMBio Itabaiana-Ibura",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 250,
+      "nome": "RESERVA BIOLÓGICA DE SANTA ISABEL",
+      "codigo_cnuc": "0000.00.0199",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "SE",
+      "uf_abrangencia": "SE",
+      "estados": "Sergipe",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA e SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 4109.8837,
+      "ato_legal": "DEC 96.999 de 20/10/1988",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Sergipe (SE) - Download gratuito",
+    "description": "4 unidades de conservação federais (ICMBio) com território em Sergipe (SE), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 4 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Sergipe (SE) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Sergipe (SE) — 4 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 4 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "pt-nordeste-estados",
+  "name": "Estados da Região Nordeste — 9 unidades federativas",
+  "title": "Estados da Região Nordeste — 9 unidades federativas",
+  "description": "Lista dos 9 estados que compõem a Região Nordeste do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Nordeste é composta por 9 estados e abriga uma vasta faixa litorânea, o sertão semiárido e ricas tradições culturais. Estados: Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "capital_nome",
+      "label": "Capital Nome",
+      "type": "string"
+    },
+    {
+      "key": "capital_codigo_ibge",
+      "label": "Capital Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_uf": 27,
+      "uf": "AL",
+      "nome": "Alagoas",
+      "slug": "alagoas",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -9.62,
+      "longitude": -36.82,
+      "capital_nome": "Maceió",
+      "capital_codigo_ibge": 2704302,
+      "municipios_count": 102
+    },
+    {
+      "codigo_uf": 29,
+      "uf": "BA",
+      "nome": "Bahia",
+      "slug": "bahia",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -13.29,
+      "longitude": -41.71,
+      "capital_nome": "Salvador",
+      "capital_codigo_ibge": 2927408,
+      "municipios_count": 417
+    },
+    {
+      "codigo_uf": 23,
+      "uf": "CE",
+      "nome": "Ceará",
+      "slug": "ceara",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -5.2,
+      "longitude": -39.53,
+      "capital_nome": "Fortaleza",
+      "capital_codigo_ibge": 2304400,
+      "municipios_count": 184
+    },
+    {
+      "codigo_uf": 21,
+      "uf": "MA",
+      "nome": "Maranhão",
+      "slug": "maranhao",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -5.42,
+      "longitude": -45.44,
+      "capital_nome": "São Luís",
+      "capital_codigo_ibge": 2111300,
+      "municipios_count": 217
+    },
+    {
+      "codigo_uf": 25,
+      "uf": "PB",
+      "nome": "Paraíba",
+      "slug": "paraiba",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -7.28,
+      "longitude": -36.72,
+      "capital_nome": "João Pessoa",
+      "capital_codigo_ibge": 2507507,
+      "municipios_count": 223
+    },
+    {
+      "codigo_uf": 26,
+      "uf": "PE",
+      "nome": "Pernambuco",
+      "slug": "pernambuco",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -8.38,
+      "longitude": -37.86,
+      "capital_nome": "Recife",
+      "capital_codigo_ibge": 2611606,
+      "municipios_count": 185
+    },
+    {
+      "codigo_uf": 22,
+      "uf": "PI",
+      "nome": "Piauí",
+      "slug": "piaui",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -6.6,
+      "longitude": -42.28,
+      "capital_nome": "Teresina",
+      "capital_codigo_ibge": 2211001,
+      "municipios_count": 224
+    },
+    {
+      "codigo_uf": 24,
+      "uf": "RN",
+      "nome": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -5.81,
+      "longitude": -36.59,
+      "capital_nome": "Natal",
+      "capital_codigo_ibge": 2408102,
+      "municipios_count": 167
+    },
+    {
+      "codigo_uf": 28,
+      "uf": "SE",
+      "nome": "Sergipe",
+      "slug": "sergipe",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -10.57,
+      "longitude": -37.45,
+      "capital_nome": "Aracaju",
+      "capital_codigo_ibge": 2800308,
+      "municipios_count": 75
+    }
+  ],
+  "meta": {
+    "title": "Estados da Região Nordeste — 9 unidades federativas - Download gratuito",
+    "description": "Lista dos 9 estados que compõem a Região Nordeste do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Nordeste é composta por 9 estados e abriga uma vasta faixa litorânea, o sertão semiárido e ricas tradições culturais. Estados: Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe. Contém 9 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Estados da Região Nordeste — 9 unidades federativas | ListBase",
+    "seo_description": "Baixar Estados da Região Nordeste — 9 unidades federativas — 9 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 9 registros / 11 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

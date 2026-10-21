@@ -1,0 +1,336 @@
+{
+  "id": "pt-fusos-horarios-europe",
+  "name": "Fusos horários — Europe (35)",
+  "title": "Fusos horários — Europe (35)",
+  "description": "Fusos horários cujo identificador IANA começa com 'Europe/', com nomes em português.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "nome_padrao",
+      "label": "Nome Padrao",
+      "type": "string"
+    },
+    {
+      "key": "nome_verao",
+      "label": "Nome Verao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Amsterdam",
+      "regiao": "Europe",
+      "cidade": "Amsterdã",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Astrakhan",
+      "regiao": "Europe",
+      "cidade": "Astracã",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Athens",
+      "regiao": "Europe",
+      "cidade": "Atenas",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Belgrade",
+      "regiao": "Europe",
+      "cidade": "Belgrado",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Berlin",
+      "regiao": "Europe",
+      "cidade": "Berlim",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Brussels",
+      "regiao": "Europe",
+      "cidade": "Bruxelas",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Bucharest",
+      "regiao": "Europe",
+      "cidade": "Bucareste",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Budapest",
+      "regiao": "Europe",
+      "cidade": "Budapeste",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Busingen",
+      "regiao": "Europe",
+      "cidade": "Büsingen",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Chisinau",
+      "regiao": "Europe",
+      "cidade": "Chișinău",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Copenhagen",
+      "regiao": "Europe",
+      "cidade": "Copenhague",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Dublin",
+      "regiao": "Europe",
+      "cidade": "",
+      "nome_padrao": "",
+      "nome_verao": "Horário Padrão Irlandês"
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Helsinki",
+      "regiao": "Europe",
+      "cidade": "Helsinque",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Isle_of_Man",
+      "regiao": "Europe",
+      "cidade": "Ilha de Man",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Istanbul",
+      "regiao": "Europe",
+      "cidade": "Istambul",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Kaliningrad",
+      "regiao": "Europe",
+      "cidade": "Kaliningrado",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Kiev",
+      "regiao": "Europe",
+      "cidade": "Kiev",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Lisbon",
+      "regiao": "Europe",
+      "cidade": "Lisboa",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/Ljubljana",
+      "regiao": "Europe",
+      "cidade": "Liubliana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/London",
+      "regiao": "Europe",
+      "cidade": "Londres",
+      "nome_padrao": "",
+      "nome_verao": "Horário de Verão Britânico"
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Luxembourg",
+      "regiao": "Europe",
+      "cidade": "Luxemburgo",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Madrid",
+      "regiao": "Europe",
+      "cidade": "Madri",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Monaco",
+      "regiao": "Europe",
+      "cidade": "Mônaco",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/Moscow",
+      "regiao": "Europe",
+      "cidade": "Moscou",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Prague",
+      "regiao": "Europe",
+      "cidade": "Praga",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Europe/Rome",
+      "regiao": "Europe",
+      "cidade": "Roma",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Europe/Sofia",
+      "regiao": "Europe",
+      "cidade": "Sófia",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Europe/Stockholm",
+      "regiao": "Europe",
+      "cidade": "Estocolmo",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Europe/Tirane",
+      "regiao": "Europe",
+      "cidade": "Tirana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Europe/Ulyanovsk",
+      "regiao": "Europe",
+      "cidade": "Ulianovsk",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Europe/Vatican",
+      "regiao": "Europe",
+      "cidade": "Vaticano",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Europe/Vienna",
+      "regiao": "Europe",
+      "cidade": "Viena",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Europe/Volgograd",
+      "regiao": "Europe",
+      "cidade": "Volgogrado",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Europe/Warsaw",
+      "regiao": "Europe",
+      "cidade": "Varsóvia",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Europe/Zurich",
+      "regiao": "Europe",
+      "cidade": "Zurique",
+      "nome_padrao": "",
+      "nome_verao": ""
+    }
+  ],
+  "meta": {
+    "title": "Fusos horários — Europe (35) - Download gratuito",
+    "description": "Fusos horários cujo identificador IANA começa com 'Europe/', com nomes em português. Contém 35 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fusos horários — Europe (35) | ListBase",
+    "seo_description": "Baixar Fusos horários — Europe (35) — 35 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 35 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

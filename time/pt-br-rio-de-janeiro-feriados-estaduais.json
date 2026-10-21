@@ -1,0 +1,621 @@
+{
+  "id": "pt-br-rio-de-janeiro-feriados-estaduais",
+  "name": "Feriados Estaduais de Rio de Janeiro (RJ) — Brasil (2010–2026)",
+  "title": "Feriados Estaduais de Rio de Janeiro (RJ) — Brasil (2010–2026)",
+  "description": "Feriados estaduais do estado brasileiro de Rio de Janeiro (RJ) de 2010 a 2026, com nome, data e descrição. Subconjunto por unidade federativa do cadastro nacional pt-br-feriados-estaduais (partição pela coluna nativa `uf`).",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "codigo_ibge",
+      "label": "Codigo Ibge",
+      "type": "string"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "data_iso",
+      "label": "Data Iso",
+      "type": "date"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "16/02/2010",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-02-16",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2010",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2010",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "08/03/2011",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-03-08",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2011",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2011",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "21/02/2012",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-02-21",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2012",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2012",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "12/02/2013",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-02-12",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2013",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2013",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "04/03/2014",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-03-04",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2014",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2014",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "17/02/2015",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-02-17",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2015",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2015",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "09/02/2016",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-02-09",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2016",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2016",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "28/02/2017",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-02-28",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2017",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2017",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "13/02/2018",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-02-13",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2018",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2018",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "05/03/2019",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-03-05",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2019",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2019",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "25/02/2020",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-02-25",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2020",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2020",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "16/02/2021",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-02-16",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2021",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2021",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "01/03/2022",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-03-01",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2022",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2022",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "21/02/2023",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-02-21",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2023",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2023",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "13/02/2024",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-02-13",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2024",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2024",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "04/03/2025",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-03-04",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2025",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-04-23",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "20/11/2025",
+      "nome": "Dia da Consciência Negra",
+      "tipo": "ESTADUAL",
+      "descricao": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-11-20",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "17/02/2026",
+      "nome": "Carnaval",
+      "tipo": "ESTADUAL",
+      "descricao": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-02-17",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "data": "23/04/2026",
+      "nome": "Dia de São Jorge",
+      "tipo": "ESTADUAL",
+      "descricao": "São Jorge foi, de acordo com a tradição, um padre e soldado romano no exército do imperador Diocleciano, venerado como mártir cristão.",
+      "uf": "RJ",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-04-23",
+      "estado": "Rio de Janeiro"
+    }
+  ],
+  "meta": {
+    "title": "Feriados Estaduais de Rio de Janeiro (RJ) — Brasil (2010–2026) - Download gratuito",
+    "description": "Feriados estaduais do estado brasileiro de Rio de Janeiro (RJ) de 2010 a 2026, com nome, data e descrição. Subconjunto por unidade federativa do cadastro nacional pt-br-feriados-estaduais (partição pela coluna nativa `uf`). Contém 50 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Feriados Estaduais de Rio de Janeiro (RJ) — Brasil (2010–2026) | ListBase",
+    "seo_description": "Baixar Feriados Estaduais de Rio de Janeiro (RJ) — Brasil (2010–2026) — 50 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 50 registros / 9 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

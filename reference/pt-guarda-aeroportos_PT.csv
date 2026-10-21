@@ -1,0 +1,6 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords","Parent Index"
+"43777","PT-0009","heliport","Hospital Distrital de Guarda Heliport","40.529842","-7.278002","3278","EU","PT","PT-09","09","Guarda District","Guarda","no","","","LPGA","","","","","3358"
+"320152","PT-0035","small_airport","Aeródromo de Seia","40.453186","-7.692059","1445","EU","PT","PT-09","09","Guarda District","Seia","no","LPSE","","LPSE","","","","Serra da Estrela, Seia Airfield","3384"
+"326736","PT-0099","small_airport","Pista do Cabeço da Vaca UL","40.345145","-6.979752","","EU","PT","PT-09","09","Guarda District","Sabugal","no","","","","LP66","","","","3448"
+"329856","PT-0136","small_airport","Dragoa Airstrip","40.406895","-6.997218","","EU","PT","PT-09","09","Guarda District","Sabugal","no","","","","","","","","3485"
+"508880","PT-0148","heliport","Aguiar da Beira Heliport","40.81751","-7.53645","","EU","PT","PT-09","09","Guarda District","Aguiar da Beira","no","","","","LP65","","","","3497"

@@ -1,0 +1,520 @@
+{
+  "id": "pt-fusos-horarios-america",
+  "name": "Fusos horários — America (58)",
+  "title": "Fusos horários — America (58)",
+  "description": "Fusos horários cujo identificador IANA começa com 'America/', com nomes em português.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "nome_padrao",
+      "label": "Nome Padrao",
+      "type": "string"
+    },
+    {
+      "key": "nome_verao",
+      "label": "Nome Verao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Anguilla",
+      "regiao": "America",
+      "cidade": "Anguila",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Antigua",
+      "regiao": "America",
+      "cidade": "Antígua",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Araguaina",
+      "regiao": "America",
+      "cidade": "Araguaína",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "regiao": "America",
+      "cidade": "Río Gallegos",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Argentina/Tucuman",
+      "regiao": "America",
+      "cidade": "Tucumã",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Asuncion",
+      "regiao": "America",
+      "cidade": "Assunção",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Bahia_Banderas",
+      "regiao": "America",
+      "cidade": "Bahia de Banderas",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Belem",
+      "regiao": "America",
+      "cidade": "Belém",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Bogota",
+      "regiao": "America",
+      "cidade": "Bogotá",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Cancun",
+      "regiao": "America",
+      "cidade": "Cancún",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Cayenne",
+      "regiao": "America",
+      "cidade": "Caiena",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Ciudad_Juarez",
+      "regiao": "America",
+      "cidade": "Ciudad Juárez",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Coral_Harbour",
+      "regiao": "America",
+      "cidade": "Atikokan",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Cordoba",
+      "regiao": "America",
+      "cidade": "Córdoba",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Coyhaique",
+      "regiao": "America",
+      "cidade": "Coihaique",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Cuiaba",
+      "regiao": "America",
+      "cidade": "Cuiabá",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Curacao",
+      "regiao": "America",
+      "cidade": "Curaçao",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Eirunepe",
+      "regiao": "America",
+      "cidade": "Eirunepé",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Godthab",
+      "regiao": "America",
+      "cidade": "Nuuk",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Grenada",
+      "regiao": "America",
+      "cidade": "Granada",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Guadeloupe",
+      "regiao": "America",
+      "cidade": "Guadalupe",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Guayaquil",
+      "regiao": "America",
+      "cidade": "Guaiaquil",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Guyana",
+      "regiao": "America",
+      "cidade": "Guiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Indiana/Knox",
+      "regiao": "America",
+      "cidade": "Knox, Indiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Indiana/Marengo",
+      "regiao": "America",
+      "cidade": "Marengo, Indiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Indiana/Petersburg",
+      "regiao": "America",
+      "cidade": "Petersburg, Indiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Indiana/Tell_City",
+      "regiao": "America",
+      "cidade": "Tell City, Indiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Indiana/Vevay",
+      "regiao": "America",
+      "cidade": "Vevay, Indiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Indiana/Vincennes",
+      "regiao": "America",
+      "cidade": "Vincennes, Indiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Indiana/Winamac",
+      "regiao": "America",
+      "cidade": "Winamac, Indiana",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Indianapolis",
+      "regiao": "America",
+      "cidade": "Indianápolis",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Kentucky/Monticello",
+      "regiao": "America",
+      "cidade": "Monticello, Kentucky",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Lower_Princes",
+      "regiao": "America",
+      "cidade": "Lower Prince’s Quarter",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Maceio",
+      "regiao": "America",
+      "cidade": "Maceió",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Managua",
+      "regiao": "America",
+      "cidade": "Manágua",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Martinique",
+      "regiao": "America",
+      "cidade": "Martinica",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Mazatlan",
+      "regiao": "America",
+      "cidade": "Mazatlán",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Merida",
+      "regiao": "America",
+      "cidade": "Mérida",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Mexico_City",
+      "regiao": "America",
+      "cidade": "Cidade do México",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Miquelon",
+      "regiao": "America",
+      "cidade": "Saint-Pierre",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Montevideo",
+      "regiao": "America",
+      "cidade": "Montevidéu",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/New_York",
+      "regiao": "America",
+      "cidade": "Nova York",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Noronha",
+      "regiao": "America",
+      "cidade": "Fernando de Noronha",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/North_Dakota/Beulah",
+      "regiao": "America",
+      "cidade": "Beulah, Dakota do Norte",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/North_Dakota/Center",
+      "regiao": "America",
+      "cidade": "Center, Dakota do Norte",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "regiao": "America",
+      "cidade": "New Salen, Dakota do Norte",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Panama",
+      "regiao": "America",
+      "cidade": "Panamá",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Port-au-Prince",
+      "regiao": "America",
+      "cidade": "Porto Príncipe",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/Puerto_Rico",
+      "regiao": "America",
+      "cidade": "Porto Rico",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/Santarem",
+      "regiao": "America",
+      "cidade": "Santarém",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Sao_Paulo",
+      "regiao": "America",
+      "cidade": "São Paulo",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/Scoresbysund",
+      "regiao": "America",
+      "cidade": "Ittoqqortoormiit",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/St_Barthelemy",
+      "regiao": "America",
+      "cidade": "São Bartolomeu",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/St_Johns",
+      "regiao": "America",
+      "cidade": "Saint John’s",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/St_Kitts",
+      "regiao": "America",
+      "cidade": "São Cristóvão",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/St_Lucia",
+      "regiao": "America",
+      "cidade": "Santa Lúcia",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/St_Thomas",
+      "regiao": "America",
+      "cidade": "Saint Thomas",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/St_Vincent",
+      "regiao": "America",
+      "cidade": "São Vicente",
+      "nome_padrao": "",
+      "nome_verao": ""
+    }
+  ],
+  "meta": {
+    "title": "Fusos horários — America (58) - Download gratuito",
+    "description": "Fusos horários cujo identificador IANA começa com 'America/', com nomes em português. Contém 58 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fusos horários — America (58) | ListBase",
+    "seo_description": "Baixar Fusos horários — America (58) — 58 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 58 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

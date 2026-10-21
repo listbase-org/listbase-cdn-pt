@@ -1,0 +1,328 @@
+{
+  "id": "pt-fusos-horarios-asia",
+  "name": "Fusos horários — Asia (34)",
+  "title": "Fusos horários — Asia (34)",
+  "description": "Fusos horários cujo identificador IANA começa com 'Asia/', com nomes em português.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "nome_padrao",
+      "label": "Nome Padrao",
+      "type": "string"
+    },
+    {
+      "key": "nome_verao",
+      "label": "Nome Verao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Aden",
+      "regiao": "Asia",
+      "cidade": "Áden",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Amman",
+      "regiao": "Asia",
+      "cidade": "Amã",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Aqtau",
+      "regiao": "Asia",
+      "cidade": "Aktau",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Aqtobe",
+      "regiao": "Asia",
+      "cidade": "Aktobe",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Ashgabat",
+      "regiao": "Asia",
+      "cidade": "Asgabate",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Baghdad",
+      "regiao": "Asia",
+      "cidade": "Bagdá",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Bahrain",
+      "regiao": "Asia",
+      "cidade": "Bahrein",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Beirut",
+      "regiao": "Asia",
+      "cidade": "Beirute",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Calcutta",
+      "regiao": "Asia",
+      "cidade": "Calcutá",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Damascus",
+      "regiao": "Asia",
+      "cidade": "Damasco",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Dhaka",
+      "regiao": "Asia",
+      "cidade": "Dacca",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Dushanbe",
+      "regiao": "Asia",
+      "cidade": "Duchambe",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Hovd",
+      "regiao": "Asia",
+      "cidade": "Khovd",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Jakarta",
+      "regiao": "Asia",
+      "cidade": "Jacarta",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Jerusalem",
+      "regiao": "Asia",
+      "cidade": "Jerusalém",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Kabul",
+      "regiao": "Asia",
+      "cidade": "Cabul",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Katmandu",
+      "regiao": "Asia",
+      "cidade": "Katmandu",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Macau",
+      "regiao": "Asia",
+      "cidade": "Macau",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Muscat",
+      "regiao": "Asia",
+      "cidade": "Mascate",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Nicosia",
+      "regiao": "Asia",
+      "cidade": "Nicósia",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Qatar",
+      "regiao": "Asia",
+      "cidade": "Catar",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Rangoon",
+      "regiao": "Asia",
+      "cidade": "Rangum",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Riyadh",
+      "regiao": "Asia",
+      "cidade": "Riade",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Saigon",
+      "regiao": "Asia",
+      "cidade": "Cidade de Ho Chi Minh",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Sakhalin",
+      "regiao": "Asia",
+      "cidade": "Sacalina",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Samarkand",
+      "regiao": "Asia",
+      "cidade": "Samarcanda",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Seoul",
+      "regiao": "Asia",
+      "cidade": "Seul",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Shanghai",
+      "regiao": "Asia",
+      "cidade": "Xangai",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Singapore",
+      "regiao": "Asia",
+      "cidade": "Singapura",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Tehran",
+      "regiao": "Asia",
+      "cidade": "Teerã",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Tokyo",
+      "regiao": "Asia",
+      "cidade": "Tóquio",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Ulaanbaatar",
+      "regiao": "Asia",
+      "cidade": "Ulan Bator",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Urumqi",
+      "regiao": "Asia",
+      "cidade": "Ürümqi",
+      "nome_padrao": "",
+      "nome_verao": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Yekaterinburg",
+      "regiao": "Asia",
+      "cidade": "Ecaterimburgo",
+      "nome_padrao": "",
+      "nome_verao": ""
+    }
+  ],
+  "meta": {
+    "title": "Fusos horários — Asia (34) - Download gratuito",
+    "description": "Fusos horários cujo identificador IANA começa com 'Asia/', com nomes em português. Contém 34 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Fusos horários — Asia (34) | ListBase",
+    "seo_description": "Baixar Fusos horários — Asia (34) — 34 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 34 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+﻿"Codigo","Tribunal","Nome","Ramo","Uf","Ufs","Regiao","Instancia","Instancia Nome","Sistema","Sistema Nome","Url","Url Portal","Sistema Anterior","Url Anterior","Observacao","Arquivo Fonte"
+"STF","STF","Supremo Tribunal Federal","Tribunal Superior","","","","","","proprio","Sistema próprio","https://portal.stf.jus.br/processos/","https://portal.stf.jus.br/","","","Supreme Federal Court - Constitutional matters","superior_courts.json"
+"STJ","STJ","Superior Tribunal de Justiça","Tribunal Superior","","","","","","proprio","Sistema próprio","https://processo.stj.jus.br/processo/pesquisa/","https://www.stj.jus.br/","","","Superior Court of Justice - Federal law uniformity","superior_courts.json"
+"TST","TST","Tribunal Superior do Trabalho","Tribunal Superior","","","","","","pje","PJe (Processo Judicial Eletrônico)","https://pje.tst.jus.br/","https://www.tst.jus.br/","","","Superior Labour Court","superior_courts.json"

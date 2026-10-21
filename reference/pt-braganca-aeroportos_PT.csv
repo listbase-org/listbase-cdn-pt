@@ -1,0 +1,7 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords","Parent Index"
+"4440","LPBG","medium_airport","Bragança Airport","41.8578","-6.70713","2241","EU","PT","PT-04","04","Bragança District","Bragança","yes","LPBG","BGC","LPBG","","","https://en.wikipedia.org/wiki/Bragan%C3%A7a_Airport","","3281"
+"321235","LPMC","heliport","Macedo de Cavaleiros","41.52532","-6.966368","1781","EU","PT","PT-04","04","Bragança District","Macedo de Cavaleiros","no","","","LPMC","","","","","3312"
+"29489","LPMI","small_airport","Mirandela Airfield","41.468006","-7.226257","1329","EU","PT","PT-04","04","Bragança District","Mirandela","no","","","LPMI","","","https://en.wikipedia.org/wiki/Mirandela_Airport","","3315"
+"30147","LPMU","small_airport","Mogadouro Airfield","41.3963","-6.68348","2344","EU","PT","PT-04","04","Bragança District","Mogadouro","no","","","LPMU","","http://www.vooavela.mogadouro.pt/","","","3320"
+"321267","LPTM","heliport","Bragança Hospital Helipad","41.80265","-6.768767","2401","EU","PT","PT-04","04","Bragança District","Bragança","no","","","LPTM","","","","","3341"
+"510154","PT-0150","small_airport","Urros ULM","41.086921","-7.013526","","EU","PT","PT-04","04","Bragança District","Urros","no","","","","","","","","3499"

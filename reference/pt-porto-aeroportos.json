@@ -1,0 +1,352 @@
+{
+  "id": "pt-porto-aeroportos",
+  "name": "Aeroportos de Porto (Portugal) — 9 registos",
+  "title": "Aeroportos de Porto (Portugal) — 9 registos",
+  "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Porto (Distrito, PT-13), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 317145,
+      "ident": "LPDA",
+      "type": "heliport",
+      "name": "Massarelos Helipad",
+      "latitude_deg": 41.146597,
+      "longitude_deg": -8.632665,
+      "elevation_ft": 13,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Porto",
+      "scheduled_service": "no",
+      "icao_code": "LPDA",
+      "iata_code": "",
+      "gps_code": "LPDA",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3294
+    },
+    {
+      "id": 326800,
+      "ident": "LPPA",
+      "type": "heliport",
+      "name": "Padre Américo Hospital Helipad",
+      "latitude_deg": 41.195833,
+      "longitude_deg": -8.31,
+      "elevation_ft": 724,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Penafiel",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPPA",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3324
+    },
+    {
+      "id": 326799,
+      "ident": "LPPB",
+      "type": "heliport",
+      "name": "Baltar Heliport",
+      "latitude_deg": 41.19,
+      "longitude_deg": -8.385557,
+      "elevation_ft": 961,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Paredes",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPPB",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3325
+    },
+    {
+      "id": 4459,
+      "ident": "LPPR",
+      "type": "large_airport",
+      "name": "Francisco de Sá Carneiro Airport",
+      "latitude_deg": 41.2481002808,
+      "longitude_deg": -8.68138980865,
+      "elevation_ft": 228,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Porto",
+      "scheduled_service": "yes",
+      "icao_code": "LPPR",
+      "iata_code": "OPO",
+      "gps_code": "LPPR",
+      "local_code": "",
+      "home_link": "http://www.ana.pt/en-US/Aeroportos/porto/Porto/Pages/Homepage-Porto.aspx",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Francisco_S%C3%A1_Carneiro_Airport",
+      "keywords": "",
+      "parent_index": 3330
+    },
+    {
+      "id": 29493,
+      "ident": "LPVL",
+      "type": "medium_airport",
+      "name": "Vilar de Luz Airfield",
+      "latitude_deg": 41.27729,
+      "longitude_deg": -8.516209,
+      "elevation_ft": 762,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Maia",
+      "scheduled_service": "no",
+      "icao_code": "LPVL",
+      "iata_code": "",
+      "gps_code": "LPVL",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Maia_Airport",
+      "keywords": "",
+      "parent_index": 3344
+    },
+    {
+      "id": 43781,
+      "ident": "PT-0013",
+      "type": "heliport",
+      "name": "Hospital Pedro Hispano heliport",
+      "latitude_deg": 41.181018,
+      "longitude_deg": -8.66258,
+      "elevation_ft": 200,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Matosinhos",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LPPH",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3362
+    },
+    {
+      "id": 314020,
+      "ident": "PT-0023",
+      "type": "small_airport",
+      "name": "Laúndos Airfield UL",
+      "latitude_deg": 41.4487,
+      "longitude_deg": -8.70829,
+      "elevation_ft": 250,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Póvoa do Varzim",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "LP62",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 3372
+    },
+    {
+      "id": 326813,
+      "ident": "PT-0124",
+      "type": "closed",
+      "name": "Entre-os-Rios Airstrip",
+      "latitude_deg": 41.075924,
+      "longitude_deg": -8.271482,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Marco de Canaveses",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Pista de Entre-os-Rios",
+      "parent_index": 3473
+    },
+    {
+      "id": 326814,
+      "ident": "PT-0125",
+      "type": "small_airport",
+      "name": "Corvachã Ultralight Airfield",
+      "latitude_deg": 41.231937,
+      "longitude_deg": -7.977163,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-13",
+      "region_local_code": "13",
+      "region_name": "Oporto District",
+      "municipality": "Amarante",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Pista da Corvachã",
+      "parent_index": 3474
+    }
+  ],
+  "meta": {
+    "title": "Aeroportos de Porto (Portugal) — 9 registos - Download gratuito",
+    "description": "Aeroportos, aeródromos, heliportos, hidroaeroportos e instalações encerradas localizados em Porto (Distrito, PT-13), extraídos do OurAirports. Subconjunto por subdivisão do conjunto nacional pt-aeroportos (8155 registos, Portugal e Brasil), filtrado pela coluna iso_region da própria fonte. Cada registo inclui código ICAO/IATA quando existente, coordenadas WGS84, altitude em pés, município e tipo de instalação. Contém 9 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Aeroportos de Porto (Portugal) — 9 registos | ListBase",
+    "seo_description": "Baixar Aeroportos de Porto (Portugal) — 9 registos — 9 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 9 registros / 22 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

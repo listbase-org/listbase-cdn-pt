@@ -1,0 +1,322 @@
+{
+  "id": "pt-br-espirito-santo-unidades-conservacao",
+  "name": "Unidades de Conservação Federais — Espírito Santo (ES)",
+  "title": "Unidades de Conservação Federais — Espírito Santo (ES)",
+  "description": "12 unidades de conservação federais (ICMBio) com território em Espírito Santo (ES), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 97,
+      "nome": "FLORESTA NACIONAL DE GOYTACAZES",
+      "codigo_cnuc": "0000.00.0091",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 1425.6528,
+      "ato_legal": "DEC S/N de 05/06/2012",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 109,
+      "nome": "FLORESTA NACIONAL DE PACOTUBA",
+      "codigo_cnuc": "0000.00.0101",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 449.4096,
+      "ato_legal": "DEC S/N de 13/12/2002",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 143,
+      "nome": "FLORESTA NACIONAL DO RIO PRETO",
+      "codigo_cnuc": "0000.00.0122",
+      "categoria": "Floresta Nacional",
+      "sigla_categoria": "Flona",
+      "grupo": "Uso Sustentável",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 2817.4008,
+      "ato_legal": "DEC 98.845 de 17/01/1990",
+      "nucleo_gestao": "ICMBio São Mateus",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 154,
+      "nome": "MONUMENTO NATURAL DOS PONTÕES CAPIXABAS",
+      "codigo_cnuc": "0000.00.0181",
+      "categoria": "Monumento Natural",
+      "sigla_categoria": "Mona",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 17443.6335,
+      "ato_legal": "DEC S/N de 19/12/2002; Lei ordinária 11.686, de 02/06/2008",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 187,
+      "nome": "PARQUE NACIONAL DE CAPARAÓ",
+      "codigo_cnuc": "0000.00.0160",
+      "categoria": "Parque Nacional",
+      "sigla_categoria": "Parna",
+      "grupo": "Proteção Integral",
+      "ufs": "ES, MG",
+      "uf_abrangencia": "ES/MG",
+      "estados": "Espírito Santo, Minas Gerais",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 31751.1707,
+      "ato_legal": "DEC 50.646, de 24/05/1961; DEC S/N, de 20/11/1991; DEC S/N, de 20/11/1997",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 234,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DE SANTA CRUZ",
+      "codigo_cnuc": "0000.00.1911",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 17749.9983,
+      "ato_legal": "DEC S/N de 17/06/2010",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 240,
+      "nome": "RESERVA BIOLÓGICA AUGUSTO RUSCHI",
+      "codigo_cnuc": "0000.00.0191",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 3540.3201,
+      "ato_legal": "DEC 87.589 de 20/09/1982; DEC 92.753 de 05/06/1986",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 246,
+      "nome": "RESERVA BIOLÓGICA DE COMBOIOS",
+      "codigo_cnuc": "0000.00.0195",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO e MATA ATLÂNTICA",
+      "area_ha": 784.6417,
+      "ato_legal": "DEC 90.222 de 25/09/1984",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 252,
+      "nome": "RESERVA BIOLÓGICA DE SOORETAMA",
+      "codigo_cnuc": "0000.00.0201",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 27859.0127,
+      "ato_legal": "DEC 87.588 de 20/09/1982",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 256,
+      "nome": "RESERVA BIOLÓGICA DO CÓRREGO DO VEADO",
+      "codigo_cnuc": "0000.00.0204",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 2375.763,
+      "ato_legal": "DEC 87.590 de 20/09/1982; DEC 89.569 de 23/04/1984",
+      "nucleo_gestao": "ICMBio São Mateus",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 257,
+      "nome": "RESERVA BIOLÓGICA DO CÓRREGO GRANDE",
+      "codigo_cnuc": "0000.00.0205",
+      "categoria": "Reserva Biológica",
+      "sigla_categoria": "Rebio",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 1503.7519,
+      "ato_legal": "DEC 97.657 de 12/04/1989",
+      "nucleo_gestao": "ICMBio São Mateus",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 5,
+      "nome": "ÁREA DE PROTEÇÃO AMBIENTAL COSTA DAS ALGAS",
+      "codigo_cnuc": "0000.00.1912",
+      "categoria": "Área de Proteção Ambiental",
+      "sigla_categoria": "APA",
+      "grupo": "Uso Sustentável",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 115001.9222,
+      "ato_legal": "DEC S/N de 17/06/2010",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de Conservação Federais — Espírito Santo (ES) - Download gratuito",
+    "description": "12 unidades de conservação federais (ICMBio) com território em Espírito Santo (ES), incluindo as que abrangem mais de um estado: parques nacionais, florestas nacionais, reservas extrativistas, APAs e outras. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 12 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de Conservação Federais — Espírito Santo (ES) | ListBase",
+    "seo_description": "Baixar Unidades de Conservação Federais — Espírito Santo (ES) — 12 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 12 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

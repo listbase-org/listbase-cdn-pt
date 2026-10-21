@@ -1,0 +1,244 @@
+{
+  "id": "pt-br-distrito-federal-feriados-municipais",
+  "name": "Feriados Municipais de Distrito Federal (2010–2026)",
+  "title": "Feriados Municipais de Distrito Federal (2010–2026)",
+  "description": "Feriados municipais do estado de Distrito Federal (DF) de 2010 a 2026, identificados por código IBGE do município. Recorte por UF do dataset pt-br-feriados-municipais. Campos derivados: ano (do nome do ficheiro-fonte), data_iso (convertido de data DD/MM/YYYY).",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "codigo_ibge",
+      "label": "Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "data_iso",
+      "label": "Data Iso",
+      "type": "date"
+    },
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "21/04/2010",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2010,
+      "data_iso": "2010-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2011",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2011,
+      "data_iso": "2011-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2012",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2012,
+      "data_iso": "2012-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2013",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2013,
+      "data_iso": "2013-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2014",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2014,
+      "data_iso": "2014-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2015",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2015,
+      "data_iso": "2015-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2016",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2016,
+      "data_iso": "2016-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2017",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2017,
+      "data_iso": "2017-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2018",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2018,
+      "data_iso": "2018-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2020",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2020,
+      "data_iso": "2020-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2021",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2021,
+      "data_iso": "2021-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2022",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2022,
+      "data_iso": "2022-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2023",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2023,
+      "data_iso": "2023-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "data": "21/04/2024",
+      "nome": "Aniversário de Brasília",
+      "tipo": "MUNICIPAL",
+      "descricao": "",
+      "uf": "DF",
+      "codigo_ibge": 5300108,
+      "ano": 2024,
+      "data_iso": "2024-04-21",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal"
+    }
+  ],
+  "meta": {
+    "title": "Feriados Municipais de Distrito Federal (2010–2026) - Download gratuito",
+    "description": "Feriados municipais do estado de Distrito Federal (DF) de 2010 a 2026, identificados por código IBGE do município. Recorte por UF do dataset pt-br-feriados-municipais. Campos derivados: ano (do nome do ficheiro-fonte), data_iso (convertido de data DD/MM/YYYY). Contém 14 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Feriados Municipais de Distrito Federal (2010–2026) | ListBase",
+    "seo_description": "Baixar Feriados Municipais de Distrito Federal (2010–2026) — 14 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 14 registros / 10 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

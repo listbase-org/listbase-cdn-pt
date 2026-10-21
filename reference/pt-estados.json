@@ -1,0 +1,432 @@
+{
+  "id": "pt-estados",
+  "name": "Estados do Brasil — 27 unidades federativas (UF)",
+  "title": "Estados do Brasil — 27 unidades federativas (UF)",
+  "description": "Lista oficial dos 27 estados brasileiros (26 estados + Distrito Federal) segundo a divisão político-administrativa do IBGE. Cada estado inclui o código UF de 2 dígitos, a sigla UF, o nome oficial em português, o centróide geográfico (latitude/longitude), a região geográfica (Norte / Nordeste / Centro-Oeste / Sudeste / Sul), a capital e a contagem de municípios. Total de 5.571 municípios distribuídos pelas 27 UFs.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "capital_nome",
+      "label": "Capital Nome",
+      "type": "string"
+    },
+    {
+      "key": "capital_codigo_ibge",
+      "label": "Capital Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_uf": 11,
+      "uf": "RO",
+      "nome": "Rondônia",
+      "slug": "rondonia",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -10.83,
+      "longitude": -63.34,
+      "capital_nome": "Porto Velho",
+      "capital_codigo_ibge": 1100205,
+      "municipios_count": 52
+    },
+    {
+      "codigo_uf": 12,
+      "uf": "AC",
+      "nome": "Acre",
+      "slug": "acre",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -8.77,
+      "longitude": -70.55,
+      "capital_nome": "Rio Branco",
+      "capital_codigo_ibge": 1200401,
+      "municipios_count": 22
+    },
+    {
+      "codigo_uf": 13,
+      "uf": "AM",
+      "nome": "Amazonas",
+      "slug": "amazonas",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -3.47,
+      "longitude": -65.1,
+      "capital_nome": "Manaus",
+      "capital_codigo_ibge": 1302603,
+      "municipios_count": 62
+    },
+    {
+      "codigo_uf": 14,
+      "uf": "RR",
+      "nome": "Roraima",
+      "slug": "roraima",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": 1.99,
+      "longitude": -61.33,
+      "capital_nome": "Boa Vista",
+      "capital_codigo_ibge": 1400100,
+      "municipios_count": 15
+    },
+    {
+      "codigo_uf": 15,
+      "uf": "PA",
+      "nome": "Pará",
+      "slug": "para",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -3.79,
+      "longitude": -52.48,
+      "capital_nome": "Belém",
+      "capital_codigo_ibge": 1501402,
+      "municipios_count": 144
+    },
+    {
+      "codigo_uf": 16,
+      "uf": "AP",
+      "nome": "Amapá",
+      "slug": "amapa",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": 1.41,
+      "longitude": -51.77,
+      "capital_nome": "Macapá",
+      "capital_codigo_ibge": 1600303,
+      "municipios_count": 16
+    },
+    {
+      "codigo_uf": 17,
+      "uf": "TO",
+      "nome": "Tocantins",
+      "slug": "tocantins",
+      "regiao": "Norte",
+      "regiao_slug": "norte",
+      "latitude": -9.46,
+      "longitude": -48.26,
+      "capital_nome": "Palmas",
+      "capital_codigo_ibge": 1721000,
+      "municipios_count": 139
+    },
+    {
+      "codigo_uf": 21,
+      "uf": "MA",
+      "nome": "Maranhão",
+      "slug": "maranhao",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -5.42,
+      "longitude": -45.44,
+      "capital_nome": "São Luís",
+      "capital_codigo_ibge": 2111300,
+      "municipios_count": 217
+    },
+    {
+      "codigo_uf": 22,
+      "uf": "PI",
+      "nome": "Piauí",
+      "slug": "piaui",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -6.6,
+      "longitude": -42.28,
+      "capital_nome": "Teresina",
+      "capital_codigo_ibge": 2211001,
+      "municipios_count": 224
+    },
+    {
+      "codigo_uf": 23,
+      "uf": "CE",
+      "nome": "Ceará",
+      "slug": "ceara",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -5.2,
+      "longitude": -39.53,
+      "capital_nome": "Fortaleza",
+      "capital_codigo_ibge": 2304400,
+      "municipios_count": 184
+    },
+    {
+      "codigo_uf": 24,
+      "uf": "RN",
+      "nome": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -5.81,
+      "longitude": -36.59,
+      "capital_nome": "Natal",
+      "capital_codigo_ibge": 2408102,
+      "municipios_count": 167
+    },
+    {
+      "codigo_uf": 25,
+      "uf": "PB",
+      "nome": "Paraíba",
+      "slug": "paraiba",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -7.28,
+      "longitude": -36.72,
+      "capital_nome": "João Pessoa",
+      "capital_codigo_ibge": 2507507,
+      "municipios_count": 223
+    },
+    {
+      "codigo_uf": 26,
+      "uf": "PE",
+      "nome": "Pernambuco",
+      "slug": "pernambuco",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -8.38,
+      "longitude": -37.86,
+      "capital_nome": "Recife",
+      "capital_codigo_ibge": 2611606,
+      "municipios_count": 185
+    },
+    {
+      "codigo_uf": 27,
+      "uf": "AL",
+      "nome": "Alagoas",
+      "slug": "alagoas",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -9.62,
+      "longitude": -36.82,
+      "capital_nome": "Maceió",
+      "capital_codigo_ibge": 2704302,
+      "municipios_count": 102
+    },
+    {
+      "codigo_uf": 28,
+      "uf": "SE",
+      "nome": "Sergipe",
+      "slug": "sergipe",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -10.57,
+      "longitude": -37.45,
+      "capital_nome": "Aracaju",
+      "capital_codigo_ibge": 2800308,
+      "municipios_count": 75
+    },
+    {
+      "codigo_uf": 29,
+      "uf": "BA",
+      "nome": "Bahia",
+      "slug": "bahia",
+      "regiao": "Nordeste",
+      "regiao_slug": "nordeste",
+      "latitude": -13.29,
+      "longitude": -41.71,
+      "capital_nome": "Salvador",
+      "capital_codigo_ibge": 2927408,
+      "municipios_count": 417
+    },
+    {
+      "codigo_uf": 31,
+      "uf": "MG",
+      "nome": "Minas Gerais",
+      "slug": "minas-gerais",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -18.1,
+      "longitude": -44.38,
+      "capital_nome": "Belo Horizonte",
+      "capital_codigo_ibge": 3106200,
+      "municipios_count": 853
+    },
+    {
+      "codigo_uf": 32,
+      "uf": "ES",
+      "nome": "Espírito Santo",
+      "slug": "espirito-santo",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -19.19,
+      "longitude": -40.34,
+      "capital_nome": "Vitória",
+      "capital_codigo_ibge": 3205309,
+      "municipios_count": 78
+    },
+    {
+      "codigo_uf": 33,
+      "uf": "RJ",
+      "nome": "Rio de Janeiro",
+      "slug": "rio-de-janeiro",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -22.25,
+      "longitude": -42.66,
+      "capital_nome": "Rio de Janeiro",
+      "capital_codigo_ibge": 3304557,
+      "municipios_count": 92
+    },
+    {
+      "codigo_uf": 35,
+      "uf": "SP",
+      "nome": "São Paulo",
+      "slug": "sao-paulo",
+      "regiao": "Sudeste",
+      "regiao_slug": "sudeste",
+      "latitude": -22.19,
+      "longitude": -48.79,
+      "capital_nome": "São Paulo",
+      "capital_codigo_ibge": 3550308,
+      "municipios_count": 645
+    },
+    {
+      "codigo_uf": 41,
+      "uf": "PR",
+      "nome": "Paraná",
+      "slug": "parana",
+      "regiao": "Sul",
+      "regiao_slug": "sul",
+      "latitude": -24.89,
+      "longitude": -51.55,
+      "capital_nome": "Curitiba",
+      "capital_codigo_ibge": 4106902,
+      "municipios_count": 399
+    },
+    {
+      "codigo_uf": 42,
+      "uf": "SC",
+      "nome": "Santa Catarina",
+      "slug": "santa-catarina",
+      "regiao": "Sul",
+      "regiao_slug": "sul",
+      "latitude": -27.45,
+      "longitude": -50.95,
+      "capital_nome": "Florianópolis",
+      "capital_codigo_ibge": 4205407,
+      "municipios_count": 295
+    },
+    {
+      "codigo_uf": 43,
+      "uf": "RS",
+      "nome": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul",
+      "regiao": "Sul",
+      "regiao_slug": "sul",
+      "latitude": -30.17,
+      "longitude": -53.5,
+      "capital_nome": "Porto Alegre",
+      "capital_codigo_ibge": 4314902,
+      "municipios_count": 497
+    },
+    {
+      "codigo_uf": 50,
+      "uf": "MS",
+      "nome": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -20.51,
+      "longitude": -54.54,
+      "capital_nome": "Campo Grande",
+      "capital_codigo_ibge": 5002704,
+      "municipios_count": 79
+    },
+    {
+      "codigo_uf": 51,
+      "uf": "MT",
+      "nome": "Mato Grosso",
+      "slug": "mato-grosso",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -12.64,
+      "longitude": -55.42,
+      "capital_nome": "Cuiabá",
+      "capital_codigo_ibge": 5103403,
+      "municipios_count": 142
+    },
+    {
+      "codigo_uf": 52,
+      "uf": "GO",
+      "nome": "Goiás",
+      "slug": "goias",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -15.98,
+      "longitude": -49.86,
+      "capital_nome": "Goiânia",
+      "capital_codigo_ibge": 5208707,
+      "municipios_count": 246
+    },
+    {
+      "codigo_uf": 53,
+      "uf": "DF",
+      "nome": "Distrito Federal",
+      "slug": "distrito-federal",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -15.83,
+      "longitude": -47.86,
+      "capital_nome": "Brasília",
+      "capital_codigo_ibge": 5300108,
+      "municipios_count": 1
+    }
+  ],
+  "meta": {
+    "title": "Estados do Brasil — 27 unidades federativas (UF) - Download gratuito",
+    "description": "Lista oficial dos 27 estados brasileiros (26 estados + Distrito Federal) segundo a divisão político-administrativa do IBGE. Cada estado inclui o código UF de 2 dígitos, a sigla UF, o nome oficial em português, o centróide geográfico (latitude/longitude), a região geográfica (Norte / Nordeste / Centro-Oeste / Sudeste / Sul), a capital e a contagem de municípios. Total de 5.571 municípios distribuídos pelas 27 UFs. Contém 27 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Estados do Brasil — 27 unidades federativas (UF) | ListBase",
+    "seo_description": "Baixar Estados do Brasil — 27 unidades federativas (UF) — 27 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 27 registros / 11 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

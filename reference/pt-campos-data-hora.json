@@ -1,0 +1,266 @@
+{
+  "id": "pt-campos-data-hora",
+  "name": "Campos de data e hora — nomes em português (CLDR)",
+  "title": "Campos de data e hora — nomes em português (CLDR)",
+  "description": "Nomes dos campos de data e hora (era, ano, mês, dia, hora...) do locale pt do CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "era",
+      "nome": "era"
+    },
+    {
+      "id": 2,
+      "code": "era-short",
+      "nome": "era"
+    },
+    {
+      "id": 3,
+      "code": "era-narrow",
+      "nome": "era"
+    },
+    {
+      "id": 4,
+      "code": "year",
+      "nome": "ano"
+    },
+    {
+      "id": 5,
+      "code": "year-short",
+      "nome": "ano"
+    },
+    {
+      "id": 6,
+      "code": "year-narrow",
+      "nome": "ano"
+    },
+    {
+      "id": 7,
+      "code": "quarter",
+      "nome": "trimestre"
+    },
+    {
+      "id": 8,
+      "code": "quarter-short",
+      "nome": "trim."
+    },
+    {
+      "id": 9,
+      "code": "quarter-narrow",
+      "nome": "trim."
+    },
+    {
+      "id": 10,
+      "code": "month",
+      "nome": "mês"
+    },
+    {
+      "id": 11,
+      "code": "month-short",
+      "nome": "mês"
+    },
+    {
+      "id": 12,
+      "code": "month-narrow",
+      "nome": "mês"
+    },
+    {
+      "id": 13,
+      "code": "week",
+      "nome": "semana"
+    },
+    {
+      "id": 14,
+      "code": "week-short",
+      "nome": "sem."
+    },
+    {
+      "id": 15,
+      "code": "week-narrow",
+      "nome": "sem."
+    },
+    {
+      "id": 16,
+      "code": "weekOfMonth",
+      "nome": "semana do mês"
+    },
+    {
+      "id": 17,
+      "code": "weekOfMonth-short",
+      "nome": "sem. do mês"
+    },
+    {
+      "id": 18,
+      "code": "weekOfMonth-narrow",
+      "nome": "sem. do mês"
+    },
+    {
+      "id": 19,
+      "code": "day",
+      "nome": "dia"
+    },
+    {
+      "id": 20,
+      "code": "day-short",
+      "nome": "dia"
+    },
+    {
+      "id": 21,
+      "code": "day-narrow",
+      "nome": "dia"
+    },
+    {
+      "id": 22,
+      "code": "dayOfYear",
+      "nome": "dia do ano"
+    },
+    {
+      "id": 23,
+      "code": "dayOfYear-short",
+      "nome": "dia do ano"
+    },
+    {
+      "id": 24,
+      "code": "dayOfYear-narrow",
+      "nome": "dia do ano"
+    },
+    {
+      "id": 25,
+      "code": "weekday",
+      "nome": "dia da semana"
+    },
+    {
+      "id": 26,
+      "code": "weekday-short",
+      "nome": "dia da sem."
+    },
+    {
+      "id": 27,
+      "code": "weekday-narrow",
+      "nome": "dia da sem."
+    },
+    {
+      "id": 28,
+      "code": "weekdayOfMonth",
+      "nome": "dia da semana do mês"
+    },
+    {
+      "id": 29,
+      "code": "weekdayOfMonth-short",
+      "nome": "dia da sem. do mês"
+    },
+    {
+      "id": 30,
+      "code": "weekdayOfMonth-narrow",
+      "nome": "dia da sem. do mês"
+    },
+    {
+      "id": 31,
+      "code": "dayperiod-short",
+      "nome": "AM/PM"
+    },
+    {
+      "id": 32,
+      "code": "dayperiod",
+      "nome": "AM/PM"
+    },
+    {
+      "id": 33,
+      "code": "dayperiod-narrow",
+      "nome": "AM/PM"
+    },
+    {
+      "id": 34,
+      "code": "hour",
+      "nome": "hora"
+    },
+    {
+      "id": 35,
+      "code": "hour-short",
+      "nome": "h"
+    },
+    {
+      "id": 36,
+      "code": "hour-narrow",
+      "nome": "h"
+    },
+    {
+      "id": 37,
+      "code": "minute",
+      "nome": "minuto"
+    },
+    {
+      "id": 38,
+      "code": "minute-short",
+      "nome": "min."
+    },
+    {
+      "id": 39,
+      "code": "minute-narrow",
+      "nome": "min"
+    },
+    {
+      "id": 40,
+      "code": "second",
+      "nome": "segundo"
+    },
+    {
+      "id": 41,
+      "code": "second-short",
+      "nome": "seg."
+    },
+    {
+      "id": 42,
+      "code": "second-narrow",
+      "nome": "seg."
+    },
+    {
+      "id": 43,
+      "code": "zone",
+      "nome": "fuso horário"
+    },
+    {
+      "id": 44,
+      "code": "zone-short",
+      "nome": "fuso"
+    },
+    {
+      "id": 45,
+      "code": "zone-narrow",
+      "nome": "fuso"
+    }
+  ],
+  "meta": {
+    "title": "Campos de data e hora — nomes em português (CLDR) - Download gratuito",
+    "description": "Nomes dos campos de data e hora (era, ano, mês, dia, hora...) do locale pt do CLDR. Contém 45 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Campos de data e hora — nomes em português (CLDR) | ListBase",
+    "seo_description": "Baixar Campos de data e hora — nomes em português (CLDR) — 45 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 45 registros / 3 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

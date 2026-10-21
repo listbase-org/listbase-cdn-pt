@@ -1,0 +1,160 @@
+{
+  "id": "pt-unidades-medida-digital",
+  "name": "Unidades de medida — categoria 'digital' (11)",
+  "title": "Unidades de medida — categoria 'digital' (11)",
+  "description": "Unidades de medida da categoria 'digital' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "categoria": "digital",
+      "nome": "bits",
+      "abreviacao": "bit",
+      "estreito": "bit",
+      "padrao": "{0} bits"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "categoria": "digital",
+      "nome": "bytes",
+      "abreviacao": "byte",
+      "estreito": "B",
+      "padrao": "{0} bytes"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "categoria": "digital",
+      "nome": "gigabits",
+      "abreviacao": "Gbit",
+      "estreito": "Gb",
+      "padrao": "{0} gigabits"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "categoria": "digital",
+      "nome": "gigabytes",
+      "abreviacao": "GByte",
+      "estreito": "GB",
+      "padrao": "{0} gigabytes"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "categoria": "digital",
+      "nome": "kilobits",
+      "abreviacao": "kbit",
+      "estreito": "kb",
+      "padrao": "{0} kilobits"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "categoria": "digital",
+      "nome": "kilobytes",
+      "abreviacao": "kByte",
+      "estreito": "kB",
+      "padrao": "{0} kilobytes"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "categoria": "digital",
+      "nome": "megabits",
+      "abreviacao": "Mbit",
+      "estreito": "Mb",
+      "padrao": "{0} megabits"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "categoria": "digital",
+      "nome": "megabytes",
+      "abreviacao": "MByte",
+      "estreito": "MB",
+      "padrao": "{0} megabytes"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "categoria": "digital",
+      "nome": "petabytes",
+      "abreviacao": "PByte",
+      "estreito": "PB",
+      "padrao": "{0} petabytes"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "categoria": "digital",
+      "nome": "terabits",
+      "abreviacao": "Tbit",
+      "estreito": "Tb",
+      "padrao": "{0} terabits"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "categoria": "digital",
+      "nome": "terabytes",
+      "abreviacao": "TByte",
+      "estreito": "TB",
+      "padrao": "{0} terabytes"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'digital' (11) - Download gratuito",
+    "description": "Unidades de medida da categoria 'digital' do locale pt do CLDR, com nomes em português. Contém 11 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'digital' (11) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'digital' (11) — 11 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 11 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

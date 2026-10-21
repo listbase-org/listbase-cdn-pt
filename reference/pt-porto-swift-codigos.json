@@ -1,0 +1,190 @@
+{
+  "id": "pt-porto-swift-codigos",
+  "name": "Códigos SWIFT/BIC — Porto",
+  "title": "Códigos SWIFT/BIC — Porto",
+  "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 24 instituições que a fonte indica com a cidade \"PORTO\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "321 CREDITO INSTITUICAO FINANCEIRA DE CREDITO S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "CIEDPTP1"
+    },
+    {
+      "bank": "BANCO BPI SA",
+      "city": "PORTO",
+      "branch": "(ALL PT BRANCHES NOT LISTED)",
+      "swift_code": "BBPIPTPL"
+    },
+    {
+      "bank": "BANCO COMERCIAL DE MACAU S.A.R.L.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "CMACPTP1OPR"
+    },
+    {
+      "bank": "BANCO COMERCIAL PORTUGUES",
+      "city": "PORTO",
+      "branch": "(LATINO COELHO)",
+      "swift_code": "BCOMPTPLPLC"
+    },
+    {
+      "bank": "BANCO DE PORTUGAL",
+      "city": "PORTO",
+      "branch": "(FUNDO GARANTIA)",
+      "swift_code": "BGALPTTGFGC"
+    },
+    {
+      "bank": "BANCO L.J. CARREGOSA, S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "BLJCPTPT"
+    },
+    {
+      "bank": "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)",
+      "city": "PORTO",
+      "branch": "(ENDERECO SWIFT PORTO)",
+      "swift_code": "BNIFPTPLOPO"
+    },
+    {
+      "bank": "BARCLAYS BANK PLC",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "BARCPTPLOPR"
+    },
+    {
+      "bank": "BOLSA DE DERIVADOS DO PORTO",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "XBDPPTP1"
+    },
+    {
+      "bank": "BPI DEALER - SOCIEDADE FINANCEIRA DE CORRETAGEM, A",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "BSFCPTP1"
+    },
+    {
+      "bank": "CAIXA ECONOMICA DO PORTO",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "CAEPPTP1"
+    },
+    {
+      "bank": "CAIXA ECONOMICA SOCIAL",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "CAEOPTP1"
+    },
+    {
+      "bank": "CAIXA GERAL DE DEPOSITOS",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "CGDIPTPLOPR"
+    },
+    {
+      "bank": "CREDIFIN - BANCO DE CREDITO AO CONSUMO S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "CRRCPTP1"
+    },
+    {
+      "bank": "FINIBANCO S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "FBCOPTPP"
+    },
+    {
+      "bank": "GOLDEN BROKER SOCIEDADE CORRETORA SA",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "GBSCPTP1"
+    },
+    {
+      "bank": "IGFCSS",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "IGFCPT21"
+    },
+    {
+      "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
+      "city": "PORTO",
+      "branch": "(TECHNICAL ACCOUNT)",
+      "swift_code": "IBLSPTPP999"
+    },
+    {
+      "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "IBLSPTPP"
+    },
+    {
+      "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "IBLSPTPP998"
+    },
+    {
+      "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "IBLSPTPPCUG"
+    },
+    {
+      "bank": "NOVO BANCO, SA",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "BESCPTPLOPR"
+    },
+    {
+      "bank": "OK2DEAL-SOCIEDADE CORRETORA, S.A.",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "OKCOPTP1"
+    },
+    {
+      "bank": "UNIVERSO-BANCO DIRECTO",
+      "city": "PORTO",
+      "branch": "",
+      "swift_code": "UVBDPTP1"
+    }
+  ],
+  "meta": {
+    "title": "Códigos SWIFT/BIC — Porto - Download gratuito",
+    "description": "Códigos SWIFT/BIC de bancos e instituições financeiras em Portugal. Cada registo indica o nome da instituição, a cidade, a eventual agência e o código SWIFT/BIC. Fonte: PeterNotenboom/SwiftCodes (MIT). Este subconjunto contém 24 instituições que a fonte indica com a cidade \"PORTO\". Contém 24 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Códigos SWIFT/BIC — Porto | ListBase",
+    "seo_description": "Baixar Códigos SWIFT/BIC — Porto — 24 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 24 registros / 4 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

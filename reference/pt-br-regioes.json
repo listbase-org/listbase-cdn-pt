@@ -1,0 +1,56 @@
+{
+  "id": "pt-br-regioes",
+  "name": "Regiões do Brasil (IBGE)",
+  "title": "Regiões do Brasil (IBGE)",
+  "description": "5 macro-regiões brasileiras (Norte, Nordeste, Sudeste, Sul, Centro-Oeste) conforme classificação IBGE",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "Id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "Nome",
+      "label": "Nome",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Id": 1,
+      "Nome": "Norte"
+    },
+    {
+      "Id": 2,
+      "Nome": "Nordeste"
+    },
+    {
+      "Id": 3,
+      "Nome": "Sudeste"
+    },
+    {
+      "Id": 4,
+      "Nome": "Sul"
+    },
+    {
+      "Id": 5,
+      "Nome": "Centro-Oeste"
+    }
+  ],
+  "meta": {
+    "title": "Regiões do Brasil (IBGE) - Download gratuito",
+    "description": "5 macro-regiões brasileiras (Norte, Nordeste, Sudeste, Sul, Centro-Oeste) conforme classificação IBGE Contém 5 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Regiões do Brasil (IBGE) | ListBase",
+    "seo_description": "Baixar Regiões do Brasil (IBGE) — 5 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 5 registros / 2 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

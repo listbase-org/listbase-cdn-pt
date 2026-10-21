@@ -1,0 +1,648 @@
+{
+  "id": "pt-meses-calendario",
+  "name": "Nomes dos meses por calendário (CLDR português)",
+  "title": "Nomes dos meses por calendário (CLDR português)",
+  "description": "Nomes dos meses de seis calendários (gregoriano, budista, chinês, dangi, hebraico, islâmico) — no locale pt do CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "calendario",
+      "label": "Calendario",
+      "type": "string"
+    },
+    {
+      "key": "mes_code",
+      "label": "Mes Code",
+      "type": "number"
+    },
+    {
+      "key": "mes_num",
+      "label": "Mes Num",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "calendario": "gregorian",
+      "mes_code": "1",
+      "mes_num": 1,
+      "nome": "janeiro",
+      "abreviacao": "jan."
+    },
+    {
+      "id": 2,
+      "calendario": "gregorian",
+      "mes_code": "2",
+      "mes_num": 2,
+      "nome": "fevereiro",
+      "abreviacao": "fev."
+    },
+    {
+      "id": 3,
+      "calendario": "gregorian",
+      "mes_code": "3",
+      "mes_num": 3,
+      "nome": "março",
+      "abreviacao": "mar."
+    },
+    {
+      "id": 4,
+      "calendario": "gregorian",
+      "mes_code": "4",
+      "mes_num": 4,
+      "nome": "abril",
+      "abreviacao": "abr."
+    },
+    {
+      "id": 5,
+      "calendario": "gregorian",
+      "mes_code": "5",
+      "mes_num": 5,
+      "nome": "maio",
+      "abreviacao": "mai."
+    },
+    {
+      "id": 6,
+      "calendario": "gregorian",
+      "mes_code": "6",
+      "mes_num": 6,
+      "nome": "junho",
+      "abreviacao": "jun."
+    },
+    {
+      "id": 7,
+      "calendario": "gregorian",
+      "mes_code": "7",
+      "mes_num": 7,
+      "nome": "julho",
+      "abreviacao": "jul."
+    },
+    {
+      "id": 8,
+      "calendario": "gregorian",
+      "mes_code": "8",
+      "mes_num": 8,
+      "nome": "agosto",
+      "abreviacao": "ago."
+    },
+    {
+      "id": 9,
+      "calendario": "gregorian",
+      "mes_code": "9",
+      "mes_num": 9,
+      "nome": "setembro",
+      "abreviacao": "set."
+    },
+    {
+      "id": 10,
+      "calendario": "gregorian",
+      "mes_code": "10",
+      "mes_num": 10,
+      "nome": "outubro",
+      "abreviacao": "out."
+    },
+    {
+      "id": 11,
+      "calendario": "gregorian",
+      "mes_code": "11",
+      "mes_num": 11,
+      "nome": "novembro",
+      "abreviacao": "nov."
+    },
+    {
+      "id": 12,
+      "calendario": "gregorian",
+      "mes_code": "12",
+      "mes_num": 12,
+      "nome": "dezembro",
+      "abreviacao": "dez."
+    },
+    {
+      "id": 13,
+      "calendario": "buddhist",
+      "mes_code": "1",
+      "mes_num": 1,
+      "nome": "janeiro",
+      "abreviacao": "jan."
+    },
+    {
+      "id": 14,
+      "calendario": "buddhist",
+      "mes_code": "2",
+      "mes_num": 2,
+      "nome": "fevereiro",
+      "abreviacao": "fev."
+    },
+    {
+      "id": 15,
+      "calendario": "buddhist",
+      "mes_code": "3",
+      "mes_num": 3,
+      "nome": "março",
+      "abreviacao": "mar."
+    },
+    {
+      "id": 16,
+      "calendario": "buddhist",
+      "mes_code": "4",
+      "mes_num": 4,
+      "nome": "abril",
+      "abreviacao": "abr."
+    },
+    {
+      "id": 17,
+      "calendario": "buddhist",
+      "mes_code": "5",
+      "mes_num": 5,
+      "nome": "maio",
+      "abreviacao": "mai."
+    },
+    {
+      "id": 18,
+      "calendario": "buddhist",
+      "mes_code": "6",
+      "mes_num": 6,
+      "nome": "junho",
+      "abreviacao": "jun."
+    },
+    {
+      "id": 19,
+      "calendario": "buddhist",
+      "mes_code": "7",
+      "mes_num": 7,
+      "nome": "julho",
+      "abreviacao": "jul."
+    },
+    {
+      "id": 20,
+      "calendario": "buddhist",
+      "mes_code": "8",
+      "mes_num": 8,
+      "nome": "agosto",
+      "abreviacao": "ago."
+    },
+    {
+      "id": 21,
+      "calendario": "buddhist",
+      "mes_code": "9",
+      "mes_num": 9,
+      "nome": "setembro",
+      "abreviacao": "set."
+    },
+    {
+      "id": 22,
+      "calendario": "buddhist",
+      "mes_code": "10",
+      "mes_num": 10,
+      "nome": "outubro",
+      "abreviacao": "out."
+    },
+    {
+      "id": 23,
+      "calendario": "buddhist",
+      "mes_code": "11",
+      "mes_num": 11,
+      "nome": "novembro",
+      "abreviacao": "nov."
+    },
+    {
+      "id": 24,
+      "calendario": "buddhist",
+      "mes_code": "12",
+      "mes_num": 12,
+      "nome": "dezembro",
+      "abreviacao": "dez."
+    },
+    {
+      "id": 25,
+      "calendario": "chinese",
+      "mes_code": "1",
+      "mes_num": 1,
+      "nome": "Mês 1",
+      "abreviacao": "Mês 1"
+    },
+    {
+      "id": 26,
+      "calendario": "chinese",
+      "mes_code": "2",
+      "mes_num": 2,
+      "nome": "Mês 2",
+      "abreviacao": "Mês 2"
+    },
+    {
+      "id": 27,
+      "calendario": "chinese",
+      "mes_code": "3",
+      "mes_num": 3,
+      "nome": "Mês 3",
+      "abreviacao": "Mês 3"
+    },
+    {
+      "id": 28,
+      "calendario": "chinese",
+      "mes_code": "4",
+      "mes_num": 4,
+      "nome": "Mês 4",
+      "abreviacao": "Mês 4"
+    },
+    {
+      "id": 29,
+      "calendario": "chinese",
+      "mes_code": "5",
+      "mes_num": 5,
+      "nome": "Mês 5",
+      "abreviacao": "Mês 5"
+    },
+    {
+      "id": 30,
+      "calendario": "chinese",
+      "mes_code": "6",
+      "mes_num": 6,
+      "nome": "Mês 6",
+      "abreviacao": "Mês 6"
+    },
+    {
+      "id": 31,
+      "calendario": "chinese",
+      "mes_code": "7",
+      "mes_num": 7,
+      "nome": "Mês 7",
+      "abreviacao": "Mês 7"
+    },
+    {
+      "id": 32,
+      "calendario": "chinese",
+      "mes_code": "8",
+      "mes_num": 8,
+      "nome": "Mês 8",
+      "abreviacao": "Mês 8"
+    },
+    {
+      "id": 33,
+      "calendario": "chinese",
+      "mes_code": "9",
+      "mes_num": 9,
+      "nome": "Mês 9",
+      "abreviacao": "Mês 9"
+    },
+    {
+      "id": 34,
+      "calendario": "chinese",
+      "mes_code": "10",
+      "mes_num": 10,
+      "nome": "Mês 10",
+      "abreviacao": "Mês 10"
+    },
+    {
+      "id": 35,
+      "calendario": "chinese",
+      "mes_code": "11",
+      "mes_num": 11,
+      "nome": "Mês 11",
+      "abreviacao": "Mês 11"
+    },
+    {
+      "id": 36,
+      "calendario": "chinese",
+      "mes_code": "12",
+      "mes_num": 12,
+      "nome": "Mês 12",
+      "abreviacao": "Mês 12"
+    },
+    {
+      "id": 37,
+      "calendario": "dangi",
+      "mes_code": "1",
+      "mes_num": 1,
+      "nome": "Mês 1",
+      "abreviacao": "Mês 1"
+    },
+    {
+      "id": 38,
+      "calendario": "dangi",
+      "mes_code": "2",
+      "mes_num": 2,
+      "nome": "Mês 2",
+      "abreviacao": "Mês 2"
+    },
+    {
+      "id": 39,
+      "calendario": "dangi",
+      "mes_code": "3",
+      "mes_num": 3,
+      "nome": "Mês 3",
+      "abreviacao": "Mês 3"
+    },
+    {
+      "id": 40,
+      "calendario": "dangi",
+      "mes_code": "4",
+      "mes_num": 4,
+      "nome": "Mês 4",
+      "abreviacao": "Mês 4"
+    },
+    {
+      "id": 41,
+      "calendario": "dangi",
+      "mes_code": "5",
+      "mes_num": 5,
+      "nome": "Mês 5",
+      "abreviacao": "Mês 5"
+    },
+    {
+      "id": 42,
+      "calendario": "dangi",
+      "mes_code": "6",
+      "mes_num": 6,
+      "nome": "Mês 6",
+      "abreviacao": "Mês 6"
+    },
+    {
+      "id": 43,
+      "calendario": "dangi",
+      "mes_code": "7",
+      "mes_num": 7,
+      "nome": "Mês 7",
+      "abreviacao": "Mês 7"
+    },
+    {
+      "id": 44,
+      "calendario": "dangi",
+      "mes_code": "8",
+      "mes_num": 8,
+      "nome": "Mês 8",
+      "abreviacao": "Mês 8"
+    },
+    {
+      "id": 45,
+      "calendario": "dangi",
+      "mes_code": "9",
+      "mes_num": 9,
+      "nome": "Mês 9",
+      "abreviacao": "Mês 9"
+    },
+    {
+      "id": 46,
+      "calendario": "dangi",
+      "mes_code": "10",
+      "mes_num": 10,
+      "nome": "Mês 10",
+      "abreviacao": "Mês 10"
+    },
+    {
+      "id": 47,
+      "calendario": "dangi",
+      "mes_code": "11",
+      "mes_num": 11,
+      "nome": "Mês 11",
+      "abreviacao": "Mês 11"
+    },
+    {
+      "id": 48,
+      "calendario": "dangi",
+      "mes_code": "12",
+      "mes_num": 12,
+      "nome": "Mês 12",
+      "abreviacao": "Mês 12"
+    },
+    {
+      "id": 49,
+      "calendario": "hebrew",
+      "mes_code": "1",
+      "mes_num": 1,
+      "nome": "Tishri",
+      "abreviacao": "Tishri"
+    },
+    {
+      "id": 50,
+      "calendario": "hebrew",
+      "mes_code": "2",
+      "mes_num": 2,
+      "nome": "Heshvan",
+      "abreviacao": "Heshvan"
+    },
+    {
+      "id": 51,
+      "calendario": "hebrew",
+      "mes_code": "3",
+      "mes_num": 3,
+      "nome": "Kislev",
+      "abreviacao": "Kislev"
+    },
+    {
+      "id": 52,
+      "calendario": "hebrew",
+      "mes_code": "4",
+      "mes_num": 4,
+      "nome": "Tevet",
+      "abreviacao": "Tevet"
+    },
+    {
+      "id": 53,
+      "calendario": "hebrew",
+      "mes_code": "5",
+      "mes_num": 5,
+      "nome": "Shevat",
+      "abreviacao": "Shevat"
+    },
+    {
+      "id": 54,
+      "calendario": "hebrew",
+      "mes_code": "6",
+      "mes_num": 6,
+      "nome": "Adar I",
+      "abreviacao": "Adar I"
+    },
+    {
+      "id": 55,
+      "calendario": "hebrew",
+      "mes_code": "7",
+      "mes_num": 7,
+      "nome": "Adar",
+      "abreviacao": "Adar"
+    },
+    {
+      "id": 56,
+      "calendario": "hebrew",
+      "mes_code": "7-yeartype-leap",
+      "mes_num": "",
+      "nome": "Adar II",
+      "abreviacao": "Adar II"
+    },
+    {
+      "id": 57,
+      "calendario": "hebrew",
+      "mes_code": "8",
+      "mes_num": 8,
+      "nome": "Nisan",
+      "abreviacao": "Nisan"
+    },
+    {
+      "id": 58,
+      "calendario": "hebrew",
+      "mes_code": "9",
+      "mes_num": 9,
+      "nome": "Iyar",
+      "abreviacao": "Iyar"
+    },
+    {
+      "id": 59,
+      "calendario": "hebrew",
+      "mes_code": "10",
+      "mes_num": 10,
+      "nome": "Sivan",
+      "abreviacao": "Sivan"
+    },
+    {
+      "id": 60,
+      "calendario": "hebrew",
+      "mes_code": "11",
+      "mes_num": 11,
+      "nome": "Tamuz",
+      "abreviacao": "Tamuz"
+    },
+    {
+      "id": 61,
+      "calendario": "hebrew",
+      "mes_code": "12",
+      "mes_num": 12,
+      "nome": "Av",
+      "abreviacao": "Av"
+    },
+    {
+      "id": 62,
+      "calendario": "hebrew",
+      "mes_code": "13",
+      "mes_num": 13,
+      "nome": "Elul",
+      "abreviacao": "Elul"
+    },
+    {
+      "id": 63,
+      "calendario": "islamic",
+      "mes_code": "1",
+      "mes_num": 1,
+      "nome": "Muharram",
+      "abreviacao": "Muh."
+    },
+    {
+      "id": 64,
+      "calendario": "islamic",
+      "mes_code": "2",
+      "mes_num": 2,
+      "nome": "Safar",
+      "abreviacao": "Saf."
+    },
+    {
+      "id": 65,
+      "calendario": "islamic",
+      "mes_code": "3",
+      "mes_num": 3,
+      "nome": "Rabiʻ I",
+      "abreviacao": "Rab. I"
+    },
+    {
+      "id": 66,
+      "calendario": "islamic",
+      "mes_code": "4",
+      "mes_num": 4,
+      "nome": "Rabiʻ II",
+      "abreviacao": "Rab. II"
+    },
+    {
+      "id": 67,
+      "calendario": "islamic",
+      "mes_code": "5",
+      "mes_num": 5,
+      "nome": "Jumada I",
+      "abreviacao": "Jum. I"
+    },
+    {
+      "id": 68,
+      "calendario": "islamic",
+      "mes_code": "6",
+      "mes_num": 6,
+      "nome": "Jumada II",
+      "abreviacao": "Jum. II"
+    },
+    {
+      "id": 69,
+      "calendario": "islamic",
+      "mes_code": "7",
+      "mes_num": 7,
+      "nome": "Rajab",
+      "abreviacao": "Raj."
+    },
+    {
+      "id": 70,
+      "calendario": "islamic",
+      "mes_code": "8",
+      "mes_num": 8,
+      "nome": "Shaʻban",
+      "abreviacao": "Sha."
+    },
+    {
+      "id": 71,
+      "calendario": "islamic",
+      "mes_code": "9",
+      "mes_num": 9,
+      "nome": "Ramadan",
+      "abreviacao": "Ram."
+    },
+    {
+      "id": 72,
+      "calendario": "islamic",
+      "mes_code": "10",
+      "mes_num": 10,
+      "nome": "Shawwal",
+      "abreviacao": "Shaw."
+    },
+    {
+      "id": 73,
+      "calendario": "islamic",
+      "mes_code": "11",
+      "mes_num": 11,
+      "nome": "Dhuʻl-Qiʻdah",
+      "abreviacao": "Dhuʻl-Q."
+    },
+    {
+      "id": 74,
+      "calendario": "islamic",
+      "mes_code": "12",
+      "mes_num": 12,
+      "nome": "Dhuʻl-Hijjah",
+      "abreviacao": "Dhuʻl-H."
+    }
+  ],
+  "meta": {
+    "title": "Nomes dos meses por calendário (CLDR português) - Download gratuito",
+    "description": "Nomes dos meses de seis calendários (gregoriano, budista, chinês, dangi, hebraico, islâmico) — no locale pt do CLDR. Contém 74 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Nomes dos meses por calendário (CLDR português) | ListBase",
+    "seo_description": "Baixar Nomes dos meses por calendário (CLDR português) — 74 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 74 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

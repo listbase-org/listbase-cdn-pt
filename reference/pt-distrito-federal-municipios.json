@@ -1,0 +1,118 @@
+{
+  "id": "pt-distrito-federal-municipios",
+  "name": "Municípios de Distrito Federal (DF) — 1 municípios",
+  "title": "Municípios de Distrito Federal (DF) — 1 municípios",
+  "description": "Lista dos 1 municípios do estado de Distrito Federal (DF), região Centro-Oeste, segundo a divisão político-administrativa do IBGE. Cada município inclui código IBGE, nome, latitude/longitude, sinalização de capital, DDD ANATEL e fuso horário IANA. Cobertura SEO para queries do tipo 'cidades de distrito federal', 'municípios de distrito federal', e 'lista de cidades DF'.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "codigo_ibge",
+      "label": "Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "siafi_id",
+      "label": "Siafi Id",
+      "type": "number"
+    },
+    {
+      "key": "ddd",
+      "label": "Ddd",
+      "type": "number"
+    },
+    {
+      "key": "fuso_horario",
+      "label": "Fuso Horario",
+      "type": "string"
+    },
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "estado_slug",
+      "label": "Estado Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_ibge": 5300108,
+      "nome": "Brasília",
+      "slug": "brasilia",
+      "capital": true,
+      "latitude": -15.7795,
+      "longitude": -47.9297,
+      "siafi_id": "9701",
+      "ddd": 61,
+      "fuso_horario": "America/Sao_Paulo",
+      "codigo_uf": 53,
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "estado_slug": "distrito-federal",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste"
+    }
+  ],
+  "meta": {
+    "title": "Municípios de Distrito Federal (DF) — 1 municípios - Download gratuito",
+    "description": "Lista dos 1 municípios do estado de Distrito Federal (DF), região Centro-Oeste, segundo a divisão político-administrativa do IBGE. Cada município inclui código IBGE, nome, latitude/longitude, sinalização de capital, DDD ANATEL e fuso horário IANA. Cobertura SEO para queries do tipo 'cidades de distrito federal', 'municípios de distrito federal', e 'lista de cidades DF'. Contém 1 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Municípios de Distrito Federal (DF) — 1 municípios | ListBase",
+    "seo_description": "Baixar Municípios de Distrito Federal (DF) — 1 municípios — 1 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 1 registros / 15 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

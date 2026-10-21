@@ -1,0 +1,352 @@
+{
+  "id": "pt-cartorios-rr",
+  "name": "Cartórios de Roraima (RR)",
+  "title": "Cartórios de Roraima (RR)",
+  "description": "Os 7 cartórios do estado de Roraima (RR) conforme o cadastro nacional do Ministério da Justiça (snapshot 2013), com CNPJ, CNS, endereço, comarca, entrância e atribuições.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "uf_nome",
+      "label": "Uf Nome",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "cnpj",
+      "label": "Cnpj",
+      "type": "string"
+    },
+    {
+      "key": "cns",
+      "label": "Cns",
+      "type": "string"
+    },
+    {
+      "key": "data_instalacao",
+      "label": "Data Instalacao",
+      "type": "date"
+    },
+    {
+      "key": "nome_oficial",
+      "label": "Nome Oficial",
+      "type": "string"
+    },
+    {
+      "key": "nome_fantasia",
+      "label": "Nome Fantasia",
+      "type": "string"
+    },
+    {
+      "key": "endereco",
+      "label": "Endereco",
+      "type": "string"
+    },
+    {
+      "key": "bairro",
+      "label": "Bairro",
+      "type": "string"
+    },
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "cep",
+      "label": "Cep",
+      "type": "number"
+    },
+    {
+      "key": "nome_titular",
+      "label": "Nome Titular",
+      "type": "string"
+    },
+    {
+      "key": "nome_substituto",
+      "label": "Nome Substituto",
+      "type": "string"
+    },
+    {
+      "key": "nome_juiz",
+      "label": "Nome Juiz",
+      "type": "string"
+    },
+    {
+      "key": "homepage",
+      "label": "Homepage",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "telefone",
+      "label": "Telefone",
+      "type": "string"
+    },
+    {
+      "key": "fax",
+      "label": "Fax",
+      "type": "string"
+    },
+    {
+      "key": "observacao",
+      "label": "Observacao",
+      "type": "string"
+    },
+    {
+      "key": "ultima_atualizacao",
+      "label": "Ultima Atualizacao",
+      "type": "date"
+    },
+    {
+      "key": "horario_funcionamento",
+      "label": "Horario Funcionamento",
+      "type": "string"
+    },
+    {
+      "key": "area_abrangencia",
+      "label": "Area Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "atribuicoes",
+      "label": "Atribuicoes",
+      "type": "string"
+    },
+    {
+      "key": "comarca",
+      "label": "Comarca",
+      "type": "string"
+    },
+    {
+      "key": "entrancia",
+      "label": "Entrancia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "regiao": "Norte",
+      "cnpj": "84.050.038/0001-69",
+      "cns": "09.657-8",
+      "data_instalacao": "1956-12-07",
+      "nome_oficial": "OFÍCIO DE REGISTRO CIVIL E 1º TABELIONATO DE NOTAS E PROTESTOS",
+      "nome_fantasia": "Tabelionato Deusdete Coelho - 1º Ofício",
+      "endereco": "Av. Ville Roy, 5623-E",
+      "bairro": "Centro",
+      "municipio": "Boa Vista",
+      "cep": "69301000",
+      "nome_titular": "Deusdete Coelho Filho",
+      "nome_substituto": "Rita de Cássia Mello Coelho",
+      "nome_juiz": "",
+      "homepage": "",
+      "email": "tabdeus1@hotmail.com",
+      "telefone": "(0xx95) 3224-3327 / 3624-3050",
+      "fax": "(0xx95) 3623-1145",
+      "observacao": "",
+      "ultima_atualizacao": "2010-05-26",
+      "horario_funcionamento": "De 2ª a 6ª feira, das 8h às 12h e das 13h às 17h.",
+      "area_abrangencia": "Município de Boa Vista.",
+      "atribuicoes": "Nascimentos, Casamentos, Óbitos, Interdições e Tutelas, Notas, Protesto de Títulos, Registro de Títulos e Documentos, Registro Civil de Pessoas Jurídicas",
+      "comarca": "BOA VISTA",
+      "entrancia": "Segunda"
+    },
+    {
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "regiao": "Norte",
+      "cnpj": "05.956.636/0001-25",
+      "cns": "09.655-2",
+      "data_instalacao": "1918-01-07",
+      "nome_oficial": "OFÍCIO DO REGISTRO DE IMÓVEIS",
+      "nome_fantasia": "",
+      "endereco": "Av. Glaycon de Paiva, 252",
+      "bairro": "Centro",
+      "municipio": "Boa Vista",
+      "cep": "69301250",
+      "nome_titular": "Nerli de Faria Albernaz",
+      "nome_substituto": "Marli Rodrigues Monteiro",
+      "nome_juiz": "",
+      "homepage": "",
+      "email": "servreg@technet.com.br",
+      "telefone": "(0xx95) 3224-0756",
+      "fax": "(0xx95) 3224-0756",
+      "observacao": "",
+      "ultima_atualizacao": "2003-08-13",
+      "horario_funcionamento": "De 2ª a 6ª feira, das 8h às 17h.",
+      "area_abrangencia": "Municípios de Boa Vista, Amajari, Alto Alegre, Bonfim, Cantá, Normandia, Pacaraima e Uiramutã.",
+      "atribuicoes": "Registro de Imóveis",
+      "comarca": "BOA VISTA",
+      "entrancia": "Segunda"
+    },
+    {
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "regiao": "Norte",
+      "cnpj": "00.834.865/0001-53",
+      "cns": "09.651-1",
+      "data_instalacao": "1994-07-08",
+      "nome_oficial": "OFÍCIO DE REGISTRO CIVIL E 2º TABELIONATO DE NOTAS",
+      "nome_fantasia": "Cartório Wagner Mendes Coelho",
+      "endereco": "Av. Ataíde Teive, 2042",
+      "bairro": "Liberdade",
+      "municipio": "Boa Vista",
+      "cep": "69309000",
+      "nome_titular": "Wagner Mendes Coelho",
+      "nome_substituto": "José Coelho de Souza Neto",
+      "nome_juiz": "",
+      "homepage": "",
+      "email": "segundotab@uze.com.br",
+      "telefone": "(0xx95) 3625-5808 / 3625-5446",
+      "fax": "(0xx95) 3625-2617",
+      "observacao": "",
+      "ultima_atualizacao": "2010-06-07",
+      "horario_funcionamento": "De 2ª a 6ª feira, das 8h às 12h e das 14h às 17h.",
+      "area_abrangencia": "Município de Boa Vista.",
+      "atribuicoes": "Nascimentos, Casamentos, Óbitos, Notas, Protesto de Títulos, Registro de Títulos e Documentos, Registro Civil de Pessoas Jurídicas",
+      "comarca": "BOA VISTA",
+      "entrancia": "Segunda"
+    },
+    {
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "regiao": "Norte",
+      "cnpj": "00.678.796/0001-36",
+      "cns": "09.654-5",
+      "data_instalacao": "1957-06-07",
+      "nome_oficial": "OFÍCIO ÚNICO",
+      "nome_fantasia": "",
+      "endereco": "Rua Raul Oliveira do Nascimento, s/n",
+      "bairro": "Centro",
+      "municipio": "Caracaraí",
+      "cep": "69360000",
+      "nome_titular": "Cildinha da Silva Rodrigues",
+      "nome_substituto": "Jessilene Alves Bastos",
+      "nome_juiz": "",
+      "homepage": "",
+      "email": "",
+      "telefone": "(0xx95) 3532-1493",
+      "fax": "(0xx95) 3532-1493",
+      "observacao": "",
+      "ultima_atualizacao": "2006-10-09",
+      "horario_funcionamento": "De 2ª a 6ª feira, das 8h às 17h.",
+      "area_abrangencia": "Município de Caracaraí.",
+      "atribuicoes": "Nascimentos, Casamentos, Óbitos, Notas, Protesto de Títulos, Registro de Contratos Marítimos, Registro de Imóveis, Registro de Títulos e Documentos, Registro Civil de Pessoas Jurídicas",
+      "comarca": "CARACARAÍ",
+      "entrancia": "Primeira"
+    },
+    {
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "regiao": "Norte",
+      "cnpj": "84.050.616/0001-67",
+      "cns": "09.656-0",
+      "data_instalacao": "1986-01-02",
+      "nome_oficial": "OFÍCIO ÚNICO",
+      "nome_fantasia": "Tabelionato Barbosa",
+      "endereco": "Pç. dos Estados,  Conjunto BNH -  Quadra 01-  Casa 12",
+      "bairro": "Bairro dos Estados",
+      "municipio": "Mucajaí",
+      "cep": "69340000",
+      "nome_titular": "Evaldo Thomes",
+      "nome_substituto": "Iane Conceição da Silva",
+      "nome_juiz": "",
+      "homepage": "",
+      "email": "evaldothomes@ibest.com.br",
+      "telefone": "(0xx95) 3542-1296",
+      "fax": "(0xx95) 3542-1296",
+      "observacao": "",
+      "ultima_atualizacao": "2010-05-24",
+      "horario_funcionamento": "De 2ª a 6ª feira, das 8h às 12h e das 13h às 17h.",
+      "area_abrangencia": "Municípios de Mucajaí e Iracema.",
+      "atribuicoes": "Nascimentos, Casamentos, Óbitos, Interdições e Tutelas, Notas, Protesto de Títulos, Registro de Imóveis, Registro de Títulos e Documentos, Registro Civil de Pessoas Jurídicas",
+      "comarca": "MUCAJAÍ",
+      "entrancia": "Primeira"
+    },
+    {
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "regiao": "Norte",
+      "cnpj": "08.711.171/0001-30",
+      "cns": "09.653-7",
+      "data_instalacao": "2006-01-16",
+      "nome_oficial": "OFÍCIO ÚNICO",
+      "nome_fantasia": "Cartório Ofício Único de Rorainópolis",
+      "endereco": "Av. Dra. Yandara, 45",
+      "bairro": "Centro",
+      "municipio": "Rorainópolis",
+      "cep": "69373000",
+      "nome_titular": "Vanilda Felix",
+      "nome_substituto": "Ezequiel Pereira Militão",
+      "nome_juiz": "",
+      "homepage": "",
+      "email": "vanildafelix@hotmail.com",
+      "telefone": "(0xx95) 3238-2148",
+      "fax": "(0xx95) 3238-2148",
+      "observacao": "",
+      "ultima_atualizacao": "2008-06-03",
+      "horario_funcionamento": "De 2ª a 6ª feira, das 7h30 às 17h.",
+      "area_abrangencia": "Município de Rorainópolis.",
+      "atribuicoes": "Nascimentos, Casamentos, Óbitos, Notas, Protesto de Títulos, Registro de Imóveis, Registro de Títulos e Documentos, Registro Civil de Pessoas Jurídicas",
+      "comarca": "RORAINÓPOLIS",
+      "entrancia": "Primeira"
+    },
+    {
+      "uf": "RR",
+      "uf_nome": "Roraima",
+      "regiao": "Norte",
+      "cnpj": "00.678.796/0001-36",
+      "cns": "09.652-9",
+      "data_instalacao": "1987-09-25",
+      "nome_oficial": "OFÍCIO ÚNICO",
+      "nome_fantasia": "Cartório Félix",
+      "endereco": "Av. Ataliba Gomes de Laia, 2506",
+      "bairro": "Centro",
+      "municipio": "São Luiz",
+      "cep": "69370000",
+      "nome_titular": "Francisco Félix",
+      "nome_substituto": "Vanilda Félix",
+      "nome_juiz": "",
+      "homepage": "",
+      "email": "cartoriofelix@ig.com.br",
+      "telefone": "(0xx95) 3537-1022",
+      "fax": "(0xx95) 3537-1022",
+      "observacao": "",
+      "ultima_atualizacao": "2003-08-07",
+      "horario_funcionamento": "De 2ª a 6ª feira, das 7h às 17h.",
+      "area_abrangencia": "Município de São Luiz.",
+      "atribuicoes": "Nascimentos, Casamentos, Óbitos, Interdições e Tutelas, Notas, Protesto de Títulos, Registro de Imóveis, Registro de Títulos e Documentos, Registro Civil de Pessoas Jurídicas",
+      "comarca": "SÃO LUIZ",
+      "entrancia": "Primeira"
+    }
+  ],
+  "meta": {
+    "title": "Cartórios de Roraima (RR) - Download gratuito",
+    "description": "Os 7 cartórios do estado de Roraima (RR) conforme o cadastro nacional do Ministério da Justiça (snapshot 2013), com CNPJ, CNS, endereço, comarca, entrância e atribuições. Contém 7 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Cartórios de Roraima (RR) | ListBase",
+    "seo_description": "Baixar Cartórios de Roraima (RR) — 7 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 7 registros / 26 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

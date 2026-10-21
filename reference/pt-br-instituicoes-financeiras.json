@@ -1,0 +1,1296 @@
+{
+  "id": "pt-br-instituicoes-financeiras",
+  "name": "Instituições financeiras do Brasil (BCB)",
+  "title": "Instituições financeiras do Brasil (BCB)",
+  "description": "Listagem de instituições financeiras autorizadas pelo Banco Central do Brasil com CNPJ, segmento, município e site",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 155,
+  "columns": [
+    {
+      "key": "cnpj",
+      "label": "Cnpj",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "segmento",
+      "label": "Segmento",
+      "type": "string"
+    },
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "site",
+      "label": "Site",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cnpj": "00.000.000",
+      "nome": "BANCO DO BRASIL S.A.",
+      "segmento": "Banco do Brasil - Banco Múltiplo",
+      "municipio": "BRASILIA",
+      "uf": "DF",
+      "site": "WWW.BB.COM.BR"
+    },
+    {
+      "cnpj": "00.000.208",
+      "nome": "BRB - BANCO DE BRASILIA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BRASILIA",
+      "uf": "DF",
+      "site": "WWW.BRB.COM.BR"
+    },
+    {
+      "cnpj": "00.253.448",
+      "nome": "BANCO NEON S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "BELO HORIZONTE",
+      "uf": "MG",
+      "site": "WWW.BANCONEON.COM.BR"
+    },
+    {
+      "cnpj": "00.360.305",
+      "nome": "CAIXA ECONOMICA FEDERAL",
+      "segmento": "Caixa Econômica Federal",
+      "municipio": "BRASILIA",
+      "uf": "DF",
+      "site": "WWW.CAIXA.GOV.BR"
+    },
+    {
+      "cnpj": "00.416.968",
+      "nome": "BANCO INTER S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BELO HORIZONTE",
+      "uf": "MG",
+      "site": "WWW.INTERMEDIUM.COM.BR"
+    },
+    {
+      "cnpj": "00.517.645",
+      "nome": "BANCO RIBEIRAO PRETO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIBEIRAO PRETO",
+      "uf": "SP",
+      "site": "WWW.BRP.COM.BR"
+    },
+    {
+      "cnpj": "00.558.456",
+      "nome": "BANCO CETELEM S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BARUERI",
+      "uf": "SP",
+      "site": "WWW.CETELEM.COM.BR"
+    },
+    {
+      "cnpj": "00.795.423",
+      "nome": "BANCO SEMEAR S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BELO HORIZONTE",
+      "uf": "MG",
+      "site": "WWW.BANCOSEMEAR.COM.BR"
+    },
+    {
+      "cnpj": "00.997.185",
+      "nome": "BANCO BM&FBOVESPA DE SERVIÇOS DE LIQUIDAÇÃO E CUSTÓDIA S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTP://WWW.BMFBOVESPA.COM.BR/"
+    },
+    {
+      "cnpj": "01.023.570",
+      "nome": "BANCO RABOBANK INTERNATIONAL BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.RABOBANK.COM.BR"
+    },
+    {
+      "cnpj": "01.181.521",
+      "nome": "BANCO COOPERATIVO SICREDI S.A.",
+      "segmento": "Banco Múltiplo Cooperativo",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.SICREDI.COM.BR"
+    },
+    {
+      "cnpj": "01.522.368",
+      "nome": "BANCO BNP PARIBAS BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BNPPARIBAS.COM.BR"
+    },
+    {
+      "cnpj": "01.701.201",
+      "nome": "KIRTON BANK S.A. - BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": ""
+    },
+    {
+      "cnpj": "02.038.232",
+      "nome": "BANCO COOPERATIVO DO BRASIL S.A. - BANCOOB",
+      "segmento": "Banco Múltiplo Cooperativo",
+      "municipio": "BRASILIA",
+      "uf": "DF",
+      "site": "WWW.BANCOOB.COM.BR"
+    },
+    {
+      "cnpj": "02.318.507",
+      "nome": "BANCO KEB HANA DO BRASIL S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOKEB.COM.BR"
+    },
+    {
+      "cnpj": "02.658.435",
+      "nome": "BANCO CATERPILLAR S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CATFINANCIAL.COM.BR"
+    },
+    {
+      "cnpj": "02.801.938",
+      "nome": "BANCO MORGAN STANLEY S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.MORGANSTANLEY.COM.BR"
+    },
+    {
+      "cnpj": "02.992.446",
+      "nome": "BANCO CNH INDUSTRIAL CAPITAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "HTTPS://WWW.CNHINDUSTRIALCAPITAL.COM/PT_BR"
+    },
+    {
+      "cnpj": "03.012.230",
+      "nome": "HIPERCARD BANCO MÚLTIPLO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RECIFE",
+      "uf": "PE",
+      "site": "WWW.ITAU.COM.BR"
+    },
+    {
+      "cnpj": "03.017.677",
+      "nome": "BANCO J. SAFRA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.JSAFRA.COM.BR"
+    },
+    {
+      "cnpj": "03.215.790",
+      "nome": "BANCO TOYOTA DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOTOYOTA.COM.BR"
+    },
+    {
+      "cnpj": "03.323.840",
+      "nome": "BANCO ALFA S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ALFANET.COM.BR"
+    },
+    {
+      "cnpj": "03.502.961",
+      "nome": "BANCO PSA FINANCE BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOPSA.COM.BR"
+    },
+    {
+      "cnpj": "03.532.415",
+      "nome": "BANCO ABN AMRO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTP://WWW.ABNAMRO.COM/EN/ABOUT-ABN-AMRO/WORLDWIDE-PRESENCE/"
+    },
+    {
+      "cnpj": "03.609.817",
+      "nome": "BANCO CARGILL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOCARGILL.COM.BR"
+    },
+    {
+      "cnpj": "03.634.220",
+      "nome": "BANCO HONDA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOHONDA.COM.BR"
+    },
+    {
+      "cnpj": "04.184.779",
+      "nome": "BANCO BRADESCARD S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BARUERI",
+      "uf": "SP",
+      "site": "WWW.BRADESCARD.COM.BR"
+    },
+    {
+      "cnpj": "04.332.281",
+      "nome": "GOLDMAN SACHS DO BRASIL BANCO MULTIPLO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.GS.COM"
+    },
+    {
+      "cnpj": "04.866.275",
+      "nome": "BANCO INBURSA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOINBURSA.COM.BR"
+    },
+    {
+      "cnpj": "04.902.979",
+      "nome": "BANCO DA AMAZONIA S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "BELEM",
+      "uf": "PA",
+      "site": "WWW.BANCOAMAZONIA.COM.BR"
+    },
+    {
+      "cnpj": "04.913.711",
+      "nome": "BANCO DO ESTADO DO PARÁ S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BELEM",
+      "uf": "PA",
+      "site": "WWW.BANPARANET.B.BR"
+    },
+    {
+      "cnpj": "05.040.481",
+      "nome": "BANCO DE LAGE LANDEN BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.BANCODLL.COM.BR"
+    },
+    {
+      "cnpj": "06.271.464",
+      "nome": "BANCO BRADESCO BBI S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "OSASCO",
+      "uf": "SP",
+      "site": "WWW.BRADESCOBBI.COM.BR"
+    },
+    {
+      "cnpj": "07.207.996",
+      "nome": "BANCO BRADESCO FINANCIAMENTOS S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "OSASCO",
+      "uf": "SP",
+      "site": "WWW.BRADESCOFINANCIAMENTOS.COM.BR"
+    },
+    {
+      "cnpj": "07.237.373",
+      "nome": "BANCO DO NORDESTE DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "FORTALEZA",
+      "uf": "CE",
+      "site": "WWW.BNB.GOV.BR"
+    },
+    {
+      "cnpj": "07.441.209",
+      "nome": "BANCO MONEO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CAXIAS DO SUL",
+      "uf": "RS",
+      "site": "WWW.BANCOMONEO.COM.BR"
+    },
+    {
+      "cnpj": "07.450.604",
+      "nome": "CHINA CONSTRUCTION BANK (BRASIL) BANCO MÚLTIPLO S/A",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BR.CCB.COM"
+    },
+    {
+      "cnpj": "07.656.500",
+      "nome": "BANCO KDB DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOKDB.COM.BR/HOME.HTML"
+    },
+    {
+      "cnpj": "07.679.404",
+      "nome": "BANCO TOPÁZIO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.BANCOTOPAZIO.COM.BR"
+    },
+    {
+      "cnpj": "08.357.240",
+      "nome": "BANCO CSF S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CARREFOURSOLUCOES.COM.BR"
+    },
+    {
+      "cnpj": "09.274.232",
+      "nome": "NATIXIS BRASIL S.A. BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": ""
+    },
+    {
+      "cnpj": "09.516.419",
+      "nome": "BANCO ORIGINAL DO AGRONEGÓCIO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOORIGINAL.COM.BR"
+    },
+    {
+      "cnpj": "09.526.594",
+      "nome": "BANCO VIPAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.BANCOVIPAL.COM.BR"
+    },
+    {
+      "cnpj": "10.264.663",
+      "nome": "BBN BANCO BRASILEIRO DE NEGÓCIOS S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CONCORDIABANCO.COM"
+    },
+    {
+      "cnpj": "10.371.492",
+      "nome": "BANCO YAMAHA MOTOR DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "GUARULHOS",
+      "uf": "SP",
+      "site": "WWW.BANCOYAMAHA.COM.BR"
+    },
+    {
+      "cnpj": "10.664.513",
+      "nome": "BANCO AGIPLAN S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.BANCOAGIPLAN.COM.BR"
+    },
+    {
+      "cnpj": "10.690.848",
+      "nome": "BANCO DA CHINA BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BOC-BRAZIL.COM"
+    },
+    {
+      "cnpj": "10.866.788",
+      "nome": "BANCO BANDEPE S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.SANTANDER.COM.BR"
+    },
+    {
+      "cnpj": "11.417.016",
+      "nome": "SCANIA BANCO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO BERNARDO DO CAMPO",
+      "uf": "SP",
+      "site": "WWW.SCANIABANCO.COM.BR"
+    },
+    {
+      "cnpj": "11.476.673",
+      "nome": "BANCO RANDON S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CAXIAS DO SUL",
+      "uf": "RS",
+      "site": "WWW.BANCORANDON.COM.BR"
+    },
+    {
+      "cnpj": "11.703.662",
+      "nome": "BANCO CONFIDENCE DE CÂMBIO S.A.",
+      "segmento": "Banco de Câmbio",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOCONFIDENCE.COM.BR"
+    },
+    {
+      "cnpj": "11.758.741",
+      "nome": "BANCO FINAXIS S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "WWW.FINAXIS.COM.BR"
+    },
+    {
+      "cnpj": "13.009.717",
+      "nome": "BANCO DO ESTADO DE SERGIPE S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "ARACAJU",
+      "uf": "SE",
+      "site": "WWW.BANESE.COM.BR"
+    },
+    {
+      "cnpj": "13.059.145",
+      "nome": "BEXS BANCO DE CÂMBIO S/A",
+      "segmento": "Banco de Câmbio",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BEXSBANCO.COM.BR"
+    },
+    {
+      "cnpj": "13.720.915",
+      "nome": "BANCO WESTERN UNION DO BRASIL S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOWESTERNUNION.COM.BR"
+    },
+    {
+      "cnpj": "14.388.334",
+      "nome": "PARANÁ BANCO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "WWW.PARANABANCO.COM.BR"
+    },
+    {
+      "cnpj": "15.114.366",
+      "nome": "BANCO BBM S/A",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SALVADOR",
+      "uf": "BA",
+      "site": "WWW.BANCOBBM.COM.BR"
+    },
+    {
+      "cnpj": "15.173.776",
+      "nome": "BANCO CAPITAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SALVADOR",
+      "uf": "BA",
+      "site": "WWW.BANCOCAPITAL.COM.BR"
+    },
+    {
+      "cnpj": "15.357.060",
+      "nome": "BANCO WOORI BANK DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.WOORIBANK.COM.BR"
+    },
+    {
+      "cnpj": "17.184.037",
+      "nome": "BANCO MERCANTIL DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BELO HORIZONTE",
+      "uf": "MG",
+      "site": "WWW.MERCANTIL.COM.BR"
+    },
+    {
+      "cnpj": "17.192.451",
+      "nome": "BANCO ITAUCARD S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "POA",
+      "uf": "SP",
+      "site": "WWW.ITAU.COM.BR/CARTOES"
+    },
+    {
+      "cnpj": "17.298.092",
+      "nome": "BANCO ITAÚ BBA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ITAUBBA.COM.BR"
+    },
+    {
+      "cnpj": "17.351.180",
+      "nome": "BANCO TRIANGULO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "UBERLANDIA",
+      "uf": "MG",
+      "site": "WWW.TRIBANCO.COM.BR"
+    },
+    {
+      "cnpj": "17.453.575",
+      "nome": "ICBC DO BRASIL BANCO MÚLTIPLO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTP://WWW.ICBC.COM.CN"
+    },
+    {
+      "cnpj": "19.307.785",
+      "nome": "MS BANK S.A. BANCO DE CÂMBIO",
+      "segmento": "Banco de Câmbio",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "WWW.MSBANK.COM.BR"
+    },
+    {
+      "cnpj": "23.522.214",
+      "nome": "COMMERZBANK BRASIL S.A. - BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": ""
+    },
+    {
+      "cnpj": "23.903.068",
+      "nome": "BANCO KOMATSU DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTP://WWW.BANCOKOMATSU.COM.BR"
+    },
+    {
+      "cnpj": "27.098.060",
+      "nome": "BANCO CBSS S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BARUERI",
+      "uf": "SP",
+      "site": "WWW.BANCOCBSS.COM.BR"
+    },
+    {
+      "cnpj": "28.127.603",
+      "nome": "BANESTES S.A. BANCO DO ESTADO DO ESPIRITO SANTO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "VITORIA",
+      "uf": "ES",
+      "site": "WWW.BANESTES.COM.BR"
+    },
+    {
+      "cnpj": "28.195.667",
+      "nome": "BANCO ABC BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ABCBRASIL.COM.BR"
+    },
+    {
+      "cnpj": "29.030.467",
+      "nome": "SCOTIABANK BRASIL S.A. BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTP://WWW.BR.SCOTIABANK.COM/"
+    },
+    {
+      "cnpj": "30.306.294",
+      "nome": "BANCO BTG PACTUAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.BTGPACTUAL.COM"
+    },
+    {
+      "cnpj": "30.723.886",
+      "nome": "BANCO MODAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.BANCOMODAL.COM.BR"
+    },
+    {
+      "cnpj": "31.597.552",
+      "nome": "BANCO CLASSICO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "BANCOCLASSICO.COM.BR"
+    },
+    {
+      "cnpj": "31.880.826",
+      "nome": "BANCO GUANABARA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.BCOGUAN.COM.BR"
+    },
+    {
+      "cnpj": "31.895.683",
+      "nome": "BANCO INDUSTRIAL DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOINDUSTRIAL.COM.BR"
+    },
+    {
+      "cnpj": "32.062.580",
+      "nome": "BANCO CREDIT SUISSE (BRASIL) S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTPS://BR.CREDIT-SUISSE.COM/"
+    },
+    {
+      "cnpj": "33.042.151",
+      "nome": "BANCO DE LA NACION ARGENTINA",
+      "segmento": "Banco Comercial Estrangeiro - Filial no país",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BNA.COM.BR"
+    },
+    {
+      "cnpj": "33.042.953",
+      "nome": "CITIBANK N.A.",
+      "segmento": "Banco Comercial Estrangeiro - Filial no país",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CITIBANK.COM.BR"
+    },
+    {
+      "cnpj": "33.132.044",
+      "nome": "BANCO CEDULA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.BANCOCEDULA.COM.BR"
+    },
+    {
+      "cnpj": "33.147.315",
+      "nome": "BANCO BRADESCO BERJ S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": ""
+    },
+    {
+      "cnpj": "33.172.537",
+      "nome": "BANCO J.P. MORGAN S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.JPMORGAN.COM"
+    },
+    {
+      "cnpj": "33.254.319",
+      "nome": "BANCO LOSANGO S.A. - BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW2.LOSANGO.COM.BR"
+    },
+    {
+      "cnpj": "33.466.988",
+      "nome": "BANCO CAIXA GERAL - BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BCGBRASIL.COM.BR"
+    },
+    {
+      "cnpj": "33.479.023",
+      "nome": "BANCO CITIBANK S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CITIBANK.COM.BR"
+    },
+    {
+      "cnpj": "33.603.457",
+      "nome": "BANCO RODOBENS S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.RODOBENSBANCO.COM.BR"
+    },
+    {
+      "cnpj": "33.644.196",
+      "nome": "BANCO FATOR S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOFATOR.COM.BR"
+    },
+    {
+      "cnpj": "33.870.163",
+      "nome": "BANCO ALVORADA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SALVADOR",
+      "uf": "BA",
+      "site": ""
+    },
+    {
+      "cnpj": "33.884.941",
+      "nome": "BANIF - BANCO INTERNACIONAL DO FUNCHAL (BRASIL), S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOBANIF.COM.BR"
+    },
+    {
+      "cnpj": "33.885.724",
+      "nome": "BANCO ITAÚ CONSIGNADO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ITAU.COM.BR"
+    },
+    {
+      "cnpj": "33.923.798",
+      "nome": "BANCO MÁXIMA S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.BANCOMAXIMA.COM.BR"
+    },
+    {
+      "cnpj": "34.270.520",
+      "nome": "BANCO IBM S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.IBM.COM.BR"
+    },
+    {
+      "cnpj": "42.272.526",
+      "nome": "BNY MELLON BANCO S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "HTTPS://WWW.BNYMELLON.COM/BR"
+    },
+    {
+      "cnpj": "43.818.780",
+      "nome": "DAYCOVAL LEASING - BANCO MÚLTIPLO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BARUERI",
+      "uf": "SP",
+      "site": "HTTPS://WWW.DAYCOVAL.COM.BR/PARA-EMPRESA/CREDITOS/LEASING"
+    },
+    {
+      "cnpj": "44.189.447",
+      "nome": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "segmento": "Banco Comercial Estrangeiro - Filial no país",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": ""
+    },
+    {
+      "cnpj": "45.246.410",
+      "nome": "BRASIL PLURAL S.A. BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.BRASILPLURAL.COM"
+    },
+    {
+      "cnpj": "46.518.205",
+      "nome": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+      "segmento": "Banco Comercial Estrangeiro - Filial no país",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.JPMORGANCHASE.COM"
+    },
+    {
+      "cnpj": "48.795.256",
+      "nome": "BANCO ANDBANK (BRASIL) S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ANDBANK-LLA.COM.BR"
+    },
+    {
+      "cnpj": "49.336.860",
+      "nome": "ING BANK N.V.",
+      "segmento": "Banco Comercial Estrangeiro - Filial no país",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ING.COM"
+    },
+    {
+      "cnpj": "49.925.225",
+      "nome": "BANCO ITAULEASING S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "POA",
+      "uf": "SP",
+      "site": "WWW.ITAU.COM.BR"
+    },
+    {
+      "cnpj": "50.585.090",
+      "nome": "BCV - BANCO DE CRÉDITO E VAREJO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOBCV.COM.BR"
+    },
+    {
+      "cnpj": "51.938.876",
+      "nome": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "segmento": "Banco Comercial Estrangeiro - Filial no país",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOREPUBLICA.COM.UY"
+    },
+    {
+      "cnpj": "54.403.563",
+      "nome": "BANCO ARBI S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "site": "WWW.BANCOARBI.COM.BR"
+    },
+    {
+      "cnpj": "55.230.916",
+      "nome": "INTESA SANPAOLO BRASIL S.A. - BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTP://WWW.INTESASANPAOLOBRASIL.COM.BR"
+    },
+    {
+      "cnpj": "57.839.805",
+      "nome": "BANCO TRICURY S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOTRICURY.COM.BR"
+    },
+    {
+      "cnpj": "58.017.179",
+      "nome": "BANCO VOLVO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "WWW.VOLVO.COM.BR"
+    },
+    {
+      "cnpj": "58.160.789",
+      "nome": "BANCO SAFRA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.SAFRA.COM.BR"
+    },
+    {
+      "cnpj": "58.497.702",
+      "nome": "BANCO INTERCAP S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.INTERCAP.COM.BR"
+    },
+    {
+      "cnpj": "58.616.418",
+      "nome": "BANCO FIBRA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOFIBRA.COM.BR"
+    },
+    {
+      "cnpj": "59.109.165",
+      "nome": "BANCO VOLKSWAGEN S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOVW.COM.BR"
+    },
+    {
+      "cnpj": "59.118.133",
+      "nome": "BANCO LUSO BRASILEIRO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.LUSOBRASILEIRO.COM.BR"
+    },
+    {
+      "cnpj": "59.274.605",
+      "nome": "BANCO GMAC S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CHEVROLETSF.COM"
+    },
+    {
+      "cnpj": "59.285.411",
+      "nome": "BANCO PAN S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOPAN.COM.BR"
+    },
+    {
+      "cnpj": "59.438.325",
+      "nome": "BANCO BRADESCO CARTÕES S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "OSASCO",
+      "uf": "SP",
+      "site": "WWW.BRADESCOCARTOES.COM.BR"
+    },
+    {
+      "cnpj": "59.588.111",
+      "nome": "BANCO VOTORANTIM S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOVOTORANTIM.COM.BR"
+    },
+    {
+      "cnpj": "60.394.079",
+      "nome": "BANCO ITAUBANK S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ITAU.COM.BR"
+    },
+    {
+      "cnpj": "60.498.557",
+      "nome": "BANCO DE TOKYO-MITSUBISHI UFJ BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BR.BK.MUFG.JP"
+    },
+    {
+      "cnpj": "60.518.222",
+      "nome": "BANCO SUMITOMO MITSUI BRASILEIRO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.SMBCGROUP.COM.BR"
+    },
+    {
+      "cnpj": "60.701.190",
+      "nome": "ITAÚ UNIBANCO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ITAU.COM.BR"
+    },
+    {
+      "cnpj": "60.746.948",
+      "nome": "BANCO BRADESCO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "OSASCO",
+      "uf": "SP",
+      "site": "WWW.BRADESCO.COM.BR"
+    },
+    {
+      "cnpj": "60.814.191",
+      "nome": "BANCO MERCEDES-BENZ DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOMERCEDESBENZ.COM.BR"
+    },
+    {
+      "cnpj": "60.850.229",
+      "nome": "BANCO PECUNIA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOPECUNIA.COM.BR"
+    },
+    {
+      "cnpj": "60.872.504",
+      "nome": "ITAÚ UNIBANCO HOLDING S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ITAU.COM.BR"
+    },
+    {
+      "cnpj": "60.889.128",
+      "nome": "BANCO SOFISA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.SOFISA.COM.BR"
+    },
+    {
+      "cnpj": "61.024.352",
+      "nome": "BANCO INDUSVAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.INDUSVAL.COM.BR"
+    },
+    {
+      "cnpj": "61.033.106",
+      "nome": "BANCO CREFISA S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CREFISA.COM.BR"
+    },
+    {
+      "cnpj": "61.088.183",
+      "nome": "BANCO MIZUHO DO BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "HTTP://WWW.MIZUHOBANK.COM/BRAZIL/PT/"
+    },
+    {
+      "cnpj": "61.182.408",
+      "nome": "BANCO INVESTCRED UNIBANCO S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ITAU.COM.BR"
+    },
+    {
+      "cnpj": "61.186.680",
+      "nome": "BANCO BMG S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOBMG.COM.BR"
+    },
+    {
+      "cnpj": "61.190.658",
+      "nome": "BANCO ITAÚ VEÍCULOS S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "POA",
+      "uf": "SP",
+      "site": "WWW.BANCOFIAT.COM.BR"
+    },
+    {
+      "cnpj": "61.348.538",
+      "nome": "BANCO FICSA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.FICSA.COM.BR"
+    },
+    {
+      "cnpj": "61.533.584",
+      "nome": "BANCO SOCIETE GENERALE BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.SGCIB.COM.BR"
+    },
+    {
+      "cnpj": "61.820.817",
+      "nome": "BANCO PAULISTA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOPAULISTA.COM.BR"
+    },
+    {
+      "cnpj": "62.073.200",
+      "nome": "BANK OF AMERICA MERRILL LYNCH BANCO MÚLTIPLO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.MERRILLLYNCH-BRASIL.COM.BR/"
+    },
+    {
+      "cnpj": "62.144.175",
+      "nome": "BANCO PINE S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOPINE.COM.BR"
+    },
+    {
+      "cnpj": "62.232.889",
+      "nome": "BANCO DAYCOVAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.DAYCOVAL.COM.BR"
+    },
+    {
+      "cnpj": "62.237.425",
+      "nome": "BANCO FIDIS S/A",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BETIM",
+      "uf": "MG",
+      "site": "WWW.BANCOFIDIS.COM.BR"
+    },
+    {
+      "cnpj": "62.307.848",
+      "nome": "BANCO RCI BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "WWW.BANCORENAULT.COM.BR"
+    },
+    {
+      "cnpj": "62.331.228",
+      "nome": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.DEUTSCHE-BANK.COM.BR"
+    },
+    {
+      "cnpj": "62.421.979",
+      "nome": "BANCO CIFRA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOCIFRA.COM.BR"
+    },
+    {
+      "cnpj": "68.900.810",
+      "nome": "BANCO RENDIMENTO S.A.",
+      "segmento": "Banco Comercial",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.RENDIMENTO.COM.BR"
+    },
+    {
+      "cnpj": "71.027.866",
+      "nome": "BANCO BS2 S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BELO HORIZONTE",
+      "uf": "MG",
+      "site": "WWW.BANCOBONSUCESSO.COM.BR"
+    },
+    {
+      "cnpj": "71.371.686",
+      "nome": "BANCO OLÉ BONSUCESSO CONSIGNADO S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BELO HORIZONTE",
+      "uf": "MG",
+      "site": "WWW.OLECONSIGNADO.COM.BR"
+    },
+    {
+      "cnpj": "74.828.799",
+      "nome": "NOVO BANCO CONTINENTAL S.A. - BANCO MÚLTIPLO",
+      "segmento": "Banco Múltiplo",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.NBCBANK.COM.BR"
+    },
+    {
+      "cnpj": "75.647.891",
+      "nome": "BANCO CRÉDIT AGRICOLE BRASIL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.CA-CIB.COM.BR"
+    },
+    {
+      "cnpj": "76.543.115",
+      "nome": "BANCO SISTEMA S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "WWW.BTGPACTUAL.COM"
+    },
+    {
+      "cnpj": "78.626.983",
+      "nome": "BANCO VR S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "BARUERI",
+      "uf": "SP",
+      "site": "WWW.BANCOVR.COM.BR"
+    },
+    {
+      "cnpj": "78.632.767",
+      "nome": "BANCO OURINVEST S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.OURINVEST.COM.BR"
+    },
+    {
+      "cnpj": "80.271.455",
+      "nome": "BANCO MAXINVEST S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "CURITIBA",
+      "uf": "PR",
+      "site": "WWW.BANCOMAXINVEST.COM.BR"
+    },
+    {
+      "cnpj": "90.400.888",
+      "nome": "BANCO SANTANDER (BRASIL) S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.SANTANDER.COM.BR"
+    },
+    {
+      "cnpj": "90.731.688",
+      "nome": "BANCO FORD S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.BANCOFORD.COM.BR"
+    },
+    {
+      "cnpj": "91.884.981",
+      "nome": "BANCO JOHN DEERE S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "INDAIATUBA",
+      "uf": "SP",
+      "site": "HTTPS://WWW.DEERE.COM.BR/PT/FINANCIAMENTO/BANCO-JOHN-DEERE/"
+    },
+    {
+      "cnpj": "92.702.067",
+      "nome": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.BANRISUL.COM.BR"
+    },
+    {
+      "cnpj": "92.874.270",
+      "nome": "BANCO A.J. RENNER S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "site": "WWW.BANCORENNER.COM.BR"
+    },
+    {
+      "cnpj": "92.894.922",
+      "nome": "BANCO ORIGINAL S.A.",
+      "segmento": "Banco Múltiplo",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "site": "WWW.ORIGINAL.COM.BR"
+    }
+  ],
+  "meta": {
+    "title": "Instituições financeiras do Brasil (BCB) - Download gratuito",
+    "description": "Listagem de instituições financeiras autorizadas pelo Banco Central do Brasil com CNPJ, segmento, município e site Contém 155 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Instituições financeiras do Brasil (BCB) | ListBase",
+    "seo_description": "Baixar Instituições financeiras do Brasil (BCB) — 155 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 155 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

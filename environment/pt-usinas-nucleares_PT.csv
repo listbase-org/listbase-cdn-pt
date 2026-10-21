@@ -1,0 +1,4 @@
+﻿"Name","Latitude","Longitude","Status","Reactor Type","Reactor Model","Construction Start","Operational From","Operational To","Capacity Mw","Iaea Id","Data Source"
+"Angra-1","-23.008","-44.457","Operational","PWR","WH 2LP","1971-05-01","1985-01-01","","609","24","WNA/IAEA"
+"Angra-2","-23.008","-44.457","Operational","PWR","PRE KONVOI","1976-01-01","2001-02-01","","1245","25","WNA/IAEA"
+"Angra-3","-23.01","-44.47","Under Construction","PWR","PRE KONVOI","2010-05-30","","","1340","26","WNA/IAEA"

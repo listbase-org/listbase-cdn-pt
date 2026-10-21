@@ -1,0 +1,115 @@
+{
+  "id": "pt-unidades-medida-speed",
+  "name": "Unidades de medida — categoria 'speed' (6)",
+  "title": "Unidades de medida — categoria 'speed' (6)",
+  "description": "Unidades de medida da categoria 'speed' do locale pt do CLDR, com nomes em português.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "abreviacao",
+      "label": "Abreviacao",
+      "type": "string"
+    },
+    {
+      "key": "estreito",
+      "label": "Estreito",
+      "type": "string"
+    },
+    {
+      "key": "padrao",
+      "label": "Padrao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "categoria": "speed",
+      "nome": "Beaufort",
+      "abreviacao": "Bft",
+      "estreito": "Bft",
+      "padrao": "{0} Beaufort"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "categoria": "speed",
+      "nome": "quilômetros por hora",
+      "abreviacao": "km/h",
+      "estreito": "km/h",
+      "padrao": "{0} quilômetros por hora"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "categoria": "speed",
+      "nome": "nós",
+      "abreviacao": "nó",
+      "estreito": "nó",
+      "padrao": "{0} nós"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "categoria": "speed",
+      "nome": "luz",
+      "abreviacao": "luz",
+      "estreito": "luz",
+      "padrao": "{0} luzes"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "categoria": "speed",
+      "nome": "metros por segundo",
+      "abreviacao": "metros/seg",
+      "estreito": "m/s",
+      "padrao": "{0} metros por segundo"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "categoria": "speed",
+      "nome": "milhas por hora",
+      "abreviacao": "milhas/hora",
+      "estreito": "mph",
+      "padrao": "{0} milhas por hora"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoria 'speed' (6) - Download gratuito",
+    "description": "Unidades de medida da categoria 'speed' do locale pt do CLDR, com nomes em português. Contém 6 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoria 'speed' (6) | ListBase",
+    "seo_description": "Baixar Unidades de medida — categoria 'speed' (6) — 6 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 6 registros / 7 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "id": "pt-br-para-feriados-estaduais",
+  "name": "Feriados Estaduais de Pará (PA) — Brasil (2010–2026)",
+  "title": "Feriados Estaduais de Pará (PA) — Brasil (2010–2026)",
+  "description": "Feriados estaduais do estado brasileiro de Pará (PA) de 2010 a 2026, com nome, data e descrição. Subconjunto por unidade federativa do cadastro nacional pt-br-feriados-estaduais (partição pela coluna nativa `uf`).",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "codigo_ibge",
+      "label": "Codigo Ibge",
+      "type": "string"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "data_iso",
+      "label": "Data Iso",
+      "type": "date"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "15/08/2010",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2010",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2010,
+      "data_iso": "2010-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2011",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2011",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2011,
+      "data_iso": "2011-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2012",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2012",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2012,
+      "data_iso": "2012-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2013",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2013",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2013,
+      "data_iso": "2013-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2014",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2014",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2014,
+      "data_iso": "2014-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2015",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2015",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2015,
+      "data_iso": "2015-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2016",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2016",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2016,
+      "data_iso": "2016-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2017",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2017",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2017,
+      "data_iso": "2017-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2018",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2018",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2018,
+      "data_iso": "2018-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2019",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2019",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2019,
+      "data_iso": "2019-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2020",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2020",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2020,
+      "data_iso": "2020-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2021",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2021",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2021,
+      "data_iso": "2021-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2022",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2022",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2022,
+      "data_iso": "2022-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2023",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2023",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2023,
+      "data_iso": "2023-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2024",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2024",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2024,
+      "data_iso": "2024-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2025",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2025",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2025,
+      "data_iso": "2025-12-08",
+      "estado": "Pará"
+    },
+    {
+      "data": "15/08/2026",
+      "nome": "Adesão ao Império Brasileiro",
+      "tipo": "ESTADUAL",
+      "descricao": "\"A Província do Pará foi a última a ser incorporada ao Império, quando da Independência do Brasil uma vez que, com fortes laços com Portugal, não aceitou fazer parte da nova nação.",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-08-15",
+      "estado": "Pará"
+    },
+    {
+      "data": "08/12/2026",
+      "nome": "N. Sra. Conceição",
+      "tipo": "ESTADUAL",
+      "descricao": "Dia de Nossa Senhora da Conceição",
+      "uf": "PA",
+      "codigo_ibge": "",
+      "ano": 2026,
+      "data_iso": "2026-12-08",
+      "estado": "Pará"
+    }
+  ],
+  "meta": {
+    "title": "Feriados Estaduais de Pará (PA) — Brasil (2010–2026) - Download gratuito",
+    "description": "Feriados estaduais do estado brasileiro de Pará (PA) de 2010 a 2026, com nome, data e descrição. Subconjunto por unidade federativa do cadastro nacional pt-br-feriados-estaduais (partição pela coluna nativa `uf`). Contém 34 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Feriados Estaduais de Pará (PA) — Brasil (2010–2026) | ListBase",
+    "seo_description": "Baixar Feriados Estaduais de Pará (PA) — Brasil (2010–2026) — 34 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 34 registros / 9 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

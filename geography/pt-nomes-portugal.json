@@ -1,0 +1,216 @@
+{
+  "id": "pt-nomes-portugal",
+  "name": "Nomes próprios mais populares em Portugal (Popular Portuguese Forenames)",
+  "title": "Nomes próprios mais populares em Portugal (Popular Portuguese Forenames)",
+  "description": "Os nomes próprios masculinos e femininos mais populares em Portugal (ano de referência 2022), separados por género e ordenados por popularidade.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-PT-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Maria",
+      "romanized": "Maria",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Alice",
+      "romanized": "Alice",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Leonor",
+      "romanized": "Leonor",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Matilde",
+      "romanized": "Matilde",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Benedita",
+      "romanized": "Benedita",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Carolina",
+      "romanized": "Carolina",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Beatriz",
+      "romanized": "Beatriz",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Margarida",
+      "romanized": "Margarida",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Francisca",
+      "romanized": "Francisca",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Camila",
+      "romanized": "Camila",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Francisco",
+      "romanized": "Francisco",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Afonso",
+      "romanized": "Afonso",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "João",
+      "romanized": "João",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Tomás",
+      "romanized": "Tomás",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Duarte",
+      "romanized": "Duarte",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Lourenço",
+      "romanized": "Lourenço",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Santiago",
+      "romanized": "Santiago",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Martim",
+      "romanized": "Martim",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Miguel",
+      "romanized": "Miguel",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PT-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Gabriel",
+      "romanized": "Gabriel",
+      "year": 2022
+    }
+  ],
+  "meta": {
+    "title": "Nomes próprios mais populares em Portugal (Popular Portuguese Forenames) - Download gratuito",
+    "description": "Os nomes próprios masculinos e femininos mais populares em Portugal (ano de referência 2022), separados por género e ordenados por popularidade. Contém 20 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Nomes próprios mais populares em Portugal (Popular Portuguese Forenames) | ListBase",
+    "seo_description": "Baixar Nomes próprios mais populares em Portugal (Popular Portuguese Forenames) — 20 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 20 registros / 6 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

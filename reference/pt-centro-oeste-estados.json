@@ -1,0 +1,133 @@
+{
+  "id": "pt-centro-oeste-estados",
+  "name": "Estados da Região Centro-Oeste — 4 unidades federativas",
+  "title": "Estados da Região Centro-Oeste — 4 unidades federativas",
+  "description": "Lista dos 4 estados que compõem a Região Centro-Oeste do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Centro-Oeste reúne 3 estados e o Distrito Federal, ocupando o centro geográfico do Brasil e abrangendo o Cerrado e parte do Pantanal. Inclui Goiás, Mato Grosso, Mato Grosso do Sul e o Distrito Federal (Brasília).",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "codigo_uf",
+      "label": "Codigo Uf",
+      "type": "number"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao_slug",
+      "label": "Regiao Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "capital_nome",
+      "label": "Capital Nome",
+      "type": "string"
+    },
+    {
+      "key": "capital_codigo_ibge",
+      "label": "Capital Codigo Ibge",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_uf": 53,
+      "uf": "DF",
+      "nome": "Distrito Federal",
+      "slug": "distrito-federal",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -15.83,
+      "longitude": -47.86,
+      "capital_nome": "Brasília",
+      "capital_codigo_ibge": 5300108,
+      "municipios_count": 1
+    },
+    {
+      "codigo_uf": 52,
+      "uf": "GO",
+      "nome": "Goiás",
+      "slug": "goias",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -15.98,
+      "longitude": -49.86,
+      "capital_nome": "Goiânia",
+      "capital_codigo_ibge": 5208707,
+      "municipios_count": 246
+    },
+    {
+      "codigo_uf": 51,
+      "uf": "MT",
+      "nome": "Mato Grosso",
+      "slug": "mato-grosso",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -12.64,
+      "longitude": -55.42,
+      "capital_nome": "Cuiabá",
+      "capital_codigo_ibge": 5103403,
+      "municipios_count": 142
+    },
+    {
+      "codigo_uf": 50,
+      "uf": "MS",
+      "nome": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul",
+      "regiao": "Centro-Oeste",
+      "regiao_slug": "centro-oeste",
+      "latitude": -20.51,
+      "longitude": -54.54,
+      "capital_nome": "Campo Grande",
+      "capital_codigo_ibge": 5002704,
+      "municipios_count": 79
+    }
+  ],
+  "meta": {
+    "title": "Estados da Região Centro-Oeste — 4 unidades federativas - Download gratuito",
+    "description": "Lista dos 4 estados que compõem a Região Centro-Oeste do Brasil segundo a classificação geográfica do IBGE. Cada estado inclui código UF, sigla, nome oficial, centróide geográfico, capital e contagem de municípios. A Região Centro-Oeste reúne 3 estados e o Distrito Federal, ocupando o centro geográfico do Brasil e abrangendo o Cerrado e parte do Pantanal. Inclui Goiás, Mato Grosso, Mato Grosso do Sul e o Distrito Federal (Brasília). Contém 4 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Estados da Região Centro-Oeste — 4 unidades federativas | ListBase",
+    "seo_description": "Baixar Estados da Região Centro-Oeste — 4 unidades federativas — 4 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 4 registros / 11 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}

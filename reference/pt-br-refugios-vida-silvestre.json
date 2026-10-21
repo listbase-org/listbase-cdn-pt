@@ -1,0 +1,286 @@
+{
+  "id": "pt-br-refugios-vida-silvestre",
+  "name": "Refúgio de Vida Silvestre — unidades federais do Brasil (Revis)",
+  "title": "Refúgio de Vida Silvestre — unidades federais do Brasil (Revis)",
+  "description": "10 unidades de conservação federais da categoria Refúgio de Vida Silvestre (Revis, grupo Proteção Integral) geridas pelo ICMBio, com UF, bioma, área e ato legal. Recorte do cadastro pt-br-unidades-conservacao-federais.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "codigo_cnuc",
+      "label": "Codigo Cnuc",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "sigla_categoria",
+      "label": "Sigla Categoria",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "uf_abrangencia",
+      "label": "Uf Abrangencia",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "bioma",
+      "label": "Bioma",
+      "type": "string"
+    },
+    {
+      "key": "bioma_compensacao_reserva_legal",
+      "label": "Bioma Compensacao Reserva Legal",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "ato_legal",
+      "label": "Ato Legal",
+      "type": "string"
+    },
+    {
+      "key": "nucleo_gestao",
+      "label": "Nucleo Gestao",
+      "type": "string"
+    },
+    {
+      "key": "gerencia_regional",
+      "label": "Gerencia Regional",
+      "type": "string"
+    },
+    {
+      "key": "orgao_gestor",
+      "label": "Orgao Gestor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 230,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DA ARARINHA AZUL",
+      "codigo_cnuc": "0000.00.3694",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "BA",
+      "uf_abrangencia": "BA",
+      "estados": "Bahia",
+      "bioma": "CAATINGA",
+      "bioma_compensacao_reserva_legal": "CAATINGA",
+      "area_ha": 29234.7346,
+      "ato_legal": "DEC 9.402 de 05/06/2018",
+      "nucleo_gestao": "ICMBio Juazeiro",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 231,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DA ILHA DOS LOBOS",
+      "codigo_cnuc": "0000.00.0190",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "RS",
+      "uf_abrangencia": "RS",
+      "estados": "Rio Grande do Sul",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 142.3882,
+      "ato_legal": "DEC 88.463, DE 04/07/1983; DEC S/N de 13/02/2006",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 232,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DAS VEREDAS DO OESTE BAIANO",
+      "codigo_cnuc": "0000.00.0219",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "BA",
+      "uf_abrangencia": "BA",
+      "estados": "Bahia",
+      "bioma": "CERRADO",
+      "bioma_compensacao_reserva_legal": "CERRADO",
+      "area_ha": 128050.5526,
+      "ato_legal": "DEC S/N de 13/12/2002; DEC S/N de 11/06/2010",
+      "nucleo_gestao": "ICMBio Mambaí",
+      "gerencia_regional": "GR3",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 233,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DE BOA NOVA",
+      "codigo_cnuc": "0000.00.1907",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "BA",
+      "uf_abrangencia": "BA",
+      "estados": "Bahia",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 14833.5473,
+      "ato_legal": "DEC S/N, de 11/06/2010",
+      "nucleo_gestao": "ICMBio Sudoeste Baiano",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 234,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DE SANTA CRUZ",
+      "codigo_cnuc": "0000.00.1911",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "ES",
+      "uf_abrangencia": "ES",
+      "estados": "Espírito Santo",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 17749.9983,
+      "ato_legal": "DEC S/N de 17/06/2010",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 235,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DE UNA",
+      "codigo_cnuc": "0000.00.1880",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "BA",
+      "uf_abrangencia": "BA",
+      "estados": "Bahia",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 23262.0858,
+      "ato_legal": "DEC S/N de 21/12/2007",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 236,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DO ARQUIPÉLAGO DE ALCATRAZES",
+      "codigo_cnuc": "0000.00.3432",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "SP",
+      "uf_abrangencia": "SP",
+      "estados": "São Paulo",
+      "bioma": "SISTEMA COSTEIRO-MARINHO",
+      "bioma_compensacao_reserva_legal": "SISTEMA COSTEIRO-MARINHO",
+      "area_ha": 67479.2905,
+      "ato_legal": "DEC S/N de 02/08/2016",
+      "nucleo_gestao": "ICMBio Alcatrazes",
+      "gerencia_regional": "GR4",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 237,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DO RIO DOS FRADES",
+      "codigo_cnuc": "0000.00.1813",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "BA",
+      "uf_abrangencia": "BA",
+      "estados": "Bahia",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 971.1329,
+      "ato_legal": "DEC S/N de 21/12/2007",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR2",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 238,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DO SAUIM-DE-COLEIRA",
+      "codigo_cnuc": "0000.00.4854",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "AM",
+      "uf_abrangencia": "AM",
+      "estados": "Amazonas",
+      "bioma": "AMAZÔNIA",
+      "bioma_compensacao_reserva_legal": "AMAZÔNIA",
+      "area_ha": 15289.5921,
+      "ato_legal": "Decreto n┬░ 12.047, de 5 de junho de 2024",
+      "nucleo_gestao": "Gestão singular",
+      "gerencia_regional": "GR1",
+      "orgao_gestor": "ICMBio"
+    },
+    {
+      "numero": 239,
+      "nome": "REFÚGIO DE VIDA SILVESTRE DOS CAMPOS DE PALMAS",
+      "codigo_cnuc": "0000.00.0278",
+      "categoria": "Refúgio de Vida Silvestre",
+      "sigla_categoria": "Revis",
+      "grupo": "Proteção Integral",
+      "ufs": "PR, SC",
+      "uf_abrangencia": "PR/SC",
+      "estados": "Paraná, Santa Catarina",
+      "bioma": "MATA ATLÂNTICA",
+      "bioma_compensacao_reserva_legal": "MATA ATLÂNTICA",
+      "area_ha": 16594.287,
+      "ato_legal": "DEC S/N de 03/04/2006",
+      "nucleo_gestao": "ICMBio Palmas",
+      "gerencia_regional": "GR5",
+      "orgao_gestor": "ICMBio"
+    }
+  ],
+  "meta": {
+    "title": "Refúgio de Vida Silvestre — unidades federais do Brasil (Revis) - Download gratuito",
+    "description": "10 unidades de conservação federais da categoria Refúgio de Vida Silvestre (Revis, grupo Proteção Integral) geridas pelo ICMBio, com UF, bioma, área e ato legal. Recorte do cadastro pt-br-unidades-conservacao-federais. Contém 10 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "Refúgio de Vida Silvestre — unidades federais do Brasil (Revis) | ListBase",
+    "seo_description": "Baixar Refúgio de Vida Silvestre — unidades federais do Brasil (Revis) — 10 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 10 registros / 16 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: open data"
+    ]
+  }
+}

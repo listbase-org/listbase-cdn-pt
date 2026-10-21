@@ -1,0 +1,808 @@
+{
+  "id": "pt-ddds",
+  "name": "DDDs do Brasil — códigos de área telefônica ANATEL",
+  "title": "DDDs do Brasil — códigos de área telefônica ANATEL",
+  "description": "Lista dos códigos DDD (Discagem Direta à Distância) brasileiros definidos pela ANATEL, derivados da atribuição município-a-DDD da base kelvins/municipios-brasileiros. Cada DDD inclui as UFs cobertas, os estados, regiões geográficas IBGE, total de municípios atendidos e a capital quando o DDD a contém. Cobre as queries do tipo 'DDD {número}', 'que cidade é DDD {nn}' e 'lista de DDDs por estado'. Nota: alguns DDDs (ex.: 11 em São Paulo, 21 no Rio de Janeiro) cobrem predominantemente uma UF; outros podem cruzar limites estaduais — todas as UFs cobertas são preservadas no campo 'ufs'.",
+  "category": "reference",
+  "source": "https://github.com/kelvins/municipios-brasileiros",
+  "source_url": "https://github.com/kelvins/municipios-brasileiros",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "ddd",
+      "label": "Ddd",
+      "type": "number"
+    },
+    {
+      "key": "ddd_str",
+      "label": "Ddd Str",
+      "type": "number"
+    },
+    {
+      "key": "municipios_count",
+      "label": "Municipios Count",
+      "type": "number"
+    },
+    {
+      "key": "capitais_count",
+      "label": "Capitais Count",
+      "type": "number"
+    },
+    {
+      "key": "ufs",
+      "label": "Ufs",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "regioes",
+      "label": "Regioes",
+      "type": "string"
+    },
+    {
+      "key": "principal_uf",
+      "label": "Principal Uf",
+      "type": "string"
+    },
+    {
+      "key": "principal_capital",
+      "label": "Principal Capital",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ddd": 11,
+      "ddd_str": "11",
+      "municipios_count": 64,
+      "capitais_count": 1,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": "São Paulo"
+    },
+    {
+      "ddd": 12,
+      "ddd_str": "12",
+      "municipios_count": 38,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 13,
+      "ddd_str": "13",
+      "municipios_count": 22,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 14,
+      "ddd_str": "14",
+      "municipios_count": 100,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 15,
+      "ddd_str": "15",
+      "municipios_count": 49,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 16,
+      "ddd_str": "16",
+      "municipios_count": 74,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 17,
+      "ddd_str": "17",
+      "municipios_count": 117,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 18,
+      "ddd_str": "18",
+      "municipios_count": 108,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 19,
+      "ddd_str": "19",
+      "municipios_count": 73,
+      "capitais_count": 0,
+      "ufs": "SP",
+      "estados": "São Paulo",
+      "regioes": "Sudeste",
+      "principal_uf": "SP",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 21,
+      "ddd_str": "21",
+      "municipios_count": 23,
+      "capitais_count": 1,
+      "ufs": "RJ",
+      "estados": "Rio de Janeiro",
+      "regioes": "Sudeste",
+      "principal_uf": "RJ",
+      "principal_capital": "Rio de Janeiro"
+    },
+    {
+      "ddd": 22,
+      "ddd_str": "22",
+      "municipios_count": 43,
+      "capitais_count": 0,
+      "ufs": "RJ",
+      "estados": "Rio de Janeiro",
+      "regioes": "Sudeste",
+      "principal_uf": "RJ",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 24,
+      "ddd_str": "24",
+      "municipios_count": 26,
+      "capitais_count": 0,
+      "ufs": "RJ",
+      "estados": "Rio de Janeiro",
+      "regioes": "Sudeste",
+      "principal_uf": "RJ",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 27,
+      "ddd_str": "27",
+      "municipios_count": 50,
+      "capitais_count": 1,
+      "ufs": "ES",
+      "estados": "Espírito Santo",
+      "regioes": "Sudeste",
+      "principal_uf": "ES",
+      "principal_capital": "Vitória"
+    },
+    {
+      "ddd": 28,
+      "ddd_str": "28",
+      "municipios_count": 28,
+      "capitais_count": 0,
+      "ufs": "ES",
+      "estados": "Espírito Santo",
+      "regioes": "Sudeste",
+      "principal_uf": "ES",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 31,
+      "ddd_str": "31",
+      "municipios_count": 139,
+      "capitais_count": 1,
+      "ufs": "MG",
+      "estados": "Minas Gerais",
+      "regioes": "Sudeste",
+      "principal_uf": "MG",
+      "principal_capital": "Belo Horizonte"
+    },
+    {
+      "ddd": 32,
+      "ddd_str": "32",
+      "municipios_count": 122,
+      "capitais_count": 0,
+      "ufs": "MG",
+      "estados": "Minas Gerais",
+      "regioes": "Sudeste",
+      "principal_uf": "MG",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 33,
+      "ddd_str": "33",
+      "municipios_count": 175,
+      "capitais_count": 0,
+      "ufs": "MG",
+      "estados": "Minas Gerais",
+      "regioes": "Sudeste",
+      "principal_uf": "MG",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 34,
+      "ddd_str": "34",
+      "municipios_count": 70,
+      "capitais_count": 0,
+      "ufs": "MG",
+      "estados": "Minas Gerais",
+      "regioes": "Sudeste",
+      "principal_uf": "MG",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 35,
+      "ddd_str": "35",
+      "municipios_count": 159,
+      "capitais_count": 0,
+      "ufs": "MG",
+      "estados": "Minas Gerais",
+      "regioes": "Sudeste",
+      "principal_uf": "MG",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 37,
+      "ddd_str": "37",
+      "municipios_count": 61,
+      "capitais_count": 0,
+      "ufs": "MG",
+      "estados": "Minas Gerais",
+      "regioes": "Sudeste",
+      "principal_uf": "MG",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 38,
+      "ddd_str": "38",
+      "municipios_count": 127,
+      "capitais_count": 0,
+      "ufs": "MG",
+      "estados": "Minas Gerais",
+      "regioes": "Sudeste",
+      "principal_uf": "MG",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 41,
+      "ddd_str": "41",
+      "municipios_count": 35,
+      "capitais_count": 1,
+      "ufs": "PR",
+      "estados": "Paraná",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": "Curitiba"
+    },
+    {
+      "ddd": 42,
+      "ddd_str": "42",
+      "municipios_count": 57,
+      "capitais_count": 0,
+      "ufs": "PR, SC",
+      "estados": "Paraná, Santa Catarina",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 43,
+      "ddd_str": "43",
+      "municipios_count": 98,
+      "capitais_count": 0,
+      "ufs": "PR",
+      "estados": "Paraná",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 44,
+      "ddd_str": "44",
+      "municipios_count": 124,
+      "capitais_count": 0,
+      "ufs": "PR",
+      "estados": "Paraná",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 45,
+      "ddd_str": "45",
+      "municipios_count": 41,
+      "capitais_count": 0,
+      "ufs": "PR",
+      "estados": "Paraná",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 46,
+      "ddd_str": "46",
+      "municipios_count": 43,
+      "capitais_count": 0,
+      "ufs": "PR",
+      "estados": "Paraná",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 47,
+      "ddd_str": "47",
+      "municipios_count": 79,
+      "capitais_count": 0,
+      "ufs": "PR, SC",
+      "estados": "Paraná, Santa Catarina",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 48,
+      "ddd_str": "48",
+      "municipios_count": 67,
+      "capitais_count": 1,
+      "ufs": "SC",
+      "estados": "Santa Catarina",
+      "regioes": "Sul",
+      "principal_uf": "SC",
+      "principal_capital": "Florianópolis"
+    },
+    {
+      "ddd": 49,
+      "ddd_str": "49",
+      "municipios_count": 150,
+      "capitais_count": 0,
+      "ufs": "PR, SC",
+      "estados": "Paraná, Santa Catarina",
+      "regioes": "Sul",
+      "principal_uf": "PR",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 51,
+      "ddd_str": "51",
+      "municipios_count": 157,
+      "capitais_count": 1,
+      "ufs": "RS",
+      "estados": "Rio Grande do Sul",
+      "regioes": "Sul",
+      "principal_uf": "RS",
+      "principal_capital": "Porto Alegre"
+    },
+    {
+      "ddd": 53,
+      "ddd_str": "53",
+      "municipios_count": 25,
+      "capitais_count": 0,
+      "ufs": "RS",
+      "estados": "Rio Grande do Sul",
+      "regioes": "Sul",
+      "principal_uf": "RS",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 54,
+      "ddd_str": "54",
+      "municipios_count": 155,
+      "capitais_count": 0,
+      "ufs": "RS",
+      "estados": "Rio Grande do Sul",
+      "regioes": "Sul",
+      "principal_uf": "RS",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 55,
+      "ddd_str": "55",
+      "municipios_count": 160,
+      "capitais_count": 0,
+      "ufs": "RS",
+      "estados": "Rio Grande do Sul",
+      "regioes": "Sul",
+      "principal_uf": "RS",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 61,
+      "ddd_str": "61",
+      "municipios_count": 13,
+      "capitais_count": 1,
+      "ufs": "DF, GO",
+      "estados": "Distrito Federal, Goiás",
+      "regioes": "Centro-Oeste",
+      "principal_uf": "DF",
+      "principal_capital": "Brasília"
+    },
+    {
+      "ddd": 62,
+      "ddd_str": "62",
+      "municipios_count": 132,
+      "capitais_count": 1,
+      "ufs": "GO",
+      "estados": "Goiás",
+      "regioes": "Centro-Oeste",
+      "principal_uf": "GO",
+      "principal_capital": "Goiânia"
+    },
+    {
+      "ddd": 63,
+      "ddd_str": "63",
+      "municipios_count": 139,
+      "capitais_count": 1,
+      "ufs": "TO",
+      "estados": "Tocantins",
+      "regioes": "Norte",
+      "principal_uf": "TO",
+      "principal_capital": "Palmas"
+    },
+    {
+      "ddd": 64,
+      "ddd_str": "64",
+      "municipios_count": 102,
+      "capitais_count": 0,
+      "ufs": "GO",
+      "estados": "Goiás",
+      "regioes": "Centro-Oeste",
+      "principal_uf": "GO",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 65,
+      "ddd_str": "65",
+      "municipios_count": 51,
+      "capitais_count": 1,
+      "ufs": "MT",
+      "estados": "Mato Grosso",
+      "regioes": "Centro-Oeste",
+      "principal_uf": "MT",
+      "principal_capital": "Cuiabá"
+    },
+    {
+      "ddd": 66,
+      "ddd_str": "66",
+      "municipios_count": 91,
+      "capitais_count": 0,
+      "ufs": "MT",
+      "estados": "Mato Grosso",
+      "regioes": "Centro-Oeste",
+      "principal_uf": "MT",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 67,
+      "ddd_str": "67",
+      "municipios_count": 79,
+      "capitais_count": 1,
+      "ufs": "MS",
+      "estados": "Mato Grosso do Sul",
+      "regioes": "Centro-Oeste",
+      "principal_uf": "MS",
+      "principal_capital": "Campo Grande"
+    },
+    {
+      "ddd": 68,
+      "ddd_str": "68",
+      "municipios_count": 22,
+      "capitais_count": 1,
+      "ufs": "AC",
+      "estados": "Acre",
+      "regioes": "Norte",
+      "principal_uf": "AC",
+      "principal_capital": "Rio Branco"
+    },
+    {
+      "ddd": 69,
+      "ddd_str": "69",
+      "municipios_count": 52,
+      "capitais_count": 1,
+      "ufs": "RO",
+      "estados": "Rondônia",
+      "regioes": "Norte",
+      "principal_uf": "RO",
+      "principal_capital": "Porto Velho"
+    },
+    {
+      "ddd": 71,
+      "ddd_str": "71",
+      "municipios_count": 15,
+      "capitais_count": 1,
+      "ufs": "BA",
+      "estados": "Bahia",
+      "regioes": "Nordeste",
+      "principal_uf": "BA",
+      "principal_capital": "Salvador"
+    },
+    {
+      "ddd": 73,
+      "ddd_str": "73",
+      "municipios_count": 91,
+      "capitais_count": 0,
+      "ufs": "BA",
+      "estados": "Bahia",
+      "regioes": "Nordeste",
+      "principal_uf": "BA",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 74,
+      "ddd_str": "74",
+      "municipios_count": 60,
+      "capitais_count": 0,
+      "ufs": "BA",
+      "estados": "Bahia",
+      "regioes": "Nordeste",
+      "principal_uf": "BA",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 75,
+      "ddd_str": "75",
+      "municipios_count": 143,
+      "capitais_count": 0,
+      "ufs": "BA",
+      "estados": "Bahia",
+      "regioes": "Nordeste",
+      "principal_uf": "BA",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 77,
+      "ddd_str": "77",
+      "municipios_count": 108,
+      "capitais_count": 0,
+      "ufs": "BA",
+      "estados": "Bahia",
+      "regioes": "Nordeste",
+      "principal_uf": "BA",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 79,
+      "ddd_str": "79",
+      "municipios_count": 75,
+      "capitais_count": 1,
+      "ufs": "SE",
+      "estados": "Sergipe",
+      "regioes": "Nordeste",
+      "principal_uf": "SE",
+      "principal_capital": "Aracaju"
+    },
+    {
+      "ddd": 81,
+      "ddd_str": "81",
+      "municipios_count": 98,
+      "capitais_count": 1,
+      "ufs": "PE",
+      "estados": "Pernambuco",
+      "regioes": "Nordeste",
+      "principal_uf": "PE",
+      "principal_capital": "Recife"
+    },
+    {
+      "ddd": 82,
+      "ddd_str": "82",
+      "municipios_count": 102,
+      "capitais_count": 1,
+      "ufs": "AL",
+      "estados": "Alagoas",
+      "regioes": "Nordeste",
+      "principal_uf": "AL",
+      "principal_capital": "Maceió"
+    },
+    {
+      "ddd": 83,
+      "ddd_str": "83",
+      "municipios_count": 223,
+      "capitais_count": 1,
+      "ufs": "PB",
+      "estados": "Paraíba",
+      "regioes": "Nordeste",
+      "principal_uf": "PB",
+      "principal_capital": "João Pessoa"
+    },
+    {
+      "ddd": 84,
+      "ddd_str": "84",
+      "municipios_count": 167,
+      "capitais_count": 1,
+      "ufs": "RN",
+      "estados": "Rio Grande do Norte",
+      "regioes": "Nordeste",
+      "principal_uf": "RN",
+      "principal_capital": "Natal"
+    },
+    {
+      "ddd": 85,
+      "ddd_str": "85",
+      "municipios_count": 43,
+      "capitais_count": 1,
+      "ufs": "CE",
+      "estados": "Ceará",
+      "regioes": "Nordeste",
+      "principal_uf": "CE",
+      "principal_capital": "Fortaleza"
+    },
+    {
+      "ddd": 86,
+      "ddd_str": "86",
+      "municipios_count": 84,
+      "capitais_count": 1,
+      "ufs": "PI",
+      "estados": "Piauí",
+      "regioes": "Nordeste",
+      "principal_uf": "PI",
+      "principal_capital": "Teresina"
+    },
+    {
+      "ddd": 87,
+      "ddd_str": "87",
+      "municipios_count": 87,
+      "capitais_count": 0,
+      "ufs": "PE",
+      "estados": "Pernambuco",
+      "regioes": "Nordeste",
+      "principal_uf": "PE",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 88,
+      "ddd_str": "88",
+      "municipios_count": 141,
+      "capitais_count": 0,
+      "ufs": "CE",
+      "estados": "Ceará",
+      "regioes": "Nordeste",
+      "principal_uf": "CE",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 89,
+      "ddd_str": "89",
+      "municipios_count": 140,
+      "capitais_count": 0,
+      "ufs": "PI",
+      "estados": "Piauí",
+      "regioes": "Nordeste",
+      "principal_uf": "PI",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 91,
+      "ddd_str": "91",
+      "municipios_count": 81,
+      "capitais_count": 1,
+      "ufs": "PA",
+      "estados": "Pará",
+      "regioes": "Norte",
+      "principal_uf": "PA",
+      "principal_capital": "Belém"
+    },
+    {
+      "ddd": 92,
+      "ddd_str": "92",
+      "municipios_count": 24,
+      "capitais_count": 1,
+      "ufs": "AM",
+      "estados": "Amazonas",
+      "regioes": "Norte",
+      "principal_uf": "AM",
+      "principal_capital": "Manaus"
+    },
+    {
+      "ddd": 93,
+      "ddd_str": "93",
+      "municipios_count": 26,
+      "capitais_count": 0,
+      "ufs": "PA",
+      "estados": "Pará",
+      "regioes": "Norte",
+      "principal_uf": "PA",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 94,
+      "ddd_str": "94",
+      "municipios_count": 37,
+      "capitais_count": 0,
+      "ufs": "PA",
+      "estados": "Pará",
+      "regioes": "Norte",
+      "principal_uf": "PA",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 95,
+      "ddd_str": "95",
+      "municipios_count": 15,
+      "capitais_count": 1,
+      "ufs": "RR",
+      "estados": "Roraima",
+      "regioes": "Norte",
+      "principal_uf": "RR",
+      "principal_capital": "Boa Vista"
+    },
+    {
+      "ddd": 96,
+      "ddd_str": "96",
+      "municipios_count": 16,
+      "capitais_count": 1,
+      "ufs": "AP",
+      "estados": "Amapá",
+      "regioes": "Norte",
+      "principal_uf": "AP",
+      "principal_capital": "Macapá"
+    },
+    {
+      "ddd": 97,
+      "ddd_str": "97",
+      "municipios_count": 38,
+      "capitais_count": 0,
+      "ufs": "AM",
+      "estados": "Amazonas",
+      "regioes": "Norte",
+      "principal_uf": "AM",
+      "principal_capital": ""
+    },
+    {
+      "ddd": 98,
+      "ddd_str": "98",
+      "municipios_count": 115,
+      "capitais_count": 1,
+      "ufs": "MA",
+      "estados": "Maranhão",
+      "regioes": "Nordeste",
+      "principal_uf": "MA",
+      "principal_capital": "São Luís"
+    },
+    {
+      "ddd": 99,
+      "ddd_str": "99",
+      "municipios_count": 102,
+      "capitais_count": 0,
+      "ufs": "MA",
+      "estados": "Maranhão",
+      "regioes": "Nordeste",
+      "principal_uf": "MA",
+      "principal_capital": ""
+    }
+  ],
+  "meta": {
+    "title": "DDDs do Brasil — códigos de área telefônica ANATEL - Download gratuito",
+    "description": "Lista dos códigos DDD (Discagem Direta à Distância) brasileiros definidos pela ANATEL, derivados da atribuição município-a-DDD da base kelvins/municipios-brasileiros. Cada DDD inclui as UFs cobertas, os estados, regiões geográficas IBGE, total de municípios atendidos e a capital quando o DDD a contém. Cobre as queries do tipo 'DDD {número}', 'que cidade é DDD {nn}' e 'lista de DDDs por estado'. Nota: alguns DDDs (ex.: 11 em São Paulo, 21 no Rio de Janeiro) cobrem predominantemente uma UF; outros podem cruzar limites estaduais — todas as UFs cobertas são preservadas no campo 'ufs'. Contém 67 registros. Baixar em formatos Excel, CSV, PDF.",
+    "seo_title": "DDDs do Brasil — códigos de área telefônica ANATEL | ListBase",
+    "seo_description": "Baixar DDDs do Brasil — códigos de área telefônica ANATEL — 67 registros. Disponível em formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contém 67 registros / 9 campos",
+      "Download gratuito em formatos Excel, CSV e PDF",
+      "Fonte de dados: https://github.com/kelvins/municipios-brasileiros"
+    ]
+  }
+}
