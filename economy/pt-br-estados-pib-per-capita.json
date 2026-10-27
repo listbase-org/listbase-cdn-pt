@@ -1,0 +1,214 @@
+{
+  "id": "pt-br-estados-pib-per-capita",
+  "name": "Unidades federativas do Brasil por PIB per capita",
+  "title": "Unidades federativas do Brasil por PIB per capita",
+  "description": "Ranking dos estados brasileiros pelo PIB per capita (R$, 2023, IBGE) e razão em relação à média nacional.",
+  "category": "economy",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB_per_capita",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB_per_capita",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "unidade_federativa",
+      "label": "Unidade Federativa",
+      "type": "string"
+    },
+    {
+      "key": "pib_per_capita_reais",
+      "label": "Pib Per Capita Reais",
+      "type": "number"
+    },
+    {
+      "key": "razao_uf_brasil",
+      "label": "Razao Uf Brasil",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": 1,
+      "unidade_federativa": "Distrito Federal",
+      "pib_per_capita_reais": 129790.44,
+      "razao_uf_brasil": 2.41
+    },
+    {
+      "posicao": 2,
+      "unidade_federativa": "São Paulo",
+      "pib_per_capita_reais": 77566.27,
+      "razao_uf_brasil": 1.44
+    },
+    {
+      "posicao": 3,
+      "unidade_federativa": "Mato Grosso",
+      "pib_per_capita_reais": 74620.05,
+      "razao_uf_brasil": 1.38
+    },
+    {
+      "posicao": 4,
+      "unidade_federativa": "Rio de Janeiro",
+      "pib_per_capita_reais": 73052.55,
+      "razao_uf_brasil": 1.36
+    },
+    {
+      "posicao": 5,
+      "unidade_federativa": "Santa Catarina",
+      "pib_per_capita_reais": 67459.74,
+      "razao_uf_brasil": 1.25
+    },
+    {
+      "posicao": 6,
+      "unidade_federativa": "Mato Grosso do Sul",
+      "pib_per_capita_reais": 66884.75,
+      "razao_uf_brasil": 1.24
+    },
+    {
+      "posicao": 7,
+      "unidade_federativa": "Rio Grande do Sul",
+      "pib_per_capita_reais": 59736.2,
+      "razao_uf_brasil": 1.11
+    },
+    {
+      "posicao": 8,
+      "unidade_federativa": "Paraná",
+      "pib_per_capita_reais": 58624.33,
+      "razao_uf_brasil": 1.09
+    },
+    {
+      "posicao": 9,
+      "unidade_federativa": "Espírito Santo",
+      "pib_per_capita_reais": 54732.78,
+      "razao_uf_brasil": 1.02
+    },
+    {
+      "posicao": 10,
+      "unidade_federativa": "Rondônia",
+      "pib_per_capita_reais": 48353.38,
+      "razao_uf_brasil": 0.9
+    },
+    {
+      "posicao": 11,
+      "unidade_federativa": "Goiás",
+      "pib_per_capita_reais": 47721.56,
+      "razao_uf_brasil": 0.89
+    },
+    {
+      "posicao": 12,
+      "unidade_federativa": "Minas Gerais",
+      "pib_per_capita_reais": 47321.23,
+      "razao_uf_brasil": 0.88
+    },
+    {
+      "posicao": 13,
+      "unidade_federativa": "Tocantins",
+      "pib_per_capita_reais": 42553.36,
+      "razao_uf_brasil": 0.79
+    },
+    {
+      "posicao": 14,
+      "unidade_federativa": "Amazonas",
+      "pib_per_capita_reais": 41047.91,
+      "razao_uf_brasil": 0.76
+    },
+    {
+      "posicao": 15,
+      "unidade_federativa": "Roraima",
+      "pib_per_capita_reais": 39460.54,
+      "razao_uf_brasil": 0.73
+    },
+    {
+      "posicao": 16,
+      "unidade_federativa": "Amapá",
+      "pib_per_capita_reais": 38187.09,
+      "razao_uf_brasil": 0.71
+    },
+    {
+      "posicao": 17,
+      "unidade_federativa": "Acre",
+      "pib_per_capita_reais": 31675.6,
+      "razao_uf_brasil": 0.59
+    },
+    {
+      "posicao": 18,
+      "unidade_federativa": "Pará",
+      "pib_per_capita_reais": 31347.59,
+      "razao_uf_brasil": 0.58
+    },
+    {
+      "posicao": 19,
+      "unidade_federativa": "Rio Grande do Norte",
+      "pib_per_capita_reais": 30804.91,
+      "razao_uf_brasil": 0.57
+    },
+    {
+      "posicao": 20,
+      "unidade_federativa": "Bahia",
+      "pib_per_capita_reais": 30476.54,
+      "razao_uf_brasil": 0.57
+    },
+    {
+      "posicao": 21,
+      "unidade_federativa": "Pernambuco",
+      "pib_per_capita_reais": 29857.27,
+      "razao_uf_brasil": 0.55
+    },
+    {
+      "posicao": 22,
+      "unidade_federativa": "Alagoas",
+      "pib_per_capita_reais": 28675.84,
+      "razao_uf_brasil": 0.53
+    },
+    {
+      "posicao": 23,
+      "unidade_federativa": "Sergipe",
+      "pib_per_capita_reais": 27518.8,
+      "razao_uf_brasil": 0.51
+    },
+    {
+      "posicao": 24,
+      "unidade_federativa": "Ceará",
+      "pib_per_capita_reais": 26405.96,
+      "razao_uf_brasil": 0.49
+    },
+    {
+      "posicao": 25,
+      "unidade_federativa": "Piauí",
+      "pib_per_capita_reais": 24736.15,
+      "razao_uf_brasil": 0.46
+    },
+    {
+      "posicao": 26,
+      "unidade_federativa": "Paraíba",
+      "pib_per_capita_reais": 24395.17,
+      "razao_uf_brasil": 0.45
+    },
+    {
+      "posicao": 27,
+      "unidade_federativa": "Maranhão",
+      "pib_per_capita_reais": 22020.63,
+      "razao_uf_brasil": 0.41
+    },
+    {
+      "posicao": "",
+      "unidade_federativa": "Brasil",
+      "pib_per_capita_reais": 53886.67,
+      "razao_uf_brasil": 1
+    }
+  ],
+  "meta": {
+    "title": "Unidades federativas do Brasil por PIB per capita - Free Download",
+    "description": "Ranking dos estados brasileiros pelo PIB per capita (R$, 2023, IBGE) e razão em relação à média nacional. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unidades federativas do Brasil por PIB per capita | ListBase",
+    "seo_description": "Download Unidades federativas do Brasil por PIB per capita — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB_per_capita"
+    ]
+  }
+}
