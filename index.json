@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:25.008Z",
-  "total_datasets": 482,
-  "total_records": 738939,
+  "generated": "2026-10-27T02:17:27.696Z",
+  "total_datasets": 483,
+  "total_records": 738960,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -216,6 +216,35 @@
         "xlsx": {
           "name": "pt-br-estados-pib-per-capita_PT.xlsx",
           "size": 7721
+        }
+      }
+    },
+    {
+      "id": "pt-br-maiores-empresas-forbes",
+      "name": "Maiores empresas do Brasil (Forbes Global 2000)",
+      "category": "economy",
+      "record_count": 21,
+      "columns": [
+        "posicao",
+        "posicao_forbes_global_2000",
+        "empresa",
+        "receita_bi_usd",
+        "lucro_bi_usd",
+        "ativos_bi_usd",
+        "valor_mercado_bi_usd",
+        "setor"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_do_Brasil",
+      "updated": "2026-10",
+      "size": 7668,
+      "files": {
+        "csv": {
+          "name": "pt-br-maiores-empresas-forbes_PT.csv",
+          "size": 1552
+        },
+        "xlsx": {
+          "name": "pt-br-maiores-empresas-forbes_PT.xlsx",
+          "size": 8213
         }
       }
     },

@@ -1,0 +1,276 @@
+{
+  "id": "pt-br-maiores-empresas-forbes",
+  "name": "Maiores empresas do Brasil (Forbes Global 2000)",
+  "title": "Maiores empresas do Brasil (Forbes Global 2000)",
+  "description": "As maiores empresas brasileiras na lista Forbes Global 2000, com receita, lucro, ativos e valor de mercado (US$ bilhões) e setor.",
+  "category": "economy",
+  "source": "https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "posicao_forbes_global_2000",
+      "label": "Posicao Forbes Global 2000",
+      "type": "number"
+    },
+    {
+      "key": "empresa",
+      "label": "Empresa",
+      "type": "string"
+    },
+    {
+      "key": "receita_bi_usd",
+      "label": "Receita Bi Usd",
+      "type": "number"
+    },
+    {
+      "key": "lucro_bi_usd",
+      "label": "Lucro Bi Usd",
+      "type": "number"
+    },
+    {
+      "key": "ativos_bi_usd",
+      "label": "Ativos Bi Usd",
+      "type": "number"
+    },
+    {
+      "key": "valor_mercado_bi_usd",
+      "label": "Valor Mercado Bi Usd",
+      "type": "number"
+    },
+    {
+      "key": "setor",
+      "label": "Setor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": "1",
+      "posicao_forbes_global_2000": "58",
+      "empresa": "Petrobras",
+      "receita_bi_usd": 124.17,
+      "lucro_bi_usd": 36.47,
+      "ativos_bi_usd": 184.9,
+      "valor_mercado_bi_usd": 63.03,
+      "setor": "Petróleo e gás"
+    },
+    {
+      "posicao": "2",
+      "posicao_forbes_global_2000": "98",
+      "empresa": "Itaú Unibanco",
+      "receita_bi_usd": 53.17,
+      "lucro_bi_usd": 5.75,
+      "ativos_bi_usd": 441.4,
+      "valor_mercado_bi_usd": 51.28,
+      "setor": "Bancário"
+    },
+    {
+      "posicao": "3",
+      "posicao_forbes_global_2000": "139",
+      "empresa": "Vale",
+      "receita_bi_usd": 41.43,
+      "lucro_bi_usd": 15.98,
+      "ativos_bi_usd": 87.72,
+      "valor_mercado_bi_usd": 61.72,
+      "setor": "Mineração"
+    },
+    {
+      "posicao": "4",
+      "posicao_forbes_global_2000": "171",
+      "empresa": "Banco do Brasil",
+      "receita_bi_usd": 53.98,
+      "lucro_bi_usd": 5.76,
+      "ativos_bi_usd": 380.27,
+      "valor_mercado_bi_usd": 24.85,
+      "setor": "Bancário"
+    },
+    {
+      "posicao": "5",
+      "posicao_forbes_global_2000": "173",
+      "empresa": "Bradesco",
+      "receita_bi_usd": 56.26,
+      "lucro_bi_usd": 3.49,
+      "ativos_bi_usd": 357.45,
+      "valor_mercado_bi_usd": 31.6,
+      "setor": "Bancário"
+    },
+    {
+      "posicao": "6",
+      "posicao_forbes_global_2000": "372",
+      "empresa": "BTG Pactual",
+      "receita_bi_usd": 15.49,
+      "lucro_bi_usd": 1.52,
+      "ativos_bi_usd": 85.35,
+      "valor_mercado_bi_usd": 50.77,
+      "setor": "Bancário"
+    },
+    {
+      "posicao": "7",
+      "posicao_forbes_global_2000": "563",
+      "empresa": "JBS",
+      "receita_bi_usd": 72.58,
+      "lucro_bi_usd": 2.99,
+      "ativos_bi_usd": 39.42,
+      "valor_mercado_bi_usd": 8.16,
+      "setor": "Alimentação"
+    },
+    {
+      "posicao": "8",
+      "posicao_forbes_global_2000": "774",
+      "empresa": "Suzano",
+      "receita_bi_usd": 9.96,
+      "lucro_bi_usd": 3.55,
+      "ativos_bi_usd": 26.7,
+      "valor_mercado_bi_usd": 10.95,
+      "setor": "Papel e celulose"
+    },
+    {
+      "posicao": "9",
+      "posicao_forbes_global_2000": "928",
+      "empresa": "Eletrobras",
+      "receita_bi_usd": 6.79,
+      "lucro_bi_usd": 0.7,
+      "ativos_bi_usd": 51.18,
+      "valor_mercado_bi_usd": 17.28,
+      "setor": "Energia"
+    },
+    {
+      "posicao": "10",
+      "posicao_forbes_global_2000": "980",
+      "empresa": "Gerdau",
+      "receita_bi_usd": 15.7,
+      "lucro_bi_usd": 2.27,
+      "ativos_bi_usd": 14.94,
+      "valor_mercado_bi_usd": 8.73,
+      "setor": "Siderurgia"
+    },
+    {
+      "posicao": "11",
+      "posicao_forbes_global_2000": "1015",
+      "empresa": "Marfrig",
+      "receita_bi_usd": 25.29,
+      "lucro_bi_usd": 0.8,
+      "ativos_bi_usd": 25.78,
+      "valor_mercado_bi_usd": 0.894,
+      "setor": "Alimentação"
+    },
+    {
+      "posicao": "12",
+      "posicao_forbes_global_2000": "1026",
+      "empresa": "Itaúsa",
+      "receita_bi_usd": 1.64,
+      "lucro_bi_usd": 2.65,
+      "ativos_bi_usd": 18.3,
+      "valor_mercado_bi_usd": 17.07,
+      "setor": "Investimentos"
+    },
+    {
+      "posicao": "13",
+      "posicao_forbes_global_2000": "1223",
+      "empresa": "WEG",
+      "receita_bi_usd": 5.97,
+      "lucro_bi_usd": 0.89,
+      "ativos_bi_usd": 5.7,
+      "valor_mercado_bi_usd": 33.13,
+      "setor": "Eletrônicos"
+    },
+    {
+      "posicao": "14",
+      "posicao_forbes_global_2000": "1296",
+      "empresa": "Raízen",
+      "receita_bi_usd": 47.31,
+      "lucro_bi_usd": 18.7,
+      "ativos_bi_usd": 19.9,
+      "valor_mercado_bi_usd": 6.81,
+      "setor": "Energia"
+    },
+    {
+      "posicao": "15",
+      "posicao_forbes_global_2000": "1398",
+      "empresa": "Metalúrgica Gerdau",
+      "receita_bi_usd": 15.7,
+      "lucro_bi_usd": 0.75,
+      "ativos_bi_usd": 15.14,
+      "valor_mercado_bi_usd": 2.39,
+      "setor": "Siderurgia"
+    },
+    {
+      "posicao": "16",
+      "posicao_forbes_global_2000": "1436",
+      "empresa": "B3",
+      "receita_bi_usd": 1.76,
+      "lucro_bi_usd": 0.82,
+      "ativos_bi_usd": 9.21,
+      "valor_mercado_bi_usd": 13.84,
+      "setor": "Finanças"
+    },
+    {
+      "posicao": "17",
+      "posicao_forbes_global_2000": "1574",
+      "empresa": "Vibra Energia",
+      "receita_bi_usd": 35.13,
+      "lucro_bi_usd": 0.3,
+      "ativos_bi_usd": 7.92,
+      "valor_mercado_bi_usd": 3.09,
+      "setor": "Petróleo e gás"
+    },
+    {
+      "posicao": "18",
+      "posicao_forbes_global_2000": "1602",
+      "empresa": "Braskem",
+      "receita_bi_usd": 35.13,
+      "lucro_bi_usd": -0.06,
+      "ativos_bi_usd": 16.68,
+      "valor_mercado_bi_usd": 3.81,
+      "setor": "Petroquímico"
+    },
+    {
+      "posicao": "19",
+      "posicao_forbes_global_2000": "1668",
+      "empresa": "CPFL Energia",
+      "receita_bi_usd": 18.69,
+      "lucro_bi_usd": 0.99,
+      "ativos_bi_usd": 13.47,
+      "valor_mercado_bi_usd": 7.22,
+      "setor": "Utilidade pública"
+    },
+    {
+      "posicao": "20",
+      "posicao_forbes_global_2000": "1679",
+      "empresa": "Grupo Ultra",
+      "receita_bi_usd": 27.67,
+      "lucro_bi_usd": 0.31,
+      "ativos_bi_usd": 6.69,
+      "valor_mercado_bi_usd": 3.61,
+      "setor": "Distribuição de combustíveis"
+    },
+    {
+      "posicao": "21",
+      "posicao_forbes_global_2000": "1974",
+      "empresa": "Cosan",
+      "receita_bi_usd": 7.69,
+      "lucro_bi_usd": 0.23,
+      "ativos_bi_usd": 25.47,
+      "valor_mercado_bi_usd": 5.55,
+      "setor": "Energia"
+    }
+  ],
+  "meta": {
+    "title": "Maiores empresas do Brasil (Forbes Global 2000) - Free Download",
+    "description": "As maiores empresas brasileiras na lista Forbes Global 2000, com receita, lucro, ativos e valor de mercado (US$ bilhões) e setor. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maiores empresas do Brasil (Forbes Global 2000) | ListBase",
+    "seo_description": "Download Maiores empresas do Brasil (Forbes Global 2000) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_do_Brasil"
+    ]
+  }
+}
