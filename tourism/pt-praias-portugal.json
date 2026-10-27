@@ -1,0 +1,1411 @@
+{
+  "id": "pt-praias-portugal",
+  "name": "Praias em Portugal",
+  "title": "Praias em Portugal",
+  "description": "Lista de praias marítimas e fluviais de Portugal, por região.",
+  "category": "tourism",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_praias_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_praias_em_Portugal",
+  "updated": "2026-10",
+  "record_count": 274,
+  "columns": [
+    {
+      "key": "praia",
+      "label": "Praia",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "sub_regiao",
+      "label": "Sub Regiao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "praia": "Praia Fluvial da Albufeira de Estevainha (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Alfândega da Fé"
+    },
+    {
+      "praia": "Praia Fluvial da Valeta (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Arcos de Valdevez"
+    },
+    {
+      "praia": "Praia fluvial de Adaúfe (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Braga"
+    },
+    {
+      "praia": "Praia fluvial de Verim (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Braga"
+    },
+    {
+      "praia": "Praia fluvial de Folgosa (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Castro Daire"
+    },
+    {
+      "praia": "Praia da Barrinha",
+      "regiao": "Norte",
+      "sub_regiao": "Esmoriz"
+    },
+    {
+      "praia": "Praia pequena",
+      "regiao": "Norte",
+      "sub_regiao": "Esmoriz"
+    },
+    {
+      "praia": "Praia da Baía (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Espinho"
+    },
+    {
+      "praia": "Praia da Frente Azul",
+      "regiao": "Norte",
+      "sub_regiao": "Espinho"
+    },
+    {
+      "praia": "Praia Fluvial da Congida (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Freixo de Espada à Cinta"
+    },
+    {
+      "praia": "Praia do Albufeira do Azibo (FL, BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Macedo de Cavaleiros"
+    },
+    {
+      "praia": "Praia da Memória (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia de Pedras do Corgo (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia da Agudela (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia do Aterro (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia do Cabo do Mundo (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia de Matosinhos",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia de Leça da Palmeira (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia da Boa Nova (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia Azul (Conchinha)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia do Marreco (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia da Quebrada (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia das Pedras Brancas",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia do Funtão (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia de Angeiras Norte",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia de Angeiras Sul",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia de Fuzelhas (BA)",
+      "regiao": "Norte",
+      "sub_regiao": "Matosinhos"
+    },
+    {
+      "praia": "Praia Fluvial de Frechas (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Mirandela"
+    },
+    {
+      "praia": "Praia fluvial de Ponte de Mouro (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Monção"
+    },
+    {
+      "praia": "Praia fluvial de Fornelos (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Santa Marta de Penaguião"
+    },
+    {
+      "praia": "Praia Fluvial de Mondim da Beira (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Tarouca"
+    },
+    {
+      "praia": "Praia Fluvial de Nandufe (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Tondela"
+    },
+    {
+      "praia": "Praia Fluvial da Lenta (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Vila Nova de Cerveira"
+    },
+    {
+      "praia": "Praia de Ponte de Frades (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Vinhais"
+    },
+    {
+      "praia": "Praia de Ponte da Ranca (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Vinhais"
+    },
+    {
+      "praia": "Praia de Ponte Soeira (FL)",
+      "regiao": "Norte",
+      "sub_regiao": "Vinhais"
+    },
+    {
+      "praia": "Praia Fluvial da Aldeia do Mato (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Abrantes"
+    },
+    {
+      "praia": "Praia Fluvial de Fontes (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Abrantes"
+    },
+    {
+      "praia": "Praia Fluvial de Souto do Rio (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Águeda"
+    },
+    {
+      "praia": "Praia Fluvial de Piódão (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Arganil"
+    },
+    {
+      "praia": "Praia das Dunas de São Jacinto (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Aveiro"
+    },
+    {
+      "praia": "Praia da Barra (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Aveiro"
+    },
+    {
+      "praia": "Costa Nova (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Aveiro"
+    },
+    {
+      "praia": "Praia do Palheirão (NT)",
+      "regiao": "Centro",
+      "sub_regiao": "Cantanhede"
+    },
+    {
+      "praia": "Praia da Tocha (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Cantanhede"
+    },
+    {
+      "praia": "Praia Fluvial de Poço Corga (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Castanheira de Pêra"
+    },
+    {
+      "praia": "Praia das Rocas",
+      "regiao": "Centro",
+      "sub_regiao": "Castanheira de Pêra"
+    },
+    {
+      "praia": "Praia Fluvial de Almaceda (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Castelo Branco"
+    },
+    {
+      "praia": "Praia Fluvial do Sesmo (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Castelo Branco"
+    },
+    {
+      "praia": "Praia Fluvial dos Lentiscais (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Castelo Branco"
+    },
+    {
+      "praia": "Ruínas da Ponte de Cabaços",
+      "regiao": "Centro",
+      "sub_regiao": "Castro Daire"
+    },
+    {
+      "praia": "Praia fluvial de Palheiros e Zorro (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Coimbra"
+    },
+    {
+      "praia": "Praia Fluvial de Ourondo (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Coimbra"
+    },
+    {
+      "praia": "Praia Fluvial do Paul (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Coimbra"
+    },
+    {
+      "praia": "Praia Fluvial de Unhais da Serra (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Coimbra"
+    },
+    {
+      "praia": "Praia Fluvial de Verdelhos (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Coimbra"
+    },
+    {
+      "praia": "Praia Fluvial de Vila do Carvalho (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Coimbra"
+    },
+    {
+      "praia": "Praia Fluvial e Piscinas Naturais de Cortes do Meio (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Praia Fluvial do Paul (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Praia Fluvial da Vila do Carvalho (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Praia Fluvial de Unhais da Serra (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Zona balnear de Sobral de São Miguel (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Praia Fluvial de Verdelhos (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Praia Fluvial do Ourondinho (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Praia Fluvial do Ourondo (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Covilhã"
+    },
+    {
+      "praia": "Piscina flutuante do Lago Azul (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Ferreira do Zêzere"
+    },
+    {
+      "praia": "Praia do Cabedelo (NT, BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Figueira da Foz"
+    },
+    {
+      "praia": "Praia de Cova-Gala (NT, BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Figueira da Foz"
+    },
+    {
+      "praia": "Praia de Leirosa (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Figueira da Foz"
+    },
+    {
+      "praia": "Praia do Relógio (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Figueira da Foz"
+    },
+    {
+      "praia": "Praia de Quiaios (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Figueira da Foz"
+    },
+    {
+      "praia": "Praia fluvial de Aldeia Ana de Aviz (FL, BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Figueiró dos Vinhos"
+    },
+    {
+      "praia": "Praia fluvial das Fragas de São Simão (FL) 39° 54′ 58″ N, 8° 19′ 00″ O",
+      "regiao": "Centro",
+      "sub_regiao": "Figueiró dos Vinhos"
+    },
+    {
+      "praia": "Praia Fluvial de Ponte de Juncais (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Fornos de Algodres"
+    },
+    {
+      "praia": "Barragem da Capinha (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Fundão"
+    },
+    {
+      "praia": "Praia Fluvial de Castelo Novo (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Fundão"
+    },
+    {
+      "praia": "Praia Fluvial de Janeiro de Cima (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Fundão"
+    },
+    {
+      "praia": "Zona balnear de Lavacolhos (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Fundão"
+    },
+    {
+      "praia": "Zona balnear de Souto da Casa (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Fundão"
+    },
+    {
+      "praia": "Praia Fluvial das Canaveias (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Góis"
+    },
+    {
+      "praia": "Praia Fluvial da Peneda/Pego Escuro (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Góis"
+    },
+    {
+      "praia": "Praia Fluvial do Vale do Rossim (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Gouveia"
+    },
+    {
+      "praia": "Praia Fluvial de Valhelhas (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Guarda"
+    },
+    {
+      "praia": "Praia Fluvial da Aldeia Viçosa (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Guarda"
+    },
+    {
+      "praia": "Barragem do Caldeirão (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Guarda"
+    },
+    {
+      "praia": "Praia Fluvial Quinta da Taberna (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Guarda"
+    },
+    {
+      "praia": "Praia Fluvial do Pego (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Idanha-a-Nova"
+    },
+    {
+      "praia": "Barragem da Idanha (Barragem Marechal Carmona)",
+      "regiao": "Centro",
+      "sub_regiao": "Idanha-a-Nova"
+    },
+    {
+      "praia": "Praia da Barra (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Ílhavo"
+    },
+    {
+      "praia": "Praia da Costa Nova (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Ílhavo"
+    },
+    {
+      "praia": "Praia do Fausto",
+      "regiao": "Centro",
+      "sub_regiao": "Leiria"
+    },
+    {
+      "praia": "Praia da Lugar das Pedras",
+      "regiao": "Centro",
+      "sub_regiao": "Leiria"
+    },
+    {
+      "praia": "Praia de Pedrógão",
+      "regiao": "Centro",
+      "sub_regiao": "Leiria"
+    },
+    {
+      "praia": "Praia da Bogueira (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Lousã"
+    },
+    {
+      "praia": "Praia da Senhora da Graça (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Lousã"
+    },
+    {
+      "praia": "Praia da Senhora da Piedade (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Lousã"
+    },
+    {
+      "praia": "Praia Fluvial do Carvoeiro (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Mação"
+    },
+    {
+      "praia": "Praia Fluvial de Cardigos (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Mação"
+    },
+    {
+      "praia": "Praia Fluvial da Ortiga (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Mação"
+    },
+    {
+      "praia": "Praia de Mira (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Mira"
+    },
+    {
+      "praia": "Praia da Torreira (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Murtosa"
+    },
+    {
+      "praia": "Praia Fluvial do Açude Pinto (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Oleiros"
+    },
+    {
+      "praia": "Praia Fluvial de Alvôco das Várzeas (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Oliveira do Hospital"
+    },
+    {
+      "praia": "Praia Fluvial de Sandomil",
+      "regiao": "Centro",
+      "sub_regiao": "Oliveira do Hospital"
+    },
+    {
+      "praia": "Praia da Cortegaça (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Ovar"
+    },
+    {
+      "praia": "Praia de Esmoriz (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Ovar"
+    },
+    {
+      "praia": "Praia do Furadouro (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Ovar"
+    },
+    {
+      "praia": "Praia Fluvial da Pampilhosa da Serra (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Pampilhosa da Serra"
+    },
+    {
+      "praia": "Praia Fluvial do Pessegueiro (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Pampilhosa da Serra"
+    },
+    {
+      "praia": "Praia Fluvial da Albufeira de Santa Luzia (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Pampilhosa da Serra"
+    },
+    {
+      "praia": "Praia Fluvial de Janeiro de Baixo (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Pampilhosa da Serra"
+    },
+    {
+      "praia": "Praia da Louçainha (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Penela"
+    },
+    {
+      "praia": "Praia Fonte dos Agriões",
+      "regiao": "Centro",
+      "sub_regiao": "Pombal"
+    },
+    {
+      "praia": "Praia do Osso da Baleia (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Pombal"
+    },
+    {
+      "praia": "Praia Fluvial de Aldeia Ruiva (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Proença-a-Nova"
+    },
+    {
+      "praia": "Praia Fluvial de Alvito da Beira (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Proença-a-Nova"
+    },
+    {
+      "praia": "Praia Fluvial de Fróia (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Proença-a-Nova"
+    },
+    {
+      "praia": "Praia Fluvial do Malhadal (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Proença-a-Nova"
+    },
+    {
+      "praia": "Praia Fluvial da Albufeira de Alfaiates (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Sabugal"
+    },
+    {
+      "praia": "Praia da Ínsua",
+      "regiao": "Centro",
+      "sub_regiao": "Sabugal"
+    },
+    {
+      "praia": "Praia da Lameira",
+      "regiao": "Centro",
+      "sub_regiao": "Sabugal"
+    },
+    {
+      "praia": "Praia Fluvial de São Martinho (Nagozelo do Douro)",
+      "regiao": "Centro",
+      "sub_regiao": "São João da Pesqueira"
+    },
+    {
+      "praia": "Praia Fluvial de Loriga (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Seia"
+    },
+    {
+      "praia": "Praia Fluvial do Sabugueiro (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Seia"
+    },
+    {
+      "praia": "Praia Fluvial da Vila Cova à Coelheira (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Seia"
+    },
+    {
+      "praia": "Praia Fluvial de Lapa dos Dinheiros (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Seia"
+    },
+    {
+      "praia": "Praia Fluvial de Sandomil (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Seia"
+    },
+    {
+      "praia": "Praia Fluvial da Ribeira Grande (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Sertã"
+    },
+    {
+      "praia": "Praia Fluvial do Troviscal (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Sertã"
+    },
+    {
+      "praia": "Praia da Vagueira (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Vagos"
+    },
+    {
+      "praia": "Praia do Areão (BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Vagos"
+    },
+    {
+      "praia": "Praia Fluvial de Bostelim (FL, BA)",
+      "regiao": "Centro",
+      "sub_regiao": "Vila de Rei"
+    },
+    {
+      "praia": "Praia Fluvial do Penedo Furado (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Vila de Rei"
+    },
+    {
+      "praia": "Praia Fluvial do Pego das Cancelas (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Vila de Rei"
+    },
+    {
+      "praia": "Praia Fluvial de Fernandaires (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Vila de Rei"
+    },
+    {
+      "praia": "Praia Fluvial da Zaboeira (FL)",
+      "regiao": "Centro",
+      "sub_regiao": "Vila de Rei"
+    },
+    {
+      "praia": "Alburrica (FL)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Barreiro"
+    },
+    {
+      "praia": "Praia da Foz do Arelho",
+      "regiao": "Lisboa",
+      "sub_regiao": "Caldas da Rainha"
+    },
+    {
+      "praia": "Praia do Mar (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Caldas da Rainha"
+    },
+    {
+      "praia": "Praia de Salir do Porto",
+      "regiao": "Lisboa",
+      "sub_regiao": "Caldas da Rainha"
+    },
+    {
+      "praia": "Praia da Nazaré (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Nazaré"
+    },
+    {
+      "praia": "Praia do Norte",
+      "regiao": "Lisboa",
+      "sub_regiao": "Nazaré"
+    },
+    {
+      "praia": "Praia do Salgado (NT)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Nazaré"
+    },
+    {
+      "praia": "Praia dos Belgas",
+      "regiao": "Lisboa",
+      "sub_regiao": "Óbidos"
+    },
+    {
+      "praia": "Praia da Lagoa de Óbidos",
+      "regiao": "Lisboa",
+      "sub_regiao": "Óbidos"
+    },
+    {
+      "praia": "Praia do Rei Cortiço",
+      "regiao": "Lisboa",
+      "sub_regiao": "Óbidos"
+    },
+    {
+      "praia": "Praia de Algés",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia da Cruz Quebrada",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia do Dafundo",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia de Caxias (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia velha de Paço de Arcos ou dos Pescadores",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia de Paço de Arcos (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia das Fontainhas",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia de Santo Amaro de Oeiras (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia da Lage",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia da Torre (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Oeiras"
+    },
+    {
+      "praia": "Praia de Alfarim",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia do Areia do Mastro",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Baleeira",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia das Bicas",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Fonte da Telha",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Foz",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia do Inferno",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Lagoa de Albufeira-Mar",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia dos Lagosteiros",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia do Meco (Moinho de Baixo) (NO)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Mijona",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia dos Penedos",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Pipa",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia do Rebenta Bois",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia do Ribeiro do Cavalo",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Sesimbra (Praia da Califórnia e Praia do Ouro) (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Tramagueira",
+      "regiao": "Lisboa",
+      "sub_regiao": "Sesimbra"
+    },
+    {
+      "praia": "Praia da Saúde",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia de Albarquel",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia da Figueirinha (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia de Galapos",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia de Galapinhos",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia dos Coelhos",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia do Creiro",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia do Outão",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia do Portinho da Arrábida",
+      "regiao": "Lisboa",
+      "sub_regiao": "Setúbal"
+    },
+    {
+      "praia": "Praia Azul (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia da Física (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia Formosa (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia do Mirante (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia do Navio (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia do Pisão (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia de Santa Cruz (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia de Santa Rita (BA)",
+      "regiao": "Lisboa",
+      "sub_regiao": "Torres Vedras"
+    },
+    {
+      "praia": "Praia Fluvial do Pego Fundo (FL)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Alcoutim"
+    },
+    {
+      "praia": "Praia da Quinta do Alamal (FL)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Gavião"
+    },
+    {
+      "praia": "Praia Fluvial da Barragem do Caia (FL)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Elvas / Campo Maior"
+    },
+    {
+      "praia": "Praia Fluvial da Albuefira de Odivelas (FL)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Ferreira do Alentejo"
+    },
+    {
+      "praia": "Praia Fluvial do Parque da Ribeira Grande (FL)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Fronteira"
+    },
+    {
+      "praia": "Praia da Costa",
+      "regiao": "Alentejo",
+      "sub_regiao": "Santiago do Cacém"
+    },
+    {
+      "praia": "Praia da Fonte do Cortiço (BA)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Santiago do Cacém"
+    },
+    {
+      "praia": "Praia da Lagoa (Vila Nova de Santo André)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Santiago do Cacém"
+    },
+    {
+      "praia": "Praia de Santo André (Vila Nova de Santo André)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Santiago do Cacém"
+    },
+    {
+      "praia": "Praia do Monte Velho (NT)",
+      "regiao": "Alentejo",
+      "sub_regiao": "Santiago do Cacém"
+    },
+    {
+      "praia": "Praia da Alagoa",
+      "regiao": "Algarve",
+      "sub_regiao": "Castro Marim"
+    },
+    {
+      "praia": "Praia do Cabeço - Retur",
+      "regiao": "Algarve",
+      "sub_regiao": "Castro Marim"
+    },
+    {
+      "praia": "Praia Verde",
+      "regiao": "Algarve",
+      "sub_regiao": "Castro Marim"
+    },
+    {
+      "praia": "Praia da Barreta (BA) (NO)",
+      "regiao": "Algarve",
+      "sub_regiao": "Faro"
+    },
+    {
+      "praia": "Praia da Culatra (BA)",
+      "regiao": "Algarve",
+      "sub_regiao": "Faro"
+    },
+    {
+      "praia": "Praia de Faro (BA) (NT)",
+      "regiao": "Algarve",
+      "sub_regiao": "Faro"
+    },
+    {
+      "praia": "Praia da Ilha do Cabo de Santa Maria (NO)",
+      "regiao": "Algarve",
+      "sub_regiao": "Faro"
+    },
+    {
+      "praia": "Praia da Ilha do Farol (BA)",
+      "regiao": "Algarve",
+      "sub_regiao": "Faro"
+    },
+    {
+      "praia": "Praia da Armona (NT, BA)",
+      "regiao": "Algarve",
+      "sub_regiao": "Olhão"
+    },
+    {
+      "praia": "Praia da Fuzeta",
+      "regiao": "Algarve",
+      "sub_regiao": "Olhão"
+    },
+    {
+      "praia": "Praia dos Tesos",
+      "regiao": "Algarve",
+      "sub_regiao": "Olhão"
+    },
+    {
+      "praia": "Praia do Lacém",
+      "regiao": "Algarve",
+      "sub_regiao": "Tavira"
+    },
+    {
+      "praia": "Praia de Cabanas de Tavira",
+      "regiao": "Algarve",
+      "sub_regiao": "Tavira"
+    },
+    {
+      "praia": "Praia da Ilha de Tavira",
+      "regiao": "Algarve",
+      "sub_regiao": "Tavira"
+    },
+    {
+      "praia": "Praia das Quatro Águas (NT)",
+      "regiao": "Algarve",
+      "sub_regiao": "Tavira"
+    },
+    {
+      "praia": "Praia da Terra Estreita",
+      "regiao": "Algarve",
+      "sub_regiao": "Tavira"
+    },
+    {
+      "praia": "Praia do Barril (NO) (na extremidade poente)",
+      "regiao": "Algarve",
+      "sub_regiao": "Tavira"
+    },
+    {
+      "praia": "Praia do Homem Nu (NT)",
+      "regiao": "Algarve",
+      "sub_regiao": "Tavira"
+    },
+    {
+      "praia": "Praia de Vila Real de Santo António",
+      "regiao": "Algarve",
+      "sub_regiao": "Vila Real de Santo António"
+    },
+    {
+      "praia": "Praia de Monte Gordo (BA)",
+      "regiao": "Algarve",
+      "sub_regiao": "Vila Real de Santo António"
+    },
+    {
+      "praia": "Praia de Adão e Eva",
+      "regiao": "Algarve",
+      "sub_regiao": "Vila Real de Santo António"
+    },
+    {
+      "praia": "Praia da Lota",
+      "regiao": "Algarve",
+      "sub_regiao": "Vila Real de Santo António"
+    },
+    {
+      "praia": "Praia da Manta Rota (BA)",
+      "regiao": "Algarve",
+      "sub_regiao": "Vila Real de Santo António"
+    },
+    {
+      "praia": "Praia de Cacela Velha (NT)",
+      "regiao": "Algarve",
+      "sub_regiao": "Vila Real de Santo António"
+    },
+    {
+      "praia": "Praia da Fábrica",
+      "regiao": "Algarve",
+      "sub_regiao": "Vila Real de Santo António"
+    },
+    {
+      "praia": "Praia da Calheta (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Calheta"
+    },
+    {
+      "praia": "Praia de Machico",
+      "regiao": "Madeira",
+      "sub_regiao": "Machico"
+    },
+    {
+      "praia": "Praia da Ribeira do Natal",
+      "regiao": "Madeira",
+      "sub_regiao": "Machico"
+    },
+    {
+      "praia": "Praia da Banda de Além",
+      "regiao": "Madeira",
+      "sub_regiao": "Machico"
+    },
+    {
+      "praia": "Praia da Madalena do Mar (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Ponta do Sol"
+    },
+    {
+      "praia": "Praia da Ponta do Sol (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Ponta do Sol"
+    },
+    {
+      "praia": "Praia da Laje",
+      "regiao": "Madeira",
+      "sub_regiao": "Porto Moniz"
+    },
+    {
+      "praia": "Praia de Porto Moniz (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Porto Moniz"
+    },
+    {
+      "praia": "Praia da Fontinha (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Porto Santo"
+    },
+    {
+      "praia": "Praia da Ribeira Brava (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Ribeira Brava"
+    },
+    {
+      "praia": "Praia do Galo Mar (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Santa Cruz"
+    },
+    {
+      "praia": "Praia das Palmeiras (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Santa Cruz"
+    },
+    {
+      "praia": "Praia dos Reis Magos",
+      "regiao": "Madeira",
+      "sub_regiao": "Santa Cruz"
+    },
+    {
+      "praia": "Praia da Roca Mar",
+      "regiao": "Madeira",
+      "sub_regiao": "Santa Cruz"
+    },
+    {
+      "praia": "Praia de São Fernando",
+      "regiao": "Madeira",
+      "sub_regiao": "Santa Cruz"
+    },
+    {
+      "praia": "Praia do Calhau de São Jorge",
+      "regiao": "Madeira",
+      "sub_regiao": "Santana"
+    },
+    {
+      "praia": "Praia da Foz da Ribeira do Faial (BA)",
+      "regiao": "Madeira",
+      "sub_regiao": "Santana"
+    },
+    {
+      "praia": "Praia do Almoxarife",
+      "regiao": "Açores",
+      "sub_regiao": "Horta"
+    },
+    {
+      "praia": "Praia de Porto Pim",
+      "regiao": "Açores",
+      "sub_regiao": "Horta"
+    },
+    {
+      "praia": "Praia do Varadouro (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Horta"
+    },
+    {
+      "praia": "Praia da Caloura (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Lagoa"
+    },
+    {
+      "praia": "Praia das Milícias (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Ponta Delgada"
+    },
+    {
+      "praia": "Praia dos Mosteiros",
+      "regiao": "Açores",
+      "sub_regiao": "Ponta Delgada"
+    },
+    {
+      "praia": "Praia do Pópulo (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Ponta Delgada"
+    },
+    {
+      "praia": "Praia de São Roque",
+      "regiao": "Açores",
+      "sub_regiao": "Ponta Delgada"
+    },
+    {
+      "praia": "Praia do Fogo",
+      "regiao": "Açores",
+      "sub_regiao": "Povoação"
+    },
+    {
+      "praia": "Praia dos Biscoitos (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praia das Escaleiras (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praia de Porto Martins (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praia Grande (Praia da Vitória) (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praínha (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praia da Riviera",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praia dos Oficiais",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praia dos Sargentos",
+      "regiao": "Açores",
+      "sub_regiao": "Praia da Vitória"
+    },
+    {
+      "praia": "Praia das Calhetas (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Ribeira Grande"
+    },
+    {
+      "praia": "Praia dos Moinhos",
+      "regiao": "Açores",
+      "sub_regiao": "Ribeira Grande"
+    },
+    {
+      "praia": "Praia dos Porto de Maio",
+      "regiao": "Açores",
+      "sub_regiao": "Ribeira Grande"
+    },
+    {
+      "praia": "Praia dos Porto Formoso",
+      "regiao": "Açores",
+      "sub_regiao": "Ribeira Grande"
+    },
+    {
+      "praia": "Praia do Rabo de Peixe",
+      "regiao": "Açores",
+      "sub_regiao": "Ribeira Grande"
+    },
+    {
+      "praia": "Praia dos Anjos (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Vila do Porto"
+    },
+    {
+      "praia": "Praia da Formosa (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Vila do Porto"
+    },
+    {
+      "praia": "Praia da Maia (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Vila do Porto"
+    },
+    {
+      "praia": "Praia de São Lourenço (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Vila do Porto"
+    },
+    {
+      "praia": "Praia de Água de Alto (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Vila Franca do Campo"
+    },
+    {
+      "praia": "Praia dos Trinta Reis",
+      "regiao": "Açores",
+      "sub_regiao": "Vila Franca do Campo"
+    },
+    {
+      "praia": "Praia de Corpo Santo (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Vila Franca do Campo"
+    },
+    {
+      "praia": "Praia do Ilhéu de Vila Franca",
+      "regiao": "Açores",
+      "sub_regiao": "Vila Franca do Campo"
+    },
+    {
+      "praia": "Praia da Rainha",
+      "regiao": "Açores",
+      "sub_regiao": "Vila Franca do Campo"
+    },
+    {
+      "praia": "Praia da Vinha da Areia (BA)",
+      "regiao": "Açores",
+      "sub_regiao": "Vila Franca do Campo"
+    }
+  ],
+  "meta": {
+    "title": "Praias em Portugal - Free Download",
+    "description": "Lista de praias marítimas e fluviais de Portugal, por região. Contains 274 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Praias em Portugal | ListBase",
+    "seo_description": "Download Praias em Portugal — 274 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 274 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_praias_em_Portugal"
+    ]
+  }
+}

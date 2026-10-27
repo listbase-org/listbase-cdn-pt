@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:50.539Z",
-  "total_datasets": 491,
-  "total_records": 739876,
+  "generated": "2026-10-27T02:17:53.079Z",
+  "total_datasets": 492,
+  "total_records": 740150,
   "categories": [
     {
       "id": "culture",
@@ -79,6 +79,10 @@
     {
       "id": "time",
       "dataset_count": 80
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -17402,6 +17406,30 @@
         "xlsx": {
           "name": "pt-viseu-feriados_PT.xlsx",
           "size": 69861
+        }
+      }
+    },
+    {
+      "id": "pt-praias-portugal",
+      "name": "Praias em Portugal",
+      "category": "tourism",
+      "record_count": 274,
+      "columns": [
+        "praia",
+        "regiao",
+        "sub_regiao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_praias_em_Portugal",
+      "updated": "2026-10",
+      "size": 33645,
+      "files": {
+        "csv": {
+          "name": "pt-praias-portugal_PT.csv",
+          "size": 14302
+        },
+        "xlsx": {
+          "name": "pt-praias-portugal_PT.xlsx",
+          "size": 13927
         }
       }
     },
