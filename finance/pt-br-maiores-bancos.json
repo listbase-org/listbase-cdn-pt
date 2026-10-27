@@ -1,0 +1,135 @@
+{
+  "id": "pt-br-maiores-bancos",
+  "name": "Maiores bancos do Brasil",
+  "title": "Maiores bancos do Brasil",
+  "description": "Ranking dos maiores bancos do Brasil por ativos totais (R$ bilhões) em dezembro de 2024 e 2025, com crescimento.",
+  "category": "finance",
+  "source": "https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "banco",
+      "label": "Banco",
+      "type": "string"
+    },
+    {
+      "key": "ativos_dez_2024_bi_reais",
+      "label": "Ativos Dez 2024 Bi Reais",
+      "type": "number"
+    },
+    {
+      "key": "ativos_dez_2025_bi_reais",
+      "label": "Ativos Dez 2025 Bi Reais",
+      "type": "number"
+    },
+    {
+      "key": "crescimento",
+      "label": "Crescimento",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": "1",
+      "banco": "Itaú Unibanco",
+      "ativos_dez_2024_bi_reais": 2854,
+      "ativos_dez_2025_bi_reais": 3012,
+      "crescimento": "+158,0 / +5,5%"
+    },
+    {
+      "posicao": "2",
+      "banco": "Banco do Brasil",
+      "ativos_dez_2024_bi_reais": 2395,
+      "ativos_dez_2025_bi_reais": 2485,
+      "crescimento": "+90,0 / +3,7%"
+    },
+    {
+      "posicao": "3",
+      "banco": "Caixa Econômica Federal",
+      "ativos_dez_2024_bi_reais": 2000,
+      "ativos_dez_2025_bi_reais": 2140,
+      "crescimento": "+140,0 / +7,0%"
+    },
+    {
+      "posicao": "4",
+      "banco": "Bradesco",
+      "ativos_dez_2024_bi_reais": 2069,
+      "ativos_dez_2025_bi_reais": 2085,
+      "crescimento": "+16,0 / +0,7%"
+    },
+    {
+      "posicao": "5",
+      "banco": "Santander Brasil",
+      "ativos_dez_2024_bi_reais": 1238,
+      "ativos_dez_2025_bi_reais": 1255,
+      "crescimento": "+17,0 / +1,3%"
+    },
+    {
+      "posicao": "6",
+      "banco": "BTG Pactual",
+      "ativos_dez_2024_bi_reais": 559.6,
+      "ativos_dez_2025_bi_reais": 684,
+      "crescimento": "+124,4 / +22,2%"
+    },
+    {
+      "posicao": "7",
+      "banco": "Sicredi",
+      "ativos_dez_2024_bi_reais": 397,
+      "ativos_dez_2025_bi_reais": 455,
+      "crescimento": "+58,0 / +14,6%"
+    },
+    {
+      "posicao": "8",
+      "banco": "Sicoob",
+      "ativos_dez_2024_bi_reais": 359,
+      "ativos_dez_2025_bi_reais": 430.1,
+      "crescimento": "+71,1 / +19,8%"
+    },
+    {
+      "posicao": "9",
+      "banco": "Banco Safra",
+      "ativos_dez_2024_bi_reais": 316.9,
+      "ativos_dez_2025_bi_reais": 332,
+      "crescimento": "+15,1 / +4,7%"
+    },
+    {
+      "posicao": "10",
+      "banco": "Citibank Brasil",
+      "ativos_dez_2024_bi_reais": 213.4,
+      "ativos_dez_2025_bi_reais": 221,
+      "crescimento": "+7,6 / +3,5%"
+    },
+    {
+      "posicao": "11",
+      "banco": "Banrisul",
+      "ativos_dez_2024_bi_reais": 147.9,
+      "ativos_dez_2025_bi_reais": 154.5,
+      "crescimento": "+6,6 / +4,4%"
+    },
+    {
+      "posicao": "12",
+      "banco": "Banco Votorantim (banco BV)",
+      "ativos_dez_2024_bi_reais": 141.7,
+      "ativos_dez_2025_bi_reais": 148,
+      "crescimento": "+6,3 / +4,4%"
+    }
+  ],
+  "meta": {
+    "title": "Maiores bancos do Brasil - Free Download",
+    "description": "Ranking dos maiores bancos do Brasil por ativos totais (R$ bilhões) em dezembro de 2024 e 2025, com crescimento. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maiores bancos do Brasil | ListBase",
+    "seo_description": "Download Maiores bancos do Brasil — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_do_Brasil"
+    ]
+  }
+}

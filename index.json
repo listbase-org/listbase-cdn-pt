@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:22.432Z",
-  "total_datasets": 481,
-  "total_records": 738927,
+  "generated": "2026-10-27T02:17:25.008Z",
+  "total_datasets": 482,
+  "total_records": 738939,
   "categories": [
     {
       "id": "culture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "food",
@@ -1349,6 +1349,32 @@
         "xlsx": {
           "name": "pt-usinas-nucleares_PT.xlsx",
           "size": 7141
+        }
+      }
+    },
+    {
+      "id": "pt-br-maiores-bancos",
+      "name": "Maiores bancos do Brasil",
+      "category": "finance",
+      "record_count": 12,
+      "columns": [
+        "posicao",
+        "banco",
+        "ativos_dez_2024_bi_reais",
+        "ativos_dez_2025_bi_reais",
+        "crescimento"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_do_Brasil",
+      "updated": "2026-10",
+      "size": 3904,
+      "files": {
+        "csv": {
+          "name": "pt-br-maiores-bancos_PT.csv",
+          "size": 700
+        },
+        "xlsx": {
+          "name": "pt-br-maiores-bancos_PT.xlsx",
+          "size": 7349
         }
       }
     },
