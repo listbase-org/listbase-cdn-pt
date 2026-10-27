@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:16:57.393Z",
-  "total_datasets": 472,
-  "total_records": 738082,
+  "generated": "2026-10-27T02:17:00.177Z",
+  "total_datasets": 473,
+  "total_records": 738128,
   "categories": [
     {
       "id": "culture",
@@ -42,6 +42,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -2972,6 +2976,32 @@
         "xlsx": {
           "name": "pt-sistemas-escrita_PT.xlsx",
           "size": 10686
+        }
+      }
+    },
+    {
+      "id": "pt-br-albuns-mais-vendidos",
+      "name": "Álbuns mais vendidos no Brasil",
+      "category": "music",
+      "record_count": 46,
+      "columns": [
+        "album",
+        "artista",
+        "lancado",
+        "genero",
+        "vendas_estimadas"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil",
+      "updated": "2026-10",
+      "size": 9846,
+      "files": {
+        "csv": {
+          "name": "pt-br-albuns-mais-vendidos_PT.csv",
+          "size": 3233
+        },
+        "xlsx": {
+          "name": "pt-br-albuns-mais-vendidos_PT.xlsx",
+          "size": 8792
         }
       }
     },

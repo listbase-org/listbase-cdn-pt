@@ -1,0 +1,373 @@
+{
+  "id": "pt-br-albuns-mais-vendidos",
+  "name": "Álbuns mais vendidos no Brasil",
+  "title": "Álbuns mais vendidos no Brasil",
+  "description": "Os álbuns mais vendidos da história no Brasil, com artista, ano de lançamento, gênero e vendas estimadas.",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil",
+  "updated": "2026-10",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "lancado",
+      "label": "Lancado",
+      "type": "number"
+    },
+    {
+      "key": "genero",
+      "label": "Genero",
+      "type": "string"
+    },
+    {
+      "key": "vendas_estimadas",
+      "label": "Vendas Estimadas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "album": "Músicas para Louvar ao Senhor",
+      "artista": "Padre Marcelo Rossi",
+      "lancado": "1998",
+      "genero": "Católico",
+      "vendas_estimadas": "3 328 468+"
+    },
+    {
+      "album": "Xou da Xuxa 3",
+      "artista": "Xuxa",
+      "lancado": "1988",
+      "genero": "Infantil",
+      "vendas_estimadas": "3 216 000+"
+    },
+    {
+      "album": "Xegundo Xou da Xuxa",
+      "artista": "Xuxa",
+      "lancado": "1987",
+      "genero": "Infantil",
+      "vendas_estimadas": "3 200 000+"
+    },
+    {
+      "album": "Leandro & Leonardo",
+      "artista": "Leandro & Leonardo",
+      "lancado": "1990",
+      "genero": "Sertanejo romântico",
+      "vendas_estimadas": "3 200 000+"
+    },
+    {
+      "album": "Rádio Pirata ao Vivo",
+      "artista": "RPM",
+      "lancado": "1986",
+      "genero": "Rock",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "Xou da Xuxa",
+      "artista": "Xuxa",
+      "lancado": "1986",
+      "genero": "Infantil",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "4º Xou da Xuxa",
+      "artista": "Xuxa",
+      "lancado": "1989",
+      "genero": "Infantil",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "O Canto da Cidade",
+      "artista": "Daniela Mercury",
+      "lancado": "1992",
+      "genero": "Axé; Samba-reggae",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "Mamonas Assassinas",
+      "artista": "Mamonas Assassinas",
+      "lancado": "1995",
+      "genero": "Rock",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "Só pra Contrariar",
+      "artista": "Só Pra Contrariar",
+      "lancado": "1997",
+      "genero": "Pagode romântico",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "Um Sonhador",
+      "artista": "Leandro & Leonardo",
+      "lancado": "1998",
+      "genero": "Sertanejo romântico",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "Quatro Estações: O Show",
+      "artista": "Sandy & Junior",
+      "lancado": "2000",
+      "genero": "Pop",
+      "vendas_estimadas": "3 000 000+"
+    },
+    {
+      "album": "As Quatro Estações",
+      "artista": "Sandy & Junior",
+      "lancado": "1999",
+      "genero": "Pop",
+      "vendas_estimadas": "2 800 000+"
+    },
+    {
+      "album": "É o Tchan do Brasil",
+      "artista": "É o Tchan!",
+      "lancado": "1997",
+      "genero": "Pagode baiano",
+      "vendas_estimadas": "2 700 000+"
+    },
+    {
+      "album": "As Quatro Estações",
+      "artista": "Legião Urbana",
+      "lancado": "1989",
+      "genero": "Rock",
+      "vendas_estimadas": "2 600 000+"
+    },
+    {
+      "album": "A Turma do Balão Mágico",
+      "artista": "Turma do Balão Mágico",
+      "lancado": "1984",
+      "genero": "Infantil",
+      "vendas_estimadas": "2 500 000+"
+    },
+    {
+      "album": "Netinho ao Vivo!",
+      "artista": "Netinho",
+      "lancado": "1996",
+      "genero": "Axé",
+      "vendas_estimadas": "2 500 000+"
+    },
+    {
+      "album": "Banda Eva Ao Vivo",
+      "artista": "Banda Eva",
+      "lancado": "1997",
+      "genero": "Axé",
+      "vendas_estimadas": "2 500 000+"
+    },
+    {
+      "album": "MTV ao Vivo: Ivete Sangalo",
+      "artista": "Ivete Sangalo",
+      "lancado": "2004",
+      "genero": "Axé",
+      "vendas_estimadas": "2 500 000+"
+    },
+    {
+      "album": "Terra Samba ao Vivo e a Cores",
+      "artista": "Terra Samba",
+      "lancado": "1998",
+      "genero": "Samba; Pagode baiano",
+      "vendas_estimadas": "2 450 411+"
+    },
+    {
+      "album": "Na Cabeça e Na Cintura",
+      "artista": "É o Tchan!",
+      "lancado": "1996",
+      "genero": "Pagode baiano",
+      "vendas_estimadas": "2 300 000+"
+    },
+    {
+      "album": "Roupa Nova",
+      "artista": "Roupa Nova",
+      "lancado": "1985",
+      "genero": "Pop rock",
+      "vendas_estimadas": "2 200 000+"
+    },
+    {
+      "album": "Era Uma Vez... Ao Vivo",
+      "artista": "Sandy & Junior",
+      "lancado": "1998",
+      "genero": "Pop",
+      "vendas_estimadas": "2 200 000+"
+    },
+    {
+      "album": "Tribalistas",
+      "artista": "Tribalistas",
+      "lancado": "2002",
+      "genero": "MPB",
+      "vendas_estimadas": "2 100 000+"
+    },
+    {
+      "album": "Roberto Carlos",
+      "artista": "Roberto Carlos",
+      "lancado": "1977",
+      "genero": "MPB",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Roberto Carlos",
+      "artista": "Roberto Carlos",
+      "lancado": "1979",
+      "genero": "MPB",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Rita Lee e Roberto de Carvalho",
+      "artista": "Rita Lee e Roberto de Carvalho",
+      "lancado": "1982",
+      "genero": "Pop rock",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "A Turma do Balão Mágico",
+      "artista": "Turma do Balão Mágico",
+      "lancado": "1983",
+      "genero": "Infantil",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Zezé Di Camargo & Luciano",
+      "artista": "Zezé Di Camargo & Luciano",
+      "lancado": "1991",
+      "genero": "Sertanejo romântico",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "O Samba Poconé",
+      "artista": "Skank",
+      "lancado": "1996",
+      "genero": "Ska; pop rock",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "O Rei do Gado",
+      "artista": "Vários",
+      "lancado": "1996",
+      "genero": "Vários",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Acústico MTV: Titãs",
+      "artista": "Titãs",
+      "lancado": "1997",
+      "genero": "Rock",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Chiquititas",
+      "artista": "Vários",
+      "lancado": "1997",
+      "genero": "Vários",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "É o Tchan no Hawaí",
+      "artista": "É o Tchan!",
+      "lancado": "1998",
+      "genero": "Pagode baiano",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Ara Ketu ao Vivo",
+      "artista": "Ara Ketu",
+      "lancado": "1998",
+      "genero": "Axé; pagode baiano",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Djavan ao Vivo",
+      "artista": "Djavan",
+      "lancado": "1999",
+      "genero": "MPB",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Só no Forevis",
+      "artista": "Raimundos",
+      "lancado": "1999",
+      "genero": "Hardcore punk",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Acústico MTV: Kid Abelha",
+      "artista": "Kid Abelha",
+      "lancado": "2002",
+      "genero": "Pop rock",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Laços de Família - Internacional",
+      "artista": "Vários",
+      "lancado": "2000",
+      "genero": "Vários",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Acústico MTV: Capital Inicial",
+      "artista": "Capital Inicial",
+      "lancado": "2001",
+      "genero": "Rock",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Preciso de Ti",
+      "artista": "Diante do Trono",
+      "lancado": "2001",
+      "genero": "Gospel",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Rouge",
+      "artista": "Rouge",
+      "lancado": "2002",
+      "genero": "Pop",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Banda Calypso pelo Brasil",
+      "artista": "Banda Calypso",
+      "lancado": "2006",
+      "genero": "Calypso",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Multishow ao Vivo: Ivete no Maracanã",
+      "artista": "Ivete Sangalo",
+      "lancado": "2007",
+      "genero": "Axé",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Ao Vivo",
+      "artista": "Paula Fernandes",
+      "lancado": "2011",
+      "genero": "Sertanejo universitário",
+      "vendas_estimadas": "2 000 000+"
+    },
+    {
+      "album": "Esse Cara Sou Eu",
+      "artista": "Roberto Carlos",
+      "lancado": "2012",
+      "genero": "MPB",
+      "vendas_estimadas": "2 000 000+"
+    }
+  ],
+  "meta": {
+    "title": "Álbuns mais vendidos no Brasil - Free Download",
+    "description": "Os álbuns mais vendidos da história no Brasil, com artista, ano de lançamento, gênero e vendas estimadas. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Álbuns mais vendidos no Brasil | ListBase",
+    "seo_description": "Download Álbuns mais vendidos no Brasil — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil"
+    ]
+  }
+}
