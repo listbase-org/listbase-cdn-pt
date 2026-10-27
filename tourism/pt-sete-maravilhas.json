@@ -1,0 +1,111 @@
+{
+  "id": "pt-sete-maravilhas",
+  "name": "Sete Maravilhas de Portugal",
+  "title": "Sete Maravilhas de Portugal",
+  "description": "Os monumentos e locais eleitos nas Sete Maravilhas de Portugal, com categoria e localização.",
+  "category": "tourism",
+  "source": "https://pt.wikipedia.org/wiki/Sete_Maravilhas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Sete_Maravilhas_de_Portugal",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "localizacao",
+      "label": "Localizacao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "categoria": "Monumentos (2007)",
+      "nome": "Castelo de Guimarães, século X",
+      "localizacao": "Guimarães, Minho"
+    },
+    {
+      "categoria": "Monumentos (2007)",
+      "nome": "Castelo de Óbidos, 1195",
+      "localizacao": "Óbidos, Estremadura"
+    },
+    {
+      "categoria": "Monumentos (2007)",
+      "nome": "Mosteiro da Batalha, 1385",
+      "localizacao": "Batalha, Beira Litoral"
+    },
+    {
+      "categoria": "Monumentos (2007)",
+      "nome": "Mosteiro de Alcobaça, 1153",
+      "localizacao": "Alcobaça, Estremadura"
+    },
+    {
+      "categoria": "Monumentos (2007)",
+      "nome": "Mosteiro dos Jerónimos, 1502",
+      "localizacao": "Santa Maria de Belém, Lisboa, Estremadura"
+    },
+    {
+      "categoria": "Monumentos (2007)",
+      "nome": "Palácio Nacional da Pena, 1838",
+      "localizacao": "Sintra, Lisboa, Estremadura"
+    },
+    {
+      "categoria": "Monumentos (2007)",
+      "nome": "Torre de Belém, 1521",
+      "localizacao": "Santa Maria de Belém, Lisboa, Estremadura"
+    },
+    {
+      "categoria": "Aldeias Ribeirinhas",
+      "nome": "Dornes",
+      "localizacao": "Ferreira do Zêzere, Ribatejo"
+    },
+    {
+      "categoria": "Aldeias Rurais",
+      "nome": "Sistelo",
+      "localizacao": "Arcos de Valdevez, Minho"
+    },
+    {
+      "categoria": "Aldeias de Mar",
+      "nome": "Fajã dos Cubres",
+      "localizacao": "Calheta, Região Autónoma dos Açores"
+    },
+    {
+      "categoria": "Aldeias Remotas",
+      "nome": "Piódão",
+      "localizacao": "Arganil, Beira Litoral"
+    },
+    {
+      "categoria": "Aldeias Autênticas",
+      "nome": "Castelo Rodrigo",
+      "localizacao": "Figueira de Castelo Rodrigo, Beira Alta"
+    },
+    {
+      "categoria": "Aldeias Monumento",
+      "nome": "Monsaraz",
+      "localizacao": "Reguengos de Monsaraz, Alentejo"
+    },
+    {
+      "categoria": "Aldeias em Áreas Protegidas",
+      "nome": "Rio de Onor",
+      "localizacao": "Bragança, Trás-os-Montes e Alto Douro"
+    }
+  ],
+  "meta": {
+    "title": "Sete Maravilhas de Portugal - Free Download",
+    "description": "Os monumentos e locais eleitos nas Sete Maravilhas de Portugal, com categoria e localização. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sete Maravilhas de Portugal | ListBase",
+    "seo_description": "Download Sete Maravilhas de Portugal — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Sete_Maravilhas_de_Portugal"
+    ]
+  }
+}
