@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:18:07.383Z",
-  "total_datasets": 497,
-  "total_records": 740521,
+  "generated": "2026-10-27T02:18:10.121Z",
+  "total_datasets": 498,
+  "total_records": 740585,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -1554,6 +1554,29 @@
         "xlsx": {
           "name": "pt-br-pratos-tipicos-parana_PT.xlsx",
           "size": 7787
+        }
+      }
+    },
+    {
+      "id": "pt-produtos-igp",
+      "name": "Produtos com Indicação Geográfica Protegida (IGP) de Portugal",
+      "category": "food",
+      "record_count": 64,
+      "columns": [
+        "produto",
+        "categoria"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_produtos_com_indicação_geográfica_protegida_de_Portugal",
+      "updated": "2026-10",
+      "size": 8687,
+      "files": {
+        "csv": {
+          "name": "pt-produtos-igp_PT.csv",
+          "size": 3818
+        },
+        "xlsx": {
+          "name": "pt-produtos-igp_PT.xlsx",
+          "size": 8199
         }
       }
     },

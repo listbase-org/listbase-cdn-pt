@@ -1,0 +1,292 @@
+{
+  "id": "pt-produtos-igp",
+  "name": "Produtos com Indicação Geográfica Protegida (IGP) de Portugal",
+  "title": "Produtos com Indicação Geográfica Protegida (IGP) de Portugal",
+  "description": "Lista dos produtos agrícolas e alimentares portugueses com Indicação Geográfica Protegida (IGP): carnes, enchidos, frutas e outros.",
+  "category": "food",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_produtos_com_indicação_geográfica_protegida_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_produtos_com_indicação_geográfica_protegida_de_Portugal",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "produto",
+      "label": "Produto",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "produto": "Borrego do Baixo Alentejo",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Borrego da Beira",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Borrego do Nordeste Alentejano",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Borrego de Montemor-o-Novo",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Cordeiro de Barroso, Anho de Barroso ou Cordeiro de leite de Barroso",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Cabrito do Alentejo",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Cabrito de Barroso",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Cabrito da Beira",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Cabrito da Gralheira",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Cabrito das Terras Altas do Minho",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Carne dos Açores",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Carne de Bovino Cruzado dos Lameiros do Barroso",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Vitela de Lafões",
+      "categoria": "Carnes"
+    },
+    {
+      "produto": "Alheira de Mirandela",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Alheira de Barroso-Montalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Alheira de Vinhais",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Butelo de Vinhais, Bucho de Vinhais e Chouriço de Ossos de Vinhais",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Cacholeira Branca de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriça Doce de Vinhais",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriça de Carne de Barroso-Montalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriça de Carne de Vinhais ou Linguiça de Vinhais",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriço de Abóbora de Barroso-Montalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriço Azedo de Vinhais, Azedo de Vinhais e Chouriço de Pão de Vinhais",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriço de Carne de Estremoz e Borba",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriço grosso de Estremoz e Borba",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriço Mouro de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Chouriço de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Farinheira de Estremoz e Borba",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Farinheira de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Linguíça do Baixo Alentejo ou Chouriço de carne do Baixo Alentejo",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Linguiça de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Lombo Branco de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Lombo Enguitado de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Morcela de Assar de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Morcela de Cozer de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Morcela de Estremoz e Borba",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Paia de Estremoz e Borba",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Paia de Lombo de Estremoz e Borba",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Paia de Toucinho de Estremoz e Borba",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Painho de Portalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Paio de Beja",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Presunto de Barroso",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Presunto de Campo Maior e Elvas e Paleta de Campo Maior e Elvas",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Presunto de Santana da Serra e Paleta de Santana da Serra",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Presunto de Vinhais ou Presunto Bísaro de Vinhais",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Salpicão de Barroso-Montalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Salpicão de Vinhais",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Sangueira de Barroso-Montalegre",
+      "categoria": "Produtos à base de carne"
+    },
+    {
+      "produto": "Queijo mestiço de Tolosa",
+      "categoria": "Queijos"
+    },
+    {
+      "produto": "Arroz Carolino das Lezírias Ribatejanas",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Batata doce de Aljezur",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Batata de Trás-os-Montes",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Cereja da Cova da Beira",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Citrinos do Algarve",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Maçã de Alcobaça",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Maçã da Beira Alta",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Maçã da Cova da Beira",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Maçã de Portalegre",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Meloa de Santa Maria - Açores",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Pêssego da Cova da Beira",
+      "categoria": "Frutas, produtos hortícolas e cereais"
+    },
+    {
+      "produto": "Ovos Moles de Aveiro",
+      "categoria": "Padaria, de pastelaria,etc."
+    },
+    {
+      "produto": "Pastel de Chaves",
+      "categoria": "Padaria, de pastelaria,etc."
+    },
+    {
+      "produto": "Pastel de Tentúgal",
+      "categoria": "Padaria, de pastelaria,etc."
+    },
+    {
+      "produto": "Fogaça da Feira",
+      "categoria": "Padaria, de pastelaria,etc."
+    }
+  ],
+  "meta": {
+    "title": "Produtos com Indicação Geográfica Protegida (IGP) de Portugal - Free Download",
+    "description": "Lista dos produtos agrícolas e alimentares portugueses com Indicação Geográfica Protegida (IGP): carnes, enchidos, frutas e outros. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produtos com Indicação Geográfica Protegida (IGP) de Portugal | ListBase",
+    "seo_description": "Download Produtos com Indicação Geográfica Protegida (IGP) de Portugal — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_produtos_com_indicação_geográfica_protegida_de_Portugal"
+    ]
+  }
+}
