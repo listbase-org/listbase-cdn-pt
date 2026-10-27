@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-21T03:36:55.903Z",
-  "total_datasets": 470,
-  "total_records": 737911,
+  "generated": "2026-10-27T02:16:54.646Z",
+  "total_datasets": 471,
+  "total_records": 738042,
   "categories": [
     {
       "id": "culture",
@@ -35,6 +35,10 @@
     {
       "id": "health",
       "dataset_count": 27
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -2892,6 +2896,33 @@
         "xlsx": {
           "name": "pt-br-tocantins-cnes_PT.xlsx",
           "size": 230393
+        }
+      }
+    },
+    {
+      "id": "pt-batalhas-de-portugal",
+      "name": "Batalhas de Portugal",
+      "category": "history",
+      "record_count": 131,
+      "columns": [
+        "data",
+        "conflito",
+        "vitoria_derrota",
+        "local",
+        "observacoes",
+        "periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_batalhas_de_Portugal",
+      "updated": "2026-10",
+      "size": 38273,
+      "files": {
+        "csv": {
+          "name": "pt-batalhas-de-portugal_PT.csv",
+          "size": 19875
+        },
+        "xlsx": {
+          "name": "pt-batalhas-de-portugal_PT.xlsx",
+          "size": 16657
         }
       }
     },

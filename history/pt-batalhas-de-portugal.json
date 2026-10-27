@@ -1,0 +1,1104 @@
+{
+  "id": "pt-batalhas-de-portugal",
+  "name": "Batalhas de Portugal",
+  "title": "Batalhas de Portugal",
+  "description": "Lista cronológica de batalhas, cercos e conflitos da história de Portugal, com data, local, resultado e observações.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_batalhas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_batalhas_de_Portugal",
+  "updated": "2026-10",
+  "record_count": 131,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "number"
+    },
+    {
+      "key": "conflito",
+      "label": "Conflito",
+      "type": "string"
+    },
+    {
+      "key": "vitoria_derrota",
+      "label": "Vitoria Derrota",
+      "type": "string"
+    },
+    {
+      "key": "local",
+      "label": "Local",
+      "type": "string"
+    },
+    {
+      "key": "observacoes",
+      "label": "Observacoes",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "868",
+      "conflito": "Presúria de Braga",
+      "vitoria_derrota": "",
+      "local": "Braga",
+      "observacoes": "Presúria e repovoamento de Braga pelo conde Vímara Peres em 868.",
+      "periodo": "Século IX"
+    },
+    {
+      "data": "868",
+      "conflito": "Presúria do Baixo Minho",
+      "vitoria_derrota": "",
+      "local": "Minho",
+      "observacoes": "Após o ataque por Afonso I das Astúrias em 750, a região teria jazido ao abandono e quase desabitada. Dá-se em 868 a presúria do Minho pelo conde Vímara Peres em 868.",
+      "periodo": "Século IX"
+    },
+    {
+      "data": "868",
+      "conflito": "Cerco do Porto",
+      "vitoria_derrota": "",
+      "local": "Porto",
+      "observacoes": "Vímara Peres cerca e reconquista o Porto aos Muçulmanos e funda o Condado Portucalense.",
+      "periodo": "Século IX"
+    },
+    {
+      "data": "872",
+      "conflito": "Cerco de Chaves",
+      "vitoria_derrota": "",
+      "local": "Chaves",
+      "observacoes": "Odoário Ordonhes recaptura Chaves dos muçulmanos.",
+      "periodo": "Século IX"
+    },
+    {
+      "data": "878",
+      "conflito": "Batalha do Porto",
+      "vitoria_derrota": "",
+      "local": "Porto",
+      "observacoes": "Em 878, o exército do rei Afonso III, com o conde Hermenegildo Guterres no comando, enfrentou e venceu as forças muçulmanas liderados por Mohammad I que tinham começado um ataque contra o Porto",
+      "periodo": "Século IX"
+    },
+    {
+      "data": "878",
+      "conflito": "Cerco de Coimbra",
+      "vitoria_derrota": "",
+      "local": "Coimbra",
+      "observacoes": "Afonso III das Astúrias reconquista Coimbra aos muçulmanos.",
+      "periodo": "Século IX"
+    },
+    {
+      "data": "913",
+      "conflito": "Saque de Évora",
+      "vitoria_derrota": "",
+      "local": "Évora",
+      "observacoes": "Em 913, Ordonho II da Galiza cercou a cidade e, graças ao mau estado das muralhas romanas, tomou-a e massacrou a população. O governador, Maruane ibne Abalmaleque ibne Amade, foi morto numa mesquita, e Ordonho abandonou a cidade com 4 mil cativos entre mulheres e crianças.",
+      "periodo": "Século X"
+    },
+    {
+      "data": "985",
+      "conflito": "Cerco de Braga",
+      "vitoria_derrota": "",
+      "local": "Braga",
+      "observacoes": "Saque da cidade de Braga por Almançor e razia da região.",
+      "periodo": "Século X"
+    },
+    {
+      "data": "29 de junho de 987",
+      "conflito": "Cerco de Coimbra",
+      "vitoria_derrota": "",
+      "local": "Coimbra",
+      "observacoes": "Com o exército de Almançor, são ocupadas de novo as terras e a cidade de Coimbra fica deserta por sete anos",
+      "periodo": "Século X"
+    },
+    {
+      "data": "987",
+      "conflito": "Cerco de Viseu",
+      "vitoria_derrota": "",
+      "local": "Viseu",
+      "observacoes": "Derrota da guarnição portucalense em Viseu.",
+      "periodo": "Século X"
+    },
+    {
+      "data": "987",
+      "conflito": "Cerco de Lamego",
+      "vitoria_derrota": "",
+      "local": "Lamego",
+      "observacoes": "Perda de Lamego para Almançor, depois da perda de Coimbra e Viseu.",
+      "periodo": "Século X"
+    },
+    {
+      "data": "2 de dezembro de 990",
+      "conflito": "Cerco de Montemor-o-Velho",
+      "vitoria_derrota": "",
+      "local": "Montemor-o-Velho",
+      "observacoes": "De acordo com a Crónica dos Godos, a primitiva fortificação de Montemor foi conquistada pelas forças de Almançor (2 de dezembro de 990) – que a terão reedificado, pessando a ser seu \"tenens\" Froila Gonçalves.",
+      "periodo": "Século X"
+    },
+    {
+      "data": "995",
+      "conflito": "Batalha do Castelo de Pena de Aguiar",
+      "vitoria_derrota": "",
+      "local": "Pontido, Telões, Vila Pouca de Aguiar",
+      "observacoes": "Tomada do Castelo de Pena de Aguiar por Almançor e razia da região",
+      "periodo": "Século X"
+    },
+    {
+      "data": "Julho de 1015 a Abril de 1016",
+      "conflito": "Campanha viquingue no norte de Portugal",
+      "vitoria_derrota": "",
+      "local": "Região do Norte, Condado Portucalense",
+      "observacoes": "É dado o cerco do Castelo de Vermoim, e saqueado pelos normandos. Morre neste cerco o conde Alvito Nunes.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "14 de outubro de 1034",
+      "conflito": "Cerco de Montemor-o-Velho",
+      "vitoria_derrota": "",
+      "local": "Montermor-o-Velho",
+      "observacoes": "Gonçalo Trastamariz toma Montemor-o-Velho.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "1039",
+      "conflito": "Cerco de Castelo Bom",
+      "vitoria_derrota": "",
+      "local": "Castelo Bom, Almeida",
+      "observacoes": "Início da Campanha das Beiras, onde se inicia a reconquista da Beira Alta por parte de Fernando I de Leão.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "1055",
+      "conflito": "Cerco de Seia",
+      "vitoria_derrota": "",
+      "local": "Seia, Guarda",
+      "observacoes": "À época da Reconquista da Península Ibérica, a povoação foi definitivamente conquistada aos mouros por Fernando Magno (1055).",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "29 de novembro de 1057",
+      "conflito": "Cerco de Lamego",
+      "vitoria_derrota": "",
+      "local": "Lamego",
+      "observacoes": "Reconquista definitiva de Lamego por parte dos cristãos.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "29 de julho de 1058",
+      "conflito": "Cerco de Viseu",
+      "vitoria_derrota": "",
+      "local": "Viseu",
+      "observacoes": "Tomada definitiva de Viseu por parte de Fernando I de Leão",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "9 de julho de 1064",
+      "conflito": "Cerco de Coimbra",
+      "vitoria_derrota": "",
+      "local": "Coimbra",
+      "observacoes": "Cidade reconquistada por Fernando Magno de Leão a Almançor depois de um cerco de seis meses",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "18 de janeiro de 1071",
+      "conflito": "Batalha de Pedroso",
+      "vitoria_derrota": "",
+      "local": "Mire de Tibães",
+      "observacoes": "Morre o conde Nuno Mendes. Extinção da revolta portucalense e absorção do Condado de Portucale pelo Rei D. Garcia da Galiza",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "1071",
+      "conflito": "Batalha das Águas de Maias",
+      "vitoria_derrota": "",
+      "local": "Coselhas, Coimbra",
+      "observacoes": "Batalha ocorrida entre D. Garcia II da Galiza e D. Sancho II de Castela, onde Dom Rodrigo Forjaz de Transtâmara fica ferido.Os castelhanos foram derrotados e 600 foram degolados e entre eles o Conde Fafes Sarrazins de Lanhoso e outros fidalgos ilustres.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "1071",
+      "conflito": "Batalha de Santarém",
+      "vitoria_derrota": "",
+      "local": "Santarém",
+      "observacoes": "Vitória galego-portucalense, onde Dom Rodrigo Forjaz de Transtâmara prende D. Sancho II de Castela, entregando-o ao rei galego. Dom Rodrigo Forjaz de Transtâmara acaba por falecer das feridas desta batalha, posteriormente.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "29 de Abril de 1093",
+      "conflito": "Cerco de Santarém",
+      "vitoria_derrota": "",
+      "local": "Santarém",
+      "observacoes": "O rei D. Afonso tomou a cidade de Santarém e entregou-a ao governo de seu genro o Conde D. Raimundo, marido de sua filha D. Urraca e sob a direcção deste Sueiro Mendes. D.Afonso VI seguiu depois para Lisboa.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "6 de Maio de 1093",
+      "conflito": "Cerco de Lisboa",
+      "vitoria_derrota": "",
+      "local": "Lisboa",
+      "observacoes": "Conquista de Lisboa por D. Afonso VI. Segue para a conquista de Sintra",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "8 de Maio de 1093",
+      "conflito": "Cerco de Sintra",
+      "vitoria_derrota": "",
+      "local": "Sintra",
+      "observacoes": "Conquista de Sintra por Afonso VI de Leão. Tomou Sintra e entregou-a ao governo de seu genro o Conde D. Raimundo, marido de sua filha D. Urraca e sob a direcção de Sueiro Mendes. O próprio rei voltou para Toledo.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "1095",
+      "conflito": "Cerco de Sintra",
+      "vitoria_derrota": "",
+      "local": "Sintra",
+      "observacoes": "Recaptura de Sintra pelos mouros.",
+      "periodo": "Século XI"
+    },
+    {
+      "data": "1102",
+      "conflito": "Batalha de Arouca",
+      "vitoria_derrota": "",
+      "local": "Santa Eulália, Arouca",
+      "observacoes": "",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "Julho de 1109",
+      "conflito": "Cerco de Sintra",
+      "vitoria_derrota": "",
+      "local": "Sintra",
+      "observacoes": "Conde D. Henrique recaptura Sintra aos mouros.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1110",
+      "conflito": "Batalha de Vatalandi",
+      "vitoria_derrota": "",
+      "local": "Vatalandi, perto de Santarém",
+      "observacoes": "Morte de Soeiro Fromarigues, comandante da força cristã e Mido Cresconiz",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "26 de maio de 1111",
+      "conflito": "Cerco de Santarém",
+      "vitoria_derrota": "",
+      "local": "Santarém",
+      "observacoes": "Perda de Santarém para Sir ibne Abi Becre, emir de Sevilha.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1117",
+      "conflito": "Cerco de Miranda do Corvo",
+      "vitoria_derrota": "",
+      "local": "Miranda do Corvo, Coimbra",
+      "observacoes": "Ali ibne Iúçufe toma Miranda do Corvo.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "22 de junho de 1117",
+      "conflito": "Cerco de Coimbra",
+      "vitoria_derrota": "",
+      "local": "Coimbra",
+      "observacoes": "O rei Ali ibne Iúçufe (emir almorávida) cercou Coimbra e aí esteve durante três semanas. Os mouros forçaram os habitantes do Castelo de Soure, que defendia a cidade pelo sul, a abandonar o lugar, tomaram Miranda do Corvo e o Castelo de Santa Eulália, a jusante de Montemor-o-Velho.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1121",
+      "conflito": "Combate Naval no Rio Minho",
+      "vitoria_derrota": "",
+      "local": "Rio Minho",
+      "observacoes": "Em 1121, as barcas armadas da regente do condado, D. Teresa, enfrentaram no rio Minho a frota das forças leais à sua irmã, D. Urraca, regente da Galiza. Primeiro registo de um combate naval de forças do condado portucalense.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1127",
+      "conflito": "Cerco de S ta Maria da Feira",
+      "vitoria_derrota": "",
+      "local": "Castelo de Santa Maria da Feira",
+      "observacoes": "No contexto da guerra entre D. Afonso Henriques e D. Teresa, D. Afonso Henriques toma o castelo de Feira às forças leais a D. Teresa",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1127",
+      "conflito": "Cerco de Neiva",
+      "vitoria_derrota": "",
+      "local": "Castelo de Neiva",
+      "observacoes": "Conquista por D. Afonso Henriques dos castelo de Neiva,na terra de Santa Maria, à sua mãe D. Teresa.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1127",
+      "conflito": "Cerco de Guimarães",
+      "vitoria_derrota": "",
+      "local": "Guimarães",
+      "observacoes": "Egas Moniz consegue que o exército leonês, que cerca Guimarães, levante o assédio, sob promessa de D. Afonso Henriques prestar a menagem exigida pelo imperador das Espanhas. D. Afonso Henriques passa a controlar o Condado Portucalense.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "24 de junho de 1128",
+      "conflito": "Batalha de São Mamede",
+      "vitoria_derrota": "",
+      "local": "São Mamede, perto de Guimarães",
+      "observacoes": "Nesta Batalha D. Afonso Henriques defronta D. Teresa de Leão sua mãe. O condado Portucalense ganha a sua independência formando-se o Reino de Portugal",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1137",
+      "conflito": "Batalha de Cerneja",
+      "vitoria_derrota": "",
+      "local": "Cernensa (ou Cerneja), A Limia, Galiza",
+      "observacoes": "Vitória de D. Afonso Henriques sobre Fernâo Peres de Trava, D. Rodrigo Veilaz conde de Sárria e outros nobres Galegos em Cerneja na terra de Límia.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "25 de julho de 1139",
+      "conflito": "Batalha de Ourique",
+      "vitoria_derrota": "",
+      "local": "Ourique",
+      "observacoes": "A esta batalha sucedeu-se a ordenação do cavaleiro Gualdim Pais",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1142",
+      "conflito": "Cerco de Leiria",
+      "vitoria_derrota": "",
+      "local": "Leiria",
+      "observacoes": "Reconquista de Leiria aos Mouros.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "15 de março de 1147",
+      "conflito": "Cerco de Santarém",
+      "vitoria_derrota": "",
+      "local": "Santarém",
+      "observacoes": "Conquista de Santarém por D. Afonso Henriques.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1147",
+      "conflito": "Cerco de Lisboa",
+      "vitoria_derrota": "",
+      "local": "Lisboa",
+      "observacoes": "Lenda de Martim Moniz",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1147",
+      "conflito": "Conquista de Almada",
+      "vitoria_derrota": "",
+      "local": "Almada, Setúbal",
+      "observacoes": "No âmbito da conquista de Lisboa aos mouros (1147), foi assaltada e conquistada pelas forças combinadas de D. Afonso Henriques (1112-1185) e dos cruzados.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "Out de 1147",
+      "conflito": "Batalha de Sacavém",
+      "vitoria_derrota": "",
+      "local": "Sacavém, nas margens do Rio Trancão",
+      "observacoes": "Considerada lendária, uma vez que segundo relatos houve intervenção divina da virgem Maria",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "24 - Jun - 1148",
+      "conflito": "Cerco de Alenquer",
+      "vitoria_derrota": "",
+      "local": "Alenquer",
+      "observacoes": "",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1151",
+      "conflito": "Cerco de Alcácer do Sal",
+      "vitoria_derrota": "",
+      "local": "Alcácer do Sal, Setúbal",
+      "observacoes": "D. Afonso Henriques tenta, em vão, tomar Alcácer do Sal.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "24 de junho de 1158",
+      "conflito": "Cerco de Alcácer do Sal",
+      "vitoria_derrota": "",
+      "local": "Alcácer do Sal, Setúbal",
+      "observacoes": "",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "30 de novembro de 1162",
+      "conflito": "Cerco de Beja",
+      "vitoria_derrota": "",
+      "local": "Beja",
+      "observacoes": "Fernão Gonçalves reconquista Beja, com um exército português constituído por cavaleiros-vilãos. Em homenagem a este feito, é decidida a construção da Ermida de Santo André (Beja).",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1163",
+      "conflito": "Cerco de Salamanca",
+      "vitoria_derrota": "",
+      "local": "Salamanca, Espanha",
+      "observacoes": "Ocupação de Salamanca por D. Afonso Henriques.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1165",
+      "conflito": "Cerco de Évora",
+      "vitoria_derrota": "",
+      "local": "Évora",
+      "observacoes": "",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1166",
+      "conflito": "Cerco de Coruche",
+      "vitoria_derrota": "",
+      "local": "Coruche, Santarém",
+      "observacoes": "",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1166",
+      "conflito": "Cerco de Moura",
+      "vitoria_derrota": "",
+      "local": "Moura, Beja",
+      "observacoes": "A povoação foi inicialmente conquistada, em 1166, pelos irmãos Pedro e Álvaro Rodrigues e perdida quase de seguida.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1166",
+      "conflito": "Cerco de Serpa",
+      "vitoria_derrota": "",
+      "local": "Serpa, Beja",
+      "observacoes": "Conquistada em 1166 por D. Afonso Henriques",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1166",
+      "conflito": "2º Cerco de Moura de 1166",
+      "vitoria_derrota": "",
+      "local": "Moura, Beja",
+      "observacoes": "Conquistada por Geraldo Sem Pavor, tendo depois disso, e até ao reinado de D. Dinis, sido perdida e reconquistada mais quatro vezes.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1169",
+      "conflito": "Cerco de Cáceres",
+      "vitoria_derrota": "",
+      "local": "Cáceres, Espanha",
+      "observacoes": "Conquistada em 1169 por D. Afonso Henriques",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1169",
+      "conflito": "Cerco de Montánchez",
+      "vitoria_derrota": "",
+      "local": "Montánchez, Espanha",
+      "observacoes": "Conquistada em 1166 por D. Afonso Henriques no contexto das guerras com Leão",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1169",
+      "conflito": "Cerco de Trujilho",
+      "vitoria_derrota": "",
+      "local": "Trujilho, Espanha",
+      "observacoes": "Conquistada em 1166 por D. Afonso Henriques. Afonso Henriques pretendia abafar a influência leonesa na região e tomar Badajoz para mãos portuguesas.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1169",
+      "conflito": "Cerco de Badajoz",
+      "vitoria_derrota": "",
+      "local": "Badajoz, na Estremadura",
+      "observacoes": "Os mouros resistem ao cerco português com ajuda de Castela. D. Afonso Henriques fica ferido na perna e é feito prisioneiro pelos castelhanos por algum tempo. A sua carreira militar chega ao fim.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1178",
+      "conflito": "Incursão em Sevilha",
+      "vitoria_derrota": "",
+      "local": "Sevilha",
+      "observacoes": "Importante expedição em território muçulmano do infante D. Sancho, futuro rei de Portugal, que alcançou e destruiu os arredores de Sevilha, na margem direita do rio Guadalquivir.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1180",
+      "conflito": "Batalha de Arganal",
+      "vitoria_derrota": "",
+      "local": "Campo de Argañán, Cidade Rodrigo",
+      "observacoes": "Derrota do infante D. Sancho na Batalha de Arganal, junto a Ciudad Rodrigo, perante o exército do reino de Leão.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "29 de julho de 1180",
+      "conflito": "Batalha do Cabo Espichel",
+      "vitoria_derrota": "",
+      "local": "Cabo Espichel, Sesimbra",
+      "observacoes": "Os portugueses, comandados por D. Fuas Roupinho, derrotaram os muçulmanos liderados por Ben Jami",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "Junho de 1184",
+      "conflito": "Cerco de Santarém",
+      "vitoria_derrota": "",
+      "local": "Santarém",
+      "observacoes": "Abu Iacube Iúçufe I reúne um exército e deita cerco a Santarém, defendida por D. Afonso Henriques",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "3 de junho de 1189",
+      "conflito": "Cerco do Alvor",
+      "vitoria_derrota": "",
+      "local": "Alvor",
+      "observacoes": "Alvor foi reconquistada por D. Sancho I em 3 de junho 1189, mas perdida pouco tempo depois.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "2 de setembro de 1189",
+      "conflito": "Cerco de Silves",
+      "vitoria_derrota": "",
+      "local": "Silves",
+      "observacoes": "Em 1189, o rei Sancho I de Portugal conquistou Silves. O controlo português sobre Silves seria curto, com os Almóadas conquistando a cidade novamente em 1191 com um contra-ataque liderado por Abu Iúçufe Iacube Almançor, o califa almóada em pessoa.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1191",
+      "conflito": "Cerco de Silves",
+      "vitoria_derrota": "",
+      "local": "Silves",
+      "observacoes": "Retornou à posse muçulmana quando da grande ofensiva almóada de Iacube Almançor até ao rio Tejo (1191).",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1191",
+      "conflito": "Cerco de Serpa",
+      "vitoria_derrota": "",
+      "local": "Serpa",
+      "observacoes": "Retornou à posse muçulmana quando da grande ofensiva almóada de Iacube Almançor até ao rio Tejo (1191).",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1191",
+      "conflito": "Cerco de Évora",
+      "vitoria_derrota": "",
+      "local": "Évora",
+      "observacoes": "Durante o reinado de D. Sancho I (1185-1211), a cidade resistiu ao assalto das forças do Califado Almóada comandadas por Iacube Almançor, quando as fronteiras portuguesas foram empurradas até à linha do rio Tejo.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1191",
+      "conflito": "Cerco de Alcácer do Sal",
+      "vitoria_derrota": "",
+      "local": "Alcácer do Sal, Setúbal",
+      "observacoes": "Iacube Almançor recaptura Alcácer do Sal.",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1197",
+      "conflito": "Cerco de Túi",
+      "vitoria_derrota": "",
+      "local": "Tui, Galiza",
+      "observacoes": "Sancho I conquista Tui",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1197",
+      "conflito": "Cerco de Pontevedra",
+      "vitoria_derrota": "",
+      "local": "Pontevedra, Galiza",
+      "observacoes": "Sancho I conquista Pontevedra",
+      "periodo": "Século XII"
+    },
+    {
+      "data": "1323",
+      "conflito": "Batalha de Alvalade",
+      "vitoria_derrota": "",
+      "local": "Alvalade, (Lisboa)",
+      "observacoes": "A batalha não chegou a ocorrer graças à intervenção da Rainha Santa Isabel",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "30 de outubro de 1340",
+      "conflito": "Batalha do Salado",
+      "vitoria_derrota": "",
+      "local": "Ribeira do Salado, província de Cádiz (Espanha)",
+      "observacoes": "A força portuguesa e castelhana aliaram-se provisoriamente de modo a combater a ameaça muçulmana",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "1369 de 1370",
+      "conflito": "Bloqueio Naval de Sevilha",
+      "vitoria_derrota": "",
+      "local": "Sevilha, Espanha",
+      "observacoes": "Vitória tática de Portugal frente aos castelhanos. Prejuízos financeiros a Castela",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "17 de julho de 1381",
+      "conflito": "Batalha Naval de Saltes",
+      "vitoria_derrota": "",
+      "local": "Ilha de Saltes, ria de Huelva",
+      "observacoes": "Maior derrota naval portuguesa na sua história. Vitória decisiva de Castela",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "6 de abril de 1384",
+      "conflito": "Batalha dos Atoleiros",
+      "vitoria_derrota": "",
+      "local": "Atoleiros (Fronteira)",
+      "observacoes": "Uma batalha que decorreu no território Alentejano Português durante a crise de 1383/1384 aonde Castela após invadir Portugal denfrontou-os, obtendo um resultado positivo, batalha comandada por D. Nuno Álvares Pereira e D. João I de Portugal.",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "18 de julho de 1384",
+      "conflito": "Batalha Naval do Rio Tejo",
+      "vitoria_derrota": "",
+      "local": "Rio Tejo, Lisboa, Portugal",
+      "observacoes": "Travada em julho de 1384, entre uma força naval de Portugal com 34 navios com o objetivo de abastecer a cidade sitiada de Lisboa com suprimentos e a frota castelhana liderada pelo almirante Fernando Sánchez de Tovar. Vitória estratégica de Portugal com o rompimento do bloqueio a Lisboa.",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "9 de setembro de 1384",
+      "conflito": "Cerco de Lisboa",
+      "vitoria_derrota": "",
+      "local": "Lisboa",
+      "observacoes": "",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "29 de maio de 1385",
+      "conflito": "Batalha de Trancoso",
+      "vitoria_derrota": "",
+      "local": "Trancoso",
+      "observacoes": "",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "14 de agosto de 1385",
+      "conflito": "Batalha de Aljubarrota",
+      "vitoria_derrota": "",
+      "local": "perto de Aljubarrota",
+      "observacoes": "",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "15 de outubro de 1385",
+      "conflito": "Batalha de Valverde",
+      "vitoria_derrota": "",
+      "local": "Valverde de Mérida",
+      "observacoes": "Fim da Crise dinástica de 1383–1385",
+      "periodo": "Século XIV"
+    },
+    {
+      "data": "22 de agosto de 1415",
+      "conflito": "Conquista de Ceuta",
+      "vitoria_derrota": "",
+      "local": "Ceuta",
+      "observacoes": "Começa a expansão ultramarina portuguesa e assim os descobrimentos. Consegue-se uma cidade estratégica que permitirá o controlo da pirataria na costa sul portuguesa.",
+      "periodo": "Século XV"
+    },
+    {
+      "data": "Agosto de 1419",
+      "conflito": "Cerco de Ceuta",
+      "vitoria_derrota": "",
+      "local": "Ceuta",
+      "observacoes": "",
+      "periodo": "Século XV"
+    },
+    {
+      "data": "20 de maio de 1449",
+      "conflito": "Batalha de Alfarrobeira",
+      "vitoria_derrota": "",
+      "local": "Alverca do Ribatejo",
+      "observacoes": "",
+      "periodo": "Século XV"
+    },
+    {
+      "data": "Junho de 1455",
+      "conflito": "Combate Naval no Rio Gâmbia",
+      "vitoria_derrota": "",
+      "local": "Rio Gâmbia",
+      "observacoes": "Vitória portuguesa sobre almadias de nativos na zona do gâmbia.",
+      "periodo": "Século XV"
+    },
+    {
+      "data": "1 de março de 1476",
+      "conflito": "Batalha de Toro",
+      "vitoria_derrota": "",
+      "local": "Toro",
+      "observacoes": "",
+      "periodo": "Século XV"
+    },
+    {
+      "data": "13 de agosto de 1476",
+      "conflito": "Batalha do Cabo de São Vicente",
+      "vitoria_derrota": "",
+      "local": "Cabo de São Vicente",
+      "observacoes": "Vitória da frota franco-portuguesa no âmbito da Guerra de Sucessão de Castela. Defesa da praça de Ceuta de um assédio",
+      "periodo": "Século XV"
+    },
+    {
+      "data": "1478",
+      "conflito": "Batalha Naval da Guiné",
+      "vitoria_derrota": "",
+      "local": "Na costa adjacente a São Jorge da Mina",
+      "observacoes": "Vitória decisiva, tática e estratégica de Portugal face a Castela.Totalidade da frota castelhana capturada; Tripulação feita prisioneira",
+      "periodo": "Século XV"
+    },
+    {
+      "data": "março de 1506 (520 anos)",
+      "conflito": "Batalha de Cananor",
+      "vitoria_derrota": "Reino de Portugal",
+      "local": "Calecute Sultanato de Guzarate Império Otomano",
+      "observacoes": "Cananor, Índia",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "10 de dezembro de 1510",
+      "conflito": "Conquista portuguesa de Goa",
+      "vitoria_derrota": "Império Português",
+      "local": "Sultanato de Bijapur",
+      "observacoes": "Goa Velha, Índia",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "Dezembro de 1501",
+      "conflito": "Batalha de Cananor",
+      "vitoria_derrota": "",
+      "local": "Cananor",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "Março de 1508",
+      "conflito": "Batalha de Chaul",
+      "vitoria_derrota": "",
+      "local": "Chaul",
+      "observacoes": "Derrota dos Portugueses contra os Turcos e Levantinos, organizados pelo sultão do Egipto",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "3 de fevereiro de 1509",
+      "conflito": "Batalha de Diu",
+      "vitoria_derrota": "",
+      "local": "Diu",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "1511",
+      "conflito": "Conquista de Malaca",
+      "vitoria_derrota": "",
+      "local": "Malaca",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "1512",
+      "conflito": "Batalha contra Pate-Onuz",
+      "vitoria_derrota": "",
+      "local": "Malaca",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "28 de fevereiro de 1513",
+      "conflito": "Batalha de Azamor",
+      "vitoria_derrota": "",
+      "local": "Azamor",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "1521",
+      "conflito": "Batalha de Tamão",
+      "vitoria_derrota": "",
+      "local": "Tamão, Hong Kong",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "1522",
+      "conflito": "Batalha da Ilha da Veniaga",
+      "vitoria_derrota": "",
+      "local": "Ilha de Lantau",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "4 de agosto de 1578",
+      "conflito": "Batalha de Alcácer Quibir",
+      "vitoria_derrota": "",
+      "local": "Alcácer Quibir",
+      "observacoes": "Foi o maior desastre militar da história de Portugal, tanto em número de mortes, como em consequências geradas posteriormente.",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "25 de agosto de 1580",
+      "conflito": "Batalha de Alcântara",
+      "vitoria_derrota": "",
+      "local": "Lisboa",
+      "observacoes": "Perda da Independência",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "1581",
+      "conflito": "Batalha da Salga",
+      "vitoria_derrota": "",
+      "local": "Terceira, Açores",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "26 de julho de 1582",
+      "conflito": "Batalha Naval de Vila Franca",
+      "vitoria_derrota": "",
+      "local": "Oceano Atlântico, ao largo de Vila Franca do Campo",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "26 de julho de 1583",
+      "conflito": "Batalha da ilha Terceira",
+      "vitoria_derrota": "",
+      "local": "Baía das Mós, Vila de São Sebastião, Ilha Terceira, Açores",
+      "observacoes": "Fim da resistência da Ilha Terceira, e dos apoiantes de D.António Prior do Crato ao domínio de Castela",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "29 de julho de 1588",
+      "conflito": "Batalha de Gravelines",
+      "vitoria_derrota": "",
+      "local": "Canal da Mancha, perto de Gravelines",
+      "observacoes": "",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "30 de março de 1595",
+      "conflito": "Saque do Recife",
+      "vitoria_derrota": "",
+      "local": "Recife, Pernambuco",
+      "observacoes": "Foi a única expedição de corso da Inglaterra que teve como objetivo principal o Brasil, e representou o mais rico butim da história da navegação de corso do período elisabetano.",
+      "periodo": "Século XVI"
+    },
+    {
+      "data": "17 de agosto de 1808",
+      "conflito": "Batalha de Roliça",
+      "vitoria_derrota": "",
+      "local": "Roliça",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "21 de agosto de 1808",
+      "conflito": "Batalha do Vimeiro",
+      "vitoria_derrota": "",
+      "local": "Vimeiro",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "29 de março de 1809",
+      "conflito": "Batalha do Porto",
+      "vitoria_derrota": "",
+      "local": "Porto",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "27 de setembro de 1810",
+      "conflito": "Batalha do Buçaco",
+      "vitoria_derrota": "",
+      "local": "perto de Buçaco, Luso, Portugal",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "25 de março de 1811",
+      "conflito": "Combate de Campo Maior",
+      "vitoria_derrota": "",
+      "local": "Campo Maior, Portugal",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "6 e 7 de abril de 1811",
+      "conflito": "Batalha de Badajoz",
+      "vitoria_derrota": "",
+      "local": "Badajoz, Espanha",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "3 de abril de 1811",
+      "conflito": "Batalha do Sabugal",
+      "vitoria_derrota": "",
+      "local": "Sabugal",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "3 de maio de 1811",
+      "conflito": "Batalha de Fuentes de Oñoro",
+      "vitoria_derrota": "",
+      "local": "Salamanca, Espanha",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "16 de maio de 1811",
+      "conflito": "Batalha de Albuera",
+      "vitoria_derrota": "",
+      "local": "La Albuera, Espanha",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "22 de julho de 1812",
+      "conflito": "Batalha de Salamanca",
+      "vitoria_derrota": "",
+      "local": "Salamanca, Espanha",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "21 de junho de 1813",
+      "conflito": "Batalha de Vitória",
+      "vitoria_derrota": "",
+      "local": "Vitória, Espanha",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "25 de julho de 1813",
+      "conflito": "Batalha dos Pirenéus",
+      "vitoria_derrota": "",
+      "local": "Região norte dos Pirenéus, Espanha",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "10 de novembro de 1813",
+      "conflito": "Batalha de Nivelle",
+      "vitoria_derrota": "",
+      "local": "Perto do Rio Ugarana, Navarra, Espanha",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "9 de dezembro de 1813",
+      "conflito": "Batalha do Nive",
+      "vitoria_derrota": "",
+      "local": "Baiona, França",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "27 de fevereiro de 1814",
+      "conflito": "Batalha de Orthez",
+      "vitoria_derrota": "",
+      "local": "Orthez, França",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "10 de abril de 1814 (212 anos)",
+      "conflito": "Batalha de Toulouse",
+      "vitoria_derrota": "",
+      "local": "Toulouse, França",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "19 de fevereiro de 1822 (204 anos)",
+      "conflito": "Invasão do Convento da Lapa",
+      "vitoria_derrota": "",
+      "local": "Convento da Lapa, Salvador, Bahia, Brasil",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "13 de março de 1823 (203 anos)",
+      "conflito": "Batalha do Jenipapo",
+      "vitoria_derrota": "",
+      "local": "Rio Jenipapo, Piauí, Brasil",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "13 de abril de 1823 (203 anos)",
+      "conflito": "Rebelião de Belém",
+      "vitoria_derrota": "",
+      "local": "Belém, Grão-Pará, Brasil",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "28 de maio de 1823 (203 anos)",
+      "conflito": "Revolta de Muaná",
+      "vitoria_derrota": "",
+      "local": "Muaná, Marajó, Brasil",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "Julho de 1832 a agosto de 1833",
+      "conflito": "Cerco do Porto",
+      "vitoria_derrota": "",
+      "local": "Porto",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "5 de julho de 1833",
+      "conflito": "Batalha do Cabo de São Vicente",
+      "vitoria_derrota": "",
+      "local": "Cabo de São Vicente",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "11 de agosto de 1829 (197 anos)",
+      "conflito": "Batalha da Praia da Vitória",
+      "vitoria_derrota": "",
+      "local": "baía da Praia da Vitória",
+      "observacoes": "Praia da Vitória deve o seu nome a esta batalha",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "Janeiro de 1834",
+      "conflito": "Batalha de Pernes",
+      "vitoria_derrota": "",
+      "local": "Pernes",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "18 de fevereiro de 1834",
+      "conflito": "Batalha de Almoster",
+      "vitoria_derrota": "",
+      "local": "Almoster, Santarém",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    },
+    {
+      "data": "16 de maio de 1834",
+      "conflito": "Batalha de Asseiceira",
+      "vitoria_derrota": "",
+      "local": "Asseiceira, Tomar",
+      "observacoes": "",
+      "periodo": "Século XIX"
+    }
+  ],
+  "meta": {
+    "title": "Batalhas de Portugal - Free Download",
+    "description": "Lista cronológica de batalhas, cercos e conflitos da história de Portugal, com data, local, resultado e observações. Contains 131 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Batalhas de Portugal | ListBase",
+    "seo_description": "Download Batalhas de Portugal — 131 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 131 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_batalhas_de_Portugal"
+    ]
+  }
+}
