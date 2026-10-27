@@ -1,0 +1,1666 @@
+{
+  "id": "pt-br-escolas-de-samba",
+  "name": "Escolas de samba do Brasil",
+  "title": "Escolas de samba do Brasil",
+  "description": "Lista de escolas de samba do Brasil por estado e cidade.",
+  "category": "culture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_escolas_de_samba_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_escolas_de_samba_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 325,
+  "columns": [
+    {
+      "key": "escola",
+      "label": "Escola",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "escola": "Bosque",
+      "estado": "Acre",
+      "cidade": "Rio Branco"
+    },
+    {
+      "escola": "Mocidade Independente",
+      "estado": "Acre",
+      "cidade": "Rio Branco"
+    },
+    {
+      "escola": "Quem Quiser Pode Vir",
+      "estado": "Acre",
+      "cidade": "Rio Branco"
+    },
+    {
+      "escola": "Unidos da Cadeia Velha",
+      "estado": "Acre",
+      "cidade": "Rio Branco"
+    },
+    {
+      "escola": "Unidos do Bairro Quinze",
+      "estado": "Acre",
+      "cidade": "Rio Branco"
+    },
+    {
+      "escola": "13 de Maio",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Acadêmicos da Mocidade",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Arco-Íris",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Gaviões da Pajuçara",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Girassol",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Jangadeiros Alagoanos",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Nação Imperial",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Unidos do Poço",
+      "estado": "Alagoas",
+      "cidade": "Maceió"
+    },
+    {
+      "escola": "Boêmios do Laguinho",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Cidade de Macapá",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Emissários da Cegonha",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Império do Povo",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Império da Zona Norte",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Maracatu da Favela",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Piratas da Batucada",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Piratas Estilizados",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Solidariedade",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Unidos do Buritizal",
+      "estado": "Amapá",
+      "cidade": "Macapá"
+    },
+    {
+      "escola": "Em Cima da Hora",
+      "estado": "Amazonas",
+      "cidade": "Maués"
+    },
+    {
+      "escola": "Império Verde e Rosa",
+      "estado": "Amazonas",
+      "cidade": "Maués"
+    },
+    {
+      "escola": "Mocidade de Santa Luzia",
+      "estado": "Amazonas",
+      "cidade": "Maués"
+    },
+    {
+      "escola": "Brasil Meu Samba",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "G.R.E.S Escravos do Oriente",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "Império Feirense",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "Marquês de Sapucaí",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "Nativos de Santana",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "Unidos da Rua Nova",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "Unidos de Padre Ovídi",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "Acadêmicos da Barroquinha",
+      "estado": "Bahia",
+      "cidade": "Feira de Santana"
+    },
+    {
+      "escola": "Diamante Negro",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Unidos de Itapuã",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Acadêmicos do Morro",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Acadêmicos do Samba",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Bafo da Onça",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Calouros do Samba",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "De Hoje a 8",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Diplomatas da Amaralina",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "ES Unidos do Politeama",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Embaixada Terror do Samba",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Embaixada União",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Escravos do Oriente",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Filhos da Feira de São Joaquim",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Filhos da Liberdade",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Filhos do Morro",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Filhos do Nordeste",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Filhos do Ritmo",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Filhos do Tororó",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Filhos dos Pirineus",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Juventude do Garcia",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Lira Imperial",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Ritmistas do Samba",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Ritmos da Liberdade",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Unidos do Vale do Canela",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Verde e Rosa",
+      "estado": "Bahia",
+      "cidade": "Salvador"
+    },
+    {
+      "escola": "Acadêmicos da Vilalta",
+      "estado": "Ceará",
+      "cidade": "Crato"
+    },
+    {
+      "escola": "Espalha Brasa",
+      "estado": "Ceará",
+      "cidade": "Crato"
+    },
+    {
+      "escola": "Idealistas do Samba",
+      "estado": "Ceará",
+      "cidade": "Crato"
+    },
+    {
+      "escola": "O Vitorino",
+      "estado": "Ceará",
+      "cidade": "Crato"
+    },
+    {
+      "escola": "Operários do Samba",
+      "estado": "Ceará",
+      "cidade": "Crato"
+    },
+    {
+      "escola": "Unidos de São Sebastião",
+      "estado": "Ceará",
+      "cidade": "Crato"
+    },
+    {
+      "escola": "Corte do Samba",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Girassol de Iracema",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Imperadores da Parquelândia",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Império Ideal",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Mocidade Independente da Bela Vista",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Mocidade Independente de Maracanaú",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Unidos do Acaracuzinho",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Unidos do Pajeú",
+      "estado": "Ceará",
+      "cidade": "Fortaleza"
+    },
+    {
+      "escola": "Unidos do Roçado de Dentro",
+      "estado": "Ceará",
+      "cidade": "Varzea Alegre"
+    },
+    {
+      "escola": "Mocidade Independente do Sanharol",
+      "estado": "Ceará",
+      "cidade": "Varzea Alegre"
+    },
+    {
+      "escola": "Império Colorido da Barra",
+      "estado": "Espírito Santo",
+      "cidade": "Aracruz"
+    },
+    {
+      "escola": "Acadêmicos do União",
+      "estado": "Espírito Santo",
+      "cidade": "Cachoeiro de Itapemirim"
+    },
+    {
+      "escola": "Catedráticos do Samba",
+      "estado": "Espírito Santo",
+      "cidade": "Cachoeiro de Itapemirim"
+    },
+    {
+      "escola": "Explosão do Novo Parque",
+      "estado": "Espírito Santo",
+      "cidade": "Cachoeiro de Itapemirim"
+    },
+    {
+      "escola": "Império do Arco-Íris",
+      "estado": "Espírito Santo",
+      "cidade": "Cachoeiro de Itapemirim"
+    },
+    {
+      "escola": "Independente do Aquidaban",
+      "estado": "Espírito Santo",
+      "cidade": "Cachoeiro de Itapemirim"
+    },
+    {
+      "escola": "Unidos do Zumbi",
+      "estado": "Espírito Santo",
+      "cidade": "Cachoeiro de Itapemirim"
+    },
+    {
+      "escola": "Velha Guarda do Samba",
+      "estado": "Espírito Santo",
+      "cidade": "Cachoeiro de Itapemirim"
+    },
+    {
+      "escola": "Pavão Dourado",
+      "estado": "Espírito Santo",
+      "cidade": "Cariacica"
+    },
+    {
+      "escola": "Independente de Boa Vista",
+      "estado": "Espírito Santo",
+      "cidade": "Cariacica"
+    },
+    {
+      "escola": "União Jovem de Itacibá",
+      "estado": "Espírito Santo",
+      "cidade": "Cariacica"
+    },
+    {
+      "escola": "Unidos Porto Santana",
+      "estado": "Espírito Santo",
+      "cidade": "Cariacica"
+    },
+    {
+      "escola": "Amigos da Fonte",
+      "estado": "Espírito Santo",
+      "cidade": "Guarapari"
+    },
+    {
+      "escola": "Mocidade Alegre de Olaria",
+      "estado": "Espírito Santo",
+      "cidade": "Guarapari"
+    },
+    {
+      "escola": "Mocidade Olaria Olariô",
+      "estado": "Espírito Santo",
+      "cidade": "Guarapari"
+    },
+    {
+      "escola": "Guarapari Imperial",
+      "estado": "Espírito Santo",
+      "cidade": "Guarapari"
+    },
+    {
+      "escola": "Juventude de Muquiçaba",
+      "estado": "Espírito Santo",
+      "cidade": "Guarapari"
+    },
+    {
+      "escola": "Acadêmicos de JK",
+      "estado": "Espírito Santo",
+      "cidade": "Guarapari"
+    },
+    {
+      "escola": "Acadêmicos do Estadio São Mateus",
+      "estado": "Espírito Santo",
+      "cidade": "São Mateus"
+    },
+    {
+      "escola": "Acadêmicos do Guriri",
+      "estado": "Espírito Santo",
+      "cidade": "São Mateus"
+    },
+    {
+      "escola": "Jovem Guarde",
+      "estado": "Espírito Santo",
+      "cidade": "São Mateus"
+    },
+    {
+      "escola": "Sãum Mateus do Samba",
+      "estado": "Espírito Santo",
+      "cidade": "São Mateus"
+    },
+    {
+      "escola": "Unidos do Sernamby",
+      "estado": "Espírito Santo",
+      "cidade": "São Mateus"
+    },
+    {
+      "escola": "Alegria Serrana",
+      "estado": "Espírito Santo",
+      "cidade": "Serra"
+    },
+    {
+      "escola": "Cacique de Barcelona",
+      "estado": "Espírito Santo",
+      "cidade": "Serra"
+    },
+    {
+      "escola": "Mocidade Serrana",
+      "estado": "Espírito Santo",
+      "cidade": "Serra"
+    },
+    {
+      "escola": "Tradição Serrana",
+      "estado": "Espírito Santo",
+      "cidade": "Serra"
+    },
+    {
+      "escola": "Império de Fátima",
+      "estado": "Espírito Santo",
+      "cidade": "Serra"
+    },
+    {
+      "escola": "Rosas de Ouro",
+      "estado": "Espírito Santo",
+      "cidade": "Serra"
+    },
+    {
+      "escola": "Acadêmicos da Barra",
+      "estado": "Espírito Santo",
+      "cidade": "Vila Velha"
+    },
+    {
+      "escola": "Arco-Íris",
+      "estado": "Espírito Santo",
+      "cidade": "Vila Velha"
+    },
+    {
+      "escola": "Mirage",
+      "estado": "Espírito Santo",
+      "cidade": "Vila Velha"
+    },
+    {
+      "escola": "Acadêmicos Vila Garrido",
+      "estado": "Espírito Santo",
+      "cidade": "Vila Velha"
+    },
+    {
+      "escola": "Vai Quem Quer",
+      "estado": "Espírito Santo",
+      "cidade": "Vila Velha"
+    },
+    {
+      "escola": "Mocidade Unida da Glória (MUG)",
+      "estado": "Espírito Santo",
+      "cidade": "Vila Velha"
+    },
+    {
+      "escola": "Independente de São Torquato",
+      "estado": "Espírito Santo",
+      "cidade": "Vila Velha"
+    },
+    {
+      "escola": "União",
+      "estado": "Goiás",
+      "cidade": "Cidade de Goiás (Goiás Velho)"
+    },
+    {
+      "escola": "Mocidade",
+      "estado": "Goiás",
+      "cidade": "Cidade de Goiás (Goiás Velho)"
+    },
+    {
+      "escola": "Leão de Ouro",
+      "estado": "Goiás",
+      "cidade": "Cidade de Goiás (Goiás Velho)"
+    },
+    {
+      "escola": "Independência",
+      "estado": "Goiás",
+      "cidade": "Anápolis"
+    },
+    {
+      "escola": "Leopoldina",
+      "estado": "Goiás",
+      "cidade": "Anápolis"
+    },
+    {
+      "escola": "Veneno da Vila",
+      "estado": "Goiás",
+      "cidade": "Anápolis"
+    },
+    {
+      "escola": "Democratas do Samba",
+      "estado": "Maranhão",
+      "cidade": "Imperatriz"
+    },
+    {
+      "escola": "Mocidade Independente da Vila",
+      "estado": "Maranhão",
+      "cidade": "Imperatriz"
+    },
+    {
+      "escola": "Turma da Mangueira",
+      "estado": "Maranhão",
+      "cidade": "Imperatriz"
+    },
+    {
+      "escola": "Unidos da Vila Nova",
+      "estado": "Maranhão",
+      "cidade": "Imperatriz"
+    },
+    {
+      "escola": "Unidos da Matriz",
+      "estado": "Maranhão",
+      "cidade": "Pinheiro"
+    },
+    {
+      "escola": "Unidos de Alcântara",
+      "estado": "Maranhão",
+      "cidade": "Pinheiro"
+    },
+    {
+      "escola": "Unidos de Arakem",
+      "estado": "Maranhão",
+      "cidade": "Pinheiro"
+    },
+    {
+      "escola": "Relaxo do Samba",
+      "estado": "Maranhão",
+      "cidade": "São Bento"
+    },
+    {
+      "escola": "Acadêmicos do Pedroca",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Águia Dourada",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Bafo de Leão",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Caprichosos do Terceiro",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Império de Casa Nova",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Império do Sol",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Imperatriz Portuária",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Pega No Meu Coração",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "bafo de onça",
+      "estado": "Mato Grosso",
+      "cidade": "Cuiabá"
+    },
+    {
+      "escola": "Catedráticos do Samba",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Cinderela Tradição do José Abraão",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Estação Primeira do Taquarussu",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Império das Moreninhas",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Pra Morar e Pra Sambar",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Igrejinha",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Deixa Falar",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Unidos do Aero Rancho",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Unidos do Buriti",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Unidos da Vila Carvalho",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Unidos do São Francisco",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Unidos do Cruzeiro",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Tradição do Pantanal",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Campo Grande"
+    },
+    {
+      "escola": "Acadêmicos do Pantanal",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "Caprichosos de Corumbá",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "Mocidade Independente da Nova Corumbá",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "Unidos da Vila Mamona",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "Unidos da Major Gama",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "Império do Morro",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "A Pesada",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "Marquês de Sapucaí",
+      "estado": "Mato Grosso do Sul",
+      "cidade": "Corumbá"
+    },
+    {
+      "escola": "Boêmios da Vila Sorriso",
+      "estado": "Pará",
+      "cidade": "Icoaraci"
+    },
+    {
+      "escola": "Canal 19",
+      "estado": "Pará",
+      "cidade": "Icoaraci"
+    },
+    {
+      "escola": "Raízes da Terra",
+      "estado": "Pará",
+      "cidade": "Icoaraci"
+    },
+    {
+      "escola": "Unidos da Baixada",
+      "estado": "Pará",
+      "cidade": "Icoaraci"
+    },
+    {
+      "escola": "Unidos da Montenegro",
+      "estado": "Pará",
+      "cidade": "Icoaraci"
+    },
+    {
+      "escola": "Folhas em Harmonia",
+      "estado": "Pará",
+      "cidade": "Marabá"
+    },
+    {
+      "escola": "Independentes Unidos de Marabá",
+      "estado": "Pará",
+      "cidade": "Marabá"
+    },
+    {
+      "escola": "Mocidade Cidade Nova",
+      "estado": "Pará",
+      "cidade": "Marabá"
+    },
+    {
+      "escola": "Somos Nós",
+      "estado": "Pará",
+      "cidade": "Marabá"
+    },
+    {
+      "escola": "Boêmios do Morro",
+      "estado": "Pará",
+      "cidade": "Monte Alegre"
+    },
+    {
+      "escola": "Família no Samba",
+      "estado": "Pará",
+      "cidade": "Monte Alegre"
+    },
+    {
+      "escola": "Pai Tunar",
+      "estado": "Pará",
+      "cidade": "Monte Alegre"
+    },
+    {
+      "escola": "Unidos da Jaqueira",
+      "estado": "Pará",
+      "cidade": "Tucuruí"
+    },
+    {
+      "escola": "Unidos de Tucuruí",
+      "estado": "Pará",
+      "cidade": "Tucuruí"
+    },
+    {
+      "escola": "Imperio Matinhese",
+      "estado": "Pará",
+      "cidade": "Tucuruí"
+    },
+    {
+      "escola": "Colinas",
+      "estado": "Pará",
+      "cidade": "Tucuruí"
+    },
+    {
+      "escola": "Academicos do Getat",
+      "estado": "Pará",
+      "cidade": "Tucuruí"
+    },
+    {
+      "escola": "Acadêmicos de Monte Castelo",
+      "estado": "Paraíba",
+      "cidade": "Campina Grande"
+    },
+    {
+      "escola": "Bambas do Ritmo",
+      "estado": "Paraíba",
+      "cidade": "Campina Grande"
+    },
+    {
+      "escola": "Unidos da Liberdade",
+      "estado": "Paraíba",
+      "cidade": "Campina Grande"
+    },
+    {
+      "escola": "Unidos do Roger",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Catedráticos do Ritmo (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Império do Samba",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Malandros do Morro",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Independentes de Mandacaru",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Pavão de Ouro",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Ultima Hora (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Unidos do Rangel (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Resplendor (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Mirassol (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Noel Rosa (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Acadêmicos do Baralho (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Ritmistas de Cruz das Armas (Inativa)",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa"
+    },
+    {
+      "escola": "Acadêmicos do Grande Lago",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Acadêmicos da Magia e Esplendor",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Grande Três Lagoas",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Império das Cataratas",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Mocidade Independente do São Francisco",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Mocidade Unidos do Porto Meira",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Neném do Morumbi",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Unidos do Maracanã",
+      "estado": "Paraná",
+      "cidade": "Foz do Iguaçu"
+    },
+    {
+      "escola": "Unidos do Cruzeiro",
+      "estado": "Paraná",
+      "cidade": "Jacarezinho"
+    },
+    {
+      "escola": "Acadêmicos do Jardim São Luiz",
+      "estado": "Paraná",
+      "cidade": "Jacarezinho"
+    },
+    {
+      "escola": "Escola de Samba do Sesc",
+      "estado": "Paraná",
+      "cidade": "Jacarezinho"
+    },
+    {
+      "escola": "Unidos do Morro",
+      "estado": "Paraná",
+      "cidade": "Jacarezinho"
+    },
+    {
+      "escola": "Grêmio Recreativo Não Existe Apoio para as Escolas de Samba de Londrina",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Grêmio Recreativo Secretaria Acabou com o Carnaval do Samba em Londrina",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Alegria da Passarela",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Bahia Abraça Londrina",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Chão de Estrelas",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Criando Ritmos e Realizando Fantasias",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Explode Coração",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Falange Azul",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Garotos Unidos da Zona Sul",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Gaviões Londrinenses",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Império da Zona Norte",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Navegantes do Mar Azul",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Quilombo dos Palmares",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Raça de Ouro",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Sangue Azul",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "União da Vila",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Unidos de Maria Isabel",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Unidos do Jardim do Sol",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Unidos do Jardim Paulista",
+      "estado": "Paraná",
+      "cidade": "Londrina"
+    },
+    {
+      "escola": "Acadêmicos do Litoral Paranaense",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Filhos da Gaviões",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Império do Irajá",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Leão da Estradinha",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Mocidade Unida do Jardim Santa Rosa",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Ponta do Caju",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "São Vicente",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Tradição da Ilha",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "União da Ilha dos Valadares",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Vila Alboit",
+      "estado": "Paraná",
+      "cidade": "Paranaguá"
+    },
+    {
+      "escola": "Portal das Águas",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "Ases da Vila",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "Baixada Princesina",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "Gaviões da Beira da Linha",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "Globo de Cristal",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "Mocidade Unidos de Uvaranas",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "Nova Princesa",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "Águia de Ouro",
+      "estado": "Paraná",
+      "cidade": "Ponta Grossa"
+    },
+    {
+      "escola": "18 de Março",
+      "estado": "Paraná",
+      "cidade": "Tibagi"
+    },
+    {
+      "escola": "Desembargador Mercer Junior",
+      "estado": "Paraná",
+      "cidade": "Tibagi"
+    },
+    {
+      "escola": "Flor de Liz",
+      "estado": "Paraná",
+      "cidade": "Tibagi"
+    },
+    {
+      "escola": "Herdeiros do Samba",
+      "estado": "Paraná",
+      "cidade": "Tibagi"
+    },
+    {
+      "escola": "Municipal",
+      "estado": "Paraná",
+      "cidade": "Tibagi"
+    },
+    {
+      "escola": "Unidos de Vila São José",
+      "estado": "Paraná",
+      "cidade": "Tibagi"
+    },
+    {
+      "escola": "Unidos do Nequinho",
+      "estado": "Paraná",
+      "cidade": "Tibagi"
+    },
+    {
+      "escola": "Unidos da Vila Tiradentes",
+      "estado": "Paraná",
+      "cidade": "Umuarama"
+    },
+    {
+      "escola": "Couro de Gato",
+      "estado": "Pernambuco",
+      "cidade": "Camaragibe"
+    },
+    {
+      "escola": "Palmeiras",
+      "estado": "Pernambuco",
+      "cidade": "Caruaru"
+    },
+    {
+      "escola": "Unidos do Morro do Bom Jesus",
+      "estado": "Pernambuco",
+      "cidade": "Caruaru"
+    },
+    {
+      "escola": "Bambas do Ritmo",
+      "estado": "Pernambuco",
+      "cidade": "Goiana"
+    },
+    {
+      "escola": "São Jorge",
+      "estado": "Pernambuco",
+      "cidade": "Goiana"
+    },
+    {
+      "escola": "Mocidade",
+      "estado": "Pernambuco",
+      "cidade": "Goiana"
+    },
+    {
+      "escola": "Forasteiros da Vila Operaria",
+      "estado": "Pernambuco",
+      "cidade": "Goiana"
+    },
+    {
+      "escola": "Em Cima da Hora",
+      "estado": "Pernambuco",
+      "cidade": "Goiana"
+    },
+    {
+      "escola": "União da Vila",
+      "estado": "Pernambuco",
+      "cidade": "Goiana"
+    },
+    {
+      "escola": "Imperatriz Goianense",
+      "estado": "Pernambuco",
+      "cidade": "Goiana"
+    },
+    {
+      "escola": "Marrom e Branco",
+      "estado": "Pernambuco",
+      "cidade": "Olinda"
+    },
+    {
+      "escola": "Preto Velho",
+      "estado": "Pernambuco",
+      "cidade": "Olinda"
+    },
+    {
+      "escola": "Gaviões de Maranguape",
+      "estado": "Pernambuco",
+      "cidade": "Paulista"
+    },
+    {
+      "escola": "Sempre Viva",
+      "estado": "Pernambuco",
+      "cidade": "Paulista"
+    },
+    {
+      "escola": "Sítio Laurindo",
+      "estado": "Pernambuco",
+      "cidade": "Paulista"
+    },
+    {
+      "escola": "Acadêmicos do Centenário",
+      "estado": "Pernambuco",
+      "cidade": "Petrolina"
+    },
+    {
+      "escola": "Império do São Francisco",
+      "estado": "Pernambuco",
+      "cidade": "Petrolina"
+    },
+    {
+      "escola": "Kizumbal do Samba",
+      "estado": "Pernambuco",
+      "cidade": "Petrolina"
+    },
+    {
+      "escola": "Unidos de Atrás da Banca",
+      "estado": "Pernambuco",
+      "cidade": "Petrolina"
+    },
+    {
+      "escola": "Unidos do Gercino Coelho",
+      "estado": "Pernambuco",
+      "cidade": "Petrolina"
+    },
+    {
+      "escola": "Jornel",
+      "estado": "Pernambuco",
+      "cidade": "Sanharó"
+    },
+    {
+      "escola": "Arrocha Um, Aperta o Outro",
+      "estado": "Piauí",
+      "cidade": "Floriano"
+    },
+    {
+      "escola": "Caxambú",
+      "estado": "Piauí",
+      "cidade": "Floriano"
+    },
+    {
+      "escola": "Estrela Cadente",
+      "estado": "Piauí",
+      "cidade": "Floriano"
+    },
+    {
+      "escola": "Mangueira",
+      "estado": "Piauí",
+      "cidade": "Floriano"
+    },
+    {
+      "escola": "Vira-Virou",
+      "estado": "Piauí",
+      "cidade": "Floriano"
+    },
+    {
+      "escola": "Araçagi do Samba",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Arrumação",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Bambas da Folia",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Brasa Samba",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Escravos do Samba",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Galo Tricolor",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Império do Samba",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Malucos por Samba",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Mocidade Alegre do Parque Piauí",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Nossa Cara",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Nova Escola de Samba",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Piratas do Ritmo",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Piratingas do Ritmo",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Sambão",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Skindô",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Tuma da Mangueira",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Unidos da Vila",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Unidos da Palmeirinha",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Unidos da Saudade",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Unidos do Cabral",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Unidos da Santana",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Veteranos do Samba",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Ziriguidum",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Zig Zag",
+      "estado": "Piauí",
+      "cidade": "Teresina"
+    },
+    {
+      "escola": "Princesa do Igaraçu (atual campeã)",
+      "estado": "Piauí",
+      "cidade": "Parnaíba"
+    },
+    {
+      "escola": "Império do Cais",
+      "estado": "Piauí",
+      "cidade": "Parnaíba"
+    },
+    {
+      "escola": "Nova Parnaíba no Samba",
+      "estado": "Piauí",
+      "cidade": "Parnaíba"
+    },
+    {
+      "escola": "Unidos da Ponte",
+      "estado": "Piauí",
+      "cidade": "Parnaíba"
+    },
+    {
+      "escola": "Acadêmicos do Salinistas",
+      "estado": "Rio Grande do Norte",
+      "cidade": "Mossoró"
+    },
+    {
+      "escola": "Balanço da Mocidade",
+      "estado": "Rio Grande do Norte",
+      "cidade": "Mossoró"
+    },
+    {
+      "escola": "Imperatriz da Zona Norte",
+      "estado": "Rio Grande do Norte",
+      "cidade": "Mossoró"
+    },
+    {
+      "escola": "Além do Equador",
+      "estado": "Roraima",
+      "cidade": "Boa Vista"
+    },
+    {
+      "escola": "Aquarela",
+      "estado": "Roraima",
+      "cidade": "Boa Vista"
+    },
+    {
+      "escola": "Embaixadores da Mecejana",
+      "estado": "Roraima",
+      "cidade": "Boa Vista"
+    },
+    {
+      "escola": "Império Roraimense",
+      "estado": "Roraima",
+      "cidade": "Boa Vista"
+    },
+    {
+      "escola": "Ouro Verde",
+      "estado": "Roraima",
+      "cidade": "Boa Vista"
+    },
+    {
+      "escola": "Praça da Bandeira",
+      "estado": "Roraima",
+      "cidade": "Boa Vista"
+    },
+    {
+      "escola": "Unidos do Beiral",
+      "estado": "Roraima",
+      "cidade": "Boa Vista"
+    },
+    {
+      "escola": "Acadêmicos do Bomfim",
+      "estado": "Sergipe",
+      "cidade": "Aracaju"
+    },
+    {
+      "escola": "Batuqueiro do Morro",
+      "estado": "Sergipe",
+      "cidade": "Aracaju"
+    },
+    {
+      "escola": "Tubarão da Praia",
+      "estado": "Sergipe",
+      "cidade": "Aracaju"
+    },
+    {
+      "escola": "Unidos do América",
+      "estado": "Sergipe",
+      "cidade": "Aracaju"
+    },
+    {
+      "escola": "Unidos do Samba",
+      "estado": "Sergipe",
+      "cidade": "Aracaju"
+    },
+    {
+      "escola": "Império da Liberdade",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Mangueira Palmense",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Mocidade Independente da 31",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Novo Império",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Imperadores",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Mocidade Alegre da Vila",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Unidos do Girassol",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Beija-Flores de Palmas",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "União dos Aurenys",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Acadêmicos do Taquari",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    },
+    {
+      "escola": "Estação do Taquara",
+      "estado": "Tocantins",
+      "cidade": "Palmas"
+    }
+  ],
+  "meta": {
+    "title": "Escolas de samba do Brasil - Free Download",
+    "description": "Lista de escolas de samba do Brasil por estado e cidade. Contains 325 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Escolas de samba do Brasil | ListBase",
+    "seo_description": "Download Escolas de samba do Brasil — 325 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 325 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_escolas_de_samba_do_Brasil"
+    ]
+  }
+}
