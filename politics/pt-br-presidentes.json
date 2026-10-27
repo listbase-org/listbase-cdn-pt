@@ -1,0 +1,529 @@
+{
+  "id": "pt-br-presidentes",
+  "name": "Presidentes do Brasil",
+  "title": "Presidentes do Brasil",
+  "description": "Lista de todos os presidentes da República Federativa do Brasil desde 1889, com período do mandato, partido, vice-presidente e eleição.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "periodo_mandato",
+      "label": "Periodo Mandato",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "vice_presidente",
+      "label": "Vice Presidente",
+      "type": "string"
+    },
+    {
+      "key": "eleicao",
+      "label": "Eleicao",
+      "type": "string"
+    },
+    {
+      "key": "periodo_historico",
+      "label": "Periodo Historico",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1",
+      "presidente": "Deodoro da Fonseca (1827–1892)",
+      "periodo_mandato": "15 de novembro de 1889 – 23 de novembro de 1891 (2 anos e 8 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo inexistente",
+      "eleicao": "Proclamação de 1889",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "1",
+      "presidente": "Deodoro da Fonseca (1827–1892)",
+      "periodo_mandato": "15 de novembro de 1889 – 23 de novembro de 1891 (2 anos e 8 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Floriano Peixoto",
+      "eleicao": "1891",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "2",
+      "presidente": "Floriano Peixoto (1839–1895)",
+      "periodo_mandato": "23 de novembro de 1891 – 15 de novembro de 1894 (2 anos e 357 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "3",
+      "presidente": "Prudente de Morais (1841–1902)",
+      "periodo_mandato": "15 de novembro de 1894 – 15 de novembro de 1898 (4 anos)",
+      "partido": "PR Federal",
+      "vice_presidente": "Manuel Vitorino",
+      "eleicao": "1894",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "4",
+      "presidente": "Campos Sales (1841–1913)",
+      "periodo_mandato": "15 de novembro de 1898 – 15 de novembro de 1902 (4 anos)",
+      "partido": "PRP",
+      "vice_presidente": "Rosa e Silva",
+      "eleicao": "1898",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "5",
+      "presidente": "Rodrigues Alves (1848–1919)",
+      "periodo_mandato": "15 de novembro de 1902 – 15 de novembro de 1906 (4 anos)",
+      "partido": "PRP",
+      "vice_presidente": "Cargo vago Afonso Pena",
+      "eleicao": "1902",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "6",
+      "presidente": "Afonso Pena (1847–1909)",
+      "periodo_mandato": "15 de novembro de 1906 – 14 de junho de 1909 (2 anos e 211 dias)",
+      "partido": "PRM",
+      "vice_presidente": "Nilo Peçanha",
+      "eleicao": "1906",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "7",
+      "presidente": "Nilo Peçanha (1867–1924)",
+      "periodo_mandato": "14 de junho de 1909 – 15 de novembro de 1910 (1 ano e 154 dias)",
+      "partido": "PRF",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "8",
+      "presidente": "Hermes da Fonseca (1855–1923)",
+      "periodo_mandato": "15 de novembro de 1910 – 15 de novembro de 1914 (4 anos)",
+      "partido": "PRC",
+      "vice_presidente": "Venceslau Brás",
+      "eleicao": "1910",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "9",
+      "presidente": "Venceslau Brás (1868–1966)",
+      "periodo_mandato": "15 de novembro de 1914 – 15 de novembro de 1918 (4 anos)",
+      "partido": "PRM",
+      "vice_presidente": "Urbano Santos",
+      "eleicao": "1914",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "—",
+      "presidente": "Rodrigues Alves (1848–1919)",
+      "periodo_mandato": "Não tomou posse",
+      "partido": "PRP",
+      "vice_presidente": "Delfim Moreira",
+      "eleicao": "1918",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "10",
+      "presidente": "Delfim Moreira (1868–1920)",
+      "periodo_mandato": "15 de novembro de 1918 – 28 de julho de 1919 (255 dias)",
+      "partido": "PRM",
+      "vice_presidente": "Delfim Moreira",
+      "eleicao": "—",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "11",
+      "presidente": "Epitácio Pessoa (1865–1942)",
+      "periodo_mandato": "28 de julho de 1919 – 15 de novembro de 1922 (3 anos e 110 dias)",
+      "partido": "PRM",
+      "vice_presidente": "Delfim Moreira Cargo vago Bueno de Paiva",
+      "eleicao": "1919",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "12",
+      "presidente": "Artur Bernardes (1875–1955)",
+      "periodo_mandato": "15 de novembro de 1922 – 15 de novembro de 1926 (4 anos)",
+      "partido": "PRM",
+      "vice_presidente": "Estácio Coimbra",
+      "eleicao": "1922",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "13",
+      "presidente": "Washington Luís (1869–1957)",
+      "periodo_mandato": "15 de novembro de 1926 – 24 de outubro de 1930 (3 anos e 343 dias)",
+      "partido": "PRP",
+      "vice_presidente": "Melo Viana",
+      "eleicao": "1926",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "—",
+      "presidente": "Júlio Prestes (1882–1946)",
+      "periodo_mandato": "Não tomou posse",
+      "partido": "PRP",
+      "vice_presidente": "Vital Soares",
+      "eleicao": "1930",
+      "periodo_historico": "Primeira República (República Velha) (15 de novembro de 1889 a 24 de outubro de 1930 – 40 anos, 11 meses e 9 dias)"
+    },
+    {
+      "numero": "—",
+      "presidente": "Junta Militar de 1930",
+      "periodo_mandato": "24 de outubro de 1930 – 3 de novembro de 1930 (10 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "Revolução de 1930",
+      "periodo_historico": "Segunda República (Governos Provisório e Constitucional) (24 de outubro de 1930 a 10 de novembro de 1937 – 7 anos e 17 dias)"
+    },
+    {
+      "numero": "14",
+      "presidente": "Getúlio Vargas (1882–1954)",
+      "periodo_mandato": "3 de novembro de 1930 – 10 de novembro de 1937 (7 anos e 7 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "Revolução de 1930",
+      "periodo_historico": "Segunda República (Governos Provisório e Constitucional) (24 de outubro de 1930 a 10 de novembro de 1937 – 7 anos e 17 dias)"
+    },
+    {
+      "numero": "14",
+      "presidente": "Getúlio Vargas (1882–1954)",
+      "periodo_mandato": "3 de novembro de 1930 – 10 de novembro de 1937 (7 anos e 7 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo extinto",
+      "eleicao": "1934",
+      "periodo_historico": "Segunda República (Governos Provisório e Constitucional) (24 de outubro de 1930 a 10 de novembro de 1937 – 7 anos e 17 dias)"
+    },
+    {
+      "numero": "14",
+      "presidente": "Getúlio Vargas (1882–1954)",
+      "periodo_mandato": "10 de novembro de 1937 – 30 de outubro de 1945 (7 anos e 354 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo extinto",
+      "eleicao": "Golpe de 1937",
+      "periodo_historico": "Terceira República (Estado Novo) (10 de novembro de 1937 a 31 de janeiro de 1946 – 8 anos, 2 meses e 21 dias)"
+    },
+    {
+      "numero": "15",
+      "presidente": "José Linhares (1886–1957)",
+      "periodo_mandato": "30 de outubro de 1945 – 31 de janeiro de 1946 (93 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo extinto",
+      "eleicao": "Golpe de 1945",
+      "periodo_historico": "Terceira República (Estado Novo) (10 de novembro de 1937 a 31 de janeiro de 1946 – 8 anos, 2 meses e 21 dias)"
+    },
+    {
+      "numero": "16",
+      "presidente": "Gaspar Dutra (1883–1974)",
+      "periodo_mandato": "31 de janeiro de 1946 – 31 de janeiro de 1951 (5 anos)",
+      "partido": "PSD",
+      "vice_presidente": "Cargo extinto Nereu Ramos",
+      "eleicao": "1945",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "17",
+      "presidente": "Getúlio Vargas (1882–1954)",
+      "periodo_mandato": "31 de janeiro de 1951 – 24 de agosto de 1954 (3 anos e 205 dias)",
+      "partido": "PTB",
+      "vice_presidente": "Café Filho",
+      "eleicao": "1950",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "18",
+      "presidente": "Café Filho (1899–1970)",
+      "periodo_mandato": "24 de agosto de 1954 – 8 de novembro de 1955 (1 ano e 76 dias)",
+      "partido": "PSP",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "19",
+      "presidente": "Carlos Luz (1894–1961)",
+      "periodo_mandato": "8 de novembro de 1955 – 11 de novembro de 1955 (3 dias)",
+      "partido": "PSD",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "20",
+      "presidente": "Nereu Ramos (1888–1958)",
+      "periodo_mandato": "11 de novembro de 1955 – 31 de janeiro de 1956 (81 dias)",
+      "partido": "PSD",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "21",
+      "presidente": "Juscelino Kubitschek (1902–1976)",
+      "periodo_mandato": "31 de janeiro de 1956 – 31 de janeiro de 1961 (5 anos)",
+      "partido": "PSD",
+      "vice_presidente": "João Goulart",
+      "eleicao": "1955",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "22",
+      "presidente": "Jânio Quadros (1917–1992)",
+      "periodo_mandato": "31 de janeiro de 1961 – 25 de agosto de 1961 (206 dias)",
+      "partido": "PTN",
+      "vice_presidente": "João Goulart",
+      "eleicao": "1960",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "23",
+      "presidente": "Ranieri Mazzilli (1910–1975)",
+      "periodo_mandato": "25 de agosto de 1961 – 8 de setembro de 1961 (14 dias)",
+      "partido": "PSD",
+      "vice_presidente": "João Goulart Cargo extinto",
+      "eleicao": "—",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "24",
+      "presidente": "João Goulart (1919–1976)",
+      "periodo_mandato": "8 de setembro de 1961 – 2 de abril de 1964 (2 anos e 207 dias)",
+      "partido": "PTB",
+      "vice_presidente": "Cargo extinto Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Quarta República (República Populista) (31 de janeiro de 1946 a 2 de abril de 1964 – 18 anos, 2 meses e 2 dias)"
+    },
+    {
+      "numero": "25",
+      "presidente": "Ranieri Mazzilli (1910–1975)",
+      "periodo_mandato": "2 de abril de 1964 – 15 de abril de 1964 (13 dias)",
+      "partido": "PSD",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "26",
+      "presidente": "Castelo Branco (1897–1967)",
+      "periodo_mandato": "15 de abril de 1964 – 15 de março de 1967 (2 anos e 334 dias)",
+      "partido": "Nenhum ARENA",
+      "vice_presidente": "José Maria Alkmin",
+      "eleicao": "1964",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "27",
+      "presidente": "Costa e Silva (1899–1969)",
+      "periodo_mandato": "15 de março de 1967 – 31 de agosto de 1969 (2 anos e 169 dias)",
+      "partido": "ARENA",
+      "vice_presidente": "Pedro Aleixo",
+      "eleicao": "1966",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "—",
+      "presidente": "Pedro Aleixo (1901–1975)",
+      "periodo_mandato": "Não tomou posse",
+      "partido": "ARENA",
+      "vice_presidente": "—",
+      "eleicao": "—",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "—",
+      "presidente": "Junta Militar de 1969",
+      "periodo_mandato": "31 de agosto de 1969 – 30 de outubro de 1969 (60 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Pedro Aleixo Cargo vago",
+      "eleicao": "Ato Institucional n.º 12",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "28",
+      "presidente": "Emílio Médici (1905–1985)",
+      "periodo_mandato": "30 de outubro de 1969 – 15 de março de 1974 (4 anos e 136 dias)",
+      "partido": "ARENA",
+      "vice_presidente": "Augusto Rademaker",
+      "eleicao": "1969",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "29",
+      "presidente": "Ernesto Geisel (1907–1996)",
+      "periodo_mandato": "15 de março de 1974 – 15 de março de 1979 (5 anos)",
+      "partido": "ARENA",
+      "vice_presidente": "Adalberto Pereira dos Santos",
+      "eleicao": "1974",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "30",
+      "presidente": "João Figueiredo (1918–1999)",
+      "periodo_mandato": "15 de março de 1979 – 15 de março de 1985 (6 anos)",
+      "partido": "ARENA Nenhum PDS",
+      "vice_presidente": "Aureliano Chaves",
+      "eleicao": "1978",
+      "periodo_historico": "Quinta República (Ditadura Militar) (2 de abril de 1964 a 15 de março de 1985 – 20 anos, 11 meses e 13 dias)"
+    },
+    {
+      "numero": "—",
+      "presidente": "Tancredo Neves (1910–1985)",
+      "periodo_mandato": "Não tomou posse",
+      "partido": "PMDB",
+      "vice_presidente": "José Sarney",
+      "eleicao": "1985",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "31",
+      "presidente": "José Sarney (n. 1930)",
+      "periodo_mandato": "15 de março de 1985 – 15 de março de 1990 (5 anos)",
+      "partido": "PMDB",
+      "vice_presidente": "José Sarney Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "32",
+      "presidente": "Fernando Collor (n. 1949)",
+      "periodo_mandato": "15 de março de 1990 – 29 de dezembro de 1992 (2 anos e 289 dias)",
+      "partido": "PRN",
+      "vice_presidente": "Itamar Franco",
+      "eleicao": "1989",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "33",
+      "presidente": "Itamar Franco (1929–2011)",
+      "periodo_mandato": "29 de dezembro de 1992 – 1º de janeiro de 1995 (2 anos e 3 dias)",
+      "partido": "Nenhum",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "34",
+      "presidente": "Fernando Henrique Cardoso (n. 1931)",
+      "periodo_mandato": "1º de janeiro de 1995 – 1º de janeiro de 2003 (8 anos)",
+      "partido": "PSDB",
+      "vice_presidente": "Marco Maciel",
+      "eleicao": "1994",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "34",
+      "presidente": "Fernando Henrique Cardoso (n. 1931)",
+      "periodo_mandato": "1º de janeiro de 1995 – 1º de janeiro de 2003 (8 anos)",
+      "partido": "PSDB",
+      "vice_presidente": "Marco Maciel",
+      "eleicao": "1998",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "35",
+      "presidente": "Luiz Inácio Lula da Silva (n. 1945)",
+      "periodo_mandato": "1º de janeiro de 2003 – 1º de janeiro de 2011 (8 anos)",
+      "partido": "PT",
+      "vice_presidente": "José Alencar",
+      "eleicao": "2002",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "35",
+      "presidente": "Luiz Inácio Lula da Silva (n. 1945)",
+      "periodo_mandato": "1º de janeiro de 2003 – 1º de janeiro de 2011 (8 anos)",
+      "partido": "PT",
+      "vice_presidente": "José Alencar",
+      "eleicao": "2006",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "36",
+      "presidente": "Dilma Rousseff (n. 1947)",
+      "periodo_mandato": "1º de janeiro de 2011 – 31 de agosto de 2016 (5 anos e 243 dias)",
+      "partido": "PT",
+      "vice_presidente": "Michel Temer",
+      "eleicao": "2010",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "36",
+      "presidente": "Dilma Rousseff (n. 1947)",
+      "periodo_mandato": "1º de janeiro de 2011 – 31 de agosto de 2016 (5 anos e 243 dias)",
+      "partido": "PT",
+      "vice_presidente": "Michel Temer",
+      "eleicao": "2014",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "37",
+      "presidente": "Michel Temer (n. 1940)",
+      "periodo_mandato": "31 de agosto de 2016 – 1º de janeiro de 2019 (2 anos e 123 dias)",
+      "partido": "MDB",
+      "vice_presidente": "Cargo vago",
+      "eleicao": "—",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "38",
+      "presidente": "Jair Bolsonaro (n. 1955)",
+      "periodo_mandato": "1º de janeiro de 2019 – 1º de janeiro de 2023 (4 anos)",
+      "partido": "PSL Nenhum PL",
+      "vice_presidente": "Hamilton Mourão",
+      "eleicao": "2018",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "39",
+      "presidente": "Luiz Inácio Lula da Silva (n. 1945)",
+      "periodo_mandato": "1º de janeiro de 2023 – atualidade (3 anos e 299 dias)",
+      "partido": "PT",
+      "vice_presidente": "Geraldo Alckmin",
+      "eleicao": "2022",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    },
+    {
+      "numero": "39",
+      "presidente": "Luiz Inácio Lula da Silva (n. 1945)",
+      "periodo_mandato": "1º de janeiro de 2023 – atualidade (3 anos e 299 dias)",
+      "partido": "PT",
+      "vice_presidente": "Geraldo Alckmin",
+      "eleicao": "2026",
+      "periodo_historico": "Sexta República (Nova República) (15 de março de 1985 à atualidade – 41 anos, 7 meses e 12 dias)"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes do Brasil - Free Download",
+    "description": "Lista de todos os presidentes da República Federativa do Brasil desde 1889, com período do mandato, partido, vice-presidente e eleição. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes do Brasil | ListBase",
+    "seo_description": "Download Presidentes do Brasil — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:35.834Z",
-  "total_datasets": 486,
-  "total_records": 739218,
+  "generated": "2026-10-27T02:17:38.731Z",
+  "total_datasets": 487,
+  "total_records": 739270,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -3279,6 +3279,34 @@
         "xlsx": {
           "name": "pt-br-partidos-politicos_PT.xlsx",
           "size": 9109
+        }
+      }
+    },
+    {
+      "id": "pt-br-presidentes",
+      "name": "Presidentes do Brasil",
+      "category": "politics",
+      "record_count": 52,
+      "columns": [
+        "numero",
+        "presidente",
+        "periodo_mandato",
+        "partido",
+        "vice_presidente",
+        "eleicao",
+        "periodo_historico"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil",
+      "updated": "2026-10",
+      "size": 23289,
+      "files": {
+        "csv": {
+          "name": "pt-br-presidentes_PT.csv",
+          "size": 12894
+        },
+        "xlsx": {
+          "name": "pt-br-presidentes_PT.xlsx",
+          "size": 10486
         }
       }
     },
