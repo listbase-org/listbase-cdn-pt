@@ -1,0 +1,202 @@
+{
+  "id": "pt-musicos-recordistas-vendas-portugal",
+  "name": "Músicos portugueses recordistas de vendas",
+  "title": "Músicos portugueses recordistas de vendas",
+  "description": "Os músicos e artistas portugueses que mais discos venderam, com período de atividade, géneros e vendas estimadas.",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_músicos_recordistas_de_vendas_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_músicos_recordistas_de_vendas_em_Portugal",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "generos",
+      "label": "Generos",
+      "type": "string"
+    },
+    {
+      "key": "vendas_estimadas",
+      "label": "Vendas Estimadas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "artista": "Amália Rodrigues",
+      "periodo": "1940-1999",
+      "generos": "Fado",
+      "vendas_estimadas": "30 milhões"
+    },
+    {
+      "artista": "Roberto Leal",
+      "periodo": "1971-2019",
+      "generos": "Música popular portuguesa, fado",
+      "vendas_estimadas": "25 milhões. 15 milhões"
+    },
+    {
+      "artista": "Linda de Suza",
+      "periodo": "1979-2022",
+      "generos": "Música popular portuguesa",
+      "vendas_estimadas": "8 milhões"
+    },
+    {
+      "artista": "Jorge Ferreira",
+      "periodo": "1979-presente",
+      "generos": "Música popular portuguesa",
+      "vendas_estimadas": "6 milhões"
+    },
+    {
+      "artista": "Marco Paulo",
+      "periodo": "1966-2024",
+      "generos": "Música popular portuguesa",
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Carlos do Carmo",
+      "periodo": "1964-2020",
+      "generos": "Fado",
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Tony Carreira",
+      "periodo": "1988-presente",
+      "generos": "Música popular portuguesa",
+      "vendas_estimadas": "4 milhões"
+    },
+    {
+      "artista": "Dulce Pontes",
+      "periodo": "1991-presente",
+      "generos": "Música popular portuguesa, Fado",
+      "vendas_estimadas": "3,5 milhões"
+    },
+    {
+      "artista": "Delfins",
+      "periodo": "1984-2009",
+      "generos": "Pop-Rock",
+      "vendas_estimadas": "3 milhões"
+    },
+    {
+      "artista": "Madredeus",
+      "periodo": "1986-presente",
+      "generos": "Música popular portuguesa, Fado",
+      "vendas_estimadas": "3 milhões"
+    },
+    {
+      "artista": "José Malhoa",
+      "periodo": "1969-presente",
+      "generos": "Música popular portuguesa",
+      "vendas_estimadas": "3 milhões"
+    },
+    {
+      "artista": "Paulo Gonzo",
+      "periodo": "1986-presente",
+      "generos": "Pop-Rock",
+      "vendas_estimadas": "1,5 milhão"
+    },
+    {
+      "artista": "UHF",
+      "periodo": "1978-presente",
+      "generos": "Pós-punk, rock, hard rock",
+      "vendas_estimadas": "1,5 milhão"
+    },
+    {
+      "artista": "Rui Veloso",
+      "periodo": "1980-presente",
+      "generos": "Rock",
+      "vendas_estimadas": "1,2 milhão"
+    },
+    {
+      "artista": "Ana Moura",
+      "periodo": "2003-presente",
+      "generos": "Fado",
+      "vendas_estimadas": "1 milhão"
+    },
+    {
+      "artista": "Mariza",
+      "periodo": "2001-presente",
+      "generos": "Fado, Folk",
+      "vendas_estimadas": "1 milhão"
+    },
+    {
+      "artista": "Onda Choc",
+      "periodo": "1987-2006",
+      "generos": "Música infanto-juvenil",
+      "vendas_estimadas": "1 milhão"
+    },
+    {
+      "artista": "Ministars",
+      "periodo": "1986-1995",
+      "generos": "Música infanto-juvenil",
+      "vendas_estimadas": "1 milhão"
+    },
+    {
+      "artista": "Pedro Abrunhosa",
+      "periodo": "1994-presente",
+      "generos": "Pop-Rock, Música popular portuguesa",
+      "vendas_estimadas": "800 mil"
+    },
+    {
+      "artista": "António Mourão",
+      "periodo": "1967-1990",
+      "generos": "Fado",
+      "vendas_estimadas": "750 mil"
+    },
+    {
+      "artista": "Santamaria",
+      "periodo": "1998-presente",
+      "generos": "Eurodance",
+      "vendas_estimadas": "700 mil"
+    },
+    {
+      "artista": "Tonicha",
+      "periodo": "1964-presente",
+      "generos": "Música popular portuguesa",
+      "vendas_estimadas": "600 mil"
+    },
+    {
+      "artista": "D'ZRT",
+      "periodo": "2005-2009",
+      "generos": "Pop, Pop-Rock, Teen Pop",
+      "vendas_estimadas": "500 mil"
+    },
+    {
+      "artista": "Ana Malhoa",
+      "periodo": "1985-presente",
+      "generos": "Música popular portuguesa, Pop-Rock, Pop Latino",
+      "vendas_estimadas": "635 mil"
+    },
+    {
+      "artista": "Nuno da Câmara Pereira",
+      "periodo": "1982-presente",
+      "generos": "Fado",
+      "vendas_estimadas": "500 mil"
+    },
+    {
+      "artista": "David Carreira",
+      "periodo": "2011-presente",
+      "generos": "Pop",
+      "vendas_estimadas": "300 mil"
+    }
+  ],
+  "meta": {
+    "title": "Músicos portugueses recordistas de vendas - Free Download",
+    "description": "Os músicos e artistas portugueses que mais discos venderam, com período de atividade, géneros e vendas estimadas. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Músicos portugueses recordistas de vendas | ListBase",
+    "seo_description": "Download Músicos portugueses recordistas de vendas — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_músicos_recordistas_de_vendas_em_Portugal"
+    ]
+  }
+}
