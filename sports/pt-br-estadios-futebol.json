@@ -1,0 +1,2221 @@
+{
+  "id": "pt-br-estadios-futebol",
+  "name": "Estádios de futebol do Brasil",
+  "title": "Estádios de futebol do Brasil",
+  "description": "Os maiores estádios de futebol do Brasil por capacidade, com cidade, UF, proprietário e data de inauguração.",
+  "category": "sports",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_estádios_de_futebol_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_estádios_de_futebol_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 240,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "estadio",
+      "label": "Estadio",
+      "type": "string"
+    },
+    {
+      "key": "capacidade",
+      "label": "Capacidade",
+      "type": "number"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "proprietario",
+      "label": "Proprietario",
+      "type": "string"
+    },
+    {
+      "key": "inauguracao",
+      "label": "Inauguracao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": 1,
+      "estadio": "Maracanã",
+      "capacidade": 78838,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": "16 de junho de 1950"
+    },
+    {
+      "posicao": 2,
+      "estadio": "Mané Garrincha",
+      "capacidade": 72788,
+      "cidade": "Brasília",
+      "uf": "DF",
+      "proprietario": "Gov. Distrital",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 3,
+      "estadio": "MorumBIS",
+      "capacidade": 72039,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 4,
+      "estadio": "Castelão",
+      "capacidade": 63903,
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 5,
+      "estadio": "Mineirão",
+      "capacidade": 61846,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 6,
+      "estadio": "Arruda",
+      "capacidade": 60044,
+      "cidade": "Recife",
+      "uf": "PE",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 7,
+      "estadio": "Arena do Grêmio",
+      "capacidade": 55662,
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 8,
+      "estadio": "Mangueirão",
+      "capacidade": 53645,
+      "cidade": "Belém",
+      "uf": "PA",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 9,
+      "estadio": "Parque do Sabiá",
+      "capacidade": 53000,
+      "cidade": "Uberlândia",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": "27 de maio de 1982"
+    },
+    {
+      "posicao": 10,
+      "estadio": "Beira-Rio",
+      "capacidade": 50942,
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 11,
+      "estadio": "Arena Fonte Nova",
+      "capacidade": 50025,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 12,
+      "estadio": "Neo Química Arena",
+      "capacidade": 48905,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": "2014"
+    },
+    {
+      "posicao": 13,
+      "estadio": "Nilton Santos",
+      "capacidade": 46831,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 14,
+      "estadio": "Arena de Pernambuco",
+      "capacidade": 46154,
+      "cidade": "São Lourenço da Mata",
+      "uf": "PE",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 15,
+      "estadio": "Prudentão",
+      "capacidade": 45954,
+      "cidade": "Presidente Prudente",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 16,
+      "estadio": "Arena MRV",
+      "capacidade": 44892,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "proprietario": "Privado",
+      "inauguracao": "2023"
+    },
+    {
+      "posicao": 17,
+      "estadio": "Albertão",
+      "capacidade": 44200,
+      "cidade": "Teresina",
+      "uf": "PI",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": "1973"
+    },
+    {
+      "posicao": 18,
+      "estadio": "Morenão",
+      "capacidade": 44200,
+      "cidade": "Campo Grande",
+      "uf": "MS",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 19,
+      "estadio": "Arena Pantanal",
+      "capacidade": 44097,
+      "cidade": "Cuiabá",
+      "uf": "MT",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 20,
+      "estadio": "Arena da Amazônia",
+      "capacidade": 44000,
+      "cidade": "Manaus",
+      "uf": "AM",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 21,
+      "estadio": "Nubank Parque",
+      "capacidade": 43713,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 22,
+      "estadio": "Arena da Baixada",
+      "capacidade": 42372,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 23,
+      "estadio": "Serra Dourada",
+      "capacidade": 42000,
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 24,
+      "estadio": "Couto Pereira",
+      "capacidade": 40502,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 25,
+      "estadio": "Castelão",
+      "capacidade": 40149,
+      "cidade": "São Luís",
+      "uf": "MA",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 26,
+      "estadio": "Pacaembu",
+      "capacidade": 37900,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 27,
+      "estadio": "Barradão",
+      "capacidade": 35000,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 27,
+      "estadio": "Pinheirão",
+      "capacidade": 35000,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "proprietario": "Privado",
+      "inauguracao": "1985"
+    },
+    {
+      "posicao": 27,
+      "estadio": "Olímpico da USP",
+      "capacidade": 35000,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 30,
+      "estadio": "Teixeirão",
+      "capacidade": 32168,
+      "cidade": "São José do Rio Preto",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 31,
+      "estadio": "Pituaçu",
+      "capacidade": 32157,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 32,
+      "estadio": "Arena das Dunas",
+      "capacidade": 32050,
+      "cidade": "Natal",
+      "uf": "RN",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 33,
+      "estadio": "Helenão",
+      "capacidade": 31863,
+      "cidade": "Juiz de Fora",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 34,
+      "estadio": "Arena Barueri",
+      "capacidade": 31452,
+      "cidade": "Barueri",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 35,
+      "estadio": "Estádio do Café",
+      "capacidade": 30000,
+      "cidade": "Londrina",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 35,
+      "estadio": "Douradão",
+      "capacidade": 30000,
+      "cidade": "Dourados",
+      "uf": "MS",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 37,
+      "estadio": "Brinco de Ouro",
+      "capacidade": 29130,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 38,
+      "estadio": "Santa Cruz",
+      "capacidade": 28946,
+      "cidade": "Ribeirão Preto",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 39,
+      "estadio": "Boca do Jacaré",
+      "capacidade": 27000,
+      "cidade": "Taguatinga",
+      "uf": "DF",
+      "proprietario": "Gov. Distrital",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 40,
+      "estadio": "Ilha do Retiro",
+      "capacidade": 26418,
+      "cidade": "Recife",
+      "uf": "PE",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 41,
+      "estadio": "Irmão Gino Maria Rossi",
+      "capacidade": 26000,
+      "cidade": "Pouso Alegre",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 42,
+      "estadio": "Almeidão",
+      "capacidade": 25770,
+      "cidade": "João Pessoa",
+      "uf": "PB",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 42,
+      "estadio": "Amigão",
+      "capacidade": 25770,
+      "cidade": "Campina Grande",
+      "uf": "PB",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 44,
+      "estadio": "Regional Jacy Miguel Scanagatta",
+      "capacidade": 25000,
+      "cidade": "Cascavel",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 45,
+      "estadio": "São Januário",
+      "capacidade": 24584,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 46,
+      "estadio": "Independência",
+      "capacidade": 23018,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 47,
+      "estadio": "Ipatingão",
+      "capacidade": 22500,
+      "cidade": "Ipatinga",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 48,
+      "estadio": "Arena Joinville",
+      "capacidade": 22400,
+      "cidade": "Joinville",
+      "uf": "SC",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 49,
+      "estadio": "Centenário",
+      "capacidade": 22132,
+      "cidade": "Caxias do Sul",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 50,
+      "estadio": "Colosso da Lagoa",
+      "capacidade": 22000,
+      "cidade": "Erechim",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 50,
+      "estadio": "Antônio Otoni Filho",
+      "capacidade": 22000,
+      "cidade": "Guará",
+      "uf": "DF",
+      "proprietario": "Gov. Distrital",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 52,
+      "estadio": "Canindé",
+      "capacidade": 21004,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 53,
+      "estadio": "Kleber Andrade",
+      "capacidade": 21000,
+      "cidade": "Cariacica",
+      "uf": "ES",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 54,
+      "estadio": "Bezerrão",
+      "capacidade": 20310,
+      "cidade": "Gama",
+      "uf": "DF",
+      "proprietario": "Gov. Distrital",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 55,
+      "estadio": "Arena Condá",
+      "capacidade": 20289,
+      "cidade": "Chapecó",
+      "uf": "SC",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 56,
+      "estadio": "Presidente Vargas",
+      "capacidade": 20268,
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 57,
+      "estadio": "Arena da Fonte Luminosa",
+      "capacidade": 20205,
+      "cidade": "Araraquara",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 58,
+      "estadio": "Aflitos",
+      "capacidade": 20000,
+      "cidade": "Recife",
+      "uf": "PE",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 58,
+      "estadio": "Arena Acreana",
+      "capacidade": 20000,
+      "cidade": "Rio Branco",
+      "uf": "AC",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 60,
+      "estadio": "Alfredo Jaconi",
+      "capacidade": 19924,
+      "cidade": "Caxias do Sul",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 61,
+      "estadio": "Vail Chaves",
+      "capacidade": 19900,
+      "cidade": "Mogi Mirim",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 62,
+      "estadio": "Orlando Scarpelli",
+      "capacidade": 19584,
+      "cidade": "Florianópolis",
+      "uf": "SC",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 63,
+      "estadio": "Lacerdão",
+      "capacidade": 19478,
+      "cidade": "Caruaru",
+      "uf": "PE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 64,
+      "estadio": "Heriberto Hülse",
+      "capacidade": 19225,
+      "cidade": "Criciúma",
+      "uf": "SC",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 65,
+      "estadio": "Alfredão",
+      "capacidade": 18886,
+      "cidade": "Bauru",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 66,
+      "estadio": "Arena do Jacaré",
+      "capacidade": 18870,
+      "cidade": "Sete Lagoas",
+      "uf": "MG",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 67,
+      "estadio": "Palma Travassos",
+      "capacidade": 18277,
+      "cidade": "Ribeirão Preto",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 68,
+      "estadio": "Raulino de Oliveira",
+      "capacidade": 18230,
+      "cidade": "Volta Redonda",
+      "uf": "RJ",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 69,
+      "estadio": "Barão da Serra Negra",
+      "capacidade": 18000,
+      "cidade": "Piracicaba",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 69,
+      "estadio": "Major Levy Sobrinho",
+      "capacidade": 18000,
+      "cidade": "Limeira",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 69,
+      "estadio": "Ítalo del Cima",
+      "capacidade": 18000,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 69,
+      "estadio": "Luthero Lopes",
+      "capacidade": 18000,
+      "cidade": "Rondonópolis",
+      "uf": "MT",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 73,
+      "estadio": "Vila Belmiro",
+      "capacidade": 17923,
+      "cidade": "Santos",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 74,
+      "estadio": "Ressacada",
+      "capacidade": 17826,
+      "cidade": "Florianópolis",
+      "uf": "SC",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 75,
+      "estadio": "Moisés Lucarelli",
+      "capacidade": 17728,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 76,
+      "estadio": "Arena Romeirão",
+      "capacidade": 17230,
+      "cidade": "Juazeiro do Norte",
+      "uf": "CE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 77,
+      "estadio": "Felipão",
+      "capacidade": 17147,
+      "cidade": "Paranavaí",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 78,
+      "estadio": "Vila Capanema",
+      "capacidade": 17140,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 79,
+      "estadio": "Trapichão",
+      "capacidade": 17126,
+      "cidade": "Maceió",
+      "uf": "AL",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 80,
+      "estadio": "Adail Nunes da Silva",
+      "capacidade": 16805,
+      "cidade": "Taquaritinga",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 81,
+      "estadio": "Anacleto Campanella",
+      "capacidade": 16744,
+      "cidade": "São Caetano do Sul",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 82,
+      "estadio": "Martins Pereira",
+      "capacidade": 16500,
+      "cidade": "São José dos Campos",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 82,
+      "estadio": "Arena Cruzeiro",
+      "capacidade": 16500,
+      "cidade": "Cachoeirinha",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 84,
+      "estadio": "Silvio Salles",
+      "capacidade": 16444,
+      "cidade": "Catanduva",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 85,
+      "estadio": "Décio Vitta",
+      "capacidade": 16300,
+      "cidade": "Americana",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 86,
+      "estadio": "Jóia da Princesa",
+      "capacidade": 16274,
+      "cidade": "Feira de Santana",
+      "uf": "BA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 87,
+      "estadio": "Curuzu",
+      "capacidade": 16200,
+      "cidade": "Belém",
+      "uf": "PA",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 88,
+      "estadio": "Herminio Ometto",
+      "capacidade": 16096,
+      "cidade": "Araras",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 89,
+      "estadio": "Parque São Jorge",
+      "capacidade": 16000,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": "22 de julho de 1928"
+    },
+    {
+      "posicao": 89,
+      "estadio": "Vicente Goulart",
+      "capacidade": 16000,
+      "cidade": "São Borja",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 91,
+      "estadio": "Gilbertão",
+      "capacidade": 15770,
+      "cidade": "Lins",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 92,
+      "estadio": "Dario Rodrigues Leite",
+      "capacidade": 15769,
+      "cidade": "Guaratinguetá",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 93,
+      "estadio": "Primeiro de Maio",
+      "capacidade": 12578,
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 94,
+      "estadio": "Prefeito José Costa",
+      "capacidade": 15727,
+      "cidade": "Espírito Santo do Pinhal",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 95,
+      "estadio": "Novelli Júnior",
+      "capacidade": 15600,
+      "cidade": "Itu",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 96,
+      "estadio": "Arena Batistão",
+      "capacidade": 15586,
+      "cidade": "Aracaju",
+      "uf": "SE",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 97,
+      "estadio": "Boca do Lobo",
+      "capacidade": 15478,
+      "cidade": "Pelotas",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 98,
+      "estadio": "Melão",
+      "capacidade": 15471,
+      "cidade": "Varginha",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 99,
+      "estadio": "Uberabão",
+      "capacidade": 15306,
+      "cidade": "Uberaba",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 100,
+      "estadio": "Sócrates Stamato",
+      "capacidade": 15300,
+      "cidade": "Bebedouro",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 101,
+      "estadio": "Frasqueirão",
+      "capacidade": 15082,
+      "cidade": "Natal",
+      "uf": "RN",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 102,
+      "estadio": "Nabi Abi Chedid",
+      "capacidade": 15010,
+      "cidade": "Bragança Paulista",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 102,
+      "estadio": "Bento de Abreu",
+      "capacidade": 15010,
+      "cidade": "Marília",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Alfredo Chiavegato",
+      "capacidade": 15000,
+      "cidade": "Jaguariúna",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Arapucão",
+      "capacidade": 15000,
+      "cidade": "Jataí",
+      "uf": "GO",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Carlos Affini",
+      "capacidade": 15000,
+      "cidade": "Paraguaçu Paulista",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Montanha dos Vinhedos",
+      "capacidade": 15000,
+      "cidade": "Bento Gonçalves",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "JK",
+      "capacidade": 15000,
+      "cidade": "Itumbiara",
+      "uf": "GO",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "José Maria Campos Maia",
+      "capacidade": 15000,
+      "cidade": "Mirassol",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Moacyrzão",
+      "capacidade": 15000,
+      "cidade": "Macaé",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Giulite Coutinho",
+      "capacidade": 15000,
+      "cidade": "Mesquita",
+      "uf": "RJ",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Maria Teresa Breda",
+      "capacidade": 15000,
+      "cidade": "Olímpia",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Vermelhão da Serra",
+      "capacidade": 15000,
+      "cidade": "Passo Fundo",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 104,
+      "estadio": "Torquato Pontes",
+      "capacidade": 15000,
+      "cidade": "Rio Grande",
+      "uf": "RS",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 115,
+      "estadio": "Willie Davids",
+      "capacidade": 14955,
+      "cidade": "Maringá",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 116,
+      "estadio": "Antonio Lins Ribeiro Guimarães",
+      "capacidade": 14913,
+      "cidade": "Santa Bárbara d'Oeste",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 117,
+      "estadio": "Lancha Filho",
+      "capacidade": 14686,
+      "cidade": "Franca",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 118,
+      "estadio": "Serrinha",
+      "capacidade": 14525,
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 119,
+      "estadio": "Francisco Nogueira Filho",
+      "capacidade": 14384,
+      "cidade": "Mogi das Cruzes",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 120,
+      "estadio": "Bruno José Daniel",
+      "capacidade": 11440,
+      "cidade": "Santo André",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 121,
+      "estadio": "Anísio Haddad",
+      "capacidade": 14126,
+      "cidade": "São José do Rio Preto",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 122,
+      "estadio": "Soares de Azevedo",
+      "capacidade": 13971,
+      "cidade": "Muriaé",
+      "uf": "MG",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 123,
+      "estadio": "Jayme Cintra",
+      "capacidade": 13905,
+      "cidade": "Jundiaí",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 124,
+      "estadio": "Baenão",
+      "capacidade": 13792,
+      "cidade": "Belém",
+      "uf": "PA",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 125,
+      "estadio": "Walter Ribeiro",
+      "capacidade": 13772,
+      "cidade": "Sorocaba",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 126,
+      "estadio": "Olímpico Pedro Ludovivo",
+      "capacidade": 13500,
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 127,
+      "estadio": "Ícaro de Castro Melo",
+      "capacidade": 13400,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 128,
+      "estadio": "Otacília Patrício Arroyo",
+      "capacidade": 13100,
+      "cidade": "Monte Azul Paulista",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 129,
+      "estadio": "Fortaleza",
+      "capacidade": 13007,
+      "cidade": "Barretos",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 130,
+      "estadio": "Gigante do Norte",
+      "capacidade": 13000,
+      "cidade": "Sinop",
+      "uf": "MT",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 130,
+      "estadio": "Oswaldo Scatena",
+      "capacidade": 13000,
+      "cidade": "Batatais",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 132,
+      "estadio": "Zezinho Magalhães",
+      "capacidade": 12978,
+      "cidade": "Jaú",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 133,
+      "estadio": "14 de Dezembro",
+      "capacidade": 12500,
+      "cidade": "Toledo",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 133,
+      "estadio": "Antônio Accioly",
+      "capacidade": 12500,
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 135,
+      "estadio": "Jorge Ismael de Biasi",
+      "capacidade": 12398,
+      "cidade": "Novo Horizonte",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 136,
+      "estadio": "Serra do Lago",
+      "capacidade": 12300,
+      "cidade": "Luziânia",
+      "uf": "GO",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 137,
+      "estadio": "Cornélio de Barros",
+      "capacidade": 12070,
+      "cidade": "Salgueiro",
+      "uf": "PE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Arena Capivari",
+      "capacidade": 12000,
+      "cidade": "Capivari",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Fumeirão",
+      "capacidade": 12000,
+      "cidade": "Arapiraca",
+      "uf": "AL",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Ademir Cunha",
+      "capacidade": 12000,
+      "cidade": "Paulista",
+      "uf": "PE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Caio Martins",
+      "capacidade": 12000,
+      "cidade": "Niterói",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Marizão",
+      "capacidade": 12000,
+      "cidade": "Caicó",
+      "uf": "RN",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Municipal de Quiterianópolis",
+      "capacidade": 12000,
+      "cidade": "Quiterianópolis",
+      "uf": "CE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Adonir Guimarães",
+      "capacidade": 12000,
+      "cidade": "Planaltina",
+      "uf": "DF",
+      "proprietario": "Gov. Distrital",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Antônio Pena",
+      "capacidade": 12000,
+      "cidade": "Catu",
+      "uf": "BA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 138,
+      "estadio": "Perpetão",
+      "capacidade": 12000,
+      "cidade": "Cajazeiras",
+      "uf": "PB",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 147,
+      "estadio": "OBA",
+      "capacidade": 11788,
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 148,
+      "estadio": "Breno Ribeiro do Val",
+      "capacidade": 11784,
+      "cidade": "Osvaldo Cruz",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 149,
+      "estadio": "José Liberatti",
+      "capacidade": 11780,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 150,
+      "estadio": "Luiz Viana Filho",
+      "capacidade": 11745,
+      "cidade": "Itabuna",
+      "uf": "BA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 151,
+      "estadio": "Mirandão",
+      "capacidade": 11732,
+      "cidade": "Crato",
+      "uf": "CE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 152,
+      "estadio": "Lomantão",
+      "capacidade": 11538,
+      "cidade": "Vitória da Conquista",
+      "uf": "BA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 153,
+      "estadio": "José Cavalcanti",
+      "capacidade": 11500,
+      "cidade": "Patos",
+      "uf": "PB",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 154,
+      "estadio": "Nhozinho Santos",
+      "capacidade": 11429,
+      "cidade": "São Luís",
+      "uf": "MA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 155,
+      "estadio": "Adhermazão",
+      "capacidade": 11274,
+      "cidade": "Araçatuba",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 156,
+      "estadio": "Geraldão",
+      "capacidade": 11168,
+      "cidade": "Tauá",
+      "uf": "CE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 157,
+      "estadio": "Gigante do Itiberê",
+      "capacidade": 11000,
+      "cidade": "Paranaguá",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 157,
+      "estadio": "CE Umuarama",
+      "capacidade": 11000,
+      "cidade": "Umuarama",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 157,
+      "estadio": "Marizão",
+      "capacidade": 11000,
+      "cidade": "Sousa",
+      "uf": "PB",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 157,
+      "estadio": "Rua Bariri",
+      "capacidade": 11000,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 161,
+      "estadio": "Carneirão",
+      "capacidade": 10911,
+      "cidade": "Vitória de Santo Antão",
+      "uf": "PE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 162,
+      "estadio": "Jonas Duarte",
+      "capacidade": 10707,
+      "cidade": "Anápolis",
+      "uf": "GO",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 163,
+      "estadio": "Nicolau Alayon",
+      "capacidade": 10723,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 164,
+      "estadio": "Grito da República",
+      "capacidade": 10700,
+      "cidade": "Olinda",
+      "uf": "PE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 165,
+      "estadio": "Bom Jesus da Lapa",
+      "capacidade": 10682,
+      "cidade": "Apucarana",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 166,
+      "estadio": "Germano Krüger",
+      "capacidade": 10632,
+      "cidade": "Ponta Grossa",
+      "uf": "PR",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 167,
+      "estadio": "Francisco Novelletto Neto",
+      "capacidade": 10600,
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 168,
+      "estadio": "Junco",
+      "capacidade": 10500,
+      "cidade": "Sobral",
+      "uf": "CE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 168,
+      "estadio": "Trabalhador",
+      "capacidade": 10500,
+      "cidade": "Resende",
+      "uf": "RJ",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 170,
+      "estadio": "Colina",
+      "capacidade": 10451,
+      "cidade": "Manaus",
+      "uf": "AM",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 171,
+      "estadio": "Dos Pássaros",
+      "capacidade": 10440,
+      "cidade": "Arapongas",
+      "uf": "PR",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 172,
+      "estadio": "Domingão",
+      "capacidade": 10400,
+      "cidade": "Horizonte",
+      "uf": "CE",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 173,
+      "estadio": "Bernardo Rubinger de Queiroz",
+      "capacidade": 10252,
+      "cidade": "Patos de Minas",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 174,
+      "estadio": "Pedro Alves do Nascimento",
+      "capacidade": 10250,
+      "cidade": "Patrocínio",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 175,
+      "estadio": "Vavazão",
+      "capacidade": 10235,
+      "cidade": "Maruim",
+      "uf": "SE",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 176,
+      "estadio": "Parque do Bacurau",
+      "capacidade": 10230,
+      "cidade": "Cametá",
+      "uf": "PA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 177,
+      "estadio": "Barrettão",
+      "capacidade": 10068,
+      "cidade": "Ceará-Mirim",
+      "uf": "RN",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 178,
+      "estadio": "Luís Augusto de Oliveira",
+      "capacidade": 10044,
+      "cidade": "São Carlos",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 179,
+      "estadio": "José Sidney Cunha",
+      "capacidade": 10022,
+      "cidade": "Capão Bonito",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 180,
+      "estadio": "Octávio da Silva Bastos",
+      "capacidade": 10002,
+      "cidade": "São João da Boa Vista",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 180,
+      "estadio": "Tico Breda",
+      "capacidade": 10002,
+      "cidade": "Hortolândia",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Amaros",
+      "capacidade": 10000,
+      "cidade": "Itápolis",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Bento Freitas",
+      "capacidade": 10000,
+      "cidade": "Pelotas",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Arena do Calçado",
+      "capacidade": 10000,
+      "cidade": "Nova Serrana",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Teotônio Vilela",
+      "capacidade": 10000,
+      "cidade": "Viçosa",
+      "uf": "AL",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Florestão",
+      "capacidade": 10000,
+      "cidade": "Rio Branco",
+      "uf": "AC",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Estrela D'Alva",
+      "capacidade": 10000,
+      "cidade": "Bagé",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Cristo Rei",
+      "capacidade": 10000,
+      "cidade": "São Leopoldo",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Complexo Esportivo da ULBRA",
+      "capacidade": 10000,
+      "cidade": "Canoas",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "VGD",
+      "capacidade": 10000,
+      "cidade": "Londrina",
+      "uf": "PR",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Aryzão",
+      "capacidade": 10000,
+      "cidade": "Campos dos Goytacazes",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Jair Siqueira Bittencourt",
+      "capacidade": 10000,
+      "cidade": "Itaperuna",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Arena Guanabara",
+      "capacidade": 10000,
+      "cidade": "Araruama",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Odair Gama",
+      "capacidade": 10000,
+      "cidade": "Três Rios",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Aluizão",
+      "capacidade": 10000,
+      "cidade": "Porto Velho",
+      "uf": "RO",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Augustinho Lima",
+      "capacidade": 10000,
+      "cidade": "Sobradinho",
+      "uf": "DF",
+      "proprietario": "Gov. Distrital",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Frei Epifânio",
+      "capacidade": 10000,
+      "cidade": "Imperatriz",
+      "uf": "MA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Presidente Médici",
+      "capacidade": 10000,
+      "cidade": "Itabaiana",
+      "uf": "SE",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Nilton Santos",
+      "capacidade": 10000,
+      "cidade": "Palmas",
+      "uf": "TO",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Ribeirão",
+      "capacidade": 10000,
+      "cidade": "Tocantinópolis",
+      "uf": "TO",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Passo das Emas",
+      "capacidade": 10000,
+      "cidade": "Lucas do Rio Verde",
+      "uf": "MT",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Rosenão",
+      "capacidade": 10000,
+      "cidade": "Parauapebas",
+      "uf": "PA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Arena do Juruá",
+      "capacidade": 10000,
+      "cidade": "Cruzeiro do Sul",
+      "uf": "AC",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Canarinho",
+      "capacidade": 10000,
+      "cidade": "Boa Vista",
+      "uf": "RR",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Gilbertão",
+      "capacidade": 10000,
+      "cidade": "Manacapuru",
+      "uf": "AM",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Mirandão",
+      "capacidade": 10000,
+      "cidade": "Araguaína",
+      "uf": "TO",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 182,
+      "estadio": "Andradão",
+      "capacidade": 10000,
+      "cidade": "Nova Andradina",
+      "uf": "MS",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 208,
+      "estadio": "Arena Verde",
+      "capacidade": 9878,
+      "cidade": "Paragominas",
+      "uf": "PA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 209,
+      "estadio": "Joaquim de Morais Filho",
+      "capacidade": 9600,
+      "cidade": "Taubaté",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 210,
+      "estadio": "Agostinho Prada",
+      "capacidade": 9486,
+      "cidade": "Limeira",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 211,
+      "estadio": "Binezão",
+      "capacidade": 9146,
+      "cidade": "Santa Inês",
+      "uf": "MA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 212,
+      "estadio": "Moça Bonita",
+      "capacidade": 9024,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 213,
+      "estadio": "PV",
+      "capacidade": 8800,
+      "cidade": "Campina Grande",
+      "uf": "PB",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 214,
+      "estadio": "Tenente Carriço",
+      "capacidade": 8769,
+      "cidade": "Penápolis",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 215,
+      "estadio": "Hudson Buck Ferreira",
+      "capacidade": 8758,
+      "cidade": "Matão",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 216,
+      "estadio": "Mamudão",
+      "capacidade": 8675,
+      "cidade": "Governador Valadares",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 217,
+      "estadio": "Pedro Benedetti",
+      "capacidade": 8567,
+      "cidade": "Mauá",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 218,
+      "estadio": "Tonicão",
+      "capacidade": 8525,
+      "cidade": "Assis",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 219,
+      "estadio": "Colosso do Tapajós",
+      "capacidade": 8500,
+      "cidade": "Santarém",
+      "uf": "PA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 219,
+      "estadio": "Atílio Marotti",
+      "capacidade": 8500,
+      "cidade": "Petrópolis",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 221,
+      "estadio": "Rua Bariri",
+      "capacidade": 8300,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 222,
+      "estadio": "Pedro Marin Berbel",
+      "capacidade": 8240,
+      "cidade": "Birigui",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 223,
+      "estadio": "Frei Norberto",
+      "capacidade": 8206,
+      "cidade": "Paracatu",
+      "uf": "MG",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 224,
+      "estadio": "Navengantão",
+      "capacidade": 8200,
+      "cidade": "Tucuruí",
+      "uf": "PA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 225,
+      "estadio": "Plínio Marin",
+      "capacidade": 8145,
+      "cidade": "Votuporanga",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 226,
+      "estadio": "Benito Castellano",
+      "capacidade": 8136,
+      "cidade": "Rio Claro",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 227,
+      "estadio": "Distrital do Inamar",
+      "capacidade": 8075,
+      "cidade": "Diadema",
+      "uf": "SP",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 228,
+      "estadio": "Caneleira",
+      "capacidade": 8031,
+      "cidade": "Santos",
+      "uf": "SP",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Vila Olímpica",
+      "capacidade": 8000,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "José de Melo",
+      "capacidade": 8000,
+      "cidade": "Rio Branco",
+      "uf": "AC",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Cajueirão",
+      "capacidade": 8000,
+      "cidade": "Salinópolis",
+      "uf": "PA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Renê Bayma",
+      "capacidade": 8000,
+      "cidade": "Codó",
+      "uf": "MA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Barretão",
+      "capacidade": 8000,
+      "cidade": "Lagarto",
+      "uf": "SE",
+      "proprietario": "Gov. Estadual",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Barbosão",
+      "capacidade": 8000,
+      "cidade": "Cruz das Almas",
+      "uf": "BA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Primaverão",
+      "capacidade": 8000,
+      "cidade": "Itapetinga",
+      "uf": "BA",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Israel Pinheiro",
+      "capacidade": 8000,
+      "cidade": "Itabira",
+      "uf": "MG",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Laranjeiras",
+      "capacidade": 8000,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Antônio Savatonne",
+      "capacidade": 8000,
+      "cidade": "Teresópolis",
+      "uf": "RJ",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Aldo Dapuzzo",
+      "capacidade": 8000,
+      "cidade": "Rio Grande",
+      "uf": "RS",
+      "proprietario": "Privado",
+      "inauguracao": ""
+    },
+    {
+      "posicao": 229,
+      "estadio": "Silvio de Faria Corrêa",
+      "capacidade": 8000,
+      "cidade": "São Gabriel",
+      "uf": "RS",
+      "proprietario": "Gov. Municipal",
+      "inauguracao": ""
+    }
+  ],
+  "meta": {
+    "title": "Estádios de futebol do Brasil - Free Download",
+    "description": "Os maiores estádios de futebol do Brasil por capacidade, com cidade, UF, proprietário e data de inauguração. Contains 240 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Estádios de futebol do Brasil | ListBase",
+    "seo_description": "Download Estádios de futebol do Brasil — 240 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 240 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_estádios_de_futebol_do_Brasil"
+    ]
+  }
+}

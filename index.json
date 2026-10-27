@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:11.070Z",
-  "total_datasets": 477,
-  "total_records": 738604,
+  "generated": "2026-10-27T02:17:14.472Z",
+  "total_datasets": 478,
+  "total_records": 738844,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -13924,6 +13924,34 @@
         "xlsx": {
           "name": "pt-br-canais-tv-desporto_PT.xlsx",
           "size": 9887
+        }
+      }
+    },
+    {
+      "id": "pt-br-estadios-futebol",
+      "name": "Estádios de futebol do Brasil",
+      "category": "sports",
+      "record_count": 240,
+      "columns": [
+        "posicao",
+        "estadio",
+        "capacidade",
+        "cidade",
+        "uf",
+        "proprietario",
+        "inauguracao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_estádios_de_futebol_do_Brasil",
+      "updated": "2026-10",
+      "size": 51280,
+      "files": {
+        "csv": {
+          "name": "pt-br-estadios-futebol_PT.csv",
+          "size": 15914
+        },
+        "xlsx": {
+          "name": "pt-br-estadios-futebol_PT.xlsx",
+          "size": 18430
         }
       }
     },
