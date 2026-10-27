@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:55.684Z",
-  "total_datasets": 493,
-  "total_records": 740188,
+  "generated": "2026-10-27T02:17:58.205Z",
+  "total_datasets": 494,
+  "total_records": 740227,
   "categories": [
     {
       "id": "culture",
@@ -63,6 +63,10 @@
     {
       "id": "reference",
       "dataset_count": 263
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -14194,6 +14198,30 @@
         "xlsx": {
           "name": "pt-viseu-aeroportos_PT.xlsx",
           "size": 8139
+        }
+      }
+    },
+    {
+      "id": "pt-premio-pessoa",
+      "name": "Prémio Pessoa — premiados",
+      "category": "science",
+      "record_count": 39,
+      "columns": [
+        "ano",
+        "premiado",
+        "area"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Prémio_Pessoa",
+      "updated": "2026-10",
+      "size": 5886,
+      "files": {
+        "csv": {
+          "name": "pt-premio-pessoa_PT.csv",
+          "size": 2158
+        },
+        "xlsx": {
+          "name": "pt-premio-pessoa_PT.xlsx",
+          "size": 8374
         }
       }
     },

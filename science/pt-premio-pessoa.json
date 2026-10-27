@@ -1,0 +1,236 @@
+{
+  "id": "pt-premio-pessoa",
+  "name": "Prémio Pessoa — premiados",
+  "title": "Prémio Pessoa — premiados",
+  "description": "Lista dos vencedores do Prémio Pessoa desde 1987, distinção portuguesa para a cultura e a ciência, com a área de atividade.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Prémio_Pessoa",
+  "source_url": "https://pt.wikipedia.org/wiki/Prémio_Pessoa",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "premiado",
+      "label": "Premiado",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": "1987",
+      "premiado": "José Mattoso",
+      "area": "historiador, medievalista e professor universitário"
+    },
+    {
+      "ano": "1988",
+      "premiado": "António Ramos Rosa",
+      "area": "poeta"
+    },
+    {
+      "ano": "1989",
+      "premiado": "Maria João Pires",
+      "area": "pianista"
+    },
+    {
+      "ano": "1990",
+      "premiado": "Menez",
+      "area": "pintora"
+    },
+    {
+      "ano": "1991",
+      "premiado": "Cláudio Torres",
+      "area": "arqueólogo"
+    },
+    {
+      "ano": "1992",
+      "premiado": "António Damásio e Hanna Damásio",
+      "area": "investigadores neurocientistas"
+    },
+    {
+      "ano": "1993",
+      "premiado": "Fernando Gil",
+      "area": "filósofo e poeta"
+    },
+    {
+      "ano": "1994",
+      "premiado": "Herberto Hélder",
+      "area": "poeta (recusou o prémio)"
+    },
+    {
+      "ano": "1995",
+      "premiado": "Vasco Graça Moura",
+      "area": "ensaísta, tradutor e escritor"
+    },
+    {
+      "ano": "1996",
+      "premiado": "João Lobo Antunes",
+      "area": "neurocirurgião"
+    },
+    {
+      "ano": "1997",
+      "premiado": "José Cardoso Pires",
+      "area": "escritor"
+    },
+    {
+      "ano": "1998",
+      "premiado": "Eduardo Souto de Moura",
+      "area": "arquitecto"
+    },
+    {
+      "ano": "1999",
+      "premiado": "Manuel Alegre",
+      "area": "poeta, e José Manuel Rodrigues, fotógrafo"
+    },
+    {
+      "ano": "2000",
+      "premiado": "Emmanuel Nunes",
+      "area": "compositor"
+    },
+    {
+      "ano": "2001",
+      "premiado": "João Bénard da Costa",
+      "area": "cinéfilo e historiador de cinema"
+    },
+    {
+      "ano": "2002",
+      "premiado": "Manuel Sobrinho Simões",
+      "area": "investigador em medicina"
+    },
+    {
+      "ano": "2003",
+      "premiado": "José Gomes Canotilho",
+      "area": "constitucionalista"
+    },
+    {
+      "ano": "2004",
+      "premiado": "Mário Cláudio",
+      "area": "escritor"
+    },
+    {
+      "ano": "2005",
+      "premiado": "Luís Miguel Cintra",
+      "area": "actor e encenador"
+    },
+    {
+      "ano": "2006",
+      "premiado": "António Câmara",
+      "area": "professor e investigador em novas tecnologias e sociedade da informação"
+    },
+    {
+      "ano": "2007",
+      "premiado": "Irene Flunser Pimentel",
+      "area": "historiadora"
+    },
+    {
+      "ano": "2008",
+      "premiado": "João Luís Carrilho da Graça",
+      "area": "arquitecto"
+    },
+    {
+      "ano": "2009",
+      "premiado": "D. Manuel Clemente",
+      "area": "bispo, historiador e professor universitário"
+    },
+    {
+      "ano": "2010",
+      "premiado": "Maria do Carmo Fonseca",
+      "area": "cientista"
+    },
+    {
+      "ano": "2011",
+      "premiado": "Eduardo Lourenço",
+      "area": "ensaísta"
+    },
+    {
+      "ano": "2012",
+      "premiado": "Richard Zenith",
+      "area": "escritor e tradutor"
+    },
+    {
+      "ano": "2013",
+      "premiado": "Maria Manuel Mota",
+      "area": "investigadora"
+    },
+    {
+      "ano": "2014",
+      "premiado": "Henrique Leitão",
+      "area": "físico, historiador de ciência e professor universitário"
+    },
+    {
+      "ano": "2015",
+      "premiado": "Rui Chafes",
+      "area": "escultor"
+    },
+    {
+      "ano": "2016",
+      "premiado": "Frederico Lourenço",
+      "area": "escritor, tradutor e professor universitário"
+    },
+    {
+      "ano": "2017",
+      "premiado": "Manuel Aires Mateus",
+      "area": "arquiteto"
+    },
+    {
+      "ano": "2018",
+      "premiado": "Miguel Bastos Araújo",
+      "area": "investigador e geógrafo"
+    },
+    {
+      "ano": "2019",
+      "premiado": "Tiago Rodrigues",
+      "area": "ator, encenador e diretor artístico"
+    },
+    {
+      "ano": "2020",
+      "premiado": "Elvira Fortunato",
+      "area": "cientista na área da microeletrónica e optoeletrónica"
+    },
+    {
+      "ano": "2021",
+      "premiado": "Tiago Pitta e Cunha",
+      "area": "jurista especializado em assuntos do mar"
+    },
+    {
+      "ano": "2022",
+      "premiado": "João Luís Barreto Guimarães",
+      "area": "poeta, tradutor e médico"
+    },
+    {
+      "ano": "2023",
+      "premiado": "José Tolentino de Mendonça",
+      "area": "poeta e cardeal da Igreja Católica"
+    },
+    {
+      "ano": "2024",
+      "premiado": "Luís Tinoco",
+      "area": "compositor"
+    },
+    {
+      "ano": "2025",
+      "premiado": "Lídia Jorge",
+      "area": "escritora"
+    }
+  ],
+  "meta": {
+    "title": "Prémio Pessoa — premiados - Free Download",
+    "description": "Lista dos vencedores do Prémio Pessoa desde 1987, distinção portuguesa para a cultura e a ciência, com a área de atividade. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prémio Pessoa — premiados | ListBase",
+    "seo_description": "Download Prémio Pessoa — premiados — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Prémio_Pessoa"
+    ]
+  }
+}
