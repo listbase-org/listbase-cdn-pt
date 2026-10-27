@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:16:54.646Z",
-  "total_datasets": 471,
-  "total_records": 738042,
+  "generated": "2026-10-27T02:16:57.393Z",
+  "total_datasets": 472,
+  "total_records": 738082,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -70,6 +70,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pt-br-academia-brasileira-letras-cadeiras",
+      "name": "Cadeiras da Academia Brasileira de Letras",
+      "category": "culture",
+      "record_count": 40,
+      "columns": [
+        "cadeira",
+        "patrono",
+        "fundador",
+        "sucessores"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_membros_da_Academia_Brasileira_de_Letras",
+      "updated": "2026-10",
+      "size": 11424,
+      "files": {
+        "csv": {
+          "name": "pt-br-academia-brasileira-letras-cadeiras_PT.csv",
+          "size": 6303
+        },
+        "xlsx": {
+          "name": "pt-br-academia-brasileira-letras-cadeiras_PT.xlsx",
+          "size": 10509
+        }
+      }
+    },
     {
       "id": "pt-patrimonio-mundial-unesco",
       "name": "Património Mundial da UNESCO em Portugal",
