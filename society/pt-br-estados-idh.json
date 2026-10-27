@@ -1,0 +1,336 @@
+{
+  "id": "pt-br-estados-idh",
+  "name": "Unidades federativas do Brasil por IDH",
+  "title": "Unidades federativas do Brasil por IDH",
+  "description": "Índice de Desenvolvimento Humano Municipal (IDH-M) dos estados brasileiros: 1990, 2000, 2010, 2020, 2021 e 2022.",
+  "category": "society",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_IDH",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_IDH",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "posicao_2022",
+      "label": "Posicao 2022",
+      "type": "number"
+    },
+    {
+      "key": "unidade_federativa",
+      "label": "Unidade Federativa",
+      "type": "string"
+    },
+    {
+      "key": "idhm_2022",
+      "label": "Idhm 2022",
+      "type": "number"
+    },
+    {
+      "key": "idhm_2021",
+      "label": "Idhm 2021",
+      "type": "number"
+    },
+    {
+      "key": "idhm_2020",
+      "label": "Idhm 2020",
+      "type": "number"
+    },
+    {
+      "key": "idhm_2010",
+      "label": "Idhm 2010",
+      "type": "number"
+    },
+    {
+      "key": "idhm_2000",
+      "label": "Idhm 2000",
+      "type": "number"
+    },
+    {
+      "key": "idhm_1990",
+      "label": "Idhm 1990",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicao_2022": 1,
+      "unidade_federativa": "Distrito Federal",
+      "idhm_2022": 0.867,
+      "idhm_2021": 0.823,
+      "idhm_2020": 0.837,
+      "idhm_2010": 0.824,
+      "idhm_2000": 0.725,
+      "idhm_1990": 0.616
+    },
+    {
+      "posicao_2022": 2,
+      "unidade_federativa": "São Paulo",
+      "idhm_2022": 0.828,
+      "idhm_2021": 0.801,
+      "idhm_2020": 0.822,
+      "idhm_2010": 0.783,
+      "idhm_2000": 0.702,
+      "idhm_1990": 0.578
+    },
+    {
+      "posicao_2022": 3,
+      "unidade_federativa": "Santa Catarina",
+      "idhm_2022": 0.811,
+      "idhm_2021": 0.789,
+      "idhm_2020": 0.805,
+      "idhm_2010": 0.774,
+      "idhm_2000": 0.674,
+      "idhm_1990": 0.543
+    },
+    {
+      "posicao_2022": 4,
+      "unidade_federativa": "Rio de Janeiro",
+      "idhm_2022": 0.804,
+      "idhm_2021": 0.763,
+      "idhm_2020": 0.781,
+      "idhm_2010": 0.761,
+      "idhm_2000": 0.664,
+      "idhm_1990": 0.573
+    },
+    {
+      "posicao_2022": 5,
+      "unidade_federativa": "Paraná",
+      "idhm_2022": 0.8,
+      "idhm_2021": 0.767,
+      "idhm_2020": 0.793,
+      "idhm_2010": 0.749,
+      "idhm_2000": 0.65,
+      "idhm_1990": 0.507
+    },
+    {
+      "posicao_2022": 6,
+      "unidade_federativa": "Goiás",
+      "idhm_2022": 0.797,
+      "idhm_2021": 0.755,
+      "idhm_2020": 0.777,
+      "idhm_2010": 0.735,
+      "idhm_2000": 0.615,
+      "idhm_1990": 0.487
+    },
+    {
+      "posicao_2022": 7,
+      "unidade_federativa": "Rio Grande do Sul",
+      "idhm_2022": 0.796,
+      "idhm_2021": 0.772,
+      "idhm_2020": 0.787,
+      "idhm_2010": 0.746,
+      "idhm_2000": 0.664,
+      "idhm_1990": 0.542
+    },
+    {
+      "posicao_2022": 8,
+      "unidade_federativa": "Mato Grosso",
+      "idhm_2022": 0.794,
+      "idhm_2021": 0.745,
+      "idhm_2020": 0.767,
+      "idhm_2010": 0.725,
+      "idhm_2000": 0.601,
+      "idhm_1990": 0.449
+    },
+    {
+      "posicao_2022": 9,
+      "unidade_federativa": "Minas Gerais",
+      "idhm_2022": 0.793,
+      "idhm_2021": 0.763,
+      "idhm_2020": 0.782,
+      "idhm_2010": 0.731,
+      "idhm_2000": 0.624,
+      "idhm_1990": 0.478
+    },
+    {
+      "posicao_2022": 10,
+      "unidade_federativa": "Espírito Santo",
+      "idhm_2022": 0.782,
+      "idhm_2021": 0.754,
+      "idhm_2020": 0.773,
+      "idhm_2010": 0.74,
+      "idhm_2000": 0.64,
+      "idhm_1990": 0.505
+    },
+    {
+      "posicao_2022": 11,
+      "unidade_federativa": "Mato Grosso do Sul",
+      "idhm_2022": 0.781,
+      "idhm_2021": 0.748,
+      "idhm_2020": 0.771,
+      "idhm_2010": 0.729,
+      "idhm_2000": 0.613,
+      "idhm_1990": 0.488
+    },
+    {
+      "posicao_2022": 12,
+      "unidade_federativa": "Tocantins",
+      "idhm_2022": 0.777,
+      "idhm_2021": 0.731,
+      "idhm_2020": 0.76,
+      "idhm_2010": 0.699,
+      "idhm_2000": 0.525,
+      "idhm_1990": 0.369
+    },
+    {
+      "posicao_2022": 13,
+      "unidade_federativa": "Roraima",
+      "idhm_2022": 0.763,
+      "idhm_2021": 0.694,
+      "idhm_2020": 0.735,
+      "idhm_2010": 0.707,
+      "idhm_2000": 0.598,
+      "idhm_1990": 0.459
+    },
+    {
+      "posicao_2022": 14,
+      "unidade_federativa": "Rondônia",
+      "idhm_2022": 0.762,
+      "idhm_2021": 0.708,
+      "idhm_2020": 0.752,
+      "idhm_2010": 0.69,
+      "idhm_2000": 0.537,
+      "idhm_1990": 0.407
+    },
+    {
+      "posicao_2022": 15,
+      "unidade_federativa": "Ceará",
+      "idhm_2022": 0.759,
+      "idhm_2021": 0.74,
+      "idhm_2020": 0.753,
+      "idhm_2010": 0.682,
+      "idhm_2000": 0.541,
+      "idhm_1990": 0.405
+    },
+    {
+      "posicao_2022": 16,
+      "unidade_federativa": "Amazonas",
+      "idhm_2022": 0.757,
+      "idhm_2021": 0.7,
+      "idhm_2020": 0.725,
+      "idhm_2010": 0.674,
+      "idhm_2000": 0.515,
+      "idhm_1990": 0.43
+    },
+    {
+      "posicao_2022": 17,
+      "unidade_federativa": "Pernambuco",
+      "idhm_2022": 0.745,
+      "idhm_2021": 0.716,
+      "idhm_2020": 0.73,
+      "idhm_2010": 0.673,
+      "idhm_2000": 0.544,
+      "idhm_1990": 0.44
+    },
+    {
+      "posicao_2022": 18,
+      "unidade_federativa": "Rio Grande do Norte",
+      "idhm_2022": 0.744,
+      "idhm_2021": 0.723,
+      "idhm_2020": 0.742,
+      "idhm_2010": 0.684,
+      "idhm_2000": 0.552,
+      "idhm_1990": 0.428
+    },
+    {
+      "posicao_2022": 19,
+      "unidade_federativa": "Amapá",
+      "idhm_2022": 0.743,
+      "idhm_2021": 0.681,
+      "idhm_2020": 0.707,
+      "idhm_2010": 0.708,
+      "idhm_2000": 0.577,
+      "idhm_1990": 0.472
+    },
+    {
+      "posicao_2022": 20,
+      "unidade_federativa": "Piauí",
+      "idhm_2022": 0.743,
+      "idhm_2021": 0.716,
+      "idhm_2020": 0.724,
+      "idhm_2010": 0.646,
+      "idhm_2000": 0.484,
+      "idhm_1990": 0.362
+    },
+    {
+      "posicao_2022": 21,
+      "unidade_federativa": "Sergipe",
+      "idhm_2022": 0.738,
+      "idhm_2021": 0.712,
+      "idhm_2020": 0.722,
+      "idhm_2010": 0.665,
+      "idhm_2000": 0.518,
+      "idhm_1990": 0.408
+    },
+    {
+      "posicao_2022": 22,
+      "unidade_federativa": "Paraíba",
+      "idhm_2022": 0.737,
+      "idhm_2021": 0.703,
+      "idhm_2020": 0.716,
+      "idhm_2010": 0.658,
+      "idhm_2000": 0.506,
+      "idhm_1990": 0.382
+    },
+    {
+      "posicao_2022": 23,
+      "unidade_federativa": "Bahia",
+      "idhm_2022": 0.734,
+      "idhm_2021": 0.698,
+      "idhm_2020": 0.726,
+      "idhm_2010": 0.66,
+      "idhm_2000": 0.512,
+      "idhm_1990": 0.386
+    },
+    {
+      "posicao_2022": 24,
+      "unidade_federativa": "Pará",
+      "idhm_2022": 0.734,
+      "idhm_2021": 0.706,
+      "idhm_2020": 0.723,
+      "idhm_2010": 0.646,
+      "idhm_2000": 0.518,
+      "idhm_1990": 0.413
+    },
+    {
+      "posicao_2022": 25,
+      "unidade_federativa": "Acre",
+      "idhm_2022": 0.732,
+      "idhm_2021": 0.702,
+      "idhm_2020": 0.736,
+      "idhm_2010": 0.663,
+      "idhm_2000": 0.517,
+      "idhm_1990": 0.402
+    },
+    {
+      "posicao_2022": 26,
+      "unidade_federativa": "Maranhão",
+      "idhm_2022": 0.73,
+      "idhm_2021": 0.701,
+      "idhm_2020": 0.715,
+      "idhm_2010": 0.639,
+      "idhm_2000": 0.476,
+      "idhm_1990": 0.357
+    },
+    {
+      "posicao_2022": 27,
+      "unidade_federativa": "Alagoas",
+      "idhm_2022": 0.722,
+      "idhm_2021": 0.691,
+      "idhm_2020": 0.694,
+      "idhm_2010": 0.631,
+      "idhm_2000": 0.471,
+      "idhm_1990": 0.37
+    }
+  ],
+  "meta": {
+    "title": "Unidades federativas do Brasil por IDH - Free Download",
+    "description": "Índice de Desenvolvimento Humano Municipal (IDH-M) dos estados brasileiros: 1990, 2000, 2010, 2020, 2021 e 2022. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unidades federativas do Brasil por IDH | ListBase",
+    "seo_description": "Download Unidades federativas do Brasil por IDH — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_IDH"
+    ]
+  }
+}
