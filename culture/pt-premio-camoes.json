@@ -1,0 +1,317 @@
+{
+  "id": "pt-premio-camoes",
+  "name": "Prémio Camões — laureados",
+  "title": "Prémio Camões — laureados",
+  "description": "Lista dos vencedores do Prémio Camões, o maior prémio literário da língua portuguesa, desde 1989.",
+  "category": "culture",
+  "source": "https://pt.wikipedia.org/wiki/Prémio_Camões",
+  "source_url": "https://pt.wikipedia.org/wiki/Prémio_Camões",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "laureado",
+      "label": "Laureado",
+      "type": "string"
+    },
+    {
+      "key": "vida",
+      "label": "Vida",
+      "type": "string"
+    },
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "obra",
+      "label": "Obra",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": "1989",
+      "laureado": "Miguel Torga",
+      "vida": "1907–1995",
+      "pais": "Portugal",
+      "obra": "poesia, conto, romance, teatro, novela, memórias, ensaio"
+    },
+    {
+      "ano": "1990",
+      "laureado": "João Cabral de Melo Neto",
+      "vida": "1920–1999",
+      "pais": "Brasil",
+      "obra": "poesia, ensaio"
+    },
+    {
+      "ano": "1991",
+      "laureado": "José Craveirinha",
+      "vida": "1922–2003",
+      "pais": "Moçambique",
+      "obra": "poesia"
+    },
+    {
+      "ano": "1992",
+      "laureado": "Vergílio Ferreira",
+      "vida": "1916–1996",
+      "pais": "Portugal",
+      "obra": "romance, conto, memórias, ensaio"
+    },
+    {
+      "ano": "1993",
+      "laureado": "Rachel de Queiroz",
+      "vida": "1910–2003",
+      "pais": "Brasil",
+      "obra": "romance, crónica, tradução, teatro, memórias"
+    },
+    {
+      "ano": "1994",
+      "laureado": "Jorge Amado",
+      "vida": "1912–2001",
+      "pais": "Brasil",
+      "obra": "romance, crónica, novela, poesia, biografia, memórias"
+    },
+    {
+      "ano": "1995",
+      "laureado": "José Saramago",
+      "vida": "1922–2010",
+      "pais": "Portugal",
+      "obra": "romance, crónica, conto, novela, poesia, memórias"
+    },
+    {
+      "ano": "1996",
+      "laureado": "Eduardo Lourenço",
+      "vida": "1923–2020",
+      "pais": "Portugal",
+      "obra": "ensaio, filosofia, crítica literária, estudos literários"
+    },
+    {
+      "ano": "1997",
+      "laureado": "Pepetela Artur Carlos Maurício Pestana dos Santos",
+      "vida": "1941 (84 anos)",
+      "pais": "Angola",
+      "obra": "romance, teatro"
+    },
+    {
+      "ano": "1998",
+      "laureado": "Antonio Candido",
+      "vida": "1918–2017",
+      "pais": "Brasil",
+      "obra": "crítica literária, estudos literários, ensaio, sociologia"
+    },
+    {
+      "ano": "1999",
+      "laureado": "Sophia de Mello Breyner Andresen",
+      "vida": "1919–2004",
+      "pais": "Portugal",
+      "obra": "poesia, conto, teatro, tradução, ensaio"
+    },
+    {
+      "ano": "2000",
+      "laureado": "Autran Dourado",
+      "vida": "1926–2012",
+      "pais": "Brasil",
+      "obra": "romance, conto, ensaio, memórias"
+    },
+    {
+      "ano": "2001",
+      "laureado": "Eugénio de Andrade",
+      "vida": "1923–2005",
+      "pais": "Portugal",
+      "obra": "poesia, tradução, crónica"
+    },
+    {
+      "ano": "2002",
+      "laureado": "Maria Velho da Costa",
+      "vida": "1938–2020",
+      "pais": "Portugal",
+      "obra": "romance, conto, teatro, ensaio"
+    },
+    {
+      "ano": "2003",
+      "laureado": "Rubem Fonseca",
+      "vida": "1925–2020",
+      "pais": "Brasil",
+      "obra": "romance, conto, crónica, novela"
+    },
+    {
+      "ano": "2004",
+      "laureado": "Agustina Bessa-Luís",
+      "vida": "1922–2019",
+      "pais": "Portugal",
+      "obra": "romance, novela, conto, crónica, teatro, ensaio, biografia, memórias"
+    },
+    {
+      "ano": "2005",
+      "laureado": "Lygia Fagundes Telles",
+      "vida": "1923–2022",
+      "pais": "Brasil",
+      "obra": "romance, conto"
+    },
+    {
+      "ano": "2006",
+      "laureado": "José Luandino Vieira (recusou)",
+      "vida": "1935 (91 anos)",
+      "pais": "Portugal Angola",
+      "obra": "romance, conto, novela"
+    },
+    {
+      "ano": "2007",
+      "laureado": "António Lobo Antunes",
+      "vida": "1942–2026",
+      "pais": "Portugal",
+      "obra": "romance, crónica"
+    },
+    {
+      "ano": "2008",
+      "laureado": "João Ubaldo Ribeiro",
+      "vida": "1941–2014",
+      "pais": "Brasil",
+      "obra": "romance, conto, crónica, novela, ensaio"
+    },
+    {
+      "ano": "2009",
+      "laureado": "Arménio Vieira",
+      "vida": "1941 (85 anos)",
+      "pais": "Cabo Verde",
+      "obra": "poesia, ensaio"
+    },
+    {
+      "ano": "2010",
+      "laureado": "Ferreira Gullar",
+      "vida": "1930–2016",
+      "pais": "Brasil",
+      "obra": "poesia, conto, crónica, ensaio, crítica de arte, biografia"
+    },
+    {
+      "ano": "2011",
+      "laureado": "Manuel António Pina",
+      "vida": "1943–2012",
+      "pais": "Portugal",
+      "obra": "poesia"
+    },
+    {
+      "ano": "2012",
+      "laureado": "Dalton Trevisan",
+      "vida": "1925-2024",
+      "pais": "Brasil",
+      "obra": "conto, romance, novela"
+    },
+    {
+      "ano": "2013",
+      "laureado": "Mia Couto",
+      "vida": "1955 (71 anos)",
+      "pais": "Moçambique",
+      "obra": "romance, novela, conto, poesia"
+    },
+    {
+      "ano": "2014",
+      "laureado": "Alberto da Costa e Silva",
+      "vida": "1931–2023",
+      "pais": "Brasil",
+      "obra": "história, poesia, memórias, ensaio, biografia"
+    },
+    {
+      "ano": "2015",
+      "laureado": "Hélia Correia",
+      "vida": "1949 (77 anos)",
+      "pais": "Portugal",
+      "obra": "romance, poesia, teatro, conto"
+    },
+    {
+      "ano": "2016",
+      "laureado": "Raduan Nassar",
+      "vida": "1935 (90 anos)",
+      "pais": "Brasil",
+      "obra": "romance, novela, conto"
+    },
+    {
+      "ano": "2017",
+      "laureado": "Manuel Alegre",
+      "vida": "1936 (90 anos)",
+      "pais": "Portugal",
+      "obra": "poesia, romance, novela, conto"
+    },
+    {
+      "ano": "2018",
+      "laureado": "Germano Almeida",
+      "vida": "1945 (81 anos)",
+      "pais": "Cabo Verde",
+      "obra": "romance, conto, crónica"
+    },
+    {
+      "ano": "2019",
+      "laureado": "Chico Buarque",
+      "vida": "1944 (82 anos)",
+      "pais": "Brasil",
+      "obra": "romance, poesia, música, teatro"
+    },
+    {
+      "ano": "2020",
+      "laureado": "Vítor Manuel de Aguiar e Silva",
+      "vida": "1939–2022",
+      "pais": "Portugal",
+      "obra": "ensaio, estudos literários"
+    },
+    {
+      "ano": "2021",
+      "laureado": "Paulina Chiziane",
+      "vida": "1955 (71 anos)",
+      "pais": "Moçambique",
+      "obra": "romance"
+    },
+    {
+      "ano": "2022",
+      "laureado": "Silviano Santiago",
+      "vida": "1936 (90 anos)",
+      "pais": "Brasil",
+      "obra": "romance, ensaio, crítica literária"
+    },
+    {
+      "ano": "2023",
+      "laureado": "João Barrento",
+      "vida": "1940 (86 anos)",
+      "pais": "Portugal",
+      "obra": "ensaio, estudos literários, crónica, tradução"
+    },
+    {
+      "ano": "2024",
+      "laureado": "Adélia Prado",
+      "vida": "1935 (90 anos)",
+      "pais": "Brasil",
+      "obra": "poesia"
+    },
+    {
+      "ano": "2025",
+      "laureado": "Ana Paula Tavares",
+      "vida": "1952 (73 anos)",
+      "pais": "Angola",
+      "obra": "poesia"
+    },
+    {
+      "ano": "2026",
+      "laureado": "Lídia Jorge",
+      "vida": "1946 (80 anos)",
+      "pais": "Portugal",
+      "obra": "romance, ensaio"
+    }
+  ],
+  "meta": {
+    "title": "Prémio Camões — laureados - Free Download",
+    "description": "Lista dos vencedores do Prémio Camões, o maior prémio literário da língua portuguesa, desde 1989. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prémio Camões — laureados | ListBase",
+    "seo_description": "Download Prémio Camões — laureados — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Prémio_Camões"
+    ]
+  }
+}
