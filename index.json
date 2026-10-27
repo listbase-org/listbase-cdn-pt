@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:58.205Z",
-  "total_datasets": 494,
-  "total_records": 740227,
+  "generated": "2026-10-27T02:18:01.356Z",
+  "total_datasets": 495,
+  "total_records": 740261,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -3419,6 +3419,34 @@
         "xlsx": {
           "name": "pt-br-presidentes_PT.xlsx",
           "size": 10486
+        }
+      }
+    },
+    {
+      "id": "pt-presidentes-republica-portuguesa",
+      "name": "Presidentes da República Portuguesa",
+      "category": "politics",
+      "record_count": 34,
+      "columns": [
+        "numero",
+        "presidente",
+        "inicio_mandato",
+        "fim_mandato",
+        "eleicoes",
+        "partido",
+        "periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_República_Portuguesa",
+      "updated": "2026-10",
+      "size": 14336,
+      "files": {
+        "csv": {
+          "name": "pt-presidentes-republica-portuguesa_PT.csv",
+          "size": 7339
+        },
+        "xlsx": {
+          "name": "pt-presidentes-republica-portuguesa_PT.xlsx",
+          "size": 9685
         }
       }
     },

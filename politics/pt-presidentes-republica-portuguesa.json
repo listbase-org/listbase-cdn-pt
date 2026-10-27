@@ -1,0 +1,367 @@
+{
+  "id": "pt-presidentes-republica-portuguesa",
+  "name": "Presidentes da República Portuguesa",
+  "title": "Presidentes da República Portuguesa",
+  "description": "Lista dos presidentes da República Portuguesa desde 1910, com início e fim do mandato, eleições e partido.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_República_Portuguesa",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_República_Portuguesa",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "string"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "inicio_mandato",
+      "label": "Inicio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fim_mandato",
+      "label": "Fim Mandato",
+      "type": "string"
+    },
+    {
+      "key": "eleicoes",
+      "label": "Eleicoes",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "–",
+      "presidente": "Joaquim Teófilo Fernandes Braga (1843–1924)",
+      "inicio_mandato": "5 de outubro de 1910",
+      "fim_mandato": "24 de agosto de 1911",
+      "eleicoes": "——",
+      "partido": "Republicano",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "1",
+      "presidente": "Manuel José de Arriaga Brum da Silveira e Peyrelongue (1840–1917)",
+      "inicio_mandato": "24 de agosto de 1911",
+      "fim_mandato": "29 de maio de 1915",
+      "eleicoes": "1911",
+      "partido": "Republicano (apoiado por unionistas e evolucionistas) (até fev. 1912)",
+      "periodo": "Presidência Constitucional (1911–1917)"
+    },
+    {
+      "numero": "2",
+      "presidente": "Joaquim Teófilo Fernandes Braga (1843–1924)",
+      "inicio_mandato": "29 de maio de 1915",
+      "fim_mandato": "5 de outubro de 1915",
+      "eleicoes": "Maio de 1915",
+      "partido": "Democrático",
+      "periodo": "Presidência Constitucional (1911–1917)"
+    },
+    {
+      "numero": "3",
+      "presidente": "Bernardino Luís Machado Guimarães (1851–1944)",
+      "inicio_mandato": "5 de outubro de 1915",
+      "fim_mandato": "11 de dezembro de 1917",
+      "eleicoes": "Agosto de 1915",
+      "partido": "Democrático",
+      "periodo": "Presidência Constitucional (1911–1917)"
+    },
+    {
+      "numero": "–",
+      "presidente": "Ministério composto por: Sidónio Bernardino Cardoso da Silva Pais (Presidente do Ministério) António Maria de Azevedo Machado Santos Alberto de Moura Pinto António dos Santos Viegas António Aresta Branco Francisco Xavier Esteves João Tamagnini de Sousa Barbosa José Alfredo Mendes de Magalhães José Feliciano da Costa Júnior",
+      "inicio_mandato": "12 de dezembro de 1917",
+      "fim_mandato": "27 de dezembro de 1917",
+      "eleicoes": "——",
+      "partido": "Independente (Dezembrista)",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "presidente": "Sidónio Bernardino Cardoso da Silva Pais (interino) (1872–1918)",
+      "inicio_mandato": "27 de dezembro de 1917",
+      "fim_mandato": "9 de maio de 1918",
+      "eleicoes": "——",
+      "partido": "Independente (Dezembrista)",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "4",
+      "presidente": "Sidónio Bernardino Cardoso da Silva Pais (1872–1918)",
+      "inicio_mandato": "9 de maio de 1918",
+      "fim_mandato": "14 de dezembro de 1918",
+      "eleicoes": "Abril de 1918",
+      "partido": "Nacional Republicano",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "presidente": "Governo composto por: João do Canto e Castro Silva Antunes (Presidente do Ministério interino desde 15 fev.) António Bernardino de Sousa Ferreira Jorge Couceiro da Costa João Tamagnini de Sousa Barbosa Álvaro César de Mendonça António Caetano de Abreu Freire Egas Moniz João Alberto Pereira de Azevedo Neves Alexandre José Botelho de Vasconcelos e Sá José Alfredo Mendes de Magalhães Henrique Ventura Forbes de Bessa José João Pinto da Cruz Azevedo Eduardo Fernandes de Oliveira",
+      "inicio_mandato": "14 de dezembro de 1918",
+      "fim_mandato": "16 de dezembro de 1918",
+      "eleicoes": "——",
+      "partido": "Nacional Republicano",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "5",
+      "presidente": "João do Canto e Castro Silva Antunes (1862–1934)",
+      "inicio_mandato": "16 de dezembro de 1918",
+      "fim_mandato": "5 de outubro de 1919",
+      "eleicoes": "Dezembro de 1918",
+      "partido": "Independente",
+      "periodo": "Presidência Constitucional (1918–1926)"
+    },
+    {
+      "numero": "6",
+      "presidente": "António José de Almeida (1866–1929)",
+      "inicio_mandato": "5 de outubro de 1919",
+      "fim_mandato": "5 de outubro de 1923",
+      "eleicoes": "1919",
+      "partido": "Liberal (até 7 fev. 1923)",
+      "periodo": "Presidência Constitucional (1918–1926)"
+    },
+    {
+      "numero": "7",
+      "presidente": "Manuel Teixeira Gomes (1860–1941)",
+      "inicio_mandato": "5 de outubro de 1923",
+      "fim_mandato": "11 de dezembro de 1925",
+      "eleicoes": "1923",
+      "partido": "Democrático",
+      "periodo": "Presidência Constitucional (1918–1926)"
+    },
+    {
+      "numero": "8",
+      "presidente": "Bernardino Luís Machado Guimarães (2.ª vez) (1851–1944)",
+      "inicio_mandato": "11 de dezembro de 1925",
+      "fim_mandato": "31 de maio de 1926",
+      "eleicoes": "1925",
+      "partido": "Democrático",
+      "periodo": "Presidência Constitucional (1918–1926)"
+    },
+    {
+      "numero": "9",
+      "presidente": "José Mendes Cabeçadas Júnior (1883–1965)",
+      "inicio_mandato": "31 de maio de 1926",
+      "fim_mandato": "19 de junho de 1926",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "presidente": "Ministério composto por: Manuel de Oliveira Gomes da Costa (Presidente do Ministério) António Claro (desde 17 jun.) Filomeno da Câmara de Melo Cabral (desde 18 jun.) Artur Ricardo Jorge (desde 18 jun.) Armando Humberto da Gama Ochoa (desde 18 jun.)",
+      "inicio_mandato": "19 de junho de 1926",
+      "fim_mandato": "29 de junho de 1926",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "10",
+      "presidente": "Manuel de Oliveira Gomes da Costa (1863–1929)",
+      "inicio_mandato": "29 de junho de 1926",
+      "fim_mandato": "9 de julho de 1926",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "presidente": "Ministério composto por: António Óscar de Fragoso Carmona (Presidente do Ministério) José Ribeiro Castanho (desde 12 jul.) Manuel Rodrigues Júnior João José de Sinel de Cordes Jaime Maria da Graça Afreixo António Maria de Bettencourt Rodrigues Abílio Augusto Valdez de Passos e Sousa João Belo Artur Ricardo Jorge (até 22 nov.) José Alfredo Mendes de Magalhães (desde 22 nov.) Felisberto Alves Pedrosa",
+      "inicio_mandato": "9 de julho de 1926",
+      "fim_mandato": "29 de novembro de 1926",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "11",
+      "presidente": "António Óscar de Fragoso Carmona (1869–1951)",
+      "inicio_mandato": "29 de novembro de 1926",
+      "fim_mandato": "15 de abril de 1928",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "presidente": "António Óscar de Fragoso Carmona (1869–1951)",
+      "inicio_mandato": "15 de abril de 1928",
+      "fim_mandato": "11 de abril de 1933",
+      "eleicoes": "1928",
+      "partido": "Independente",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "–",
+      "presidente": "António Óscar de Fragoso Carmona (1869–1951)",
+      "inicio_mandato": "15 de abril de 1928",
+      "fim_mandato": "11 de abril de 1933",
+      "eleicoes": "1928",
+      "partido": "União Nacional (desde 30 jul. 1930)",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "–",
+      "presidente": "António Óscar de Fragoso Carmona (1869–1951)",
+      "inicio_mandato": "11 de abril de 1933",
+      "fim_mandato": "15 de abril de 1935",
+      "eleicoes": "——",
+      "partido": "União Nacional",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "–",
+      "presidente": "António de Oliveira Salazar (interino) (1889–1970)",
+      "inicio_mandato": "15 de abril de 1935",
+      "fim_mandato": "26 de abril de 1935",
+      "eleicoes": "——",
+      "partido": "União Nacional",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "–",
+      "presidente": "António Óscar de Fragoso Carmona (continuação) (1869–1951)",
+      "inicio_mandato": "26 de abril de 1935",
+      "fim_mandato": "18 de abril de 1951",
+      "eleicoes": "1935 1942 1949",
+      "partido": "União Nacional",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "–",
+      "presidente": "António de Oliveira Salazar (interino) (1889–1970)",
+      "inicio_mandato": "18 de abril de 1951",
+      "fim_mandato": "9 de agosto de 1951",
+      "eleicoes": "——",
+      "partido": "União Nacional",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "12",
+      "presidente": "Francisco Higino Craveiro Lopes (1894–1964)",
+      "inicio_mandato": "9 de agosto de 1951",
+      "fim_mandato": "9 de agosto de 1958",
+      "eleicoes": "1951",
+      "partido": "União Nacional",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "13",
+      "presidente": "Américo Deus Rodrigues Thomaz (1894–1987)",
+      "inicio_mandato": "9 de agosto de 1958",
+      "fim_mandato": "25 de abril de 1974",
+      "eleicoes": "1958 1965 1972",
+      "partido": "União Nacional",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "–",
+      "presidente": "Junta de Salvação Nacional composta por: António Sebastião Ribeiro de Spínola (Presidente da JSN) Francisco da Costa Gomes Jaime Silvério Marques Manuel Diogo Neto Carlos Galvão de Melo José Baptista Pinheiro de Azevedo António Alva Rosa Coutinho",
+      "inicio_mandato": "25 de abril de 1974",
+      "fim_mandato": "15 de maio de 1974",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "14",
+      "presidente": "António Sebastião Ribeiro de Spínola (1910–1996)",
+      "inicio_mandato": "15 de maio de 1974",
+      "fim_mandato": "30 de setembro de 1974",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Presidência Militar (1974–1976)"
+    },
+    {
+      "numero": "15",
+      "presidente": "Francisco da Costa Gomes (1914–2001)",
+      "inicio_mandato": "30 de setembro de 1974",
+      "fim_mandato": "14 de julho de 1976",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "periodo": "Presidência Militar (1974–1976)"
+    },
+    {
+      "numero": "16",
+      "presidente": "António dos Santos Ramalho Eanes (1935–)",
+      "inicio_mandato": "14 de julho de 1976",
+      "fim_mandato": "9 de março de 1986",
+      "eleicoes": "1976 1980",
+      "partido": "Independente",
+      "periodo": "Presidência Constitucional (1976–presente)"
+    },
+    {
+      "numero": "17",
+      "presidente": "Mário Alberto Nobre Lopes Soares (1924–2017)",
+      "inicio_mandato": "9 de março de 1986",
+      "fim_mandato": "9 de março de 1996",
+      "eleicoes": "1986 1991",
+      "partido": "Socialista",
+      "periodo": "Presidência Constitucional (1976–presente)"
+    },
+    {
+      "numero": "18",
+      "presidente": "Jorge Fernando Branco de Sampaio (1939–2021)",
+      "inicio_mandato": "9 de março de 1996",
+      "fim_mandato": "9 de março de 2006",
+      "eleicoes": "1996 2001",
+      "partido": "Socialista",
+      "periodo": "Presidência Constitucional (1976–presente)"
+    },
+    {
+      "numero": "19",
+      "presidente": "Aníbal António Cavaco Silva (1939–)",
+      "inicio_mandato": "9 de março de 2006",
+      "fim_mandato": "9 de março de 2016",
+      "eleicoes": "2006 2011",
+      "partido": "Social Democrata",
+      "periodo": "Presidência Constitucional (1976–presente)"
+    },
+    {
+      "numero": "20",
+      "presidente": "Marcelo Nuno Duarte Rebelo de Sousa (1948–)",
+      "inicio_mandato": "9 de março de 2016",
+      "fim_mandato": "9 de março de 2026",
+      "eleicoes": "2016 2021",
+      "partido": "Social Democrata",
+      "periodo": "Presidência Constitucional (1976–presente)"
+    },
+    {
+      "numero": "21",
+      "presidente": "António José Martins Seguro (1962–)",
+      "inicio_mandato": "9 de março de 2026",
+      "fim_mandato": "presente",
+      "eleicoes": "2026",
+      "partido": "Socialista",
+      "periodo": "Presidência Constitucional (1976–presente)"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes da República Portuguesa - Free Download",
+    "description": "Lista dos presidentes da República Portuguesa desde 1910, com início e fim do mandato, eleições e partido. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes da República Portuguesa | ListBase",
+    "seo_description": "Download Presidentes da República Portuguesa — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_República_Portuguesa"
+    ]
+  }
+}
