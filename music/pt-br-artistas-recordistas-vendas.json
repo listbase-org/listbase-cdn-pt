@@ -1,0 +1,569 @@
+{
+  "id": "pt-br-artistas-recordistas-vendas",
+  "name": "Artistas recordistas de vendas de discos no Brasil",
+  "title": "Artistas recordistas de vendas de discos no Brasil",
+  "description": "Os artistas musicais que mais venderam discos no Brasil, com período de atividade, gêneros, vendas certificadas e estimadas.",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil",
+  "updated": "2026-10",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "periodo_atividade",
+      "label": "Periodo Atividade",
+      "type": "string"
+    },
+    {
+      "key": "generos",
+      "label": "Generos",
+      "type": "string"
+    },
+    {
+      "key": "vendas_certificadas",
+      "label": "Vendas Certificadas",
+      "type": "number"
+    },
+    {
+      "key": "vendas_estimadas",
+      "label": "Vendas Estimadas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "artista": "Roberto Carlos",
+      "periodo_atividade": "1959–presente",
+      "generos": "MPB · jovem guarda",
+      "vendas_certificadas": 8750000,
+      "vendas_estimadas": "120 milhões"
+    },
+    {
+      "artista": "Nelson Gonçalves",
+      "periodo_atividade": "1941–1998",
+      "generos": "Samba-canção · bolero · valsa",
+      "vendas_certificadas": 525000,
+      "vendas_estimadas": "75 milhões"
+    },
+    {
+      "artista": "Angela Maria",
+      "periodo_atividade": "1951–2018",
+      "generos": "Samba-canção · bolero · valsa",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "60 milhões"
+    },
+    {
+      "artista": "Rita Lee",
+      "periodo_atividade": "1963–2023",
+      "generos": "Rock · pop",
+      "vendas_certificadas": 750000,
+      "vendas_estimadas": "55 milhões"
+    },
+    {
+      "artista": "Xuxa",
+      "periodo_atividade": "1984–presente",
+      "generos": "Infantil",
+      "vendas_certificadas": 17025000,
+      "vendas_estimadas": "50 milhões"
+    },
+    {
+      "artista": "Benito di Paula",
+      "periodo_atividade": "1966–2026",
+      "generos": "Samba",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "50 milhões"
+    },
+    {
+      "artista": "Tonico & Tinoco",
+      "periodo_atividade": "1930–1994",
+      "generos": "Sertanejo",
+      "vendas_certificadas": 200000,
+      "vendas_estimadas": "50 milhões"
+    },
+    {
+      "artista": "Nelson Ned",
+      "periodo_atividade": "1960–2014",
+      "generos": "Brega",
+      "vendas_certificadas": 100000,
+      "vendas_estimadas": "45 milhões"
+    },
+    {
+      "artista": "Chitãozinho & Xororó",
+      "periodo_atividade": "1970–presente",
+      "generos": "Sertanejo",
+      "vendas_certificadas": 2775000,
+      "vendas_estimadas": "37 milhões"
+    },
+    {
+      "artista": "Milionário & José Rico",
+      "periodo_atividade": "1970–1991 1994–2015",
+      "generos": "Sertanejo",
+      "vendas_certificadas": 1150000,
+      "vendas_estimadas": "32 milhões"
+    },
+    {
+      "artista": "Maria Bethânia",
+      "periodo_atividade": "1965–presente",
+      "generos": "MPB",
+      "vendas_certificadas": 450000,
+      "vendas_estimadas": "26 milhões"
+    },
+    {
+      "artista": "Leandro & Leonardo",
+      "periodo_atividade": "1983–1998",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 5550000,
+      "vendas_estimadas": "25 milhões"
+    },
+    {
+      "artista": "Legião Urbana",
+      "periodo_atividade": "1982–1996",
+      "generos": "Pós-punk · rock alternativo",
+      "vendas_certificadas": 5000000,
+      "vendas_estimadas": "25 milhões"
+    },
+    {
+      "artista": "Caetano Veloso",
+      "periodo_atividade": "1965–presente",
+      "generos": "MPB",
+      "vendas_certificadas": 1315000,
+      "vendas_estimadas": "25 milhões"
+    },
+    {
+      "artista": "Amado Batista",
+      "periodo_atividade": "1975–presente",
+      "generos": "Sertanejo romântico · brega",
+      "vendas_certificadas": 6605000,
+      "vendas_estimadas": "22 milhões"
+    },
+    {
+      "artista": "José Augusto",
+      "periodo_atividade": "1973–presente",
+      "generos": "Brega",
+      "vendas_certificadas": 650000,
+      "vendas_estimadas": "20 milhões"
+    },
+    {
+      "artista": "Roupa Nova",
+      "periodo_atividade": "1980–presente",
+      "generos": "Soft rock",
+      "vendas_certificadas": 300000,
+      "vendas_estimadas": "20 milhões"
+    },
+    {
+      "artista": "Sepultura",
+      "periodo_atividade": "1985–presente",
+      "generos": "Thrash metal",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "20 milhões"
+    },
+    {
+      "artista": "Zezé di Camargo & Luciano",
+      "periodo_atividade": "1990–presente",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 9300000,
+      "vendas_estimadas": "20 milhões"
+    },
+    {
+      "artista": "Sandy & Junior",
+      "periodo_atividade": "1990–2007 2019",
+      "generos": "Pop",
+      "vendas_certificadas": 11750000,
+      "vendas_estimadas": "20 milhões"
+    },
+    {
+      "artista": "Ivete Sangalo",
+      "periodo_atividade": "1993–presente",
+      "generos": "Axé · lambada · pop · reggae",
+      "vendas_certificadas": 8000000,
+      "vendas_estimadas": "20 milhões"
+    },
+    {
+      "artista": "Chico Buarque",
+      "periodo_atividade": "1964–presente",
+      "generos": "MPB · samba",
+      "vendas_certificadas": 565000,
+      "vendas_estimadas": "20 milhões"
+    },
+    {
+      "artista": "Sérgio Reis",
+      "periodo_atividade": "1960–presente",
+      "generos": "Sertanejo",
+      "vendas_certificadas": 250000,
+      "vendas_estimadas": "18 milhões"
+    },
+    {
+      "artista": "Teixeirinha",
+      "periodo_atividade": "1958–1985",
+      "generos": "Nativismo",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "18 milhões"
+    },
+    {
+      "artista": "Leonardo",
+      "periodo_atividade": "1999–presente",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 5100000,
+      "vendas_estimadas": "18 milhões"
+    },
+    {
+      "artista": "Fábio Júnior",
+      "periodo_atividade": "1969–presente",
+      "generos": "Pop rock",
+      "vendas_certificadas": 150000,
+      "vendas_estimadas": "16 milhões"
+    },
+    {
+      "artista": "Raça Negra",
+      "periodo_atividade": "1983–presente",
+      "generos": "Pagode romântico; samba",
+      "vendas_certificadas": 450000,
+      "vendas_estimadas": "16 milhões"
+    },
+    {
+      "artista": "É o Tchan!",
+      "periodo_atividade": "1994–2006 2011–presente",
+      "generos": "Pagode baiano",
+      "vendas_certificadas": 6750000,
+      "vendas_estimadas": "16 milhões"
+    },
+    {
+      "artista": "Padre Marcelo Rossi",
+      "periodo_atividade": "1997–presente",
+      "generos": "Católica popular",
+      "vendas_certificadas": 8900000,
+      "vendas_estimadas": "16 milhões"
+    },
+    {
+      "artista": "Gretchen",
+      "periodo_atividade": "1978—presente",
+      "generos": "Disco; mambo",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "15 milhões"
+    },
+    {
+      "artista": "Diante do Trono",
+      "periodo_atividade": "1997–presente",
+      "generos": "Gospel contemporâneo",
+      "vendas_certificadas": 2200000,
+      "vendas_estimadas": "15 milhões"
+    },
+    {
+      "artista": "Chrystian & Ralf",
+      "periodo_atividade": "1983–1999 2001–2021",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 550000,
+      "vendas_estimadas": "15 milhões"
+    },
+    {
+      "artista": "Roberta Miranda",
+      "periodo_atividade": "1986–presente",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 3400000,
+      "vendas_estimadas": "15 milhões"
+    },
+    {
+      "artista": "Rick & Renner",
+      "periodo_atividade": "1986–2010 2012–2015 2018–2026",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 1000000,
+      "vendas_estimadas": "15 milhões"
+    },
+    {
+      "artista": "Banda Calypso",
+      "periodo_atividade": "1999–2015",
+      "generos": "Calypso · cumbia · lambada · zouk",
+      "vendas_certificadas": 430000,
+      "vendas_estimadas": "15 milhões"
+    },
+    {
+      "artista": "Daniel",
+      "periodo_atividade": "1998–presente",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 8270000,
+      "vendas_estimadas": "13 milhões"
+    },
+    {
+      "artista": "Zeca Pagodinho",
+      "periodo_atividade": "1983–presente",
+      "generos": "Samba · pagode",
+      "vendas_certificadas": 3500000,
+      "vendas_estimadas": "12 milhões"
+    },
+    {
+      "artista": "Daniela Mercury",
+      "periodo_atividade": "1990–presente",
+      "generos": "Axé · samba-reggae · eletrônica",
+      "vendas_certificadas": 2400000,
+      "vendas_estimadas": "12 milhões"
+    },
+    {
+      "artista": "Alexandre Pires",
+      "periodo_atividade": "1989–presente",
+      "generos": "Samba · pagode · pop latino",
+      "vendas_certificadas": 650000,
+      "vendas_estimadas": "11 milhões"
+    },
+    {
+      "artista": "Bruno & Marrone",
+      "periodo_atividade": "1985–presente",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 7080000,
+      "vendas_estimadas": "10 milhões"
+    },
+    {
+      "artista": "Elba Ramalho",
+      "periodo_atividade": "1979–presente",
+      "generos": "MPB · baião · forró · xote",
+      "vendas_certificadas": 520000,
+      "vendas_estimadas": "10 milhões"
+    },
+    {
+      "artista": "Calcinha Preta",
+      "periodo_atividade": "1995–presente",
+      "generos": "Forró eletrônico",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "10 milhões"
+    },
+    {
+      "artista": "Marisa Monte",
+      "periodo_atividade": "1987–presente",
+      "generos": "MPB · pop · samba",
+      "vendas_certificadas": 4600000,
+      "vendas_estimadas": "10 milhões"
+    },
+    {
+      "artista": "Carmen Miranda",
+      "periodo_atividade": "1929–1955",
+      "generos": "Samba",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "10 milhões"
+    },
+    {
+      "artista": "Gian & Giovani",
+      "periodo_atividade": "1988–presente",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 275000,
+      "vendas_estimadas": "10 milhões"
+    },
+    {
+      "artista": "Wando",
+      "periodo_atividade": "1973–2012",
+      "generos": "Brega",
+      "vendas_certificadas": 350000,
+      "vendas_estimadas": "10 milhões"
+    },
+    {
+      "artista": "Fafá de Belém",
+      "periodo_atividade": "1973–presente",
+      "generos": "MPB · carimbó",
+      "vendas_certificadas": 350000,
+      "vendas_estimadas": "9 milhões"
+    },
+    {
+      "artista": "Kid Abelha",
+      "periodo_atividade": "1984–2016",
+      "generos": "Pop rock",
+      "vendas_certificadas": 2900000,
+      "vendas_estimadas": "9 milhões"
+    },
+    {
+      "artista": "Lulu Santos",
+      "periodo_atividade": "1973–presente",
+      "generos": "Pop rock",
+      "vendas_certificadas": 2050000,
+      "vendas_estimadas": "8 milhões"
+    },
+    {
+      "artista": "Shirley Carvalhaes",
+      "periodo_atividade": "1977–presente",
+      "generos": "Gospel contemporâneo",
+      "vendas_certificadas": 40000,
+      "vendas_estimadas": "8 milhões"
+    },
+    {
+      "artista": "Exaltasamba",
+      "periodo_atividade": "1986–2012 2016–presente",
+      "generos": "Samba; pagode",
+      "vendas_certificadas": 2300000,
+      "vendas_estimadas": "8 milhões"
+    },
+    {
+      "artista": "Só pra Contrariar",
+      "periodo_atividade": "1989–presente",
+      "generos": "Pagode romântico",
+      "vendas_certificadas": 5240000,
+      "vendas_estimadas": "8 milhões"
+    },
+    {
+      "artista": "Rose Nascimento",
+      "periodo_atividade": "1990–presente",
+      "generos": "Gospel contemporâneo",
+      "vendas_certificadas": 40000,
+      "vendas_estimadas": "8 milhões"
+    },
+    {
+      "artista": "Cassiane",
+      "periodo_atividade": "1981–presente",
+      "generos": "Gospel contemporâneo",
+      "vendas_certificadas": 3495000,
+      "vendas_estimadas": "7 milhões"
+    },
+    {
+      "artista": "Belo",
+      "periodo_atividade": "1993–presente",
+      "generos": "Samba; pagode",
+      "vendas_certificadas": 750000,
+      "vendas_estimadas": "7 milhões"
+    },
+    {
+      "artista": "Aline Barros",
+      "periodo_atividade": "1995–atualmente",
+      "generos": "Gospel contemporâneo",
+      "vendas_certificadas": 2770000,
+      "vendas_estimadas": "7 milhões"
+    },
+    {
+      "artista": "KLB",
+      "periodo_atividade": "2000–atualmente",
+      "generos": "Pop rock · pop",
+      "vendas_certificadas": 1600000,
+      "vendas_estimadas": "7 milhões"
+    },
+    {
+      "artista": "Skank",
+      "periodo_atividade": "1991–2023",
+      "generos": "Pop rock · ska",
+      "vendas_certificadas": 4350000,
+      "vendas_estimadas": "6,6 milhões"
+    },
+    {
+      "artista": "Titãs",
+      "periodo_atividade": "1982–presente",
+      "generos": "Rock alternativo · punk rock",
+      "vendas_certificadas": 3050000,
+      "vendas_estimadas": "6,3 milhões"
+    },
+    {
+      "artista": "Mara Maravilha",
+      "periodo_atividade": "1978–presente",
+      "generos": "Infantil; Gospel contemporâneo",
+      "vendas_certificadas": 200000,
+      "vendas_estimadas": "6 milhões"
+    },
+    {
+      "artista": "Dominó",
+      "periodo_atividade": "1985–2005",
+      "generos": "Pop",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "6 milhões"
+    },
+    {
+      "artista": "Trem da Alegria",
+      "periodo_atividade": "1983–presente",
+      "generos": "Infantil",
+      "vendas_certificadas": 100000,
+      "vendas_estimadas": "6 milhões"
+    },
+    {
+      "artista": "Rouge",
+      "periodo_atividade": "2002–06 2017–19",
+      "generos": "Pop",
+      "vendas_certificadas": 800000,
+      "vendas_estimadas": "6 milhões"
+    },
+    {
+      "artista": "Paula Fernandes",
+      "periodo_atividade": "1993–presente",
+      "generos": "Sertanejo universitário",
+      "vendas_certificadas": 4000000,
+      "vendas_estimadas": "5,6 milhões"
+    },
+    {
+      "artista": "Turma do Balão Mágico",
+      "periodo_atividade": "1982–1986",
+      "generos": "Infantil",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "5,3 milhões"
+    },
+    {
+      "artista": "João Gilberto",
+      "periodo_atividade": "1952–2008",
+      "generos": "Bossa nova",
+      "vendas_certificadas": "",
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Os Paralamas do Sucesso",
+      "periodo_atividade": "1977–presente",
+      "generos": "Pop rock",
+      "vendas_certificadas": 2700000,
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "João Paulo & Daniel",
+      "periodo_atividade": "1980–1997",
+      "generos": "Sertanejo romântico",
+      "vendas_certificadas": 4850000,
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "RPM",
+      "periodo_atividade": "1984–89 • 1993–94 2001–03 • 2011–24",
+      "generos": "Pop rock · new wave",
+      "vendas_certificadas": 500000,
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Raimundos",
+      "periodo_atividade": "1987–presente",
+      "generos": "Hardcore punk",
+      "vendas_certificadas": 1050000,
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Banda Eva",
+      "periodo_atividade": "1993–presente",
+      "generos": "Axé",
+      "vendas_certificadas": 2000000,
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Charlie Brown Jr.",
+      "periodo_atividade": "1992–2013",
+      "generos": "Skate punk · rock alternativo",
+      "vendas_certificadas": 1225000,
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Jota Quest",
+      "periodo_atividade": "1993–presente",
+      "generos": "Pop rock",
+      "vendas_certificadas": 4500000,
+      "vendas_estimadas": "5 milhões"
+    },
+    {
+      "artista": "Ana Carolina",
+      "periodo_atividade": "1999–presente",
+      "generos": "MPB · pop · rock · samba",
+      "vendas_certificadas": 2050000,
+      "vendas_estimadas": "5 milhões"
+    }
+  ],
+  "meta": {
+    "title": "Artistas recordistas de vendas de discos no Brasil - Free Download",
+    "description": "Os artistas musicais que mais venderam discos no Brasil, com período de atividade, gêneros, vendas certificadas e estimadas. Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Artistas recordistas de vendas de discos no Brasil | ListBase",
+    "seo_description": "Download Artistas recordistas de vendas de discos no Brasil — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:00.177Z",
-  "total_datasets": 473,
-  "total_records": 738128,
+  "generated": "2026-10-27T02:17:02.904Z",
+  "total_datasets": 474,
+  "total_records": 738202,
   "categories": [
     {
       "id": "culture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -3002,6 +3002,32 @@
         "xlsx": {
           "name": "pt-br-albuns-mais-vendidos_PT.xlsx",
           "size": 8792
+        }
+      }
+    },
+    {
+      "id": "pt-br-artistas-recordistas-vendas",
+      "name": "Artistas recordistas de vendas de discos no Brasil",
+      "category": "music",
+      "record_count": 74,
+      "columns": [
+        "artista",
+        "periodo_atividade",
+        "generos",
+        "vendas_certificadas",
+        "vendas_estimadas"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_recordistas_de_vendas_de_discos_no_Brasil",
+      "updated": "2026-10",
+      "size": 17211,
+      "files": {
+        "csv": {
+          "name": "pt-br-artistas-recordistas-vendas_PT.csv",
+          "size": 5691
+        },
+        "xlsx": {
+          "name": "pt-br-artistas-recordistas-vendas_PT.xlsx",
+          "size": 10292
         }
       }
     },
