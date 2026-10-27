@@ -1,0 +1,841 @@
+{
+  "id": "pt-br-campeoes-brasileirao",
+  "name": "Campeões do Campeonato Brasileiro de Futebol",
+  "title": "Campeões do Campeonato Brasileiro de Futebol",
+  "description": "Lista de campeões, vice-campeões e demais colocados do Campeonato Brasileiro de Futebol (Brasileirão) por ano, com artilheiros.",
+  "category": "sports",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_campeões_do_Campeonato_Brasileiro_de_Futebol",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_campeões_do_Campeonato_Brasileiro_de_Futebol",
+  "updated": "2026-10",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "campeao",
+      "label": "Campeao",
+      "type": "string"
+    },
+    {
+      "key": "vice",
+      "label": "Vice",
+      "type": "string"
+    },
+    {
+      "key": "terceiro",
+      "label": "Terceiro",
+      "type": "string"
+    },
+    {
+      "key": "quarto",
+      "label": "Quarto",
+      "type": "string"
+    },
+    {
+      "key": "quinto",
+      "label": "Quinto",
+      "type": "string"
+    },
+    {
+      "key": "sexto",
+      "label": "Sexto",
+      "type": "string"
+    },
+    {
+      "key": "artilheiros",
+      "label": "Artilheiros",
+      "type": "string"
+    },
+    {
+      "key": "gols_artilheiro",
+      "label": "Gols Artilheiro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ano": "1937",
+      "campeao": "Atlético Mineiro (1)",
+      "vice": "Fluminense (1)",
+      "terceiro": "Rio Branco (1)",
+      "quarto": "Portuguesa (1)",
+      "quinto": "Liga da Marinha (1)",
+      "sexto": "Aliança (1)",
+      "artilheiros": "Paulista (Atlético-MG)",
+      "gols_artilheiro": "8"
+    },
+    {
+      "ano": "1959",
+      "campeao": "Bahia (1)",
+      "vice": "Santos (1)",
+      "terceiro": "Grêmio (1)",
+      "quarto": "Vasco da Gama (1)",
+      "quinto": "Sport (1)",
+      "sexto": "Atlético Mineiro (1)",
+      "artilheiros": "Léo Briglia (Bahia)",
+      "gols_artilheiro": "8"
+    },
+    {
+      "ano": "1960",
+      "campeao": "Palmeiras (1)",
+      "vice": "Fortaleza (1)",
+      "terceiro": "Fluminense (1)",
+      "quarto": "Santa Cruz (1)",
+      "quinto": "Bahia (1)",
+      "sexto": "Grêmio (1)",
+      "artilheiros": "Bececê (Fortaleza)",
+      "gols_artilheiro": "7"
+    },
+    {
+      "ano": "1961",
+      "campeao": "Santos (1)",
+      "vice": "Bahia (1)",
+      "terceiro": "America (1)",
+      "quarto": "Náutico (1)",
+      "quinto": "Palmeiras (1)",
+      "sexto": "Fortaleza (1)",
+      "artilheiros": "Pelé (Santos)",
+      "gols_artilheiro": "7"
+    },
+    {
+      "ano": "1962",
+      "campeao": "Santos (2)",
+      "vice": "Botafogo (1)",
+      "terceiro": "Internacional (1)",
+      "quarto": "Sport (1)",
+      "quinto": "Campinense (1)",
+      "sexto": "Cruzeiro (1)",
+      "artilheiros": "Coutinho (Santos)",
+      "gols_artilheiro": "7"
+    },
+    {
+      "ano": "1963",
+      "campeao": "Santos (3)",
+      "vice": "Bahia (2)",
+      "terceiro": "Grêmio (2)",
+      "quarto": "Botafogo (1)",
+      "quinto": "Sport (2)",
+      "sexto": "Atlético Mineiro (2)",
+      "artilheiros": "Pelé (Santos)",
+      "gols_artilheiro": "8"
+    },
+    {
+      "ano": "1964",
+      "campeao": "Santos (4)",
+      "vice": "Flamengo (1)",
+      "terceiro": "Ceará (1)",
+      "quarto": "Palmeiras (1)",
+      "quinto": "Atlético Mineiro (1)",
+      "sexto": "Fluminense de Feira (1)",
+      "artilheiros": "Pelé (Santos)",
+      "gols_artilheiro": "7"
+    },
+    {
+      "ano": "1965",
+      "campeao": "Santos (5)",
+      "vice": "Vasco da Gama (1)",
+      "terceiro": "Náutico (1)",
+      "quarto": "Palmeiras (2)",
+      "quinto": "Grêmio (1)",
+      "sexto": "Fortaleza (2)",
+      "artilheiros": "Alcindo (Grêmio)",
+      "gols_artilheiro": "10"
+    },
+    {
+      "ano": "1966",
+      "campeao": "Cruzeiro (1)",
+      "vice": "Santos (2)",
+      "terceiro": "Náutico (2)",
+      "quarto": "Fluminense (1)",
+      "quinto": "Palmeiras (2)",
+      "sexto": "Vitória (1)",
+      "artilheiros": "Bita (Náutico) Toninho Guerreiro (Santos)",
+      "gols_artilheiro": "10"
+    },
+    {
+      "ano": "1967",
+      "campeao": "Palmeiras (2)",
+      "vice": "Internacional (1)",
+      "terceiro": "Corinthians (1)",
+      "quarto": "Grêmio (1)",
+      "quinto": "Portuguesa (1)",
+      "sexto": "Santos (1)",
+      "artilheiros": "Ademar Pantera (Flamengo) César Maluco (Palmeiras)",
+      "gols_artilheiro": "15"
+    },
+    {
+      "ano": "1967",
+      "campeao": "Palmeiras (3)",
+      "vice": "Náutico (1)",
+      "terceiro": "Grêmio (3)",
+      "quarto": "Cruzeiro (1)",
+      "quinto": "Atlético Mineiro (2)",
+      "sexto": "América (Ceará) (1)",
+      "artilheiros": "Chicletes (Treze)",
+      "gols_artilheiro": "9"
+    },
+    {
+      "ano": "1968",
+      "campeao": "Botafogo (1)",
+      "vice": "Fortaleza (2)",
+      "terceiro": "Cruzeiro (1)",
+      "quarto": "Náutico (2)",
+      "quinto": "Metropol (1)",
+      "sexto": "Bahia (1)",
+      "artilheiros": "Ferretti (Botafogo)",
+      "gols_artilheiro": "7"
+    },
+    {
+      "ano": "1968",
+      "campeao": "Santos (6)",
+      "vice": "Internacional (2)",
+      "terceiro": "Vasco da Gama (1)",
+      "quarto": "Palmeiras (3)",
+      "quinto": "Corinthians (1)",
+      "sexto": "Grêmio (2)",
+      "artilheiros": "Toninho Guerreiro (Santos)",
+      "gols_artilheiro": "18"
+    },
+    {
+      "ano": "1969",
+      "campeao": "Palmeiras (4)",
+      "vice": "Cruzeiro (1)",
+      "terceiro": "Corinthians (2)",
+      "quarto": "Botafogo (2)",
+      "quinto": "Internacional (1)",
+      "sexto": "Atlético Mineiro (3)",
+      "artilheiros": "Edu (América)",
+      "gols_artilheiro": "14"
+    },
+    {
+      "ano": "1970",
+      "campeao": "Fluminense (1)",
+      "vice": "Palmeiras (1)",
+      "terceiro": "Atlético Mineiro (1)",
+      "quarto": "Cruzeiro (2)",
+      "quinto": "Internacional (2)",
+      "sexto": "Flamengo (1)",
+      "artilheiros": "Tostão (Cruzeiro)",
+      "gols_artilheiro": "12"
+    },
+    {
+      "ano": "1971",
+      "campeao": "Atlético Mineiro (2)",
+      "vice": "São Paulo (1)",
+      "terceiro": "Botafogo (1)",
+      "quarto": "Corinthians (1)",
+      "quinto": "Internacional (3)",
+      "sexto": "Grêmio (3)",
+      "artilheiros": "Dadá Maravilha (Atlético Mineiro)",
+      "gols_artilheiro": "15"
+    },
+    {
+      "ano": "1972",
+      "campeao": "Palmeiras (5)",
+      "vice": "Botafogo (2)",
+      "terceiro": "Internacional (2)",
+      "quarto": "Corinthians (2)",
+      "quinto": "Coritiba (1)",
+      "sexto": "Cruzeiro (2)",
+      "artilheiros": "Dadá Maravilha (Atlético Mineiro) Pedro Rocha (São Paulo)",
+      "gols_artilheiro": "17"
+    },
+    {
+      "ano": "1973",
+      "campeao": "Palmeiras (6)",
+      "vice": "São Paulo (2)",
+      "terceiro": "Cruzeiro (2)",
+      "quarto": "Internacional (1)",
+      "quinto": "Grêmio (2)",
+      "sexto": "Santos (2)",
+      "artilheiros": "Ramón (Santa Cruz)",
+      "gols_artilheiro": "21"
+    },
+    {
+      "ano": "1974",
+      "campeao": "Vasco da Gama (1)",
+      "vice": "Cruzeiro (2)",
+      "terceiro": "Santos (1)",
+      "quarto": "Internacional (2)",
+      "quinto": "Grêmio (3)",
+      "sexto": "Flamengo (2)",
+      "artilheiros": "Roberto Dinamite (Vasco da Gama)",
+      "gols_artilheiro": "16"
+    },
+    {
+      "ano": "1975",
+      "campeao": "Internacional (1)",
+      "vice": "Cruzeiro (3)",
+      "terceiro": "Fluminense (2)",
+      "quarto": "Santa Cruz (2)",
+      "quinto": "São Paulo (1)",
+      "sexto": "Corinthians (1)",
+      "artilheiros": "Flávio (Internacional)",
+      "gols_artilheiro": "16"
+    },
+    {
+      "ano": "1976",
+      "campeao": "Internacional (2)",
+      "vice": "Corinthians (1)",
+      "terceiro": "Atlético Mineiro (2)",
+      "quarto": "Fluminense (2)",
+      "quinto": "Flamengo (1)",
+      "sexto": "Grêmio (4)",
+      "artilheiros": "Dario (Internacional)",
+      "gols_artilheiro": "16"
+    },
+    {
+      "ano": "1977",
+      "campeao": "São Paulo (1)",
+      "vice": "Atlético Mineiro (1)",
+      "terceiro": "Operário (1)",
+      "quarto": "Londrina (1)",
+      "quinto": "Botafogo (1)",
+      "sexto": "Palmeiras (1)",
+      "artilheiros": "Reinaldo (Atlético Mineiro)",
+      "gols_artilheiro": "28"
+    },
+    {
+      "ano": "1978",
+      "campeao": "Guarani (1)",
+      "vice": "Palmeiras (2)",
+      "terceiro": "Internacional (3)",
+      "quarto": "Vasco da Gama (2)",
+      "quinto": "Santa Cruz (1)",
+      "sexto": "Grêmio (5)",
+      "artilheiros": "Paulinho (Vasco da Gama)",
+      "gols_artilheiro": "19"
+    },
+    {
+      "ano": "1979",
+      "campeao": "Internacional (3)",
+      "vice": "Vasco da Gama (2)",
+      "terceiro": "Coritiba (1)",
+      "quarto": "Palmeiras (4)",
+      "quinto": "Operário (1)",
+      "sexto": "Cruzeiro (3)",
+      "artilheiros": "César (America)",
+      "gols_artilheiro": "13"
+    },
+    {
+      "ano": "1980",
+      "campeao": "Flamengo (1)",
+      "vice": "Atlético Mineiro (2)",
+      "terceiro": "Internacional (4)",
+      "quarto": "Coritiba (1)",
+      "quinto": "Corinthians (2)",
+      "sexto": "Grêmio (6)",
+      "artilheiros": "Zico (Flamengo)",
+      "gols_artilheiro": "21"
+    },
+    {
+      "ano": "1981",
+      "campeao": "Grêmio (1)",
+      "vice": "São Paulo (3)",
+      "terceiro": "Ponte Preta (1)",
+      "quarto": "Botafogo (3)",
+      "quinto": "Vasco da Gama (1)",
+      "sexto": "Flamengo (3)",
+      "artilheiros": "Nunes (Flamengo)",
+      "gols_artilheiro": "16"
+    },
+    {
+      "ano": "1982",
+      "campeao": "Flamengo (2)",
+      "vice": "Grêmio (1)",
+      "terceiro": "Guarani (1)",
+      "quarto": "Corinthians (3)",
+      "quinto": "Fluminense (1)",
+      "sexto": "São Paulo (1)",
+      "artilheiros": "Zico (Flamengo)",
+      "gols_artilheiro": "21"
+    },
+    {
+      "ano": "1983",
+      "campeao": "Flamengo (3)",
+      "vice": "Santos (3)",
+      "terceiro": "Atlético Mineiro (3)",
+      "quarto": "Atlético Paranaense (1)",
+      "quinto": "São Paulo (2)",
+      "sexto": "Vasco da Gama (1)",
+      "artilheiros": "Serginho Chulapa (Santos)",
+      "gols_artilheiro": "22"
+    },
+    {
+      "ano": "1984",
+      "campeao": "Fluminense (2)",
+      "vice": "Vasco da Gama (3)",
+      "terceiro": "Grêmio (4)",
+      "quarto": "Corinthians (4)",
+      "quinto": "Flamengo (2)",
+      "sexto": "Náutico (1)",
+      "artilheiros": "Roberto Dinamite (Vasco da Gama)",
+      "gols_artilheiro": "16"
+    },
+    {
+      "ano": "1985",
+      "campeao": "Coritiba (1)",
+      "vice": "Bangu (1)",
+      "terceiro": "Brasil de Pelotas (1)",
+      "quarto": "Atlético Mineiro (1)",
+      "quinto": "Sport (3)",
+      "sexto": "Ponte Preta (1)",
+      "artilheiros": "Edmar (Guarani)",
+      "gols_artilheiro": "20"
+    },
+    {
+      "ano": "1986",
+      "campeao": "São Paulo (2)",
+      "vice": "Guarani (1)",
+      "terceiro": "Atlético Mineiro (4)",
+      "quarto": "America (1)",
+      "quinto": "Bahia (2)",
+      "sexto": "Fluminense (1)",
+      "artilheiros": "Careca (São Paulo)",
+      "gols_artilheiro": "25"
+    },
+    {
+      "ano": "1987",
+      "campeao": "Sport (1)",
+      "vice": "Guarani (2)",
+      "terceiro": "Flamengo (1)",
+      "quarto": "Internacional (3)",
+      "quinto": "Atlético Paranaense (1)",
+      "sexto": "Bangu (1)",
+      "artilheiros": "Müller (São Paulo)",
+      "gols_artilheiro": "10"
+    },
+    {
+      "ano": "1988",
+      "campeao": "Bahia (2)",
+      "vice": "Internacional (3)",
+      "terceiro": "Fluminense (3)",
+      "quarto": "Grêmio (2)",
+      "quinto": "Vasco da Gama (2)",
+      "sexto": "Flamengo (4)",
+      "artilheiros": "Nílson (Internacional)",
+      "gols_artilheiro": "15"
+    },
+    {
+      "ano": "1989",
+      "campeao": "Vasco da Gama (2)",
+      "vice": "São Paulo (4)",
+      "terceiro": "Cruzeiro (3)",
+      "quarto": "Botafogo (4)",
+      "quinto": "Palmeiras (3)",
+      "sexto": "Corinthians (2)",
+      "artilheiros": "Túlio (Goiás)",
+      "gols_artilheiro": "11"
+    },
+    {
+      "ano": "1990",
+      "campeao": "Corinthians (1)",
+      "vice": "São Paulo (5)",
+      "terceiro": "Grêmio (5)",
+      "quarto": "Bahia (1)",
+      "quinto": "Atlético Mineiro (3)",
+      "sexto": "Palmeiras (2)",
+      "artilheiros": "Charles (Bahia)",
+      "gols_artilheiro": "11"
+    },
+    {
+      "ano": "1991",
+      "campeao": "São Paulo (3)",
+      "vice": "Bragantino (1)",
+      "terceiro": "Atlético Mineiro (5)",
+      "quarto": "Fluminense (3)",
+      "quinto": "Corinthians (3)",
+      "sexto": "Palmeiras (3)",
+      "artilheiros": "Paulinho McLaren (Santos)",
+      "gols_artilheiro": "15"
+    },
+    {
+      "ano": "1992",
+      "campeao": "Flamengo (4)",
+      "vice": "Botafogo (3)",
+      "terceiro": "Vasco da Gama (2)",
+      "quarto": "Bragantino (1)",
+      "quinto": "São Paulo (3)",
+      "sexto": "Corinthians (3)",
+      "artilheiros": "Bebeto (Vasco da Gama)",
+      "gols_artilheiro": "18"
+    },
+    {
+      "ano": "1993",
+      "campeao": "Palmeiras (7)",
+      "vice": "Vitória (1)",
+      "terceiro": "Corinthians (3)",
+      "quarto": "São Paulo (1)",
+      "quinto": "Santos (1)",
+      "sexto": "Guarani (1)",
+      "artilheiros": "Guga (Santos)",
+      "gols_artilheiro": "15"
+    },
+    {
+      "ano": "1994",
+      "campeao": "Palmeiras (8)",
+      "vice": "Corinthians (2)",
+      "terceiro": "Guarani (2)",
+      "quarto": "Atlético Mineiro (2)",
+      "quinto": "Botafogo (2)",
+      "sexto": "São Paulo (2)",
+      "artilheiros": "Amoroso (Guarani) Túlio (Botafogo)",
+      "gols_artilheiro": "19"
+    },
+    {
+      "ano": "1995",
+      "campeao": "Botafogo (2)",
+      "vice": "Santos (4)",
+      "terceiro": "Cruzeiro (4)",
+      "quarto": "Fluminense (4)",
+      "quinto": "Palmeiras (4)",
+      "sexto": "Bragantino (1)",
+      "artilheiros": "Túlio (Botafogo)",
+      "gols_artilheiro": "12"
+    },
+    {
+      "ano": "1996",
+      "campeao": "Grêmio (2)",
+      "vice": "Portuguesa (1)",
+      "terceiro": "Atlético Mineiro (6)",
+      "quarto": "Goiás (1)",
+      "quinto": "Cruzeiro (1)",
+      "sexto": "Guarani (2)",
+      "artilheiros": "Paulo Nunes (Grêmio) Renaldo (Atlético Mineiro)",
+      "gols_artilheiro": "16"
+    },
+    {
+      "ano": "1997",
+      "campeao": "Vasco da Gama (3)",
+      "vice": "Palmeiras (3)",
+      "terceiro": "Internacional (5)",
+      "quarto": "Atlético Mineiro (3)",
+      "quinto": "Flamengo (3)",
+      "sexto": "Portuguesa (1)",
+      "artilheiros": "Edmundo (Vasco da Gama)",
+      "gols_artilheiro": "29"
+    },
+    {
+      "ano": "1998",
+      "campeao": "Corinthians (2)",
+      "vice": "Cruzeiro (4)",
+      "terceiro": "Santos (2)",
+      "quarto": "Portuguesa (2)",
+      "quinto": "Palmeiras (5)",
+      "sexto": "Coritiba (1)",
+      "artilheiros": "Viola (Santos)",
+      "gols_artilheiro": "21"
+    },
+    {
+      "ano": "1999",
+      "campeao": "Corinthians (3)",
+      "vice": "Atlético Mineiro (3)",
+      "terceiro": "Vitória (1)",
+      "quarto": "São Paulo (2)",
+      "quinto": "Cruzeiro (2)",
+      "sexto": "Ponte Preta (2)",
+      "artilheiros": "Guilherme (Atlético Mineiro)",
+      "gols_artilheiro": "28"
+    },
+    {
+      "ano": "2000",
+      "campeao": "Vasco da Gama (4)",
+      "vice": "São Caetano (1)",
+      "terceiro": "Cruzeiro (5)",
+      "quarto": "Grêmio (3)",
+      "quinto": "Sport (4)",
+      "sexto": "Internacional (1)",
+      "artilheiros": "Adhemar (São Caetano)",
+      "gols_artilheiro": "22"
+    },
+    {
+      "ano": "2001",
+      "campeao": "Atlético Paranaense (1)",
+      "vice": "São Caetano (2)",
+      "terceiro": "Fluminense (4)",
+      "quarto": "Atlético Mineiro (4)",
+      "quinto": "Grêmio (4)",
+      "sexto": "Ponte Preta (3)",
+      "artilheiros": "Romário (Vasco da Gama)",
+      "gols_artilheiro": "21"
+    },
+    {
+      "ano": "2002",
+      "campeao": "Santos (7)",
+      "vice": "Corinthians (3)",
+      "terceiro": "Grêmio (6)",
+      "quarto": "Fluminense (5)",
+      "quinto": "São Paulo (4)",
+      "sexto": "São Caetano (1)",
+      "artilheiros": "Luís Fabiano (São Paulo) Rodrigo Fabri (Grêmio)",
+      "gols_artilheiro": "19"
+    },
+    {
+      "ano": "2003",
+      "campeao": "Cruzeiro (2)",
+      "vice": "Santos (5)",
+      "terceiro": "São Paulo (1)",
+      "quarto": "São Caetano (1)",
+      "quinto": "Coritiba (2)",
+      "sexto": "Internacional (2)",
+      "artilheiros": "Dimba (Goiás)",
+      "gols_artilheiro": "31"
+    },
+    {
+      "ano": "2004",
+      "campeao": "Santos (8)",
+      "vice": "Atlético Paranaense (1)",
+      "terceiro": "São Paulo (2)",
+      "quarto": "Palmeiras (5)",
+      "quinto": "Corinthians (4)",
+      "sexto": "Goiás (1)",
+      "artilheiros": "Washington (Atlético Paranaense)",
+      "gols_artilheiro": "34"
+    },
+    {
+      "ano": "2005",
+      "campeao": "Corinthians (4)",
+      "vice": "Internacional (4)",
+      "terceiro": "Goiás (1)",
+      "quarto": "Palmeiras (6)",
+      "quinto": "Fluminense (2)",
+      "sexto": "Atlético Paranaense (1)",
+      "artilheiros": "Romário (Vasco da Gama)",
+      "gols_artilheiro": "22"
+    },
+    {
+      "ano": "2006",
+      "campeao": "São Paulo (4)",
+      "vice": "Internacional (5)",
+      "terceiro": "Grêmio (7)",
+      "quarto": "Santos (1)",
+      "quinto": "Paraná (1)",
+      "sexto": "Vasco da Gama (2)",
+      "artilheiros": "Souza (Goiás)",
+      "gols_artilheiro": "17"
+    },
+    {
+      "ano": "2007",
+      "campeao": "São Paulo (5)",
+      "vice": "Santos (6)",
+      "terceiro": "Flamengo (2)",
+      "quarto": "Fluminense (6)",
+      "quinto": "Cruzeiro (3)",
+      "sexto": "Grêmio (7)",
+      "artilheiros": "Josiel (Paraná)",
+      "gols_artilheiro": "20"
+    },
+    {
+      "ano": "2008",
+      "campeao": "São Paulo (6)",
+      "vice": "Grêmio (2)",
+      "terceiro": "Cruzeiro (6)",
+      "quarto": "Palmeiras (7)",
+      "quinto": "Flamengo (4)",
+      "sexto": "Internacional (3)",
+      "artilheiros": "Keirrison (Coritiba) Kléber Pereira (Santos) Washington (Fluminense)",
+      "gols_artilheiro": "21"
+    },
+    {
+      "ano": "2009",
+      "campeao": "Flamengo (5)",
+      "vice": "Internacional (6)",
+      "terceiro": "São Paulo (3)",
+      "quarto": "Cruzeiro (3)",
+      "quinto": "Palmeiras (6)",
+      "sexto": "Avaí (1)",
+      "artilheiros": "Adriano (Flamengo) Diego Tardelli (Atlético Mineiro)",
+      "gols_artilheiro": "19"
+    },
+    {
+      "ano": "2010",
+      "campeao": "Fluminense (3)",
+      "vice": "Cruzeiro (5)",
+      "terceiro": "Corinthians (4)",
+      "quarto": "Grêmio (4)",
+      "quinto": "Atlético Paranaense (2)",
+      "sexto": "Botafogo (1)",
+      "artilheiros": "Jonas (Grêmio)",
+      "gols_artilheiro": "23"
+    },
+    {
+      "ano": "2011",
+      "campeao": "Corinthians (5)",
+      "vice": "Vasco da Gama (4)",
+      "terceiro": "Fluminense (5)",
+      "quarto": "Flamengo (1)",
+      "quinto": "Internacional (4)",
+      "sexto": "São Paulo (3)",
+      "artilheiros": "Borges (Santos)",
+      "gols_artilheiro": "23"
+    },
+    {
+      "ano": "2012",
+      "campeao": "Fluminense (4)",
+      "vice": "Atlético Mineiro (4)",
+      "terceiro": "Grêmio (8)",
+      "quarto": "São Paulo (3)",
+      "quinto": "Vasco da Gama (3)",
+      "sexto": "Corinthians (4)",
+      "artilheiros": "Fred (Fluminense)",
+      "gols_artilheiro": "20"
+    },
+    {
+      "ano": "2013",
+      "campeao": "Cruzeiro (3)",
+      "vice": "Grêmio (3)",
+      "terceiro": "Atlético Paranaense (1)",
+      "quarto": "Botafogo (5)",
+      "quinto": "Vitória (1)",
+      "sexto": "Goiás (2)",
+      "artilheiros": "Éderson (Atlético Paranaense)",
+      "gols_artilheiro": "21"
+    },
+    {
+      "ano": "2014",
+      "campeao": "Cruzeiro (4)",
+      "vice": "São Paulo (6)",
+      "terceiro": "Internacional (6)",
+      "quarto": "Corinthians (4)",
+      "quinto": "Atlético Mineiro (4)",
+      "sexto": "Fluminense (2)",
+      "artilheiros": "Fred (Fluminense)",
+      "gols_artilheiro": "18"
+    },
+    {
+      "ano": "2015",
+      "campeao": "Corinthians (6)",
+      "vice": "Atlético Mineiro (5)",
+      "terceiro": "Grêmio (9)",
+      "quarto": "São Paulo (4)",
+      "quinto": "Internacional (5)",
+      "sexto": "Sport (1)",
+      "artilheiros": "Ricardo Oliveira (Santos)",
+      "gols_artilheiro": "20"
+    },
+    {
+      "ano": "2016",
+      "campeao": "Palmeiras (9)",
+      "vice": "Santos (7)",
+      "terceiro": "Flamengo (3)",
+      "quarto": "Atlético Mineiro (4)",
+      "quinto": "Botafogo (3)",
+      "sexto": "Atlético Paranaense (2)",
+      "artilheiros": "William Pottker (Ponte Preta) Diego Souza (Sport) Fred (Atlético Mineiro)",
+      "gols_artilheiro": "14"
+    },
+    {
+      "ano": "2017",
+      "campeao": "Corinthians (7)",
+      "vice": "Palmeiras (4)",
+      "terceiro": "Santos (3)",
+      "quarto": "Grêmio (5)",
+      "quinto": "Cruzeiro (4)",
+      "sexto": "Flamengo (5)",
+      "artilheiros": "Henrique Dourado (Fluminense) Jô (Corinthians)",
+      "gols_artilheiro": "18"
+    },
+    {
+      "ano": "2018",
+      "campeao": "Palmeiras (10)",
+      "vice": "Flamengo (2)",
+      "terceiro": "Internacional (7)",
+      "quarto": "Grêmio (6)",
+      "quinto": "São Paulo (5)",
+      "sexto": "Atlético Mineiro (4)",
+      "artilheiros": "Gabriel (Santos)",
+      "gols_artilheiro": "18"
+    },
+    {
+      "ano": "2019",
+      "campeao": "Flamengo (6)",
+      "vice": "Santos (8)",
+      "terceiro": "Palmeiras (1)",
+      "quarto": "Grêmio (7)",
+      "quinto": "Atlético Paranaense (3)",
+      "sexto": "São Paulo (4)",
+      "artilheiros": "Gabriel (Flamengo)",
+      "gols_artilheiro": "25"
+    },
+    {
+      "ano": "2020",
+      "campeao": "Flamengo (7)",
+      "vice": "Internacional (7)",
+      "terceiro": "Atlético Mineiro (7)",
+      "quarto": "São Paulo (5)",
+      "quinto": "Fluminense (3)",
+      "sexto": "Grêmio (8)",
+      "artilheiros": "Luciano (São Paulo) Claudinho (Bragantino)",
+      "gols_artilheiro": "18"
+    },
+    {
+      "ano": "2021",
+      "campeao": "Atlético Mineiro (2)",
+      "vice": "Flamengo (3)",
+      "terceiro": "Palmeiras (2)",
+      "quarto": "Fortaleza (1)",
+      "quinto": "Corinthians (5)",
+      "sexto": "Bragantino (2)",
+      "artilheiros": "Hulk (Atlético Mineiro)",
+      "gols_artilheiro": "19"
+    },
+    {
+      "ano": "2022",
+      "campeao": "Palmeiras (11)",
+      "vice": "Internacional (8)",
+      "terceiro": "Fluminense (6)",
+      "quarto": "Corinthians (5)",
+      "quinto": "Flamengo (5)",
+      "sexto": "Atlético Paranaense (3)",
+      "artilheiros": "Germán Cano (Fluminense)",
+      "gols_artilheiro": "26"
+    },
+    {
+      "ano": "2023",
+      "campeao": "Palmeiras (12)",
+      "vice": "Grêmio (4)",
+      "terceiro": "Atlético Mineiro (8)",
+      "quarto": "Flamengo (2)",
+      "quinto": "Botafogo (2)",
+      "sexto": "Bragantino (3)",
+      "artilheiros": "Paulinho (Atlético Mineiro)",
+      "gols_artilheiro": "20"
+    },
+    {
+      "ano": "2024",
+      "campeao": "Botafogo (3)",
+      "vice": "Palmeiras (5)",
+      "terceiro": "Flamengo (4)",
+      "quarto": "Fortaleza (2)",
+      "quinto": "Internacional (6)",
+      "sexto": "São Paulo (5)",
+      "artilheiros": "Yuri Alberto (Corinthians) Alerrandro (Vitória)",
+      "gols_artilheiro": "15"
+    },
+    {
+      "ano": "2025",
+      "campeao": "Flamengo (8)",
+      "vice": "Palmeiras (6)",
+      "terceiro": "Cruzeiro (7)",
+      "quarto": "Mirassol (1)",
+      "quinto": "Fluminense (4)",
+      "sexto": "Botafogo (2)",
+      "artilheiros": "Kaio Jorge (Cruzeiro)",
+      "gols_artilheiro": "21"
+    }
+  ],
+  "meta": {
+    "title": "Campeões do Campeonato Brasileiro de Futebol - Free Download",
+    "description": "Lista de campeões, vice-campeões e demais colocados do Campeonato Brasileiro de Futebol (Brasileirão) por ano, com artilheiros. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Campeões do Campeonato Brasileiro de Futebol | ListBase",
+    "seo_description": "Download Campeões do Campeonato Brasileiro de Futebol — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_campeões_do_Campeonato_Brasileiro_de_Futebol"
+    ]
+  }
+}

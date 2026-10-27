@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:02.904Z",
-  "total_datasets": 474,
-  "total_records": 738202,
+  "generated": "2026-10-27T02:17:05.555Z",
+  "total_datasets": 475,
+  "total_records": 738272,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -13807,6 +13807,36 @@
         "xlsx": {
           "name": "pt-viseu-aeroportos_PT.xlsx",
           "size": 8139
+        }
+      }
+    },
+    {
+      "id": "pt-br-campeoes-brasileirao",
+      "name": "Campeões do Campeonato Brasileiro de Futebol",
+      "category": "sports",
+      "record_count": 70,
+      "columns": [
+        "ano",
+        "campeao",
+        "vice",
+        "terceiro",
+        "quarto",
+        "quinto",
+        "sexto",
+        "artilheiros",
+        "gols_artilheiro"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_campeões_do_Campeonato_Brasileiro_de_Futebol",
+      "updated": "2026-10",
+      "size": 24424,
+      "files": {
+        "csv": {
+          "name": "pt-br-campeoes-brasileirao_PT.csv",
+          "size": 10034
+        },
+        "xlsx": {
+          "name": "pt-br-campeoes-brasileirao_PT.xlsx",
+          "size": 11458
         }
       }
     },
