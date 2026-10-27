@@ -1,0 +1,214 @@
+{
+  "id": "pt-br-estados-pib",
+  "name": "Unidades federativas do Brasil por PIB",
+  "title": "Unidades federativas do Brasil por PIB",
+  "description": "Ranking dos estados brasileiros e do Distrito Federal pelo Produto Interno Bruto (R$ mil) e participação no PIB nacional (2023, IBGE).",
+  "category": "economy",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "unidade_federativa",
+      "label": "Unidade Federativa",
+      "type": "string"
+    },
+    {
+      "key": "pib_mil_reais",
+      "label": "Pib Mil Reais",
+      "type": "number"
+    },
+    {
+      "key": "participacao_pct",
+      "label": "Participacao Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": 1,
+      "unidade_federativa": "São Paulo",
+      "pib_mil_reais": 3444814033,
+      "participacao_pct": 31.5
+    },
+    {
+      "posicao": 2,
+      "unidade_federativa": "Rio de Janeiro",
+      "pib_mil_reais": 1172871443,
+      "participacao_pct": 10.7
+    },
+    {
+      "posicao": 3,
+      "unidade_federativa": "Minas Gerais",
+      "pib_mil_reais": 971978551,
+      "participacao_pct": 8.9
+    },
+    {
+      "posicao": 4,
+      "unidade_federativa": "Paraná",
+      "pib_mil_reais": 670919162,
+      "participacao_pct": 6.1
+    },
+    {
+      "posicao": 5,
+      "unidade_federativa": "Rio Grande do Sul",
+      "pib_mil_reais": 650107022,
+      "participacao_pct": 5.9
+    },
+    {
+      "posicao": 6,
+      "unidade_federativa": "Santa Catarina",
+      "pib_mil_reais": 513393973,
+      "participacao_pct": 4.7
+    },
+    {
+      "posicao": 7,
+      "unidade_federativa": "Bahia",
+      "pib_mil_reais": 430988853,
+      "participacao_pct": 3.9
+    },
+    {
+      "posicao": 8,
+      "unidade_federativa": "Distrito Federal",
+      "pib_mil_reais": 365669108,
+      "participacao_pct": 3.3
+    },
+    {
+      "posicao": 9,
+      "unidade_federativa": "Goiás",
+      "pib_mil_reais": 336747975,
+      "participacao_pct": 3.1
+    },
+    {
+      "posicao": 10,
+      "unidade_federativa": "Mato Grosso",
+      "pib_mil_reais": 273009586,
+      "participacao_pct": 2.5
+    },
+    {
+      "posicao": 11,
+      "unidade_federativa": "Pernambuco",
+      "pib_mil_reais": 270475919,
+      "participacao_pct": 2.5
+    },
+    {
+      "posicao": 12,
+      "unidade_federativa": "Pará",
+      "pib_mil_reais": 254547551,
+      "participacao_pct": 2.3
+    },
+    {
+      "posicao": 13,
+      "unidade_federativa": "Ceará",
+      "pib_mil_reais": 232239257,
+      "participacao_pct": 2.1
+    },
+    {
+      "posicao": 14,
+      "unidade_federativa": "Espírito Santo",
+      "pib_mil_reais": 209830732,
+      "participacao_pct": 1.9
+    },
+    {
+      "posicao": 15,
+      "unidade_federativa": "Mato Grosso do Sul",
+      "pib_mil_reais": 184402118,
+      "participacao_pct": 1.7
+    },
+    {
+      "posicao": 16,
+      "unidade_federativa": "Amazonas",
+      "pib_mil_reais": 161795976,
+      "participacao_pct": 1.5
+    },
+    {
+      "posicao": 17,
+      "unidade_federativa": "Maranhão",
+      "pib_mil_reais": 149227195,
+      "participacao_pct": 1.4
+    },
+    {
+      "posicao": 18,
+      "unidade_federativa": "Rio Grande do Norte",
+      "pib_mil_reais": 101740275,
+      "participacao_pct": 0.9
+    },
+    {
+      "posicao": 19,
+      "unidade_federativa": "Paraíba",
+      "pib_mil_reais": 96963174,
+      "participacao_pct": 0.9
+    },
+    {
+      "posicao": 20,
+      "unidade_federativa": "Alagoas",
+      "pib_mil_reais": 89689932,
+      "participacao_pct": 0.8
+    },
+    {
+      "posicao": 21,
+      "unidade_federativa": "Piauí",
+      "pib_mil_reais": 80917856,
+      "participacao_pct": 0.7
+    },
+    {
+      "posicao": 22,
+      "unidade_federativa": "Rondônia",
+      "pib_mil_reais": 76456179,
+      "participacao_pct": 0.7
+    },
+    {
+      "posicao": 23,
+      "unidade_federativa": "Tocantins",
+      "pib_mil_reais": 64318699,
+      "participacao_pct": 0.6
+    },
+    {
+      "posicao": 24,
+      "unidade_federativa": "Sergipe",
+      "pib_mil_reais": 60817662,
+      "participacao_pct": 0.6
+    },
+    {
+      "posicao": 25,
+      "unidade_federativa": "Amapá",
+      "pib_mil_reais": 28020120,
+      "participacao_pct": 0.3
+    },
+    {
+      "posicao": 26,
+      "unidade_federativa": "Acre",
+      "pib_mil_reais": 26291321,
+      "participacao_pct": 0.2
+    },
+    {
+      "posicao": 27,
+      "unidade_federativa": "Roraima",
+      "pib_mil_reais": 25124805,
+      "participacao_pct": 0.2
+    },
+    {
+      "posicao": "",
+      "unidade_federativa": "Total",
+      "pib_mil_reais": 10943345439,
+      "participacao_pct": 100
+    }
+  ],
+  "meta": {
+    "title": "Unidades federativas do Brasil por PIB - Free Download",
+    "description": "Ranking dos estados brasileiros e do Distrito Federal pelo Produto Interno Bruto (R$ mil) e participação no PIB nacional (2023, IBGE). Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unidades federativas do Brasil por PIB | ListBase",
+    "seo_description": "Download Unidades federativas do Brasil por PIB — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB"
+    ]
+  }
+}

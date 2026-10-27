@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:19.760Z",
-  "total_datasets": 480,
-  "total_records": 738899,
+  "generated": "2026-10-27T02:17:22.432Z",
+  "total_datasets": 481,
+  "total_records": 738927,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -166,6 +166,31 @@
         "xlsx": {
           "name": "pt-patrimonio-mundial-unesco_PT.xlsx",
           "size": 12564
+        }
+      }
+    },
+    {
+      "id": "pt-br-estados-pib",
+      "name": "Unidades federativas do Brasil por PIB",
+      "category": "economy",
+      "record_count": 28,
+      "columns": [
+        "posicao",
+        "unidade_federativa",
+        "pib_mil_reais",
+        "participacao_pct"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB",
+      "updated": "2026-10",
+      "size": 5628,
+      "files": {
+        "csv": {
+          "name": "pt-br-estados-pib_PT.csv",
+          "size": 1052
+        },
+        "xlsx": {
+          "name": "pt-br-estados-pib_PT.xlsx",
+          "size": 7699
         }
       }
     },
