@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:33.121Z",
-  "total_datasets": 485,
-  "total_records": 739163,
+  "generated": "2026-10-27T02:17:35.834Z",
+  "total_datasets": 486,
+  "total_records": 739218,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -1470,6 +1470,29 @@
         "xlsx": {
           "name": "pt-swift-codigos_PT.xlsx",
           "size": 15640
+        }
+      }
+    },
+    {
+      "id": "pt-br-pratos-tipicos-parana",
+      "name": "Pratos típicos do Paraná",
+      "category": "food",
+      "record_count": 55,
+      "columns": [
+        "nome",
+        "tipo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_pratos_típicos_do_Paraná",
+      "updated": "2026-10",
+      "size": 4953,
+      "files": {
+        "csv": {
+          "name": "pt-br-pratos-tipicos-parana_PT.csv",
+          "size": 1388
+        },
+        "xlsx": {
+          "name": "pt-br-pratos-tipicos-parana_PT.xlsx",
+          "size": 7787
         }
       }
     },

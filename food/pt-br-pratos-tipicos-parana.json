@@ -1,0 +1,256 @@
+{
+  "id": "pt-br-pratos-tipicos-parana",
+  "name": "Pratos típicos do Paraná",
+  "title": "Pratos típicos do Paraná",
+  "description": "Lista de pratos e bebidas típicos da culinária paranaense (Brasil).",
+  "category": "food",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_pratos_típicos_do_Paraná",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_pratos_típicos_do_Paraná",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Pinhão",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Barreado",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Boi no rolete",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Pierogi",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Galinha ao molho",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Galinha caipira",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Entrevero de pinhão",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Paçoca de carne",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Quirera com frango",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Quirera lapeana",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Virado de carne",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Cambira",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Charque",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Costela assada de Apucarana",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Costela ao fogo de chão",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Alcatra no espeto",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Sukiyaki",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Vaca atolada",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Eisbein",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Leitão maturado",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Leitoa desossada e recheada",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Leitoa no tacho",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Pernil à pururuca",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Porco no rolete",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Porco na lata",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Carneiro ao molho",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Carneiro no Buraco",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Koziá (Cabrito)",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Pintado na telha",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Tilápia",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Pachola",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Arroz tropeiro",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Castropeiro",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Pão no bafo",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Broa",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Bolinho de polvilho",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Polenta com frango",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Bolo de milho",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Cuca",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Carne de onça",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Kutchia (Kutiá)",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Mingau de milho",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Torta holandesa",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Bala de banana",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Bala de gengibre",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Melado",
+      "tipo": "Pratos"
+    },
+    {
+      "nome": "Café",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Cachaça",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Cataia",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Cerveja",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Chimarrão",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Tererê",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Vinho",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Cabriúva",
+      "tipo": "Bebidas"
+    },
+    {
+      "nome": "Gengibirra",
+      "tipo": "Bebidas"
+    }
+  ],
+  "meta": {
+    "title": "Pratos típicos do Paraná - Free Download",
+    "description": "Lista de pratos e bebidas típicos da culinária paranaense (Brasil). Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pratos típicos do Paraná | ListBase",
+    "seo_description": "Download Pratos típicos do Paraná — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_pratos_típicos_do_Paraná"
+    ]
+  }
+}
