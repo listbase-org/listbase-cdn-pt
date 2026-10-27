@@ -1,0 +1,331 @@
+{
+  "id": "pt-br-partidos-politicos",
+  "name": "Partidos políticos do Brasil",
+  "title": "Partidos políticos do Brasil",
+  "description": "Partidos políticos registrados no TSE: nome, sigla, número eleitoral, número de filiados, datas de criação e registro e presidente atual.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_partidos_políticos_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_partidos_políticos_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "numero_eleitoral",
+      "label": "Numero Eleitoral",
+      "type": "number"
+    },
+    {
+      "key": "filiados",
+      "label": "Filiados",
+      "type": "number"
+    },
+    {
+      "key": "data_criacao",
+      "label": "Data Criacao",
+      "type": "string"
+    },
+    {
+      "key": "data_registro",
+      "label": "Data Registro",
+      "type": "string"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Movimento Democrático Brasileiro",
+      "sigla": "MDB",
+      "numero_eleitoral": "15",
+      "filiados": 2018465,
+      "data_criacao": "15/01/1980",
+      "data_registro": "30/06/1981",
+      "presidente": "Baleia Rossi"
+    },
+    {
+      "nome": "Partido dos Trabalhadores",
+      "sigla": "PT",
+      "numero_eleitoral": "13",
+      "filiados": 1665746,
+      "data_criacao": "10/02/1980",
+      "data_registro": "11/02/1982",
+      "presidente": "Edinho Silva"
+    },
+    {
+      "nome": "Progressistas",
+      "sigla": "PP",
+      "numero_eleitoral": "11",
+      "filiados": 1285694,
+      "data_criacao": "08/08/1995",
+      "data_registro": "16/11/1995",
+      "presidente": "Ciro Nogueira"
+    },
+    {
+      "nome": "Partido Renovação Democrática",
+      "sigla": "PRD",
+      "numero_eleitoral": "25",
+      "filiados": 1280983,
+      "data_criacao": "26/10/2022",
+      "data_registro": "09/11/2023",
+      "presidente": "Marcus Vinícius Neskau"
+    },
+    {
+      "nome": "Partido da Social Democracia Brasileira",
+      "sigla": "PSDB",
+      "numero_eleitoral": "45",
+      "filiados": 1260960,
+      "data_criacao": "25/06/1988",
+      "data_registro": "24/08/1988",
+      "presidente": "Aécio Neves"
+    },
+    {
+      "nome": "Partido Democrático Trabalhista",
+      "sigla": "PDT",
+      "numero_eleitoral": "12",
+      "filiados": 1073308,
+      "data_criacao": "17/06/1979",
+      "data_registro": "10/11/1981",
+      "presidente": "Carlos Lupi"
+    },
+    {
+      "nome": "União Brasil",
+      "sigla": "UNIÃO",
+      "numero_eleitoral": "44",
+      "filiados": 1067007,
+      "data_criacao": "06/10/2021",
+      "data_registro": "08/02/2022",
+      "presidente": "Antônio de Rueda"
+    },
+    {
+      "nome": "Partido Liberal",
+      "sigla": "PL",
+      "numero_eleitoral": "22",
+      "filiados": 952881,
+      "data_criacao": "26/10/2006",
+      "data_registro": "19/12/2006",
+      "presidente": "Valdemar Costa Neto"
+    },
+    {
+      "nome": "Podemos",
+      "sigla": "PODE",
+      "numero_eleitoral": "20",
+      "filiados": 796992,
+      "data_criacao": "01/05/1995",
+      "data_registro": "02/10/1997",
+      "presidente": "Renata Abreu"
+    },
+    {
+      "nome": "Partido Socialista Brasileiro",
+      "sigla": "PSB",
+      "numero_eleitoral": "40",
+      "filiados": 639063,
+      "data_criacao": "02/07/1985",
+      "data_registro": "01/07/1988",
+      "presidente": "João Henrique Campos"
+    },
+    {
+      "nome": "Republicanos",
+      "sigla": "Republicanos",
+      "numero_eleitoral": "10",
+      "filiados": 565615,
+      "data_criacao": "16/12/2003",
+      "data_registro": "25/08/2005",
+      "presidente": "Marcos Pereira"
+    },
+    {
+      "nome": "Partido Social Democrático",
+      "sigla": "PSD",
+      "numero_eleitoral": "55",
+      "filiados": 466106,
+      "data_criacao": "11/03/2011",
+      "data_registro": "27/09/2011",
+      "presidente": "Gilberto Kassab"
+    },
+    {
+      "nome": "Cidadania",
+      "sigla": "Cidadania",
+      "numero_eleitoral": "23",
+      "filiados": 413682,
+      "data_criacao": "26/01/1992",
+      "data_registro": "19/03/1992",
+      "presidente": "Roberto Freire"
+    },
+    {
+      "nome": "Partido Comunista do Brasil",
+      "sigla": "PCdoB",
+      "numero_eleitoral": "65",
+      "filiados": 383481,
+      "data_criacao": "18/02/1962",
+      "data_registro": "23/06/1988",
+      "presidente": "Luciana Santos"
+    },
+    {
+      "nome": "Solidariedade",
+      "sigla": "Solidariedade",
+      "numero_eleitoral": "77",
+      "filiados": 374232,
+      "data_criacao": "25/10/2012",
+      "data_registro": "24/09/2013",
+      "presidente": "Eurípedes Júnior"
+    },
+    {
+      "nome": "Partido Verde",
+      "sigla": "PV",
+      "numero_eleitoral": "43",
+      "filiados": 340488,
+      "data_criacao": "17/01/1986",
+      "data_registro": "30/09/1993",
+      "presidente": "José Luiz Penna"
+    },
+    {
+      "nome": "Partido Socialismo e Liberdade",
+      "sigla": "PSOL",
+      "numero_eleitoral": "50",
+      "filiados": 291228,
+      "data_criacao": "07/07/2004",
+      "data_registro": "15/09/2005",
+      "presidente": "Paula Coradi"
+    },
+    {
+      "nome": "Avante",
+      "sigla": "Avante",
+      "numero_eleitoral": "70",
+      "filiados": 243623,
+      "data_criacao": "15/05/1989",
+      "data_registro": "11/10/1994",
+      "presidente": "Luis Tibé"
+    },
+    {
+      "nome": "Mobilização Nacional",
+      "sigla": "MOBILIZA",
+      "numero_eleitoral": "33",
+      "filiados": 207137,
+      "data_criacao": "21/04/1984",
+      "data_registro": "25/10/1990",
+      "presidente": "Antonio Massarollo"
+    },
+    {
+      "nome": "Agir",
+      "sigla": "Agir",
+      "numero_eleitoral": "36",
+      "filiados": 194463,
+      "data_criacao": "11/07/1985",
+      "data_registro": "22/02/1990",
+      "presidente": "Daniel Tourinho"
+    },
+    {
+      "nome": "Democracia Cristã",
+      "sigla": "DC",
+      "numero_eleitoral": "27",
+      "filiados": 182708,
+      "data_criacao": "30/03/1995",
+      "data_registro": "05/08/1997",
+      "presidente": "João Caldas"
+    },
+    {
+      "nome": "Partido Renovador Trabalhista Brasileiro",
+      "sigla": "PRTB",
+      "numero_eleitoral": "28",
+      "filiados": 142922,
+      "data_criacao": "27/11/1994",
+      "data_registro": "18/02/1997",
+      "presidente": "Leonardo Araujo"
+    },
+    {
+      "nome": "Partido Novo",
+      "sigla": "NOVO",
+      "numero_eleitoral": "30",
+      "filiados": 81317,
+      "data_criacao": "12/02/2011",
+      "data_registro": "15/09/2015",
+      "presidente": "Eduardo Ribeiro"
+    },
+    {
+      "nome": "Rede Sustentabilidade",
+      "sigla": "REDE",
+      "numero_eleitoral": "18",
+      "filiados": 55789,
+      "data_criacao": "16/02/2013",
+      "data_registro": "22/09/2015",
+      "presidente": "Paulo Lamac (na condição de porta-voz)"
+    },
+    {
+      "nome": "Democrata",
+      "sigla": "Democrata",
+      "numero_eleitoral": "35",
+      "filiados": 55556,
+      "data_criacao": "13/09/2008",
+      "data_registro": "29/09/2015",
+      "presidente": "Suêd Haidar"
+    },
+    {
+      "nome": "Missão",
+      "sigla": "MISSÃO",
+      "numero_eleitoral": "14",
+      "filiados": 29867,
+      "data_criacao": "17/10/2023",
+      "data_registro": "04/11/2025",
+      "presidente": "Renan Santos"
+    },
+    {
+      "nome": "Unidade Popular",
+      "sigla": "UP",
+      "numero_eleitoral": "80",
+      "filiados": 15274,
+      "data_criacao": "16/06/2016",
+      "data_registro": "10/12/2019",
+      "presidente": "Léo Péricles"
+    },
+    {
+      "nome": "Partido Socialista dos Trabalhadores Unificado",
+      "sigla": "PSTU",
+      "numero_eleitoral": "16",
+      "filiados": 14633,
+      "data_criacao": "05/06/1994",
+      "data_registro": "19/12/1995",
+      "presidente": "Zé Maria"
+    },
+    {
+      "nome": "Partido Comunista Brasileiro",
+      "sigla": "PCB",
+      "numero_eleitoral": "21",
+      "filiados": 11767,
+      "data_criacao": "25/03/1922",
+      "data_registro": "09/05/1996",
+      "presidente": "Edmilson Costa (na condição de secretário-geral)"
+    },
+    {
+      "nome": "Partido da Causa Operária",
+      "sigla": "PCO",
+      "numero_eleitoral": "29",
+      "filiados": 7071,
+      "data_criacao": "07/12/1995",
+      "data_registro": "30/09/1997",
+      "presidente": "Rui Costa Pimenta"
+    }
+  ],
+  "meta": {
+    "title": "Partidos políticos do Brasil - Free Download",
+    "description": "Partidos políticos registrados no TSE: nome, sigla, número eleitoral, número de filiados, datas de criação e registro e presidente atual. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Partidos políticos do Brasil | ListBase",
+    "seo_description": "Download Partidos políticos do Brasil — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_partidos_políticos_do_Brasil"
+    ]
+  }
+}

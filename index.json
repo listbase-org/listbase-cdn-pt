@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:30.501Z",
-  "total_datasets": 484,
-  "total_records": 739133,
+  "generated": "2026-10-27T02:17:33.121Z",
+  "total_datasets": 485,
+  "total_records": 739163,
   "categories": [
     {
       "id": "culture",
@@ -55,6 +55,10 @@
     {
       "id": "music",
       "dataset_count": 2
+    },
+    {
+      "id": "politics",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -3224,6 +3228,34 @@
         "xlsx": {
           "name": "pt-br-artistas-recordistas-vendas_PT.xlsx",
           "size": 10292
+        }
+      }
+    },
+    {
+      "id": "pt-br-partidos-politicos",
+      "name": "Partidos políticos do Brasil",
+      "category": "politics",
+      "record_count": 30,
+      "columns": [
+        "nome",
+        "sigla",
+        "numero_eleitoral",
+        "filiados",
+        "data_criacao",
+        "data_registro",
+        "presidente"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_partidos_políticos_do_Brasil",
+      "updated": "2026-10",
+      "size": 9298,
+      "files": {
+        "csv": {
+          "name": "pt-br-partidos-politicos_PT.csv",
+          "size": 2817
+        },
+        "xlsx": {
+          "name": "pt-br-partidos-politicos_PT.xlsx",
+          "size": 9109
         }
       }
     },
