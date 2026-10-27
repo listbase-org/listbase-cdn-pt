@@ -1,0 +1,2833 @@
+{
+  "id": "pt-municipios-por-populacao",
+  "name": "Municípios de Portugal por população",
+  "title": "Municípios de Portugal por população",
+  "description": "Os 308 municípios portugueses ordenados por população (estimativa 2025), com variação desde os Censos 2021, distrito, sub-região e região.",
+  "category": "society",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_municípios_de_Portugal_por_população",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_municípios_de_Portugal_por_população",
+  "updated": "2026-10",
+  "record_count": 308,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "populacao_2025",
+      "label": "Populacao 2025",
+      "type": "number"
+    },
+    {
+      "key": "variacao_2021_2025_pct",
+      "label": "Variacao 2021 2025 Pct",
+      "type": "number"
+    },
+    {
+      "key": "distrito_ra",
+      "label": "Distrito Ra",
+      "type": "string"
+    },
+    {
+      "key": "sub_regiao",
+      "label": "Sub Regiao",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": 1,
+      "municipio": "Lisboa",
+      "populacao_2025": 658236,
+      "variacao_2021_2025_pct": 8.72,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 2,
+      "municipio": "Sintra",
+      "populacao_2025": 449956,
+      "variacao_2021_2025_pct": 12.43,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 3,
+      "municipio": "Vila Nova de Gaia",
+      "populacao_2025": 323202,
+      "variacao_2021_2025_pct": 5.4,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 4,
+      "municipio": "Porto",
+      "populacao_2025": 273476,
+      "variacao_2021_2025_pct": 12,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 5,
+      "municipio": "Cascais",
+      "populacao_2025": 242619,
+      "variacao_2021_2025_pct": 7.17,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 6,
+      "municipio": "Loures",
+      "populacao_2025": 236988,
+      "variacao_2021_2025_pct": 13.79,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 7,
+      "municipio": "Braga",
+      "populacao_2025": 212635,
+      "variacao_2021_2025_pct": 8.75,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Cávado",
+      "regiao": "Norte"
+    },
+    {
+      "n": 8,
+      "municipio": "Amadora",
+      "populacao_2025": 205517,
+      "variacao_2021_2025_pct": 15.24,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 9,
+      "municipio": "Almada",
+      "populacao_2025": 202896,
+      "variacao_2021_2025_pct": 10.67,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 10,
+      "municipio": "Seixal",
+      "populacao_2025": 198254,
+      "variacao_2021_2025_pct": 15.86,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 11,
+      "municipio": "Oeiras",
+      "populacao_2025": 188056,
+      "variacao_2021_2025_pct": 6.09,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 12,
+      "municipio": "Odivelas",
+      "populacao_2025": 185736,
+      "variacao_2021_2025_pct": 15.73,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 13,
+      "municipio": "Matosinhos",
+      "populacao_2025": 181930,
+      "variacao_2021_2025_pct": 4.13,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 14,
+      "municipio": "Gondomar",
+      "populacao_2025": 170597,
+      "variacao_2021_2025_pct": 3.26,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 15,
+      "municipio": "Guimarães",
+      "populacao_2025": 165554,
+      "variacao_2021_2025_pct": 4.79,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 16,
+      "municipio": "Coimbra",
+      "populacao_2025": 156359,
+      "variacao_2021_2025_pct": 7.08,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 17,
+      "municipio": "Vila Franca de Xira",
+      "populacao_2025": 152007,
+      "variacao_2021_2025_pct": 8.38,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 18,
+      "municipio": "Leiria",
+      "populacao_2025": 145861,
+      "variacao_2021_2025_pct": 9.94,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 19,
+      "municipio": "Vila Nova de Famalicão",
+      "populacao_2025": 143801,
+      "variacao_2021_2025_pct": 6.6,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 20,
+      "municipio": "Santa Maria da Feira",
+      "populacao_2025": 142676,
+      "variacao_2021_2025_pct": 3.68,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 21,
+      "municipio": "Maia",
+      "populacao_2025": 142129,
+      "variacao_2021_2025_pct": 4.16,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 22,
+      "municipio": "Setúbal",
+      "populacao_2025": 141266,
+      "variacao_2021_2025_pct": 10.37,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 23,
+      "municipio": "Barcelos",
+      "populacao_2025": 122487,
+      "variacao_2021_2025_pct": 5.8,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Cávado",
+      "regiao": "Norte"
+    },
+    {
+      "n": 24,
+      "municipio": "Funchal",
+      "populacao_2025": 113443,
+      "variacao_2021_2025_pct": 4.13,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 25,
+      "municipio": "Viseu",
+      "populacao_2025": 109166,
+      "variacao_2021_2025_pct": 8.53,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 26,
+      "municipio": "Valongo",
+      "populacao_2025": 98930,
+      "variacao_2021_2025_pct": 3.39,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 27,
+      "municipio": "Mafra",
+      "populacao_2025": 96146,
+      "variacao_2021_2025_pct": 9.39,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Grande Lisboa",
+      "regiao": "Grande Lisboa"
+    },
+    {
+      "n": 28,
+      "municipio": "Torres Vedras",
+      "populacao_2025": 94886,
+      "variacao_2021_2025_pct": 11.92,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 29,
+      "municipio": "Loulé",
+      "populacao_2025": 94447,
+      "variacao_2021_2025_pct": 16.34,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 30,
+      "municipio": "Viana do Castelo",
+      "populacao_2025": 92860,
+      "variacao_2021_2025_pct": 6.9,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 31,
+      "municipio": "Barreiro",
+      "populacao_2025": 91766,
+      "variacao_2021_2025_pct": 13.23,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 32,
+      "municipio": "Aveiro",
+      "populacao_2025": 91397,
+      "variacao_2021_2025_pct": 9.23,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 33,
+      "municipio": "Paredes",
+      "populacao_2025": 88858,
+      "variacao_2021_2025_pct": 5.3,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 34,
+      "municipio": "Vila do Conde",
+      "populacao_2025": 86245,
+      "variacao_2021_2025_pct": 5.52,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 35,
+      "municipio": "Faro",
+      "populacao_2025": 80256,
+      "variacao_2021_2025_pct": 9.94,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 36,
+      "municipio": "Moita",
+      "populacao_2025": 78541,
+      "variacao_2021_2025_pct": 15.28,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 37,
+      "municipio": "Portimão",
+      "populacao_2025": 78125,
+      "variacao_2021_2025_pct": 18.58,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 38,
+      "municipio": "Palmela",
+      "populacao_2025": 77044,
+      "variacao_2021_2025_pct": 13.44,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 39,
+      "municipio": "Póvoa de Varzim",
+      "populacao_2025": 72364,
+      "variacao_2021_2025_pct": 9.85,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 40,
+      "municipio": "Penafiel",
+      "populacao_2025": 71719,
+      "variacao_2021_2025_pct": 3.45,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 41,
+      "municipio": "Ponta Delgada",
+      "populacao_2025": 71695,
+      "variacao_2021_2025_pct": 2.4,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 42,
+      "municipio": "Oliveira de Azeméis",
+      "populacao_2025": 70027,
+      "variacao_2021_2025_pct": 4.65,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 43,
+      "municipio": "Santo Tirso",
+      "populacao_2025": 69810,
+      "variacao_2021_2025_pct": 3.02,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 44,
+      "municipio": "Santarém",
+      "populacao_2025": 69392,
+      "variacao_2021_2025_pct": 14.74,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 45,
+      "municipio": "Montijo",
+      "populacao_2025": 68064,
+      "variacao_2021_2025_pct": 18.51,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 46,
+      "municipio": "Figueira da Foz",
+      "populacao_2025": 65852,
+      "variacao_2021_2025_pct": 8.61,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 47,
+      "municipio": "Albufeira",
+      "populacao_2025": 63375,
+      "variacao_2021_2025_pct": 21.96,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 48,
+      "municipio": "Alcobaça",
+      "populacao_2025": 60881,
+      "variacao_2021_2025_pct": 9.49,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 49,
+      "municipio": "Sesimbra",
+      "populacao_2025": 59440,
+      "variacao_2021_2025_pct": 8.22,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 50,
+      "municipio": "Caldas da Rainha",
+      "populacao_2025": 58983,
+      "variacao_2021_2025_pct": 11.56,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 51,
+      "municipio": "Évora",
+      "populacao_2025": 58567,
+      "variacao_2021_2025_pct": 5.13,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 52,
+      "municipio": "Castelo Branco",
+      "populacao_2025": 58197,
+      "variacao_2021_2025_pct": 7.48,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 53,
+      "municipio": "Ovar",
+      "populacao_2025": 58091,
+      "variacao_2021_2025_pct": 4.5,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 54,
+      "municipio": "Paços de Ferreira",
+      "populacao_2025": 57467,
+      "variacao_2021_2025_pct": 4.38,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 55,
+      "municipio": "Felgueiras",
+      "populacao_2025": 57432,
+      "variacao_2021_2025_pct": 2.88,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 56,
+      "municipio": "Pombal",
+      "populacao_2025": 54992,
+      "variacao_2021_2025_pct": 7.06,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 57,
+      "municipio": "Vila Real",
+      "populacao_2025": 52964,
+      "variacao_2021_2025_pct": 6.35,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 58,
+      "municipio": "Amarante",
+      "populacao_2025": 52669,
+      "variacao_2021_2025_pct": 2.27,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 59,
+      "municipio": "Covilhã",
+      "populacao_2025": 51045,
+      "variacao_2021_2025_pct": 7.27,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 60,
+      "municipio": "Marco de Canaveses",
+      "populacao_2025": 50838,
+      "variacao_2021_2025_pct": 3.99,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 61,
+      "municipio": "Alenquer",
+      "populacao_2025": 50718,
+      "variacao_2021_2025_pct": 11.6,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 62,
+      "municipio": "Águeda",
+      "populacao_2025": 50635,
+      "variacao_2021_2025_pct": 7.13,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 63,
+      "municipio": "Lousada",
+      "populacao_2025": 50476,
+      "variacao_2021_2025_pct": 6.27,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 64,
+      "municipio": "Fafe",
+      "populacao_2025": 50392,
+      "variacao_2021_2025_pct": 4.65,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 65,
+      "municipio": "Vila Verde",
+      "populacao_2025": 49649,
+      "variacao_2021_2025_pct": 8.5,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Cávado",
+      "regiao": "Norte"
+    },
+    {
+      "n": 66,
+      "municipio": "Ourém",
+      "populacao_2025": 48834,
+      "variacao_2021_2025_pct": 10.98,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 67,
+      "municipio": "Olhão",
+      "populacao_2025": 48826,
+      "variacao_2021_2025_pct": 6.78,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 68,
+      "municipio": "Silves",
+      "populacao_2025": 45884,
+      "variacao_2021_2025_pct": 15.4,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 69,
+      "municipio": "Marinha Grande",
+      "populacao_2025": 45551,
+      "variacao_2021_2025_pct": 10.33,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 70,
+      "municipio": "Santa Cruz",
+      "populacao_2025": 44132,
+      "variacao_2021_2025_pct": 4.29,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 71,
+      "municipio": "Odemira",
+      "populacao_2025": 44043,
+      "variacao_2021_2025_pct": 21.81,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Alentejo Litoral",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 72,
+      "municipio": "Ílhavo",
+      "populacao_2025": 43297,
+      "variacao_2021_2025_pct": 8.95,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 73,
+      "municipio": "Ponte de Lima",
+      "populacao_2025": 42933,
+      "variacao_2021_2025_pct": 4.96,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 74,
+      "municipio": "Trofa",
+      "populacao_2025": 41512,
+      "variacao_2021_2025_pct": 6.61,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 75,
+      "municipio": "Lagos",
+      "populacao_2025": 40729,
+      "variacao_2021_2025_pct": 13.85,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 76,
+      "municipio": "Guarda",
+      "populacao_2025": 40687,
+      "variacao_2021_2025_pct": 2.05,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 77,
+      "municipio": "Beja",
+      "populacao_2025": 39627,
+      "variacao_2021_2025_pct": 11.74,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 78,
+      "municipio": "Esposende",
+      "populacao_2025": 39069,
+      "variacao_2021_2025_pct": 9.67,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Cávado",
+      "regiao": "Norte"
+    },
+    {
+      "n": 79,
+      "municipio": "Bragança",
+      "populacao_2025": 38309,
+      "variacao_2021_2025_pct": 8.59,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 80,
+      "municipio": "Chaves",
+      "populacao_2025": 38014,
+      "variacao_2021_2025_pct": 4.06,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Alto Tâmega",
+      "regiao": "Norte"
+    },
+    {
+      "n": 81,
+      "municipio": "Tomar",
+      "populacao_2025": 37971,
+      "variacao_2021_2025_pct": 4.38,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 82,
+      "municipio": "Torres Novas",
+      "populacao_2025": 36208,
+      "variacao_2021_2025_pct": 5.08,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 83,
+      "municipio": "Abrantes",
+      "populacao_2025": 36106,
+      "variacao_2021_2025_pct": 4.26,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 84,
+      "municipio": "Cantanhede",
+      "populacao_2025": 35779,
+      "variacao_2021_2025_pct": 4.82,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 85,
+      "municipio": "Angra do Heroísmo",
+      "populacao_2025": 34774,
+      "variacao_2021_2025_pct": 0.43,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 86,
+      "municipio": "Benavente",
+      "populacao_2025": 33923,
+      "variacao_2021_2025_pct": 11.52,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 87,
+      "municipio": "Tavira",
+      "populacao_2025": 33006,
+      "variacao_2021_2025_pct": 10.34,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 88,
+      "municipio": "Câmara de Lobos",
+      "populacao_2025": 32808,
+      "variacao_2021_2025_pct": 5.09,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 89,
+      "municipio": "Espinho",
+      "populacao_2025": 32455,
+      "variacao_2021_2025_pct": 2.57,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 90,
+      "municipio": "Ribeira Grande",
+      "populacao_2025": 32060,
+      "variacao_2021_2025_pct": 2.01,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 91,
+      "municipio": "Peniche",
+      "populacao_2025": 30262,
+      "variacao_2021_2025_pct": 8.06,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 92,
+      "municipio": "Santiago do Cacém",
+      "populacao_2025": 30226,
+      "variacao_2021_2025_pct": 6.66,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Alentejo Litoral",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 93,
+      "municipio": "Lourinhã",
+      "populacao_2025": 30056,
+      "variacao_2021_2025_pct": 11.4,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 94,
+      "municipio": "Anadia",
+      "populacao_2025": 29259,
+      "variacao_2021_2025_pct": 6.23,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 95,
+      "municipio": "Lagoa",
+      "populacao_2025": 28548,
+      "variacao_2021_2025_pct": 10.36,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 96,
+      "municipio": "Fundão",
+      "populacao_2025": 27745,
+      "variacao_2021_2025_pct": 5.81,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 97,
+      "municipio": "Estarreja",
+      "populacao_2025": 27746,
+      "variacao_2021_2025_pct": 5.58,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 98,
+      "municipio": "Tondela",
+      "populacao_2025": 26912,
+      "variacao_2021_2025_pct": 4.84,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 99,
+      "municipio": "Albergaria-a-Velha",
+      "populacao_2025": 26362,
+      "variacao_2021_2025_pct": 5.31,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 100,
+      "municipio": "Oliveira do Bairro",
+      "populacao_2025": 25698,
+      "variacao_2021_2025_pct": 8.89,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 101,
+      "municipio": "Vagos",
+      "populacao_2025": 25524,
+      "variacao_2021_2025_pct": 11.68,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 102,
+      "municipio": "Vizela",
+      "populacao_2025": 25437,
+      "variacao_2021_2025_pct": 4.79,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 103,
+      "municipio": "Cartaxo",
+      "populacao_2025": 25413,
+      "variacao_2021_2025_pct": 6.54,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 104,
+      "municipio": "Rio Maior",
+      "populacao_2025": 25412,
+      "variacao_2021_2025_pct": 15.6,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 105,
+      "municipio": "Montemor-o-Velho",
+      "populacao_2025": 25301,
+      "variacao_2021_2025_pct": 3.08,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 106,
+      "municipio": "Porto de Mós",
+      "populacao_2025": 25057,
+      "variacao_2021_2025_pct": 6.71,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 107,
+      "municipio": "Lamego",
+      "populacao_2025": 24768,
+      "variacao_2021_2025_pct": 2.81,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 108,
+      "municipio": "Entroncamento",
+      "populacao_2025": 24743,
+      "variacao_2021_2025_pct": 19.22,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 109,
+      "municipio": "Almeirim",
+      "populacao_2025": 24167,
+      "variacao_2021_2025_pct": 6.88,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 110,
+      "municipio": "Portalegre",
+      "populacao_2025": 24025,
+      "variacao_2021_2025_pct": 3.97,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 111,
+      "municipio": "São João da Madeira",
+      "populacao_2025": 23991,
+      "variacao_2021_2025_pct": 4.92,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 112,
+      "municipio": "Salvaterra de Magos",
+      "populacao_2025": 23952,
+      "variacao_2021_2025_pct": 9.53,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 113,
+      "municipio": "Azambuja",
+      "populacao_2025": 22755,
+      "variacao_2021_2025_pct": 7.53,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 114,
+      "municipio": "Póvoa de Lanhoso",
+      "populacao_2025": 22746,
+      "variacao_2021_2025_pct": 8.73,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 115,
+      "municipio": "Vila Real de Santo António",
+      "populacao_2025": 22349,
+      "variacao_2021_2025_pct": 8.92,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 116,
+      "municipio": "Vale de Cambra",
+      "populacao_2025": 22066,
+      "variacao_2021_2025_pct": 3.06,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 117,
+      "municipio": "Elvas",
+      "populacao_2025": 21929,
+      "variacao_2021_2025_pct": 2.5,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 118,
+      "municipio": "Mirandela",
+      "populacao_2025": 21761,
+      "variacao_2021_2025_pct": 2.17,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 119,
+      "municipio": "Seia",
+      "populacao_2025": 21597,
+      "variacao_2021_2025_pct": 0.24,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 120,
+      "municipio": "Arouca",
+      "populacao_2025": 21459,
+      "variacao_2021_2025_pct": 1.99,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Área Metropolitana do Porto",
+      "regiao": "Norte"
+    },
+    {
+      "n": 121,
+      "municipio": "Machico",
+      "populacao_2025": 20812,
+      "variacao_2021_2025_pct": 5.77,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 122,
+      "municipio": "Arcos de Valdevez",
+      "populacao_2025": 20450,
+      "variacao_2021_2025_pct": 2.87,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 123,
+      "municipio": "Alcochete",
+      "populacao_2025": 20407,
+      "variacao_2021_2025_pct": 6.15,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Península de Setúbal",
+      "regiao": "Península de Setúbal"
+    },
+    {
+      "n": 124,
+      "municipio": "Oliveira do Hospital",
+      "populacao_2025": 20047,
+      "variacao_2021_2025_pct": 3.38,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 125,
+      "municipio": "Mealhada",
+      "populacao_2025": 19948,
+      "variacao_2021_2025_pct": 3.15,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 126,
+      "municipio": "Vila da Praia da Vitória",
+      "populacao_2025": 19848,
+      "variacao_2021_2025_pct": 0.62,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 127,
+      "municipio": "Amares",
+      "populacao_2025": 19739,
+      "variacao_2021_2025_pct": 7.38,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Cávado",
+      "regiao": "Norte"
+    },
+    {
+      "n": 128,
+      "municipio": "Mangualde",
+      "populacao_2025": 19479,
+      "variacao_2021_2025_pct": 5.73,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 129,
+      "municipio": "Monção",
+      "populacao_2025": 18230,
+      "variacao_2021_2025_pct": 5.23,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 130,
+      "municipio": "Lousã",
+      "populacao_2025": 18143,
+      "variacao_2021_2025_pct": 6.17,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 131,
+      "municipio": "Coruche",
+      "populacao_2025": 17986,
+      "variacao_2021_2025_pct": 2.24,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 132,
+      "municipio": "Condeixa-a-Nova",
+      "populacao_2025": 17703,
+      "variacao_2021_2025_pct": 5.41,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 133,
+      "municipio": "Soure",
+      "populacao_2025": 17493,
+      "variacao_2021_2025_pct": 1.44,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 134,
+      "municipio": "Cinfães",
+      "populacao_2025": 17485,
+      "variacao_2021_2025_pct": 1.01,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 135,
+      "municipio": "Caminha",
+      "populacao_2025": 17173,
+      "variacao_2021_2025_pct": 6.19,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 136,
+      "municipio": "Nazaré",
+      "populacao_2025": 17067,
+      "variacao_2021_2025_pct": 8.71,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 137,
+      "municipio": "Batalha",
+      "populacao_2025": 17040,
+      "variacao_2021_2025_pct": 6.67,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 138,
+      "municipio": "Baião",
+      "populacao_2025": 16972,
+      "variacao_2021_2025_pct": 1.26,
+      "distrito_ra": "Porto",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 139,
+      "municipio": "Sines",
+      "populacao_2025": 16943,
+      "variacao_2021_2025_pct": 12.7,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Alentejo Litoral",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 140,
+      "municipio": "Montemor-o-Novo",
+      "populacao_2025": 16616,
+      "variacao_2021_2025_pct": 5.78,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 141,
+      "municipio": "Celorico de Basto",
+      "populacao_2025": 16260,
+      "variacao_2021_2025_pct": 0.07,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 142,
+      "municipio": "Arruda dos Vinhos",
+      "populacao_2025": 16018,
+      "variacao_2021_2025_pct": 7.69,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 143,
+      "municipio": "Castelo de Paiva",
+      "populacao_2025": 15875,
+      "variacao_2021_2025_pct": 2.69,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 144,
+      "municipio": "São Pedro do Sul",
+      "populacao_2025": 15867,
+      "variacao_2021_2025_pct": 5.63,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 145,
+      "municipio": "Ponte de Sor",
+      "populacao_2025": 15726,
+      "variacao_2021_2025_pct": 1.97,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 146,
+      "municipio": "Valença",
+      "populacao_2025": 15699,
+      "variacao_2021_2025_pct": 13.86,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 147,
+      "municipio": "Cabeceiras de Basto",
+      "populacao_2025": 15490,
+      "variacao_2021_2025_pct": 1.95,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 148,
+      "municipio": "Grândola",
+      "populacao_2025": 15319,
+      "variacao_2021_2025_pct": 10.87,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Alentejo Litoral",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 149,
+      "municipio": "Horta",
+      "populacao_2025": 15173,
+      "variacao_2021_2025_pct": 3.42,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 150,
+      "municipio": "Sertã",
+      "populacao_2025": 15081,
+      "variacao_2021_2025_pct": 5.59,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 151,
+      "municipio": "Lagoa (Açores)",
+      "populacao_2025": 14577,
+      "variacao_2021_2025_pct": 2.32,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 152,
+      "municipio": "Serpa",
+      "populacao_2025": 14428,
+      "variacao_2021_2025_pct": 3.02,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 153,
+      "municipio": "Peso da Régua",
+      "populacao_2025": 14421,
+      "variacao_2021_2025_pct": 1.56,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 154,
+      "municipio": "Bombarral",
+      "populacao_2025": 14366,
+      "variacao_2021_2025_pct": 12.81,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 155,
+      "municipio": "Cadaval",
+      "populacao_2025": 14280,
+      "variacao_2021_2025_pct": 9.27,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 156,
+      "municipio": "Valpaços",
+      "populacao_2025": 14247,
+      "variacao_2021_2025_pct": 0.27,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Alto Tâmega",
+      "regiao": "Norte"
+    },
+    {
+      "n": 157,
+      "municipio": "Nelas",
+      "populacao_2025": 13941,
+      "variacao_2021_2025_pct": 5.77,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 158,
+      "municipio": "Óbidos",
+      "populacao_2025": 13912,
+      "variacao_2021_2025_pct": 12.46,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 159,
+      "municipio": "Macedo de Cavaleiros",
+      "populacao_2025": 13846,
+      "variacao_2021_2025_pct": 0.54,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 160,
+      "municipio": "Moura",
+      "populacao_2025": 13615,
+      "variacao_2021_2025_pct": 0.52,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 161,
+      "municipio": "Castro Daire",
+      "populacao_2025": 13400,
+      "variacao_2021_2025_pct": 1.28,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 162,
+      "municipio": "Alcanena",
+      "populacao_2025": 13313,
+      "variacao_2021_2025_pct": 5.14,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 163,
+      "municipio": "Ribeira Brava",
+      "populacao_2025": 13172,
+      "variacao_2021_2025_pct": 5.2,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 164,
+      "municipio": "Penacova",
+      "populacao_2025": 13105,
+      "variacao_2021_2025_pct": 1,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 165,
+      "municipio": "Vendas Novas",
+      "populacao_2025": 12860,
+      "variacao_2021_2025_pct": 10.29,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 166,
+      "municipio": "Estremoz",
+      "populacao_2025": 12858,
+      "variacao_2021_2025_pct": 0.41,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 167,
+      "municipio": "Mira",
+      "populacao_2025": 12684,
+      "variacao_2021_2025_pct": 5.82,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 168,
+      "municipio": "Miranda do Corvo",
+      "populacao_2025": 12308,
+      "variacao_2021_2025_pct": 2.72,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 169,
+      "municipio": "São Brás de Alportel",
+      "populacao_2025": 12305,
+      "variacao_2021_2025_pct": 8.19,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 170,
+      "municipio": "Ansião",
+      "populacao_2025": 12251,
+      "variacao_2021_2025_pct": 5.83,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 171,
+      "municipio": "Gouveia",
+      "populacao_2025": 11963,
+      "variacao_2021_2025_pct": 0.86,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 172,
+      "municipio": "Alcácer do Sal",
+      "populacao_2025": 11961,
+      "variacao_2021_2025_pct": 3.43,
+      "distrito_ra": "Setúbal",
+      "sub_regiao": "Alentejo Litoral",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 173,
+      "municipio": "Sobral de Monte Agraço",
+      "populacao_2025": 11858,
+      "variacao_2021_2025_pct": 12.89,
+      "distrito_ra": "Lisboa",
+      "sub_regiao": "Oeste",
+      "regiao": "Centro"
+    },
+    {
+      "n": 174,
+      "municipio": "Sever do Vouga",
+      "populacao_2025": 11817,
+      "variacao_2021_2025_pct": 5.79,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 175,
+      "municipio": "Vila Pouca de Aguiar",
+      "populacao_2025": 11794,
+      "variacao_2021_2025_pct": 1.74,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Alto Tâmega",
+      "regiao": "Norte"
+    },
+    {
+      "n": 176,
+      "municipio": "Tábua",
+      "populacao_2025": 11670,
+      "variacao_2021_2025_pct": 5.67,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 177,
+      "municipio": "Vieira do Minho",
+      "populacao_2025": 11657,
+      "variacao_2021_2025_pct": 1.53,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 178,
+      "municipio": "Calheta",
+      "populacao_2025": 11611,
+      "variacao_2021_2025_pct": 9.17,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 179,
+      "municipio": "Arganil",
+      "populacao_2025": 11437,
+      "variacao_2021_2025_pct": 4.97,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 180,
+      "municipio": "Sátão",
+      "populacao_2025": 11295,
+      "variacao_2021_2025_pct": 4.79,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 181,
+      "municipio": "Santa Comba Dão",
+      "populacao_2025": 11140,
+      "variacao_2021_2025_pct": 5.04,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 182,
+      "municipio": "Ponte da Barca",
+      "populacao_2025": 11115,
+      "variacao_2021_2025_pct": 2.05,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 183,
+      "municipio": "Reguengos de Monsaraz",
+      "populacao_2025": 10599,
+      "variacao_2021_2025_pct": 4.13,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 184,
+      "municipio": "Oliveira de Frades",
+      "populacao_2025": 10502,
+      "variacao_2021_2025_pct": 8.29,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 185,
+      "municipio": "Murtosa",
+      "populacao_2025": 10393,
+      "variacao_2021_2025_pct": 3.98,
+      "distrito_ra": "Aveiro",
+      "sub_regiao": "Região de Aveiro",
+      "regiao": "Centro"
+    },
+    {
+      "n": 186,
+      "municipio": "Vila Franca do Campo",
+      "populacao_2025": 10181,
+      "variacao_2021_2025_pct": 0.39,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 187,
+      "municipio": "Alijó",
+      "populacao_2025": 10096,
+      "variacao_2021_2025_pct": 2.2,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 188,
+      "municipio": "Vila Nova de Cerveira",
+      "populacao_2025": 10051,
+      "variacao_2021_2025_pct": 10.18,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 189,
+      "municipio": "Moimenta da Beira",
+      "populacao_2025": 9893,
+      "variacao_2021_2025_pct": 7.04,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 190,
+      "municipio": "Vouzela",
+      "populacao_2025": 9668,
+      "variacao_2021_2025_pct": 2.47,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 191,
+      "municipio": "Ferreira do Alentejo",
+      "populacao_2025": 9625,
+      "variacao_2021_2025_pct": 17.21,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 192,
+      "municipio": "Carregal do Sal",
+      "populacao_2025": 9597,
+      "variacao_2021_2025_pct": 7.05,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 193,
+      "municipio": "Resende",
+      "populacao_2025": 9535,
+      "variacao_2021_2025_pct": 3.15,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Norte"
+    },
+    {
+      "n": 194,
+      "municipio": "Sabugal",
+      "populacao_2025": 9368,
+      "variacao_2021_2025_pct": 2.98,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 195,
+      "municipio": "Aljustrel",
+      "populacao_2025": 9319,
+      "variacao_2021_2025_pct": 5.5,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 196,
+      "municipio": "Mortágua",
+      "populacao_2025": 9185,
+      "variacao_2021_2025_pct": 3.39,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 197,
+      "municipio": "Ponta do Sol",
+      "populacao_2025": 8806,
+      "variacao_2021_2025_pct": 6.65,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 198,
+      "municipio": "Paredes de Coura",
+      "populacao_2025": 8721,
+      "variacao_2021_2025_pct": 2.23,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 199,
+      "municipio": "Chamusca",
+      "populacao_2025": 8673,
+      "variacao_2021_2025_pct": 2.19,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 200,
+      "municipio": "Montalegre",
+      "populacao_2025": 8662,
+      "variacao_2021_2025_pct": 1.62,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Alto Tâmega",
+      "regiao": "Norte"
+    },
+    {
+      "n": 201,
+      "municipio": "Idanha-a-Nova",
+      "populacao_2025": 8360,
+      "variacao_2021_2025_pct": 2.5,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 202,
+      "municipio": "Campo Maior",
+      "populacao_2025": 8264,
+      "variacao_2021_2025_pct": 0.25,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 203,
+      "municipio": "Ferreira do Zêzere",
+      "populacao_2025": 8113,
+      "variacao_2021_2025_pct": 5.8,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 204,
+      "municipio": "Mogadouro",
+      "populacao_2025": 8048,
+      "variacao_2021_2025_pct": 2.06,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 205,
+      "municipio": "Pinhel",
+      "populacao_2025": 8040,
+      "variacao_2021_2025_pct": 1.33,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 206,
+      "municipio": "Trancoso",
+      "populacao_2025": 8022,
+      "variacao_2021_2025_pct": 0.46,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 207,
+      "municipio": "Vila Nova da Barquinha",
+      "populacao_2025": 7742,
+      "variacao_2021_2025_pct": 8.93,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 208,
+      "municipio": "Alpiarça",
+      "populacao_2025": 7726,
+      "variacao_2021_2025_pct": 8.3,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 209,
+      "municipio": "Castro Marim",
+      "populacao_2025": 7570,
+      "variacao_2021_2025_pct": 11.32,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 210,
+      "municipio": "Vila Nova de Poiares",
+      "populacao_2025": 7507,
+      "variacao_2021_2025_pct": 8.83,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 211,
+      "municipio": "Aljezur",
+      "populacao_2025": 7456,
+      "variacao_2021_2025_pct": 17.86,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 212,
+      "municipio": "Tarouca",
+      "populacao_2025": 7448,
+      "variacao_2021_2025_pct": 6.01,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 213,
+      "municipio": "Vila Viçosa",
+      "populacao_2025": 7368,
+      "variacao_2021_2025_pct": 0.94,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 214,
+      "municipio": "Vinhais",
+      "populacao_2025": 7223,
+      "variacao_2021_2025_pct": 5.26,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 215,
+      "municipio": "Penalva do Castelo",
+      "populacao_2025": 7160,
+      "variacao_2021_2025_pct": 0.29,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 216,
+      "municipio": "Melgaço",
+      "populacao_2025": 7111,
+      "variacao_2021_2025_pct": 2.42,
+      "distrito_ra": "Viana do Castelo",
+      "sub_regiao": "Alto Minho",
+      "regiao": "Norte"
+    },
+    {
+      "n": 217,
+      "municipio": "Castro Verde",
+      "populacao_2025": 7096,
+      "variacao_2021_2025_pct": 3.52,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 218,
+      "municipio": "Vila do Bispo",
+      "populacao_2025": 7078,
+      "variacao_2021_2025_pct": 18.56,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 219,
+      "municipio": "Almodôvar",
+      "populacao_2025": 7033,
+      "variacao_2021_2025_pct": 4.21,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 220,
+      "municipio": "Proença-a-Nova",
+      "populacao_2025": 6960,
+      "variacao_2021_2025_pct": 1.07,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 221,
+      "municipio": "Porto Santo",
+      "populacao_2025": 6916,
+      "variacao_2021_2025_pct": 17.38,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 222,
+      "municipio": "Arraiolos",
+      "populacao_2025": 6857,
+      "variacao_2021_2025_pct": 3.72,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 223,
+      "municipio": "Madalena",
+      "populacao_2025": 6,
+      "variacao_2021_2025_pct": 7.65,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 224,
+      "municipio": "Santana",
+      "populacao_2025": 6643,
+      "variacao_2021_2025_pct": 3.75,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 225,
+      "municipio": "Celorico da Beira",
+      "populacao_2025": 6545,
+      "variacao_2021_2025_pct": 1.27,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 226,
+      "municipio": "Borba",
+      "populacao_2025": 6542,
+      "variacao_2021_2025_pct": 0.55,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 227,
+      "municipio": "Torre de Moncorvo",
+      "populacao_2025": 6507,
+      "variacao_2021_2025_pct": 2.91,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 228,
+      "municipio": "São João da Pesqueira",
+      "populacao_2025": 6458,
+      "variacao_2021_2025_pct": 1.1,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 229,
+      "municipio": "Redondo",
+      "populacao_2025": 6431,
+      "variacao_2021_2025_pct": 1.24,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 230,
+      "municipio": "Alvaiázere",
+      "populacao_2025": 6413,
+      "variacao_2021_2025_pct": 5.23,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 231,
+      "municipio": "Terras de Bouro",
+      "populacao_2025": 6366,
+      "variacao_2021_2025_pct": 0.24,
+      "distrito_ra": "Braga",
+      "sub_regiao": "Cávado",
+      "regiao": "Norte"
+    },
+    {
+      "n": 232,
+      "municipio": "Mação",
+      "populacao_2025": 6300,
+      "variacao_2021_2025_pct": 1.94,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 233,
+      "municipio": "Mondim de Basto",
+      "populacao_2025": 6252,
+      "variacao_2021_2025_pct": 0.71,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Ave",
+      "regiao": "Norte"
+    },
+    {
+      "n": 234,
+      "municipio": "Belmonte",
+      "populacao_2025": 6173,
+      "variacao_2021_2025_pct": 2.58,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 235,
+      "municipio": "Miranda do Douro",
+      "populacao_2025": 6065,
+      "variacao_2021_2025_pct": 2.73,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 236,
+      "municipio": "Santa Marta de Penaguião",
+      "populacao_2025": 6043,
+      "variacao_2021_2025_pct": 3.33,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 237,
+      "municipio": "Nisa",
+      "populacao_2025": 6008,
+      "variacao_2021_2025_pct": 1.3,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 238,
+      "municipio": "Mértola",
+      "populacao_2025": 5976,
+      "variacao_2021_2025_pct": 2.38,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 239,
+      "municipio": "Ribeira de Pena",
+      "populacao_2025": 5836,
+      "variacao_2021_2025_pct": 0.73,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Alto Tâmega",
+      "regiao": "Norte"
+    },
+    {
+      "n": 240,
+      "municipio": "Vila Nova de Foz Côa",
+      "populacao_2025": 5812,
+      "variacao_2021_2025_pct": 1.34,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 241,
+      "municipio": "Vila Flor",
+      "populacao_2025": 5773,
+      "variacao_2021_2025_pct": 0.64,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 242,
+      "municipio": "Penela",
+      "populacao_2025": 5730,
+      "variacao_2021_2025_pct": 7.06,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 243,
+      "municipio": "Portel",
+      "populacao_2025": 5694,
+      "variacao_2021_2025_pct": 0.38,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 244,
+      "municipio": "Golegã",
+      "populacao_2025": 5650,
+      "variacao_2021_2025_pct": 3.12,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Lezíria do Tejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 245,
+      "municipio": "Povoação",
+      "populacao_2025": 5640,
+      "variacao_2021_2025_pct": 2.37,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 246,
+      "municipio": "Monchique",
+      "populacao_2025": 5611,
+      "variacao_2021_2025_pct": 4.84,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 247,
+      "municipio": "Viana do Alentejo",
+      "populacao_2025": 5594,
+      "variacao_2021_2025_pct": 4.95,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 248,
+      "municipio": "Sabrosa",
+      "populacao_2025": 5576,
+      "variacao_2021_2025_pct": 1.25,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 249,
+      "municipio": "Almeida",
+      "populacao_2025": 5551,
+      "variacao_2021_2025_pct": 1.6,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 250,
+      "municipio": "Armamar",
+      "populacao_2025": 5545,
+      "variacao_2021_2025_pct": 3.61,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 251,
+      "municipio": "Vila do Porto",
+      "populacao_2025": 5544,
+      "variacao_2021_2025_pct": 1.67,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 252,
+      "municipio": "Vidigueira",
+      "populacao_2025": 5513,
+      "variacao_2021_2025_pct": 3.92,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 253,
+      "municipio": "Figueiró dos Vinhos",
+      "populacao_2025": 5421,
+      "variacao_2021_2025_pct": 1.78,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 254,
+      "municipio": "Carrazeda de Ansiães",
+      "populacao_2025": 5226,
+      "variacao_2021_2025_pct": 1.28,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 255,
+      "municipio": "Ourique",
+      "populacao_2025": 5129,
+      "variacao_2021_2025_pct": 4.41,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 256,
+      "municipio": "Velas",
+      "populacao_2025": 5103,
+      "variacao_2021_2025_pct": 2.02,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 257,
+      "municipio": "Murça",
+      "populacao_2025": 5100,
+      "variacao_2021_2025_pct": 2.71,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 258,
+      "municipio": "São Vicente",
+      "populacao_2025": 5027,
+      "variacao_2021_2025_pct": 7.19,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 259,
+      "municipio": "Alandroal",
+      "populacao_2025": 4989,
+      "variacao_2021_2025_pct": 0.36,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 260,
+      "municipio": "Sernancelhe",
+      "populacao_2025": 4949,
+      "variacao_2021_2025_pct": 4.28,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 261,
+      "municipio": "Aguiar da Beira",
+      "populacao_2025": 4898,
+      "variacao_2021_2025_pct": 0.6,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 262,
+      "municipio": "Figueira de Castelo Rodrigo",
+      "populacao_2025": 4859,
+      "variacao_2021_2025_pct": 4.01,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 263,
+      "municipio": "Boticas",
+      "populacao_2025": 4811,
+      "variacao_2021_2025_pct": 0.73,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Alto Tâmega",
+      "regiao": "Norte"
+    },
+    {
+      "n": 264,
+      "municipio": "Cuba",
+      "populacao_2025": 4640,
+      "variacao_2021_2025_pct": 3.41,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 265,
+      "municipio": "Lajes do Pico",
+      "populacao_2025": 4575,
+      "variacao_2021_2025_pct": 3.37,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 266,
+      "municipio": "Tabuaço",
+      "populacao_2025": 4516,
+      "variacao_2021_2025_pct": 1.85,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 267,
+      "municipio": "Oleiros",
+      "populacao_2025": 4511,
+      "variacao_2021_2025_pct": 1.51,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 268,
+      "municipio": "Sousel",
+      "populacao_2025": 4506,
+      "variacao_2021_2025_pct": 2.34,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 269,
+      "municipio": "Vila Nova de Paiva",
+      "populacao_2025": 4405,
+      "variacao_2021_2025_pct": 4.19,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Viseu Dão-Lafões",
+      "regiao": "Centro"
+    },
+    {
+      "n": 270,
+      "municipio": "Nordeste",
+      "populacao_2025": 4404,
+      "variacao_2021_2025_pct": 0.05,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 271,
+      "municipio": "Mêda",
+      "populacao_2025": 4364,
+      "variacao_2021_2025_pct": 2.15,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 272,
+      "municipio": "Penamacor",
+      "populacao_2025": 4362,
+      "variacao_2021_2025_pct": 0.86,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 273,
+      "municipio": "Alfândega da Fé",
+      "populacao_2025": 4210,
+      "variacao_2021_2025_pct": 5.48,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 274,
+      "municipio": "Fornos de Algodres",
+      "populacao_2025": 4159,
+      "variacao_2021_2025_pct": 0.14,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 275,
+      "municipio": "Mora",
+      "populacao_2025": 4143,
+      "variacao_2021_2025_pct": 0.27,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 276,
+      "municipio": "Santa Cruz da Graciosa",
+      "populacao_2025": 4074,
+      "variacao_2021_2025_pct": 1.38,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 277,
+      "municipio": "Constância",
+      "populacao_2025": 4048,
+      "variacao_2021_2025_pct": 5.28,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 278,
+      "municipio": "Góis",
+      "populacao_2025": 3820,
+      "variacao_2021_2025_pct": 3.13,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 279,
+      "municipio": "Pedrógão Grande",
+      "populacao_2025": 3739,
+      "variacao_2021_2025_pct": 8.35,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 280,
+      "municipio": "Vimioso",
+      "populacao_2025": 3716,
+      "variacao_2021_2025_pct": 4.35,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "regiao": "Norte"
+    },
+    {
+      "n": 281,
+      "municipio": "Sardoal",
+      "populacao_2025": 3689,
+      "variacao_2021_2025_pct": 4,
+      "distrito_ra": "Santarém",
+      "sub_regiao": "Médio Tejo",
+      "regiao": "Centro"
+    },
+    {
+      "n": 282,
+      "municipio": "Avis",
+      "populacao_2025": 3661,
+      "variacao_2021_2025_pct": 2.14,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 283,
+      "municipio": "São Roque do Pico",
+      "populacao_2025": 3554,
+      "variacao_2021_2025_pct": 7.11,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 284,
+      "municipio": "Calheta (Açores)",
+      "populacao_2025": 3445,
+      "variacao_2021_2025_pct": 0.81,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 285,
+      "municipio": "Vila Velha de Ródão",
+      "populacao_2025": 3418,
+      "variacao_2021_2025_pct": 10.65,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 286,
+      "municipio": "Mesão Frio",
+      "populacao_2025": 3381,
+      "variacao_2021_2025_pct": 4.92,
+      "distrito_ra": "Vila Real",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 287,
+      "municipio": "Crato",
+      "populacao_2025": 3318,
+      "variacao_2021_2025_pct": 3.3,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 288,
+      "municipio": "Pampilhosa da Serra",
+      "populacao_2025": 3304,
+      "variacao_2021_2025_pct": 2.02,
+      "distrito_ra": "Coimbra",
+      "sub_regiao": "Região de Coimbra",
+      "regiao": "Centro"
+    },
+    {
+      "n": 289,
+      "municipio": "Gavião",
+      "populacao_2025": 3250,
+      "variacao_2021_2025_pct": 3.65,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 290,
+      "municipio": "Vila de Rei",
+      "populacao_2025": 3229,
+      "variacao_2021_2025_pct": 5.59,
+      "distrito_ra": "Castelo Branco",
+      "sub_regiao": "Beira Baixa",
+      "regiao": "Centro"
+    },
+    {
+      "n": 291,
+      "municipio": "Alter do Chão",
+      "populacao_2025": 3194,
+      "variacao_2021_2025_pct": 4.07,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 292,
+      "municipio": "Castelo de Vide",
+      "populacao_2025": 3022,
+      "variacao_2021_2025_pct": 0.94,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 293,
+      "municipio": "Freixo de Espada à Cinta",
+      "populacao_2025": 2958,
+      "variacao_2021_2025_pct": 5.62,
+      "distrito_ra": "Bragança",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 294,
+      "municipio": "Manteigas",
+      "populacao_2025": 2958,
+      "variacao_2021_2025_pct": 1.89,
+      "distrito_ra": "Guarda",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "regiao": "Centro"
+    },
+    {
+      "n": 295,
+      "municipio": "Fronteira",
+      "populacao_2025": 2957,
+      "variacao_2021_2025_pct": 0.72,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 296,
+      "municipio": "Marvão",
+      "populacao_2025": 2908,
+      "variacao_2021_2025_pct": 2.38,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 297,
+      "municipio": "Monforte",
+      "populacao_2025": 2876,
+      "variacao_2021_2025_pct": 1.84,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 298,
+      "municipio": "Arronches",
+      "populacao_2025": 2841,
+      "variacao_2021_2025_pct": 3.99,
+      "distrito_ra": "Portalegre",
+      "sub_regiao": "Alto Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 299,
+      "municipio": "Porto Moniz",
+      "populacao_2025": 2760,
+      "variacao_2021_2025_pct": 7.43,
+      "distrito_ra": "Madeira",
+      "sub_regiao": "Madeira",
+      "regiao": "Madeira"
+    },
+    {
+      "n": 300,
+      "municipio": "Castanheira de Pera",
+      "populacao_2025": 2747,
+      "variacao_2021_2025_pct": 3.43,
+      "distrito_ra": "Leiria",
+      "sub_regiao": "Região de Leiria",
+      "regiao": "Centro"
+    },
+    {
+      "n": 301,
+      "municipio": "Mourão",
+      "populacao_2025": 2524,
+      "variacao_2021_2025_pct": 1.53,
+      "distrito_ra": "Évora",
+      "sub_regiao": "Alentejo Central",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 302,
+      "municipio": "Penedono",
+      "populacao_2025": 2506,
+      "variacao_2021_2025_pct": 1.58,
+      "distrito_ra": "Viseu",
+      "sub_regiao": "Douro",
+      "regiao": "Norte"
+    },
+    {
+      "n": 303,
+      "municipio": "Alcoutim",
+      "populacao_2025": 2467,
+      "variacao_2021_2025_pct": 1.95,
+      "distrito_ra": "Faro",
+      "sub_regiao": "Algarve",
+      "regiao": "Algarve"
+    },
+    {
+      "n": 304,
+      "municipio": "Alvito",
+      "populacao_2025": 2353,
+      "variacao_2021_2025_pct": 4.67,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 305,
+      "municipio": "Santa Cruz das Flores",
+      "populacao_2025": 1980,
+      "variacao_2021_2025_pct": 3.18,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 306,
+      "municipio": "Lajes das Flores",
+      "populacao_2025": 1417,
+      "variacao_2021_2025_pct": 3.2,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    },
+    {
+      "n": 307,
+      "municipio": "Barrancos",
+      "populacao_2025": 1413,
+      "variacao_2021_2025_pct": 3.29,
+      "distrito_ra": "Beja",
+      "sub_regiao": "Baixo Alentejo",
+      "regiao": "Alentejo"
+    },
+    {
+      "n": 308,
+      "municipio": "Corvo",
+      "populacao_2025": 434,
+      "variacao_2021_2025_pct": 8.23,
+      "distrito_ra": "Açores",
+      "sub_regiao": "Açores",
+      "regiao": "Açores"
+    }
+  ],
+  "meta": {
+    "title": "Municípios de Portugal por população - Free Download",
+    "description": "Os 308 municípios portugueses ordenados por população (estimativa 2025), com variação desde os Censos 2021, distrito, sub-região e região. Contains 308 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Municípios de Portugal por população | ListBase",
+    "seo_description": "Download Municípios de Portugal por população — 308 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 308 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_municípios_de_Portugal_por_população"
+    ]
+  }
+}
