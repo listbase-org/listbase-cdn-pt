@@ -1,0 +1,872 @@
+{
+  "id": "pt-palavras-origem-arabe",
+  "name": "Palavras portuguesas de origem árabe",
+  "title": "Palavras portuguesas de origem árabe",
+  "description": "Lista de palavras da língua portuguesa de origem árabe, com a palavra árabe original, transliteração e significado.",
+  "category": "language",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_palavras_portuguesas_de_origem_árabe",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_palavras_portuguesas_de_origem_árabe",
+  "updated": "2026-10",
+  "record_count": 209,
+  "columns": [
+    {
+      "key": "palavra",
+      "label": "Palavra",
+      "type": "string"
+    },
+    {
+      "key": "origem_arabe",
+      "label": "Origem Arabe",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "palavra": "Açafate",
+      "origem_arabe": "السَفَط as-safat; cesta"
+    },
+    {
+      "palavra": "Açafrão",
+      "origem_arabe": "اَلزَّعْفَرَان az-zafaran, amarelo"
+    },
+    {
+      "palavra": "Acéquia",
+      "origem_arabe": "السَّاقِيَة as-sekyah, ribeiro de rega"
+    },
+    {
+      "palavra": "Achacar, achaque",
+      "origem_arabe": "الشَّكو ash-shakar ou الشّكاة ash-shakaa, enfermidade"
+    },
+    {
+      "palavra": "Acictifradee",
+      "origem_arabe": "الشوكة ash-shukat, espinho"
+    },
+    {
+      "palavra": "Açoitecada",
+      "origem_arabe": "as-saut"
+    },
+    {
+      "palavra": "Açorda",
+      "origem_arabe": "الثُّرْدَة ath-thurda, sopa de pão"
+    },
+    {
+      "palavra": "Açoteia",
+      "origem_arabe": "السُّطَيْحَة as-sutaiha nome diminutivo de السطح superfície"
+    },
+    {
+      "palavra": "Açougue",
+      "origem_arabe": "السُّوْق as-suk, mercado"
+    },
+    {
+      "palavra": "Açucena",
+      "origem_arabe": "السُّوْسَنَة as-susana, lírio"
+    },
+    {
+      "palavra": "Açude",
+      "origem_arabe": "السَّد as-sudd, barragem"
+    },
+    {
+      "palavra": "Açúcar",
+      "origem_arabe": "السُّكَّر as-sukkar, açúcar"
+    },
+    {
+      "palavra": "Adarga",
+      "origem_arabe": "الدَرْقَة ad-darqa, escudo"
+    },
+    {
+      "palavra": "Aduana",
+      "origem_arabe": "الدّيْوَان ad-dwana"
+    },
+    {
+      "palavra": "Agi",
+      "origem_arabe": "حاج hajji, peregrino que faz o haje, peregrinação a Meca"
+    },
+    {
+      "palavra": "Alá",
+      "origem_arabe": "الله al-lah, Deus"
+    },
+    {
+      "palavra": "Alabão",
+      "origem_arabe": "اللبّان al-labban, que dá muito leite"
+    },
+    {
+      "palavra": "Alambique",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alarife",
+      "origem_arabe": "العَريف al-arif, sábio, mestre de obras"
+    },
+    {
+      "palavra": "Alarve",
+      "origem_arabe": "العرب al-'arab, os árabes beduínos"
+    },
+    {
+      "palavra": "Alaúde",
+      "origem_arabe": "العَود al-'oud, a madeira"
+    },
+    {
+      "palavra": "Alazão:",
+      "origem_arabe": "الحِسان al-Hiçân: cavalo"
+    },
+    {
+      "palavra": "Albarda",
+      "origem_arabe": "البَرْدَعة al-barda'a"
+    },
+    {
+      "palavra": "Albardar",
+      "origem_arabe": "البَرْدَعة al-barda'a"
+    },
+    {
+      "palavra": "Albatroz",
+      "origem_arabe": "الغطاس al-ghattas, o mergulhador"
+    },
+    {
+      "palavra": "Albornoz",
+      "origem_arabe": "al-burnus, capa usada pelos Berberes"
+    },
+    {
+      "palavra": "Alcácer",
+      "origem_arabe": "القَصَر Fortaleza"
+    },
+    {
+      "palavra": "Alcáçova",
+      "origem_arabe": "القَصَبة al-kasaba, a zona administrativa de um castelo"
+    },
+    {
+      "palavra": "Alcachofra",
+      "origem_arabe": "الخَرشوف al-kharshof, fruto do cardo manso"
+    },
+    {
+      "palavra": "Alcaide",
+      "origem_arabe": "القائِد al-qaid, chefe"
+    },
+    {
+      "palavra": "Alcaidaria",
+      "origem_arabe": "al-qaid, chefe"
+    },
+    {
+      "palavra": "Alcaiote",
+      "origem_arabe": "القوّاد alkawwad"
+    },
+    {
+      "palavra": "Alcaloide",
+      "origem_arabe": "palavra composta: Árab. alcali + Grego eîdos, forma"
+    },
+    {
+      "palavra": "Alcaravia",
+      "origem_arabe": "الكروياء al-karawiya"
+    },
+    {
+      "palavra": "Alcaraviz",
+      "origem_arabe": "al-karabís"
+    },
+    {
+      "palavra": "Alcaria",
+      "origem_arabe": "القَرية pequeno povoado ou lugar de guarda das alfaias"
+    },
+    {
+      "palavra": "Alcateia",
+      "origem_arabe": "al-kataia, rebanho"
+    },
+    {
+      "palavra": "Alcatifa",
+      "origem_arabe": "al-katifa"
+    },
+    {
+      "palavra": "Alcatruz",
+      "origem_arabe": "al-kadus palavra composta: Árab. al + Grego kádos, jarro para água ou vinho"
+    },
+    {
+      "palavra": "Alcaparra",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alcavala",
+      "origem_arabe": "al-kabala, tributo"
+    },
+    {
+      "palavra": "Alcofa",
+      "origem_arabe": "القُفة al-quffa, cesto"
+    },
+    {
+      "palavra": "Alcorão",
+      "origem_arabe": "القرآن Al-kuran, a leitura"
+    },
+    {
+      "palavra": "Alcova",
+      "origem_arabe": "القُبة al-qubba, a cúpula"
+    },
+    {
+      "palavra": "Alcunha:",
+      "origem_arabe": "لكُنية al-kunia - Alcunha"
+    },
+    {
+      "palavra": "Aldeia",
+      "origem_arabe": "الضيعة Al-daiá, povoação"
+    },
+    {
+      "palavra": "Alecrim",
+      "origem_arabe": "al-iklil"
+    },
+    {
+      "palavra": "Aletria",
+      "origem_arabe": "alitríya"
+    },
+    {
+      "palavra": "Alface: الخَس al-khaç",
+      "origem_arabe": "veio a substituir o latim lactuca, leitosa, leituça, leituga, que por sua vez, derivou o francês laitue, o esp. lechuga, o it. lattuga e o ing. lettuce"
+    },
+    {
+      "palavra": "Alfafa al-Hâfa",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfaia",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfaiate",
+      "origem_arabe": "الخياط al-khayyât"
+    },
+    {
+      "palavra": "Alfândega",
+      "origem_arabe": "الفندقة al-fandaqa de nome فندق funduq"
+    },
+    {
+      "palavra": "Alfange (al-Hanx) serpente",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfaraz (الفرس al-faras) cavalo ou égua",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfarela",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfarrábio",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfarrabista: do nome do filósofo muçulmano al-Fârâbî, que possuía e lia muitos livros",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfarroba",
+      "origem_arabe": "al-Kharrub, fruto e árvore"
+    },
+    {
+      "palavra": "Alfarrobeira",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfavaca: الحباقة al-habâqa vaso onde se semeia a planta الحبق al-habaq",
+      "origem_arabe": "manjericão"
+    },
+    {
+      "palavra": "Alfazema: al-khuzâma",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfeire",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alferes",
+      "origem_arabe": "الفارس al-faris, cavaleiro"
+    },
+    {
+      "palavra": "Alfinete",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alfobre",
+      "origem_arabe": "al-hufra, rego?"
+    },
+    {
+      "palavra": "Alforge",
+      "origem_arabe": "al-hurj, sacola"
+    },
+    {
+      "palavra": "Alforria",
+      "origem_arabe": "الحرية al-hurriya (a liberdade"
+    },
+    {
+      "palavra": "Algarismo",
+      "origem_arabe": "الخوارزمي al-kawarizmi, nome do matemático árabe Abu Ibn Muça"
+    },
+    {
+      "palavra": "Algarve",
+      "origem_arabe": "الغرب Al-garb, a parte ocidental ou poente"
+    },
+    {
+      "palavra": "Álgebra",
+      "origem_arabe": "الجبر"
+    },
+    {
+      "palavra": "Algema",
+      "origem_arabe": "al-jami'a, pulseira"
+    },
+    {
+      "palavra": "Algeroz",
+      "origem_arabe": "az-zurub ???, canal, ou al-kharruj, aquele que faz sair"
+    },
+    {
+      "palavra": "Algibeira",
+      "origem_arabe": "al-jabîra, bolso"
+    },
+    {
+      "palavra": "Algodão",
+      "origem_arabe": "القطن al-kutun"
+    },
+    {
+      "palavra": "Algodoeiro",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Algoritmo",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alguidar",
+      "origem_arabe": "al-qidr, escudela de barro"
+    },
+    {
+      "palavra": "Algoz",
+      "origem_arabe": "al-gozz, membro de uma tribo que recrutava carrascos"
+    },
+    {
+      "palavra": "Alicate",
+      "origem_arabe": "al-likkát, tenaz"
+    },
+    {
+      "palavra": "Alidade",
+      "origem_arabe": "al-'idada, objecto usado na astronomia"
+    },
+    {
+      "palavra": "Alizarina",
+      "origem_arabe": "al-usara, o suco, corante da raiz de Rubia tinctorum"
+    },
+    {
+      "palavra": "Aljama",
+      "origem_arabe": "al-jamaa, reunião"
+    },
+    {
+      "palavra": "Aljava",
+      "origem_arabe": "al-jaba"
+    },
+    {
+      "palavra": "Almadrava",
+      "origem_arabe": "al-madraba"
+    },
+    {
+      "palavra": "Almanaque",
+      "origem_arabe": "المَناخ al-manakh"
+    },
+    {
+      "palavra": "Almedina",
+      "origem_arabe": "المَدينة al-madina, a cidade"
+    },
+    {
+      "palavra": "Almirante",
+      "origem_arabe": "أمير البحر amir-al-bahr, chefe do mar"
+    },
+    {
+      "palavra": "Califado Almóada Estado mouro que existiu entre 1145 e 1260 no Magrebe e o al-Andalus",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Almocreve",
+      "origem_arabe": "al-mukari, alugar bestas"
+    },
+    {
+      "palavra": "Almofada",
+      "origem_arabe": "المخدة al-mukhadda de khadd, face"
+    },
+    {
+      "palavra": "Almofariz",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Almofate",
+      "origem_arabe": "al-mikhyat, agulha, sovela"
+    },
+    {
+      "palavra": "Almofre",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Almogávar",
+      "origem_arabe": "المغوار al-mugauar, guerreiro"
+    },
+    {
+      "palavra": "Almôndega",
+      "origem_arabe": "البندقة al-bundeca, avelã?) tipo de papa preparada a base de cereais que se comia misturada com gordura (azeite ou manteiga"
+    },
+    {
+      "palavra": "Almorávida",
+      "origem_arabe": "المرابط al-murabit"
+    },
+    {
+      "palavra": "Almotacé",
+      "origem_arabe": "المُحْتَسِب al-muhtasib, mestre de aferição"
+    },
+    {
+      "palavra": "Almotolia",
+      "origem_arabe": "al-mutli"
+    },
+    {
+      "palavra": "Almoxarifado",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Almoxarife",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Almude: unidade de peso",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alperce: damasco grande de cheiro semelhante ao do pêssego",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alqueire",
+      "origem_arabe": "الكَيل al-keil, unidade de peso para cereais"
+    },
+    {
+      "palavra": "Alqueive",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alquimia",
+      "origem_arabe": "الكيمياء al-kymiya"
+    },
+    {
+      "palavra": "Alvanel",
+      "origem_arabe": "البَنّاء al-bannâ', pedreiro; cf. alvenaria"
+    },
+    {
+      "palavra": "Alvará",
+      "origem_arabe": "البراءة al-barã'a, carta de autorização"
+    },
+    {
+      "palavra": "Alvazil",
+      "origem_arabe": "الوَزير al-wazîr, ministro"
+    },
+    {
+      "palavra": "Alveitar: vetenerário",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alvitana",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alvíssaras",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Alvorge",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Armazém",
+      "origem_arabe": "المَخْزَن al-Makhzan"
+    },
+    {
+      "palavra": "Arrábida",
+      "origem_arabe": "(الرباط ar-ribat, local de oração"
+    },
+    {
+      "palavra": "Arrátel: ar-ritl unidade de peso",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Arroba unidade de peso",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Arroz: ar-ruz",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Arsenal tarsãna",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Assassino de Hassassino ou Haxixe",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Atafal",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Atafona: moinho",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Atalaia:",
+      "origem_arabe": "الطّلاية aṭ-ṭalâya, torre de vigia localizada, fora das localidades, num sítio alto"
+    },
+    {
+      "palavra": "Auge: أوج auj'",
+      "origem_arabe": "o topo"
+    },
+    {
+      "palavra": "Azar:",
+      "origem_arabe": "الزّهر az-zahar, sorte"
+    },
+    {
+      "palavra": "Azeite:",
+      "origem_arabe": "الزَّيت az-zayt, substitui óleo, óleo de oliva"
+    },
+    {
+      "palavra": "Azeitona الزَّيْتُون",
+      "origem_arabe": "substitui o latim oliva"
+    },
+    {
+      "palavra": "Azemel:quem aluga os animais de carga",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Azémola: animal de carga",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Azimute",
+      "origem_arabe": "as-sumût, a marcação em graus da posição de um astro no horizonte, medido do polo ao equador"
+    },
+    {
+      "palavra": "Azenha: moinho movido por água",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Azinhaga",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Azul",
+      "origem_arabe": "az-zaward, empréstimo árabe do persa ljward, do latim lapis lazuli, a pedra lazurita"
+    },
+    {
+      "palavra": "Azulejo",
+      "origem_arabe": "الزليج az-zuleij, pedra pintada"
+    },
+    {
+      "palavra": "Bolota",
+      "origem_arabe": "بلوطة balūta, carvalho"
+    },
+    {
+      "palavra": "Cenoura",
+      "origem_arabe": "safunnárya, do arabe toto é o avsjsj mozarabe"
+    },
+    {
+      "palavra": "Chavalo",
+      "origem_arabe": "xabâb, jovem, mancebo"
+    },
+    {
+      "palavra": "Chafariz",
+      "origem_arabe": "صهريج sihrij, tanque"
+    },
+    {
+      "palavra": "Damasco",
+      "origem_arabe": "Dimashq, دِمَشْق"
+    },
+    {
+      "palavra": "Elixir",
+      "origem_arabe": "' al-Axir'"
+    },
+    {
+      "palavra": "Emir",
+      "origem_arabe": "' Amir'"
+    },
+    {
+      "palavra": "Emirato",
+      "origem_arabe": "Emirado"
+    },
+    {
+      "palavra": "Enxaqueca",
+      "origem_arabe": "' ax-xaqîqa', meia cabeça"
+    },
+    {
+      "palavra": "Escabeche",
+      "origem_arabe": "' Sikbaj'"
+    },
+    {
+      "palavra": "Esmeralda",
+      "origem_arabe": "zumúrrud"
+    },
+    {
+      "palavra": "Falua",
+      "origem_arabe": "faluka"
+    },
+    {
+      "palavra": "Fatímida antr. Fátima (filha única de Maomé, morta em Meca em 633) + –ida",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Fulano",
+      "origem_arabe": "Flan"
+    },
+    {
+      "palavra": "Garrafa",
+      "origem_arabe": "karafâ, frasco bojudo"
+    },
+    {
+      "palavra": "Girafa",
+      "origem_arabe": "zarafat"
+    },
+    {
+      "palavra": "Gergelim",
+      "origem_arabe": "al-jijlin"
+    },
+    {
+      "palavra": "Harém",
+      "origem_arabe": "' Harim'"
+    },
+    {
+      "palavra": "Haxixe",
+      "origem_arabe": "' Hashish'; maconha"
+    },
+    {
+      "palavra": "Hacominago",
+      "origem_arabe": "' Hacomanago'; olho"
+    },
+    {
+      "palavra": "Imã",
+      "origem_arabe": "imam, guia"
+    },
+    {
+      "palavra": "Islão",
+      "origem_arabe": "Islã, Islame"
+    },
+    {
+      "palavra": "Jaca",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Jacu",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Jarra",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Javali",
+      "origem_arabe": "jabali"
+    },
+    {
+      "palavra": "jasmim",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Laranja",
+      "origem_arabe": "naranj deriva do Persa naräng"
+    },
+    {
+      "palavra": "Laranjeira",
+      "origem_arabe": "naranj deriva do Persa naräng"
+    },
+    {
+      "palavra": "Lezíria",
+      "origem_arabe": "al-jaza'ir, ilhas"
+    },
+    {
+      "palavra": "Limão",
+      "origem_arabe": "laimun deriva do Persa limun"
+    },
+    {
+      "palavra": "Limoeiro",
+      "origem_arabe": "laimun deriva do Persa limun"
+    },
+    {
+      "palavra": "Madraçal",
+      "origem_arabe": "madrasa, escola"
+    },
+    {
+      "palavra": "Magazine",
+      "origem_arabe": "al-gacini"
+    },
+    {
+      "palavra": "Marabuto: Murâbit santo que se dedica ao ribât i.é à guerra santa ou à vida religiosa dentro de um ribât",
+      "origem_arabe": "local de meditação religiosa ou de fronteira para proteger as terras do Islão"
+    },
+    {
+      "palavra": "Masmorra",
+      "origem_arabe": "matmura, celeiro subterrâneo"
+    },
+    {
+      "palavra": "Matraca",
+      "origem_arabe": "mitraka, martelo de madeira"
+    },
+    {
+      "palavra": "Mesquita",
+      "origem_arabe": "masdjid"
+    },
+    {
+      "palavra": "Moçárabe",
+      "origem_arabe": "must'rib, arabizado"
+    },
+    {
+      "palavra": "Mudéjar",
+      "origem_arabe": "mudajjan, o que fica morando"
+    },
+    {
+      "palavra": "Muezim Muazzin responsável pelos chamamentos às orações canônicas.",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Maomé",
+      "origem_arabe": "original: Muhammad. Também Maomet. Outrora: Maomede, Mafoma, Mafamede"
+    },
+    {
+      "palavra": "Muladi: muallad: cristão da Península ibérica convertido ao Islão",
+      "origem_arabe": "malado"
+    },
+    {
+      "palavra": "Nadir",
+      "origem_arabe": "natir, oposto, projeção na esfera celeste inferior"
+    },
+    {
+      "palavra": "Nora",
+      "origem_arabe": "na'ûra"
+    },
+    {
+      "palavra": "Omíada",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Oxalá",
+      "origem_arabe": "in sha allah ou inshallah, se Deus quiser"
+    },
+    {
+      "palavra": "Papagaio",
+      "origem_arabe": "origem: babaghā' ببغاء"
+    },
+    {
+      "palavra": "Resma",
+      "origem_arabe": "rizma, pilha de papel"
+    },
+    {
+      "palavra": "Sáfaro",
+      "origem_arabe": "sahra', deserto"
+    },
+    {
+      "palavra": "Safra",
+      "origem_arabe": "safaria, estação da colheita"
+    },
+    {
+      "palavra": "Salamaleque",
+      "origem_arabe": "as-salam-alaik, a paz seja contigo"
+    },
+    {
+      "palavra": "Saloio",
+      "origem_arabe": "çahroi, do campo"
+    },
+    {
+      "palavra": "Sofá",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Sorvete",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Sultanato",
+      "origem_arabe": "sultan, domínio, dominador"
+    },
+    {
+      "palavra": "Sultão",
+      "origem_arabe": "sultan, domínio, dominador"
+    },
+    {
+      "palavra": "Sura",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Salada",
+      "origem_arabe": "salata"
+    },
+    {
+      "palavra": "Talco",
+      "origem_arabe": "deriva do Árabe talq, “gesso, amianto”"
+    },
+    {
+      "palavra": "Tambor",
+      "origem_arabe": "tanbur deriva do Persa dänbära, cítara"
+    },
+    {
+      "palavra": "Tapete",
+      "origem_arabe": ""
+    },
+    {
+      "palavra": "Tâmara",
+      "origem_arabe": "Tamr, fruto"
+    },
+    {
+      "palavra": "trote",
+      "origem_arabe": "trot-ne"
+    },
+    {
+      "palavra": "Xador",
+      "origem_arabe": "xador"
+    },
+    {
+      "palavra": "Xadrez",
+      "origem_arabe": "xaṭranj, do sânscrito 'chaturanga"
+    },
+    {
+      "palavra": "Xaria",
+      "origem_arabe": "xarî'a, legislação, o Direito islâmico"
+    },
+    {
+      "palavra": "Xarope",
+      "origem_arabe": "xarab, bebida, poção"
+    },
+    {
+      "palavra": "Xaveco",
+      "origem_arabe": "xabbak, pequeno navio de três mastros e velas latinas"
+    },
+    {
+      "palavra": "Xávega",
+      "origem_arabe": "xabaka, rede"
+    },
+    {
+      "palavra": "Xerife",
+      "origem_arabe": "xarîf, nobre, bem-nascido"
+    },
+    {
+      "palavra": "Xeique ou Xeque",
+      "origem_arabe": "xayẖ, ancião, mestre"
+    },
+    {
+      "palavra": "Xeque-mate",
+      "origem_arabe": "xayẖ mât, \"o rei morreu\""
+    },
+    {
+      "palavra": "Zarabatana",
+      "origem_arabe": "zarba tãnâ"
+    },
+    {
+      "palavra": "Zênite",
+      "origem_arabe": "samt, direção da cabeça, caminho, projeção na esfera celeste"
+    }
+  ],
+  "meta": {
+    "title": "Palavras portuguesas de origem árabe - Free Download",
+    "description": "Lista de palavras da língua portuguesa de origem árabe, com a palavra árabe original, transliteração e significado. Contains 209 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Palavras portuguesas de origem árabe | ListBase",
+    "seo_description": "Download Palavras portuguesas de origem árabe — 209 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 209 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_palavras_portuguesas_de_origem_árabe"
+    ]
+  }
+}

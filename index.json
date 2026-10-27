@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:47.968Z",
-  "total_datasets": 490,
-  "total_records": 739667,
+  "generated": "2026-10-27T02:17:50.539Z",
+  "total_datasets": 491,
+  "total_records": 739876,
   "categories": [
     {
       "id": "culture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -3120,6 +3120,29 @@
         "xlsx": {
           "name": "pt-batalhas-de-portugal_PT.xlsx",
           "size": 16657
+        }
+      }
+    },
+    {
+      "id": "pt-palavras-origem-arabe",
+      "name": "Palavras portuguesas de origem árabe",
+      "category": "language",
+      "record_count": 209,
+      "columns": [
+        "palavra",
+        "origem_arabe"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_palavras_portuguesas_de_origem_árabe",
+      "updated": "2026-10",
+      "size": 21405,
+      "files": {
+        "csv": {
+          "name": "pt-palavras-origem-arabe_PT.csv",
+          "size": 8867
+        },
+        "xlsx": {
+          "name": "pt-palavras-origem-arabe_PT.xlsx",
+          "size": 13824
         }
       }
     },
