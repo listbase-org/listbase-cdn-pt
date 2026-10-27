@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:27.696Z",
-  "total_datasets": 483,
-  "total_records": 738960,
+  "generated": "2026-10-27T02:17:30.501Z",
+  "total_datasets": 484,
+  "total_records": 739133,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -3142,6 +3142,36 @@
         "xlsx": {
           "name": "pt-br-constituicoes_PT.xlsx",
           "size": 17809
+        }
+      }
+    },
+    {
+      "id": "pt-br-ministros-stf",
+      "name": "Ministros do Supremo Tribunal Federal (STF)",
+      "category": "law",
+      "record_count": 173,
+      "columns": [
+        "vaga",
+        "ordem",
+        "ministro",
+        "estado_origem",
+        "alma_mater",
+        "periodo",
+        "duracao",
+        "indicacao_presidencial",
+        "funcao_anterior"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_do_Supremo_Tribunal_Federal",
+      "updated": "2026-10",
+      "size": 70457,
+      "files": {
+        "csv": {
+          "name": "pt-br-ministros-stf_PT.csv",
+          "size": 33411
+        },
+        "xlsx": {
+          "name": "pt-br-ministros-stf_PT.xlsx",
+          "size": 20404
         }
       }
     },
