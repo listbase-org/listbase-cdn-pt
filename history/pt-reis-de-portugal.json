@@ -1,0 +1,492 @@
+{
+  "id": "pt-reis-de-portugal",
+  "name": "Reis e monarcas de Portugal",
+  "title": "Reis e monarcas de Portugal",
+  "description": "Lista dos condes, reis e rainhas de Portugal por dinastia, com nascimento, reinado e cônjuges.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_reis_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_reis_de_Portugal",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "nascimento",
+      "label": "Nascimento",
+      "type": "string"
+    },
+    {
+      "key": "reinado",
+      "label": "Reinado",
+      "type": "string"
+    },
+    {
+      "key": "conjuges",
+      "label": "Conjuges",
+      "type": "string"
+    },
+    {
+      "key": "dinastia_periodo",
+      "label": "Dinastia Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Vímara Peres",
+      "nascimento": "c. 820 Filho de Pedro Theo n",
+      "reinado": "868 − 873 (5 anos)",
+      "conjuges": "Trudilde",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Lucídio Vimaranes",
+      "nascimento": "c. 850 Guimarães Filho de Vímara Peres e Trudilde",
+      "reinado": "873 − 922 (49 anos)",
+      "conjuges": "Gudilona Mendes de Coimbra c. 873",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Hermenegildo Guterres",
+      "nascimento": "c. 842 Filho de Guterre e Elvira",
+      "reinado": "873 − 912 (39 anos)",
+      "conjuges": "Ermesinda Gatones de Bierzo 860 − 870",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Monio Guterres",
+      "nascimento": "c. 890 Filho de Guterre Mendes de Coimbra e Ilduara Eres de Lugo",
+      "reinado": "912 − 922 (10 anos)",
+      "conjuges": "Elvira Aires de Coimbra",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Mendo Gonçalves I",
+      "nascimento": "c. 900 Filho de Gonçalo Afonso Betote, Conde de Deza e Teresa Eres de Lugo",
+      "reinado": "922 − c. 943 (21 anos)",
+      "conjuges": "915 − 920",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Mumadona Dias",
+      "nascimento": "c. 900 Filha do Conde Diogo Fernandes e Oneca de Pamplona",
+      "reinado": "c. 943 − 950 (7 anos)",
+      "conjuges": "915 − 920",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Gonçalo Mendes",
+      "nascimento": "c. 925",
+      "reinado": "950 − 997 (47 anos)",
+      "conjuges": "Ilduara Pais de Deza 935 − 940 Ermesinda c. 983",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Mendo Gonçalves II",
+      "nascimento": "c. 945 Filho de Gonçalo Mendes e Ilduara Pais de Deza",
+      "reinado": "997 − 6 de outubro de 1008 (11 anos, 7 meses e 5 dias)",
+      "conjuges": "Desconhecida",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Tutadona Moniz de Coimbra",
+      "nascimento": "c. 960 Filha de Monio Froilaz de Coimbra e Elvira Pais de Deza",
+      "reinado": "6 de outubro de 1008 − 1025 (16 anos, 4 meses e 26 dias)",
+      "conjuges": "Desconhecida",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Alvito Nunes",
+      "nascimento": "c. 985 Filho de Nuno Alvites",
+      "reinado": "6 de outubro de 1008 − 1015 (6 anos, 4 meses e 26 dias)",
+      "conjuges": "Gontinha 1015",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Nuno Alvites",
+      "nascimento": "c. 1000 Filho de Alvito Nunes e Gontinha",
+      "reinado": "1015 − 1028 (13 anos)",
+      "conjuges": "Desconhecida",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Ilduara Mendes",
+      "nascimento": "c. 1000 Filha de Mendo Gonçalves II e Tutadona Moniz de Coimbra",
+      "reinado": "1015 − 1028 (13 anos)",
+      "conjuges": "Desconhecida",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Regência de Ilduara Mendes (1028–1043)",
+      "nascimento": "Regência de Ilduara Mendes (1028–1043)",
+      "reinado": "Regência de Ilduara Mendes (1028–1043)",
+      "conjuges": "Regência de Ilduara Mendes (1028–1043)",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Mendo Nunes",
+      "nascimento": "c. 1020 Filho de Nuno Alvites e Ilduara Mendes",
+      "reinado": "c. 1043 − 1050 (7 anos)",
+      "conjuges": "Desconhecida Antes de 1050",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Regência de Ilduara Mendes (1050–1058)",
+      "nascimento": "Regência de Ilduara Mendes (1050–1058)",
+      "reinado": "Regência de Ilduara Mendes (1050–1058)",
+      "conjuges": "Regência de Ilduara Mendes (1050–1058)",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Nuno Mendes",
+      "nascimento": "c. 1040 Filho de Mendo Nunes",
+      "reinado": "c. 1058 − 28 de fevereiro de 1071 (13 anos, 1 mês e 27 dias)",
+      "conjuges": "Gontinha 1071",
+      "dinastia_periodo": "Condes presores do Porto"
+    },
+    {
+      "nome": "Hermenegildo Guterres",
+      "nascimento": "c. 842 Filho de Guterre e Elvira",
+      "reinado": "878 − 912 (34 anos)",
+      "conjuges": "Ermesinda Gatones de Bierzo 860 − 870",
+      "dinastia_periodo": "Condes presores de Coimbra"
+    },
+    {
+      "nome": "Aires Mendes",
+      "nascimento": "c. 878 Filho de Hermenegildo Guterres e Ermesinda Gatones de Bierzo",
+      "reinado": "912 − 924 (12 anos)",
+      "conjuges": "Ermesinda Gondesendes",
+      "dinastia_periodo": "Condes presores de Coimbra"
+    },
+    {
+      "nome": "Monio Guterres",
+      "nascimento": "c. 890 Filho de Guterre Mendes e Ilduara Eres de Lugo",
+      "reinado": "924 − 955",
+      "conjuges": "Elvira Aires de Coimbra",
+      "dinastia_periodo": "Condes presores de Coimbra"
+    },
+    {
+      "nome": "Gonçalo Moniz",
+      "nascimento": "c. 920 Filho de Monio Guterres e Elvira Aires de Coimbra",
+      "reinado": "955 − 982 (27 anos)",
+      "conjuges": "Mumadona Froilaz de Coimbra",
+      "dinastia_periodo": "Condes presores de Coimbra"
+    },
+    {
+      "nome": "Monio Gonçalves",
+      "nascimento": "c. 960 Filho de Gonçalo Moniz e Mumadona Froilaz de Coimbra",
+      "reinado": "982 − 987 (5 anos)",
+      "conjuges": "Não casou",
+      "dinastia_periodo": "Condes presores de Coimbra"
+    },
+    {
+      "nome": "Raimundo",
+      "nascimento": "1070",
+      "reinado": "1087 − 1096 (9 anos)",
+      "conjuges": "Urraca de Leão e Castela 1087",
+      "dinastia_periodo": "Dinastia de Borgonha"
+    },
+    {
+      "nome": "Urraca",
+      "nascimento": "24 de junho de 1081 Leão Filha de Afonso VI de Leão e Castela e Constança da Borgonha",
+      "reinado": "1087 − 1096 (9 anos)",
+      "conjuges": "Raimundo de Borgonha 1087 Afonso I de Aragão 1109",
+      "dinastia_periodo": "Dinastia de Borgonha"
+    },
+    {
+      "nome": "Entre o final de 1095 e o início de 1096, Afonso VI de Leão e Castela, após o desastre militar a sul comandado pelo genro Raimundo, e provavelmente sentindo o perigo da grande influência deste no Ocidente Peninsular, unificou o Condado de Portucale e o Condado de Coimbra numa única entidade política, que entrega, como dote, à sua filha Teresa e ao respetivo esposo, Henrique de Borgonha, primo daquele, diminuindo assim a desigualdade de poder entre ambos.",
+      "nascimento": "Entre o final de 1095 e o início de 1096, Afonso VI de Leão e Castela, após o desastre militar a sul comandado pelo genro Raimundo, e provavelmente sentindo o perigo da grande influência deste no Ocidente Peninsular, unificou o Condado de Portucale e o Condado de Coimbra numa única entidade política, que entrega, como dote, à sua filha Teresa e ao respetivo esposo, Henrique de Borgonha, primo daquele, diminuindo assim a desigualdade de poder entre ambos.",
+      "reinado": "Entre o final de 1095 e o início de 1096, Afonso VI de Leão e Castela, após o desastre militar a sul comandado pelo genro Raimundo, e provavelmente sentindo o perigo da grande influência deste no Ocidente Peninsular, unificou o Condado de Portucale e o Condado de Coimbra numa única entidade política, que entrega, como dote, à sua filha Teresa e ao respetivo esposo, Henrique de Borgonha, primo daquele, diminuindo assim a desigualdade de poder entre ambos.",
+      "conjuges": "Entre o final de 1095 e o início de 1096, Afonso VI de Leão e Castela, após o desastre militar a sul comandado pelo genro Raimundo, e provavelmente sentindo o perigo da grande influência deste no Ocidente Peninsular, unificou o Condado de Portucale e o Condado de Coimbra numa única entidade política, que entrega, como dote, à sua filha Teresa e ao respetivo esposo, Henrique de Borgonha, primo daquele, diminuindo assim a desigualdade de poder entre ambos.",
+      "dinastia_periodo": "Dinastia de Borgonha"
+    },
+    {
+      "nome": "Henrique",
+      "nascimento": "1066 Dijon Filho de Henrique de Borgonha e Sibila da Borgonha",
+      "reinado": "1093 − 24 de abril de 1112 (19 anos, 3 meses e 23 dias)",
+      "conjuges": "c.1093",
+      "dinastia_periodo": "Dinastia de Borgonha"
+    },
+    {
+      "nome": "Teresa",
+      "nascimento": "1080 Filha de Afonso VI de Leão e Castela e Ximena Moniz",
+      "reinado": "24 de abril de 1112 − 24 de junho de 1128 (16 anos e 2 meses)",
+      "conjuges": "c.1093",
+      "dinastia_periodo": "Dinastia de Borgonha"
+    },
+    {
+      "nome": "Afonso I o Conquistador",
+      "nascimento": "25 de julho de 1109 Guimarães, Coimbra ou Viseu Filho de Henrique e Teresa",
+      "reinado": "24 de junho de 1128 − 26 de julho de 1139 (11 anos, 1 mês e 2 dias)",
+      "conjuges": "Mafalda de Saboia 1146",
+      "dinastia_periodo": "Dinastia de Borgonha"
+    },
+    {
+      "nome": "João I O de Boa Memória",
+      "nascimento": "11 de abril de 1357 Lisboa (Paço da Alcáçova / Castelo São Jorge) Filho natural (ilegítimo) de Pedro I e Teresa Lourenço",
+      "reinado": "6 de abril de 1385 − 14 de agosto de 1433 (48 anos, 4 meses e 8 dias)",
+      "conjuges": "Filipa de Lencastre 14 de fevereiro de 1387",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Duarte I o Eloquente",
+      "nascimento": "31 de outubro de 1391 Viseu Filho de João I e Filipa de Lencastre",
+      "reinado": "14 de agosto de 1433 − 9 de setembro de 1438 (5 anos e 26 dias)",
+      "conjuges": "Leonor de Aragão 22 de setembro de 1428",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Afonso V o Africano",
+      "nascimento": "15 de janeiro de 1432 Sintra (Palácio Real da Vila) Filho de Duarte I e Leonor de Aragão",
+      "reinado": "9 de setembro de 1438 − 11 de novembro de 1477 (39 anos, 2 meses e 2 dias) 15 de novembro de 1477 − 28 de agosto de 1481 (3 anos, 9 meses e 13 dias)",
+      "conjuges": "Isabel de Coimbra 6 de maio de 1447 Joana de Castela A Excelente Senhora 25 de maio de 1475",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "João II o Príncipe Perfeito",
+      "nascimento": "3 de março de 1455 Lisboa (Paço da Alcáçova / Castelo São Jorge) Filho de Afonso V e Isabel de Coimbra",
+      "reinado": "11 de novembro de 1477 − 15 de novembro de 1477 28 de agosto de 1481 − 25 de outubro de 1495",
+      "conjuges": "Leonor de Viseu 22 de janeiro de 1470",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Manuel I o Venturoso",
+      "nascimento": "31 de maio de 1469 Alcochete Filho de Fernando de Portugal, Duque de Viseu e Beatriz de Portugal",
+      "reinado": "25 de outubro de 1495 − 13 de dezembro de 1521 (26 anos, 1 mês e 18 dias)",
+      "conjuges": "Isabel de Aragão e Castela 30 de setembro de 1497 Maria de Aragão e Castela 30 de outubro de 1500 Leonor de Áustria 16 de julho de 1518",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "João III o Piedoso",
+      "nascimento": "7 de junho de 1502 Lisboa (Paço da Ribeira) Filho de Manuel I e Maria de Aragão e Castela",
+      "reinado": "13 de dezembro de 1521 − 11 de junho de 1557 (35 anos, 5 meses e 29 dias)",
+      "conjuges": "Catarina de Áustria 10 de fevereiro de 1525",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Regências de Catarina de Áustria (11 de junho de 1557 – 23 de dezembro de 1562) e Cardeal Henrique de Portugal (23 de dezembro de 1562 – 20 de janeiro de 1568) Regente em nome do neto menor, Catarina teve desavenças com ele, que a levaram a abdicar da regência em 1562, sendo substituída no cargo pelo Cardeal Henrique.",
+      "nascimento": "Regências de Catarina de Áustria (11 de junho de 1557 – 23 de dezembro de 1562) e Cardeal Henrique de Portugal (23 de dezembro de 1562 – 20 de janeiro de 1568) Regente em nome do neto menor, Catarina teve desavenças com ele, que a levaram a abdicar da regência em 1562, sendo substituída no cargo pelo Cardeal Henrique.",
+      "reinado": "Regências de Catarina de Áustria (11 de junho de 1557 – 23 de dezembro de 1562) e Cardeal Henrique de Portugal (23 de dezembro de 1562 – 20 de janeiro de 1568) Regente em nome do neto menor, Catarina teve desavenças com ele, que a levaram a abdicar da regência em 1562, sendo substituída no cargo pelo Cardeal Henrique.",
+      "conjuges": "Regências de Catarina de Áustria (11 de junho de 1557 – 23 de dezembro de 1562) e Cardeal Henrique de Portugal (23 de dezembro de 1562 – 20 de janeiro de 1568) Regente em nome do neto menor, Catarina teve desavenças com ele, que a levaram a abdicar da regência em 1562, sendo substituída no cargo pelo Cardeal Henrique.",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Sebastião o Desejado",
+      "nascimento": "20 de janeiro de 1554 Lisboa (Paço da Ribeira) Filho de João Manuel, Príncipe de Portugal e Joana de Áustria",
+      "reinado": "11 de junho de 1557 − 4 de agosto de 1578 (21 anos, 1 mês e 24 dias)",
+      "conjuges": "Não casou",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Henrique o Casto",
+      "nascimento": "31 de janeiro de 1512 Lisboa (Paço da Ribeira) Filho de Manuel I e Maria de Aragão e Castela",
+      "reinado": "4 de agosto de 1578 − 31 de janeiro de 1580 (1 ano, 5 meses e 27 dias)",
+      "conjuges": "Não casou",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Conselho de Governadores do Reino de Portugal 31 de janeiro — 17 de julho de 1580 D. António, Prior do Crato foi aclamado rei de Portugal a 9 de Junho de 1580, em Santarém, pelos seus partidários, opondo-se durante todo o resto da sua vida ao domínio filipino, todavia sem êxito.",
+      "nascimento": "Conselho de Governadores do Reino de Portugal 31 de janeiro — 17 de julho de 1580 D. António, Prior do Crato foi aclamado rei de Portugal a 9 de Junho de 1580, em Santarém, pelos seus partidários, opondo-se durante todo o resto da sua vida ao domínio filipino, todavia sem êxito.",
+      "reinado": "Conselho de Governadores do Reino de Portugal 31 de janeiro — 17 de julho de 1580 D. António, Prior do Crato foi aclamado rei de Portugal a 9 de Junho de 1580, em Santarém, pelos seus partidários, opondo-se durante todo o resto da sua vida ao domínio filipino, todavia sem êxito.",
+      "conjuges": "Conselho de Governadores do Reino de Portugal 31 de janeiro — 17 de julho de 1580 D. António, Prior do Crato foi aclamado rei de Portugal a 9 de Junho de 1580, em Santarém, pelos seus partidários, opondo-se durante todo o resto da sua vida ao domínio filipino, todavia sem êxito.",
+      "dinastia_periodo": "Dinastia de Avis"
+    },
+    {
+      "nome": "Filipe I o Prudente",
+      "nascimento": "21 de maio de 1527 Valladolid, Espanha Filho de Carlos I de Espanha e Isabel de Portugal",
+      "reinado": "16 de abril de 1581 − 13 de setembro de 1598 (17 anos, 4 meses e 28 dias)",
+      "conjuges": "Maria Manuela de Portugal 15 de novembro de 1543 Maria I, Rainha de Inglaterra 25 de julho de 1554 Isabel de França 22 de junho de 1559 Ana de Áustria 4 de maio de 1570",
+      "dinastia_periodo": "Dinastia de Habsburgo (ou Filipina)"
+    },
+    {
+      "nome": "Filipe II o Pio",
+      "nascimento": "14 de abril de 1578 Madrid, Espanha Filho de Filipe I e Ana de Áustria",
+      "reinado": "13 de setembro de 1598 − 31 de março de 1621 (22 anos, 6 meses e 18 dias)",
+      "conjuges": "Margarida da Áustria 18 de abril de 1599",
+      "dinastia_periodo": "Dinastia de Habsburgo (ou Filipina)"
+    },
+    {
+      "nome": "Filipe III o Opressor",
+      "nascimento": "8 de abril de 1605 Valladolid, Espanha Filho de Filipe II e Margarida da Áustria",
+      "reinado": "31 de março de 1621 − 1 de dezembro de 1640 (19 anos e 8 meses)",
+      "conjuges": "Isabel de França 25 de novembro de 1615 Mariana de Áustria 7 de outubro de 1649",
+      "dinastia_periodo": "Dinastia de Habsburgo (ou Filipina)"
+    },
+    {
+      "nome": "João IV o Restaurador",
+      "nascimento": "19 de março de 1604 Paço Ducal de Vila Viçosa, Vila Viçosa Filho de Teodósio II, Duque de Bragança e Ana de Velasco e Girón",
+      "reinado": "15 de dezembro de 1640 − 6 de novembro de 1656 (15 anos, 10 meses e 22 dias)",
+      "conjuges": "Luísa de Gusmão 12 de dezembro de 1633",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Regência de Luísa de Gusmão (6 de novembro de 1656 – 26 de junho de 1662)",
+      "nascimento": "Regência de Luísa de Gusmão (6 de novembro de 1656 – 26 de junho de 1662)",
+      "reinado": "Regência de Luísa de Gusmão (6 de novembro de 1656 – 26 de junho de 1662)",
+      "conjuges": "Regência de Luísa de Gusmão (6 de novembro de 1656 – 26 de junho de 1662)",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Afonso VI o Vitorioso",
+      "nascimento": "21 de agosto de 1643 Palácio da Ribeira, Lisboa Filho de João IV e Luísa de Gusmão",
+      "reinado": "6 de novembro de 1656 − 12 de setembro de 1683 (26 anos, 10 meses e 6 dias)",
+      "conjuges": "Maria Francisca de Saboia-Nemours 27 de junho de 1666",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Regência do Infante Pedro de Portugal (23 de novembro de 1667 – 12 de setembro de 1683)",
+      "nascimento": "Regência do Infante Pedro de Portugal (23 de novembro de 1667 – 12 de setembro de 1683)",
+      "reinado": "Regência do Infante Pedro de Portugal (23 de novembro de 1667 – 12 de setembro de 1683)",
+      "conjuges": "Regência do Infante Pedro de Portugal (23 de novembro de 1667 – 12 de setembro de 1683)",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Pedro II o Pacífico",
+      "nascimento": "26 de abril de 1648 Palácio da Ribeira, Lisboa Filho de João IV e Luísa de Gusmão",
+      "reinado": "12 de setembro de 1683 − 9 de dezembro de 1706 (123 anos, 2 meses e 27 dias)",
+      "conjuges": "Maria Francisca de Saboia-Nemours 2 de abril de 1668 Maria Sofia do Palatinado-Neuburgo 2 de julho de 1687",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "João V o Magnânimo",
+      "nascimento": "22 de outubro de 1689 Palácio da Ribeira, Lisboa Filho de Pedro II e Maria Sofia do Palatinado-Neuburgo",
+      "reinado": "9 de dezembro de 1706 − 31 de julho de 1750 (43 anos, 7 meses e 22 dias)",
+      "conjuges": "Maria Ana de Áustria 9 de julho de 1708",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Regência de Maria Ana de Áustria (1742 – 31 de julho de 1750)",
+      "nascimento": "Regência de Maria Ana de Áustria (1742 – 31 de julho de 1750)",
+      "reinado": "Regência de Maria Ana de Áustria (1742 – 31 de julho de 1750)",
+      "conjuges": "Regência de Maria Ana de Áustria (1742 – 31 de julho de 1750)",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "José I o Reformador",
+      "nascimento": "6 de junho de 1714 Palácio da Ribeira, Lisboa Filho de João V e Maria Ana de Áustria",
+      "reinado": "31 de julho de 1750 − 24 de fevereiro de 1777 (26 anos, 6 meses e 24 dias)",
+      "conjuges": "Mariana Vitória de Espanha 19 de janeiro de 1729",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Pedro III o Edificador",
+      "nascimento": "5 de julho de 1717 Palácio da Ribeira, Lisboa Filho de João V e Maria Ana de Áustria",
+      "reinado": "24 de fevereiro de 1777 − 25 de maio de 1786 (9 anos, 3 meses e 1 dia)",
+      "conjuges": "Maria I 6 de junho de 1760",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Maria I a Louca",
+      "nascimento": "17 de dezembro de 1734 Palácio da Ribeira, Lisboa Filha de José I e Mariana Vitória de Espanha",
+      "reinado": "24 de fevereiro de 1777 − 20 de março de 1816 (39 anos, 2 meses e 26 dias)",
+      "conjuges": "Pedro III 6 de junho de 1760",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Maria I a Louca",
+      "nascimento": "17 de dezembro de 1734 Palácio da Ribeira, Lisboa Filha de José I e Mariana Vitória de Espanha",
+      "reinado": "24 de fevereiro de 1777 − 20 de março de 1816 (39 anos, 2 meses e 26 dias)",
+      "conjuges": "Pedro III 6 de junho de 1760",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "João VI o Clemente",
+      "nascimento": "13 de maio de 1767 Paço de Madeira ou Real Barraca, Lisboa Filho de Pedro III e Maria I",
+      "reinado": "20 de março de 1816 − 10 de março de 1826 (9 anos, 11 meses e 18 dias)",
+      "conjuges": "Carlota Joaquina de Espanha 9 de junho de 1785",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Pedro IV o Rei-Soldado",
+      "nascimento": "12 de outubro de 1798 Palácio Nacional de Queluz, Queluz Filho de João VI e Carlota Joaquina de Espanha",
+      "reinado": "10 de março de 1826 − 2 de maio de 1826 (1 mês e 22 dias)",
+      "conjuges": "Maria Leopoldina de Áustria 13 de maio de 1817 Amélia de Leuchtenberg 2 de agosto de 1829",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Regência dos Infantes Isabel Maria (6 de março de 1826 – 11 de julho de 1828) e Miguel de Portugal (2 de maio de 1826 – 11 de julho de 1828) Regentes em Portugal em nome da rainha Maria II. Isabel Maria e Maria II acabaram depostas por Miguel, que assumiu o título régio, usurpando assim o trono à sobrinha.",
+      "nascimento": "Regência dos Infantes Isabel Maria (6 de março de 1826 – 11 de julho de 1828) e Miguel de Portugal (2 de maio de 1826 – 11 de julho de 1828) Regentes em Portugal em nome da rainha Maria II. Isabel Maria e Maria II acabaram depostas por Miguel, que assumiu o título régio, usurpando assim o trono à sobrinha.",
+      "reinado": "Regência dos Infantes Isabel Maria (6 de março de 1826 – 11 de julho de 1828) e Miguel de Portugal (2 de maio de 1826 – 11 de julho de 1828) Regentes em Portugal em nome da rainha Maria II. Isabel Maria e Maria II acabaram depostas por Miguel, que assumiu o título régio, usurpando assim o trono à sobrinha.",
+      "conjuges": "Regência dos Infantes Isabel Maria (6 de março de 1826 – 11 de julho de 1828) e Miguel de Portugal (2 de maio de 1826 – 11 de julho de 1828) Regentes em Portugal em nome da rainha Maria II. Isabel Maria e Maria II acabaram depostas por Miguel, que assumiu o título régio, usurpando assim o trono à sobrinha.",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Miguel o Rei-Absoluto",
+      "nascimento": "26 de outubro de 1802 Palácio Nacional de Queluz, Queluz Filho de João VI e Carlota Joaquina de Espanha",
+      "reinado": "11 de julho de 1828 − 26 de maio de 1834 (5 anos, 10 meses e 15 dias)",
+      "conjuges": "Adelaide de Löwenstein-Wertheim-Rosenberg 24 de setembro de 1851",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Maria II a Educadora",
+      "nascimento": "4 de abril de 1819 Rio de Janeiro, Brasil Filha de Pedro IV e Maria Leopoldina de Áustria",
+      "reinado": "6 de março de 1826 − 11 de julho de 1828 (2 anos, 4 meses e 5 dias)",
+      "conjuges": "Augusto de Beauharnais 1 de dezembro de 1834 Fernando II de Saxe-Coburgo-Gota 1 de janeiro de 1836",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Maria II a Educadora",
+      "nascimento": "4 de abril de 1819 Rio de Janeiro, Brasil Filha de Pedro IV e Maria Leopoldina de Áustria",
+      "reinado": "26 de maio de 1834 − 15 de novembro de 1853 (19 anos, 5 meses e 20 dias)",
+      "conjuges": "Augusto de Beauharnais 1 de dezembro de 1834 Fernando II de Saxe-Coburgo-Gota 1 de janeiro de 1836",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Fernando II o Rei-Artista",
+      "nascimento": "29 de outubro de 1816 Viena, Áustria Filho de Fernando de Saxe-Coburgo-Gota e Maria Antónia de Koháry",
+      "reinado": "16 de setembro de 1837 − 15 de novembro de 1853 (15 anos, 11 meses e 30 dias)",
+      "conjuges": "Maria II 1 de janeiro de 1836",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Regência do Rei Consorte Fernando II (15 de novembro de 1853 – 16 de setembro de 1855)",
+      "nascimento": "Regência do Rei Consorte Fernando II (15 de novembro de 1853 – 16 de setembro de 1855)",
+      "reinado": "Regência do Rei Consorte Fernando II (15 de novembro de 1853 – 16 de setembro de 1855)",
+      "conjuges": "Regência do Rei Consorte Fernando II (15 de novembro de 1853 – 16 de setembro de 1855)",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Pedro V o Esperançoso",
+      "nascimento": "16 de setembro de 1837 Palácio das Necessidades, Lisboa Filho de Fernando II e Maria II",
+      "reinado": "15 de novembro de 1853 − 11 de novembro de 1861 (7 anos, 11 meses e 27 dias)",
+      "conjuges": "Estefânia de Hohenzollern-Sigmaringen 29 de abril de 1858",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Luís o Popular",
+      "nascimento": "31 de outubro de 1838 Palácio das Necessidades, Lisboa Filho de Fernando II e Maria II",
+      "reinado": "11 de novembro de 1861 − 19 de outubro de 1889 (27 anos, 11 meses e 8 dias)",
+      "conjuges": "Maria Pia de Saboia 27 de setembro de 1862",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Carlos o Diplomata",
+      "nascimento": "28 de setembro de 1863 Palácio Nacional da Ajuda, Lisboa Filho de Luís e Maria Pia de Saboia",
+      "reinado": "19 de outubro de 1889 − 1 de fevereiro de 1908 (18 anos, 3 meses e 13 dias)",
+      "conjuges": "Amélia de Orleães 22 de maio de 1886",
+      "dinastia_periodo": "Dinastia de Bragança"
+    },
+    {
+      "nome": "Manuel II o Rei-Saudade",
+      "nascimento": "15 de novembro de 1889 Palácio Nacional de Belém, Lisboa Filho de Carlos e Amélia de Orleães",
+      "reinado": "1 de fevereiro de 1908 − 5 de outubro de 1910 (2 anos, 8 meses e 4 dias)",
+      "conjuges": "Augusta Vitória de Hohenzollern-Sigmaringen 4 de setembro de 1913",
+      "dinastia_periodo": "Dinastia de Bragança"
+    }
+  ],
+  "meta": {
+    "title": "Reis e monarcas de Portugal - Free Download",
+    "description": "Lista dos condes, reis e rainhas de Portugal por dinastia, com nascimento, reinado e cônjuges. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reis e monarcas de Portugal | ListBase",
+    "seo_description": "Download Reis e monarcas de Portugal — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_reis_de_Portugal"
+    ]
+  }
+}

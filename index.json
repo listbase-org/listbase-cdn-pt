@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:18:10.121Z",
-  "total_datasets": 498,
-  "total_records": 740585,
+  "generated": "2026-10-27T02:18:12.807Z",
+  "total_datasets": 499,
+  "total_records": 740648,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -3204,6 +3204,32 @@
         "xlsx": {
           "name": "pt-batalhas-de-portugal_PT.xlsx",
           "size": 16657
+        }
+      }
+    },
+    {
+      "id": "pt-reis-de-portugal",
+      "name": "Reis e monarcas de Portugal",
+      "category": "history",
+      "record_count": 63,
+      "columns": [
+        "nome",
+        "nascimento",
+        "reinado",
+        "conjuges",
+        "dinastia_periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_reis_de_Portugal",
+      "updated": "2026-10",
+      "size": 28257,
+      "files": {
+        "csv": {
+          "name": "pt-reis-de-portugal_PT.csv",
+          "size": 19680
+        },
+        "xlsx": {
+          "name": "pt-reis-de-portugal_PT.xlsx",
+          "size": 12138
         }
       }
     },
