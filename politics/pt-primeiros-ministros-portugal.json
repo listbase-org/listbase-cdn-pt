@@ -1,0 +1,1966 @@
+{
+  "id": "pt-primeiros-ministros-portugal",
+  "name": "Primeiros-ministros de Portugal",
+  "title": "Primeiros-ministros de Portugal",
+  "description": "Lista dos chefes de governo de Portugal (presidentes do Conselho de Ministros e primeiros-ministros) desde 1834.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_primeiros-ministros_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_primeiros-ministros_de_Portugal",
+  "updated": "2026-10",
+  "record_count": 190,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "primeiro_ministro",
+      "label": "Primeiro Ministro",
+      "type": "string"
+    },
+    {
+      "key": "inicio_mandato",
+      "label": "Inicio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fim_mandato",
+      "label": "Fim Mandato",
+      "type": "string"
+    },
+    {
+      "key": "eleicoes",
+      "label": "Eleicoes",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "chefe_de_estado",
+      "label": "Chefe De Estado",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1",
+      "primeiro_ministro": "D. Pedro de Sousa e Holstein, Duque de Palmela (1781–1850)",
+      "inicio_mandato": "24 de setembro de 1834",
+      "fim_mandato": "28 de abril de 1835",
+      "eleicoes": "1834 (I)",
+      "partido": "Cartista /\" chamorro \"",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Conselho de Ministros composto por: José da Silva Carvalho Agostinho José Freire D. José Luís de Sousa Botelho Mourão e Vasconcelos, conde de Vila Real e morgado de Mateus Manuel Duarte Leitão D. Vitório Maria Francisco de Sousa Coutinho Teixeira de Andrade Barbosa, conde de Linhares",
+      "inicio_mandato": "28 de abril de 1835",
+      "fim_mandato": "4 de maio de 1835",
+      "eleicoes": "1834 (I)",
+      "partido": "\" Chamorro \"",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "2",
+      "primeiro_ministro": "D. Vitório Maria Francisco de Sousa Coutinho Teixeira de Andrade Barbosa, Conde de Linhares (1790–1857)",
+      "inicio_mandato": "4 de maio de 1835",
+      "fim_mandato": "27 de maio de 1835",
+      "eleicoes": "1834 (I)",
+      "partido": "\" Chamorro \"",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "3",
+      "primeiro_ministro": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Marquês de Saldanha (1790–1876)",
+      "inicio_mandato": "27 de maio de 1835",
+      "fim_mandato": "18 de novembro de 1835",
+      "eleicoes": "—— (II) (III)",
+      "partido": "Independente",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Conselho de Ministros composto por: Bernardo de Sá Nogueira de Figueiredo, visconde de Sá da Bandeira Manuel António Velez Caldeira de Pina Castelo Branco Francisco António de Campos José Jorge Loureiro D. Nuno José Severo de Mendoça Rolim de Moura Barreto, marquês de Loulé e conde de Vale de Reis",
+      "inicio_mandato": "18 de novembro de 1835",
+      "fim_mandato": "25 de novembro de 1835",
+      "eleicoes": "—— (IV)",
+      "partido": "Independente",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "4",
+      "primeiro_ministro": "José Jorge Loureiro (1791–1860)",
+      "inicio_mandato": "25 de novembro de 1835",
+      "fim_mandato": "19 de abril de 1836",
+      "eleicoes": "—— (IV)",
+      "partido": "Independente",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "5",
+      "primeiro_ministro": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e marquês de Vila Flor (1792–1860)",
+      "inicio_mandato": "19 de abril de 1836",
+      "fim_mandato": "10 de setembro de 1836",
+      "eleicoes": "Jul. 1836 (V)",
+      "partido": "Cartista /\" chamorro \"",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "6",
+      "primeiro_ministro": "D. José Manuel Inácio da Cunha e Meneses da Gama e Vasconcelos Carneiro de Sousa Portugal e Faro, Conde de Lumiares e senhor de Vimieiro (1788–1849)",
+      "inicio_mandato": "10 de setembro de 1836",
+      "fim_mandato": "4 de novembro de 1836",
+      "eleicoes": "—— (VI)",
+      "partido": "Setembrista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "D. José Bernardino de Portugal e Castro, Marquês de Valença e conde de Vimioso (não tomou posse) (1780–1840)",
+      "inicio_mandato": "4 de novembro de 1836",
+      "fim_mandato": "5 de novembro de 1836",
+      "eleicoes": "—— (G.M.)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "7",
+      "primeiro_ministro": "Bernardo de Sá Nogueira de Figueiredo, Visconde de Sá da Bandeira (1795–1876)",
+      "inicio_mandato": "5 de novembro de 1836",
+      "fim_mandato": "1 de junho de 1837",
+      "eleicoes": "Nov. 1836 (VII)",
+      "partido": "Setembrista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Conselho de Ministros composto por: António Dias de Oliveira João Gualberto de Oliveira Joaquim de Sousa Quevedo Pizarro, visconde de Bóbeda Manuel de Castro Pereira",
+      "inicio_mandato": "1 de junho de 1837",
+      "fim_mandato": "2 de junho de 1837",
+      "eleicoes": "—— (VIII)",
+      "partido": "Setembrista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "8",
+      "primeiro_ministro": "António Dias de Oliveira (1804–1863)",
+      "inicio_mandato": "2 de junho de 1837",
+      "fim_mandato": "10 de agosto de 1837",
+      "eleicoes": "—— (VIII)",
+      "partido": "Setembrista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "9",
+      "primeiro_ministro": "Bernardo de Sá Nogueira de Figueiredo, Visconde de Sá da Bandeira (2.ª vez) (1795–1876)",
+      "inicio_mandato": "10 de agosto de 1837",
+      "fim_mandato": "18 de abril de 1839",
+      "eleicoes": "1838 (IX)",
+      "partido": "Setembrista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "10",
+      "primeiro_ministro": "Rodrigo Pinto Pizarro Pimentel de Almeida Carvalhais, Barão da Ribeira de Sabrosa (1788–1841)",
+      "inicio_mandato": "18 de abril de 1839",
+      "fim_mandato": "26 de novembro de 1839",
+      "eleicoes": "—— (X)",
+      "partido": "Setembrista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "11",
+      "primeiro_ministro": "José Lúcio Travassos Valdez, Conde do Bonfim (1787–1862)",
+      "inicio_mandato": "26 de novembro de 1839",
+      "fim_mandato": "9 de junho de 1841",
+      "eleicoes": "1840 (XI)",
+      "partido": "Setembrista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "12",
+      "primeiro_ministro": "Joaquim António de Aguiar (1792–1874)",
+      "inicio_mandato": "9 de junho de 1841",
+      "fim_mandato": "7 de fevereiro de 1842",
+      "eleicoes": "—— (XII)",
+      "partido": "Independente",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "13",
+      "primeiro_ministro": "D. Pedro de Sousa e Holstein, Duque de Palmela (2.ª vez) (1781–1850)",
+      "inicio_mandato": "7 de fevereiro de 1842",
+      "fim_mandato": "8 de fevereiro de 1842",
+      "eleicoes": "—— (XIII / G.E.)",
+      "partido": "Independente",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Junta Provisória de Governo composta por: António Bernardo da Costa Cabral António Vicente de Queirós, barão da Ponte de Santa Maria Marcelino Máximo de Azevedo e Melo António Pereira dos Reis",
+      "inicio_mandato": "8 de fevereiro de 1842",
+      "fim_mandato": "9 de fevereiro de 1842",
+      "eleicoes": "——",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "14",
+      "primeiro_ministro": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e marquês de Vila Flor (2.ª vez) (1792–1860)",
+      "inicio_mandato": "9 de fevereiro de 1842",
+      "fim_mandato": "20 de maio de 1846",
+      "eleicoes": "1842 1845 (XIV)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "15",
+      "primeiro_ministro": "D. Pedro de Sousa e Holstein, Duque de Palmela (3.ª vez) (1781–1850)",
+      "inicio_mandato": "20 de maio de 1846",
+      "fim_mandato": "6 de outubro 1846",
+      "eleicoes": "—— (XV)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "16",
+      "primeiro_ministro": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Marquês de Saldanha (2.ª vez) (1790–1876)",
+      "inicio_mandato": "6 de outubro de 1846",
+      "fim_mandato": "28 de abril de 1847",
+      "eleicoes": "1847 (XVI)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Conselho de Ministros composto por: até 22 de agosto Francisco Tavares de Almeida Proença Manuel Duarte Leitão João Gualberto de Oliveira, conde do Tojal Ildefonso Leopoldo Bayard Jerónimo Pereira de Vasconcelos, barão de Ponte da Barca (desde 3 de maio) desde 22 de agosto António de Azevedo Melo e Carvalho Francisco António Fernandes da Silva Ferrão Marino Miguel Franzini António José da Silva Leão, barão de Almofala João de Fontes Pereira de Melo Joaquim António Velez Barreiros, barão de Nossa Senhora da Luz",
+      "inicio_mandato": "28 de abril de 1847",
+      "fim_mandato": "18 de dezembro de 1847",
+      "eleicoes": "1847 (XVI)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (2.ª vez continuação) (1790–1876)",
+      "inicio_mandato": "18 de dezembro de 1847",
+      "fim_mandato": "18 de junho de 1849",
+      "eleicoes": "—— (XVII)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "17",
+      "primeiro_ministro": "António Bernardo da Costa Cabral, Conde de Tomar (1803–1889)",
+      "inicio_mandato": "18 de junho de 1849",
+      "fim_mandato": "26 de abril de 1851",
+      "eleicoes": "—— (XVIII)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "18",
+      "primeiro_ministro": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e marquês de Vila Flor (3.ª vez) (1792–1860)",
+      "inicio_mandato": "26 de abril de 1851",
+      "fim_mandato": "1 de maio de 1851",
+      "eleicoes": "—— (XIX)",
+      "partido": "Cartista",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "19",
+      "primeiro_ministro": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (3.ª vez) (1790–1876)",
+      "inicio_mandato": "1 de maio de 1851",
+      "fim_mandato": "6 de junho de 1856",
+      "eleicoes": "1851 1852 (XX) (XXI)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Maria II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "19",
+      "primeiro_ministro": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (3.ª vez) (1790–1876)",
+      "inicio_mandato": "1 de maio de 1851",
+      "fim_mandato": "6 de junho de 1856",
+      "eleicoes": "1851 1852 (XX) (XXI)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Pedro V de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "20",
+      "primeiro_ministro": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Marquês de Loulé e conde de Vale de Reis (1804–1875)",
+      "inicio_mandato": "6 de junho de 1856",
+      "fim_mandato": "16 de março de 1859",
+      "eleicoes": "1856 1858 (XXII)",
+      "partido": "Histórico",
+      "chefe_de_estado": "Pedro V de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "21",
+      "primeiro_ministro": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e marquês de Vila Flor (4.ª vez) (1792–1860)",
+      "inicio_mandato": "16 de março de 1859",
+      "fim_mandato": "26 de abril de 1860",
+      "eleicoes": "1860 (XXIII)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Pedro V de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Conselho de Ministros composto por: António Maria de Fontes Pereira de Melo João Baptista da Silva Ferrão de Carvalho Martens \" Ferrão \" José Maria Caldeira do Casal Ribeiro António de Serpa Pimentel",
+      "inicio_mandato": "26 de abril de 1860",
+      "fim_mandato": "1 de maio de 1860",
+      "eleicoes": "1860 (XXIII)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Pedro V de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "22",
+      "primeiro_ministro": "Joaquim António de Aguiar (2.ª vez) (1792–1874)",
+      "inicio_mandato": "1 de maio de 1860",
+      "fim_mandato": "4 de julho de 1860",
+      "eleicoes": "—— (XXIV)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Pedro V de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "23",
+      "primeiro_ministro": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Marquês de Loulé e conde de Vale de Reis (2.ª vez) (1804–1875)",
+      "inicio_mandato": "4 de julho de 1860",
+      "fim_mandato": "12 de setembro de 1862",
+      "eleicoes": "1861 1864 (XXV)",
+      "partido": "Histórico",
+      "chefe_de_estado": "Pedro V de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "23",
+      "primeiro_ministro": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Marquês de Loulé e conde de Vale de Reis (2.ª vez) (1804–1875)",
+      "inicio_mandato": "4 de julho de 1860",
+      "fim_mandato": "12 de setembro de 1862",
+      "eleicoes": "1861 1864 (XXV)",
+      "partido": "Histórico",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Bernardo de Sá Nogueira de Figueiredo, Visconde de Sá da Bandeira (interino) (1795–1876)",
+      "inicio_mandato": "12 de setembro de 1862",
+      "fim_mandato": "6 de outubro de 1862",
+      "eleicoes": "1861 1864 (XXV)",
+      "partido": "Histórico",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Duque de Loulé e conde de Vale de Reis (2.ª vez continuação) (1804–1875)",
+      "inicio_mandato": "6 de outubro de 1862",
+      "fim_mandato": "17 de abril de 1865",
+      "eleicoes": "1861 1864 (XXV)",
+      "partido": "Histórico",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "24",
+      "primeiro_ministro": "Bernardo de Sá Nogueira de Figueiredo, Marquês de Sá da Bandeira (3.ª vez) (1795–1876)",
+      "inicio_mandato": "17 de abril de 1865",
+      "fim_mandato": "4 de setembro de 1865",
+      "eleicoes": "—— (XXVI)",
+      "partido": "Histórico",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "25",
+      "primeiro_ministro": "Joaquim António de Aguiar (3.ª vez) (1792–1874)",
+      "inicio_mandato": "4 de setembro de 1865",
+      "fim_mandato": "4 de janeiro de 1868",
+      "eleicoes": "1865 1867 (XXVII / G.F.)",
+      "partido": "Fusão (presidente regenerador)",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "26",
+      "primeiro_ministro": "António José de Ávila, Conde de Ávila (1807–1881)",
+      "inicio_mandato": "4 de janeiro de 1868",
+      "fim_mandato": "22 de julho de 1868",
+      "eleicoes": "—— (XXVIII)",
+      "partido": "Independente (com os reformistas)",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "27",
+      "primeiro_ministro": "Bernardo de Sá Nogueira de Figueiredo, Marquês de Sá da Bandeira (4.ª vez) (1795–1876)",
+      "inicio_mandato": "22 de julho de 1868",
+      "fim_mandato": "11 de agosto de 1869",
+      "eleicoes": "1868 1869 (XXIX)",
+      "partido": "Reformista",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "28",
+      "primeiro_ministro": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Duque de Loulé e conde de Vale de Reis (3.ª vez) (1804–1875)",
+      "inicio_mandato": "11 de agosto de 1869",
+      "fim_mandato": "19 de maio de 1870",
+      "eleicoes": "Mar. 1870 (XXX)",
+      "partido": "Histórico (com os reformistas)",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "29",
+      "primeiro_ministro": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (4.ª vez) (1790–1876)",
+      "inicio_mandato": "19 de maio de 1870",
+      "fim_mandato": "29 de agosto de 1870",
+      "eleicoes": "—— (XXXI)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "30",
+      "primeiro_ministro": "Bernardo de Sá Nogueira de Figueiredo, Marquês de Sá da Bandeira (5.ª vez) (1795–1876)",
+      "inicio_mandato": "29 de agosto de 1870",
+      "fim_mandato": "29 de outubro de 1870",
+      "eleicoes": "Set. 1870 (XXXII)",
+      "partido": "Reformista",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "31",
+      "primeiro_ministro": "António José de Ávila, Marquês de Ávila (2.ª vez) (1807–1881)",
+      "inicio_mandato": "29 de outubro de 1870",
+      "fim_mandato": "13 de setembro de 1871",
+      "eleicoes": "1871 (XXXIII)",
+      "partido": "Histórico (com os reformistas)",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "32",
+      "primeiro_ministro": "António Maria de Fontes Pereira de Melo (1819–1887)",
+      "inicio_mandato": "13 de setembro de 1871",
+      "fim_mandato": "5 de março de 1877",
+      "eleicoes": "1874 (XXXIV)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "33",
+      "primeiro_ministro": "António José de Ávila, Marquês de Ávila (3.ª vez) (1807–1881)",
+      "inicio_mandato": "5 de março de 1877",
+      "fim_mandato": "29 de janeiro de 1878",
+      "eleicoes": "—— (XXXV)",
+      "partido": "Progressista",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "34",
+      "primeiro_ministro": "António Maria de Fontes Pereira de Melo (2.ª vez) (1819–1887)",
+      "inicio_mandato": "29 de janeiro de 1878",
+      "fim_mandato": "1 de junho de 1879",
+      "eleicoes": "1878 (XXXVI)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "35",
+      "primeiro_ministro": "Anselmo José Braamcamp de Almeida Castelo Branco (1817–1885)",
+      "inicio_mandato": "1 de junho de 1879",
+      "fim_mandato": "25 de março de 1881",
+      "eleicoes": "1879 (XXXVII)",
+      "partido": "Progressista",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "36",
+      "primeiro_ministro": "António Rodrigues Sampaio (1806–1882)",
+      "inicio_mandato": "25 de março de 1881",
+      "fim_mandato": "14 de novembro de 1881",
+      "eleicoes": "1881 (XXXVIII)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "37",
+      "primeiro_ministro": "António Maria de Fontes Pereira de Melo (3.ª vez) (1819–1887)",
+      "inicio_mandato": "14 de novembro de 1881",
+      "fim_mandato": "20 de fevereiro de 1886",
+      "eleicoes": "1884 (XXXIX) (XL)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "38",
+      "primeiro_ministro": "José Luciano de Castro Pereira Corte-Real (1834–1914)",
+      "inicio_mandato": "20 de fevereiro de 1886",
+      "fim_mandato": "14 de janeiro de 1890",
+      "eleicoes": "1887 1889 (XLI)",
+      "partido": "Progressista",
+      "chefe_de_estado": "Luís I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "38",
+      "primeiro_ministro": "José Luciano de Castro Pereira Corte-Real (1834–1914)",
+      "inicio_mandato": "20 de fevereiro de 1886",
+      "fim_mandato": "14 de janeiro de 1890",
+      "eleicoes": "1887 1889 (XLI)",
+      "partido": "Progressista",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "39",
+      "primeiro_ministro": "António de Serpa Pimentel (1825–1900)",
+      "inicio_mandato": "14 de janeiro de 1890",
+      "fim_mandato": "14 de outubro de 1890",
+      "eleicoes": "1890 (XLII)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "40",
+      "primeiro_ministro": "João Crisóstomo de Abreu e Sousa (1811–1895)",
+      "inicio_mandato": "14 de outubro de 1890",
+      "fim_mandato": "17 de janeiro de 1892",
+      "eleicoes": "—— (XLIII) (XLIV)",
+      "partido": "Independente (com a Liga Liberal)",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "41",
+      "primeiro_ministro": "José Dias Ferreira (1837–1907)",
+      "inicio_mandato": "17 de janeiro de 1892",
+      "fim_mandato": "23 de fevereiro de 1893",
+      "eleicoes": "1892 (XLV) (XLVI)",
+      "partido": "Independente",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "42",
+      "primeiro_ministro": "Ernesto Rodolfo Hintze Ribeiro (1849–1907)",
+      "inicio_mandato": "23 de fevereiro de 1893",
+      "fim_mandato": "7 de fevereiro de 1897",
+      "eleicoes": "1894 1895 (XLVII)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "43",
+      "primeiro_ministro": "José Luciano de Castro Pereira Corte-Real (2.ª vez) (1834–1914)",
+      "inicio_mandato": "7 de fevereiro de 1897",
+      "fim_mandato": "25 de junho de 1900",
+      "eleicoes": "1897 1899 (XLVIII) (XLIX)",
+      "partido": "Progressista",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "44",
+      "primeiro_ministro": "Ernesto Rodolfo Hintze Ribeiro (2.ª vez) (1849–1907)",
+      "inicio_mandato": "25 de junho de 1900",
+      "fim_mandato": "20 de outubro de 1904",
+      "eleicoes": "1900 1901 1904 (L) (LI)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "45",
+      "primeiro_ministro": "José Luciano de Castro Pereira Corte-Real (3.ª vez) (1834–1914)",
+      "inicio_mandato": "20 de outubro de 1904",
+      "fim_mandato": "20 de março de 1906",
+      "eleicoes": "1905 (LII) (LIII)",
+      "partido": "Progressista",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "46",
+      "primeiro_ministro": "Ernesto Rodolfo Hintze Ribeiro (3.ª vez) (1849–1907)",
+      "inicio_mandato": "20 de março de 1906",
+      "fim_mandato": "19 de maio de 1906",
+      "eleicoes": "Abr. 1906 (LIV)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "47",
+      "primeiro_ministro": "João Ferreira Franco Pinto Castelo Branco (1855–1929)",
+      "inicio_mandato": "19 de maio de 1906",
+      "fim_mandato": "4 de fevereiro de 1908",
+      "eleicoes": "Ago. 1906 (LV)",
+      "partido": "Regenerador liberal",
+      "chefe_de_estado": "Carlos I de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "47",
+      "primeiro_ministro": "João Ferreira Franco Pinto Castelo Branco (1855–1929)",
+      "inicio_mandato": "19 de maio de 1906",
+      "fim_mandato": "4 de fevereiro de 1908",
+      "eleicoes": "Ago. 1906 (LV)",
+      "partido": "Regenerador liberal",
+      "chefe_de_estado": "Manuel II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "48",
+      "primeiro_ministro": "Francisco Joaquim Ferreira do Amaral («Governo da Acalmação») (1844–1923)",
+      "inicio_mandato": "4 de fevereiro de 1908",
+      "fim_mandato": "25 de dezembro de 1908",
+      "eleicoes": "1908 (LVI)",
+      "partido": "Independente (presidente regenerador)",
+      "chefe_de_estado": "Manuel II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "49",
+      "primeiro_ministro": "Artur Alberto de Campos Henriques (1852–1922)",
+      "inicio_mandato": "25 de dezembro de 1908",
+      "fim_mandato": "11 de abril de 1909",
+      "eleicoes": "—— (LVII)",
+      "partido": "Regenerador (com os progressistas)",
+      "chefe_de_estado": "Manuel II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "50",
+      "primeiro_ministro": "Sebastião Custódio de Sousa Teles (1847–1921)",
+      "inicio_mandato": "11 de abril de 1909",
+      "fim_mandato": "14 de maio de 1909",
+      "eleicoes": "—— (LVIII)",
+      "partido": "Independente (presidente progressista)",
+      "chefe_de_estado": "Manuel II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "51",
+      "primeiro_ministro": "Venceslau de Sousa Pereira de Lima (1858–1919)",
+      "inicio_mandato": "14 de maio de 1909",
+      "fim_mandato": "22 de dezembro de 1909",
+      "eleicoes": "—— (LIX)",
+      "partido": "Independente (presidente regenerador)",
+      "chefe_de_estado": "Manuel II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "52",
+      "primeiro_ministro": "Francisco António da Veiga Beirão (1841–1916)",
+      "inicio_mandato": "22 de dezembro de 1909",
+      "fim_mandato": "26 de junho de 1910",
+      "eleicoes": "—— (LX)",
+      "partido": "Progressista",
+      "chefe_de_estado": "Manuel II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "53",
+      "primeiro_ministro": "António Teixeira de Sousa (1857–1917)",
+      "inicio_mandato": "26 de junho de 1910",
+      "fim_mandato": "5 de outubro de 1910",
+      "eleicoes": "1910 (LXI)",
+      "partido": "Regenerador",
+      "chefe_de_estado": "Manuel II de Portugal",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910) [ editar | editar código ]"
+    },
+    {
+      "numero": "54",
+      "primeiro_ministro": "Joaquim Teófilo Fernandes Braga (1843–1924)",
+      "inicio_mandato": "5 de outubro de 1910",
+      "fim_mandato": "4 de setembro de 1911",
+      "eleicoes": "1911 (I)",
+      "partido": "Republicano",
+      "chefe_de_estado": "Teófilo Braga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "54",
+      "primeiro_ministro": "Joaquim Teófilo Fernandes Braga (1843–1924)",
+      "inicio_mandato": "5 de outubro de 1910",
+      "fim_mandato": "4 de setembro de 1911",
+      "eleicoes": "1911 (I)",
+      "partido": "Republicano",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "Governos Constitucionais (1911–1917)",
+      "primeiro_ministro": "Governos Constitucionais (1911–1917)",
+      "inicio_mandato": "Governos Constitucionais (1911–1917)",
+      "fim_mandato": "Governos Constitucionais (1911–1917)",
+      "eleicoes": "Governos Constitucionais (1911–1917)",
+      "partido": "Governos Constitucionais (1911–1917)",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "55",
+      "primeiro_ministro": "João Pinheiro Chagas (1863–1925)",
+      "inicio_mandato": "4 de setembro de 1911",
+      "fim_mandato": "13 de novembro de 1911",
+      "eleicoes": "—— (II)",
+      "partido": "Republicano",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "56",
+      "primeiro_ministro": "Augusto César de Almeida Vasconcelos Correia (1867–1951)",
+      "inicio_mandato": "13 de novembro de 1911",
+      "fim_mandato": "16 de junho de 1912",
+      "eleicoes": "—— (III)",
+      "partido": "Republicano",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "56",
+      "primeiro_ministro": "Augusto César de Almeida Vasconcelos Correia (1867–1951)",
+      "inicio_mandato": "13 de novembro de 1911",
+      "fim_mandato": "16 de junho de 1912",
+      "eleicoes": "—— (III)",
+      "partido": "Independente (presidente unionista)",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "57",
+      "primeiro_ministro": "Duarte Leite Pereira da Silva (1864–1950)",
+      "inicio_mandato": "16 de junho de 1912",
+      "fim_mandato": "23 de setembro de 1912",
+      "eleicoes": "—— (IV)",
+      "partido": "Independente",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Augusto César de Almeida de Vasconcelos Correia (interino) (1867–1951)",
+      "inicio_mandato": "23 de setembro de 1912",
+      "fim_mandato": "30 de setembro de 1912",
+      "eleicoes": "—— (IV)",
+      "partido": "Independente (presidente interino unionista)",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Duarte Leite Pereira da Silva (continuação) (1864–1950)",
+      "inicio_mandato": "30 de setembro de 1912",
+      "fim_mandato": "9 de janeiro de 1913",
+      "eleicoes": "—— (IV)",
+      "partido": "Independente",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "58",
+      "primeiro_ministro": "Afonso Augusto da Costa (1871–1937)",
+      "inicio_mandato": "9 de janeiro de 1913",
+      "fim_mandato": "9 de fevereiro de 1914",
+      "eleicoes": "1913 (V)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "59",
+      "primeiro_ministro": "Bernardino Luís Machado Guimarães (1851–1944)",
+      "inicio_mandato": "9 de fevereiro de 1914",
+      "fim_mandato": "12 de dezembro de 1914",
+      "eleicoes": "—— (VI) (VII)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "60",
+      "primeiro_ministro": "Victor Hugo de Azevedo Coutinho (1871–1955)",
+      "inicio_mandato": "12 de dezembro de 1914",
+      "fim_mandato": "25 de janeiro de 1915",
+      "eleicoes": "—— (VIII)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "61",
+      "primeiro_ministro": "Joaquim Pereira Pimenta de Castro Júnior (1846–1918)",
+      "inicio_mandato": "25 de janeiro de 1915",
+      "fim_mandato": "14 de maio de 1915",
+      "eleicoes": "—— (IX)",
+      "partido": "Independente",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Junta Constitucional composta por: José Maria Mendes Ribeiro Norton de Matos António Maria da Silva José de Freitas Ribeiro Alfredo Ernesto de Sá Cardoso Álvaro Xavier de Castro Paulo José Falcão",
+      "inicio_mandato": "14 de maio de 1915",
+      "fim_mandato": "15 de maio de 1915",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "João Pinheiro Chagas (não tomou posse) (1863–1925)",
+      "inicio_mandato": "15 de maio de 1915",
+      "fim_mandato": "17 de maio de 1915",
+      "eleicoes": "—— (X)",
+      "partido": "Independente",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "62",
+      "primeiro_ministro": "José Augusto Soares Ribeiro de Castro (interino entre 17 de maio e 19 de junho) (1848–1929)",
+      "inicio_mandato": "17 de maio de 1915",
+      "fim_mandato": "30 de novembro de 1915",
+      "eleicoes": "—— (X)",
+      "partido": "Democrático (presidente independente)",
+      "chefe_de_estado": "Manuel de Arriaga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "62",
+      "primeiro_ministro": "José Augusto Soares Ribeiro de Castro (interino entre 17 de maio e 19 de junho) (1848–1929)",
+      "inicio_mandato": "17 de maio de 1915",
+      "fim_mandato": "30 de novembro de 1915",
+      "eleicoes": "1915 (XI)",
+      "partido": "Democrático (presidente independente)",
+      "chefe_de_estado": "Teófilo Braga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "62",
+      "primeiro_ministro": "José Augusto Soares Ribeiro de Castro (interino entre 17 de maio e 19 de junho) (1848–1929)",
+      "inicio_mandato": "17 de maio de 1915",
+      "fim_mandato": "30 de novembro de 1915",
+      "eleicoes": "1915 (XI)",
+      "partido": "Democrático (presidente independente)",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "63",
+      "primeiro_ministro": "Afonso Augusto da Costa (2.ª vez) (1871–1937)",
+      "inicio_mandato": "30 de novembro de 1915",
+      "fim_mandato": "16 de março de 1916",
+      "eleicoes": "—— (XII)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "64",
+      "primeiro_ministro": "António José de Almeida (1866–1929)",
+      "inicio_mandato": "16 de março de 1916",
+      "fim_mandato": "4 de setembro de 1916",
+      "eleicoes": "—— (XIII)",
+      "partido": "União Sagrada (presidente evolucionista)",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Afonso Augusto da Costa (interino) (1871–1937)",
+      "inicio_mandato": "4 de setembro de 1916",
+      "fim_mandato": "5 de outubro de 1916",
+      "eleicoes": "—— (XIII)",
+      "partido": "União Sagrada (presidente interino democrático)",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "António José de Almeida (continuação) (1866–1929)",
+      "inicio_mandato": "5 de outubro de 1916",
+      "fim_mandato": "25 de abril de 1917",
+      "eleicoes": "—— (XIII)",
+      "partido": "União Sagrada (presidente evolucionista)",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "65",
+      "primeiro_ministro": "Afonso Augusto da Costa (3.ª vez) (1871–1937)",
+      "inicio_mandato": "25 de abril de 1917",
+      "fim_mandato": "7 de outubro de 1917",
+      "eleicoes": "—— (XIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "José Maria Mendes Ribeiro Norton de Matos (interino) (1867–1955)",
+      "inicio_mandato": "7 de outubro de 1917",
+      "fim_mandato": "25 de outubro de 1917",
+      "eleicoes": "—— (XIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Afonso Augusto da Costa (3.ª vez continuação) (1871–1937)",
+      "inicio_mandato": "25 de outubro de 1917",
+      "fim_mandato": "19 de novembro de 1917",
+      "eleicoes": "—— (XIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "José Maria Mendes Ribeiro Norton de Matos (interino) (1867–1955)",
+      "inicio_mandato": "19 de novembro de 1917",
+      "fim_mandato": "8 de dezembro de 1917",
+      "eleicoes": "—— (XIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Junta Revolucionária composta por: Sidónio Bernardino Cardoso da Silva Pais (Presidente) António Maria de Azevedo Machado Santos (Vogal) José Feliciano da Costa Júnior (Vogal)",
+      "inicio_mandato": "8 de dezembro de 1917",
+      "fim_mandato": "12 de dezembro de 1917",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "chefe_de_estado": "Sidónio Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "66",
+      "primeiro_ministro": "Sidónio Bernardino Cardoso da Silva Pais (1872–1918)",
+      "inicio_mandato": "12 de dezembro de 1917",
+      "fim_mandato": "9 de maio de 1918",
+      "eleicoes": "1918 (XV) (XVI)",
+      "partido": "Independente (presidente unionista)",
+      "chefe_de_estado": "Sidónio Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "66",
+      "primeiro_ministro": "Sidónio Bernardino Cardoso da Silva Pais (1872–1918)",
+      "inicio_mandato": "12 de dezembro de 1917",
+      "fim_mandato": "9 de maio de 1918",
+      "eleicoes": "1918 (XV) (XVI)",
+      "partido": "Nacional republicano (desde abr. 1918)",
+      "chefe_de_estado": "Sidónio Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Sidónio Bernardino Cardoso da Silva Pais (1872–1918)",
+      "inicio_mandato": "9 de maio de 1918",
+      "fim_mandato": "14 de dezembro de 1918",
+      "eleicoes": "1918 (XV) (XVI)",
+      "partido": "Nacional republicano",
+      "chefe_de_estado": "Sidónio Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Governo composto por: António Bernardino de Sousa Ferreira Jorge Couceiro da Costa João Tamagnini de Sousa Barbosa Álvaro César de Mendonça João do Canto e Castro Silva Antunes Júnior António Caetano de Abreu Freire Egas Moniz João Alberto Pereira de Azevedo Neves Alexandre José Botelho de Vasconcelos e Sá José Alfredo Mendes de Magalhães Henrique Ventura Forbes de Bessa José João Pinto da Cruz Azevedo Eduardo Fernandes de Oliveira",
+      "inicio_mandato": "14 de dezembro de 1918",
+      "fim_mandato": "15 de dezembro de 1918",
+      "eleicoes": "1918 (XV) (XVI)",
+      "partido": "Nacional republicano",
+      "chefe_de_estado": "16º Governo republicano",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "67",
+      "primeiro_ministro": "João do Canto e Castro Silva Antunes Júnior (interino) (1862–1934)",
+      "inicio_mandato": "15 de dezembro de 1918",
+      "fim_mandato": "16 de dezembro de 1918",
+      "eleicoes": "1918 (XV) (XVI)",
+      "partido": "Nacional republicano (presidente independente)",
+      "chefe_de_estado": "16º Governo republicano",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "João do Canto e Castro Silva Antunes Júnior (interino) (1862–1934)",
+      "inicio_mandato": "16 de dezembro de 1918",
+      "fim_mandato": "23 de dezembro de 1918",
+      "eleicoes": "1918 (XV) (XVI)",
+      "partido": "Nacional republicano (presidente independente)",
+      "chefe_de_estado": "João do Canto e Castro",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "Governos Constitucionais (1918–1926)",
+      "primeiro_ministro": "Governos Constitucionais (1918–1926)",
+      "inicio_mandato": "Governos Constitucionais (1918–1926)",
+      "fim_mandato": "Governos Constitucionais (1918–1926)",
+      "eleicoes": "Governos Constitucionais (1918–1926)",
+      "partido": "Governos Constitucionais (1918–1926)",
+      "chefe_de_estado": "João do Canto e Castro",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "68",
+      "primeiro_ministro": "João Tamagnini de Sousa Barbosa (1883–1948)",
+      "inicio_mandato": "23 de dezembro de 1918",
+      "fim_mandato": "27 de janeiro de 1919",
+      "eleicoes": "—— (XVII) (XVIII)",
+      "partido": "Nacional republicano",
+      "chefe_de_estado": "João do Canto e Castro",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "69",
+      "primeiro_ministro": "José Maria de Mascarenhas Relvas de Campos (1858–1929)",
+      "inicio_mandato": "27 de janeiro de 1919",
+      "fim_mandato": "30 de março de 1919",
+      "eleicoes": "—— (XIX)",
+      "partido": "Independente",
+      "chefe_de_estado": "João do Canto e Castro",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "70",
+      "primeiro_ministro": "Domingos Leite Pereira (1882–1956)",
+      "inicio_mandato": "30 de março de 1919",
+      "fim_mandato": "29 de junho de 1919",
+      "eleicoes": "1919 (XX)",
+      "partido": "Independente (presidente democrático)",
+      "chefe_de_estado": "João do Canto e Castro",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "71",
+      "primeiro_ministro": "Alfredo Ernesto de Sá Cardoso (1864–1950)",
+      "inicio_mandato": "29 de junho de 1919",
+      "fim_mandato": "15 de janeiro de 1920",
+      "eleicoes": "—— (XXI)",
+      "partido": "Democrático",
+      "chefe_de_estado": "João do Canto e Castro",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "71",
+      "primeiro_ministro": "Alfredo Ernesto de Sá Cardoso (1864–1950)",
+      "inicio_mandato": "29 de junho de 1919",
+      "fim_mandato": "15 de janeiro de 1920",
+      "eleicoes": "—— (XXI)",
+      "partido": "Democrático",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Francisco José de Meneses Fernandes Costa (não tomou posse) (« Governo dos Cinco Minutos ») (1857–1925)",
+      "inicio_mandato": "15 de janeiro de 1920",
+      "fim_mandato": "15 de janeiro de 1920",
+      "eleicoes": "—— (XXII)",
+      "partido": "Liberal",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Alfredo Ernesto de Sá Cardoso (reconduzido) (1864–1950)",
+      "inicio_mandato": "15 de janeiro de 1920",
+      "fim_mandato": "21 de janeiro de 1920",
+      "eleicoes": "—— (XXI)",
+      "partido": "Democrático",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "72",
+      "primeiro_ministro": "Domingos Leite Pereira (2.ª vez) (1882–1956)",
+      "inicio_mandato": "21 de janeiro de 1920",
+      "fim_mandato": "8 de março de 1920",
+      "eleicoes": "—— (XXIII)",
+      "partido": "Independente (presidente democrático)",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "73",
+      "primeiro_ministro": "António Maria Baptista (1863–1920)",
+      "inicio_mandato": "8 de março de 1920",
+      "fim_mandato": "6 de junho de 1920",
+      "eleicoes": "—— (XXIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "74",
+      "primeiro_ministro": "José Ramos Preto (interino durante o dia 6 de junho) (1870–1949)",
+      "inicio_mandato": "6 de junho de 1920",
+      "fim_mandato": "26 de junho de 1920",
+      "eleicoes": "—— (XXIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "75",
+      "primeiro_ministro": "António Maria da Silva (1872–1950)",
+      "inicio_mandato": "26 de junho de 1920",
+      "fim_mandato": "19 de julho de 1920",
+      "eleicoes": "—— (XXV)",
+      "partido": "Democrático (com os populares e os socialistas)",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "76",
+      "primeiro_ministro": "António Joaquim Granjo (1881–1921)",
+      "inicio_mandato": "19 de julho de 1920",
+      "fim_mandato": "20 de novembro de 1920",
+      "eleicoes": "—— (XXVI)",
+      "partido": "Liberal (com os reconstituintes e os democráticos)",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "77",
+      "primeiro_ministro": "Álvaro Xavier de Castro (1878–1928)",
+      "inicio_mandato": "20 de novembro de 1920",
+      "fim_mandato": "30 de novembro de 1920",
+      "eleicoes": "—— (XXVII)",
+      "partido": "Reconstituinte (com os democráticos e os populares)",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "78",
+      "primeiro_ministro": "Liberato Damião Ribeiro Pinto (1880–1949)",
+      "inicio_mandato": "30 de novembro de 1920",
+      "fim_mandato": "2 de março de 1921",
+      "eleicoes": "—— (XXVIII)",
+      "partido": "Democrático (com os reconstituintes e os populares)",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "79",
+      "primeiro_ministro": "Bernardino Luís Machado Guimarães (2.ª vez) (1851–1944)",
+      "inicio_mandato": "2 de março de 1921",
+      "fim_mandato": "24 de maio de 1921",
+      "eleicoes": "—— (XXIX)",
+      "partido": "Democrático (com os reconstituintes e os populares)",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "80",
+      "primeiro_ministro": "Tomé José de Barros Queirós (1872–1926)",
+      "inicio_mandato": "24 de maio de 1921",
+      "fim_mandato": "30 de agosto de 1921",
+      "eleicoes": "1921 (XXX)",
+      "partido": "Liberal",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "81",
+      "primeiro_ministro": "António Joaquim Granjo (2.ª vez) (1881–1921)",
+      "inicio_mandato": "30 de agosto de 1921",
+      "fim_mandato": "19 de outubro de 1921",
+      "eleicoes": "—— (XXXI)",
+      "partido": "Liberal",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "82",
+      "primeiro_ministro": "Manuel Maria Coelho (1857–1943)",
+      "inicio_mandato": "19 de outubro de 1921",
+      "fim_mandato": "5 de novembro de 1921",
+      "eleicoes": "—— (XXXII)",
+      "partido": "Independente",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "83",
+      "primeiro_ministro": "Carlos Henrique da Silva Maia Pinto (1866–1932)",
+      "inicio_mandato": "5 de novembro de 1921",
+      "fim_mandato": "16 de dezembro de 1921",
+      "eleicoes": "—— (XXXIII)",
+      "partido": "Independente (presidente democrático)",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "84",
+      "primeiro_ministro": "Francisco Pinto da Cunha Leal (1888–1970)",
+      "inicio_mandato": "16 de dezembro de 1921",
+      "fim_mandato": "6 de fevereiro de 1922",
+      "eleicoes": "—— (XXXIV)",
+      "partido": "Independente",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "85",
+      "primeiro_ministro": "António Maria da Silva (2.ª vez) (1872–1950)",
+      "inicio_mandato": "6 de fevereiro de 1922",
+      "fim_mandato": "15 de novembro de 1923",
+      "eleicoes": "1922 (XXXV) (XXXVI) (XXXVII)",
+      "partido": "Democrático",
+      "chefe_de_estado": "António José de Almeida",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "85",
+      "primeiro_ministro": "António Maria da Silva (2.ª vez) (1872–1950)",
+      "inicio_mandato": "6 de fevereiro de 1922",
+      "fim_mandato": "15 de novembro de 1923",
+      "eleicoes": "1922 (XXXV) (XXXVI) (XXXVII)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "86",
+      "primeiro_ministro": "António Ginestal Machado (1874–1940)",
+      "inicio_mandato": "15 de novembro de 1923",
+      "fim_mandato": "18 de dezembro de 1923",
+      "eleicoes": "—— (XXXVIII)",
+      "partido": "Nacionalista",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "87",
+      "primeiro_ministro": "Álvaro Xavier de Castro (2.ª vez) (1878–1928)",
+      "inicio_mandato": "18 de dezembro de 1923",
+      "fim_mandato": "7 de julho de 1924",
+      "eleicoes": "—— (XXXIX)",
+      "partido": "Acionista (com os democráticos e os seareiros)",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "88",
+      "primeiro_ministro": "Alfredo Rodrigues Gaspar (1865–1938)",
+      "inicio_mandato": "7 de julho de 1924",
+      "fim_mandato": "22 de novembro de 1924",
+      "eleicoes": "—— (XL)",
+      "partido": "Democrático (com os acionistas)",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "89",
+      "primeiro_ministro": "José Domingues dos Santos (1887–1958)",
+      "inicio_mandato": "22 de novembro de 1924",
+      "fim_mandato": "16 de fevereiro de 1925",
+      "eleicoes": "—— (XLI)",
+      "partido": "Democrático (com os acionistas e os seareiros)",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "90",
+      "primeiro_ministro": "Vitorino Máximo de Carvalho Guimarães (1876–1957)",
+      "inicio_mandato": "16 de fevereiro de 1925",
+      "fim_mandato": "2 de julho de 1925",
+      "eleicoes": "—— (XLII)",
+      "partido": "Democrático (com os acionistas)",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "91",
+      "primeiro_ministro": "António Maria da Silva (3.ª vez) (1872–1950)",
+      "inicio_mandato": "2 de julho de 1925",
+      "fim_mandato": "1 de agosto de 1925",
+      "eleicoes": "—— (XLIII)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "92",
+      "primeiro_ministro": "Domingos Leite Pereira (3.ª vez) (1882–1956)",
+      "inicio_mandato": "1 de agosto de 1925",
+      "fim_mandato": "18 de dezembro de 1925",
+      "eleicoes": "1925 (XLIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Manuel Teixeira Gomes",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "92",
+      "primeiro_ministro": "Domingos Leite Pereira (3.ª vez) (1882–1956)",
+      "inicio_mandato": "1 de agosto de 1925",
+      "fim_mandato": "18 de dezembro de 1925",
+      "eleicoes": "1925 (XLIV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "93",
+      "primeiro_ministro": "António Maria da Silva (4.ª vez) (1872–1950)",
+      "inicio_mandato": "18 de dezembro de 1925",
+      "fim_mandato": "29 de maio de 1926",
+      "eleicoes": "—— (XLV)",
+      "partido": "Democrático",
+      "chefe_de_estado": "Bernardino Machado",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Junta de Salvação Pública composta por: José Mendes Cabeçadas Júnior (Presidente) Armando Humberto da Gama Ochoa Jaime Pereira Rodrigues Baptista Carlos de Jesus Vilhena",
+      "inicio_mandato": "29 de maio de 1926",
+      "fim_mandato": "31 de maio de 1926",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "chefe_de_estado": "José Mendes Cabeçadas",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "94",
+      "primeiro_ministro": "José Mendes Cabeçadas Júnior (1883–1965)",
+      "inicio_mandato": "31 de maio de 1926",
+      "fim_mandato": "17 de junho de 1926",
+      "eleicoes": "—— (I)",
+      "partido": "Independente",
+      "chefe_de_estado": "José Mendes Cabeçadas",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "95",
+      "primeiro_ministro": "Manuel de Oliveira Gomes da Costa (1863–1929)",
+      "inicio_mandato": "17 de junho de 1926",
+      "fim_mandato": "9 de julho de 1926",
+      "eleicoes": "—— (II)",
+      "partido": "Independente",
+      "chefe_de_estado": "Manuel Gomes da Costa",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "96",
+      "primeiro_ministro": "António Óscar de Fragoso Carmona (1869–1951)",
+      "inicio_mandato": "9 de julho de 1926",
+      "fim_mandato": "18 de abril de 1928",
+      "eleicoes": "—— (III)",
+      "partido": "Independente",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "Ditadura Nacional (1928–1933)",
+      "primeiro_ministro": "Ditadura Nacional (1928–1933)",
+      "inicio_mandato": "Ditadura Nacional (1928–1933)",
+      "fim_mandato": "Ditadura Nacional (1928–1933)",
+      "eleicoes": "Ditadura Nacional (1928–1933)",
+      "partido": "Ditadura Nacional (1928–1933)",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "97",
+      "primeiro_ministro": "José Vicente de Freitas (1869–1952)",
+      "inicio_mandato": "18 de abril de 1928",
+      "fim_mandato": "9 de julho de 1929",
+      "eleicoes": "—— (IV) (V)",
+      "partido": "Independente",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "98",
+      "primeiro_ministro": "Artur Ivens Ferraz (1870–1933)",
+      "inicio_mandato": "9 de julho de 1929",
+      "fim_mandato": "16 de outubro de 1929",
+      "eleicoes": "—— (VI)",
+      "partido": "Independente",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Luís Maria Lopes da Fonseca (interino) (1883–1974)",
+      "inicio_mandato": "16 de outubro de 1929",
+      "fim_mandato": "26 de outubro de 1929",
+      "eleicoes": "—— (VI)",
+      "partido": "Independente",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Artur Ivens Ferraz (continuação) (1870–1933)",
+      "inicio_mandato": "26 de outubro de 1929",
+      "fim_mandato": "21 de janeiro de 1930",
+      "eleicoes": "—— (VI)",
+      "partido": "Independente",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "99",
+      "primeiro_ministro": "Domingos Augusto Alves da Costa e \"de\" Oliveira (1873–1957)",
+      "inicio_mandato": "21 de janeiro de 1930",
+      "fim_mandato": "5 de julho de 1932",
+      "eleicoes": "—— (VII)",
+      "partido": "Independente",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "99",
+      "primeiro_ministro": "Domingos Augusto Alves da Costa e \"de\" Oliveira (1873–1957)",
+      "inicio_mandato": "21 de janeiro de 1930",
+      "fim_mandato": "5 de julho de 1932",
+      "eleicoes": "—— (VII)",
+      "partido": "União Nacional (desde 30 jul. 1930)",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "100",
+      "primeiro_ministro": "António de Oliveira Salazar (1889–1970)",
+      "inicio_mandato": "5 de julho de 1932",
+      "fim_mandato": "11 de abril de 1933",
+      "eleicoes": "—— (VIII)",
+      "partido": "União Nacional",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "Estado Novo (1933–1974)",
+      "primeiro_ministro": "Estado Novo (1933–1974)",
+      "inicio_mandato": "Estado Novo (1933–1974)",
+      "fim_mandato": "Estado Novo (1933–1974)",
+      "eleicoes": "Estado Novo (1933–1974)",
+      "partido": "Estado Novo (1933–1974)",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "António de Oliveira Salazar (1889–1970)",
+      "inicio_mandato": "11 de abril de 1933",
+      "fim_mandato": "27 de setembro de 1968",
+      "eleicoes": "1934 1938 1942 1945 1949 1953 1957 1961 1965 (IX (I E.N.)) (X (II E.N.))",
+      "partido": "União Nacional",
+      "chefe_de_estado": "Óscar Carmona",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "António de Oliveira Salazar (1889–1970)",
+      "inicio_mandato": "11 de abril de 1933",
+      "fim_mandato": "27 de setembro de 1968",
+      "eleicoes": "1934 1938 1942 1945 1949 1953 1957 1961 1965 (IX (I E.N.)) (X (II E.N.))",
+      "partido": "União Nacional",
+      "chefe_de_estado": "Francisco Craveiro Lopes",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "António de Oliveira Salazar (1889–1970)",
+      "inicio_mandato": "11 de abril de 1933",
+      "fim_mandato": "27 de setembro de 1968",
+      "eleicoes": "1934 1938 1942 1945 1949 1953 1957 1961 1965 (IX (I E.N.)) (X (II E.N.))",
+      "partido": "União Nacional",
+      "chefe_de_estado": "Américo Thomaz",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "101",
+      "primeiro_ministro": "Marcello José das Neves Alves Caetano (1906–1980)",
+      "inicio_mandato": "27 de setembro de 1968",
+      "fim_mandato": "25 de abril de 1974",
+      "eleicoes": "1969 (XI (III E.N.))",
+      "partido": "União Nacional",
+      "chefe_de_estado": "Américo Thomaz",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "101",
+      "primeiro_ministro": "Marcello José das Neves Alves Caetano (1906–1980)",
+      "inicio_mandato": "27 de setembro de 1968",
+      "fim_mandato": "25 de abril de 1974",
+      "eleicoes": "1973",
+      "partido": "Ação Nacional Popular (desde 21 fev. 1970)",
+      "chefe_de_estado": "Américo Thomaz",
+      "periodo": "Ditadura militar (1926–1928)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Junta de Salvação Nacional composta por: António Sebastião Ribeiro de Spínola (Presidente) Francisco da Costa Gomes Jaime Silvério Marques Manuel Diogo Neto Carlos Galvão de Melo José Baptista Pinheiro de Azevedo António Alva Rosa Coutinho",
+      "inicio_mandato": "25 de abril de 1974",
+      "fim_mandato": "16 de maio de 1974",
+      "eleicoes": "——",
+      "partido": "Independente",
+      "chefe_de_estado": "Junta de Salvação Nacional",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "Governos Provisórios (1974–1976)",
+      "primeiro_ministro": "Governos Provisórios (1974–1976)",
+      "inicio_mandato": "Governos Provisórios (1974–1976)",
+      "fim_mandato": "Governos Provisórios (1974–1976)",
+      "eleicoes": "Governos Provisórios (1974–1976)",
+      "partido": "Governos Provisórios (1974–1976)",
+      "chefe_de_estado": "Junta de Salvação Nacional",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "102",
+      "primeiro_ministro": "Adelino Hermitério da Palma Carlos (1905–1992)",
+      "inicio_mandato": "16 de maio de 1974",
+      "fim_mandato": "18 de julho de 1974",
+      "eleicoes": "—— (I Prov.)",
+      "partido": "Independente",
+      "chefe_de_estado": "António de Spínola",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "103",
+      "primeiro_ministro": "Vasco dos Santos Gonçalves (1921–2005)",
+      "inicio_mandato": "18 de julho de 1974",
+      "fim_mandato": "19 de setembro de 1975",
+      "eleicoes": "1975 Const. (II Prov.) (III Prov.) (IV Prov.) (V Prov.)",
+      "partido": "Independente",
+      "chefe_de_estado": "António de Spínola",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "103",
+      "primeiro_ministro": "Vasco dos Santos Gonçalves (1921–2005)",
+      "inicio_mandato": "18 de julho de 1974",
+      "fim_mandato": "19 de setembro de 1975",
+      "eleicoes": "1975 Const. (II Prov.) (III Prov.) (IV Prov.) (V Prov.)",
+      "partido": "Independente",
+      "chefe_de_estado": "Francisco da Costa Gomes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "104",
+      "primeiro_ministro": "José Baptista Pinheiro de Azevedo (1917–1983)",
+      "inicio_mandato": "19 de setembro de 1975",
+      "fim_mandato": "23 de junho de 1976",
+      "eleicoes": "—— (VI Prov.)",
+      "partido": "Independente",
+      "chefe_de_estado": "Francisco da Costa Gomes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Vasco Fernando Leotte de Almeida e Costa (interino) (1932–2010)",
+      "inicio_mandato": "23 de junho de 1976",
+      "fim_mandato": "23 de julho de 1976",
+      "eleicoes": "—— (VI Prov.)",
+      "partido": "Independente",
+      "chefe_de_estado": "Francisco da Costa Gomes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "–",
+      "primeiro_ministro": "Vasco Fernando Leotte de Almeida e Costa (interino) (1932–2010)",
+      "inicio_mandato": "23 de junho de 1976",
+      "fim_mandato": "23 de julho de 1976",
+      "eleicoes": "—— (VI Prov.)",
+      "partido": "Independente",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "Governos Constitucionais (1976–presente)",
+      "primeiro_ministro": "Governos Constitucionais (1976–presente)",
+      "inicio_mandato": "Governos Constitucionais (1976–presente)",
+      "fim_mandato": "Governos Constitucionais (1976–presente)",
+      "eleicoes": "Governos Constitucionais (1976–presente)",
+      "partido": "Governos Constitucionais (1976–presente)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "105",
+      "primeiro_ministro": "Mário Alberto Nobre Lopes Soares (1924–2017)",
+      "inicio_mandato": "23 de julho de 1976",
+      "fim_mandato": "29 de agosto de 1978",
+      "eleicoes": "1976 (I)",
+      "partido": "Socialista",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "105",
+      "primeiro_ministro": "Mário Alberto Nobre Lopes Soares (1924–2017)",
+      "inicio_mandato": "23 de julho de 1976",
+      "fim_mandato": "29 de agosto de 1978",
+      "eleicoes": "—— (II)",
+      "partido": "Socialista (com os centristas)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "106",
+      "primeiro_ministro": "Alfredo Jorge Nobre da Costa (1923–1996)",
+      "inicio_mandato": "29 de agosto de 1978",
+      "fim_mandato": "22 de novembro de 1978",
+      "eleicoes": "—— (III)",
+      "partido": "Independente (iniciativa presidencial)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "107",
+      "primeiro_ministro": "Carlos Alberto da Mota Pinto (1936–1985)",
+      "inicio_mandato": "22 de novembro de 1978",
+      "fim_mandato": "1 de agosto de 1979",
+      "eleicoes": "—— (IV)",
+      "partido": "Independente (iniciativa presidencial)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "108",
+      "primeiro_ministro": "Maria de Lourdes Ruivo da Silva de Matos Pintasilgo (1930–2004)",
+      "inicio_mandato": "1 de agosto de 1979",
+      "fim_mandato": "3 de janeiro de 1980",
+      "eleicoes": "—— (V)",
+      "partido": "Independente (iniciativa presidencial)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "109",
+      "primeiro_ministro": "Francisco Manuel Lumbrales de Sá Carneiro (1934–1980)",
+      "inicio_mandato": "3 de janeiro de 1980",
+      "fim_mandato": "4 de dezembro de 1980",
+      "eleicoes": "1979 (VI) 1980 ——",
+      "partido": "Aliança Democrática (primeiro-ministro social democrata)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "110",
+      "primeiro_ministro": "Diogo Pinto de Freitas do Amaral (interino) (1941–2019)",
+      "inicio_mandato": "4 de dezembro de 1980",
+      "fim_mandato": "9 de janeiro de 1981",
+      "eleicoes": "1979 (VI) 1980 ——",
+      "partido": "Aliança Democrática (vice-primeiro-ministro centrista)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "111",
+      "primeiro_ministro": "Francisco José Pereira Pinto de Balsemão (1937–2025)",
+      "inicio_mandato": "9 de janeiro de 1981",
+      "fim_mandato": "9 de junho de 1983",
+      "eleicoes": "—— (VII)",
+      "partido": "Aliança Democrática (primeiro-ministro social democrata)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "111",
+      "primeiro_ministro": "Francisco José Pereira Pinto de Balsemão (1937–2025)",
+      "inicio_mandato": "9 de janeiro de 1981",
+      "fim_mandato": "9 de junho de 1983",
+      "eleicoes": "—— (VIII)",
+      "partido": "Aliança Democrática (primeiro-ministro social democrata)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "112",
+      "primeiro_ministro": "Mário Alberto Nobre Lopes Soares (2.ª vez) (1924–2017)",
+      "inicio_mandato": "9 de junho de 1983",
+      "fim_mandato": "6 de novembro de 1985",
+      "eleicoes": "1983 (IX)",
+      "partido": "Socialista (com os sociais democratas)",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "113",
+      "primeiro_ministro": "Aníbal António Cavaco Silva (1939–)",
+      "inicio_mandato": "6 de novembro de 1985",
+      "fim_mandato": "28 de outubro de 1995",
+      "eleicoes": "1985 (X)",
+      "partido": "Social democrata",
+      "chefe_de_estado": "António Ramalho Eanes",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "113",
+      "primeiro_ministro": "Aníbal António Cavaco Silva (1939–)",
+      "inicio_mandato": "6 de novembro de 1985",
+      "fim_mandato": "28 de outubro de 1995",
+      "eleicoes": "1985 (X)",
+      "partido": "Social democrata",
+      "chefe_de_estado": "Mário Soares",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "113",
+      "primeiro_ministro": "Aníbal António Cavaco Silva (1939–)",
+      "inicio_mandato": "6 de novembro de 1985",
+      "fim_mandato": "28 de outubro de 1995",
+      "eleicoes": "1987 (XI)",
+      "partido": "Social democrata",
+      "chefe_de_estado": "Mário Soares",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "113",
+      "primeiro_ministro": "Aníbal António Cavaco Silva (1939–)",
+      "inicio_mandato": "6 de novembro de 1985",
+      "fim_mandato": "28 de outubro de 1995",
+      "eleicoes": "1991 (XII)",
+      "partido": "Social democrata",
+      "chefe_de_estado": "Mário Soares",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "114",
+      "primeiro_ministro": "António Manuel de Oliveira Guterres (1949–)",
+      "inicio_mandato": "28 de outubro de 1995",
+      "fim_mandato": "6 de abril de 2002",
+      "eleicoes": "1995 (XIII)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Mário Soares",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "114",
+      "primeiro_ministro": "António Manuel de Oliveira Guterres (1949–)",
+      "inicio_mandato": "28 de outubro de 1995",
+      "fim_mandato": "6 de abril de 2002",
+      "eleicoes": "1995 (XIII)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Jorge Sampaio",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "114",
+      "primeiro_ministro": "António Manuel de Oliveira Guterres (1949–)",
+      "inicio_mandato": "28 de outubro de 1995",
+      "fim_mandato": "6 de abril de 2002",
+      "eleicoes": "1999 (XIV)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Jorge Sampaio",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "115",
+      "primeiro_ministro": "José Manuel Durão Barroso (1956–)",
+      "inicio_mandato": "6 de abril de 2002",
+      "fim_mandato": "17 de julho de 2004",
+      "eleicoes": "2002 (XV)",
+      "partido": "Social democrata (com os centristas)",
+      "chefe_de_estado": "Jorge Sampaio",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "116",
+      "primeiro_ministro": "Pedro Miguel de Santana Lopes (1956–)",
+      "inicio_mandato": "17 de julho de 2004",
+      "fim_mandato": "12 de março de 2005",
+      "eleicoes": "—— (XVI)",
+      "partido": "Social democrata (com os centristas)",
+      "chefe_de_estado": "Jorge Sampaio",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "117",
+      "primeiro_ministro": "José Sócrates Carvalho Pinto de Sousa (1957–)",
+      "inicio_mandato": "12 de março de 2005",
+      "fim_mandato": "21 de junho de 2011",
+      "eleicoes": "2005 (XVII)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Jorge Sampaio",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "117",
+      "primeiro_ministro": "José Sócrates Carvalho Pinto de Sousa (1957–)",
+      "inicio_mandato": "12 de março de 2005",
+      "fim_mandato": "21 de junho de 2011",
+      "eleicoes": "2005 (XVII)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Aníbal Cavaco Silva",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "117",
+      "primeiro_ministro": "José Sócrates Carvalho Pinto de Sousa (1957–)",
+      "inicio_mandato": "12 de março de 2005",
+      "fim_mandato": "21 de junho de 2011",
+      "eleicoes": "2009 (XVIII)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Aníbal Cavaco Silva",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "118",
+      "primeiro_ministro": "Pedro Manuel Mamede Passos Coelho (1964–)",
+      "inicio_mandato": "21 de junho de 2011",
+      "fim_mandato": "26 de novembro de 2015",
+      "eleicoes": "2011 (XIX)",
+      "partido": "Social democrata (com os centristas)",
+      "chefe_de_estado": "Aníbal Cavaco Silva",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "118",
+      "primeiro_ministro": "Pedro Manuel Mamede Passos Coelho (1964–)",
+      "inicio_mandato": "21 de junho de 2011",
+      "fim_mandato": "26 de novembro de 2015",
+      "eleicoes": "2015 (XX)",
+      "partido": "Portugal à Frente (primeiro-ministro social democrata)",
+      "chefe_de_estado": "Aníbal Cavaco Silva",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "119",
+      "primeiro_ministro": "António Luís Santos da Costa (1961–)",
+      "inicio_mandato": "26 de novembro de 2015",
+      "fim_mandato": "2 de abril de 2024",
+      "eleicoes": "—— (XXI)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Aníbal Cavaco Silva",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "119",
+      "primeiro_ministro": "António Luís Santos da Costa (1961–)",
+      "inicio_mandato": "26 de novembro de 2015",
+      "fim_mandato": "2 de abril de 2024",
+      "eleicoes": "—— (XXI)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Marcelo Rebelo de Sousa",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "119",
+      "primeiro_ministro": "António Luís Santos da Costa (1961–)",
+      "inicio_mandato": "26 de novembro de 2015",
+      "fim_mandato": "2 de abril de 2024",
+      "eleicoes": "2019 (XXII)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Marcelo Rebelo de Sousa",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "119",
+      "primeiro_ministro": "António Luís Santos da Costa (1961–)",
+      "inicio_mandato": "26 de novembro de 2015",
+      "fim_mandato": "2 de abril de 2024",
+      "eleicoes": "2022 (XXIII)",
+      "partido": "Socialista",
+      "chefe_de_estado": "Marcelo Rebelo de Sousa",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "120",
+      "primeiro_ministro": "Luís Filipe Montenegro Cardoso de Morais Esteves (1973–)",
+      "inicio_mandato": "2 de abril de 2024",
+      "fim_mandato": "presente",
+      "eleicoes": "2024 (XXIV)",
+      "partido": "Aliança Democrática (primeiro-ministro social democrata",
+      "chefe_de_estado": "Marcelo Rebelo de Sousa",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "120",
+      "primeiro_ministro": "Luís Filipe Montenegro Cardoso de Morais Esteves (1973–)",
+      "inicio_mandato": "2 de abril de 2024",
+      "fim_mandato": "presente",
+      "eleicoes": "2025 (XXV)",
+      "partido": "AD – Coligação PSD/CDS (primeiro-ministro social democrata)",
+      "chefe_de_estado": "Marcelo Rebelo de Sousa",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "120",
+      "primeiro_ministro": "Luís Filipe Montenegro Cardoso de Morais Esteves (1973–)",
+      "inicio_mandato": "2 de abril de 2024",
+      "fim_mandato": "presente",
+      "eleicoes": "2025 (XXV)",
+      "partido": "AD – Coligação PSD/CDS (primeiro-ministro social democrata)",
+      "chefe_de_estado": "António José Seguro",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    }
+  ],
+  "meta": {
+    "title": "Primeiros-ministros de Portugal - Free Download",
+    "description": "Lista dos chefes de governo de Portugal (presidentes do Conselho de Ministros e primeiros-ministros) desde 1834. Contains 190 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Primeiros-ministros de Portugal | ListBase",
+    "seo_description": "Download Primeiros-ministros de Portugal — 190 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 190 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_primeiros-ministros_de_Portugal"
+    ]
+  }
+}

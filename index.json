@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:18:01.356Z",
-  "total_datasets": 495,
-  "total_records": 740261,
+  "generated": "2026-10-27T02:18:04.120Z",
+  "total_datasets": 496,
+  "total_records": 740451,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -3447,6 +3447,35 @@
         "xlsx": {
           "name": "pt-presidentes-republica-portuguesa_PT.xlsx",
           "size": 9685
+        }
+      }
+    },
+    {
+      "id": "pt-primeiros-ministros-portugal",
+      "name": "Primeiros-ministros de Portugal",
+      "category": "politics",
+      "record_count": 190,
+      "columns": [
+        "numero",
+        "primeiro_ministro",
+        "inicio_mandato",
+        "fim_mandato",
+        "eleicoes",
+        "partido",
+        "chefe_de_estado",
+        "periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_primeiros-ministros_de_Portugal",
+      "updated": "2026-10",
+      "size": 84063,
+      "files": {
+        "csv": {
+          "name": "pt-primeiros-ministros-portugal_PT.csv",
+          "size": 47029
+        },
+        "xlsx": {
+          "name": "pt-primeiros-ministros-portugal_PT.xlsx",
+          "size": 19345
         }
       }
     },
