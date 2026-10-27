@@ -1,9 +1,13 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:18:04.120Z",
-  "total_datasets": 496,
-  "total_records": 740451,
+  "generated": "2026-10-27T02:18:07.383Z",
+  "total_datasets": 497,
+  "total_records": 740521,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 4
@@ -98,6 +102,29 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pt-produtos-dop",
+      "name": "Produtos com Denominação de Origem Protegida (DOP) de Portugal",
+      "category": "agriculture",
+      "record_count": 70,
+      "columns": [
+        "produto",
+        "categoria"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_produtos_com_denominação_de_origem_protegida_de_Portugal",
+      "updated": "2026-10",
+      "size": 8343,
+      "files": {
+        "csv": {
+          "name": "pt-produtos-dop_PT.csv",
+          "size": 3141
+        },
+        "xlsx": {
+          "name": "pt-produtos-dop_PT.xlsx",
+          "size": 8296
+        }
+      }
+    },
     {
       "id": "pt-br-academia-brasileira-letras-cadeiras",
       "name": "Cadeiras da Academia Brasileira de Letras",

@@ -1,0 +1,316 @@
+{
+  "id": "pt-produtos-dop",
+  "name": "Produtos com Denominação de Origem Protegida (DOP) de Portugal",
+  "title": "Produtos com Denominação de Origem Protegida (DOP) de Portugal",
+  "description": "Lista dos produtos agrícolas e alimentares portugueses com Denominação de Origem Protegida (DOP): azeites, queijos, carnes, frutas, mel e outros.",
+  "category": "agriculture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_produtos_com_denominação_de_origem_protegida_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_produtos_com_denominação_de_origem_protegida_de_Portugal",
+  "updated": "2026-10",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "produto",
+      "label": "Produto",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "produto": "Azeite de Moura",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeite de Trás-os-Montes",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeite do Alentejo Interior",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeites da Beira Interior",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeite da Beira Alta",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeite da Beira Baixa",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeites do Norte Alentejano",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeites do Ribatejo",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeitona de conserva Negrinha de Freixo",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Azeitonas de Conserva de Elvas e Campo Maior",
+      "categoria": "Azeites e azeitonas"
+    },
+    {
+      "produto": "Carnalentejana",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne Arouquesa",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne Barrosã",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne Cachena da Peneda",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne de Bravo do Ribatejo",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne da Charneca",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne Marinhoa",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne Maronesa",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne Mertolenga",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Carne Mirandesa",
+      "categoria": "Carne de bovinos"
+    },
+    {
+      "produto": "Cabrito Transmontano",
+      "categoria": "Carne de caprinos"
+    },
+    {
+      "produto": "Borrego Serra da Estrela",
+      "categoria": "Carne de ovinos"
+    },
+    {
+      "produto": "Borrego Terrincho",
+      "categoria": "Carne de ovinos"
+    },
+    {
+      "produto": "Cordeiro Bragançano",
+      "categoria": "Carne de ovinos"
+    },
+    {
+      "produto": "Cordeiro Mirandês ou Canhono Mirandês",
+      "categoria": "Carne de ovinos"
+    },
+    {
+      "produto": "Carne de Bísaro Transmontano ou Carne de Porco Transmontano",
+      "categoria": "Carne de suínos"
+    },
+    {
+      "produto": "Carne de Porco Alentejano",
+      "categoria": "Carne de suínos"
+    },
+    {
+      "produto": "Presunto de Barrancos",
+      "categoria": "Carne de suínos"
+    },
+    {
+      "produto": "Presunto do Alentejo e Paleta do Alentejo",
+      "categoria": "Carne de suínos"
+    },
+    {
+      "produto": "Ameixa d´Elvas",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Ananás dos Açores/São Miguel",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Anona da Madeira",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Cereja de São Julião-Portalegre",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Maçã Bravo de Esmolfe",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Maçã Riscadinha de Palmela",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Maçã de Alcobaça",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Maracujá dos Açores/S. Miguel",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Pêra Rocha do Oeste",
+      "categoria": "Frutos"
+    },
+    {
+      "produto": "Amêndoa Douro",
+      "categoria": "Frutos secos"
+    },
+    {
+      "produto": "Castanha da Padrela",
+      "categoria": "Frutos secos"
+    },
+    {
+      "produto": "Castanha da Terra Fria",
+      "categoria": "Frutos secos"
+    },
+    {
+      "produto": "Castanha Marvão-Portalegre",
+      "categoria": "Frutos secos"
+    },
+    {
+      "produto": "Castanha dos Soutos da Lapa",
+      "categoria": "Frutos secos"
+    },
+    {
+      "produto": "Mel da Serra da Lousã",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel da Serra de Monchique",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel da Terra Quente",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel das Terras Altas do Minho",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel de Barroso",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel do Alentejo",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel do Parque de Montezinho",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel do Ribatejo Norte",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Mel dos Açores",
+      "categoria": "Mel"
+    },
+    {
+      "produto": "Queijo de Azeitão",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijos da Beira Baixa",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo Amarelo da Beira Baixa",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo de Castelo Branco",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo Picante da Beira Baixa",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo de Cabra Transmontano",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo de Évora",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo de Nisa",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo do Pico",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo Rabaçal",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo São Jorge",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo Serpa",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo Serra da Estrela",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Queijo Terrincho",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Requeijão da Beira Baixa",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Requeijão da Serra da Estrela",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Travia da Beira Baixa",
+      "categoria": "Queijos e produtos lácteos"
+    },
+    {
+      "produto": "Sal de Tavira ou Flor de Sal de Tavira",
+      "categoria": "Outros"
+    }
+  ],
+  "meta": {
+    "title": "Produtos com Denominação de Origem Protegida (DOP) de Portugal - Free Download",
+    "description": "Lista dos produtos agrícolas e alimentares portugueses com Denominação de Origem Protegida (DOP): azeites, queijos, carnes, frutas, mel e outros. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produtos com Denominação de Origem Protegida (DOP) de Portugal | ListBase",
+    "seo_description": "Download Produtos com Denominação de Origem Protegida (DOP) de Portugal — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_produtos_com_denominação_de_origem_protegida_de_Portugal"
+    ]
+  }
+}
