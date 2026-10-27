@@ -1,0 +1,764 @@
+{
+  "id": "pt-eurovisao-participacoes",
+  "name": "Portugal no Festival Eurovisão da Canção",
+  "title": "Portugal no Festival Eurovisão da Canção",
+  "description": "Todas as participações de Portugal no Festival Eurovisão da Canção desde 1964: artista, canção, língua, classificação e pontos.",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Portugal_no_Festival_Eurovisão_da_Canção",
+  "source_url": "https://pt.wikipedia.org/wiki/Portugal_no_Festival_Eurovisão_da_Canção",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "posicao_ordem",
+      "label": "Posicao Ordem",
+      "type": "string"
+    },
+    {
+      "key": "ano_cidade",
+      "label": "Ano Cidade",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "cancao",
+      "label": "Cancao",
+      "type": "string"
+    },
+    {
+      "key": "lingua",
+      "label": "Lingua",
+      "type": "string"
+    },
+    {
+      "key": "lugar_final",
+      "label": "Lugar Final",
+      "type": "string"
+    },
+    {
+      "key": "pontos_final",
+      "label": "Pontos Final",
+      "type": "number"
+    },
+    {
+      "key": "lugar_semi",
+      "label": "Lugar Semi",
+      "type": "string"
+    },
+    {
+      "key": "pontos_semi",
+      "label": "Pontos Semi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicao_ordem": "1º",
+      "ano_cidade": "Copenhaga 1964",
+      "artista": "António Calvário",
+      "cancao": "Oração",
+      "lingua": "Português",
+      "lugar_final": "13º",
+      "pontos_final": "0",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "2º",
+      "ano_cidade": "Nápoles 1965",
+      "artista": "Simone de Oliveira",
+      "cancao": "Sol de Inverno",
+      "lingua": "Português",
+      "lugar_final": "13º",
+      "pontos_final": "1",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "3º",
+      "ano_cidade": "Luxemburgo 1966",
+      "artista": "Madalena Iglesias",
+      "cancao": "Ele e ela",
+      "lingua": "Português",
+      "lugar_final": "13º",
+      "pontos_final": "6",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "4º",
+      "ano_cidade": "Viena 1967",
+      "artista": "Eduardo Nascimento",
+      "cancao": "O Vento Mudou",
+      "lingua": "Português",
+      "lugar_final": "12º",
+      "pontos_final": "3",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "5º",
+      "ano_cidade": "Londres 1968",
+      "artista": "Carlos Mendes",
+      "cancao": "Verão",
+      "lingua": "Português",
+      "lugar_final": "11º",
+      "pontos_final": "5",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "6º",
+      "ano_cidade": "Madrid 1969",
+      "artista": "Simone de Oliveira",
+      "cancao": "Desfolhada Portuguesa",
+      "lingua": "Português",
+      "lugar_final": "15º",
+      "pontos_final": "4",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "",
+      "ano_cidade": "Amesterdão 1970",
+      "artista": "Não participou",
+      "cancao": "Não participou",
+      "lingua": "Não participou",
+      "lugar_final": "Não participou",
+      "pontos_final": "Não participou",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "7º",
+      "ano_cidade": "Dublin 1971",
+      "artista": "Tonicha",
+      "cancao": "Menina do Alto da Serra",
+      "lingua": "Português",
+      "lugar_final": "9º",
+      "pontos_final": "83",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "8º",
+      "ano_cidade": "Edinburgo 1972",
+      "artista": "Carlos Mendes",
+      "cancao": "A Festa da Vida",
+      "lingua": "Português",
+      "lugar_final": "7º",
+      "pontos_final": "90",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "9º",
+      "ano_cidade": "Luxemburgo 1973",
+      "artista": "Fernando Tordo",
+      "cancao": "Tourada",
+      "lingua": "Português",
+      "lugar_final": "10º",
+      "pontos_final": "80",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "10º",
+      "ano_cidade": "Brighton 1974",
+      "artista": "Paulo de Carvalho",
+      "cancao": "E Depois do Adeus",
+      "lingua": "Português",
+      "lugar_final": "14º",
+      "pontos_final": "3",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "11º",
+      "ano_cidade": "Estocolmo 1975",
+      "artista": "Duarte Mendes",
+      "cancao": "Madrugada",
+      "lingua": "Português",
+      "lugar_final": "16º",
+      "pontos_final": "16",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "12º",
+      "ano_cidade": "Haia 1976",
+      "artista": "Carlos do Carmo",
+      "cancao": "Uma Flor de Verde Pinho",
+      "lingua": "Português",
+      "lugar_final": "12º",
+      "pontos_final": "24",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "13º",
+      "ano_cidade": "Londres 1977",
+      "artista": "Os Amigos",
+      "cancao": "Portugal no Coração",
+      "lingua": "Português",
+      "lugar_final": "14º",
+      "pontos_final": "18",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "14º",
+      "ano_cidade": "Paris 1978",
+      "artista": "Gemini",
+      "cancao": "Dai-li-dou",
+      "lingua": "Português",
+      "lugar_final": "17º",
+      "pontos_final": "5",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "15º",
+      "ano_cidade": "Jerusalém 1979",
+      "artista": "Manuela Bravo",
+      "cancao": "Sobe, sobe, balão sobe",
+      "lingua": "Português",
+      "lugar_final": "9º",
+      "pontos_final": "68",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "16º",
+      "ano_cidade": "Haia 1980",
+      "artista": "José Cid",
+      "cancao": "Um grande, grande amor",
+      "lingua": "Português, Italiano, Francês, Alemão & Inglês",
+      "lugar_final": "7º",
+      "pontos_final": "71",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "17º",
+      "ano_cidade": "Dublin 1981",
+      "artista": "Carlos Paião",
+      "cancao": "Playback",
+      "lingua": "Português",
+      "lugar_final": "18º",
+      "pontos_final": "9",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "18º",
+      "ano_cidade": "Harrogate 1982",
+      "artista": "Doce",
+      "cancao": "Bem bom",
+      "lingua": "Português",
+      "lugar_final": "13º",
+      "pontos_final": "32",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "19º",
+      "ano_cidade": "Munique 1983",
+      "artista": "Armando Gama",
+      "cancao": "Esta balada que te dou",
+      "lingua": "Português",
+      "lugar_final": "13º",
+      "pontos_final": "33",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "20º",
+      "ano_cidade": "Luxemburgo 1984",
+      "artista": "Maria Guinot",
+      "cancao": "Silêncio e tanta gente",
+      "lingua": "Português",
+      "lugar_final": "11º",
+      "pontos_final": "38",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "21º",
+      "ano_cidade": "Gotemburgo 1985",
+      "artista": "Adelaide Ferreira",
+      "cancao": "Penso em ti, eu sei",
+      "lingua": "Português",
+      "lugar_final": "18º",
+      "pontos_final": "9",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "22º",
+      "ano_cidade": "Bergen 1986",
+      "artista": "Dora",
+      "cancao": "Não sejas mau para mim",
+      "lingua": "Português",
+      "lugar_final": "14º",
+      "pontos_final": "28",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "23º",
+      "ano_cidade": "Bruxelas 1987",
+      "artista": "Nevada",
+      "cancao": "Neste barco à vela",
+      "lingua": "Português",
+      "lugar_final": "18º",
+      "pontos_final": "15",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "24º",
+      "ano_cidade": "Dublin 1988",
+      "artista": "Dora",
+      "cancao": "Voltarei",
+      "lingua": "Português",
+      "lugar_final": "18º",
+      "pontos_final": "5",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "25º",
+      "ano_cidade": "Lausanne 1989",
+      "artista": "Da Vinci",
+      "cancao": "Conquistador",
+      "lingua": "Português",
+      "lugar_final": "16º",
+      "pontos_final": "39",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "26º",
+      "ano_cidade": "Zagreb 1990",
+      "artista": "Nucha",
+      "cancao": "Há sempre alguém",
+      "lingua": "Português",
+      "lugar_final": "20º",
+      "pontos_final": "9",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "27º",
+      "ano_cidade": "Roma 1991",
+      "artista": "Dulce Pontes",
+      "cancao": "Lusitana Paixão",
+      "lingua": "Português",
+      "lugar_final": "8º",
+      "pontos_final": "62",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "28º",
+      "ano_cidade": "Malmö 1992",
+      "artista": "Dina",
+      "cancao": "Amor D'Água Fresca",
+      "lingua": "Português",
+      "lugar_final": "17º",
+      "pontos_final": "26",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "29º",
+      "ano_cidade": "Millstreet 1993",
+      "artista": "Anabela",
+      "cancao": "A cidade (até ser dia)",
+      "lingua": "Português",
+      "lugar_final": "10º",
+      "pontos_final": "60",
+      "lugar_semi": "Kvalifikacija za Millstreet",
+      "pontos_semi": "Kvalifikacija za Millstreet"
+    },
+    {
+      "posicao_ordem": "30º",
+      "ano_cidade": "Dublin 1994",
+      "artista": "Sara Tavares",
+      "cancao": "Chamar a música",
+      "lingua": "Português",
+      "lugar_final": "8º",
+      "pontos_final": "73",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "31º",
+      "ano_cidade": "Dublin 1995",
+      "artista": "Tó Cruz",
+      "cancao": "Baunilha e chocolate",
+      "lingua": "Português",
+      "lugar_final": "21º",
+      "pontos_final": "5",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "32º",
+      "ano_cidade": "Oslo 1996",
+      "artista": "Lúcia Moniz",
+      "cancao": "O meu coração não tem cor",
+      "lingua": "Português",
+      "lugar_final": "6º",
+      "pontos_final": "92",
+      "lugar_semi": "18º",
+      "pontos_semi": "32"
+    },
+    {
+      "posicao_ordem": "33º",
+      "ano_cidade": "Dublin 1997",
+      "artista": "Célia Lawson",
+      "cancao": "Antes do adeus",
+      "lingua": "Português",
+      "lugar_final": "24º",
+      "pontos_final": "0",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "34º",
+      "ano_cidade": "Birmingham 1998",
+      "artista": "Alma Lusa",
+      "cancao": "Se eu te pudesse abraçar",
+      "lingua": "Português",
+      "lugar_final": "12º",
+      "pontos_final": "36",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "35º",
+      "ano_cidade": "Jerusalém 1999",
+      "artista": "Rui Bandeira",
+      "cancao": "Como tudo começou",
+      "lingua": "Português",
+      "lugar_final": "21º",
+      "pontos_final": "12",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "",
+      "ano_cidade": "Estocolmo 2000",
+      "artista": "Não participou",
+      "cancao": "Não participou",
+      "lingua": "Não participou",
+      "lugar_final": "Não participou",
+      "pontos_final": "Não participou",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "36º",
+      "ano_cidade": "Copenhaga 2001",
+      "artista": "MTM",
+      "cancao": "Só sei ser feliz assim",
+      "lingua": "Português",
+      "lugar_final": "17º",
+      "pontos_final": "18",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "",
+      "ano_cidade": "Tallinn 2002",
+      "artista": "Não participou",
+      "cancao": "Não participou",
+      "lingua": "Não participou",
+      "lugar_final": "Não participou",
+      "pontos_final": "Não participou",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "37º",
+      "ano_cidade": "Riga 2003",
+      "artista": "Rita Guerra",
+      "cancao": "Deixa-me sonhar (só mais uma vez)",
+      "lingua": "Português & Inglês",
+      "lugar_final": "22º",
+      "pontos_final": "13",
+      "lugar_semi": "Sem semi-finais",
+      "pontos_semi": "Sem semi-finais"
+    },
+    {
+      "posicao_ordem": "38º",
+      "ano_cidade": "Istambul 2004",
+      "artista": "Sofia Vitória",
+      "cancao": "Foi Magia",
+      "lingua": "Português",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "15º",
+      "pontos_semi": "38"
+    },
+    {
+      "posicao_ordem": "39º",
+      "ano_cidade": "Quieve 2005",
+      "artista": "2B",
+      "cancao": "Amar",
+      "lingua": "Português & Inglês",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "17º",
+      "pontos_semi": "51"
+    },
+    {
+      "posicao_ordem": "40º",
+      "ano_cidade": "Atenas 2006",
+      "artista": "Nonstop",
+      "cancao": "Coisas De Nada (Gonna Make You Dance) \" Coisas De Nada (Eu vou te fazer dançar)",
+      "lingua": "Português & Inglês",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "19º",
+      "pontos_semi": "26"
+    },
+    {
+      "posicao_ordem": "41º",
+      "ano_cidade": "Helsínquia 2007",
+      "artista": "Sabrina",
+      "cancao": "Dança Comigo (Vem Ser Feliz)",
+      "lingua": "Português, Inglês, Francês & Espanhol",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "11º",
+      "pontos_semi": "88"
+    },
+    {
+      "posicao_ordem": "42º",
+      "ano_cidade": "Belgrado 2008",
+      "artista": "Vânia Fernandes",
+      "cancao": "Senhora do Mar (Negras Águas)",
+      "lingua": "Português",
+      "lugar_final": "13º",
+      "pontos_final": "69",
+      "lugar_semi": "2º",
+      "pontos_semi": "120"
+    },
+    {
+      "posicao_ordem": "43º",
+      "ano_cidade": "Moscovo 2009",
+      "artista": "Flor-de-Lis",
+      "cancao": "Todas as Ruas do Amor",
+      "lingua": "Português",
+      "lugar_final": "15º",
+      "pontos_final": "57",
+      "lugar_semi": "8º",
+      "pontos_semi": "70"
+    },
+    {
+      "posicao_ordem": "44º",
+      "ano_cidade": "Oslo 2010",
+      "artista": "Filipa Azevedo",
+      "cancao": "Há Dias Assim",
+      "lingua": "Português",
+      "lugar_final": "18º",
+      "pontos_final": "43",
+      "lugar_semi": "4º",
+      "pontos_semi": "89"
+    },
+    {
+      "posicao_ordem": "45º",
+      "ano_cidade": "Düsseldorf 2011",
+      "artista": "Homens da Luta",
+      "cancao": "A Luta é Alegria",
+      "lingua": "Português",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "18º",
+      "pontos_semi": "22"
+    },
+    {
+      "posicao_ordem": "46º",
+      "ano_cidade": "Baku 2012",
+      "artista": "Filipa Sousa",
+      "cancao": "Vida Minha",
+      "lingua": "Português",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "13º",
+      "pontos_semi": "39"
+    },
+    {
+      "posicao_ordem": "",
+      "ano_cidade": "Malmö 2013",
+      "artista": "Não participou",
+      "cancao": "Não participou",
+      "lingua": "Não participou",
+      "lugar_final": "Não participou",
+      "pontos_final": "Não participou",
+      "lugar_semi": "Não participou",
+      "pontos_semi": "Não participou"
+    },
+    {
+      "posicao_ordem": "47º",
+      "ano_cidade": "Copenhaga 2014",
+      "artista": "Suzy",
+      "cancao": "Quero ser tua",
+      "lingua": "Português",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "11º",
+      "pontos_semi": "39"
+    },
+    {
+      "posicao_ordem": "48º",
+      "ano_cidade": "Viena 2015",
+      "artista": "Leonor Andrade",
+      "cancao": "Há um mar que nos separa",
+      "lingua": "Português",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "14º",
+      "pontos_semi": "19"
+    },
+    {
+      "posicao_ordem": "",
+      "ano_cidade": "Estocolmo 2016",
+      "artista": "Não participou",
+      "cancao": "Não participou",
+      "lingua": "Não participou",
+      "lugar_final": "Não participou",
+      "pontos_final": "Não participou",
+      "lugar_semi": "Não participou",
+      "pontos_semi": "Não participou"
+    },
+    {
+      "posicao_ordem": "49º",
+      "ano_cidade": "Quieve 2017",
+      "artista": "Salvador Sobral",
+      "cancao": "Amar pelos dois",
+      "lingua": "Português",
+      "lugar_final": "1º",
+      "pontos_final": "758",
+      "lugar_semi": "1º",
+      "pontos_semi": "370"
+    },
+    {
+      "posicao_ordem": "50º",
+      "ano_cidade": "Lisboa 2018",
+      "artista": "Cláudia Pascoal",
+      "cancao": "O Jardim",
+      "lingua": "Português",
+      "lugar_final": "26º",
+      "pontos_final": "39",
+      "lugar_semi": "País anfitrião",
+      "pontos_semi": "País anfitrião"
+    },
+    {
+      "posicao_ordem": "51º",
+      "ano_cidade": "Tel Aviv 2019",
+      "artista": "Conan Osíris",
+      "cancao": "Telemóveis",
+      "lingua": "Português",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "15º",
+      "pontos_semi": "51"
+    },
+    {
+      "posicao_ordem": "",
+      "ano_cidade": "Roterdão 2020",
+      "artista": "Elisa",
+      "cancao": "Medo de sentir",
+      "lingua": "Português",
+      "lugar_final": "A edição não se realizou",
+      "pontos_final": "A edição não se realizou",
+      "lugar_semi": "A edição não se realizou",
+      "pontos_semi": "A edição não se realizou"
+    },
+    {
+      "posicao_ordem": "52º",
+      "ano_cidade": "Roterdão 2021",
+      "artista": "The Black Mamba",
+      "cancao": "Love is On My Side \" O Amor Está do Meu Lado",
+      "lingua": "Inglês",
+      "lugar_final": "12º",
+      "pontos_final": "153",
+      "lugar_semi": "4º",
+      "pontos_semi": "239"
+    },
+    {
+      "posicao_ordem": "53º",
+      "ano_cidade": "Turim 2022",
+      "artista": "Maro",
+      "cancao": "Saudade, saudade",
+      "lingua": "Inglês & Português",
+      "lugar_final": "9º",
+      "pontos_final": "207",
+      "lugar_semi": "4°",
+      "pontos_semi": "208"
+    },
+    {
+      "posicao_ordem": "54º",
+      "ano_cidade": "Liverpool 2023",
+      "artista": "Mimicat",
+      "cancao": "Ai Coração",
+      "lingua": "Português",
+      "lugar_final": "23º",
+      "pontos_final": "59",
+      "lugar_semi": "9º",
+      "pontos_semi": "74"
+    },
+    {
+      "posicao_ordem": "55º",
+      "ano_cidade": "Malmo 2024",
+      "artista": "Iolanda",
+      "cancao": "Grito",
+      "lingua": "Português",
+      "lugar_final": "10º",
+      "pontos_final": "152",
+      "lugar_semi": "8º",
+      "pontos_semi": "58"
+    },
+    {
+      "posicao_ordem": "56º",
+      "ano_cidade": "Basileia 2025",
+      "artista": "NAPA",
+      "cancao": "Deslocado",
+      "lingua": "Português",
+      "lugar_final": "21°",
+      "pontos_final": "50",
+      "lugar_semi": "9°",
+      "pontos_semi": "56"
+    },
+    {
+      "posicao_ordem": "57º",
+      "ano_cidade": "Viena 2026",
+      "artista": "Bandidos do Cante",
+      "cancao": "Rosa",
+      "lingua": "Português",
+      "lugar_final": "Não se qualificou",
+      "pontos_final": "Não se qualificou",
+      "lugar_semi": "12°",
+      "pontos_semi": "74"
+    }
+  ],
+  "meta": {
+    "title": "Portugal no Festival Eurovisão da Canção - Free Download",
+    "description": "Todas as participações de Portugal no Festival Eurovisão da Canção desde 1964: artista, canção, língua, classificação e pontos. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Portugal no Festival Eurovisão da Canção | ListBase",
+    "seo_description": "Download Portugal no Festival Eurovisão da Canção — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Portugal_no_Festival_Eurovisão_da_Canção"
+    ]
+  }
+}

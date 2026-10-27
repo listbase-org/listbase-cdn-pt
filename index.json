@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:17:38.731Z",
-  "total_datasets": 487,
-  "total_records": 739270,
+  "generated": "2026-10-27T02:17:41.433Z",
+  "total_datasets": 488,
+  "total_records": 739333,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -3251,6 +3251,36 @@
         "xlsx": {
           "name": "pt-br-artistas-recordistas-vendas_PT.xlsx",
           "size": 10292
+        }
+      }
+    },
+    {
+      "id": "pt-eurovisao-participacoes",
+      "name": "Portugal no Festival Eurovisão da Canção",
+      "category": "music",
+      "record_count": 63,
+      "columns": [
+        "posicao_ordem",
+        "ano_cidade",
+        "artista",
+        "cancao",
+        "lingua",
+        "lugar_final",
+        "pontos_final",
+        "lugar_semi",
+        "pontos_semi"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Portugal_no_Festival_Eurovisão_da_Canção",
+      "updated": "2026-10",
+      "size": 22127,
+      "files": {
+        "csv": {
+          "name": "pt-eurovisao-participacoes_PT.csv",
+          "size": 7655
+        },
+        "xlsx": {
+          "name": "pt-eurovisao-participacoes_PT.xlsx",
+          "size": 11360
         }
       }
     },
