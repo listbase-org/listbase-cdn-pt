@@ -1,0 +1,176 @@
+{
+  "id": "pt-br-estados-alfabetizacao",
+  "name": "Unidades federativas do Brasil por taxa de alfabetização (2025)",
+  "title": "Unidades federativas do Brasil por taxa de alfabetização (2025)",
+  "description": "Taxa de alfabetização (%) por unidade federativa do Brasil em 2025.",
+  "category": "education",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_alfabetização",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_alfabetização",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "literacy_rate_2025_pct",
+      "label": "Literacy Rate 2025 Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "state": "Santa Catarina",
+      "literacy_rate_2025_pct": 98.5
+    },
+    {
+      "rank": 2,
+      "state": "Rio de Janeiro",
+      "literacy_rate_2025_pct": 98.4
+    },
+    {
+      "rank": 3,
+      "state": "São Paulo",
+      "literacy_rate_2025_pct": 98.1
+    },
+    {
+      "rank": 4,
+      "state": "Distrito Federal",
+      "literacy_rate_2025_pct": 98
+    },
+    {
+      "rank": 5,
+      "state": "Rio Grande do Sul",
+      "literacy_rate_2025_pct": 97.8
+    },
+    {
+      "rank": 6,
+      "state": "Paraná",
+      "literacy_rate_2025_pct": 96.7
+    },
+    {
+      "rank": 7,
+      "state": "Roraima",
+      "literacy_rate_2025_pct": 96.6
+    },
+    {
+      "rank": 8,
+      "state": "Goiás",
+      "literacy_rate_2025_pct": 96.5
+    },
+    {
+      "rank": 9,
+      "state": "Mato Grosso",
+      "literacy_rate_2025_pct": 96.5
+    },
+    {
+      "rank": 10,
+      "state": "Espírito Santo",
+      "literacy_rate_2025_pct": 96.2
+    },
+    {
+      "rank": 11,
+      "state": "Minas Gerais",
+      "literacy_rate_2025_pct": 96.2
+    },
+    {
+      "rank": 12,
+      "state": "Mato Grosso do Sul",
+      "literacy_rate_2025_pct": 96.1
+    },
+    {
+      "rank": 13,
+      "state": "Amazonas",
+      "literacy_rate_2025_pct": 95.7
+    },
+    {
+      "rank": 14,
+      "state": "Amapá",
+      "literacy_rate_2025_pct": 95.5
+    },
+    {
+      "rank": 15,
+      "state": "Rondônia",
+      "literacy_rate_2025_pct": 94.9
+    },
+    {
+      "rank": 16,
+      "state": "Pará",
+      "literacy_rate_2025_pct": 93.8
+    },
+    {
+      "rank": 17,
+      "state": "Tocantins",
+      "literacy_rate_2025_pct": 93.2
+    },
+    {
+      "rank": 18,
+      "state": "Acre",
+      "literacy_rate_2025_pct": 91.1
+    },
+    {
+      "rank": 19,
+      "state": "Rio Grande do Norte",
+      "literacy_rate_2025_pct": 90.7
+    },
+    {
+      "rank": 20,
+      "state": "Bahia",
+      "literacy_rate_2025_pct": 90.5
+    },
+    {
+      "rank": 21,
+      "state": "Pernambuco",
+      "literacy_rate_2025_pct": 89.9
+    },
+    {
+      "rank": 22,
+      "state": "Sergipe",
+      "literacy_rate_2025_pct": 89.7
+    },
+    {
+      "rank": 23,
+      "state": "Maranhão",
+      "literacy_rate_2025_pct": 89.1
+    },
+    {
+      "rank": 24,
+      "state": "Ceará",
+      "literacy_rate_2025_pct": 88.9
+    },
+    {
+      "rank": 25,
+      "state": "Paraíba",
+      "literacy_rate_2025_pct": 88.4
+    },
+    {
+      "rank": 26,
+      "state": "Alagoas",
+      "literacy_rate_2025_pct": 86.9
+    },
+    {
+      "rank": 27,
+      "state": "Piauí",
+      "literacy_rate_2025_pct": 86.9
+    }
+  ],
+  "meta": {
+    "title": "Unidades federativas do Brasil por taxa de alfabetização (2025) - Free Download",
+    "description": "Taxa de alfabetização (%) por unidade federativa do Brasil em 2025. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unidades federativas do Brasil por taxa de alfabetização (2025) | ListBase",
+    "seo_description": "Download Unidades federativas do Brasil por taxa de alfabetização (2025) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_alfabetização"
+    ]
+  }
+}

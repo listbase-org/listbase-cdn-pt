@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-28T02:24:14.115Z",
-  "total_datasets": 503,
-  "total_records": 740777,
+  "generated": "2026-10-28T02:24:16.791Z",
+  "total_datasets": 504,
+  "total_records": 740804,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -310,6 +310,30 @@
         "xlsx": {
           "name": "pt-br-maiores-empresas-forbes_PT.xlsx",
           "size": 8213
+        }
+      }
+    },
+    {
+      "id": "pt-br-estados-alfabetizacao",
+      "name": "Unidades federativas do Brasil por taxa de alfabetização (2025)",
+      "category": "education",
+      "record_count": 27,
+      "columns": [
+        "rank",
+        "state",
+        "literacy_rate_2025_pct"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_alfabetização",
+      "updated": "2026-10",
+      "size": 4264,
+      "files": {
+        "csv": {
+          "name": "pt-br-estados-alfabetizacao_PT.csv",
+          "size": 701
+        },
+        "xlsx": {
+          "name": "pt-br-estados-alfabetizacao_PT.xlsx",
+          "size": 7396
         }
       }
     },
