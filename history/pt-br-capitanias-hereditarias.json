@@ -1,0 +1,111 @@
+{
+  "id": "pt-br-capitanias-hereditarias",
+  "name": "Capitanias hereditárias do Brasil",
+  "title": "Capitanias hereditárias do Brasil",
+  "description": "As capitanias hereditárias criadas no Brasil colonial em 1534–1536, com limites aproximados e respetivos donatários.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Capitanias_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Capitanias_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "captaincy",
+      "label": "Captaincy",
+      "type": "string"
+    },
+    {
+      "key": "approximate_limits",
+      "label": "Approximate Limits",
+      "type": "string"
+    },
+    {
+      "key": "donee",
+      "label": "Donee",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "captaincy": "Capitania do Maranhão (primeira secção)",
+      "approximate_limits": "Extremo leste da Ilha de Marajó (PA) à foz do rio Gurupi (PA/ MA)",
+      "donee": "Aires da Cunha e João de Barros"
+    },
+    {
+      "captaincy": "Capitania do Maranhão (segunda secção)",
+      "approximate_limits": "Foz do rio Gurupi (PA / MA) a Parnaíba (PI)",
+      "donee": "Fernando Álvares de Andrade"
+    },
+    {
+      "captaincy": "Capitania do Ceará",
+      "approximate_limits": "Parnaíba (PI) a Fortaleza (CE)",
+      "donee": "Antônio Cardoso de Barros"
+    },
+    {
+      "captaincy": "Capitania do Rio Grande",
+      "approximate_limits": "Fortaleza (CE) à Baía da Traição (PB)",
+      "donee": "João de Barros e Aires da Cunha"
+    },
+    {
+      "captaincy": "Capitania de Itamaracá",
+      "approximate_limits": "Baía da Traição (PB) a Igarassu (PE)",
+      "donee": "Pero Lopes de Sousa"
+    },
+    {
+      "captaincy": "Capitania de Pernambuco ou Nova Lusitânia",
+      "approximate_limits": "Igarassu (PE) à foz do Rio São Francisco (AL / SE)",
+      "donee": "Duarte Coelho"
+    },
+    {
+      "captaincy": "Capitania da Baía de Todos os Santos",
+      "approximate_limits": "Foz do Rio São Francisco (AL / SE) a Itaparica (BA)",
+      "donee": "Francisco Pereira Coutinho"
+    },
+    {
+      "captaincy": "Capitania de Ilhéus",
+      "approximate_limits": "Itaparica (BA) a Comandatuba (BA)",
+      "donee": "Jorge de Figueiredo Correia"
+    },
+    {
+      "captaincy": "Capitania de Porto Seguro",
+      "approximate_limits": "Comandatuba (BA) a Mucuri (BA)",
+      "donee": "Pero do Campo Tourinho"
+    },
+    {
+      "captaincy": "Capitania do Espírito Santo",
+      "approximate_limits": "Mucuri (BA) a Itapemirim (ES)",
+      "donee": "Vasco Fernandes Coutinho"
+    },
+    {
+      "captaincy": "Capitania de São Tomé",
+      "approximate_limits": "Itapemirim (ES) a Macaé (RJ)",
+      "donee": "Pero de Góis da Silveira"
+    },
+    {
+      "captaincy": "Capitania de São Vicente",
+      "approximate_limits": "Macaé (RJ) a Caraguatatuba (SP) — 1º lote Bertioga (SP) a Cananeia / Ilha do Mel (PR) — 2º lote",
+      "donee": "Martim Afonso de Sousa"
+    },
+    {
+      "captaincy": "Capitania de Santo Amaro",
+      "approximate_limits": "Caraguatatuba (SP) a Bertioga (SP)",
+      "donee": "Pero Lopes de Sousa"
+    },
+    {
+      "captaincy": "Capitania de Santana",
+      "approximate_limits": "Ilha do Mel / Cananeia (PR) a Laguna (SC)",
+      "donee": "Pero Lopes de Sousa"
+    }
+  ],
+  "meta": {
+    "title": "Capitanias hereditárias do Brasil - Free Download",
+    "description": "As capitanias hereditárias criadas no Brasil colonial em 1534–1536, com limites aproximados e respetivos donatários. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Capitanias hereditárias do Brasil | ListBase",
+    "seo_description": "Download Capitanias hereditárias do Brasil — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Capitanias_do_Brasil"
+    ]
+  }
+}

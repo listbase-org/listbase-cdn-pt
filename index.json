@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-28T02:24:08.649Z",
-  "total_datasets": 501,
-  "total_records": 740735,
+  "generated": "2026-10-28T02:24:11.496Z",
+  "total_datasets": 502,
+  "total_records": 740749,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -3233,6 +3233,30 @@
         "xlsx": {
           "name": "pt-batalhas-de-portugal_PT.xlsx",
           "size": 16657
+        }
+      }
+    },
+    {
+      "id": "pt-br-capitanias-hereditarias",
+      "name": "Capitanias hereditárias do Brasil",
+      "category": "history",
+      "record_count": 14,
+      "columns": [
+        "captaincy",
+        "approximate_limits",
+        "donee"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Capitanias_do_Brasil",
+      "updated": "2026-10",
+      "size": 4047,
+      "files": {
+        "csv": {
+          "name": "pt-br-capitanias-hereditarias_PT.csv",
+          "size": 1519
+        },
+        "xlsx": {
+          "name": "pt-br-capitanias-hereditarias_PT.xlsx",
+          "size": 7574
         }
       }
     },
