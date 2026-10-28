@@ -1,0 +1,796 @@
+{
+  "id": "pt-br-universidades-federais",
+  "name": "Universidades federais do Brasil",
+  "title": "Universidades federais do Brasil",
+  "description": "Lista das universidades federais brasileiras com região, unidade federativa, sigla, orçamento (R$), número de discentes e ano de fundação.",
+  "category": "education",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_universidades_federais_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_universidades_federais_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "acronym",
+      "label": "Acronym",
+      "type": "string"
+    },
+    {
+      "key": "budget_brl",
+      "label": "Budget Brl",
+      "type": "number"
+    },
+    {
+      "key": "undergrad_students",
+      "label": "Undergrad Students",
+      "type": "number"
+    },
+    {
+      "key": "postgrad_students",
+      "label": "Postgrad Students",
+      "type": "number"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "CO",
+      "state": "Distrito Federal",
+      "name": "Universidade de Brasília",
+      "acronym": "UnB",
+      "budget_brl": 2018039016,
+      "undergrad_students": 40662,
+      "postgrad_students": "",
+      "founded": 1962
+    },
+    {
+      "region": "CO",
+      "state": "Mato Grosso do Sul",
+      "name": "Universidade Federal da Grande Dourados",
+      "acronym": "UFGD",
+      "budget_brl": 304774238,
+      "undergrad_students": 8000,
+      "postgrad_students": "",
+      "founded": 2005
+    },
+    {
+      "region": "CO",
+      "state": "Goiás",
+      "name": "Universidade Federal de Goiás",
+      "acronym": "UFG",
+      "budget_brl": 1315382264,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1960
+    },
+    {
+      "region": "CO",
+      "state": "Mato Grosso",
+      "name": "Universidade Federal de Mato Grosso",
+      "acronym": "UFMT",
+      "budget_brl": 891770605,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1970
+    },
+    {
+      "region": "CO",
+      "state": "Mato Grosso do Sul",
+      "name": "Universidade Federal de Mato Grosso do Sul",
+      "acronym": "UFMS",
+      "budget_brl": 952817324,
+      "undergrad_students": 13420,
+      "postgrad_students": "",
+      "founded": 1979
+    },
+    {
+      "region": "CO",
+      "state": "Goiás",
+      "name": "Universidade Federal de Catalão",
+      "acronym": "UFCAT",
+      "budget_brl": "",
+      "undergrad_students": 3659,
+      "postgrad_students": 833,
+      "founded": 2018
+    },
+    {
+      "region": "CO",
+      "state": "Goiás",
+      "name": "Universidade Federal de Jataí",
+      "acronym": "UFJ",
+      "budget_brl": "",
+      "undergrad_students": 4000,
+      "postgrad_students": "",
+      "founded": 2018
+    },
+    {
+      "region": "CO",
+      "state": "Mato Grosso",
+      "name": "Universidade Federal de Rondonópolis",
+      "acronym": "UFR",
+      "budget_brl": "",
+      "undergrad_students": 5082,
+      "postgrad_students": "",
+      "founded": 2018
+    },
+    {
+      "region": "NE",
+      "state": "Bahia",
+      "name": "Universidade Federal da Bahia",
+      "acronym": "UFBA",
+      "budget_brl": 1809116716,
+      "undergrad_students": 27549,
+      "postgrad_students": "",
+      "founded": 1946
+    },
+    {
+      "region": "NE",
+      "state": "Bahia",
+      "name": "Universidade Federal do Sul da Bahia",
+      "acronym": "UFSB",
+      "budget_brl": 118058478,
+      "undergrad_students": 1000,
+      "postgrad_students": "",
+      "founded": 2013
+    },
+    {
+      "region": "NE",
+      "state": "Bahia",
+      "name": "Universidade Federal do Recôncavo da Bahia",
+      "acronym": "UFRB",
+      "budget_brl": 330709054,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2005
+    },
+    {
+      "region": "NE",
+      "state": "Ceará (sede) Bahia",
+      "name": "Universidade Federal da Lusofonia Afro-Brasileira",
+      "acronym": "UNILAB",
+      "budget_brl": 157837040,
+      "undergrad_students": 4166,
+      "postgrad_students": "",
+      "founded": 2010
+    },
+    {
+      "region": "NE",
+      "state": "Paraíba",
+      "name": "Universidade Federal da Paraíba",
+      "acronym": "UFPB",
+      "budget_brl": 2042784745,
+      "undergrad_students": 22238,
+      "postgrad_students": "",
+      "founded": 1955
+    },
+    {
+      "region": "NE",
+      "state": "Ceará",
+      "name": "Universidade Federal do Cariri",
+      "acronym": "UFCA",
+      "budget_brl": 161035126,
+      "undergrad_students": 3618,
+      "postgrad_students": "",
+      "founded": 2013
+    },
+    {
+      "region": "NE",
+      "state": "Alagoas",
+      "name": "Universidade Federal de Alagoas",
+      "acronym": "UFAL",
+      "budget_brl": 1061982413,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1961
+    },
+    {
+      "region": "NE",
+      "state": "Paraíba",
+      "name": "Universidade Federal de Campina Grande",
+      "acronym": "UFCG",
+      "budget_brl": 812954185,
+      "undergrad_students": 17800,
+      "postgrad_students": "",
+      "founded": 2002
+    },
+    {
+      "region": "NE",
+      "state": "Pernambuco",
+      "name": "Universidade Federal de Pernambuco",
+      "acronym": "UFPE",
+      "budget_brl": 1956390635,
+      "undergrad_students": 31424,
+      "postgrad_students": "",
+      "founded": 1946
+    },
+    {
+      "region": "NE",
+      "state": "Sergipe",
+      "name": "Universidade Federal de Sergipe",
+      "acronym": "UFS",
+      "budget_brl": 843441026,
+      "undergrad_students": 30000,
+      "postgrad_students": "",
+      "founded": 1968
+    },
+    {
+      "region": "NE",
+      "state": "Ceará",
+      "name": "Universidade Federal do Ceará",
+      "acronym": "UFC",
+      "budget_brl": 1735754761,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1954
+    },
+    {
+      "region": "NE",
+      "state": "Maranhão",
+      "name": "Universidade Federal do Maranhão",
+      "acronym": "UFMA",
+      "budget_brl": 542753137.13,
+      "undergrad_students": 26500,
+      "postgrad_students": "",
+      "founded": 1966
+    },
+    {
+      "region": "NE",
+      "state": "Bahia",
+      "name": "Universidade Federal do Oeste da Bahia",
+      "acronym": "UFOB",
+      "budget_brl": 117837660,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2013
+    },
+    {
+      "region": "NE",
+      "state": "Piauí",
+      "name": "Universidade Federal do Piauí",
+      "acronym": "UFPI",
+      "budget_brl": 826255190,
+      "undergrad_students": 15930,
+      "postgrad_students": "",
+      "founded": 1968
+    },
+    {
+      "region": "NE",
+      "state": "Rio Grande do Norte",
+      "name": "Universidade Federal do Rio Grande do Norte",
+      "acronym": "UFRN",
+      "budget_brl": 1849902505,
+      "undergrad_students": 36000,
+      "postgrad_students": "",
+      "founded": 1958
+    },
+    {
+      "region": "NE",
+      "state": "Pernambuco (sede) Bahia Piauí",
+      "name": "Universidade Federal do Vale do São Francisco",
+      "acronym": "UNIVASF",
+      "budget_brl": 209932145,
+      "undergrad_students": 4720,
+      "postgrad_students": "",
+      "founded": 2002
+    },
+    {
+      "region": "NE",
+      "state": "Pernambuco",
+      "name": "Universidade Federal Rural de Pernambuco",
+      "acronym": "UFRPE",
+      "budget_brl": 649073904,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1947
+    },
+    {
+      "region": "NE",
+      "state": "Rio Grande do Norte",
+      "name": "Universidade Federal Rural do Semi-Árido",
+      "acronym": "UFERSA",
+      "budget_brl": 312834253,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1968
+    },
+    {
+      "region": "N",
+      "state": "Rondônia",
+      "name": "Universidade Federal de Rondônia",
+      "acronym": "UNIR",
+      "budget_brl": 333936414,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1982
+    },
+    {
+      "region": "N",
+      "state": "Roraima",
+      "name": "Universidade Federal de Roraima",
+      "acronym": "UFRR",
+      "budget_brl": 265313841,
+      "undergrad_students": 4800,
+      "postgrad_students": "",
+      "founded": 1989
+    },
+    {
+      "region": "N",
+      "state": "Acre",
+      "name": "Universidade Federal do Acre",
+      "acronym": "UFAC",
+      "budget_brl": 389872403,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1970
+    },
+    {
+      "region": "N",
+      "state": "Amapá",
+      "name": "Universidade Federal do Amapá",
+      "acronym": "UNIFAP",
+      "budget_brl": 239074871,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1990
+    },
+    {
+      "region": "N",
+      "state": "Amazonas",
+      "name": "Universidade Federal do Amazonas",
+      "acronym": "UFAM",
+      "budget_brl": 857476497,
+      "undergrad_students": 30000,
+      "postgrad_students": "",
+      "founded": 1909
+    },
+    {
+      "region": "N",
+      "state": "Pará",
+      "name": "Universidade Federal do Oeste do Pará",
+      "acronym": "UFOPA",
+      "budget_brl": 213095838,
+      "undergrad_students": 5000,
+      "postgrad_students": "",
+      "founded": 2009
+    },
+    {
+      "region": "N",
+      "state": "Pará",
+      "name": "Universidade Federal do Pará",
+      "acronym": "UFPA",
+      "budget_brl": 1594994460,
+      "undergrad_students": 40000,
+      "postgrad_students": "",
+      "founded": 1957
+    },
+    {
+      "region": "N",
+      "state": "Tocantins",
+      "name": "Universidade Federal do Tocantins",
+      "acronym": "UFT",
+      "budget_brl": 311895313,
+      "undergrad_students": 10000,
+      "postgrad_students": "",
+      "founded": 2000
+    },
+    {
+      "region": "N",
+      "state": "Pará",
+      "name": "Universidade Federal Rural da Amazônia",
+      "acronym": "UFRA",
+      "budget_brl": 269093240,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2002
+    },
+    {
+      "region": "N",
+      "state": "Pará",
+      "name": "Universidade Federal do Sul e Sudeste do Pará",
+      "acronym": "UNIFESSPA",
+      "budget_brl": 148183939,
+      "undergrad_students": 10070,
+      "postgrad_students": "",
+      "founded": 1971
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Alfenas",
+      "acronym": "UNIFAL-MG",
+      "budget_brl": 266801634,
+      "undergrad_students": 6890,
+      "postgrad_students": "",
+      "founded": 1914
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Itajubá",
+      "acronym": "UNIFEI",
+      "budget_brl": 257623637,
+      "undergrad_students": 6333,
+      "postgrad_students": "",
+      "founded": 1913
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Juiz de Fora",
+      "acronym": "UFJF",
+      "budget_brl": 1053501461,
+      "undergrad_students": 18868,
+      "postgrad_students": "",
+      "founded": 1960
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Lavras",
+      "acronym": "UFLA",
+      "budget_brl": 420763977,
+      "undergrad_students": 16581,
+      "postgrad_students": "",
+      "founded": 1994
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Minas Gerais",
+      "acronym": "UFMG",
+      "budget_brl": 2460571082,
+      "undergrad_students": 49959,
+      "postgrad_students": "",
+      "founded": 1927
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Ouro Preto",
+      "acronym": "UFOP",
+      "budget_brl": 486463437,
+      "undergrad_students": 18174,
+      "postgrad_students": "",
+      "founded": 1969
+    },
+    {
+      "region": "SE",
+      "state": "São Paulo",
+      "name": "Universidade Federal de São Carlos",
+      "acronym": "UFSCar",
+      "budget_brl": 708343781,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1968
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de São João del-Rei",
+      "acronym": "UFSJ",
+      "budget_brl": 364494645,
+      "undergrad_students": 13979,
+      "postgrad_students": "",
+      "founded": 1953
+    },
+    {
+      "region": "SE",
+      "state": "São Paulo",
+      "name": "Universidade Federal de São Paulo",
+      "acronym": "UNIFESP",
+      "budget_brl": 1482828727,
+      "undergrad_students": 18143,
+      "postgrad_students": "",
+      "founded": 1994
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Uberlândia",
+      "acronym": "UFU",
+      "budget_brl": 1476633594,
+      "undergrad_students": 22453,
+      "postgrad_students": "",
+      "founded": 1957
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Viçosa",
+      "acronym": "UFV",
+      "budget_brl": 981487813,
+      "undergrad_students": 20970,
+      "postgrad_students": "",
+      "founded": 1969
+    },
+    {
+      "region": "SE",
+      "state": "São Paulo",
+      "name": "Universidade Federal do ABC",
+      "acronym": "UFABC",
+      "budget_brl": 336368999,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2005
+    },
+    {
+      "region": "SE",
+      "state": "Espírito Santo",
+      "name": "Universidade Federal do Espírito Santo",
+      "acronym": "UFES",
+      "budget_brl": 1124762385,
+      "undergrad_students": 18590,
+      "postgrad_students": "",
+      "founded": 1954
+    },
+    {
+      "region": "SE",
+      "state": "Rio de Janeiro",
+      "name": "Universidade Federal do Estado do Rio de Janeiro",
+      "acronym": "UNIRIO",
+      "budget_brl": 652178325,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1979
+    },
+    {
+      "region": "SE",
+      "state": "Rio de Janeiro",
+      "name": "Universidade Federal do Rio de Janeiro",
+      "acronym": "UFRJ",
+      "budget_brl": 3967768338,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1920
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal do Triângulo Mineiro",
+      "acronym": "UFTM",
+      "budget_brl": 538486293,
+      "undergrad_students": 5752,
+      "postgrad_students": "",
+      "founded": 1953
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+      "acronym": "UFVJM",
+      "budget_brl": 312801589,
+      "undergrad_students": 8000,
+      "postgrad_students": "",
+      "founded": 1953
+    },
+    {
+      "region": "SE",
+      "state": "Rio de Janeiro",
+      "name": "Universidade Federal Fluminense",
+      "acronym": "UFF",
+      "budget_brl": 2371921556,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1960
+    },
+    {
+      "region": "SE",
+      "state": "Rio de Janeiro",
+      "name": "Universidade Federal Rural do Rio de Janeiro",
+      "acronym": "UFRRJ",
+      "budget_brl": 719829081,
+      "undergrad_students": 24000,
+      "postgrad_students": 2011,
+      "founded": 1943
+    },
+    {
+      "region": "SE",
+      "state": "Minas Gerais",
+      "name": "Universidade Federal de Ciência e Inovação de Minas Gerais",
+      "acronym": "UFCIMG",
+      "budget_brl": "",
+      "undergrad_students": 14755,
+      "postgrad_students": "",
+      "founded": 1910
+    },
+    {
+      "region": "SE",
+      "state": "Rio de Janeiro",
+      "name": "Universidade Federal de Ciência e Inovação do Rio de Janeiro",
+      "acronym": "UFCIRJ",
+      "budget_brl": "",
+      "undergrad_students": 17285,
+      "postgrad_students": "",
+      "founded": 1917
+    },
+    {
+      "region": "S",
+      "state": "Paraná",
+      "name": "Universidade Tecnológica Federal do Paraná",
+      "acronym": "UTFPR",
+      "budget_brl": 1110619378,
+      "undergrad_students": 31013,
+      "postgrad_students": "",
+      "founded": 1909
+    },
+    {
+      "region": "S",
+      "state": "Santa Catarina (sede) Paraná Rio Grande do Sul",
+      "name": "Universidade Federal da Fronteira Sul",
+      "acronym": "UFFS",
+      "budget_brl": 291339511,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2009
+    },
+    {
+      "region": "S",
+      "state": "Paraná",
+      "name": "Universidade Federal da Integração Latino-Americana",
+      "acronym": "UNILA",
+      "budget_brl": 181751378,
+      "undergrad_students": 3887,
+      "postgrad_students": "",
+      "founded": 2010
+    },
+    {
+      "region": "S",
+      "state": "Rio Grande do Sul",
+      "name": "Universidade Federal de Ciências da Saúde de Porto Alegre",
+      "acronym": "UFCSPA",
+      "budget_brl": 158833562,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1953
+    },
+    {
+      "region": "S",
+      "state": "Rio Grande do Sul",
+      "name": "Universidade Federal de Pelotas",
+      "acronym": "UFPel",
+      "budget_brl": 869118172,
+      "undergrad_students": 22500,
+      "postgrad_students": "",
+      "founded": 1969
+    },
+    {
+      "region": "S",
+      "state": "Santa Catarina",
+      "name": "Universidade Federal de Santa Catarina",
+      "acronym": "UFSC",
+      "budget_brl": 1895955215,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1956
+    },
+    {
+      "region": "S",
+      "state": "Rio Grande do Sul",
+      "name": "Universidade Federal de Santa Maria",
+      "acronym": "UFSM",
+      "budget_brl": 1509293000,
+      "undergrad_students": 28170,
+      "postgrad_students": "",
+      "founded": 1960
+    },
+    {
+      "region": "S",
+      "state": "Rio Grande do Sul",
+      "name": "Universidade Federal do Pampa",
+      "acronym": "UNIPAMPA",
+      "budget_brl": 359474654,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2008
+    },
+    {
+      "region": "S",
+      "state": "Paraná",
+      "name": "Universidade Federal do Paraná",
+      "acronym": "UFPR",
+      "budget_brl": 1913243498,
+      "undergrad_students": 29853,
+      "postgrad_students": "",
+      "founded": 1912
+    },
+    {
+      "region": "S",
+      "state": "Rio Grande do Sul",
+      "name": "Universidade Federal do Rio Grande",
+      "acronym": "FURG",
+      "budget_brl": 606680454,
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 1969
+    },
+    {
+      "region": "S",
+      "state": "Rio Grande do Sul",
+      "name": "Universidade Federal do Rio Grande do Sul",
+      "acronym": "UFRGS",
+      "budget_brl": 2090758721,
+      "undergrad_students": 26584,
+      "postgrad_students": 12682,
+      "founded": 1895
+    },
+    {
+      "region": "NE",
+      "state": "Pernambuco",
+      "name": "Universidade Federal do Agreste de Pernambuco",
+      "acronym": "UFAPE",
+      "budget_brl": "",
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2018
+    },
+    {
+      "region": "NE",
+      "state": "Piauí",
+      "name": "Universidade Federal do Delta do Parnaíba",
+      "acronym": "UFDPar",
+      "budget_brl": "",
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2018
+    },
+    {
+      "region": "N",
+      "state": "Tocantins",
+      "name": "Universidade Federal do Norte do Tocantins",
+      "acronym": "UFNT",
+      "budget_brl": "",
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2019
+    },
+    {
+      "region": "CO",
+      "state": "Distrito Federal (sede)",
+      "name": "Universidade Federal Indígena",
+      "acronym": "Unind",
+      "budget_brl": "",
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2026
+    },
+    {
+      "region": "CO",
+      "state": "Distrito Federal (sede)",
+      "name": "Universidade Federal do Esporte",
+      "acronym": "UFEsporte",
+      "budget_brl": "",
+      "undergrad_students": "",
+      "postgrad_students": "",
+      "founded": 2026
+    }
+  ],
+  "meta": {
+    "title": "Universidades federais do Brasil - Free Download",
+    "description": "Lista das universidades federais brasileiras com região, unidade federativa, sigla, orçamento (R$), número de discentes e ano de fundação. Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universidades federais do Brasil | ListBase",
+    "seo_description": "Download Universidades federais do Brasil — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_universidades_federais_do_Brasil"
+    ]
+  }
+}

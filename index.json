@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-27T02:18:15.400Z",
-  "total_datasets": 500,
-  "total_records": 740662,
+  "generated": "2026-10-28T02:24:08.649Z",
+  "total_datasets": 501,
+  "total_records": 740735,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -310,6 +310,35 @@
         "xlsx": {
           "name": "pt-br-maiores-empresas-forbes_PT.xlsx",
           "size": 8213
+        }
+      }
+    },
+    {
+      "id": "pt-br-universidades-federais",
+      "name": "Universidades federais do Brasil",
+      "category": "education",
+      "record_count": 73,
+      "columns": [
+        "region",
+        "state",
+        "name",
+        "acronym",
+        "budget_brl",
+        "undergrad_students",
+        "postgrad_students",
+        "founded"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_universidades_federais_do_Brasil",
+      "updated": "2026-10",
+      "size": 21257,
+      "files": {
+        "csv": {
+          "name": "pt-br-universidades-federais_PT.csv",
+          "size": 6988
+        },
+        "xlsx": {
+          "name": "pt-br-universidades-federais_PT.xlsx",
+          "size": 10913
         }
       }
     },
