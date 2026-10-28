@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-28T02:24:11.496Z",
-  "total_datasets": 502,
-  "total_records": 740749,
+  "generated": "2026-10-28T02:24:14.115Z",
+  "total_datasets": 503,
+  "total_records": 740777,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -14408,6 +14408,33 @@
         "xlsx": {
           "name": "pt-premio-pessoa_PT.xlsx",
           "size": 8374
+        }
+      }
+    },
+    {
+      "id": "pt-br-estados-expectativa-de-vida",
+      "name": "Unidades federativas do Brasil por expectativa de vida (2020)",
+      "category": "society",
+      "record_count": 28,
+      "columns": [
+        "rank",
+        "state",
+        "life_expectancy_total",
+        "life_expectancy_men",
+        "life_expectancy_women",
+        "year"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_expectativa_de_vida",
+      "updated": "2026-10",
+      "size": 7267,
+      "files": {
+        "csv": {
+          "name": "pt-br-estados-expectativa-de-vida_PT.csv",
+          "size": 1352
+        },
+        "xlsx": {
+          "name": "pt-br-estados-expectativa-de-vida_PT.xlsx",
+          "size": 7861
         }
       }
     },
