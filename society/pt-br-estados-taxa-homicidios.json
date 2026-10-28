@@ -1,0 +1,247 @@
+{
+  "id": "pt-br-estados-taxa-homicidios",
+  "name": "Unidades federativas do Brasil por taxa de homicídios (2023–2024)",
+  "title": "Unidades federativas do Brasil por taxa de homicídios (2023–2024)",
+  "description": "Taxa de homicídios por 100 mil habitantes nas unidades federativas do Brasil em 2023 e 2024 e respetiva variação.",
+  "category": "society",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_homicídios",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_homicídios",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "rate_2024",
+      "label": "Rate 2024",
+      "type": "number"
+    },
+    {
+      "key": "rate_2023",
+      "label": "Rate 2023",
+      "type": "number"
+    },
+    {
+      "key": "change_pct",
+      "label": "Change Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "state": "Amapá",
+      "rate_2024": 45.1,
+      "rate_2023": 64.9,
+      "change_pct": -30.6
+    },
+    {
+      "rank": 2,
+      "state": "Bahia",
+      "rate_2024": 40.6,
+      "rate_2023": 44.4,
+      "change_pct": -8.4
+    },
+    {
+      "rank": 3,
+      "state": "Ceará",
+      "rate_2024": 37.5,
+      "rate_2023": 33.9,
+      "change_pct": 10.9
+    },
+    {
+      "rank": 4,
+      "state": "Pernambuco",
+      "rate_2024": 36.2,
+      "rate_2023": 38.3,
+      "change_pct": -5.4
+    },
+    {
+      "rank": 5,
+      "state": "Alagoas",
+      "rate_2024": 35.4,
+      "rate_2023": 37.6,
+      "change_pct": -5.7
+    },
+    {
+      "rank": 6,
+      "state": "Maranhão",
+      "rate_2024": 30.4,
+      "rate_2023": 27.1,
+      "change_pct": 12.1
+    },
+    {
+      "rank": 7,
+      "state": "Mato Grosso",
+      "rate_2024": 29.8,
+      "rate_2023": 30.7,
+      "change_pct": -3
+    },
+    {
+      "rank": 8,
+      "state": "Pará",
+      "rate_2024": 29.5,
+      "rate_2023": 31.9,
+      "change_pct": -7.3
+    },
+    {
+      "rank": 9,
+      "state": "Amazonas",
+      "rate_2024": 27.4,
+      "rate_2023": 33.2,
+      "change_pct": -17.4
+    },
+    {
+      "rank": 10,
+      "state": "Rondônia",
+      "rate_2024": 26.1,
+      "rate_2023": 26.1,
+      "change_pct": -0.3
+    },
+    {
+      "rank": 11,
+      "state": "Paraíba",
+      "rate_2024": 25.6,
+      "rate_2023": 25.8,
+      "change_pct": -0.9
+    },
+    {
+      "rank": 12,
+      "state": "Rio Grande do Norte",
+      "rate_2024": 24.2,
+      "rate_2023": 30.3,
+      "change_pct": -20.3
+    },
+    {
+      "rank": 13,
+      "state": "Espírito Santo",
+      "rate_2024": 23.9,
+      "rate_2023": 26.9,
+      "change_pct": -11.2
+    },
+    {
+      "rank": 14,
+      "state": "Sergipe",
+      "rate_2024": 22.8,
+      "rate_2023": 30.2,
+      "change_pct": -24.5
+    },
+    {
+      "rank": 15,
+      "state": "Rio de Janeiro",
+      "rate_2024": 22.1,
+      "rate_2023": 24.8,
+      "change_pct": -10.8
+    },
+    {
+      "rank": 16,
+      "state": "Piauí",
+      "rate_2024": 20.3,
+      "rate_2023": 21.9,
+      "change_pct": -7.3
+    },
+    {
+      "rank": 17,
+      "state": "Acre",
+      "rate_2024": 20.3,
+      "rate_2023": 24.4,
+      "change_pct": -16.7
+    },
+    {
+      "rank": 18,
+      "state": "Tocantins",
+      "rate_2024": 19.8,
+      "rate_2023": 27.4,
+      "change_pct": -27.9
+    },
+    {
+      "rank": 19,
+      "state": "Goiás",
+      "rate_2024": 18.8,
+      "rate_2023": 22.5,
+      "change_pct": -16.6
+    },
+    {
+      "rank": 20,
+      "state": "Mato Grosso do Sul",
+      "rate_2024": 18.7,
+      "rate_2023": 20.9,
+      "change_pct": -10.2
+    },
+    {
+      "rank": 21,
+      "state": "Roraima",
+      "rate_2024": 18.6,
+      "rate_2023": 25.5,
+      "change_pct": -27.1
+    },
+    {
+      "rank": 22,
+      "state": "Paraná",
+      "rate_2024": 18.4,
+      "rate_2023": 19.3,
+      "change_pct": -4.7
+    },
+    {
+      "rank": 23,
+      "state": "Minas Gerais",
+      "rate_2024": 15.1,
+      "rate_2023": 14.4,
+      "change_pct": 5
+    },
+    {
+      "rank": 24,
+      "state": "Rio Grande do Sul",
+      "rate_2024": 15,
+      "rate_2023": 17.7,
+      "change_pct": -14.9
+    },
+    {
+      "rank": 25,
+      "state": "Distrito Federal",
+      "rate_2024": 8.9,
+      "rate_2023": 10.5,
+      "change_pct": -14.9
+    },
+    {
+      "rank": 26,
+      "state": "Santa Catarina",
+      "rate_2024": 8.5,
+      "rate_2023": 8.5,
+      "change_pct": 0
+    },
+    {
+      "rank": 27,
+      "state": "São Paulo",
+      "rate_2024": 8.2,
+      "rate_2023": 7.6,
+      "change_pct": 7.5
+    },
+    {
+      "rank": "",
+      "state": "Brasil",
+      "rate_2024": 20.8,
+      "rate_2023": 21.9,
+      "change_pct": -5.4
+    }
+  ],
+  "meta": {
+    "title": "Unidades federativas do Brasil por taxa de homicídios (2023–2024) - Free Download",
+    "description": "Taxa de homicídios por 100 mil habitantes nas unidades federativas do Brasil em 2023 e 2024 e respetiva variação. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unidades federativas do Brasil por taxa de homicídios (2023–2024) | ListBase",
+    "seo_description": "Download Unidades federativas do Brasil por taxa de homicídios (2023–2024) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_homicídios"
+    ]
+  }
+}

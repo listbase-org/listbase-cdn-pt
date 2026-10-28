@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-28T02:24:16.791Z",
-  "total_datasets": 504,
-  "total_records": 740804,
+  "generated": "2026-10-28T02:24:19.596Z",
+  "total_datasets": 505,
+  "total_records": 740832,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -14488,6 +14488,32 @@
         "xlsx": {
           "name": "pt-br-estados-idh_PT.xlsx",
           "size": 8143
+        }
+      }
+    },
+    {
+      "id": "pt-br-estados-taxa-homicidios",
+      "name": "Unidades federativas do Brasil por taxa de homicídios (2023–2024)",
+      "category": "society",
+      "record_count": 28,
+      "columns": [
+        "rank",
+        "state",
+        "rate_2024",
+        "rate_2023",
+        "change_pct"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_homicídios",
+      "updated": "2026-10",
+      "size": 5697,
+      "files": {
+        "csv": {
+          "name": "pt-br-estados-taxa-homicidios_PT.csv",
+          "size": 1123
+        },
+        "xlsx": {
+          "name": "pt-br-estados-taxa-homicidios_PT.xlsx",
+          "size": 7761
         }
       }
     },
