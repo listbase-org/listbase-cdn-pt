@@ -1,0 +1,776 @@
+{
+  "id": "pt-juizes-tribunal-constitucional",
+  "name": "Juízes do Tribunal Constitucional de Portugal",
+  "title": "Juízes do Tribunal Constitucional de Portugal",
+  "description": "Lista dos juízes conselheiros do Tribunal Constitucional português desde 1983: indicação partidária, mandato, duração e carreira.",
+  "category": "law",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_juízes_do_Tribunal_Constitucional",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_juízes_do_Tribunal_Constitucional",
+  "updated": "2026-10",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "judge",
+      "label": "Judge",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "nominated_by",
+      "label": "Nominated By",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "career",
+      "label": "Career",
+      "type": "string"
+    },
+    {
+      "key": "succession",
+      "label": "Succession",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "judge": "Armando Marques Guedes (Presidente)",
+      "life": "1919–2012",
+      "nominated_by": "PSD",
+      "term": "6 de Abril de 1983 – 2 de Agosto de 1989",
+      "duration": "6 anos e 3 meses",
+      "career": "Professor da Universidade de Lisboa",
+      "succession": "Inaugural (J1)"
+    },
+    {
+      "no": 2,
+      "judge": "José Magalhães Godinho (Vice-Presidente)",
+      "life": "1909–1994",
+      "nominated_by": "PS",
+      "term": "6 de Abril de 1983 – 2 de Agosto de 1989",
+      "duration": "6 anos e 10 meses",
+      "career": "Provedor de Justiça Advogado",
+      "succession": "Inaugural (J2)"
+    },
+    {
+      "no": 3,
+      "judge": "Antero Monteiro Diniz",
+      "life": "1936 (90 anos)",
+      "nominated_by": "PS",
+      "term": "6 de Abril de 1983 – 7 de Outubro de 1997 (Renúncia)",
+      "duration": "9 anos e 10 meses",
+      "career": "Secretário de Estado Conselheiro do Tribunal de Contas",
+      "succession": "Inaugural (J3)"
+    },
+    {
+      "no": 4,
+      "judge": "Joaquim da Costa Aroso",
+      "life": "1922–1984",
+      "nominated_by": "CDS",
+      "term": "6 de Abril de 1983 – 24 de Agosto de 1984 (Falecimento)",
+      "duration": "1 ano e 4 meses",
+      "career": "Juiz-Desembargador",
+      "succession": "Inaugural (J4)"
+    },
+    {
+      "no": 5,
+      "judge": "Jorge Campinos",
+      "life": "1937–1993",
+      "nominated_by": "PS",
+      "term": "6 de Abril de 1983 – 12 de Agosto de 1985 (Renúncia)",
+      "duration": "2 anos e 4 meses",
+      "career": "Professor da Universidade Nova de Lisboa",
+      "succession": "Inaugural (J5)"
+    },
+    {
+      "no": 6,
+      "judge": "José Manuel Cardoso da Costa (Presidente)",
+      "life": "1938 (88 anos)",
+      "nominated_by": "Eleito Cooptado CDS",
+      "term": "6 de Abril de 1983 – 23 de Abril de 2003",
+      "duration": "20 anos",
+      "career": "Professor da Universidade de Coimbra Jurisconsulto",
+      "succession": "Inaugural (J6) Alves Correia (J11)"
+    },
+    {
+      "no": 7,
+      "judge": "Luís Nunes de Almeida (Presidente)",
+      "life": "1946–2004",
+      "nominated_by": "Eleito Cooptado PS",
+      "term": "6 de Abril de 1983 – 6 de Setembro de 2004 (Falecimento)",
+      "duration": "21 anos e 5 meses",
+      "career": "Deputado Advogado",
+      "succession": "Inaugural (J7) Fonseca (J12)"
+    },
+    {
+      "no": 8,
+      "judge": "Messias Bento",
+      "life": "1945 (81 anos)",
+      "nominated_by": "PSD",
+      "term": "6 de Abril de 1983 – 11 de Setembro de 2001 (Renúncia)",
+      "duration": "18 anos e 5 meses",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Inaugural (J8)"
+    },
+    {
+      "no": 9,
+      "judge": "Raul Mateus da Silva",
+      "life": "1936 (90 anos)",
+      "nominated_by": "PSD",
+      "term": "6 de Abril de 1983 – 2 de Agosto de 1989",
+      "duration": "6 anos e 4 meses",
+      "career": "Juiz de Direito",
+      "succession": "Inaugural (J9)"
+    },
+    {
+      "no": 10,
+      "judge": "Vital Moreira",
+      "life": "1944 (82 anos)",
+      "nominated_by": "PCP",
+      "term": "6 de Abril de 1983 – 2 de Agosto de 1989",
+      "duration": "6 anos e 4 meses",
+      "career": "Professor da Universidade de Coimbra",
+      "succession": "Inaugural (J10)"
+    },
+    {
+      "no": 11,
+      "judge": "Mário Afonso",
+      "life": "1924–2008",
+      "nominated_by": "Cooptado PSD",
+      "term": "6 de Abril de 1983 – 2 de Fevereiro de 1988 (Renúncia)",
+      "duration": "4 anos e 9 meses",
+      "career": "Juiz-Desembargador",
+      "succession": "Inaugural (J11)"
+    },
+    {
+      "no": 12,
+      "judge": "Mário de Brito",
+      "life": "1922–2020",
+      "nominated_by": "Cooptado PCP",
+      "term": "6 de Abril de 1983 – 2 de Junho de 1993 (Renúncia)",
+      "duration": "10 anos e 1 mês",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Inaugural (J12)"
+    },
+    {
+      "no": 13,
+      "judge": "José Martins da Fonseca",
+      "life": "1924–2009",
+      "nominated_by": "Cooptado Ind.",
+      "term": "6 de Abril de 1983 – 30 de Outubro de 1989",
+      "duration": "6 anos e 6 meses",
+      "career": "Presidente do Tribunal da Relação de Lourenço Marques",
+      "succession": "Inaugural (J13)"
+    },
+    {
+      "no": 14,
+      "judge": "António Costa Mesquita",
+      "life": "1928–1986",
+      "nominated_by": "CDS",
+      "term": "15 de Fevereiro de 1985 – 26 de Agosto de 1986 (falecimento)",
+      "duration": "1 ano e 6 meses",
+      "career": "Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Costa Aroso (J4)"
+    },
+    {
+      "no": 15,
+      "judge": "António Vitorino",
+      "life": "1957 (69 anos)",
+      "nominated_by": "PS",
+      "term": "2 de Agosto de 1989 – 10 de Março de 1994 (renúncia)",
+      "duration": "4 anos e 7 meses",
+      "career": "Ministro Deputado Advogado",
+      "succession": "Campinos (J5)"
+    },
+    {
+      "no": 16,
+      "judge": "Armindo Ribeiro Mendes",
+      "life": "1946 (80 anos)",
+      "nominated_by": "PS",
+      "term": "2 de Agosto de 1989 – 11 de Março de 1998",
+      "duration": "8 anos e 7 meses",
+      "career": "Assistente da Universidade de Lisboa",
+      "succession": "Magalhães Godinho (J2)"
+    },
+    {
+      "no": 17,
+      "judge": "José Manuel Bravo Serra",
+      "life": "1947 (79 anos)",
+      "nominated_by": "PSD",
+      "term": "2 de Agosto de 1989 – 4 de Abril de 2007",
+      "duration": "17 anos e 8 meses",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Costa Mesquita (J4)"
+    },
+    {
+      "no": 18,
+      "judge": "José de Sousa e Brito",
+      "life": "1939 (87 anos)",
+      "nominated_by": "PS",
+      "term": "2 de Agosto de 1989 – 9 de Dezembro de 2002 (sorteio)",
+      "duration": "13 anos e 4 meses",
+      "career": "Assistente da Universidade de Lisboa Advogado",
+      "succession": "Vital Moreira (J10)"
+    },
+    {
+      "no": 19,
+      "judge": "Maria da Assunção Esteves",
+      "life": "1950 (76 anos)",
+      "nominated_by": "PSD",
+      "term": "2 de Agosto de 1989 – 11 de Março de 1998",
+      "duration": "8 anos e 7 meses",
+      "career": "Presidente da Assembleia da República Eurodeputada",
+      "succession": "Marques Guedes (J1)"
+    },
+    {
+      "no": 20,
+      "judge": "Vítor Nunes de Almeida",
+      "life": "1938–2020",
+      "nominated_by": "PSD",
+      "term": "2 de Agosto de 1989 – 11 de Setembro de 2001 (renúncia)",
+      "duration": "12 anos e 1 mês",
+      "career": "Desembargador da Relação do Porto",
+      "succession": "Mateus da Silva (J9)"
+    },
+    {
+      "no": 21,
+      "judge": "Fernando Alves Correia",
+      "life": "1951 (75 anos)",
+      "nominated_by": "Cooptado PSD",
+      "term": "30 de Outubro de 1989 – 13 de Março de 1998",
+      "duration": "8 anos e 4 meses",
+      "career": "Professor da Universidade de Coimbra",
+      "succession": "Afonso (J11)"
+    },
+    {
+      "no": 22,
+      "judge": "Alberto Tavares da Costa",
+      "life": "1934 (92 anos)",
+      "nominated_by": "Cooptado Ind.",
+      "term": "30 de Outubro de 1989 – 26 de Setembro de 2003 (renúncia)",
+      "duration": "13 anos e 10 meses",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Martins da Fonseca (J13)"
+    },
+    {
+      "no": 23,
+      "judge": "Guilherme da Fonseca",
+      "life": "1940 (86 anos)",
+      "nominated_by": "Cooptado Eleito PCP",
+      "term": "4 de Novembro de 1993 – 9 de Dezembro de 2002 (sorteio)",
+      "duration": "9 anos e 1 mês",
+      "career": "Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Brito (J12) Nunes de Almeida (J7)"
+    },
+    {
+      "no": 24,
+      "judge": "Maria Fernanda Palma",
+      "life": "1955 (71 anos)",
+      "nominated_by": "PS",
+      "term": "18 de Maio de 1994 – 4 de Abril de 2007",
+      "duration": "12 anos e 10 meses",
+      "career": "Professora da Universidade de Lisboa",
+      "succession": "Vitorino (J5)"
+    },
+    {
+      "no": 25,
+      "judge": "Artur Maurício (Presidente)",
+      "life": "1944–2008",
+      "nominated_by": "PS",
+      "term": "11 de Março de 1998 – 4 de Abril de 2007",
+      "duration": "9 anos",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Monteiro Diniz (J3)"
+    },
+    {
+      "no": 26,
+      "judge": "Maria Helena de Brito",
+      "life": "1948 (78 anos)",
+      "nominated_by": "PS",
+      "term": "11 de Março de 1998 – 4 de Abril de 2007",
+      "duration": "9 anos",
+      "career": "Professora da Universidade Nova de Lisboa",
+      "succession": "Ribeiro Mendes (J2)"
+    },
+    {
+      "no": 27,
+      "judge": "Maria dos Prazeres Beleza",
+      "life": "1956 (70 anos)",
+      "nominated_by": "PSD",
+      "term": "11 de Março de 1998 – 4 de Abril de 2007",
+      "duration": "9 anos",
+      "career": "Professora da Universidade Católica Portuguesa",
+      "succession": "Cardoso da Costa (J6)"
+    },
+    {
+      "no": 28,
+      "judge": "Paulo Mota Pinto",
+      "life": "1966 (60 anos)",
+      "nominated_by": "PSD",
+      "term": "11 de Março de 1998 – 4 de Abril de 2007",
+      "duration": "9 anos",
+      "career": "Deputado Professor da Universidade de Coimbra",
+      "succession": "Assunção Esteves (J1)"
+    },
+    {
+      "no": 29,
+      "judge": "Benjamim Silva Rodrigues",
+      "life": "1945 (81 anos)",
+      "nominated_by": "PSD",
+      "term": "9 de Dezembro de 2002 – 28 de Junho de 2010 (Renúncia)",
+      "duration": "7 anos e 6 meses",
+      "career": "Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Messias Bento (J8)"
+    },
+    {
+      "no": 30,
+      "judge": "Carlos Pamplona de Oliveira",
+      "life": "1949 (77 anos)",
+      "nominated_by": "PSD",
+      "term": "9 de Dezembro de 2002 – 12 de Julho de 2012",
+      "duration": "9 anos e 7 meses",
+      "career": "Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Nunes de Almeida (J9)"
+    },
+    {
+      "no": 31,
+      "judge": "Gil Gomes Galvão (Vice-Presidente)",
+      "life": "1949 (77 anos)",
+      "nominated_by": "PS",
+      "term": "9 de Dezembro de 2002 – 12 de Julho de 2012",
+      "duration": "9 anos e 7 meses",
+      "career": "Advogado",
+      "succession": "Fonseca (J7)"
+    },
+    {
+      "no": 32,
+      "judge": "Mário Araújo Torres",
+      "life": "1945 (81 anos)",
+      "nominated_by": "PS",
+      "term": "9 de Dezembro de 2002 – 31 de Agosto de 2009 (Renúncia)",
+      "duration": "6 anos e 8 meses",
+      "career": "Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Sousa e Brito (J10)"
+    },
+    {
+      "no": 33,
+      "judge": "Rui Moura Ramos (Presidente)",
+      "life": "1950 (76 anos)",
+      "nominated_by": "Cooptado PSD",
+      "term": "23 de Abril de 2003 – 1 de Outubro de 2012",
+      "duration": "9 anos e 5 meses",
+      "career": "Juiz Europeu Professor da Universidade de Coimbra",
+      "succession": "Cardoso da Costa (J11)"
+    },
+    {
+      "no": 34,
+      "judge": "Vítor Gomes",
+      "life": "1949 (77 anos)",
+      "nominated_by": "Cooptado Ind.",
+      "term": "5 de Dezembro de 2003 – 20 de Junho de 2013",
+      "duration": "9 anos e 6 meses",
+      "career": "Presidente do Supremo Tribunal Administrativo",
+      "succession": "Tavares da Costa (J13)"
+    },
+    {
+      "no": 35,
+      "judge": "Maria João Antunes",
+      "life": "1963 (63 anos)",
+      "nominated_by": "Cooptada PS",
+      "term": "21 de Outubro de 2004 – 6 de Março de 2014",
+      "duration": "9 anos e 4 meses",
+      "career": "Professora da Universidade de Coimbra",
+      "succession": "Nunes de Almeida (J12)"
+    },
+    {
+      "no": 36,
+      "judge": "Ana Maria Guerra Martins",
+      "life": "22 de julho de 1963 (63 anos)",
+      "nominated_by": "PS",
+      "term": "4 de Abril de 2007 – 22 de Julho de 2016",
+      "duration": "9 anos e 3 meses",
+      "career": "Professora da Universidade de Lisboa",
+      "succession": "Maurício (J3)"
+    },
+    {
+      "no": 37,
+      "judge": "Carlos Cadilha",
+      "life": "1 de agosto de 1947 (79 anos)",
+      "nominated_by": "PS",
+      "term": "4 de Abril de 2007 – 22 de Julho de 2016",
+      "duration": "9 anos e 3 meses",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Palma (J5)"
+    },
+    {
+      "no": 38,
+      "judge": "João Cura Mariano",
+      "life": "23 de maio de 1957 (69 anos)",
+      "nominated_by": "PSD",
+      "term": "4 de Abril de 2007 – 22 de Julho de 2016",
+      "duration": "9 anos e 3 meses",
+      "career": "Desembargador da Relação do Porto",
+      "succession": "Bravo Serra (J4)"
+    },
+    {
+      "no": 39,
+      "judge": "José Borges Soeiro",
+      "life": "1950 (76 anos)",
+      "nominated_by": "PSD",
+      "term": "4 de Abril de 2007 – 30 de Novembro de 2011 (Renúncia)",
+      "duration": "3 anos e 7 meses",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Beleza (J6)"
+    },
+    {
+      "no": 40,
+      "judge": "Maria Lúcia Amaral (Vice-Presidente)",
+      "life": "10 de junho de 1957 (69 anos)",
+      "nominated_by": "PSD",
+      "term": "4 de Abril de 2007 – 22 de Julho de 2016",
+      "duration": "9 anos e 3 meses",
+      "career": "Professora da Universidade Nova de Lisboa",
+      "succession": "Mota Pinto (J1)"
+    },
+    {
+      "no": 41,
+      "judge": "Rui Pereira",
+      "life": "1956 (70 anos)",
+      "nominated_by": "PS",
+      "term": "4 de Abril de 2007 – 17 de Maio de 2007 (Renúncia)",
+      "duration": "1 mês",
+      "career": "Professor da Universidade Nova de Lisboa",
+      "succession": "Helena de Brito (J2)"
+    },
+    {
+      "no": 42,
+      "judge": "Joaquim Sousa Ribeiro (Presidente)",
+      "life": "1946 (80 anos)",
+      "nominated_by": "PS",
+      "term": "13 de Julho de 2007 – 22 de Julho de 2016",
+      "duration": "9 anos",
+      "career": "Professor da Universidade de Coimbra",
+      "succession": "Pereira (J2)"
+    },
+    {
+      "no": 43,
+      "judge": "Catarina Sarmento e Castro",
+      "life": "16 de maio de 1970 (56 anos)",
+      "nominated_by": "PS",
+      "term": "4 de Fevereiro de 2010 – 2 de Abril de 2019",
+      "duration": "9 anos e 1 mês",
+      "career": "Assistente da Universidade de Coimbra",
+      "succession": "Torres (J10)"
+    },
+    {
+      "no": 44,
+      "judge": "José da Cunha Barbosa",
+      "life": "1950 (76 anos)",
+      "nominated_by": "PSD",
+      "term": "12 de Abril de 2011 – 12 de Junho de 2015 (Renúncia)",
+      "duration": "4 anos e 2 meses",
+      "career": "Conselheiro do Supremo Tribunal de Justiça",
+      "succession": "Silva Rodrigues (J8)"
+    },
+    {
+      "no": 45,
+      "judge": "Maria José Rangel de Mesquita",
+      "life": "1965 (61 anos)",
+      "nominated_by": "PSD",
+      "term": "12 de Julho de 2012 – 12 de Outubro de 2021",
+      "duration": "9 anos e 3 meses",
+      "career": "Professora da Universidade de Lisboa",
+      "succession": "Borges Soeiro (J6)"
+    },
+    {
+      "no": 46,
+      "judge": "Fernando Vaz Ventura",
+      "life": "7 de janeiro de 1961 (65 anos)",
+      "nominated_by": "PS",
+      "term": "12 de Julho de 2012 – 12 de Outubro de 2021",
+      "duration": "9 anos e 3 meses",
+      "career": "Desembargador da Relação de Lisboa",
+      "succession": "Galvão (J7)"
+    },
+    {
+      "no": 47,
+      "judge": "Fátima Mata-Mouros",
+      "life": "25 de março de 1960 (66 anos)",
+      "nominated_by": "CDS",
+      "term": "12 de Julho de 2012 – 12 de Outubro de 2021",
+      "duration": "9 anos e 3 meses",
+      "career": "Desembargadora da Relação de Évora",
+      "succession": "Pamplona de Oliveira (J9)"
+    },
+    {
+      "no": 48,
+      "judge": "Pedro Machete (Vice-Presidente)",
+      "life": "1965–2024",
+      "nominated_by": "Cooptado PSD",
+      "term": "1 de Outubro de 2012 – 25 de Abril de 2023",
+      "duration": "10 anos e 6 meses",
+      "career": "Professor da Universidade Católica Portuguesa",
+      "succession": "Moura Ramos (J11)"
+    },
+    {
+      "no": 49,
+      "judge": "Lino Ribeiro",
+      "life": "6 de abril de 1957 (69 anos)",
+      "nominated_by": "Cooptado Ind.",
+      "term": "20 de Junho de 2013 – 25 de Abril de 2023",
+      "duration": "9 anos e 10 meses",
+      "career": "Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Gomes (J13)"
+    },
+    {
+      "no": 50,
+      "judge": "João Caupers (Presidente)",
+      "life": "21 de abril de 1951 (75 anos)",
+      "nominated_by": "Cooptado PS",
+      "term": "6 de Março de 2014 – 25 de Abril de 2023",
+      "duration": "9 anos e 1 mês",
+      "career": "Professor da Universidade Nova de Lisboa",
+      "succession": "Antunes (J12)"
+    },
+    {
+      "no": 51,
+      "judge": "José Teles Pereira",
+      "life": "13 de junho de 1957 (69 anos)",
+      "nominated_by": "PSD",
+      "term": "9 de Julho de 2015 – 1 de Outubro de 2025 (Renúncia)",
+      "duration": "10 anos e 2 meses",
+      "career": "Desembargador da Relação de Coimbra",
+      "succession": "Cunha Barbosa (J8)"
+    },
+    {
+      "no": 52,
+      "judge": "Manuel da Costa Andrade (Presidente)",
+      "life": "8 de outubro de 1944 (82 anos)",
+      "nominated_by": "PSD",
+      "term": "22 de Julho de 2016 – 15 de Fevereiro de 2021 (Renúncia)",
+      "duration": "4 anos 6 meses",
+      "career": "Deputado Professor da Universidade de Coimbra",
+      "succession": "Cura Mariano (J4)"
+    },
+    {
+      "no": 53,
+      "judge": "Cláudio Ramos Monteiro",
+      "life": "27 de setembro de 1964 (62 anos)",
+      "nominated_by": "PS",
+      "term": "22 de Julho de 2016 – 16 de Janeiro de 2020 (Renúncia)",
+      "duration": "3 anos e 5 meses",
+      "career": "Professor da Universidade de Lisboa Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Guerra Martins (J3)"
+    },
+    {
+      "no": 54,
+      "judge": "Gonçalo Almeida Ribeiro (Vice-Presidente)",
+      "life": "26 de dezembro de 1983 (42 anos)",
+      "nominated_by": "PSD",
+      "term": "22 de Julho de 2016 – 1 de Outubro de 2025 (Renúncia)",
+      "duration": "9 anos e 2 meses",
+      "career": "Professor da Universidade Católica Portuguesa",
+      "succession": "Amaral (J1)"
+    },
+    {
+      "no": 55,
+      "judge": "Joana Costa",
+      "life": "17 de agosto de 1971 (55 anos)",
+      "nominated_by": "PS",
+      "term": "22 de Julho de 2016 – 15 de Junho de 2026",
+      "duration": "9 anos e 10 meses",
+      "career": "Juíza de Direito",
+      "succession": "Cadilha (J5)"
+    },
+    {
+      "no": 56,
+      "judge": "Maria Clara Sottomayor",
+      "life": "31 de janeiro de 1966 (60 anos)",
+      "nominated_by": "BE",
+      "term": "22 de Julho de 2016 – 25 de Julho de 2019 (Renúncia)",
+      "duration": "3 anos",
+      "career": "Conselheira do Supremo Tribunal de Justiça",
+      "succession": "Sousa Ribeiro (J2)"
+    },
+    {
+      "no": 57,
+      "judge": "Mariana Canotilho",
+      "life": "7 de maio de 1979 (47 anos)",
+      "nominated_by": "PCP",
+      "term": "2 de Abril de 2019 – Presente",
+      "duration": "7 anos e 6 meses",
+      "career": "Assessora no Tribunal Constitucional",
+      "succession": "Sarmento e Castro (J10)"
+    },
+    {
+      "no": 58,
+      "judge": "José João Abrantes (Presidente)",
+      "life": "18 de junho de 1955 (71 anos)",
+      "nominated_by": "PS",
+      "term": "14 de Julho de 2020 – 15 de Junho de 2026 (Renúncia)",
+      "duration": "5 anos e 11 meses",
+      "career": "Professor da Universidade Nova de Lisboa",
+      "succession": "Sottomayor (J2)"
+    },
+    {
+      "no": 59,
+      "judge": "Maria da Assunção Raimundo",
+      "life": "15 de agosto de 1956 (70 anos)",
+      "nominated_by": "PS",
+      "term": "14 de Julho de 2020 – 9 de Junho de 2023 (Renúncia)",
+      "duration": "2 anos e 10 meses",
+      "career": "Conselheira do Supremo Tribunal de Justiça",
+      "succession": "Monteiro (J3)"
+    },
+    {
+      "no": 60,
+      "judge": "Afonso Patrão",
+      "life": "4 de maio de 1980 (46 anos)",
+      "nominated_by": "PSD",
+      "term": "12 de Outubro de 2021 – Presente",
+      "duration": "5 anos e 0 mês",
+      "career": "Assessor no Tribunal Constitucional",
+      "succession": "Costa Andrade (J4)"
+    },
+    {
+      "no": 61,
+      "judge": "António José da Ascensão Ramos",
+      "life": "27 de novembro de 1960 (65 anos)",
+      "nominated_by": "PS",
+      "term": "12 de Outubro de 2021 – Presente",
+      "duration": "5 anos e 0 mês",
+      "career": "Juiz Presidente da Comarca de Leiria",
+      "succession": "Vaz Ventura (J7)"
+    },
+    {
+      "no": 62,
+      "judge": "José Eduardo Figueiredo Dias",
+      "life": "1967 (59 anos)",
+      "nominated_by": "PSD",
+      "term": "12 de Outubro de 2021 – Presente",
+      "duration": "5 anos e 0 mês",
+      "career": "Presidente da Entidade das Contas e Financiamentos Políticos",
+      "succession": "Rangel de Mesquita (J6)"
+    },
+    {
+      "no": 63,
+      "judge": "Maria Benedita Urbano",
+      "life": "1965 (61 anos)",
+      "nominated_by": "PSD",
+      "term": "12 de Outubro de 2021 – Presente",
+      "duration": "5 anos e 0 mês",
+      "career": "Conselheira do Supremo Tribunal Administrativo",
+      "succession": "Mata-Mouros (J9)"
+    },
+    {
+      "no": 64,
+      "judge": "Carlos Carvalho",
+      "life": "5 de novembro de 1966 (59 anos)",
+      "nominated_by": "Cooptado Ind.",
+      "term": "25 de Abril de 2023 – Presente",
+      "duration": "3 anos e 6 meses",
+      "career": "Conselheiro do Supremo Tribunal Administrativo",
+      "succession": "Ribeiro (J13)"
+    },
+    {
+      "no": 65,
+      "judge": "João Carlos Loureiro (Presidente)",
+      "life": "15 de setembro de 1962 (64 anos)",
+      "nominated_by": "Cooptado PSD",
+      "term": "25 de Abril de 2023 – Presente",
+      "duration": "3 anos e 6 meses",
+      "career": "Professor da Universidade de Coimbra",
+      "succession": "Machete (J11)"
+    },
+    {
+      "no": 66,
+      "judge": "Rui Guerra da Fonseca (Vice-Presidente)",
+      "life": "13 de setembro de 1975 (51 anos)",
+      "nominated_by": "Cooptado PS",
+      "term": "25 de Abril de 2023 – Presente",
+      "duration": "3 anos e 6 meses",
+      "career": "Professor da Universidade de Lisboa",
+      "succession": "Caupers (J12)"
+    },
+    {
+      "no": 67,
+      "judge": "Dora Lucas Neto",
+      "life": "8 de julho de 1973 (53 anos)",
+      "nominated_by": "PS",
+      "term": "11 de Dezembro de 2023 – Presente",
+      "duration": "2 anos e 10 meses",
+      "career": "Conselheira do Supremo Tribunal Administrativo",
+      "succession": "Assunção Raimundo (J3)"
+    },
+    {
+      "no": 68,
+      "judge": "Joaquim Cardoso da Costa",
+      "life": "17 de janeiro de 1965 (61 anos)",
+      "nominated_by": "PSD",
+      "term": "15 de Junho de 2026 – Presente",
+      "duration": "4 meses",
+      "career": "Diretor do Centro Jurídico do Estado",
+      "succession": "Almeida Ribeiro (J1)"
+    },
+    {
+      "no": 69,
+      "judge": "Paula Ribeiro de Faria",
+      "life": "8 de novembro de 1965 (60 anos)",
+      "nominated_by": "PSD",
+      "term": "15 de Junho de 2026 – Presente",
+      "duration": "4 meses",
+      "career": "Professora da Universidade Católica Portuguesa",
+      "succession": "Teles Pereira (J8)"
+    },
+    {
+      "no": 70,
+      "judge": "Luís Filipe Lameiras",
+      "life": "12 de janeiro de 1964 (62 anos)",
+      "nominated_by": "CH",
+      "term": "15 de Junho de 2026 – Presente",
+      "duration": "4 meses",
+      "career": "Desembargador da Relação de Lisboa",
+      "succession": "Costa (J5)"
+    },
+    {
+      "no": 71,
+      "judge": "Gabriela Cunha Rodrigues",
+      "life": "25 de outubro de 1969 (57 anos)",
+      "nominated_by": "PS",
+      "term": "15 de Junho de 2026 – Presente",
+      "duration": "4 meses",
+      "career": "Desembargadora da Relação de Lisboa",
+      "succession": "Abrantes (J2)"
+    }
+  ],
+  "meta": {
+    "title": "Juízes do Tribunal Constitucional de Portugal - Free Download",
+    "description": "Lista dos juízes conselheiros do Tribunal Constitucional português desde 1983: indicação partidária, mandato, duração e carreira. Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Juízes do Tribunal Constitucional de Portugal | ListBase",
+    "seo_description": "Download Juízes do Tribunal Constitucional de Portugal — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_juízes_do_Tribunal_Constitucional"
+    ]
+  }
+}

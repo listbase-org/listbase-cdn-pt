@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-28T02:24:22.115Z",
-  "total_datasets": 506,
-  "total_records": 740865,
+  "generated": "2026-10-28T02:24:24.871Z",
+  "total_datasets": 507,
+  "total_records": 740936,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -3409,6 +3409,35 @@
         "xlsx": {
           "name": "pt-br-ministros-stf_PT.xlsx",
           "size": 20404
+        }
+      }
+    },
+    {
+      "id": "pt-juizes-tribunal-constitucional",
+      "name": "Juízes do Tribunal Constitucional de Portugal",
+      "category": "law",
+      "record_count": 71,
+      "columns": [
+        "no",
+        "judge",
+        "life",
+        "nominated_by",
+        "term",
+        "duration",
+        "career",
+        "succession"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_juízes_do_Tribunal_Constitucional",
+      "updated": "2026-10",
+      "size": 26252,
+      "files": {
+        "csv": {
+          "name": "pt-juizes-tribunal-constitucional_PT.csv",
+          "size": 13698
+        },
+        "xlsx": {
+          "name": "pt-juizes-tribunal-constitucional_PT.xlsx",
+          "size": 12442
         }
       }
     },
