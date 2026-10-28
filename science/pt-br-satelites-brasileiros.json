@@ -1,0 +1,396 @@
+{
+  "id": "pt-br-satelites-brasileiros",
+  "name": "Satélites brasileiros",
+  "title": "Satélites brasileiros",
+  "description": "Lista de satélites brasileiros: classe, data, local e veículo de lançamento, órbita, estado e resumo.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_satélites_brasileiros",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_satélites_brasileiros",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "designation",
+      "label": "Designation",
+      "type": "string"
+    },
+    {
+      "key": "class",
+      "label": "Class",
+      "type": "string"
+    },
+    {
+      "key": "launch_date",
+      "label": "Launch Date",
+      "type": "string"
+    },
+    {
+      "key": "launch_site",
+      "label": "Launch Site",
+      "type": "string"
+    },
+    {
+      "key": "launch_vehicle",
+      "label": "Launch Vehicle",
+      "type": "string"
+    },
+    {
+      "key": "orbit",
+      "label": "Orbit",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "summary",
+      "label": "Summary",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "designation": "Dove-OSCAR 17",
+      "class": "Cubesat",
+      "launch_date": "22 de janeiro de 1990",
+      "launch_site": "Centro Espacial de Kourou",
+      "launch_vehicle": "Ariane 40 H10",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Operou até março de 1998. Em órbita (2024).",
+      "summary": "Primeiro satélite radioamador do Brasil projetado de forma particular."
+    },
+    {
+      "designation": "SCD-1",
+      "class": "Satélite",
+      "launch_date": "9 de fevereiro de 1993",
+      "launch_site": "Centro Espacial John F. Kennedy",
+      "launch_vehicle": "Pegasus 003/F3",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Ainda em operação.",
+      "summary": "Primeiro satélite desenvolvido pelo INPE."
+    },
+    {
+      "designation": "SCD-2A",
+      "class": "Satélite",
+      "launch_date": "2 de novembro de 1997",
+      "launch_site": "Centro de Lançamento de Alcântara",
+      "launch_vehicle": "VLS-1 V1",
+      "orbit": "N/A",
+      "status": "Destruído no lançamento.",
+      "summary": "Segundo satélite desenvolvido pelo INPE."
+    },
+    {
+      "designation": "SCD-2",
+      "class": "Satélite",
+      "launch_date": "23 de outubro de 1998",
+      "launch_site": "Estação da Força Aérea de Cabo Canaveral",
+      "launch_vehicle": "Pegasus",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Ainda em operação.",
+      "summary": "Terceiro satélite desenvolvido pelo INPE."
+    },
+    {
+      "designation": "CBERS-1",
+      "class": "Satélite",
+      "launch_date": "14 de outubro de 1999",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "Órbita heliossíncrona",
+      "status": "Desativado em agosto de 2003. Em órbita (2024).",
+      "summary": "Primeiro satélite do programa CBERS."
+    },
+    {
+      "designation": "SACI-1",
+      "class": "Microssatélite",
+      "launch_date": "14 de outubro de 1999",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "Órbita heliossíncrona",
+      "status": "Perdeu contato pouco após entrar em órbita. Em órbita (2024).",
+      "summary": "Tinha como objetivo realizar experimentos universitários selecionados pela Academia Brasileira de Ciências. O programa foi encerrado após a perda do segundo satélite."
+    },
+    {
+      "designation": "SACI-2",
+      "class": "Microssatélite",
+      "launch_date": "11 de dezembro de 1999",
+      "launch_site": "Centro de Lançamento de Alcântara",
+      "launch_vehicle": "VLS-1 V2",
+      "orbit": "N/A",
+      "status": "Destruído no lançamento.",
+      "summary": "Tinha como objetivo realizar experimentos universitários selecionados pela Academia Brasileira de Ciências. O programa foi encerrado após a perda do segundo satélite."
+    },
+    {
+      "designation": "SATEC",
+      "class": "Microssatélite",
+      "launch_date": "25 de agosto de 2003",
+      "launch_site": "Centro de Lançamento de Alcântara",
+      "launch_vehicle": "VLS-1 V3",
+      "orbit": "N/A",
+      "status": "Destruídos durante testes de pré-lançamento na plataforma devido ao Acidente de Alcântara.",
+      "summary": "Desenvolvido pelo INPE."
+    },
+    {
+      "designation": "UNOSAT",
+      "class": "Nanossatélite",
+      "launch_date": "25 de agosto de 2003",
+      "launch_site": "Centro de Lançamento de Alcântara",
+      "launch_vehicle": "VLS-1 V3",
+      "orbit": "N/A",
+      "status": "Destruídos durante testes de pré-lançamento na plataforma devido ao Acidente de Alcântara.",
+      "summary": "Desenvolvido pela Universidade Norte do Paraná."
+    },
+    {
+      "designation": "CBERS-2",
+      "class": "Satélite",
+      "launch_date": "21 de outubro de 2003",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Deixou de operar em janeiro de 2009. Em órbita (2024).",
+      "summary": "Segundo satélite do programa CBERS."
+    },
+    {
+      "designation": "CBERS-2B",
+      "class": "Satélite",
+      "launch_date": "19 de setembro de 2007",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "Órbita heliossíncrona",
+      "status": "Aposentado em maio de 2010. Em órbita (2024).",
+      "summary": "Terceiro satélite do programa CBERS."
+    },
+    {
+      "designation": "CBERS-3",
+      "class": "Satélite",
+      "launch_date": "9 de dezembro de 2013",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "N/A",
+      "status": "Reentrada prematura devido a uma falha no foguete.",
+      "summary": "Quarto satélite do programa CBERS."
+    },
+    {
+      "designation": "NanoSatC-Br 1",
+      "class": "Nanossatélite",
+      "launch_date": "19 de junho de 2014",
+      "launch_site": "Base de Dombarovski",
+      "launch_vehicle": "Dnepr",
+      "orbit": "Órbita terrestre",
+      "status": "Aposentado.",
+      "summary": "Desenvolvido em convênio entre a UFSM e o INPE."
+    },
+    {
+      "designation": "CBERS-4",
+      "class": "Satélite",
+      "launch_date": "7 de dezembro de 2014",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "Órbita heliossíncrona",
+      "status": "Em operação.",
+      "summary": "Quinto satélite do programa CBERS."
+    },
+    {
+      "designation": "AESP-14",
+      "class": "Nanossatélite",
+      "launch_date": "10 de janeiro de 2015",
+      "launch_site": "Estação da Força Aérea de Cabo Canaveral",
+      "launch_vehicle": "Falcon 9 v1.1",
+      "orbit": "ISS",
+      "status": "Considerado inoperante após não abrir uma antena.",
+      "summary": "Desenvolvido pelo INPE e o ITA."
+    },
+    {
+      "designation": "SERPENS",
+      "class": "Nanossatélite",
+      "launch_date": "18 de agosto de 2015",
+      "launch_site": "Centro Espacial de Tanegashima",
+      "launch_vehicle": "H-IIB",
+      "orbit": "ISS",
+      "status": "Aposentado no dia 3 de março e reentrou no dia 27 de março de 2016.",
+      "summary": "Projeto criado pela AEB em parceria com universidades."
+    },
+    {
+      "designation": "Tancredo-1",
+      "class": "Picossatélite",
+      "launch_date": "9 de dezembro de 2016",
+      "launch_site": "Centro Espacial de Tanegashima",
+      "launch_vehicle": "H-IIB",
+      "orbit": "ISS",
+      "status": "Aposentado no dia 10 e reentrou no dia 18 de outubro de 2017.",
+      "summary": "Projeto educacional da Escola Municipal Tancredo Neves em Ubatuba."
+    },
+    {
+      "designation": "ITASAT-1",
+      "class": "Microssatélite",
+      "launch_date": "3 de dezembro de 2018",
+      "launch_site": "Base da Força Aérea de Vandenberg",
+      "launch_vehicle": "Falcon 9 Block 5",
+      "orbit": "Órbita terrestre",
+      "status": "Em órbita (2020).",
+      "summary": "Projeto desenvolvido em parceria entre o ITA, AEB e INPE."
+    },
+    {
+      "designation": "CBERS-4A",
+      "class": "Satélite",
+      "launch_date": "20 de dezembro de 2019",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "Órbita heliossíncrona",
+      "status": "Em operação (2021).",
+      "summary": "Sexto satélite do programa CBERS."
+    },
+    {
+      "designation": "FloripaSat-1",
+      "class": "Nanossatélite",
+      "launch_date": "20 de dezembro de 2019",
+      "launch_site": "Centro de Lançamento de Taiyuan",
+      "launch_vehicle": "Longa Marcha 4B",
+      "orbit": "Órbita heliossíncrona",
+      "status": "Em operação (2020).",
+      "summary": "Desenvolvido por alunos da UFSC em parceria com a AEB."
+    },
+    {
+      "designation": "Amazonia 1",
+      "class": "Satélite",
+      "launch_date": "28 de fevereiro de 2021",
+      "launch_site": "Centro Espacial de Satish Dhawan",
+      "launch_vehicle": "PSLV-DL",
+      "orbit": "Órbita polar",
+      "status": "Em operação (2021).",
+      "summary": "Desenvolvido pelo INPE e a AEB. É o primeiro satélite totalmente desenvolvido e construído no Brasil."
+    },
+    {
+      "designation": "NanoSatC-Br 2",
+      "class": "Nanossatélite",
+      "launch_date": "22 de março de 2021",
+      "launch_site": "Cosmódromo de Baikonur",
+      "launch_vehicle": "Soyuz-2",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Em operação (2021).",
+      "summary": "Feito em parceria do INPE e a UFSM."
+    },
+    {
+      "designation": "PION-BR1",
+      "class": "Picossatélite",
+      "launch_date": "13 de janeiro de 2022",
+      "launch_site": "Estação da Força Espacial de Cabo Canaveral",
+      "launch_vehicle": "Falcon 9 Block 5",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Aposentado.",
+      "summary": "Desenvolvido pela PION Labs, é o primeiro satélite de produção Brasileira desenvolvido por uma startup."
+    },
+    {
+      "designation": "Alpha Crux",
+      "class": "Picossatélite",
+      "launch_date": "1 de abril de 2022",
+      "launch_site": "Estação da Força Espacial de Cabo Canaveral",
+      "launch_vehicle": "Falcon 9 Block 5",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Em órbita (2022).",
+      "summary": "Desenvolvido pela Universidade de Brasília (UNB), em parceria com a AEB."
+    },
+    {
+      "designation": "Carcará I",
+      "class": "Microssatélite",
+      "launch_date": "25 de maio de 2022",
+      "launch_site": "Estação da Força Espacial de Cabo Canaveral",
+      "launch_vehicle": "Falcon 9 Block 5",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Em órbita (2022).",
+      "summary": "Satélite-radar de sensoriamento remoto da Força Aérea Brasileira, parte do Projeto Lessonia-1 e produzidos pela empresa finlandesa ICEYE [ en ]."
+    },
+    {
+      "designation": "Carcará II",
+      "class": "Microssatélite",
+      "launch_date": "25 de maio de 2022",
+      "launch_site": "Estação da Força Espacial de Cabo Canaveral",
+      "launch_vehicle": "Falcon 9 Block 5",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Em órbita (2022).",
+      "summary": "Satélite-radar de sensoriamento remoto da Força Aérea Brasileira, parte do Projeto Lessonia-1 e produzidos pela empresa finlandesa ICEYE [ en ]."
+    },
+    {
+      "designation": "SPORT",
+      "class": "Microssatélite",
+      "launch_date": "21 de novembro de 2022",
+      "launch_site": "Estação da Força Espacial de Cabo Canaveral",
+      "launch_vehicle": "Falcon 9 Block 5",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Reentrou em outubro de 2023.",
+      "summary": "Scintilation Prediction Observations Research Task, projeto desenvolvido em parceria entre o ITA, NASA, INPE e universidades estadounidenses."
+    },
+    {
+      "designation": "VCUB-1",
+      "class": "Nanossatélite",
+      "launch_date": "15 de abril de 2023",
+      "launch_site": "Base da Força Espacial de Vandenberg",
+      "launch_vehicle": "Falcon 9 Block 5",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Em órbita (2023).",
+      "summary": "Desenvolvido pela joint-venture brasileira Visiona (da Embraer e Telebrás), para observação da Terra e coleta de dados."
+    },
+    {
+      "designation": "Floripasat 2a e 2b",
+      "class": "CubeSat",
+      "launch_date": "22 de dezembro de 2025",
+      "launch_site": "Centro Espacial de Alcântara",
+      "launch_vehicle": "Innospace HANBIT-NANO V01",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Destruídos 33 segundos após o lançamento",
+      "summary": "Grupo de satélites ambientais e de coleta de dados."
+    },
+    {
+      "designation": "Solares S2",
+      "class": "CubeSat",
+      "launch_date": "22 de dezembro de 2025",
+      "launch_site": "Centro Espacial de Alcântara",
+      "launch_vehicle": "Innospace HANBIT-NANO V01",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Destruídos 33 segundos após o lançamento",
+      "summary": "Grupo de satélites ambientais e de coleta de dados."
+    },
+    {
+      "designation": "SNI-GNSS",
+      "class": "CubeSat",
+      "launch_date": "22 de dezembro de 2025",
+      "launch_site": "Centro Espacial de Alcântara",
+      "launch_vehicle": "Innospace HANBIT-NANO V01",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Destruídos 33 segundos após o lançamento",
+      "summary": "Grupo de satélites ambientais e de coleta de dados."
+    },
+    {
+      "designation": "PionBR-2",
+      "class": "CubeSat",
+      "launch_date": "22 de dezembro de 2025",
+      "launch_site": "Centro Espacial de Alcântara",
+      "launch_vehicle": "Innospace HANBIT-NANO V01",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Destruídos 33 segundos após o lançamento",
+      "summary": "Grupo de satélites ambientais e de coleta de dados."
+    },
+    {
+      "designation": "Jussara-K",
+      "class": "CubeSat",
+      "launch_date": "22 de dezembro de 2025",
+      "launch_site": "Centro Espacial de Alcântara",
+      "launch_vehicle": "Innospace HANBIT-NANO V01",
+      "orbit": "Órbita terrestre baixa",
+      "status": "Destruídos 33 segundos após o lançamento",
+      "summary": "Grupo de satélites ambientais e de coleta de dados."
+    }
+  ],
+  "meta": {
+    "title": "Satélites brasileiros - Free Download",
+    "description": "Lista de satélites brasileiros: classe, data, local e veículo de lançamento, órbita, estado e resumo. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Satélites brasileiros | ListBase",
+    "seo_description": "Download Satélites brasileiros — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_satélites_brasileiros"
+    ]
+  }
+}

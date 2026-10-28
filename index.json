@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-28T02:24:19.596Z",
-  "total_datasets": 505,
-  "total_records": 740832,
+  "generated": "2026-10-28T02:24:22.115Z",
+  "total_datasets": 506,
+  "total_records": 740865,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -14408,6 +14408,35 @@
         "xlsx": {
           "name": "pt-viseu-aeroportos_PT.xlsx",
           "size": 8139
+        }
+      }
+    },
+    {
+      "id": "pt-br-satelites-brasileiros",
+      "name": "Satélites brasileiros",
+      "category": "science",
+      "record_count": 33,
+      "columns": [
+        "designation",
+        "class",
+        "launch_date",
+        "launch_site",
+        "launch_vehicle",
+        "orbit",
+        "status",
+        "summary"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_satélites_brasileiros",
+      "updated": "2026-10",
+      "size": 15270,
+      "files": {
+        "csv": {
+          "name": "pt-br-satelites-brasileiros_PT.csv",
+          "size": 7886
+        },
+        "xlsx": {
+          "name": "pt-br-satelites-brasileiros_PT.xlsx",
+          "size": 9787
         }
       }
     },
