@@ -1,0 +1,346 @@
+{
+  "id": "pt-denominacoes-origem-vinhos",
+  "name": "Denominações de origem dos vinhos portugueses (DOC, IPR e Vinhos Regionais)",
+  "title": "Denominações de origem dos vinhos portugueses (DOC, IPR e Vinhos Regionais)",
+  "description": "Denominações de Origem Controlada (DOC), Indicações de Proveniência Regulamentada (IPR) e Vinhos Regionais de Portugal, com sub-regiões e designações especiais.",
+  "category": "agriculture",
+  "source": "https://pt.wikipedia.org/wiki/Denominações_de_origem_portuguesas",
+  "source_url": "https://pt.wikipedia.org/wiki/Denominações_de_origem_portuguesas",
+  "updated": "2026-10",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "details",
+      "label": "Details",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alenquer DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Alentejo DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com oito subregiões: Borba, Evora, Granja-Amareleja, Moura, Portalegre, Redondo, Reguengos e Vidigueira."
+    },
+    {
+      "name": "Arruda DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Bairrada DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Beira Interior DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com três subregiões: Castelo Rodrigo, Cova da Beira e Pinhel."
+    },
+    {
+      "name": "Borba DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Bucelas DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Carcavelos DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Colares DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Dão DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com sete subregiões: Alva, Besteiros, Castendo, Serra da Estrela, Silgueiros, Terras de Azurara e Terras de Senhorim; e uma designação especial: Dão Nobre ."
+    },
+    {
+      "name": "Douro DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com três subregiões: Baixo Corgo, Cima Corgo e Douro Superior; e uma designação especial: Moscatel do Douro."
+    },
+    {
+      "name": "Encostas de Aire DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com duas subregiões: Alcobaça e Ourém."
+    },
+    {
+      "name": "Lagoa DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Lagos DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Madeira DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Porto DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Portalegre DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Portimão DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Redondo DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Reguengos DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Setúbal DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com duas designações especiais: Moscatel de Setúbal e Setúbal Roxo."
+    },
+    {
+      "name": "Tavira DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Vidigueira DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": ""
+    },
+    {
+      "name": "Vinho Verde DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com nove subregiões: Amarante, Ave, Baião, Basto, Cávado, Lima, Monção e Melgaço, Paiva e Sousa; e com duas designações especiais: Vinho Verde Alvarinho e Vinho Verde Alvarinho Espumante."
+    },
+    {
+      "name": "Do Tejo DOC (substitui Ribatejo DOC)",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com seis subregiões Almeirim, Cartaxo, Chamusca, Coruche, Santarém e Tomar."
+    },
+    {
+      "name": "Trás-os-Montes DOC",
+      "classification": "Denominação de Origem Controlada (DOC)",
+      "details": "com três subregiões: Chaves, Planalto Mirandês e Valpaços."
+    },
+    {
+      "name": "Alcobaça IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Almeirim IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Arrabida IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Arruda IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Biscoitos IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Cartaxo IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Castelo Rodrigo IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Chamusca IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Chaves IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Coruche IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Cova de Beira IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Encostas da Aire IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Encostas da Nave IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Evora IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Graciosa IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Granja Amareleja IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Lafões IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Moura IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Óbidos IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Palmela IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Pico IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Pinhel IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Planalto Mirandes IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Santarém IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Tomar IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Torres Vedras IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Valpaços IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Varosa IPR",
+      "classification": "Indicação de Proveniência Regulamentada (IPR)",
+      "details": ""
+    },
+    {
+      "name": "Algarve VR",
+      "classification": "Vinhos regionais",
+      "details": ""
+    },
+    {
+      "name": "Beiras VR",
+      "classification": "Vinhos regionais",
+      "details": ""
+    },
+    {
+      "name": "Estremadura VR",
+      "classification": "Vinhos regionais",
+      "details": ""
+    },
+    {
+      "name": "Tejo VR",
+      "classification": "Vinhos regionais",
+      "details": ""
+    },
+    {
+      "name": "Rios do Minho VR",
+      "classification": "Vinhos regionais",
+      "details": ""
+    },
+    {
+      "name": "Terras do Sado VR",
+      "classification": "Vinhos regionais",
+      "details": ""
+    },
+    {
+      "name": "Transmontano VR",
+      "classification": "Vinhos regionais",
+      "details": ""
+    }
+  ],
+  "meta": {
+    "title": "Denominações de origem dos vinhos portugueses (DOC, IPR e Vinhos Regionais) - Free Download",
+    "description": "Denominações de Origem Controlada (DOC), Indicações de Proveniência Regulamentada (IPR) e Vinhos Regionais de Portugal, com sub-regiões e designações especiais. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Denominações de origem dos vinhos portugueses (DOC, IPR e Vinhos Regionais) | ListBase",
+    "seo_description": "Download Denominações de origem dos vinhos portugueses (DOC, IPR e Vinhos Regionais) — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Denominações_de_origem_portuguesas"
+    ]
+  }
+}

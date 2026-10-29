@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-10-29T02:20:02.525Z",
-  "total_datasets": 510,
-  "total_records": 741135,
+  "generated": "2026-10-29T02:20:05.536Z",
+  "total_datasets": 511,
+  "total_records": 741196,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -102,6 +102,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pt-denominacoes-origem-vinhos",
+      "name": "Denominações de origem dos vinhos portugueses (DOC, IPR e Vinhos Regionais)",
+      "category": "agriculture",
+      "record_count": 61,
+      "columns": [
+        "name",
+        "classification",
+        "details"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Denominações_de_origem_portuguesas",
+      "updated": "2026-10",
+      "size": 10836,
+      "files": {
+        "csv": {
+          "name": "pt-denominacoes-origem-vinhos_PT.csv",
+          "size": 4760
+        },
+        "xlsx": {
+          "name": "pt-denominacoes-origem-vinhos_PT.xlsx",
+          "size": 8492
+        }
+      }
+    },
     {
       "id": "pt-produtos-dop",
       "name": "Produtos com Denominação de Origem Protegida (DOP) de Portugal",
