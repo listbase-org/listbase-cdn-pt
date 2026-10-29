@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-29T02:19:59.687Z",
-  "total_datasets": 509,
-  "total_records": 741058,
+  "generated": "2026-10-29T02:20:02.525Z",
+  "total_datasets": 510,
+  "total_records": 741135,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -3335,6 +3335,29 @@
         "xlsx": {
           "name": "pt-reis-de-portugal_PT.xlsx",
           "size": 12138
+        }
+      }
+    },
+    {
+      "id": "pt-br-toponimos-tupi",
+      "name": "Topônimos de origem tupi no Brasil",
+      "category": "language",
+      "record_count": 77,
+      "columns": [
+        "name",
+        "meaning"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Topônimos_de_origem_tupi_no_Brasil",
+      "updated": "2026-10",
+      "size": 7707,
+      "files": {
+        "csv": {
+          "name": "pt-br-toponimos-tupi_PT.csv",
+          "size": 2952
+        },
+        "xlsx": {
+          "name": "pt-br-toponimos-tupi_PT.xlsx",
+          "size": 9033
         }
       }
     },

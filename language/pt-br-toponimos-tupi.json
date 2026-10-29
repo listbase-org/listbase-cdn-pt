@@ -1,0 +1,344 @@
+{
+  "id": "pt-br-toponimos-tupi",
+  "name": "Topônimos de origem tupi no Brasil",
+  "title": "Topônimos de origem tupi no Brasil",
+  "description": "Nomes de lugares brasileiros de origem tupi e seus significados.",
+  "category": "language",
+  "source": "https://pt.wikipedia.org/wiki/Topônimos_de_origem_tupi_no_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Topônimos_de_origem_tupi_no_Brasil",
+  "updated": "2026-10",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abaeté (lagoa)",
+      "meaning": "terrífico, horroroso"
+    },
+    {
+      "name": "Abatiá",
+      "meaning": "grão de milho"
+    },
+    {
+      "name": "Andaraí",
+      "meaning": "rio dos morcegos"
+    },
+    {
+      "name": "Aracaju",
+      "meaning": "cajueiro dos arás (aves psitacídeas)"
+    },
+    {
+      "name": "Araraquara",
+      "meaning": "toca das araras ou dos ararás (variedade de formiga alada branca, semelhante ao cupim )"
+    },
+    {
+      "name": "Araruama",
+      "meaning": "lugar de as araras beberem água"
+    },
+    {
+      "name": "Araçatuba",
+      "meaning": "ajuntamento de araçás"
+    },
+    {
+      "name": "Atibaia",
+      "meaning": "cabelo crescido que os índios tinham sobre as orelhas"
+    },
+    {
+      "name": "Avaré",
+      "meaning": "padre"
+    },
+    {
+      "name": "Bariri",
+      "meaning": "coisa que treme, isto é, corrente veloz de rio em trecho de grande desnivelamento"
+    },
+    {
+      "name": "Barueri",
+      "meaning": "Flor Vermelha"
+    },
+    {
+      "name": "Bauru",
+      "meaning": "cesto de frutas"
+    },
+    {
+      "name": "Botucatu",
+      "meaning": "serra boa"
+    },
+    {
+      "name": "Butantã",
+      "meaning": "terra muito dura"
+    },
+    {
+      "name": "Caraguatatuba",
+      "meaning": "ajuntamento de gravatás"
+    },
+    {
+      "name": "Catanduva",
+      "meaning": "ajuntamento de mata dura, isto é, de cerrado"
+    },
+    {
+      "name": "Caçapava",
+      "meaning": "lugar de se atravessar a mata"
+    },
+    {
+      "name": "Curitiba",
+      "meaning": "ajuntamento de pinheiros"
+    },
+    {
+      "name": "Embu-Guaçu",
+      "meaning": "cobra grande"
+    },
+    {
+      "name": "Guararema",
+      "meaning": "pau-d'alho"
+    },
+    {
+      "name": "Guaratinguetá",
+      "meaning": "muitas garças"
+    },
+    {
+      "name": "Ibirapuera",
+      "meaning": "árvores velhas"
+    },
+    {
+      "name": "Iguatemi",
+      "meaning": "rio das canoas emproadas"
+    },
+    {
+      "name": "Iguaçu",
+      "meaning": "rio grande"
+    },
+    {
+      "name": "Indaiatuba",
+      "meaning": "ajuntamento de indaiás"
+    },
+    {
+      "name": "Ipanema",
+      "meaning": "rio amarelo, aziago, azarado, sem peixes"
+    },
+    {
+      "name": "Ipiranga",
+      "meaning": "rio vermelho"
+    },
+    {
+      "name": "Itabira",
+      "meaning": "pedra levantada"
+    },
+    {
+      "name": "Itaboraí",
+      "meaning": "rio das pedras brilhantes"
+    },
+    {
+      "name": "Itacoatiara",
+      "meaning": "pedra pintada"
+    },
+    {
+      "name": "Itaim",
+      "meaning": "pedregulho"
+    },
+    {
+      "name": "Itaipu",
+      "meaning": "rio barulhento das pedras"
+    },
+    {
+      "name": "Itajaí",
+      "meaning": "rio das pedras que emergem"
+    },
+    {
+      "name": "Itamarati",
+      "meaning": "rio das pedras pequenas"
+    },
+    {
+      "name": "Itanhaém",
+      "meaning": "bacia de pedra (alusão a um aspecto do relevo fluvial da região)"
+    },
+    {
+      "name": "Itapetinga",
+      "meaning": "laje de pedra branca, pedra achatada branca"
+    },
+    {
+      "name": "Itapeva",
+      "meaning": "pedra chata (laje)"
+    },
+    {
+      "name": "Itaporanga",
+      "meaning": "pedra bonita"
+    },
+    {
+      "name": "Itaquaquecetuba",
+      "meaning": "ajuntamento de taquara-faca"
+    },
+    {
+      "name": "Itaquera",
+      "meaning": "pedra dormente, asilo de pedra"
+    },
+    {
+      "name": "Itararé",
+      "meaning": "bica que corre por cima ou por baixo de uma rocha"
+    },
+    {
+      "name": "Itatiaia",
+      "meaning": "pedra cheia de pontas"
+    },
+    {
+      "name": "Itatiba",
+      "meaning": "ajuntamento de pedras"
+    },
+    {
+      "name": "Itumbiara",
+      "meaning": "caminho da cachoeira, caminho das aguas"
+    },
+    {
+      "name": "Iturama",
+      "meaning": "região de cachoeiras"
+    },
+    {
+      "name": "Jericoacoara",
+      "meaning": "tocas das tartarugas"
+    },
+    {
+      "name": "Ji-Paraná",
+      "meaning": "rio dos machados"
+    },
+    {
+      "name": "M'Boi Mirim",
+      "meaning": "cobra pequena"
+    },
+    {
+      "name": "Mandaguari",
+      "meaning": "espécie de abelha"
+    },
+    {
+      "name": "Manhuaçu",
+      "meaning": "algodoeiros grandes"
+    },
+    {
+      "name": "Manhumirim",
+      "meaning": "algodoeiros pequenos"
+    },
+    {
+      "name": "Paraibuna",
+      "meaning": "rio ruim e escuro"
+    },
+    {
+      "name": "Paraitinga",
+      "meaning": "rio ruim e claro"
+    },
+    {
+      "name": "Paranaguá",
+      "meaning": "enseada do mar"
+    },
+    {
+      "name": "Paranapanema",
+      "meaning": "rio ruim, imprestável, de navegação difícil"
+    },
+    {
+      "name": "Paraná",
+      "meaning": "rio"
+    },
+    {
+      "name": "Paraíba",
+      "meaning": "rio ruim"
+    },
+    {
+      "name": "Pará",
+      "meaning": "rio grande"
+    },
+    {
+      "name": "Pavuna",
+      "meaning": "lagoa escura"
+    },
+    {
+      "name": "Pejuçara",
+      "meaning": "caminho comprido"
+    },
+    {
+      "name": "Pindamonhangaba",
+      "meaning": "lugar de fazer anzóis"
+    },
+    {
+      "name": "Piracicaba",
+      "meaning": "lugar de chegar dos peixes"
+    },
+    {
+      "name": "Pirassununga",
+      "meaning": "estrondo de peixes"
+    },
+    {
+      "name": "Ponta Porã",
+      "meaning": "ponta bonita"
+    },
+    {
+      "name": "Saquarema",
+      "meaning": "caramujos fedorentos"
+    },
+    {
+      "name": "Sorocaba",
+      "meaning": "rasgadura (da terra)"
+    },
+    {
+      "name": "Suarão (praia em Itanhaém )",
+      "meaning": "estrela Sirius"
+    },
+    {
+      "name": "Tabapuã",
+      "meaning": "aldeia redonda"
+    },
+    {
+      "name": "Taguatinga",
+      "meaning": "barro amarelo claro"
+    },
+    {
+      "name": "Tatuapé",
+      "meaning": "caminho de tatus"
+    },
+    {
+      "name": "Taubaté",
+      "meaning": "pedras altas"
+    },
+    {
+      "name": "Tijuca",
+      "meaning": "brejo, charco, água podre"
+    },
+    {
+      "name": "Ubatuba",
+      "meaning": "ajuntamento de canas-ubás , ou ajuntamento de canoas"
+    },
+    {
+      "name": "Uberaba",
+      "meaning": "água brilhante"
+    },
+    {
+      "name": "Uiraúna",
+      "meaning": "pássaros pretos"
+    },
+    {
+      "name": "Votorantim",
+      "meaning": "morro pontudo"
+    },
+    {
+      "name": "Votuporanga",
+      "meaning": "morro bonito"
+    }
+  ],
+  "meta": {
+    "title": "Topônimos de origem tupi no Brasil - Free Download",
+    "description": "Nomes de lugares brasileiros de origem tupi e seus significados. Contains 77 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Topônimos de origem tupi no Brasil | ListBase",
+    "seo_description": "Download Topônimos de origem tupi no Brasil — 77 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 77 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Topônimos_de_origem_tupi_no_Brasil"
+    ]
+  }
+}
