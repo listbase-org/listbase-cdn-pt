@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-29T02:19:56.591Z",
-  "total_datasets": 508,
-  "total_records": 740948,
+  "generated": "2026-10-29T02:19:59.687Z",
+  "total_datasets": 509,
+  "total_records": 741058,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -147,6 +147,34 @@
         "xlsx": {
           "name": "pt-br-academia-brasileira-letras-cadeiras_PT.xlsx",
           "size": 10509
+        }
+      }
+    },
+    {
+      "id": "pt-br-campeas-carnaval-rio",
+      "name": "Campeãs do Carnaval do Rio de Janeiro",
+      "category": "culture",
+      "record_count": 110,
+      "columns": [
+        "year",
+        "division",
+        "champion",
+        "title_number",
+        "theme",
+        "carnival_designer",
+        "runner_up"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_campeãs_do_carnaval_do_Rio_de_Janeiro",
+      "updated": "2026-10",
+      "size": 35217,
+      "files": {
+        "csv": {
+          "name": "pt-br-campeas-carnaval-rio_PT.csv",
+          "size": 16514
+        },
+        "xlsx": {
+          "name": "pt-br-campeas-carnaval-rio_PT.xlsx",
+          "size": 14310
         }
       }
     },

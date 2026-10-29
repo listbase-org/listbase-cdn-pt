@@ -1,0 +1,1051 @@
+{
+  "id": "pt-br-campeas-carnaval-rio",
+  "name": "Campeãs do Carnaval do Rio de Janeiro",
+  "title": "Campeãs do Carnaval do Rio de Janeiro",
+  "description": "Escolas de samba campeãs do desfile principal do Carnaval do Rio de Janeiro desde 1932 (pré-oficialização, Grupo 1, Grupo Especial etc.), com enredo, carnavalesco e vice-campeã.",
+  "category": "culture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_campeãs_do_carnaval_do_Rio_de_Janeiro",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_campeãs_do_carnaval_do_Rio_de_Janeiro",
+  "updated": "2026-10",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "division",
+      "label": "Division",
+      "type": "string"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "title_number",
+      "label": "Title Number",
+      "type": "number"
+    },
+    {
+      "key": "theme",
+      "label": "Theme",
+      "type": "string"
+    },
+    {
+      "key": "carnival_designer",
+      "label": "Carnival Designer",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1932",
+      "division": "Pré-oficialização",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "1",
+      "theme": "Sorrindo ou Na Floresta",
+      "carnival_designer": "*",
+      "runner_up": "Vai Como Pode (Portela) e Para o Ano Sai Melhor (Segunda Linha do Estácio) †"
+    },
+    {
+      "year": "1933",
+      "division": "Pré-oficialização",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "2",
+      "theme": "Uma Segunda-feira no Bonfim da Bahia",
+      "carnival_designer": "Pedro Palheta e Maçu da Mangueira",
+      "runner_up": "Azul e Branco do Salgueiro †"
+    },
+    {
+      "year": "1934",
+      "division": "Pré-oficialização",
+      "champion": "Estação Primeira de Mangueira (O País)",
+      "title_number": "3",
+      "theme": "Divina Dama ou República da Orgia",
+      "carnival_designer": "Comissão de carnaval",
+      "runner_up": "Vai Como Pode (Portela)"
+    },
+    {
+      "year": "1934",
+      "division": "Pré-oficialização",
+      "champion": "Recreio de Ramos † (A Hora)",
+      "title_number": "1",
+      "theme": "*",
+      "carnival_designer": "*",
+      "runner_up": "Unidos da Tijuca"
+    },
+    {
+      "year": "1935",
+      "division": "Desfile oficial",
+      "champion": "Vai Como Pode (Portela)",
+      "title_number": "1",
+      "theme": "O Samba Dominando o Mundo",
+      "carnival_designer": "Antônio Caetano",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1936",
+      "division": "Desfile oficial",
+      "champion": "Unidos da Tijuca",
+      "title_number": "1",
+      "theme": "Sonhos Delirantes",
+      "carnival_designer": "*",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1937",
+      "division": "Desfile oficial",
+      "champion": "Vizinha Faladeira",
+      "title_number": "1",
+      "theme": "Uma Só Bandeira",
+      "carnival_designer": "*",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1938",
+      "division": "Desfile oficial",
+      "champion": "As escolas desfilaram, mas não foram julgadas",
+      "title_number": "As escolas desfilaram, mas não foram julgadas",
+      "theme": "As escolas desfilaram, mas não foram julgadas",
+      "carnival_designer": "As escolas desfilaram, mas não foram julgadas",
+      "runner_up": "As escolas desfilaram, mas não foram julgadas"
+    },
+    {
+      "year": "1939",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "2",
+      "theme": "Teste ao Samba",
+      "carnival_designer": "Paulo da Portela",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1940",
+      "division": "Desfile oficial",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "4",
+      "theme": "Prantos, Pretos e Poetas",
+      "carnival_designer": "*",
+      "runner_up": "Mocidade Louca de São Cristóvão †"
+    },
+    {
+      "year": "1941",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "3",
+      "theme": "Dez Anos de Glórias",
+      "carnival_designer": "Paulo da Portela e Lino Manoel dos Reis",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1942",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "4",
+      "theme": "A Vida do Samba",
+      "carnival_designer": "Lino Manoel dos Reis",
+      "runner_up": "Depois Eu Digo †"
+    },
+    {
+      "year": "1943",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "5",
+      "theme": "Carnaval de Guerra",
+      "carnival_designer": "Liga da Defesa Nacional",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1944",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "6",
+      "theme": "Brasil Glorioso",
+      "carnival_designer": "Liga da Defesa Nacional",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1945",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "7",
+      "theme": "Motivos Patrióticos",
+      "carnival_designer": "Liga da Defesa Nacional",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1946",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "8",
+      "theme": "Alvorada do Novo Mundo",
+      "carnival_designer": "Lino Manoel dos Reis",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1947",
+      "division": "Desfile oficial",
+      "champion": "Portela",
+      "title_number": "9",
+      "theme": "Honra ao Mérito",
+      "carnival_designer": "Euzébio e Lino Manoel dos Reis",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1948",
+      "division": "Desfile oficial",
+      "champion": "Império Serrano",
+      "title_number": "1",
+      "theme": "Homenagem a Antônio Castro Alves",
+      "carnival_designer": "*",
+      "runner_up": "Unidos da Tijuca"
+    },
+    {
+      "year": "1949",
+      "division": "Desfile oficial",
+      "champion": "Império Serrano (FBES)",
+      "title_number": "2",
+      "theme": "Exaltação a Tiradentes",
+      "carnival_designer": "*",
+      "runner_up": "Azul e Branco do Salgueiro †"
+    },
+    {
+      "year": "1949",
+      "division": "Desfile oficial",
+      "champion": "Estação Primeira de Mangueira ] (UGESB)",
+      "title_number": "5",
+      "theme": "Apologia aos Mestres",
+      "carnival_designer": "*",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1950",
+      "division": "Desfile oficial",
+      "champion": "Império Serrano (FBES)",
+      "title_number": "3",
+      "theme": "Batalha Naval do Riachuelo",
+      "carnival_designer": "*",
+      "runner_up": "Aprendizes de Lucas †"
+    },
+    {
+      "year": "1950",
+      "division": "Desfile oficial",
+      "champion": "Estação Primeira de Mangueira (UCES)",
+      "title_number": "6",
+      "theme": "Plano SALTE — Saúde, Lavoura, Transporte e Educação",
+      "carnival_designer": "*",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1950",
+      "division": "Desfile oficial",
+      "champion": "Prazer da Serrinha † (UGESB)",
+      "title_number": "1",
+      "theme": "*",
+      "carnival_designer": "*",
+      "runner_up": "Paz e Amor †, Três Mosqueteiros †, Depois Eu Digo †, Unidos da Tamarineira † e Unidos de Congonhas †"
+    },
+    {
+      "year": "1950",
+      "division": "Desfile oficial",
+      "champion": "Unidos da Capela † (UGESB)",
+      "title_number": "1",
+      "theme": "*",
+      "carnival_designer": "*",
+      "runner_up": "Paz e Amor †, Três Mosqueteiros †, Depois Eu Digo †, Unidos da Tamarineira † e Unidos de Congonhas †"
+    },
+    {
+      "year": "1951",
+      "division": "Desfile oficial",
+      "champion": "Império Serrano (FBES)",
+      "title_number": "4",
+      "theme": "Sessenta e Um Anos de República",
+      "carnival_designer": "*",
+      "runner_up": "Aprendizes de Lucas †"
+    },
+    {
+      "year": "1951",
+      "division": "Desfile oficial",
+      "champion": "Portela (UGESB)",
+      "title_number": "10",
+      "theme": "A Volta do Filho Pródigo",
+      "carnival_designer": "Lino Manoel dos Reis",
+      "runner_up": "Três Mosqueteiros †"
+    },
+    {
+      "year": "1952",
+      "division": "Supercampeonato",
+      "champion": "A apuração não foi realizada",
+      "title_number": "A apuração não foi realizada",
+      "theme": "A apuração não foi realizada",
+      "carnival_designer": "A apuração não foi realizada",
+      "runner_up": "A apuração não foi realizada"
+    },
+    {
+      "year": "1953",
+      "division": "Supercampeonato",
+      "champion": "Portela",
+      "title_number": "11",
+      "theme": "As Seis Datas Magnas",
+      "carnival_designer": "Lino Manoel dos Reis",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1954",
+      "division": "Supercampeonato",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "7",
+      "theme": "Rio de Janeiro de Ontem e Hoje",
+      "carnival_designer": "*",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1955",
+      "division": "Supercampeonato",
+      "champion": "Império Serrano",
+      "title_number": "5",
+      "theme": "Exaltação a Caxias",
+      "carnival_designer": "*",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1956",
+      "division": "Supercampeonato",
+      "champion": "Império Serrano",
+      "title_number": "6",
+      "theme": "Caçador de Esmeraldas ou Sonhos das Esmeraldas",
+      "carnival_designer": "*",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1957",
+      "division": "Supercampeonato",
+      "champion": "Portela",
+      "title_number": "12",
+      "theme": "Legados de D. João VI",
+      "carnival_designer": "Djalma Vogue, Candeia e Joacir",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1958",
+      "division": "Supercampeonato",
+      "champion": "Portela",
+      "title_number": "13",
+      "theme": "Vultos e Efemérides do Brasil",
+      "carnival_designer": "Djalma Vogue",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1959",
+      "division": "Supercampeonato",
+      "champion": "Portela",
+      "title_number": "14",
+      "theme": "Brasil, Panteon de Glórias",
+      "carnival_designer": "Djalma Vogue",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "1960",
+      "division": "Supercampeonato",
+      "champion": "Portela",
+      "title_number": "15",
+      "theme": "Rio, Capital Eterna do Samba ou Rio, Cidade Eterna",
+      "carnival_designer": "Djalma Vogue",
+      "runner_up": "Aprendizes de Lucas †"
+    },
+    {
+      "year": "1960",
+      "division": "Supercampeonato",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "8",
+      "theme": "Glória ao Samba ou Carnaval de Todos os Tempos",
+      "carnival_designer": "*",
+      "runner_up": "Aprendizes de Lucas †"
+    },
+    {
+      "year": "1960",
+      "division": "Supercampeonato",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "1",
+      "theme": "Quilombo dos Palmares",
+      "carnival_designer": "Fernando Pamplona , Arlindo Rodrigues e Newton de Sá",
+      "runner_up": "Aprendizes de Lucas †"
+    },
+    {
+      "year": "1960",
+      "division": "Supercampeonato",
+      "champion": "Unidos da Capela †",
+      "title_number": "2",
+      "theme": "Produtos e Costumes de Nossa Terra",
+      "carnival_designer": "João Moleque",
+      "runner_up": "Aprendizes de Lucas †"
+    },
+    {
+      "year": "1960",
+      "division": "Supercampeonato",
+      "champion": "Império Serrano",
+      "title_number": "7",
+      "theme": "Medalhas e Brasões",
+      "carnival_designer": "*",
+      "runner_up": "Aprendizes de Lucas †"
+    },
+    {
+      "year": "1961",
+      "division": "Supercampeonato",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "9",
+      "theme": "Reminiscências do Rio Antigo",
+      "carnival_designer": "*",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "1962",
+      "division": "Grupo 1",
+      "champion": "Portela",
+      "title_number": "16",
+      "theme": "Rugendas ou Viagens Pitorescas Através do Brasil",
+      "carnival_designer": "Nelson de Andrade",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1963",
+      "division": "Grupo 1",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "2",
+      "theme": "Chica da Silva",
+      "carnival_designer": "Arlindo Rodrigues",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1964",
+      "division": "Grupo 1",
+      "champion": "Portela",
+      "title_number": "17",
+      "theme": "O Segundo Casamento de D. Pedro I",
+      "carnival_designer": "Nelson de Andrade",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "1965",
+      "division": "Grupo 1",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "3",
+      "theme": "História do Carnaval Carioca - Eneida",
+      "carnival_designer": "Fernando Pamplona e Arlindo Rodrigues",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1966",
+      "division": "Grupo 1",
+      "champion": "Portela",
+      "title_number": "18",
+      "theme": "Memórias de Um Sargento de Milícias",
+      "carnival_designer": "Nelson de Andrade",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1967",
+      "division": "Grupo 1",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "10",
+      "theme": "O Mundo Encantado de Monteiro Lobato",
+      "carnival_designer": "Júlio Mattos",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1968",
+      "division": "Grupo 1",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "11",
+      "theme": "Samba, Festa de Um Povo",
+      "carnival_designer": "Júlio Mattos",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1969",
+      "division": "Grupo 1",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "4",
+      "theme": "Bahia de Todos os Deuses",
+      "carnival_designer": "Fernando Pamplona e Arlindo Rodrigues",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1970",
+      "division": "Grupo 1",
+      "champion": "Portela",
+      "title_number": "19",
+      "theme": "Lendas e Mistérios da Amazônia",
+      "carnival_designer": "Clóvis Bornay e Arnaldo Pederneiras",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "1971",
+      "division": "Grupo 1",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "5",
+      "theme": "Festa Para Um Rei Negro",
+      "carnival_designer": "Fernando Pamplona , Arlindo Rodrigues , Maria Augusta e Joãsinho Trinta",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1972",
+      "division": "Grupo 1",
+      "champion": "Império Serrano",
+      "title_number": "8",
+      "theme": "Alô, Alô, Taí Carmem Miranda",
+      "carnival_designer": "Fernando Pinto",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1973",
+      "division": "Grupo 1",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "12",
+      "theme": "Lendas do Abaeté",
+      "carnival_designer": "Júlio Mattos",
+      "runner_up": "Império Serrano"
+    },
+    {
+      "year": "1974",
+      "division": "Grupo 1",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "6",
+      "theme": "O Rei de França na Ilha da Assombração",
+      "carnival_designer": "Joãosinho Trinta e Maria Augusta",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1975",
+      "division": "Grupo 1",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "7",
+      "theme": "O Segredo das Minas do Rei Salomão",
+      "carnival_designer": "Joãosinho Trinta",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1976",
+      "division": "Grupo 1",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "1",
+      "theme": "Sonhar com Rei dá Leão",
+      "carnival_designer": "Joãosinho Trinta",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1977",
+      "division": "Grupo 1",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "2",
+      "theme": "Vovó e o Rei da Saturnália na Corte Egípciana",
+      "carnival_designer": "Joãosinho Trinta",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1978",
+      "division": "Grupo 1",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "3",
+      "theme": "A Criação do Mundo na Tradição Nagô",
+      "carnival_designer": "Joãosinho Trinta",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1979",
+      "division": "Grupo 1-A",
+      "champion": "Mocidade Independente de Padre Miguel",
+      "title_number": "1",
+      "theme": "O Descobrimento do Brasil",
+      "carnival_designer": "Arlindo Rodrigues",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "1980",
+      "division": "Grupo 1-A",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "4",
+      "theme": "O Sol da Meia-noite, Uma Viagem ao País das Maravilhas",
+      "carnival_designer": "Joãosinho Trinta",
+      "runner_up": "Mocidade Independente de Padre Miguel ; União da Ilha do Governador ; Unidos de Vila Isabel"
+    },
+    {
+      "year": "1980",
+      "division": "Grupo 1-A",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "1",
+      "theme": "O Quê Que a Bahia Tem?",
+      "carnival_designer": "Arlindo Rodrigues",
+      "runner_up": "Mocidade Independente de Padre Miguel ; União da Ilha do Governador ; Unidos de Vila Isabel"
+    },
+    {
+      "year": "1980",
+      "division": "Grupo 1-A",
+      "champion": "Portela",
+      "title_number": "20",
+      "theme": "Hoje tem Marmelada!",
+      "carnival_designer": "Viriato Ferreira",
+      "runner_up": "Mocidade Independente de Padre Miguel ; União da Ilha do Governador ; Unidos de Vila Isabel"
+    },
+    {
+      "year": "1981",
+      "division": "Grupo 1-A",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "2",
+      "theme": "O Teu Cabelo Não Nega",
+      "carnival_designer": "Arlindo Rodrigues",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "1982",
+      "division": "Grupo 1-A",
+      "champion": "Império Serrano",
+      "title_number": "9",
+      "theme": "Bum Bum Paticumbum Prugurundum",
+      "carnival_designer": "Rosa Magalhães e Lícia Lacerda",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1983",
+      "division": "Grupo 1-A",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "5",
+      "theme": "A Grande Constelação das Estrelas Negras",
+      "carnival_designer": "Joãosinho Trinta",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1984",
+      "division": "Grupo 1-A",
+      "champion": "Portela (Desfile de domingo)",
+      "title_number": "21",
+      "theme": "Contos de Areia",
+      "carnival_designer": "Edmundo Braga e Paulino Espírito Santo",
+      "runner_up": "Império Serrano (Desfile de domingo)"
+    },
+    {
+      "year": "1984",
+      "division": "Grupo 1-A",
+      "champion": "Estação Primeira de Mangueira (Desfile de segunda-feira)",
+      "title_number": "13",
+      "theme": "Yes, Nós Temos Braguinha",
+      "carnival_designer": "Max Lopes",
+      "runner_up": "Mocidade Independente de Padre Miguel (Desfile de segunda-feira)"
+    },
+    {
+      "year": "1984",
+      "division": "Grupo 1-A",
+      "champion": "Estação Primeira de Mangueira (Supercampeonato)",
+      "title_number": "14",
+      "theme": "Yes, Nós Temos Braguinha",
+      "carnival_designer": "Max Lopes",
+      "runner_up": "Portela (Supercampeonato)"
+    },
+    {
+      "year": "1985",
+      "division": "Grupo 1-A",
+      "champion": "Mocidade Independente de Padre Miguel",
+      "title_number": "2",
+      "theme": "Ziriguidum 2001 - Carnaval nas Estrelas",
+      "carnival_designer": "Fernando Pinto",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "1986",
+      "division": "Grupo 1-A",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "15",
+      "theme": "Caymmi Mostra ao Mundo o que a Bahia e a Mangueira Têm",
+      "carnival_designer": "Júlio Mattos",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "1987",
+      "division": "Grupo 1",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "16",
+      "theme": "No Reino das Palavras, Carlos Drummond de Andrade",
+      "carnival_designer": "Júlio Mattos",
+      "runner_up": "Mocidade Independente de Padre Miguel"
+    },
+    {
+      "year": "1988",
+      "division": "Grupo 1",
+      "champion": "Unidos de Vila Isabel",
+      "title_number": "1",
+      "theme": "Kizomba, Festa da Raça",
+      "carnival_designer": "Paulo César Cardoso, Milton Siqueira e Ilvamar Magalhães",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "1989",
+      "division": "Grupo 1",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "3",
+      "theme": "Liberdade, Liberdade, Abre as Asas Sobre Nós!",
+      "carnival_designer": "Max Lopes",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "1990",
+      "division": "Grupo Especial",
+      "champion": "Mocidade Independente de Padre Miguel",
+      "title_number": "3",
+      "theme": "Vira, Virou, a Mocidade Chegou",
+      "carnival_designer": "Renato Lage e Lilian Rabello",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "1991",
+      "division": "Grupo Especial",
+      "champion": "Mocidade Independente de Padre Miguel",
+      "title_number": "4",
+      "theme": "Chuê, Chuá, as Águas Vão Rolar",
+      "carnival_designer": "Renato Lage e Lilian Rabello",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "1992",
+      "division": "Grupo Especial",
+      "champion": "Estácio de Sá",
+      "title_number": "1",
+      "theme": "Paulicéia Desvairada - 70 Anos de Modernismo",
+      "carnival_designer": "Mário Monteiro e Chico Spinoza",
+      "runner_up": "Mocidade Independente de Padre Miguel"
+    },
+    {
+      "year": "1993",
+      "division": "Grupo Especial",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "8",
+      "theme": "Peguei Um Ita no Norte",
+      "carnival_designer": "Mario Borriello",
+      "runner_up": "Imperatriz Leopoldinense"
+    },
+    {
+      "year": "1994",
+      "division": "Grupo Especial",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "4",
+      "theme": "Catarina de Médicis na Corte dos Tupinambôs e dos Tabajéres",
+      "carnival_designer": "Rosa Magalhães",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "1995",
+      "division": "Grupo Especial",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "5",
+      "theme": "Mais Vale Um Jegue que me Carregue, que Um Camelo que Me Derrube, Lá no Ceará",
+      "carnival_designer": "Rosa Magalhães",
+      "runner_up": "Portela"
+    },
+    {
+      "year": "1996",
+      "division": "Grupo Especial",
+      "champion": "Mocidade Independente de Padre Miguel",
+      "title_number": "5",
+      "theme": "Criador e Criatura",
+      "carnival_designer": "Renato Lage",
+      "runner_up": "Imperatriz Leopoldinense"
+    },
+    {
+      "year": "1997",
+      "division": "Grupo Especial",
+      "champion": "Unidos do Viradouro",
+      "title_number": "1",
+      "theme": "Trevas! Luz! A Explosão do Universo",
+      "carnival_designer": "Joãosinho Trinta",
+      "runner_up": "Mocidade Independente de Padre Miguel"
+    },
+    {
+      "year": "1998",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "6",
+      "theme": "Pará, O Mundo Místico dos Caruanas, nas Águas do Patu-anu",
+      "carnival_designer": "Cid Carvalho , Amarildo de Mello , Anderson Müller , Fran Sérgio , Ubiratan Silva, Nelson Ricardo, Paulo Führo e Victor Santos",
+      "runner_up": "—"
+    },
+    {
+      "year": "1998",
+      "division": "Grupo Especial",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "17",
+      "theme": "Chico Buarque da Mangueira",
+      "carnival_designer": "Alexandre Louzada",
+      "runner_up": "—"
+    },
+    {
+      "year": "1999",
+      "division": "Grupo Especial",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "6",
+      "theme": "Brasil, Mostra a Sua Cara em... Theatrum Rerum Naturalium Brasiliae",
+      "carnival_designer": "Rosa Magalhães",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "2000",
+      "division": "Grupo Especial",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "7",
+      "theme": "Quem Descobriu o Brasil Foi Seu Cabral, no Dia 22 de Abril, Dois Meses Depois do Carnaval",
+      "carnival_designer": "Rosa Magalhães",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "2001",
+      "division": "Grupo Especial",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "8",
+      "theme": "Cana-caiana, Cana Roxa, Cana Fita, Cana Preta, Amarela, Pernambuco... Quero Vê Descê o Suco na Pancada do Ganzá",
+      "carnival_designer": "Rosa Magalhães",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "2002",
+      "division": "Grupo Especial",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "18",
+      "theme": "Brazil com Z é pra Cabra da Peste, Brasil com S é Nação do Nordeste",
+      "carnival_designer": "Max Lopes",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "2003",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "7",
+      "theme": "O Povo Conta a Sua História: \"Saco Vazio Não Para em Pé - A Mão que Faz a Guerra, Faz a Paz\"",
+      "carnival_designer": "Laíla , Cid Carvalho , Fran Sérgio , Ubiratan Silva e Shangai",
+      "runner_up": "Estação Primeira de Mangueira"
+    },
+    {
+      "year": "2004",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "8",
+      "theme": "Manôa, Manaus, Amazônia, Terra Santa: Alimenta o Corpo, Equilibra a Alma e Transmite a Paz",
+      "carnival_designer": "Laíla , Cid Carvalho , Fran Sérgio , Ubiratan Silva e Shangai",
+      "runner_up": "Unidos da Tijuca"
+    },
+    {
+      "year": "2005",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "9",
+      "theme": "O Vento Corta as Terras dos Pampas. Em Nome do Pai, do Filho e do Espírito Guarani. Sete Povos na Fé e na Dor... Sete Missões de Amor",
+      "carnival_designer": "Laíla , Cid Carvalho , Fran Sérgio , Ubiratan Silva e Shangai",
+      "runner_up": "Unidos da Tijuca"
+    },
+    {
+      "year": "2006",
+      "division": "Grupo Especial",
+      "champion": "Unidos de Vila Isabel",
+      "title_number": "2",
+      "theme": "Soy Loco por Ti, América - A Vila Canta a Latinidade",
+      "carnival_designer": "Alexandre Louzada",
+      "runner_up": "Acadêmicos do Grande Rio"
+    },
+    {
+      "year": "2007",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "10",
+      "theme": "Áfricas - Do Berço Real à Corte Brasiliana",
+      "carnival_designer": "Laíla , Alexandre Louzada , Fran Sérgio , Ubiratan Silva e Shangai",
+      "runner_up": "Acadêmicos do Grande Rio"
+    },
+    {
+      "year": "2008",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "11",
+      "theme": "Macapaba: Equinócio Solar, Viagens Fantásticas ao Meio do Mundo",
+      "carnival_designer": "Laíla , Alexandre Louzada , Fran Sérgio , Ubiratan Silva e Shangai",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "2009",
+      "division": "Grupo Especial",
+      "champion": "Acadêmicos do Salgueiro",
+      "title_number": "9",
+      "theme": "Tambor",
+      "carnival_designer": "Renato Lage",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "2010",
+      "division": "Grupo Especial",
+      "champion": "Unidos da Tijuca",
+      "title_number": "2",
+      "theme": "É Segredo!",
+      "carnival_designer": "Paulo Barros",
+      "runner_up": "Acadêmicos do Grande Rio"
+    },
+    {
+      "year": "2011",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "12",
+      "theme": "A Simplicidade de um Rei",
+      "carnival_designer": "Laíla , Alexandre Louzada , Fran Sérgio e Ubiratan Silva e Victor Santos",
+      "runner_up": "Unidos da Tijuca"
+    },
+    {
+      "year": "2012",
+      "division": "Grupo Especial",
+      "champion": "Unidos da Tijuca",
+      "title_number": "3",
+      "theme": "O Dia em que Toda a Realeza Desembarcou na Avenida para Coroar o Rei Luiz do Sertão",
+      "carnival_designer": "Paulo Barros",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "2013",
+      "division": "Grupo Especial",
+      "champion": "Unidos de Vila Isabel",
+      "title_number": "3",
+      "theme": "A Vila Canta o Brasil, Celeiro do Mundo - \"Água no Feijão que Chegou Mais Um\"",
+      "carnival_designer": "Rosa Magalhães",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "2014",
+      "division": "Grupo Especial",
+      "champion": "Unidos da Tijuca",
+      "title_number": "4",
+      "theme": "Acelera, Tijuca!",
+      "carnival_designer": "Paulo Barros",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "2015",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "13",
+      "theme": "Um Griô Conta a História: Um Olhar sobre a África e o Despontar da Guiné Equatorial. Caminhemos sobre a Trilha de Nossa Felicidade",
+      "carnival_designer": "Laíla , Fran Sérgio , Ubiratan Silva, Victor Santos, André Cezari, Bianca Behrends e Cláudio Russo",
+      "runner_up": "Acadêmicos do Salgueiro"
+    },
+    {
+      "year": "2016",
+      "division": "Grupo Especial",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "19",
+      "theme": "Maria Bethânia: A Menina dos Olhos de Oyá",
+      "carnival_designer": "Leandro Vieira",
+      "runner_up": "Unidos da Tijuca"
+    },
+    {
+      "year": "2017",
+      "division": "Grupo Especial",
+      "champion": "Portela",
+      "title_number": "22",
+      "theme": "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?",
+      "carnival_designer": "Paulo Barros",
+      "runner_up": "—"
+    },
+    {
+      "year": "2017",
+      "division": "Grupo Especial",
+      "champion": "Mocidade Independente de Padre Miguel",
+      "title_number": "6",
+      "theme": "As Mil e Uma Noites de Uma 'Mocidade' pra Lá de Marrakesh",
+      "carnival_designer": "Alexandre Louzada",
+      "runner_up": "—"
+    },
+    {
+      "year": "2018",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "14",
+      "theme": "Monstro É Aquele que Não Sabe Amar. Os Filhos Abandonados da Pátria que os Pariu",
+      "carnival_designer": "Laíla , Cid Carvalho , Victor Santos, Bianca Behrends, Rodrigo Pacheco e Léo Mídia",
+      "runner_up": "Paraíso do Tuiuti"
+    },
+    {
+      "year": "2019",
+      "division": "Grupo Especial",
+      "champion": "Estação Primeira de Mangueira",
+      "title_number": "20",
+      "theme": "História pra Ninar Gente Grande",
+      "carnival_designer": "Leandro Vieira",
+      "runner_up": "Unidos do Viradouro"
+    },
+    {
+      "year": "2020",
+      "division": "Grupo Especial",
+      "champion": "Unidos do Viradouro",
+      "title_number": "2",
+      "theme": "Viradouro de Alma Lavada",
+      "carnival_designer": "Marcus Ferreira e Tarcisio Zanon",
+      "runner_up": "Acadêmicos do Grande Rio"
+    },
+    {
+      "year": "2022",
+      "division": "Grupo Especial",
+      "champion": "Acadêmicos do Grande Rio",
+      "title_number": "1",
+      "theme": "Fala, Majeté! Sete Chaves de Exu",
+      "carnival_designer": "Gabriel Haddad e Leonardo Bora",
+      "runner_up": "Beija-Flor de Nilópolis"
+    },
+    {
+      "year": "2023",
+      "division": "Grupo Especial",
+      "champion": "Imperatriz Leopoldinense",
+      "title_number": "9",
+      "theme": "O Aperreio do Cabra Que o Excomungado Tratou com Má-querença e o Santíssimo Não Deu Guarida",
+      "carnival_designer": "Leandro Vieira",
+      "runner_up": "Unidos do Viradouro"
+    },
+    {
+      "year": "2024",
+      "division": "Grupo Especial",
+      "champion": "Unidos do Viradouro",
+      "title_number": "3",
+      "theme": "Arroboboi, Dangbé",
+      "carnival_designer": "Tarcisio Zanon",
+      "runner_up": "Imperatriz Leopoldinense"
+    },
+    {
+      "year": "2025",
+      "division": "Grupo Especial",
+      "champion": "Beija-Flor de Nilópolis",
+      "title_number": "15",
+      "theme": "Laíla de Todos os Santos, Laíla de Todos os Sambas",
+      "carnival_designer": "João Vitor Araújo",
+      "runner_up": "Acadêmicos do Grande Rio"
+    },
+    {
+      "year": "2026",
+      "division": "Grupo Especial",
+      "champion": "Unidos do Viradouro",
+      "title_number": "4",
+      "theme": "Para cima, Ciça!",
+      "carnival_designer": "Tarcisio Zanon",
+      "runner_up": "Beija Flor de Nilópolis"
+    }
+  ],
+  "meta": {
+    "title": "Campeãs do Carnaval do Rio de Janeiro - Free Download",
+    "description": "Escolas de samba campeãs do desfile principal do Carnaval do Rio de Janeiro desde 1932 (pré-oficialização, Grupo 1, Grupo Especial etc.), com enredo, carnavalesco e vice-campeã. Contains 110 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Campeãs do Carnaval do Rio de Janeiro | ListBase",
+    "seo_description": "Download Campeãs do Carnaval do Rio de Janeiro — 110 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 110 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_campeãs_do_carnaval_do_Rio_de_Janeiro"
+    ]
+  }
+}
