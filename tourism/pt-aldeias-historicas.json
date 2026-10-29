@@ -1,0 +1,101 @@
+{
+  "id": "pt-aldeias-historicas",
+  "name": "Aldeias Históricas de Portugal",
+  "title": "Aldeias Históricas de Portugal",
+  "description": "As aldeias que integram a rede das Aldeias Históricas de Portugal, com o ano de classificação.",
+  "category": "tourism",
+  "source": "https://pt.wikipedia.org/wiki/Aldeias_Históricas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Aldeias_Históricas_de_Portugal",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "membership",
+      "label": "Membership",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Almeida",
+      "type": "vila sede de município",
+      "membership": "original"
+    },
+    {
+      "name": "Castelo Mendo",
+      "type": "",
+      "membership": "original"
+    },
+    {
+      "name": "Castelo Novo",
+      "type": "vila",
+      "membership": "original"
+    },
+    {
+      "name": "Castelo Rodrigo",
+      "type": "vila",
+      "membership": "original"
+    },
+    {
+      "name": "Idanha-a-Velha",
+      "type": "",
+      "membership": "original"
+    },
+    {
+      "name": "Linhares da Beira",
+      "type": "",
+      "membership": "original"
+    },
+    {
+      "name": "Marialva",
+      "type": "",
+      "membership": "original"
+    },
+    {
+      "name": "Monsanto",
+      "type": "vila",
+      "membership": "original"
+    },
+    {
+      "name": "Piódão",
+      "type": "",
+      "membership": "original"
+    },
+    {
+      "name": "Sortelha",
+      "type": "",
+      "membership": "original"
+    },
+    {
+      "name": "Belmonte",
+      "type": "vila e sede de município",
+      "membership": "adicionada em 2003"
+    },
+    {
+      "name": "Trancoso",
+      "type": "cidade",
+      "membership": "adicionada em 2003"
+    }
+  ],
+  "meta": {
+    "title": "Aldeias Históricas de Portugal - Free Download",
+    "description": "As aldeias que integram a rede das Aldeias Históricas de Portugal, com o ano de classificação. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aldeias Históricas de Portugal | ListBase",
+    "seo_description": "Download Aldeias Históricas de Portugal — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Aldeias_Históricas_de_Portugal"
+    ]
+  }
+}

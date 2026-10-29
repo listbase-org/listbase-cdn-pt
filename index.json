@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-28T02:24:24.871Z",
-  "total_datasets": 507,
-  "total_records": 740936,
+  "generated": "2026-10-29T02:19:56.591Z",
+  "total_datasets": 508,
+  "total_records": 740948,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -17781,6 +17781,30 @@
         "xlsx": {
           "name": "pt-viseu-feriados_PT.xlsx",
           "size": 69861
+        }
+      }
+    },
+    {
+      "id": "pt-aldeias-historicas",
+      "name": "Aldeias Históricas de Portugal",
+      "category": "tourism",
+      "record_count": 12,
+      "columns": [
+        "name",
+        "type",
+        "membership"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Aldeias_Históricas_de_Portugal",
+      "updated": "2026-10",
+      "size": 2601,
+      "files": {
+        "csv": {
+          "name": "pt-aldeias-historicas_PT.csv",
+          "size": 445
+        },
+        "xlsx": {
+          "name": "pt-aldeias-historicas_PT.xlsx",
+          "size": 7031
         }
       }
     },
