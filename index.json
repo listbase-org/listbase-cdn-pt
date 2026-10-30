@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-30T02:33:49.023Z",
-  "total_datasets": 513,
-  "total_records": 741271,
+  "generated": "2026-10-30T02:33:55.563Z",
+  "total_datasets": 514,
+  "total_records": 741449,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -3384,6 +3384,32 @@
         "xlsx": {
           "name": "pt-reis-de-portugal_PT.xlsx",
           "size": 12138
+        }
+      }
+    },
+    {
+      "id": "pt-br-linguas-ameacadas",
+      "name": "Línguas ameaçadas no Brasil",
+      "category": "language",
+      "record_count": 178,
+      "columns": [
+        "lingua",
+        "paises",
+        "falantes",
+        "status",
+        "comentarios"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_línguas_ameaçadas_no_Brasil",
+      "updated": "2026-10",
+      "size": 29888,
+      "files": {
+        "csv": {
+          "name": "pt-br-linguas-ameacadas_PT.csv",
+          "size": 9713
+        },
+        "xlsx": {
+          "name": "pt-br-linguas-ameacadas_PT.xlsx",
+          "size": 11754
         }
       }
     },

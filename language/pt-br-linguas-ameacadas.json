@@ -1,0 +1,1297 @@
+{
+  "id": "pt-br-linguas-ameacadas",
+  "name": "Línguas ameaçadas no Brasil",
+  "title": "Línguas ameaçadas no Brasil",
+  "description": "Línguas indígenas e minoritárias ameaçadas de extinção no Brasil com número de falantes e grau de ameaça (classificação da UNESCO).",
+  "category": "language",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_línguas_ameaçadas_no_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_línguas_ameaçadas_no_Brasil",
+  "updated": "2026-10",
+  "record_count": 178,
+  "columns": [
+    {
+      "key": "lingua",
+      "label": "Lingua",
+      "type": "string"
+    },
+    {
+      "key": "paises",
+      "label": "Paises",
+      "type": "string"
+    },
+    {
+      "key": "falantes",
+      "label": "Falantes",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "comentarios",
+      "label": "Comentarios",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lingua": "Língua Aikana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ajuru",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Akawaio",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Akuntsu",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Akwáwa",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Anambé",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Apalai",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Apiaká",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Apinajé",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Apurinã",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Arara do Pará",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Arára Shawãdáwa",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Araweté",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Arikapu",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Aruá ( Língua Aruáshi )",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ashaninka",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Asurini do Xingu",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Aurê-Aurá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ava-Canoeiro",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Aweti",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Bakairi",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Banawá Yafi",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Baníwa do Içana",
+      "paises": "Brasil, Colômbia e Venezuela",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Bara",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Barasana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Baré",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Bororo",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Carapana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Cashinahua",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Chamacoco",
+      "paises": "Brasil, Paraguai",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Chiquitano",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Cinta Larga",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Cocama-Cocamilla",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Cubeo",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Culina",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Dâw",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Dení",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Desano",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Diahói",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Djeoromitxi",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Enawenê-Nawê",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Galibi Marworno",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Gavião de Rondônia",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Gavião do Pará",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Guajá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Guajajara",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Guarasu",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Guató",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Hixkaryána",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Hupda",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ikpeng",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Iranxe",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Jamamadí",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Jarawára",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Javaé",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Juma",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ka'apór",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kadiwéu",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kaingang",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kaiowá Guarani",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kaixána",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kalapalo",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kamaiurá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kanela Apaniekra",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kanela Rankokamekra",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kanoê",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Karajá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kari'ña",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Karipuna",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Karipuna do Amapá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Karitiana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Karo",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Katawixi",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Katukina do Acre",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Katukína-Kanamarí",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Katxuyana-Xikuyána",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kaxarari",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kayabi",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kinikinau",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kisêdjê",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Korúbo",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Krahô",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Krenak",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Krikati",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kuikuro",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kujubim",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kulina Páno",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kurripako",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kuruáya",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Kwazá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Machineri",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Macuna",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Macushi",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Makurap",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Marúbo",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Matipu",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Matís",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mawayana",
+      "paises": "Brasil, Suriname",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mawé",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Maxakali",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mayoruna",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mbya Guarani",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mebengokre",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mehináku",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Miraña",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mirití Tapuia",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Mundurukú",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Myky",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Nadëb",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Nahukwa",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Nambiquara do Norte",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Nambiquara do Sul",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ñandeva Guarani",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua nheengatu / Língua Yeral",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ninam",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ofayé",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Omagua",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Oro Win",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Paiter",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Palikur",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Panará",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Pareci",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Parintintin",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Patamona",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Paumarí",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Pemon",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Pirahã",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Piratapuya",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Poyanawa",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Pukobyê",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Puruborá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Rikbaktsa",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Sabanê",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Sakurabiat",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Salamãy",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Sanema",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Shanenawa",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Siriano",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Suruahá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tapayuna",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tapirapé",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tariana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tembé",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tenharim",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Terena",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Ticuna",
+      "paises": "Brasil, Colômbia e Peru",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Trio",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Trumai",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tucano",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tupari",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Tuyuca",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Uru-eu-au-au",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Waimiri-Atroarí",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Waiwai",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Wajãpi",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Wanano / Língua Kotiria",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Wapishana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Warekena",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Wari",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Definitivamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua uaurá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Wayana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Xambioá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Xavante",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Xerente",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Xetá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Xipáya",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Xokleng",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yaminahua",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yanomám",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yanomami",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yatê",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Severamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yawalapiti",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Criticamente ameaçada",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yawanawá",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yecuana",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yudja",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Yuhup",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Zo'é",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    },
+    {
+      "lingua": "Língua Zoró",
+      "paises": "Brasil",
+      "falantes": "",
+      "status": "Vulnerável",
+      "comentarios": ""
+    }
+  ],
+  "meta": {
+    "title": "Línguas ameaçadas no Brasil - Free Download",
+    "description": "Línguas indígenas e minoritárias ameaçadas de extinção no Brasil com número de falantes e grau de ameaça (classificação da UNESCO). Contains 178 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Línguas ameaçadas no Brasil | ListBase",
+    "seo_description": "Download Línguas ameaçadas no Brasil — 178 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 178 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_línguas_ameaçadas_no_Brasil"
+    ]
+  }
+}
