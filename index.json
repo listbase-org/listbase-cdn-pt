@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-30T02:33:39.869Z",
-  "total_datasets": 512,
-  "total_records": 741213,
+  "generated": "2026-10-30T02:33:49.023Z",
+  "total_datasets": 513,
+  "total_records": 741271,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -14537,6 +14537,31 @@
         "xlsx": {
           "name": "pt-viseu-aeroportos_PT.xlsx",
           "size": 8139
+        }
+      }
+    },
+    {
+      "id": "pt-br-dinossauros",
+      "name": "Dinossauros do Brasil",
+      "category": "science",
+      "record_count": 58,
+      "columns": [
+        "nome",
+        "idade",
+        "dieta",
+        "notas"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_dinossauros_do_Brasil",
+      "updated": "2026-10",
+      "size": 20013,
+      "files": {
+        "csv": {
+          "name": "pt-br-dinossauros_PT.csv",
+          "size": 14232
+        },
+        "xlsx": {
+          "name": "pt-br-dinossauros_PT.xlsx",
+          "size": 12733
         }
       }
     },

@@ -1,0 +1,394 @@
+{
+  "id": "pt-br-dinossauros",
+  "name": "Dinossauros do Brasil",
+  "title": "Dinossauros do Brasil",
+  "description": "Gêneros e espécies de dinossauros descobertos no Brasil com idade geológica, dieta e notas descritivas.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_dinossauros_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_dinossauros_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "idade",
+      "label": "Idade",
+      "type": "string"
+    },
+    {
+      "key": "dieta",
+      "label": "Dieta",
+      "type": "string"
+    },
+    {
+      "key": "notas",
+      "label": "Notas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Adamantisaurus mezzalirai",
+      "idade": "93 - 70 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Lagarto de Adamantina , é mais um gênero de dinossauro Titanosaurídeo Brasileiro, medindo 15 metros de comprimento e 04 de altura."
+    },
+    {
+      "nome": "Amanasaurus nesbitti",
+      "idade": "233 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "Amanasaurus foi um silessaurídeo descrito em 2024. Foi descoberto na Formação Santa Maria ."
+    },
+    {
+      "nome": "Amazonsaurus maranhensis",
+      "idade": "125 - 113 Ma. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Amazonssauro é um gênero de dinossauro Rebbachisaurídeo do Cretáceo Inferior no Maranhão , sendo o primeiro dinossauro a ser encontrado na Amazônia Legal ."
+    },
+    {
+      "nome": "Angaturama limai",
+      "idade": "110 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O Angaturama foi um espinossauro que viveu no Ceará durante o Cretáceo. Se alimentava de peixes e pterossauros. Alguns trabalhos o consideram \" junior synonym \" de Irritator ."
+    },
+    {
+      "nome": "\"Antarctosaurus brasiliensis\"?",
+      "idade": "89 - 86 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Um saurópode relacionado ao Antarctossauro . Atualmente considerado \" nomen dubium \"."
+    },
+    {
+      "nome": "Aratasaurus museunacionali",
+      "idade": "115 - 110 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O Aratassauro é um dinossauro terópode brasileiro ainda enigmático da família dos Celurossauro . Seu fóssil estava no Museu Nacional durante o incêndio de 2018, sobrevivendo às chamas."
+    },
+    {
+      "nome": "Arrudatitan maximus",
+      "idade": "86 - 66 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Arrudatitan foi um dinossauro saurópode que habitou o território brasileiro durante o final do Cretáceo. Inicialmente, ele foi incluído como uma nova espécie de Aeolossauro , junto a outros dois dinossauros encontrados na Argentina, porém em 2021 ele foi estabelecido como uma espécie única brasileira."
+    },
+    {
+      "nome": "Austroposeidon magnificus",
+      "idade": "85 - 66 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Um dos maiores dinossauros brasileiros, o Austroposeidon era um Titanossaurídeo de porte grande. Com 25 metros de comprimento, pesava até 30 toneladas."
+    },
+    {
+      "nome": "Bagualosaurus agudoensis",
+      "idade": "231 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "Bagualossauro é um dinossauro sauropodomorfo encontrado na Formação Santa Maria (Sequência Candelária), no sul do Brasil, que pertence ao estágio Carniano do Período Triássico ."
+    },
+    {
+      "nome": "Baurutitan britoi",
+      "idade": "72 - 66 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Baurutitan era um saurópode, dinossauro herbívoro que deve ter medido 14 metros de comprimento e tido uma altura de 3,5 metros."
+    },
+    {
+      "nome": "Berthasaura leopoldinae",
+      "idade": "100 MA. Cretáceo",
+      "dieta": "Onívoro",
+      "notas": "A Berthasaura é um gênero de dinossauro terópode da família Noasauridae , do Cretáceo Inferior . Seu batismo homenageia a Imperatriz Leopoldina e Bertha Lutz ."
+    },
+    {
+      "nome": "Brasilotitan nemophagus",
+      "idade": "89 - 86 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Dinossauro saurópode descoberto em Presidente Prudente . Podia chegar até 08 metros de comprimento e tinha uma mandíbula quadrada."
+    },
+    {
+      "nome": "Buriolestes schultzi",
+      "idade": "233 MA. Triássico",
+      "dieta": "Carnívoro",
+      "notas": "Buriolestes é considerado atualmente o sauropodomorfo mais basal e juntamente com outras espécies da Formação Santa Maria, é um dos dinossauros mais antigos do mundo."
+    },
+    {
+      "nome": "Caieiria allocaudata",
+      "idade": "72 - 66 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Caieiria foi um dinossauro descrito em 2022, quando estudos no Trigonossauro revelaram que ele era, na verdade, formado por partes do Baurutitan e outro titanossauro desconhecido. Este desconhecido era diferente o suficiente pra ser revisto e batizado como Caieiria."
+    },
+    {
+      "nome": "Cratoavis cearensis",
+      "idade": "125 MA. Cretáceo",
+      "dieta": "Insetívoro",
+      "notas": "É a ave mais antiga do Brasil, da família dos Enantiornithes . Seus restos fósseis foram encontrados na Chapada do Araripe , em Nova Olinda , no estado do Ceará."
+    },
+    {
+      "nome": "Dasosaurus tocantinensis",
+      "idade": "125 - 113 Ma. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Saurópode do Maranhão descrito em 2026, da família Somphospondyli , com parentes também encontrados na Espanha . Seu nome também homeageia o Tocantins ."
+    },
+    {
+      "nome": "Erythrovenator jacuiensis",
+      "idade": "233 MA. Triássico",
+      "dieta": "Carnívoro",
+      "notas": "Erythrovenator é um gênero de dinossauros terópodes basais do Triássico Superior do Rio Grande do Sul , Brasil."
+    },
+    {
+      "nome": "Farlowichnus rapidus",
+      "idade": "135 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Farlowichnus é um icnogênero, ou seja, identificado através de pegadas de pequenos dinossauros terópodes. As pegadas foram descobertas na Formação Botucatu , quando existia uma imenso deserto no Brasil."
+    },
+    {
+      "nome": "Gamatavus antiquus",
+      "idade": "239,4 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "Gamatavus foi um dinossauro silessaurídeo descoberto no Rio Grande do Sul , na cidade de Dilermando de Aguiar ."
+    },
+    {
+      "nome": "Gênero similar a Abelisaurus (Abelissauro)",
+      "idade": "94 - 84 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Os Abelisaurus são um dos membros Abelisauridae mais famosos. Inclusive, na Formação Marilia em São Paulo existem registros de que esse Abelisaurídeo caminhou por essa região, mas pelos registros serem fragmentários, não existe uma confirmação definitiva."
+    },
+    {
+      "nome": "Gênero similar a Carcharodontosaurus (Carcarondontossauro)",
+      "idade": "110 - 95 MA.Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Existem registros fragmentários de Carcharodontosauria na Formação Alcântara, Maranhão, Formação Açu e em São Paulo, mas pelos registros serem fragmentados, não existe confirmação direta de que de fato viveram por aqui."
+    },
+    {
+      "nome": "Gênero similar a Elaphrosaurus (Elafrossauro)",
+      "idade": "100 - 95 MA. Cretáceo",
+      "dieta": "Onívoro",
+      "notas": "Apesar de existir registros desse animal no que hoje é o Maranhão, não existe confirmação precisa de que esse gênero de dinossauro viveu pelo Brasil, já que os registros desse são fragmentários."
+    },
+    {
+      "nome": "Gênero similar a Megaraptor",
+      "idade": "88 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Os fósseis de um dinossauro da família do Megaraptor foram encontrados em 2011, durante a construção do Hospital Regional de Uberaba ."
+    },
+    {
+      "nome": "Gênero similar a Sigilmassasaurus",
+      "idade": "110 - 95 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Existem registros de diferentes espécies de espinossauros com base em fragmentos de ossos e dentes. Foram identificados em estados do nordeste como Maranhão , Ceará , Sergipe e Bahia ."
+    },
+    {
+      "nome": "Gnathovorax cabreirai",
+      "idade": "233 MA. Triássico",
+      "dieta": "Carnívoro",
+      "notas": "O Gnathovorax é um gênero de dinossauro herrerassaurídeo da Formação Santa Maria no Rio Grande do Sul , Brasil. Um dos mais antigos conhecidos no mundo."
+    },
+    {
+      "nome": "Gondwanatitan faustoi",
+      "idade": "70 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Gondwanatitan foi o 4º dinossauro descrito no Brasil, tendo vivido no estado de São Paulo . Era um saurópode de 08 metros de comprimento e 02 metros de altura."
+    },
+    {
+      "nome": "Gondwanax paraisensis",
+      "idade": "239,4 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "O Gondwanax era um dinossauro silessaurídeo que foi descoberto no Sul do Brasil , na cidade de Paraíso do Sul . Seu fóssil foi encontrado e doado para estudos, sendo um dos mais antigos conhecidos."
+    },
+    {
+      "nome": "Guaibasaurus candelariensis",
+      "idade": "227 MA. Triássico",
+      "dieta": "Onívoro",
+      "notas": "Guaibasaurus foi o segundo dinossauro inequívoco descrito para as rochas do Triássico Sul-Brasileiro. Foi considerado um terópode basal, mas tem sido recuperado como um saurísquio ou sauropodomorfo basal."
+    },
+    {
+      "nome": "Ibirania parva",
+      "idade": "83 - 80 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Ibirania é o menor saurópode conhecido do Brasil, com 05 metros de comprimento. Viveu numa região muito árida de São José do Rio Preto ."
+    },
+    {
+      "nome": "Irritator challengeri",
+      "idade": "110 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O Irritator pertence a família Spinosauróidea . Seus fósseis foram contrabandeados do Brasil para a Alemanha na década de 90. Atualmente, estão no Museu Estadual de História Natural de Stuttgart ."
+    },
+    {
+      "nome": "Itaguyra occulta",
+      "idade": "235 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "Dinossauro silessaurídeo que foi descoberto na Formação Santa Maria , no Rio Grande do Sul . Seus fósseis foram encontrados juntos com os de cinodontes ."
+    },
+    {
+      "nome": "Itapeuasaurus cajapioensis",
+      "idade": "100 - 95 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Itapeussauro é um dos mais antigos dinossauros saurópodes do Brasil, tendo vivido durante o início do período Cretáceo, sendo um réptil herbívoro, com pescoço e cauda longos, antigo morador do que seria no futuro o estado do Maranhão ."
+    },
+    {
+      "nome": "Kurupi itaata",
+      "idade": "70 - 66 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O Kurupi foi um dinossauro carnívoro, bípede, que viveu no Brasil no final da era dos dinossauros. Com a altura de um ser humano e 05 metros do focinho até a cauda."
+    },
+    {
+      "nome": "Kaririavis mater",
+      "idade": "115 MA. Cretáceo",
+      "dieta": "Insetívoro",
+      "notas": "Kaririavis é um gênero extinto de dinossauro aviano da família Enantiornithes da Formação Crato do Cretáceo Inferior do Brasil."
+    },
+    {
+      "nome": "Macrocollum itaquii",
+      "idade": "225 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "O mais antigo registro de um dinossauro de pescoço alongado, ao ponto deste animal não ter predadores a altura durante o Período Triássico ."
+    },
+    {
+      "nome": "Maxakalisaurus topai",
+      "idade": "89 - 86 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Maxacalissauro podia chegar a ter 20 metros de comprimento. Este titanossauro viveu no estado de Minas Gerais e recebeu o apelido de Dino Prata ."
+    },
+    {
+      "nome": "Mirischia asymmetrica",
+      "idade": "110 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Primeiro dinossauro descoberto no Estado de Pernambuco , município de Exu , formação Romualdo . Seu fóssil foi ilegalmente exportado do Brasil e está no Museu de Karlsruhe na Alemanha ."
+    },
+    {
+      "nome": "Navaornis hestiae",
+      "idade": "90 - 83 MA. Cretáceo",
+      "dieta": "Onívoro",
+      "notas": "Navaornis é um gênero extinto de ave do clado Enantiornithes que dominaram o céus do Cretáceo Superior . Foi descoberto em Presidente Prudente em excelente estado de preservação."
+    },
+    {
+      "nome": "Nhandumirim waldsangae",
+      "idade": "233 MA. Triássico",
+      "dieta": "Carnívoro",
+      "notas": "Pequeno dinossauro, com um metro de comprimento. Um dos primeiros dinossauros a existir e ainda é enigmático por não ter sido encontrado mais fósseis."
+    },
+    {
+      "nome": "Oxalaia quilombensis",
+      "idade": "110 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Maior dinossauro carnívoro conhecido no Brasil. Podia chegar até 14 metros de comprimento, com muitas semelhanças com o Espinossauro . Foi descoberto na Ilha do Cajual , no Maranhão"
+    },
+    {
+      "nome": "Pampadromaeus barberenai",
+      "idade": "233 MA. Triássico",
+      "dieta": "Onívoro",
+      "notas": "Foi um dos mais antigos sauropodomorfos descrito nas rochas do Triássico da Paleorrota do Rio Grande do Sul . Possuía características próximas ao terópodes ."
+    },
+    {
+      "nome": "Pycnonemosaurus nevesi",
+      "idade": "83 - 72 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O Picnonemossauro é o maior membro da família Abelisauridae , sendo um dos maiores terópodes descritos no Brasil. Foi descoberto no estado do Mato Grosso por Ivor Price ."
+    },
+    {
+      "nome": "Sacisaurus agudoensis",
+      "idade": "225 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "Sacissauro é um silessaurídeo, uma família antiga de dinossauros do Triássico ainda enigmática. Seu nome faz referência ao Saci , devido a falta de fósseis das patas traseiras direitas de alguns indivíduos."
+    },
+    {
+      "nome": "Santanaraptor placidus",
+      "idade": "110 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O Santanaraptor foi um dos dinossauros mais bem preservados, com tegumentos e tecidos moles preservados. Foi descoberto no Brasil, na Formação Romualdo , sendo descrito pelo paleontólogo Alexander Kellner em 1999."
+    },
+    {
+      "nome": "Saturnalia tupiniquim",
+      "idade": "233 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "Foi o terceiro dinossauro inequívoco descrito para as rochas do Triássico do Sul do Brasil e foi, por muito tempo, o único Sauropodomorpho reconhecido para o estágio Carniano do Triássico. O seu fóssil foi encontrado em 1998, quando o Carnaval do Brasil estava se iniciando."
+    },
+    {
+      "nome": "Spectrovenator ragei",
+      "idade": "125 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O Espectrovenator é um gênero de abelissaurídeo , um dos mais antigos conhecidos. Viveu onde hoje é Minas Gerais e foi descoberto debaixo dos fósseis do Tapuiassauro ."
+    },
+    {
+      "nome": "Staurikosaurus pricei",
+      "idade": "233 MA. Triássico",
+      "dieta": "Carnívoro",
+      "notas": "O Estauricossaur o foi o primeiro dinossauro descrito para o Brasil , em 1970. Seu nome faz alusão à constelação do Cruzeiro do Sul . Estudos recentes indicaram que o dinossauro Teyuwasu barberenai é um outro indivíduo de Estauricossauro."
+    },
+    {
+      "nome": "Tapuiasaurus macedoi",
+      "idade": "125 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Foi descoberto no norte de Minas Gerais , no município de Coração de Jesus . Foi um dos primeiros titanossauros e seu crânio foi descoberto completo e preservado."
+    },
+    {
+      "nome": "Thanos simonattoi",
+      "idade": "89 - 86 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Um dos dinossauros com nome mais curioso, uma homenagem ao personagem da Marvel , o supervilão Thanos ."
+    },
+    {
+      "nome": "Tiamat valdecii",
+      "idade": "113 - 93 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "O Tiamat recebeu o nome em homenagem à deusa mítica da Mesopotâmia Tiamat . É um gênero extinto de titanossauro da Formação Açu , descoberto no Ceará e catalogado em 2024."
+    },
+    {
+      "nome": "Tietasaura derbyiana",
+      "idade": "130 MA. Cretáceo",
+      "dieta": "Herbivora",
+      "notas": "A Tietasaura é um dinossauro da família Ornithopoda do período Cretáceo . Foi descoberto em 1906 na Bahia em Salvador e levado ao Museu de História Natural de Londres . Redescoberto e estudado por pesquisadores brasileiros em 2024, o fóssil da Tietasaura retornou ao Brasil."
+    },
+    {
+      "nome": "\" Trigonosaurus pricei \"?",
+      "idade": "70 - 66 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Por muitos anos considerado uma espécie única de saurópode , mas hoje estipula-se ser sinônimo de Baurutitan e fósseis do seu outrora paratipo um exemplar de Caieira. Seus fósseis foram descobertos em Peirópolis ."
+    },
+    {
+      "nome": "Triunfosaurus leonardii",
+      "idade": "132 - 129 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Saurópode provavelmente da família dos titanossauros de Pernambuco , ainda enigmático devido à escassez de fósseis ."
+    },
+    {
+      "nome": "Uberabatitan ribeiroi",
+      "idade": "70 - 66 MA. Cretáceo",
+      "dieta": "Herbívoro",
+      "notas": "Um dos maiores Saurópodes do Brasil, com até 30 metros de comprimento. Foi descoberto em Uberaba , cidade de Minas Gerais. Foi um dos últimos dinossauros antes da extinção."
+    },
+    {
+      "nome": "\" Ubirajara jubatus \"",
+      "idade": "110 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "O fóssil do Ubirajara foi roubado do Brasil e descrito em 2020. Devido à repercussão negativa e através de manifestações na internet , o Ubirajara foi repatriado do Museu de Karlsruhe para o Brasil, estando hoje no acervo do Museu Plácido Cidade Nuvens . O nome \"Ubirajara jubatus\" é um nome indisponível devido a nulidade do artigo que o descrevia."
+    },
+    {
+      "nome": "Unaysaurus tolentinoi",
+      "idade": "225 MA. Triássico",
+      "dieta": "Herbívoro",
+      "notas": "Foi um dinossauro herbívoro de pescoço longo, bípede e que mantinha semelhanças com o Plateossauro . Foi descoberto no munícipio de São Martinho da Serra , no Rio Grande do Sul."
+    },
+    {
+      "nome": "Vespersaurus paranaensis",
+      "idade": "100 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Primeiro dinossauro descrito no estado do Paraná . Tinha pés adaptados para a vida no deserto . Foi contemporâneo dos pterossauros Caiuajara e Torukjara ."
+    },
+    {
+      "nome": "Ypupiara lopai",
+      "idade": "72 - 66 MA. Cretáceo",
+      "dieta": "Carnívoro",
+      "notas": "Ypupiara é um terópode da família Dromaeosauridae , nativo da formação Serra da Galga , do Cretáceo Superior. Sua principal alimentação eram peixes."
+    }
+  ],
+  "meta": {
+    "title": "Dinossauros do Brasil - Free Download",
+    "description": "Gêneros e espécies de dinossauros descobertos no Brasil com idade geológica, dieta e notas descritivas. Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dinossauros do Brasil | ListBase",
+    "seo_description": "Download Dinossauros do Brasil — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_dinossauros_do_Brasil"
+    ]
+  }
+}
