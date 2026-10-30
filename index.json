@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-30T02:33:55.563Z",
-  "total_datasets": 514,
-  "total_records": 741449,
+  "generated": "2026-10-30T02:34:02.932Z",
+  "total_datasets": 515,
+  "total_records": 741593,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -3358,6 +3358,31 @@
         "xlsx": {
           "name": "pt-br-capitanias-hereditarias_PT.xlsx",
           "size": 7574
+        }
+      }
+    },
+    {
+      "id": "pt-br-lutas-e-rebelioes",
+      "name": "Lutas, revoltas e rebeliões no Brasil",
+      "category": "history",
+      "record_count": 144,
+      "columns": [
+        "seculo",
+        "nome",
+        "descricao",
+        "periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_lutas_e_rebeliões_no_Brasil",
+      "updated": "2026-10",
+      "size": 28906,
+      "files": {
+        "csv": {
+          "name": "pt-br-lutas-e-rebelioes_PT.csv",
+          "size": 15478
+        },
+        "xlsx": {
+          "name": "pt-br-lutas-e-rebelioes_PT.xlsx",
+          "size": 13942
         }
       }
     },

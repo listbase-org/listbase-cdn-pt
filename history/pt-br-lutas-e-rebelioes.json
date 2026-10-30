@@ -1,0 +1,910 @@
+{
+  "id": "pt-br-lutas-e-rebelioes",
+  "name": "Lutas, revoltas e rebeliões no Brasil",
+  "title": "Lutas, revoltas e rebeliões no Brasil",
+  "description": "Conflitos, revoltas, rebeliões e guerras ocorridos no território brasileiro desde o século XVI, por século, com descrição e período.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_lutas_e_rebeliões_no_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_lutas_e_rebeliões_no_Brasil",
+  "updated": "2026-10",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "seculo",
+      "label": "Seculo",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "seculo": "Século XVI",
+      "nome": "Guerra de Iguape",
+      "descricao": "Disputa devido ao Tratado de Tordesilhas",
+      "periodo": "1534–1536"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Cerco de Igarassu",
+      "descricao": "Ataque dos indígenas Caetés à vila Igarassu , Pernambuco",
+      "periodo": "1548"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Cerco de Piratininga",
+      "descricao": "Revolta de Resistência indígena contra a presença de jesuítas, em São Paulo , então capitania de São Vicente",
+      "periodo": "1562"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Confederação dos Tamoios",
+      "descricao": "Revolta de sistêmica indígena contra os portugueses, na capitania de São Vicente , sobretudo nos núcleos de Rio de Janeiro e São Paulo",
+      "periodo": "1556–1567"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "França Antártica",
+      "descricao": "Invasão e colonização francesa no Rio de Janeiro , então capitania de São Vicente",
+      "periodo": "1555–1570"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Guerra dos Aimorés",
+      "descricao": "Resistência dos indígenas Aimorés contra os portugueses, nas capitanias da Bahia , Paraguaçu , Ihéus , Porto Seguro e Espírito Santo",
+      "periodo": "1555–1673"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Guerra dos Bárbaros",
+      "descricao": "Resistência de vários povos indígena contra os portugueses, na Paraíba e Rio Grande",
+      "periodo": "1586–1599"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Fort Saint Alexis",
+      "descricao": "Invasão e colonização francesa no Ceará",
+      "periodo": "1590–1603"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Saque do Recife",
+      "descricao": "Expedição de saque militar inglesa, em Pernambuco",
+      "periodo": "1595"
+    },
+    {
+      "seculo": "Século XVI",
+      "nome": "Guerra Luso-Holandesa",
+      "descricao": "Guerra entre os portugueses e holandeses contra invasões holandesas em várias colônias lusitanas.",
+      "periodo": "1595–1663"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Bandeirantes , bugreiros , entradas e bandeiras",
+      "descricao": "expedições civis-militares de exploração e captura de indígenas ( Séculos XVI e XVII )",
+      "periodo": ""
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Guerra dos Palmares",
+      "descricao": "Conflito de resistência africana no Quilombo dos Palmares contra os portugueses, na capitania de Pernambuco , em áreas hoje de Alagoas e Pernambuco",
+      "periodo": "1600 c.–1693"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "França Equinocial",
+      "descricao": "Invasão e colonização francesa na cidade de São Luís , Maranhão",
+      "periodo": "1612"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Levante dos Tupinambás",
+      "descricao": "Conflito de resistência dos Tupinambás contra portugueses, em Belém , que levou à criação da capitania do Grão-Pará",
+      "periodo": "1617-1621"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Invasões holandesas",
+      "descricao": "Invasão e colonização holandesa no atual nordeste brasileiro",
+      "periodo": "1624–1654"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Revolta de Amador Bueno",
+      "descricao": "Insurreição popular de espanhóis contra os portugueses, em São Paulo",
+      "periodo": "1641"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Insurreição Pernambucana",
+      "descricao": "Rebelião lusitana contra o domínio holandês nas capitanias do nordeste",
+      "periodo": "1645–1654"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "República Cambressive",
+      "descricao": "Revolta dos indígenas Potiguaras contra o governo lusitano, na Serra da Ibiapaba , Ceará",
+      "periodo": "1654–1656"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Revolta da Cachaça",
+      "descricao": "Revolta dos fabricantes de cachaças contra os impostos excessivos, no Rio de Janeiro",
+      "periodo": "1660–1661"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Conjuração de Nosso Pai",
+      "descricao": "Motim popular contra o governo lusitano após a expulsão holandesa, em Olinda e Recife , Pernambuco",
+      "periodo": "1666"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Revolução de Beckman",
+      "descricao": "Revolta de comerciantes contra o governo lusitano, no Maranhão",
+      "periodo": "1684–1685"
+    },
+    {
+      "seculo": "Século XVII",
+      "nome": "Confederação dos Cariris",
+      "descricao": "Resistência de diversos povos indígenas contra os portugueses e sesmeiros no Nordeste",
+      "periodo": "1660–1713"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Guerra dos Emboabas",
+      "descricao": "Confronto entre bandeirantes e portugueses pelo domínio das minas de ouro, em regiões que hoje formam Minas Gerais , mas que se encontravam em um limbo jurídico entre as capitanias do Rio de Janeiro , São Vicente e Itanhaém",
+      "periodo": "1707–1709"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Revolta do Sal",
+      "descricao": "Revolta de comerciantes contra a legislação lusitana sobre o comércio de sal, em Santos , São Paulo",
+      "periodo": "1710"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Guerra dos Mascates",
+      "descricao": "Confronto entre comerciantes e senhores de engenho pelo poder local, em Pernambuco",
+      "periodo": "1710–1711"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Motins do Maneta",
+      "descricao": "Motins contra o monopólio e impostos excessivos sobre o sal, em Salvador , Bahia",
+      "periodo": "1711"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Ataque da Vila Aquiraz",
+      "descricao": "Ataque de resistência de vários povos indígenas e um dos ápices da Confederação dos Cariris , no Ceará",
+      "periodo": "1713"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Guerrilha dos Muras",
+      "descricao": "Resistência dos indígenas Muras contra os lusitanos, no Amazonas",
+      "periodo": "1714–1786"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Revolta de Felipe dos Santos",
+      "descricao": "Revolta de mineradores contra política fiscal nas minas de ouro, em Minas Gerais",
+      "periodo": "1720"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Guerra dos Manaós",
+      "descricao": "Resistência dos indígenas Manaós contra os lusitanos, no Amazonas",
+      "periodo": "1723–1728"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Resistência Guaicuru",
+      "descricao": "Resistência dos indígenas Guaicurus contra luso-espanhóis, no sul de Mato Grosso , Goiás e Paraguai",
+      "periodo": "1725–1744"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Motim do Terço Velho",
+      "descricao": "Motim de soldados contra os baixos soldos, em Salvador , Bahia",
+      "periodo": "1728"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Guerra Guaranítica",
+      "descricao": "Resistência dos povos indígenas Guaranis contra os luso-espanhóis, na região Sul",
+      "periodo": "1751–1756"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Conspirações do Curvelo",
+      "descricao": "Conspirações contra o governo colonial português e as reformas pombalinas , na capitania de Minas Gerais",
+      "periodo": "1760–1763 / 1776"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Inconfidência Mineira",
+      "descricao": "Conspiração contra o governo colonial português e de possível caráter republicano , na capitania de Minas Gerais",
+      "periodo": "1789"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Conjuração Carioca",
+      "descricao": "Conspiração de intelectuais luso-brasileiros contra o governo colonial português e de caráter republicano , no Rio de Janeiro",
+      "periodo": "1794–1795"
+    },
+    {
+      "seculo": "Século XVIII",
+      "nome": "Conjuração Baiana",
+      "descricao": "Revolta contra o governo colonial lusitano, a escravidão e de caráter republicano",
+      "periodo": "1798–1799"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Conspiração dos Suassunas",
+      "descricao": "Conspiração de senhores de engenho contra o governo colonial português e de caráter independentista, em Pernambuco",
+      "periodo": "1801"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Invasão da Guiana Francesa",
+      "descricao": "Invasão e ocupação luso-brasileira da Guiana Francesa",
+      "periodo": "1809–1817"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Incorporação da Cisplatina",
+      "descricao": "invasão e anexação do Uruguai ao Brasil",
+      "periodo": "1816"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolução Pernambucana",
+      "descricao": "revolta independentista e republicana, Pernambuco",
+      "periodo": "1817"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Massacre do Rodeadouro",
+      "descricao": "massacre militar, interior de Pernambuco",
+      "periodo": "26 de outubro de 1820"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolução Liberal de 1821",
+      "descricao": "revolta independentista, Bahia e Pará",
+      "periodo": "1821"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta de Escravos Constitucionalistas",
+      "descricao": "revolta abolicionista, Minas Gerais",
+      "periodo": "1821- 1822"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Independência da Bahia",
+      "descricao": "revolta independentista, Bahia",
+      "periodo": "1821- 1823"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Guerra da independência do Brasil",
+      "descricao": "brasileiros contra militares legalistas portugueses, Bahia , Piauí , Maranhão , Pará e Uruguai",
+      "periodo": "1822-1823"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Confederação do Equador",
+      "descricao": "revolta separatista, no território do atual Nordeste",
+      "periodo": "1823–1824"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Noite da agonia",
+      "descricao": "fechamento do Congresso pelo Exército a mando do imperador, Rio de Janeiro",
+      "periodo": "1823"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Levante dos Periquitos",
+      "descricao": "levante militar na Bahia",
+      "periodo": "1824"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Guerra da Cisplatina",
+      "descricao": "Brasil contra Argentina e rebeldes uruguaios",
+      "periodo": "1825–1828"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta dos Mercenários",
+      "descricao": "mercenários contra Império do Brasil, Rio de Janeiro",
+      "periodo": "1828"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Noite das Garrafadas",
+      "descricao": "insurreição popular e confronto entre brasileiros e portugueses, Rio de Janeiro",
+      "periodo": "abril de 1831"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Mata-Maroto",
+      "descricao": "conflitos entre brasileiros e portugueses na Bahia",
+      "periodo": "1831–1840"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Cabanada",
+      "descricao": "insurreição popular, Pernambuco e Alagoas",
+      "periodo": "1832–1835"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Federação do Guanais",
+      "descricao": "revolta separatista e republicana, Bahia",
+      "periodo": "1832"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta do Ano da Fumaça",
+      "descricao": "Minas Gerais",
+      "periodo": "1833"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta de Carrancas",
+      "descricao": "insurreição de escravizados , Minas Gerais",
+      "periodo": "1833"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "A Rusga",
+      "descricao": "revolta entre conservadores (queriam manter o império) e republicanos, Mato Grosso",
+      "periodo": "1834"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Cabanagem",
+      "descricao": "insurreição popular, Pará",
+      "periodo": "1835–1840"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta dos Malês",
+      "descricao": "insurreição religiosa, Bahia",
+      "periodo": "1835"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolução Farroupilha",
+      "descricao": "revolta separatista e republicana, Rio Grande do Sul",
+      "periodo": "1835–1845"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Sabinada",
+      "descricao": "insurreição popular, Bahia",
+      "periodo": "1837-1838"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Balaiada",
+      "descricao": "insurreição popular, Maranhão",
+      "periodo": "1838-1841"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revoltas Liberais",
+      "descricao": "revolta liberal, São Paulo e Minas Gerais",
+      "periodo": "1842"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta dos Lisos",
+      "descricao": "revolta liberal, Alagoas",
+      "periodo": "1844"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Motim do Fecha-Fecha",
+      "descricao": "Pernambuco",
+      "periodo": "1844"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Motim do Mata-Mata",
+      "descricao": "Pernambuco",
+      "periodo": "1847-1848"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Insurreição Praieira",
+      "descricao": "revolta liberal e republicana, Pernambuco",
+      "periodo": "1848-1850"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Guerra contra Oribe e Rosas",
+      "descricao": "Brasil , Uruguai e rebeldes argentinos contra Argentina",
+      "periodo": "1850-1852"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta do Ronco de Abelha",
+      "descricao": "Nordeste",
+      "periodo": "1851-1854"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Levante dos Marimbondos",
+      "descricao": "Pernambuco",
+      "periodo": "1852"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta da Fazenda Ibicaba",
+      "descricao": "São Paulo",
+      "periodo": "1857"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Motim da Carne sem Osso",
+      "descricao": "insurreição popular, Bahia",
+      "periodo": "1858"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Guerra contra Aguirre",
+      "descricao": "Brasil e rebeldes uruguaios contra Uruguai",
+      "periodo": "1864-1865"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Guerra do Paraguai",
+      "descricao": "Brasil , Argentina e Uruguai contra Paraguai",
+      "periodo": "1865-1870"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta dos Muckers",
+      "descricao": "insurreição popular-messiânica, Rio Grande do Sul",
+      "periodo": "1868-1874"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta do Quebra-Quilos",
+      "descricao": "insurreição popular, Nordeste",
+      "periodo": "1874-1875"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta dos Rasga-listas",
+      "descricao": "insurreição popular, Nordeste e Sudeste",
+      "periodo": "1875-1876"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta do Vintém",
+      "descricao": "insurreição popular, Rio de Janeiro",
+      "periodo": "1880"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta do Vintém",
+      "descricao": "insurreição popular, Curitiba",
+      "periodo": "1883"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Proclamação de 15 de novembro",
+      "descricao": "golpe militar que encerrou o regime monárquico e proclamou a república, Rio de Janeiro",
+      "periodo": "1889"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Golpe de Três de Novembro",
+      "descricao": "fechamento do Congresso pelo Exército a mando do presidente",
+      "periodo": "1891"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta dos Colonos (Caxias do Sul)",
+      "descricao": "levante popular, Rio Grande do Sul",
+      "periodo": "1891, 1892"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Primeira Revolta da Armada",
+      "descricao": "reação militar ao golpe de Deodoro",
+      "periodo": "1891"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Levante deodorista da Fortaleza de Santa Cruz",
+      "descricao": "revolta militar",
+      "periodo": "1892"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Primeira revolta de Boa Vista",
+      "descricao": "conflito político, Goiás",
+      "periodo": "1892"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Bombardeio de Porto Alegre pela canhoneira Marajó",
+      "descricao": "repercussão militar do conflito político no Rio Grande do Sul",
+      "periodo": "1892"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolta de Triunfo",
+      "descricao": "conflito político, Pernambuco",
+      "periodo": "1892–1893"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Conflitos pelo governo de Mato Grosso",
+      "descricao": "conflitos políticos/ coronelísticos",
+      "periodo": "1892, 1899, 1901, 1916"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolução Federalista",
+      "descricao": "guerra civil, Rio Grande do Sul",
+      "periodo": "1893-1895"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Segunda Revolta da Armada",
+      "descricao": "revolta militar, Rio de Janeiro",
+      "periodo": "1893-1894"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "República de Cunani",
+      "descricao": "insurreição popular-separatista, Amapá",
+      "periodo": "1895-1900"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Guerra de Canudos",
+      "descricao": "insurreição popular-messiânica, Bahia",
+      "periodo": "1896-1897"
+    },
+    {
+      "seculo": "Século XIX",
+      "nome": "Revolução Acriana",
+      "descricao": "guerra pela independência e anexação do Acre ao Brasil , contra a Bolívia",
+      "periodo": "1898-1903"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Levantes pró-emancipação do Sul de Mato Grosso",
+      "descricao": "revoltas regionalistas",
+      "periodo": "1901, 1911"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta de Ribeirãozinho",
+      "descricao": "levante monarquista, São Paulo",
+      "periodo": "1902"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Incidente de Nuevo Iquitos",
+      "descricao": "conflito fronteiriço com o Peru",
+      "periodo": "1904"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta da Vacina",
+      "descricao": "insurreição popular, Rio de Janeiro",
+      "periodo": "1904"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta de Fausto Cardoso",
+      "descricao": "conflito político, Sergipe",
+      "periodo": "1906"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Segunda revolta de Boa Vista",
+      "descricao": "conflito político, Goiás",
+      "periodo": "1907-1909"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Bombardeio de Manaus",
+      "descricao": "intervenção de forças federais, Amazonas",
+      "periodo": "1910"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta da Chibata",
+      "descricao": "revolta militar, Rio de Janeiro",
+      "periodo": "1910"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta do Batalhão Naval",
+      "descricao": "revolta militar, Rio de Janeiro",
+      "periodo": "1910"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Bombardeio de Salvador",
+      "descricao": "intervenção de forças federais, Bahia",
+      "periodo": "1912"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Guerra do Contestado",
+      "descricao": "insurreição popular-messiânica, Santa Catarina e Paraná",
+      "periodo": "1912-1916"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Sedição de Juazeiro",
+      "descricao": "insurreição política, Ceará",
+      "periodo": "1914"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta do 16º Grupo de Artilharia a Cavalo",
+      "descricao": "revolta de baixas patentes militares, Rio Grande do Sul",
+      "periodo": "1915"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta dos sargentos",
+      "descricao": "revolta militar, Rio de Janeiro",
+      "periodo": "1915"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta do Xandoca",
+      "descricao": "conflito político, Espírito Santo",
+      "periodo": "1916"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Insurreição anarquista de 1918",
+      "descricao": "rebelião política, Rio de Janeiro",
+      "periodo": "1918"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Levante Sertanejo",
+      "descricao": "insurreição dos coronéis contra o governo do Estado da Bahia, Bahia (1919-1930). [ carece de fontes ] ?",
+      "periodo": ""
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta dos 18 do Forte",
+      "descricao": "primeira revolta do movimento tenentista , Rio de Janeiro",
+      "periodo": "1922"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolução de 1923",
+      "descricao": "conflito político, Rio Grande do Sul",
+      "periodo": "1923"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta Paulista de 1924",
+      "descricao": "revolta militar tenentista, São Paulo, posteriormente Mato Grosso e Paraná",
+      "periodo": "1924-1925"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolução de 1924 em Sergipe",
+      "descricao": "revolta militar tenentista, Sergipe",
+      "periodo": "1924"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta do 10º Regimento de Cavalaria Independente",
+      "descricao": "revolta militar tenentista, Mato Grosso",
+      "periodo": "1924"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Comuna de Manaus",
+      "descricao": "revolta militar tenentista, Amazonas",
+      "periodo": "1924"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta do 26.º Batalhão de Caçadores",
+      "descricao": "revolta militar tenentista, Pará",
+      "periodo": "1924"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Coluna Prestes",
+      "descricao": "revolta militar tenentista",
+      "periodo": "1924-1927"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta do couraçado São Paulo",
+      "descricao": "revolta militar tenentista, Rio de Janeiro",
+      "periodo": "1924"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Assalto ao quartel do 3º Regimento de Infantaria",
+      "descricao": "revolta militar tenentista, Rio de Janeiro",
+      "periodo": "1925"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Levante do Batalhão de Caçadores de Aracaju",
+      "descricao": "revolta militar tenentista, Sergipe",
+      "periodo": "1926"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta de Princesa",
+      "descricao": "insurreição política local/coronelista, Paraíba",
+      "periodo": "1930"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolução de 1930",
+      "descricao": "golpe de Estado civil-militar",
+      "periodo": "1930"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Sublevação do 21º Batalhão de Caçadores",
+      "descricao": "revolta militar, Pernambuco",
+      "periodo": "1931"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolução Constitucionalista",
+      "descricao": "guerra civil, São Paulo, Estado de Maracaju (atual Mato Grosso do Sul), Rio Grande do Sul e Pará",
+      "periodo": "1932"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Intentona Comunista",
+      "descricao": "insurreição comunista, Rio de Janeiro, Pernambuco e Rio Grande do Norte",
+      "periodo": "1935"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Incidente no posto indígena Catarina Paraguaçú",
+      "descricao": "rescaldo da Intentona Comunista, Bahia",
+      "periodo": "1936"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Caldeirão de Santa Cruz do Deserto",
+      "descricao": "movimento messiânico que surgiu nas terras no Crato , Ceará",
+      "periodo": "1937"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Estado Novo",
+      "descricao": "golpe de Estado",
+      "periodo": "1937"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Intentona Integralista",
+      "descricao": "insurreição integralista, Rio de Janeiro",
+      "periodo": "1938"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Força Expedicionária Brasileira na Segunda Guerra Mundial",
+      "descricao": "Itália",
+      "periodo": "1943-1945"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Deposição de Getúlio Vargas",
+      "descricao": "golpe de Estado civil-militar",
+      "periodo": "1945"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta do Quebra-Milho",
+      "descricao": "levante popular, Paraná",
+      "periodo": "1947"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Movimento de 11 de Novembro",
+      "descricao": "contragolpe ou golpe militar preventivo, Rio de Janeiro",
+      "periodo": "1955"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta de Jacareacanga",
+      "descricao": "revolta militar, Pará",
+      "periodo": "1956"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta dos Colonos",
+      "descricao": "levante popular, Paraná",
+      "periodo": "1957"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta de Aragarças",
+      "descricao": "revolta militar, Goiás",
+      "periodo": "1959"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta das Barcas",
+      "descricao": "levante popular, Niterói",
+      "periodo": "1959"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Campanha da Legalidade",
+      "descricao": "crise político-militar",
+      "periodo": "1961"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta dos sargentos",
+      "descricao": "revolta militar, Brasília",
+      "periodo": "1963"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Revolta dos Marinheiros",
+      "descricao": "motim militar, Rio de Janeiro",
+      "periodo": "1964"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Golpe militar de 1964",
+      "descricao": "golpe de Estado civil-militar",
+      "periodo": "1964"
+    },
+    {
+      "seculo": "Século XX",
+      "nome": "Luta armada",
+      "descricao": "guerrilha urbana e rural",
+      "periodo": "1965-1972"
+    }
+  ],
+  "meta": {
+    "title": "Lutas, revoltas e rebeliões no Brasil - Free Download",
+    "description": "Conflitos, revoltas, rebeliões e guerras ocorridos no território brasileiro desde o século XVI, por século, com descrição e período. Contains 144 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lutas, revoltas e rebeliões no Brasil | ListBase",
+    "seo_description": "Download Lutas, revoltas e rebeliões no Brasil — 144 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 144 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_lutas_e_rebeliões_no_Brasil"
+    ]
+  }
+}
