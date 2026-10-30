@@ -1,0 +1,776 @@
+{
+  "id": "pt-br-pessoas-mais-ricas",
+  "name": "Pessoas mais ricas do Brasil por ano (2016–2025)",
+  "title": "Pessoas mais ricas do Brasil por ano (2016–2025)",
+  "description": "Ranking anual dos bilionários brasileiros com fortuna (bilhões de US$), idade e origem do dinheiro.",
+  "category": "economy",
+  "source": "https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_ricas_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_ricas_do_Brasil",
+  "updated": "2026-10",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "fortuna_bilhoes_usd",
+      "label": "Fortuna Bilhoes Usd",
+      "type": "number"
+    },
+    {
+      "key": "idade",
+      "label": "Idade",
+      "type": "number"
+    },
+    {
+      "key": "origem_do_dinheiro",
+      "label": "Origem Do Dinheiro",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": 2025,
+      "posicao": 1,
+      "nome": "Eduardo Saverin",
+      "fortuna_bilhoes_usd": 45.4,
+      "idade": 43,
+      "origem_do_dinheiro": "Meta (Facebook)/B Capital"
+    },
+    {
+      "ano": 2025,
+      "posicao": 2,
+      "nome": "Vicky Sarfati Safra",
+      "fortuna_bilhoes_usd": 24.1,
+      "idade": 73,
+      "origem_do_dinheiro": "Banco Safra"
+    },
+    {
+      "ano": 2025,
+      "posicao": 3,
+      "nome": "Jorge Paulo Lemann",
+      "fortuna_bilhoes_usd": 17.6,
+      "idade": 85,
+      "origem_do_dinheiro": "3G Capital / AB InBev"
+    },
+    {
+      "ano": 2025,
+      "posicao": 4,
+      "nome": "Andre Esteves",
+      "fortuna_bilhoes_usd": 10.2,
+      "idade": 57,
+      "origem_do_dinheiro": "BTG Pactual"
+    },
+    {
+      "ano": 2025,
+      "posicao": 5,
+      "nome": "Fernando Roberto Moreira Salles",
+      "fortuna_bilhoes_usd": 8.4,
+      "idade": 79,
+      "origem_do_dinheiro": "Itaú Unibanco / CBMM"
+    },
+    {
+      "ano": 2025,
+      "posicao": 6,
+      "nome": "Carlos Alberto da Veiga Sicupira",
+      "fortuna_bilhoes_usd": 7.82,
+      "idade": 77,
+      "origem_do_dinheiro": "3G Capital / AB InBev"
+    },
+    {
+      "ano": 2025,
+      "posicao": 7,
+      "nome": "Pedro Moreira Salles",
+      "fortuna_bilhoes_usd": 7.6,
+      "idade": 65,
+      "origem_do_dinheiro": "Itaú Unibanco / CBMM"
+    },
+    {
+      "ano": 2025,
+      "posicao": 8,
+      "nome": "Michel Gellert Krisgner",
+      "fortuna_bilhoes_usd": 6.8,
+      "idade": 75,
+      "origem_do_dinheiro": "O Boticário"
+    },
+    {
+      "ano": 2025,
+      "posicao": 9,
+      "nome": "Alexandre Behring",
+      "fortuna_bilhoes_usd": 5.7,
+      "idade": 58,
+      "origem_do_dinheiro": "3G Capital"
+    },
+    {
+      "ano": 2025,
+      "posicao": 10,
+      "nome": "Jorge Moll Filho",
+      "fortuna_bilhoes_usd": 5.5,
+      "idade": 79,
+      "origem_do_dinheiro": "Rede D'Or"
+    },
+    {
+      "ano": 2021,
+      "posicao": 1,
+      "nome": "Jorge Paulo Lemann",
+      "fortuna_bilhoes_usd": 16.8,
+      "idade": 82,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2021,
+      "posicao": 2,
+      "nome": "Eduardo Saverin",
+      "fortuna_bilhoes_usd": 14.6,
+      "idade": 39,
+      "origem_do_dinheiro": "Meta Platforms"
+    },
+    {
+      "ano": 2021,
+      "posicao": 3,
+      "nome": "Marcel Herrmann Telles",
+      "fortuna_bilhoes_usd": 11.5,
+      "idade": 71,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2021,
+      "posicao": 4,
+      "nome": "Jorge Moll Filho",
+      "fortuna_bilhoes_usd": 11.3,
+      "idade": 75,
+      "origem_do_dinheiro": "Rede D'or São Luiz"
+    },
+    {
+      "ano": 2021,
+      "posicao": 5,
+      "nome": "Carlos Alberto Sicupira",
+      "fortuna_bilhoes_usd": 8.7,
+      "idade": 73,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2021,
+      "posicao": 6,
+      "nome": "Família Safra",
+      "fortuna_bilhoes_usd": 7.1,
+      "idade": "",
+      "origem_do_dinheiro": "Grupo Safra"
+    },
+    {
+      "ano": 2021,
+      "posicao": 7,
+      "nome": "Alexandre Behring",
+      "fortuna_bilhoes_usd": 7,
+      "idade": 54,
+      "origem_do_dinheiro": "3G Capital"
+    },
+    {
+      "ano": 2021,
+      "posicao": 8,
+      "nome": "Dulce Pugliese de Godoy Bueno",
+      "fortuna_bilhoes_usd": 6,
+      "idade": 74,
+      "origem_do_dinheiro": "Amil , Dasa"
+    },
+    {
+      "ano": 2021,
+      "posicao": 9,
+      "nome": "Alceu Elias Feldman",
+      "fortuna_bilhoes_usd": 5.4,
+      "idade": 70,
+      "origem_do_dinheiro": "Fertipar"
+    },
+    {
+      "ano": 2021,
+      "posicao": 10,
+      "nome": "Luiza Helena Trajano",
+      "fortuna_bilhoes_usd": 5.3,
+      "idade": 73,
+      "origem_do_dinheiro": "Magazine Luiza"
+    },
+    {
+      "ano": 2020,
+      "posicao": 1,
+      "nome": "Joseph Safra",
+      "fortuna_bilhoes_usd": 19.9,
+      "idade": 81,
+      "origem_do_dinheiro": "Banco Safra"
+    },
+    {
+      "ano": 2020,
+      "posicao": 2,
+      "nome": "Jorge Paulo Lemann e família",
+      "fortuna_bilhoes_usd": 10.4,
+      "idade": 80,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2020,
+      "posicao": 3,
+      "nome": "Eduardo Saverin",
+      "fortuna_bilhoes_usd": 8.4,
+      "idade": 38,
+      "origem_do_dinheiro": "Facebook"
+    },
+    {
+      "ano": 2020,
+      "posicao": 4,
+      "nome": "Marcel Herrmann Telles",
+      "fortuna_bilhoes_usd": 6.5,
+      "idade": 70,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2020,
+      "posicao": 5,
+      "nome": "Carlos Alberto Sicupira e família",
+      "fortuna_bilhoes_usd": 4.8,
+      "idade": 72,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2020,
+      "posicao": 6,
+      "nome": "Alexandre Behring",
+      "fortuna_bilhoes_usd": 4.3,
+      "idade": 53,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2020,
+      "posicao": 7,
+      "nome": "Luciano Hang",
+      "fortuna_bilhoes_usd": 3.6,
+      "idade": 57,
+      "origem_do_dinheiro": "Havan"
+    },
+    {
+      "ano": 2020,
+      "posicao": 8,
+      "nome": "Dulce Pugliese de Godoy Bueno",
+      "fortuna_bilhoes_usd": 3.5,
+      "idade": 72,
+      "origem_do_dinheiro": "Amil , Dasa"
+    },
+    {
+      "ano": 2020,
+      "posicao": 9,
+      "nome": "Miguel Krigsner",
+      "fortuna_bilhoes_usd": 3.4,
+      "idade": 70,
+      "origem_do_dinheiro": "O Boticário"
+    },
+    {
+      "ano": 2020,
+      "posicao": 10,
+      "nome": "André Esteves",
+      "fortuna_bilhoes_usd": 2.9,
+      "idade": 51,
+      "origem_do_dinheiro": "BTG Pactual"
+    },
+    {
+      "ano": 2019,
+      "posicao": 1,
+      "nome": "Joseph Safra",
+      "fortuna_bilhoes_usd": 25.2,
+      "idade": 80,
+      "origem_do_dinheiro": "Banco Safra"
+    },
+    {
+      "ano": 2019,
+      "posicao": 2,
+      "nome": "Jorge Paulo Lemann e família",
+      "fortuna_bilhoes_usd": 22.8,
+      "idade": 79,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2019,
+      "posicao": 3,
+      "nome": "Marcel Herrmann Telles",
+      "fortuna_bilhoes_usd": 9.9,
+      "idade": 69,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2019,
+      "posicao": 4,
+      "nome": "Eduardo Saverin",
+      "fortuna_bilhoes_usd": 9.7,
+      "idade": 37,
+      "origem_do_dinheiro": "Facebook"
+    },
+    {
+      "ano": 2019,
+      "posicao": 5,
+      "nome": "Carlos Alberto Sicupira e família",
+      "fortuna_bilhoes_usd": 8.9,
+      "idade": 70,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2019,
+      "posicao": 6,
+      "nome": "Juca Abdalla",
+      "fortuna_bilhoes_usd": 3.2,
+      "idade": 73,
+      "origem_do_dinheiro": "Banco Clássico"
+    },
+    {
+      "ano": 2019,
+      "posicao": 7,
+      "nome": "Abilio dos Santos Diniz",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 82,
+      "origem_do_dinheiro": "GPA"
+    },
+    {
+      "ano": 2019,
+      "posicao": 7,
+      "nome": "Pedro Moreira Salles",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 59,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2019,
+      "posicao": 7,
+      "nome": "Fernando Roberto Moreira Salles",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 73,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2019,
+      "posicao": 7,
+      "nome": "João Moreira Salles",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 57,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2019,
+      "posicao": 7,
+      "nome": "Walter Moreira Salles Junior",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 62,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2019,
+      "posicao": 8,
+      "nome": "André Esteves",
+      "fortuna_bilhoes_usd": 3,
+      "idade": 50,
+      "origem_do_dinheiro": "BTG Pactual"
+    },
+    {
+      "ano": 2019,
+      "posicao": 9,
+      "nome": "Alfredo Egydio Arruda Villela Filho",
+      "fortuna_bilhoes_usd": 2.6,
+      "idade": 50,
+      "origem_do_dinheiro": "Grupo Itaúsa"
+    },
+    {
+      "ano": 2019,
+      "posicao": 10,
+      "nome": "Jayme Garfinkel",
+      "fortuna_bilhoes_usd": 2.5,
+      "idade": 72,
+      "origem_do_dinheiro": "Porto Seguro Seguros"
+    },
+    {
+      "ano": 2018,
+      "posicao": 1,
+      "nome": "Jorge Paulo Lemann",
+      "fortuna_bilhoes_usd": 27.4,
+      "idade": 78,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2018,
+      "posicao": 2,
+      "nome": "Joseph Safra",
+      "fortuna_bilhoes_usd": 23.5,
+      "idade": 79,
+      "origem_do_dinheiro": "Banco Safra"
+    },
+    {
+      "ano": 2018,
+      "posicao": 3,
+      "nome": "Marcel Herrmann Telles",
+      "fortuna_bilhoes_usd": 14,
+      "idade": 68,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2018,
+      "posicao": 4,
+      "nome": "Carlos Alberto Sicupira",
+      "fortuna_bilhoes_usd": 12,
+      "idade": 70,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2018,
+      "posicao": 5,
+      "nome": "Eduardo Saverin",
+      "fortuna_bilhoes_usd": 10.1,
+      "idade": 36,
+      "origem_do_dinheiro": "Facebook"
+    },
+    {
+      "ano": 2018,
+      "posicao": 6,
+      "nome": "Pedro Moreira Salles",
+      "fortuna_bilhoes_usd": 5.1,
+      "idade": 58,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2018,
+      "posicao": 7,
+      "nome": "Fernando Roberto Moreira Salles",
+      "fortuna_bilhoes_usd": 5,
+      "idade": 72,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2018,
+      "posicao": 7,
+      "nome": "João Moreira Salles",
+      "fortuna_bilhoes_usd": 5,
+      "idade": 56,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2018,
+      "posicao": 7,
+      "nome": "Walter Moreira Salles Junior",
+      "fortuna_bilhoes_usd": 5,
+      "idade": 62,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2018,
+      "posicao": 8,
+      "nome": "Abilio dos Santos Diniz",
+      "fortuna_bilhoes_usd": 3.5,
+      "idade": 81,
+      "origem_do_dinheiro": "GPA"
+    },
+    {
+      "ano": 2018,
+      "posicao": 9,
+      "nome": "Walter Faria",
+      "fortuna_bilhoes_usd": 3.2,
+      "idade": 63,
+      "origem_do_dinheiro": "Grupo Petrópolis"
+    },
+    {
+      "ano": 2018,
+      "posicao": 10,
+      "nome": "Luiz Frias",
+      "fortuna_bilhoes_usd": 3,
+      "idade": 55,
+      "origem_do_dinheiro": "Grupo Folha , Universo Online , PagSeguro"
+    },
+    {
+      "ano": 2017,
+      "posicao": 1,
+      "nome": "Jorge Paulo Lemann",
+      "fortuna_bilhoes_usd": 29.2,
+      "idade": 77,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2017,
+      "posicao": 2,
+      "nome": "Joseph Safra",
+      "fortuna_bilhoes_usd": 20.5,
+      "idade": 78,
+      "origem_do_dinheiro": "Banco Safra"
+    },
+    {
+      "ano": 2017,
+      "posicao": 3,
+      "nome": "Marcel Herrmann Telles",
+      "fortuna_bilhoes_usd": 14.8,
+      "idade": 67,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2017,
+      "posicao": 4,
+      "nome": "Carlos Alberto Sicupira",
+      "fortuna_bilhoes_usd": 12.5,
+      "idade": 69,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2017,
+      "posicao": 5,
+      "nome": "Eduardo Saverin",
+      "fortuna_bilhoes_usd": 7.9,
+      "idade": 35,
+      "origem_do_dinheiro": "Facebook"
+    },
+    {
+      "ano": 2017,
+      "posicao": 6,
+      "nome": "Ermirio Pereira de Moraes",
+      "fortuna_bilhoes_usd": 3.9,
+      "idade": 84,
+      "origem_do_dinheiro": "Grupo Votorantim"
+    },
+    {
+      "ano": 2017,
+      "posicao": 6,
+      "nome": "Maria Helena Moraes Scripilliti",
+      "fortuna_bilhoes_usd": 3.9,
+      "idade": 86,
+      "origem_do_dinheiro": "Grupo Votorantim"
+    },
+    {
+      "ano": 2017,
+      "posicao": 7,
+      "nome": "Roberto Irineu Marinho",
+      "fortuna_bilhoes_usd": 3.8,
+      "idade": 69,
+      "origem_do_dinheiro": "Grupo Globo"
+    },
+    {
+      "ano": 2017,
+      "posicao": 7,
+      "nome": "José Roberto Marinho",
+      "fortuna_bilhoes_usd": 3.8,
+      "idade": 61,
+      "origem_do_dinheiro": "Grupo Globo"
+    },
+    {
+      "ano": 2017,
+      "posicao": 7,
+      "nome": "João Roberto Marinho",
+      "fortuna_bilhoes_usd": 3.8,
+      "idade": 63,
+      "origem_do_dinheiro": "Grupo Globo"
+    },
+    {
+      "ano": 2017,
+      "posicao": 8,
+      "nome": "Abilio dos Santos Diniz",
+      "fortuna_bilhoes_usd": 3.3,
+      "idade": 80,
+      "origem_do_dinheiro": "GPA"
+    },
+    {
+      "ano": 2017,
+      "posicao": 8,
+      "nome": "Walter Faria",
+      "fortuna_bilhoes_usd": 3.3,
+      "idade": 60,
+      "origem_do_dinheiro": "Grupo Petrópolis"
+    },
+    {
+      "ano": 2017,
+      "posicao": 9,
+      "nome": "Pedro Moreira Salles",
+      "fortuna_bilhoes_usd": 3.2,
+      "idade": 57,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2017,
+      "posicao": 9,
+      "nome": "Fernando Roberto Moreira Salles",
+      "fortuna_bilhoes_usd": 3.2,
+      "idade": 69,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2017,
+      "posicao": 9,
+      "nome": "João Moreira Salles",
+      "fortuna_bilhoes_usd": 3.2,
+      "idade": 55,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2017,
+      "posicao": 9,
+      "nome": "Walter Moreira Salles Junior",
+      "fortuna_bilhoes_usd": 3.2,
+      "idade": 60,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2017,
+      "posicao": 10,
+      "nome": "Rossana Camargo de Arruda Botelho",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 67,
+      "origem_do_dinheiro": "Grupo Camargo Corrêa"
+    },
+    {
+      "ano": 2017,
+      "posicao": 10,
+      "nome": "Renata de Camargo Nascimento",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 66,
+      "origem_do_dinheiro": "Grupo Camargo Corrêa"
+    },
+    {
+      "ano": 2017,
+      "posicao": 10,
+      "nome": "Paulo Ricardo S. Branco",
+      "fortuna_bilhoes_usd": 3.1,
+      "idade": 47,
+      "origem_do_dinheiro": "Grupo Aragon Security"
+    },
+    {
+      "ano": 2016,
+      "posicao": 1,
+      "nome": "Jorge Paulo Lemann",
+      "fortuna_bilhoes_usd": 27.9,
+      "idade": 76,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2016,
+      "posicao": 2,
+      "nome": "Joseph Safra",
+      "fortuna_bilhoes_usd": 17.8,
+      "idade": 77,
+      "origem_do_dinheiro": "Banco Safra"
+    },
+    {
+      "ano": 2016,
+      "posicao": 3,
+      "nome": "Marcel Herrmann Telles",
+      "fortuna_bilhoes_usd": 13.2,
+      "idade": 66,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2016,
+      "posicao": 4,
+      "nome": "Carlos Alberto Sicupira",
+      "fortuna_bilhoes_usd": 11.8,
+      "idade": 68,
+      "origem_do_dinheiro": "3G Capital , AB InBev"
+    },
+    {
+      "ano": 2016,
+      "posicao": 5,
+      "nome": "Eduardo Saverin",
+      "fortuna_bilhoes_usd": 7.1,
+      "idade": 34,
+      "origem_do_dinheiro": "Facebook"
+    },
+    {
+      "ano": 2016,
+      "posicao": 6,
+      "nome": "Roberto Irineu Marinho",
+      "fortuna_bilhoes_usd": 5.4,
+      "idade": 68,
+      "origem_do_dinheiro": "Grupo Globo"
+    },
+    {
+      "ano": 2016,
+      "posicao": 6,
+      "nome": "José Roberto Marinho",
+      "fortuna_bilhoes_usd": 5.4,
+      "idade": 60,
+      "origem_do_dinheiro": "Grupo Globo"
+    },
+    {
+      "ano": 2016,
+      "posicao": 6,
+      "nome": "João Roberto Marinho",
+      "fortuna_bilhoes_usd": 5.4,
+      "idade": 62,
+      "origem_do_dinheiro": "Grupo Globo"
+    },
+    {
+      "ano": 2016,
+      "posicao": 7,
+      "nome": "Pedro Moreira Salles",
+      "fortuna_bilhoes_usd": 3.9,
+      "idade": 56,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2016,
+      "posicao": 7,
+      "nome": "Fernando Roberto Moreira Salles",
+      "fortuna_bilhoes_usd": 3.9,
+      "idade": 69,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2016,
+      "posicao": 7,
+      "nome": "João Moreira Salles",
+      "fortuna_bilhoes_usd": 3.9,
+      "idade": 54,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2016,
+      "posicao": 7,
+      "nome": "Walter Moreira Salles Junior",
+      "fortuna_bilhoes_usd": 3.9,
+      "idade": 59,
+      "origem_do_dinheiro": "Itaú Unibanco"
+    },
+    {
+      "ano": 2016,
+      "posicao": 8,
+      "nome": "Abilio dos Santos Diniz",
+      "fortuna_bilhoes_usd": 3.6,
+      "idade": 79,
+      "origem_do_dinheiro": "GPA"
+    },
+    {
+      "ano": 2016,
+      "posicao": 9,
+      "nome": "Jorge Neval Moll Filho",
+      "fortuna_bilhoes_usd": 3.5,
+      "idade": 71,
+      "origem_do_dinheiro": "Rede D'Or"
+    },
+    {
+      "ano": 2016,
+      "posicao": 10,
+      "nome": "Walter Faria",
+      "fortuna_bilhoes_usd": 3.2,
+      "idade": 60,
+      "origem_do_dinheiro": "Grupo Petrópolis"
+    }
+  ],
+  "meta": {
+    "title": "Pessoas mais ricas do Brasil por ano (2016–2025) - Free Download",
+    "description": "Ranking anual dos bilionários brasileiros com fortuna (bilhões de US$), idade e origem do dinheiro. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pessoas mais ricas do Brasil por ano (2016–2025) | ListBase",
+    "seo_description": "Download Pessoas mais ricas do Brasil por ano (2016–2025) — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_ricas_do_Brasil"
+    ]
+  }
+}

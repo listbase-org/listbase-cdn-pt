@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-30T02:34:18.219Z",
-  "total_datasets": 517,
-  "total_records": 741705,
+  "generated": "2026-10-30T02:34:26.775Z",
+  "total_datasets": 518,
+  "total_records": 741795,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -413,6 +413,33 @@
         "xlsx": {
           "name": "pt-br-maiores-empresas-forbes_PT.xlsx",
           "size": 8213
+        }
+      }
+    },
+    {
+      "id": "pt-br-pessoas-mais-ricas",
+      "name": "Pessoas mais ricas do Brasil por ano (2016–2025)",
+      "category": "economy",
+      "record_count": 90,
+      "columns": [
+        "ano",
+        "posicao",
+        "nome",
+        "fortuna_bilhoes_usd",
+        "idade",
+        "origem_do_dinheiro"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_das_pessoas_mais_ricas_do_Brasil",
+      "updated": "2026-10",
+      "size": 18942,
+      "files": {
+        "csv": {
+          "name": "pt-br-pessoas-mais-ricas_PT.csv",
+          "size": 5828
+        },
+        "xlsx": {
+          "name": "pt-br-pessoas-mais-ricas_PT.xlsx",
+          "size": 9987
         }
       }
     },
