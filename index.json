@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-30T02:34:02.932Z",
-  "total_datasets": 515,
-  "total_records": 741593,
+  "generated": "2026-10-30T02:34:10.620Z",
+  "total_datasets": 516,
+  "total_records": 741605,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "food",
@@ -1599,6 +1599,37 @@
         "xlsx": {
           "name": "pt-br-maiores-bancos_PT.xlsx",
           "size": 7349
+        }
+      }
+    },
+    {
+      "id": "pt-br-moedas-historicas",
+      "name": "Moedas do Brasil ao longo da história",
+      "category": "finance",
+      "record_count": 12,
+      "columns": [
+        "moeda",
+        "simbolo",
+        "periodo",
+        "governo",
+        "plano_economico",
+        "lei",
+        "valor_equivalente",
+        "cedulas",
+        "moedas",
+        "inflacao_anual"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_moedas_do_Brasil",
+      "updated": "2026-10",
+      "size": 8969,
+      "files": {
+        "csv": {
+          "name": "pt-br-moedas-historicas_PT.csv",
+          "size": 4314
+        },
+        "xlsx": {
+          "name": "pt-br-moedas-historicas_PT.xlsx",
+          "size": 8813
         }
       }
     },
