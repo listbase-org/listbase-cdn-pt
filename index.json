@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-10-30T02:34:10.620Z",
-  "total_datasets": 516,
-  "total_records": 741605,
+  "generated": "2026-10-30T02:34:18.219Z",
+  "total_datasets": 517,
+  "total_records": 741705,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -102,6 +102,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pt-br-municipios-maior-pib-agropecuario",
+      "name": "Municípios do Brasil com maior PIB agropecuário (2021)",
+      "category": "agriculture",
+      "record_count": 100,
+      "columns": [
+        "posicao_2021",
+        "mudanca",
+        "municipio",
+        "estado",
+        "pib_agropecuario_reais"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_com_maior_PIB_agropecuário",
+      "updated": "2026-10",
+      "size": 18962,
+      "files": {
+        "csv": {
+          "name": "pt-br-municipios-maior-pib-agropecuario_PT.csv",
+          "size": 5200
+        },
+        "xlsx": {
+          "name": "pt-br-municipios-maior-pib-agropecuario_PT.xlsx",
+          "size": 10930
+        }
+      }
+    },
     {
       "id": "pt-denominacoes-origem-vinhos",
       "name": "Denominações de origem dos vinhos portugueses (DOC, IPR e Vinhos Regionais)",

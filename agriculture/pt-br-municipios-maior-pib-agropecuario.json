@@ -1,0 +1,751 @@
+{
+  "id": "pt-br-municipios-maior-pib-agropecuario",
+  "name": "Municípios do Brasil com maior PIB agropecuário (2021)",
+  "title": "Municípios do Brasil com maior PIB agropecuário (2021)",
+  "description": "Os 100 municípios brasileiros com maior valor adicionado da agropecuária em 2021 (R$), com estado e mudança de posição.",
+  "category": "agriculture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_com_maior_PIB_agropecuário",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_com_maior_PIB_agropecuário",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "posicao_2021",
+      "label": "Posicao 2021",
+      "type": "number"
+    },
+    {
+      "key": "mudanca",
+      "label": "Mudanca",
+      "type": "number"
+    },
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "pib_agropecuario_reais",
+      "label": "Pib Agropecuario Reais",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicao_2021": 1,
+      "mudanca": "3",
+      "municipio": "Sapezal",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 5004238725
+    },
+    {
+      "posicao_2021": 2,
+      "mudanca": "1",
+      "municipio": "Sorriso",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 4271404262
+    },
+    {
+      "posicao_2021": 3,
+      "mudanca": "2",
+      "municipio": "São Desidério",
+      "estado": "Bahia",
+      "pib_agropecuario_reais": 4191027751
+    },
+    {
+      "posicao_2021": 4,
+      "mudanca": "3",
+      "municipio": "Diamantino",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 4006059148
+    },
+    {
+      "posicao_2021": 5,
+      "mudanca": "1",
+      "municipio": "Campo Novo do Parecis",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 3914049586
+    },
+    {
+      "posicao_2021": 6,
+      "mudanca": "1",
+      "municipio": "Rio Verde",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 3694786752
+    },
+    {
+      "posicao_2021": 7,
+      "mudanca": "5",
+      "municipio": "Formosa do Rio Preto",
+      "estado": "Bahia",
+      "pib_agropecuario_reais": 3398631968
+    },
+    {
+      "posicao_2021": 8,
+      "mudanca": "8",
+      "municipio": "Campo Verde",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 2685844983
+    },
+    {
+      "posicao_2021": 9,
+      "mudanca": "2",
+      "municipio": "Nova Mutum",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 2572710307
+    },
+    {
+      "posicao_2021": 10,
+      "mudanca": "8",
+      "municipio": "Jataí",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 2484524810
+    },
+    {
+      "posicao_2021": 11,
+      "mudanca": "4",
+      "municipio": "Nova Ubiratã",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 2465115066
+    },
+    {
+      "posicao_2021": 12,
+      "mudanca": "1",
+      "municipio": "Cristalina",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 2359811879
+    },
+    {
+      "posicao_2021": 13,
+      "mudanca": "1",
+      "municipio": "Brasília",
+      "estado": "Distrito Federal",
+      "pib_agropecuario_reais": 2286948384
+    },
+    {
+      "posicao_2021": 14,
+      "mudanca": "16",
+      "municipio": "Querência",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 2209267114
+    },
+    {
+      "posicao_2021": 15,
+      "mudanca": "20",
+      "municipio": "Campos de Júlio",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 2203536164
+    },
+    {
+      "posicao_2021": 16,
+      "mudanca": "5",
+      "municipio": "Primavera do Leste",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 2198720666
+    },
+    {
+      "posicao_2021": 17,
+      "mudanca": "7",
+      "municipio": "Barreiras",
+      "estado": "Bahia",
+      "pib_agropecuario_reais": 2001021519
+    },
+    {
+      "posicao_2021": 18,
+      "mudanca": "6",
+      "municipio": "Lucas do Rio Verde",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1953082056
+    },
+    {
+      "posicao_2021": 19,
+      "mudanca": "1",
+      "municipio": "Correntina",
+      "estado": "Bahia",
+      "pib_agropecuario_reais": 1923038389
+    },
+    {
+      "posicao_2021": 20,
+      "mudanca": "12",
+      "municipio": "Balsas",
+      "estado": "Maranhão",
+      "pib_agropecuario_reais": 1893662454
+    },
+    {
+      "posicao_2021": 21,
+      "mudanca": "12",
+      "municipio": "Tasso Fragoso",
+      "estado": "Maranhão",
+      "pib_agropecuario_reais": 1863065762
+    },
+    {
+      "posicao_2021": 22,
+      "mudanca": "3",
+      "municipio": "Ponta Porã",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1701865130
+    },
+    {
+      "posicao_2021": 23,
+      "mudanca": "6",
+      "municipio": "Maracaju",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1611912308
+    },
+    {
+      "posicao_2021": 24,
+      "mudanca": "8",
+      "municipio": "Unaí",
+      "estado": "Minas Gerais",
+      "pib_agropecuario_reais": 1610992129
+    },
+    {
+      "posicao_2021": 25,
+      "mudanca": "25",
+      "municipio": "Canarana",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1549542458
+    },
+    {
+      "posicao_2021": 26,
+      "mudanca": "4",
+      "municipio": "Luís Eduardo Magalhães",
+      "estado": "Bahia",
+      "pib_agropecuario_reais": 1476998961
+    },
+    {
+      "posicao_2021": 27,
+      "mudanca": "73",
+      "municipio": "Tangará da Serra",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1448813005
+    },
+    {
+      "posicao_2021": 28,
+      "mudanca": "15",
+      "municipio": "Uberaba",
+      "estado": "Minas Gerais",
+      "pib_agropecuario_reais": 1425496267
+    },
+    {
+      "posicao_2021": 29,
+      "mudanca": "15",
+      "municipio": "Tapurah",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1400410525
+    },
+    {
+      "posicao_2021": 30,
+      "mudanca": "12",
+      "municipio": "Brasnorte",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1399305334
+    },
+    {
+      "posicao_2021": 31,
+      "mudanca": "8",
+      "municipio": "Ulianópolis",
+      "estado": "Pará",
+      "pib_agropecuario_reais": 1376072238
+    },
+    {
+      "posicao_2021": 32,
+      "mudanca": "9",
+      "municipio": "Ipiranga do Norte",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1367636452
+    },
+    {
+      "posicao_2021": 33,
+      "mudanca": "15",
+      "municipio": "Paranatinga",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1364450846
+    },
+    {
+      "posicao_2021": 34,
+      "mudanca": "7",
+      "municipio": "Sidrolândia",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1333077620
+    },
+    {
+      "posicao_2021": 35,
+      "mudanca": "2",
+      "municipio": "Três Lagoas",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1276854824
+    },
+    {
+      "posicao_2021": 36,
+      "mudanca": "19",
+      "municipio": "Itiquira",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1265968421
+    },
+    {
+      "posicao_2021": 37,
+      "mudanca": "9",
+      "municipio": "Rio Brilhante",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1255137133
+    },
+    {
+      "posicao_2021": 38,
+      "mudanca": "7",
+      "municipio": "Baixa Grande do Ribeiro",
+      "estado": "Piauí",
+      "pib_agropecuario_reais": 1245821238
+    },
+    {
+      "posicao_2021": 39,
+      "mudanca": "10",
+      "municipio": "Ribas do Rio Pardo",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1241378771
+    },
+    {
+      "posicao_2021": 40,
+      "mudanca": "15",
+      "municipio": "Santana do Mundaú",
+      "estado": "Alagoas",
+      "pib_agropecuario_reais": 1233702269
+    },
+    {
+      "posicao_2021": 41,
+      "mudanca": "15",
+      "municipio": "Cascavel",
+      "estado": "Paraná",
+      "pib_agropecuario_reais": 1206734268
+    },
+    {
+      "posicao_2021": 42,
+      "mudanca": "3",
+      "municipio": "Arapiraca",
+      "estado": "Alagoas",
+      "pib_agropecuario_reais": 1159463243
+    },
+    {
+      "posicao_2021": 43,
+      "mudanca": "3",
+      "municipio": "Paracatu",
+      "estado": "Minas Gerais",
+      "pib_agropecuario_reais": 1133352171
+    },
+    {
+      "posicao_2021": 44,
+      "mudanca": "18",
+      "municipio": "Uruçuí",
+      "estado": "Piauí",
+      "pib_agropecuario_reais": 1130773724
+    },
+    {
+      "posicao_2021": 45,
+      "mudanca": "61",
+      "municipio": "Alegrete",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 1129604870
+    },
+    {
+      "posicao_2021": 46,
+      "mudanca": "15",
+      "municipio": "Costa Rica",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1105811959
+    },
+    {
+      "posicao_2021": 47,
+      "mudanca": "21",
+      "municipio": "Montividiu",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 1097039801
+    },
+    {
+      "posicao_2021": 48,
+      "mudanca": "80",
+      "municipio": "Tupanciretã",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 1096641338
+    },
+    {
+      "posicao_2021": 49,
+      "mudanca": "16",
+      "municipio": "Dourados",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 1094472707
+    },
+    {
+      "posicao_2021": 50,
+      "mudanca": "637",
+      "municipio": "Formoso do Araguaia",
+      "estado": "Tocantins",
+      "pib_agropecuario_reais": 1071674301
+    },
+    {
+      "posicao_2021": 51,
+      "mudanca": "3",
+      "municipio": "São Félix do Araguaia",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1054200522
+    },
+    {
+      "posicao_2021": 52,
+      "mudanca": "84",
+      "municipio": "Dom Pedrito",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 1052204255
+    },
+    {
+      "posicao_2021": 53,
+      "mudanca": "7",
+      "municipio": "Porto dos Gaúchos",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1050259595
+    },
+    {
+      "posicao_2021": 54,
+      "mudanca": "34",
+      "municipio": "Tabaporã",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 1044249832
+    },
+    {
+      "posicao_2021": 55,
+      "mudanca": "4",
+      "municipio": "Porto Velho",
+      "estado": "Rondônia",
+      "pib_agropecuario_reais": 1041284612
+    },
+    {
+      "posicao_2021": 56,
+      "mudanca": "91",
+      "municipio": "São Gabriel",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 1040024380
+    },
+    {
+      "posicao_2021": 57,
+      "mudanca": "19",
+      "municipio": "Riachão das Neves",
+      "estado": "Bahia",
+      "pib_agropecuario_reais": 1035030236
+    },
+    {
+      "posicao_2021": 58,
+      "mudanca": "3",
+      "municipio": "Mineiros",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 1029207208
+    },
+    {
+      "posicao_2021": 59,
+      "mudanca": "4",
+      "municipio": "Jaborandi",
+      "estado": "Bahia",
+      "pib_agropecuario_reais": 1005404739
+    },
+    {
+      "posicao_2021": 60,
+      "mudanca": "20",
+      "municipio": "Sinop",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 998734228
+    },
+    {
+      "posicao_2021": 61,
+      "mudanca": "49",
+      "municipio": "Itapeva",
+      "estado": "São Paulo",
+      "pib_agropecuario_reais": 991508663
+    },
+    {
+      "posicao_2021": 62,
+      "mudanca": "7",
+      "municipio": "Santa Rita do Trivelato",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 985892411
+    },
+    {
+      "posicao_2021": 63,
+      "mudanca": "56",
+      "municipio": "Palmeira das Missões",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 980810395
+    },
+    {
+      "posicao_2021": 64,
+      "mudanca": "107",
+      "municipio": "Cachoeira do Sul",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 972403911
+    },
+    {
+      "posicao_2021": 65,
+      "mudanca": "10",
+      "municipio": "Gaúcha do Norte",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 970654674
+    },
+    {
+      "posicao_2021": 66,
+      "mudanca": "16",
+      "municipio": "Catalão",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 951795014
+    },
+    {
+      "posicao_2021": 67,
+      "mudanca": "23",
+      "municipio": "Vera",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 935630613
+    },
+    {
+      "posicao_2021": 68,
+      "mudanca": "17",
+      "municipio": "Nova Maringá",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 932442326
+    },
+    {
+      "posicao_2021": 69,
+      "mudanca": "5",
+      "municipio": "Paraúna",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 931583288
+    },
+    {
+      "posicao_2021": 70,
+      "mudanca": "13",
+      "municipio": "Chapadão do Sul",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 928310313
+    },
+    {
+      "posicao_2021": 71,
+      "mudanca": "85",
+      "municipio": "Uruguaiana",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 927382448
+    },
+    {
+      "posicao_2021": 72,
+      "mudanca": "13",
+      "municipio": "Uberlândia",
+      "estado": "Minas Gerais",
+      "pib_agropecuario_reais": 921226956
+    },
+    {
+      "posicao_2021": 73,
+      "mudanca": "26",
+      "municipio": "São Bento do Una",
+      "estado": "Pernambuco",
+      "pib_agropecuario_reais": 917838284
+    },
+    {
+      "posicao_2021": 74,
+      "mudanca": "75",
+      "municipio": "Itaqui",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 915962329
+    },
+    {
+      "posicao_2021": 75,
+      "mudanca": "60",
+      "municipio": "Acará",
+      "estado": "Pará",
+      "pib_agropecuario_reais": 904959242
+    },
+    {
+      "posicao_2021": 76,
+      "mudanca": "5",
+      "municipio": "Atalaia",
+      "estado": "Alagoas",
+      "pib_agropecuario_reais": 888066539
+    },
+    {
+      "posicao_2021": 77,
+      "mudanca": "7",
+      "municipio": "Patrocínio",
+      "estado": "Minas Gerais",
+      "pib_agropecuario_reais": 884670000
+    },
+    {
+      "posicao_2021": 78,
+      "mudanca": "33",
+      "municipio": "Vacaria",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 882933948
+    },
+    {
+      "posicao_2021": 79,
+      "mudanca": "35",
+      "municipio": "Pedra Preta",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 882229973
+    },
+    {
+      "posicao_2021": 80,
+      "mudanca": "7",
+      "municipio": "São Félix do Xingu",
+      "estado": "Pará",
+      "pib_agropecuario_reais": 879583556
+    },
+    {
+      "posicao_2021": 81,
+      "mudanca": "4",
+      "municipio": "Nova Andradina",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 879100300
+    },
+    {
+      "posicao_2021": 82,
+      "mudanca": "33",
+      "municipio": "Nova Alvorada do Sul",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 871385834
+    },
+    {
+      "posicao_2021": 83,
+      "mudanca": "6",
+      "municipio": "São José do Rio Claro",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 865853736
+    },
+    {
+      "posicao_2021": 84,
+      "mudanca": "6",
+      "municipio": "Perdizes",
+      "estado": "Minas Gerais",
+      "pib_agropecuario_reais": 864212365
+    },
+    {
+      "posicao_2021": 85,
+      "mudanca": "18",
+      "municipio": "Chapadão do Céu",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 859977412
+    },
+    {
+      "posicao_2021": 86,
+      "mudanca": "50",
+      "municipio": "Toledo",
+      "estado": "Paraná",
+      "pib_agropecuario_reais": 856165724
+    },
+    {
+      "posicao_2021": 87,
+      "mudanca": "5",
+      "municipio": "Santo Antônio do Leste",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 852008107
+    },
+    {
+      "posicao_2021": 88,
+      "mudanca": "13",
+      "municipio": "Ipameri",
+      "estado": "Goiás",
+      "pib_agropecuario_reais": 845635473
+    },
+    {
+      "posicao_2021": 89,
+      "mudanca": "49",
+      "municipio": "Itatiba",
+      "estado": "São Paulo",
+      "pib_agropecuario_reais": 840129835
+    },
+    {
+      "posicao_2021": 90,
+      "mudanca": "86",
+      "municipio": "Teotônio Vilela",
+      "estado": "Alagoas",
+      "pib_agropecuario_reais": 837936166
+    },
+    {
+      "posicao_2021": 91,
+      "mudanca": "14",
+      "municipio": "Água Boa",
+      "estado": "Mato Grosso",
+      "pib_agropecuario_reais": 837748398
+    },
+    {
+      "posicao_2021": 92,
+      "mudanca": "58",
+      "municipio": "Petrolina",
+      "estado": "Pernambuco",
+      "pib_agropecuario_reais": 835938419
+    },
+    {
+      "posicao_2021": 93,
+      "mudanca": "55",
+      "municipio": "Santa Vitória do Palmar",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 822389873
+    },
+    {
+      "posicao_2021": 94,
+      "mudanca": "13",
+      "municipio": "Campo Grande",
+      "estado": "Mato Grosso do Sul",
+      "pib_agropecuario_reais": 817071883
+    },
+    {
+      "posicao_2021": 95,
+      "mudanca": "59",
+      "municipio": "São Borja",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 795875038
+    },
+    {
+      "posicao_2021": 96,
+      "mudanca": "30",
+      "municipio": "Tibagi",
+      "estado": "Paraná",
+      "pib_agropecuario_reais": 788243754
+    },
+    {
+      "posicao_2021": 97,
+      "mudanca": "44",
+      "municipio": "Castro",
+      "estado": "Paraná",
+      "pib_agropecuario_reais": 778116608
+    },
+    {
+      "posicao_2021": 98,
+      "mudanca": "152",
+      "municipio": "Cruz Alta",
+      "estado": "Rio Grande do Sul",
+      "pib_agropecuario_reais": 776889975
+    },
+    {
+      "posicao_2021": 99,
+      "mudanca": "41",
+      "municipio": "Guarapuava",
+      "estado": "Paraná",
+      "pib_agropecuario_reais": 770156840
+    },
+    {
+      "posicao_2021": 100,
+      "mudanca": "44",
+      "municipio": "Santa Maria de Jetibá",
+      "estado": "Espírito Santo",
+      "pib_agropecuario_reais": 763735756
+    }
+  ],
+  "meta": {
+    "title": "Municípios do Brasil com maior PIB agropecuário (2021) - Free Download",
+    "description": "Os 100 municípios brasileiros com maior valor adicionado da agropecuária em 2021 (R$), com estado e mudança de posição. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Municípios do Brasil com maior PIB agropecuário (2021) | ListBase",
+    "seo_description": "Download Municípios do Brasil com maior PIB agropecuário (2021) — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_com_maior_PIB_agropecuário"
+    ]
+  }
+}
