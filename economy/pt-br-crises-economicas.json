@@ -1,0 +1,148 @@
+{
+  "id": "pt-br-crises-economicas",
+  "name": "Crises econômicas no Brasil",
+  "title": "Crises econômicas no Brasil",
+  "description": "Principais crises econômicas da história do Brasil, com descrição, origem (interna ou externa) e chefe de Estado na época.",
+  "category": "economy",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_crises_econômicas_no_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_crises_econômicas_no_Brasil",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "crise",
+      "label": "Crise",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "origem",
+      "label": "Origem",
+      "type": "string"
+    },
+    {
+      "key": "chefe_de_estado",
+      "label": "Chefe De Estado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "crise": "Crise da independência",
+      "descricao": "Crise que atravessou o processo de Independência do Brasil , caracterizada por uma duradoura estagnação das exportações, e que só iria se resolver mais tarde com a ascensão do café como principal produto da economia nacional.",
+      "origem": "Interna",
+      "chefe_de_estado": "Pedro I"
+    },
+    {
+      "crise": "Crise de 1857",
+      "descricao": "A crise de 1857, também chamado de pânico de 57, teve como origem a queda nos preços internacionais das commodities . A crise teve fim em agosto do ano seguinte. No Brasil, os preços do café (principal exportação brasileira à época do ciclo do café ) caíram no mercado internacional. As vendas do produto caíram de 2,0 para 1,8 milhões de sacas no ano seguinte.",
+      "origem": "Externa",
+      "chefe_de_estado": "Pedro II"
+    },
+    {
+      "crise": "Crise de 1864",
+      "descricao": "Ao contrário das crises de 1857 e 1875, esta teve origem interna. Sua causa foi uma política econômica excessivamente recessiva adotada no início da década. Um acontecimento que marca o auge desta crise foi a quebra da Casa Souto , um dos maiores estabelecimentos bancários da época, em setembro desse ano.",
+      "origem": "Interna",
+      "chefe_de_estado": "Pedro II"
+    },
+    {
+      "crise": "Guerra do Paraguai",
+      "descricao": "Iniciada em dezembro de 1864 e terminada em 1870, foi muito custosa ao governo imperial, gerando grande endividamento interno e externo e uma crise econômico-financeira. A guerra gerou dificuldades que se alastrariam pelo resto do reinado de Pedro II e anteciparia o fim da monarquia.",
+      "origem": "Externa",
+      "chefe_de_estado": "Pedro II"
+    },
+    {
+      "crise": "Crise de 1875",
+      "descricao": "Em 1873, estourou uma crise internacional, conhecida como o pânico de 1873 e considerada por muitos historiadores como a mais grave do século XIX. A crise chegou ao Brasil em 1875. O governo retirou 20% do meio circulante do país. Vários bancos faliram. A crise foi ainda agravada pela Grande Seca no nordeste dois anos depois.",
+      "origem": "Externa",
+      "chefe_de_estado": "Pedro II"
+    },
+    {
+      "crise": "Crise do encilhamento",
+      "descricao": "Após a Proclamação da República , Ruy Barbosa , ministro da Fazenda, assinou um decreto, em 1890, que permitia que estabelecimentos bancários emitissem dinheiro. A razão para a medida era que a quantidade de dinheiro no país não era suficiente para atender às necessidades de expansão da agricultura e da indústria, além de haver mais trabalhadores assalariados a serem pagos desde o fim da escravidão. Com a medida, a quantidade de dinheiro no país triplicou de 1889 a 1891. Mas a euforia financeira gerada ultrapassou em muito a capacidade produtiva do país. Como consequência, houve uma grande quantidade de falências e um enorme processo inflacionário.",
+      "origem": "Interna",
+      "chefe_de_estado": "Fonseca , Peixoto"
+    },
+    {
+      "crise": "Grande Depressão",
+      "descricao": "A Grande Depressão de 1929 teve graves impactos na produção de café no Brasil, que era o principal produto exportado. Nessa época, várias toneladas de café foram queimadas para controlar os preços e acabar com os estoques.",
+      "origem": "Externa",
+      "chefe_de_estado": "Luís , Vargas"
+    },
+    {
+      "crise": "Crise econômica no início dos anos 1960",
+      "descricao": "A partir de 1962 , o país enfrentou baixas taxas de crescimento, chegando apenas 0,6% de crescimento em 1963 . De um lado, houve uma queda dos investimentos públicos e privados; de outro lado, a elevação do déficit público, causando a aceleração da inflação, que em 1961 era de 51,6% e passa a 80% em 1962, chegando a 93% em 1963. Tudo isso leva a uma crise no balanço de pagamentos.",
+      "origem": "Interna",
+      "chefe_de_estado": "Goulart , Castelo"
+    },
+    {
+      "crise": "Fim do padrão-ouro",
+      "descricao": "O fim do padrão-ouro em 1971 foi um evento que alterou a geografia econômica e política mundial . A partir desse choque, o Dólar americano seria o lastro de todas as economias mundiais, tornando todas as moedas fiduciárias e de cunho forçado, lastreadas apenas em títulos da dívida americana, deflagrando os choques do petróleo.",
+      "origem": "Externa",
+      "chefe_de_estado": "Médici"
+    },
+    {
+      "crise": "Crises do Petróleo",
+      "descricao": "Os preços do barril de petróleo se elevaram, deflagrando prolongada recessão nos Estados Unidos e na Europa, desestabilizando a economia mundial. No Brasil, a crise marcou o início do fim do \" milagre econômico brasileiro \", ocorrido durante a ditadura militar. A causa dessa crise mundial foi uma reação provocada pelo embargo dos países membros da OPEP ( Organização dos Países Exportadores de Petróleo ) e Golfo Pérsico de distribuição de petróleo para os Estados Unidos e países da Europa. Num contexto de déficit de oferta, com o início do processo de nacionalizações e de uma série de conflitos, como a guerra dos Seis Dias (1967), a guerra do Yom Kipur (1973), a revolução islâmica no Irã (1979) e a guerra Irã-Iraque (a partir de 1980), além de uma excessiva especulação financeira.",
+      "origem": "Externa",
+      "chefe_de_estado": "Médici , Geisel"
+    },
+    {
+      "crise": "Década perdida",
+      "descricao": "A década perdida refere-se aos anos 1980, nos anos finais e depois da ditadura militar . Foi uma época de estagnação do produto interno bruto do Brasil , inflação elevada e crise do endividamento externo.",
+      "origem": "Interna",
+      "chefe_de_estado": "Figueiredo , Sarney , Collor"
+    },
+    {
+      "crise": "Hiperinflação",
+      "descricao": "Surto de inflação nos anos 80 e início dos anos 90.",
+      "origem": "Interna",
+      "chefe_de_estado": "Figueiredo , Sarney , Collor"
+    },
+    {
+      "crise": "Efeito tequila",
+      "descricao": "\"Efeito tequila\" foi como ficaram conhecidas as consequências, no Brasil, da crise econômica do México de 1994 . O México havia novamente decretado moratória da sua dívida. Como consequência, os investidores retiraram suas aplicações não só do México, mas também de outros países da América Latina , entre eles o Brasil. A crise foi superada em poucos meses, após breve recessão.",
+      "origem": "Externa",
+      "chefe_de_estado": "FHC"
+    },
+    {
+      "crise": "Efeito samba",
+      "descricao": "Forte movimento de queda do real em janeiro de 1999 , quando o Banco Central abandonou o regime de bandas cambiais , passando a operar em regime de câmbio flutuante . Esse novo regime fez parte do tripé macroeconômico .",
+      "origem": "Interna",
+      "chefe_de_estado": "FHC"
+    },
+    {
+      "crise": "Crise de 2007–2008",
+      "descricao": "A crise financeira global de 2007–2008 teve início nos Estados Unidos. Os efeitos dessa crise levaram tempo para ser sentidos no Brasil. Contudo, houve uma desaceleração da economia nacional.",
+      "origem": "Externa",
+      "chefe_de_estado": "Lula"
+    },
+    {
+      "crise": "Crise econômica de 2014",
+      "descricao": "Também conhecida como a \"grande recessão brasileira\", foi uma profunda e duradoura crise econômica, sendo caracterizada por recessão por dois anos consecutivos (2015 e 2016) e por sua longa e lenta recuperação, a mais lenta da história do país. Suas causas são a política econômica da presidente Dilma Rousseff, conhecida como a nova matriz econômica ; a desvalorização das commodities em 2014 ; e a crise política no país. Dentre essas três causas, apenas a desvalorização foi um acontecimento externo.",
+      "origem": "Interna",
+      "chefe_de_estado": "Dilma , Temer"
+    },
+    {
+      "crise": "Crise causada pela Pandemia de COVID-19",
+      "descricao": "Em 2020, ainda sob os efeitos da crise de 2014, o país entrou em nova crise devido à pandemia de COVID-19 . Em março, foi prevista pela primeira vez uma retração no PIB do país para o ano devido principalmente à pandemia.",
+      "origem": "Externa",
+      "chefe_de_estado": "Bolsonaro"
+    }
+  ],
+  "meta": {
+    "title": "Crises econômicas no Brasil - Free Download",
+    "description": "Principais crises econômicas da história do Brasil, com descrição, origem (interna ou externa) e chefe de Estado na época. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Crises econômicas no Brasil | ListBase",
+    "seo_description": "Download Crises econômicas no Brasil — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_crises_econômicas_no_Brasil"
+    ]
+  }
+}

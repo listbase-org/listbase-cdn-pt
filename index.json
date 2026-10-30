@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-29T02:20:05.536Z",
-  "total_datasets": 511,
-  "total_records": 741196,
+  "generated": "2026-10-30T02:33:39.869Z",
+  "total_datasets": 512,
+  "total_records": 741213,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -283,6 +283,31 @@
         "xlsx": {
           "name": "pt-premio-camoes_PT.xlsx",
           "size": 8810
+        }
+      }
+    },
+    {
+      "id": "pt-br-crises-economicas",
+      "name": "Crises econômicas no Brasil",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "crise",
+        "descricao",
+        "origem",
+        "chefe_de_estado"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_crises_econômicas_no_Brasil",
+      "updated": "2026-10",
+      "size": 9829,
+      "files": {
+        "csv": {
+          "name": "pt-br-crises-economicas_PT.csv",
+          "size": 6731
+        },
+        "xlsx": {
+          "name": "pt-br-crises-economicas_PT.xlsx",
+          "size": 9945
         }
       }
     },
