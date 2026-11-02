@@ -1,0 +1,826 @@
+{
+  "id": "pt-br-meteoritos",
+  "name": "Meteoritos brasileiros",
+  "title": "Meteoritos brasileiros",
+  "description": "Lista dos meteoritos encontrados no Brasil: nome, achado ou queda, estado (UF), ano em que foi encontrado, tipo, classe e grupo.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_meteoritos_brasileiros",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_meteoritos_brasileiros",
+  "updated": "2026-11",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "achado_ou_queda",
+      "label": "Achado Ou Queda",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "ano_encontrado",
+      "label": "Ano Encontrado",
+      "type": "number"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "classe",
+      "label": "Classe",
+      "type": "string"
+    },
+    {
+      "key": "grupo",
+      "label": "Grupo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Bendegó",
+      "achado_ou_queda": "Achado",
+      "uf": "Bahia",
+      "ano_encontrado": "1784",
+      "tipo": "Siderito",
+      "classe": "Octaedrito grosseiro",
+      "grupo": "IC"
+    },
+    {
+      "nome": "Macau",
+      "achado_ou_queda": "Queda",
+      "uf": "Rio Grande do Norte",
+      "ano_encontrado": "1836",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Angra dos Reis",
+      "achado_ou_queda": "Queda",
+      "uf": "Rio de Janeiro",
+      "ano_encontrado": "1869",
+      "tipo": "Aerólito",
+      "classe": "Acondrito",
+      "grupo": "Angrito"
+    },
+    {
+      "nome": "Santa Bárbara",
+      "achado_ou_queda": "Queda",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "1873",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L4"
+    },
+    {
+      "nome": "Santa Catarina",
+      "achado_ou_queda": "Achado",
+      "uf": "Santa Catarina",
+      "ano_encontrado": "1875",
+      "tipo": "Siderito",
+      "classe": "Ataxito",
+      "grupo": "IAB"
+    },
+    {
+      "nome": "Itapicuru-Mirim",
+      "achado_ou_queda": "Queda",
+      "uf": "Maranhão",
+      "ano_encontrado": "1879",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Minas Gerais",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1888",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L6"
+    },
+    {
+      "nome": "Uberaba",
+      "achado_ou_queda": "Queda",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1903",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Sete Lagoas",
+      "achado_ou_queda": "Queda",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1908",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H4"
+    },
+    {
+      "nome": "Caçapava do Sul",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "1908",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IID"
+    },
+    {
+      "nome": "Cratheús",
+      "achado_ou_queda": "Achado",
+      "uf": "Ceará",
+      "ano_encontrado": "1909",
+      "tipo": "Siderito",
+      "classe": "Octaedrito fino",
+      "grupo": "IVA"
+    },
+    {
+      "nome": "Barbacena",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1918",
+      "tipo": "Siderito",
+      "classe": "Octaedrito plessítico",
+      "grupo": "ANOM"
+    },
+    {
+      "nome": "Piedade do Bagre",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1922",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "ANOM"
+    },
+    {
+      "nome": "Serra de Magé",
+      "achado_ou_queda": "Queda",
+      "uf": "Pernambuco",
+      "ano_encontrado": "1923",
+      "tipo": "Aerólito",
+      "classe": "Acondrito",
+      "grupo": "Eucrito"
+    },
+    {
+      "nome": "Patos de Minas I",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1925",
+      "tipo": "Siderito",
+      "classe": "Hexaedrito",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Patos de Minas II",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1925",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IAB"
+    },
+    {
+      "nome": "Santa Luzia",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "1925",
+      "tipo": "Siderito",
+      "classe": "Octaedrito muito grosseiro",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Morro do Roccio",
+      "achado_ou_queda": "Achado",
+      "uf": "Santa Catarina",
+      "ano_encontrado": "1928",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Pará de Minas",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1934",
+      "tipo": "Siderito",
+      "classe": "Octaedrito fino",
+      "grupo": "IVA"
+    },
+    {
+      "nome": "Rio Negro",
+      "achado_ou_queda": "Queda",
+      "uf": "Paraná",
+      "ano_encontrado": "1934",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L4"
+    },
+    {
+      "nome": "Putinga",
+      "achado_ou_queda": "Queda",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "1937",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L6"
+    },
+    {
+      "nome": "Mafra",
+      "achado_ou_queda": "Queda",
+      "uf": "Santa Catarina",
+      "ano_encontrado": "1941",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L3-L4"
+    },
+    {
+      "nome": "Casimiro de Abreu",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio de Janeiro",
+      "ano_encontrado": "1947",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Itutinga",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1947",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Cratheús II",
+      "achado_ou_queda": "Achado",
+      "uf": "Ceará",
+      "ano_encontrado": "1950",
+      "tipo": "Siderito",
+      "classe": "Octaedro Plessítico",
+      "grupo": "IIC"
+    },
+    {
+      "nome": "Patrimônio",
+      "achado_ou_queda": "Queda",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1950",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L6"
+    },
+    {
+      "nome": "Pirapora",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1950",
+      "tipo": "Siderito",
+      "classe": "Hexaedrito",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Avanhandava",
+      "achado_ou_queda": "Queda",
+      "uf": "São Paulo",
+      "ano_encontrado": "1952",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H4"
+    },
+    {
+      "nome": "Palmas de Monte Alto",
+      "achado_ou_queda": "Achado",
+      "uf": "Bahia",
+      "ano_encontrado": "1954",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Paranaiba",
+      "achado_ou_queda": "Queda",
+      "uf": "Mato Grosso",
+      "ano_encontrado": "1956",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L6"
+    },
+    {
+      "nome": "Cacilandia",
+      "achado_ou_queda": "Achado",
+      "uf": "Mato Grosso do Sul",
+      "ano_encontrado": "1956",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H6"
+    },
+    {
+      "nome": "Ibitira",
+      "achado_ou_queda": "Queda",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1957",
+      "tipo": "Aerólito",
+      "classe": "Eucrito",
+      "grupo": "HED"
+    },
+    {
+      "nome": "Governador Valadares",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1958",
+      "tipo": "Aerólito",
+      "classe": "Nakhlito",
+      "grupo": "SNC"
+    },
+    {
+      "nome": "São João Nepomuceno",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1960",
+      "tipo": "Siderito",
+      "classe": "Octaedrito fino",
+      "grupo": "IVA"
+    },
+    {
+      "nome": "Ubá",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1960",
+      "tipo": "Aerólito",
+      "classe": "Condrito comum",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Bocaiúva",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1961",
+      "tipo": "Siderito",
+      "classe": "Octaedrito fino",
+      "grupo": "ANOM"
+    },
+    {
+      "nome": "São José Rio Preto",
+      "achado_ou_queda": "Queda",
+      "uf": "São Paulo",
+      "ano_encontrado": "1962",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H4"
+    },
+    {
+      "nome": "Parambú",
+      "achado_ou_queda": "Queda",
+      "uf": "Ceará",
+      "ano_encontrado": "1964",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "LL5"
+    },
+    {
+      "nome": "Veríssimo",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "1965",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Conquista",
+      "achado_ou_queda": "Queda",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1965",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H4"
+    },
+    {
+      "nome": "Nova Petrópolis",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "1967",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Buritizal",
+      "achado_ou_queda": "Queda",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "1967",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "LL3.2"
+    },
+    {
+      "nome": "Marília",
+      "achado_ou_queda": "Queda",
+      "uf": "São Paulo",
+      "ano_encontrado": "1971",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H4"
+    },
+    {
+      "nome": "Sanclerlândia",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "1971",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Ipiranga",
+      "achado_ou_queda": "Queda",
+      "uf": "Paraná",
+      "ano_encontrado": "1972",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H6"
+    },
+    {
+      "nome": "Balsas",
+      "achado_ou_queda": "Achado",
+      "uf": "Maranhão",
+      "ano_encontrado": "1974",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Iguaraçu",
+      "achado_ou_queda": "Queda",
+      "uf": "Paraná",
+      "ano_encontrado": "1977",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Itapuranga",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "1977",
+      "tipo": "Siderito",
+      "classe": "Octaedrito grosseiro",
+      "grupo": "IAB"
+    },
+    {
+      "nome": "Paracutu",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1980",
+      "tipo": "Siderito",
+      "classe": "Octedrito grosseiro",
+      "grupo": "IAB"
+    },
+    {
+      "nome": "Quijingue",
+      "achado_ou_queda": "Achado",
+      "uf": "Bahia",
+      "ano_encontrado": "1980",
+      "tipo": "Siderolito",
+      "classe": "Palasito",
+      "grupo": "PAL"
+    },
+    {
+      "nome": "Soledade",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "1982",
+      "tipo": "Siderito",
+      "classe": "Octaedrito grosseiro",
+      "grupo": "IAB"
+    },
+    {
+      "nome": "Maria da Fé",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1982",
+      "tipo": "Siderito",
+      "classe": "Octaedrito fino",
+      "grupo": "IVA"
+    },
+    {
+      "nome": "Lavras do Sul",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "1985",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L5"
+    },
+    {
+      "nome": "Blumenau",
+      "achado_ou_queda": "Achado",
+      "uf": "Santa Catarina",
+      "ano_encontrado": "1986",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IVA"
+    },
+    {
+      "nome": "Uruaçu",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "1986",
+      "tipo": "Siderito",
+      "classe": "Octaedrito grosseiro",
+      "grupo": "IAB"
+    },
+    {
+      "nome": "Indianópolis",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "1989",
+      "tipo": "Siderito",
+      "classe": "Octaedrito muito grosseiro",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Ipitinga",
+      "achado_ou_queda": "Achado",
+      "uf": "Pará",
+      "ano_encontrado": "1989",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Rio do Pires",
+      "achado_ou_queda": "Achado",
+      "uf": "Bahia",
+      "ano_encontrado": "1991",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L6"
+    },
+    {
+      "nome": "Campos Sales",
+      "achado_ou_queda": "Queda",
+      "uf": "Ceará",
+      "ano_encontrado": "1991",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L5"
+    },
+    {
+      "nome": "Campinorte",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "1992",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "UNGR"
+    },
+    {
+      "nome": "Minas Gerais II",
+      "achado_ou_queda": "Achado",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "2001",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H4"
+    },
+    {
+      "nome": "Santa Vitória do Palmar",
+      "achado_ou_queda": "Queda",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "2003",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L34"
+    },
+    {
+      "nome": "Hermenegildo",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "2004",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Porto Alegre",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "2005",
+      "tipo": "Siderito",
+      "classe": "Octaedrito médio",
+      "grupo": "IIIE"
+    },
+    {
+      "nome": "Vitória da Conquista",
+      "achado_ou_queda": "Achado",
+      "uf": "Bahia",
+      "ano_encontrado": "2007",
+      "tipo": "Siderito",
+      "classe": "Octaedrito fino",
+      "grupo": "IVA"
+    },
+    {
+      "nome": "Cruz Alta",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "2008",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Varre-sai",
+      "achado_ou_queda": "Queda",
+      "uf": "Rio de Janeiro",
+      "ano_encontrado": "2010",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L5"
+    },
+    {
+      "nome": "Sapopema",
+      "achado_ou_queda": "Achado",
+      "uf": "Paraná",
+      "ano_encontrado": "2010",
+      "tipo": "Siderito",
+      "classe": "-",
+      "grupo": "IVA"
+    },
+    {
+      "nome": "Faina",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "2011",
+      "tipo": "Siderito",
+      "classe": "Octaedrito",
+      "grupo": "IAB complexo"
+    },
+    {
+      "nome": "Santo Antônio do Descoberto",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "2011",
+      "tipo": "Siderito",
+      "classe": "Hexaedrito",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Vicência",
+      "achado_ou_queda": "Queda",
+      "uf": "Pernambuco",
+      "ano_encontrado": "2013",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "LL3.2"
+    },
+    {
+      "nome": "Pontes e Lacerda",
+      "achado_ou_queda": "Achado",
+      "uf": "Mato Grosso",
+      "ano_encontrado": "2013",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Parauapebas",
+      "achado_ou_queda": "Queda",
+      "uf": "Pará",
+      "ano_encontrado": "2013",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H4-5"
+    },
+    {
+      "nome": "Nova Olinda",
+      "achado_ou_queda": "Achado",
+      "uf": "Paraíba",
+      "ano_encontrado": "2014",
+      "tipo": "Siderito",
+      "classe": "Octaedrito",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Arraias",
+      "achado_ou_queda": "Achado",
+      "uf": "Tocantins",
+      "ano_encontrado": "2015",
+      "tipo": "Siderito",
+      "classe": "Hexaedrito",
+      "grupo": "IIAB"
+    },
+    {
+      "nome": "Porangaba",
+      "achado_ou_queda": "Queda",
+      "uf": "São Paulo",
+      "ano_encontrado": "2015",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L4"
+    },
+    {
+      "nome": "Nossa Senhora do Livramento",
+      "achado_ou_queda": "Achado",
+      "uf": "Mato Grosso",
+      "ano_encontrado": "2016",
+      "tipo": "Siderito",
+      "classe": "Octaedrito",
+      "grupo": "IIIAB"
+    },
+    {
+      "nome": "Três Irmãos",
+      "achado_ou_queda": "Queda",
+      "uf": "Bahia",
+      "ano_encontrado": "2017",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L6"
+    },
+    {
+      "nome": "Serra Pelada",
+      "achado_ou_queda": "Queda",
+      "uf": "Pará",
+      "ano_encontrado": "2017",
+      "tipo": "Aerólito",
+      "classe": "Acondrito",
+      "grupo": "Eucrito"
+    },
+    {
+      "nome": "Montes Claros de Goiás",
+      "achado_ou_queda": "Achado",
+      "uf": "Goiás",
+      "ano_encontrado": "2018",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5"
+    },
+    {
+      "nome": "Capão do Leão",
+      "achado_ou_queda": "Achado",
+      "uf": "Rio Grande do Sul",
+      "ano_encontrado": "2019",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "L5"
+    },
+    {
+      "nome": "Socorro",
+      "achado_ou_queda": "Achado",
+      "uf": "Pernambuco",
+      "ano_encontrado": "2019",
+      "tipo": "Aerólito",
+      "classe": "Marciano (shergottita)",
+      "grupo": "SNC"
+    },
+    {
+      "nome": "Santa Filomena",
+      "achado_ou_queda": "Queda",
+      "uf": "Pernambuco",
+      "ano_encontrado": "2020",
+      "tipo": "Aerólito",
+      "classe": "Condrito ordinário",
+      "grupo": "H5-6"
+    },
+    {
+      "nome": "Tiros",
+      "achado_ou_queda": "Queda",
+      "uf": "Minas Gerais",
+      "ano_encontrado": "2020",
+      "tipo": "Aerólito",
+      "classe": "Acondrito",
+      "grupo": "Eucrito-cm"
+    },
+    {
+      "nome": "Conceição do Tocantins",
+      "achado_ou_queda": "Queda",
+      "uf": "Tocantins",
+      "ano_encontrado": "2020",
+      "tipo": "Siderito",
+      "classe": "Hexaedrito",
+      "grupo": "IIAB"
+    }
+  ],
+  "meta": {
+    "title": "Meteoritos brasileiros - Free Download",
+    "description": "Lista dos meteoritos encontrados no Brasil: nome, achado ou queda, estado (UF), ano em que foi encontrado, tipo, classe e grupo. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Meteoritos brasileiros | ListBase",
+    "seo_description": "Download Meteoritos brasileiros — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_meteoritos_brasileiros"
+    ]
+  }
+}

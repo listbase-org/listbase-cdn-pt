@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-10-30T02:34:26.775Z",
-  "total_datasets": 518,
-  "total_records": 741795,
+  "generated": "2026-11-02T02:30:11.098Z",
+  "total_datasets": 519,
+  "total_records": 741880,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -14697,6 +14697,34 @@
         "xlsx": {
           "name": "pt-br-dinossauros_PT.xlsx",
           "size": 12733
+        }
+      }
+    },
+    {
+      "id": "pt-br-meteoritos",
+      "name": "Meteoritos brasileiros",
+      "category": "science",
+      "record_count": 85,
+      "columns": [
+        "nome",
+        "achado_ou_queda",
+        "uf",
+        "ano_encontrado",
+        "tipo",
+        "classe",
+        "grupo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_meteoritos_brasileiros",
+      "updated": "2026-11",
+      "size": 20569,
+      "files": {
+        "csv": {
+          "name": "pt-br-meteoritos_PT.csv",
+          "size": 7034
+        },
+        "xlsx": {
+          "name": "pt-br-meteoritos_PT.xlsx",
+          "size": 10636
         }
       }
     },
