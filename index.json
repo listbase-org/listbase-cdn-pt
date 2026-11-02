@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-02T02:30:19.891Z",
-  "total_datasets": 520,
-  "total_records": 741891,
+  "generated": "2026-11-02T02:30:26.872Z",
+  "total_datasets": 521,
+  "total_records": 741983,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -15038,6 +15038,36 @@
         "xlsx": {
           "name": "pt-canais-tv-desporto_PT.xlsx",
           "size": 7848
+        }
+      }
+    },
+    {
+      "id": "pt-primeira-liga-campeoes",
+      "name": "Campeões da Primeira Liga portuguesa",
+      "category": "sports",
+      "record_count": 92,
+      "columns": [
+        "epoca",
+        "campeao",
+        "pontos_campeao",
+        "segundo",
+        "pontos_segundo",
+        "terceiro",
+        "pontos_terceiro",
+        "clubes",
+        "jornadas"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Primeira_Liga",
+      "updated": "2026-11",
+      "size": 25567,
+      "files": {
+        "csv": {
+          "name": "pt-primeira-liga-campeoes_PT.csv",
+          "size": 6560
+        },
+        "xlsx": {
+          "name": "pt-primeira-liga-campeoes_PT.xlsx",
+          "size": 10954
         }
       }
     },
