@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-02T02:30:26.872Z",
-  "total_datasets": 521,
-  "total_records": 741983,
+  "generated": "2026-11-02T02:30:34.730Z",
+  "total_datasets": 522,
+  "total_records": 742028,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -1561,6 +1561,34 @@
         "xlsx": {
           "name": "pt-centrais-eletricas-portugal_PT.xlsx",
           "size": 55418
+        }
+      }
+    },
+    {
+      "id": "pt-sismos-portugal",
+      "name": "Sismos em Portugal",
+      "category": "environment",
+      "record_count": 45,
+      "columns": [
+        "sismo",
+        "data",
+        "local",
+        "hora_local",
+        "magnitude_ml",
+        "mortos_e_feridos",
+        "notas"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_sismos_em_Portugal",
+      "updated": "2026-11",
+      "size": 13187,
+      "files": {
+        "csv": {
+          "name": "pt-sismos-portugal_PT.csv",
+          "size": 4922
+        },
+        "xlsx": {
+          "name": "pt-sismos-portugal_PT.xlsx",
+          "size": 9328
         }
       }
     },

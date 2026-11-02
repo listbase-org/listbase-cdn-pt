@@ -1,0 +1,466 @@
+{
+  "id": "pt-sismos-portugal",
+  "name": "Sismos em Portugal",
+  "title": "Sismos em Portugal",
+  "description": "Lista histórica dos sismos registados em Portugal desde 63 a.C.: data, local, hora, magnitude e número de mortos e feridos.",
+  "category": "environment",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_sismos_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_sismos_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "sismo",
+      "label": "Sismo",
+      "type": "string"
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "local",
+      "label": "Local",
+      "type": "string"
+    },
+    {
+      "key": "hora_local",
+      "label": "Hora Local",
+      "type": "string"
+    },
+    {
+      "key": "magnitude_ml",
+      "label": "Magnitude Ml",
+      "type": "string"
+    },
+    {
+      "key": "mortos_e_feridos",
+      "label": "Mortos E Feridos",
+      "type": "string"
+    },
+    {
+      "key": "notas",
+      "label": "Notas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sismo": "Sismo de Portugal de 63 a.C.",
+      "data": "63 a.C. (2 088 anos)",
+      "local": "Sem dados.",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 60 a.C.",
+      "data": "60 a.C. (2 085 anos)",
+      "local": "Sem dados.",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 382",
+      "data": "382 (1 644 anos)",
+      "local": "Sem dados.",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 1033",
+      "data": "1033 (993 anos)",
+      "local": "Sem dados.",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1321",
+      "data": "1321 (705 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1337",
+      "data": "1337 (689 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1344",
+      "data": "1344 (682 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1347",
+      "data": "1347 (679 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1356",
+      "data": "1356 (670 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "8,5",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1512",
+      "data": "1512 (514 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo da Batalha de 1528",
+      "data": "1528 (498 anos)",
+      "local": "Batalha, Alcobaça",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1531",
+      "data": "26 de janeiro de 1531 (495 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "7,0 - 7,5",
+      "mortos_e_feridos": "30000 mortos. (em Lisboa)",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo do Algarve de 1587",
+      "data": "1587 (439 anos)",
+      "local": "Loulé",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1597",
+      "data": "1597 (429 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo do Algarve de 1719",
+      "data": "6 de março de 1719 (307 anos)",
+      "local": "Portimão",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "~7",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo do Algarve de 1721",
+      "data": "1721 (305 anos)",
+      "local": "Algarve",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo do Algarve de 1722",
+      "data": "27 de dezembro de 1722 (303 anos)",
+      "local": "Loulé, Tavira",
+      "hora_local": "17:30",
+      "magnitude_ml": "~7",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1724",
+      "data": "12 de outubro de 1724 (302 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1750",
+      "data": "1750 (276 anos)",
+      "local": "Lisboa",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo da Torre de Moncorvo de 1751",
+      "data": "1751 (275 anos)",
+      "local": "Torre de Moncorvo",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "4",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1755",
+      "data": "1 de novembro de 1755 (271 anos)",
+      "local": "Lisboa, Setúbal, Algarve, Marrocos",
+      "hora_local": "09:30",
+      "magnitude_ml": "8,7 - 9",
+      "mortos_e_feridos": "Entre 10000 e 90000 mortos. (em Lisboa)",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo dos Açores de 1757",
+      "data": "9 de julho de 1757 (269 anos)",
+      "local": "São Jorge, Açores",
+      "hora_local": "02:45",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "1500 pessoas. (Estimativa)",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Braga de 1760",
+      "data": "14 de dezembro de 1760 (265 anos)",
+      "local": "Braga",
+      "hora_local": "20:00",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Lisboa de 1761",
+      "data": "31 de janeiro de 1761 (265 anos)",
+      "local": "Lisboa",
+      "hora_local": "12:00",
+      "magnitude_ml": "8",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 1769",
+      "data": "1769 (257 anos)",
+      "local": "Sem dados.",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "6,5 - 7,3",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo da Terceira de 1801",
+      "data": "26 de janeiro de 1801 (225 anos)",
+      "local": "Terceira, Açores",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo do Algarve de 1856",
+      "data": "12 de janeiro de 1856 (170 anos)",
+      "local": "Loulé, Tavira, Faro",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 1858",
+      "data": "19 de março de 1858 (168 anos)",
+      "local": "Setúbal, Torre de Moncorvo",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "4.3",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Setúbal de 1858 (novembro)",
+      "data": "11 de novembro de 1858 (167 anos)",
+      "local": "Setúbal",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "7,1",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo da Batalha de 1890",
+      "data": "1890 (136 anos)",
+      "local": "Batalha, Alcobaça",
+      "hora_local": "Sem dados.",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "Sem dados.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Benavente de 1909",
+      "data": "23 de abril de 1909 (117 anos)",
+      "local": "Benavente, Salvaterra de Magos",
+      "hora_local": "17:40",
+      "magnitude_ml": "6,0",
+      "mortos_e_feridos": "42 mortos. (75 feridos)",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo da Horta de 1926",
+      "data": "31 de agosto de 1926 (100 anos)",
+      "local": "Horta, Açores",
+      "hora_local": "08:42",
+      "magnitude_ml": "Sem dados.",
+      "mortos_e_feridos": "9 mortos.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 1962",
+      "data": "26 de dezembro de 1962 (63 anos)",
+      "local": "Sem dados.",
+      "hora_local": "08:58",
+      "magnitude_ml": "5,7",
+      "mortos_e_feridos": "Não. (1 ferido)",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 1969",
+      "data": "28 de fevereiro de 1969 (57 anos)",
+      "local": "Lisboa, Algarve, Marrocos",
+      "hora_local": "02:40",
+      "magnitude_ml": "7,9",
+      "mortos_e_feridos": "13 mortos.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo dos Açores de 1980",
+      "data": "1 de janeiro de 1980 (46 anos)",
+      "local": "Açores",
+      "hora_local": "16:42",
+      "magnitude_ml": "6,9",
+      "mortos_e_feridos": "73 mortos. (400 feridos)",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo dos Açores de 1998",
+      "data": "9 de julho de 1998 (28 anos)",
+      "local": "Açores",
+      "hora_local": "05:19",
+      "magnitude_ml": "5,9",
+      "mortos_e_feridos": "8 mortos.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Arraiolos de 1998",
+      "data": "31 de julho de 1998 (28 anos)",
+      "local": "Arraiolos",
+      "hora_local": "10:27",
+      "magnitude_ml": "4,1",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo da Península Ibérica de 2007",
+      "data": "12 de fevereiro de 2007 (19 anos)",
+      "local": "Algarve",
+      "hora_local": "10:35",
+      "magnitude_ml": "5.8",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 2009",
+      "data": "17 de dezembro de 2009 (16 anos)",
+      "local": "Algarve",
+      "hora_local": "01:37",
+      "magnitude_ml": "6,0",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Sobral de Monte Agraço de 2017",
+      "data": "17 de agosto de 2017 (9 anos)",
+      "local": "Sobral de Monte Agraço",
+      "hora_local": "07:44",
+      "magnitude_ml": "4,3",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Arraiolos de 2018",
+      "data": "15 de janeiro de 2018 (8 anos)",
+      "local": "Arraiolos",
+      "hora_local": "11:51",
+      "magnitude_ml": "4,9",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo da Madeira de 2020",
+      "data": "7 de março de 2020 (6 anos)",
+      "local": "Madeira",
+      "hora_local": "20:58",
+      "magnitude_ml": "5,2",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo de Portugal de 2024",
+      "data": "26 de agosto de 2024 (1 ano)",
+      "local": "Sines",
+      "hora_local": "05:11",
+      "magnitude_ml": "5,3",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismo na Grande Lisboa 2025",
+      "data": "17 de fevereiro de 2025 (1 ano)",
+      "local": "Lisboa",
+      "hora_local": "13:24",
+      "magnitude_ml": "4,7",
+      "mortos_e_feridos": "Nenhum Ferido",
+      "notas": ""
+    },
+    {
+      "sismo": "Sismos em Alenquer, Lisboa",
+      "data": "19 de fevereiro de 2026",
+      "local": "Lisboa",
+      "hora_local": "12:14",
+      "magnitude_ml": "4,1",
+      "mortos_e_feridos": "Não.",
+      "notas": ""
+    }
+  ],
+  "meta": {
+    "title": "Sismos em Portugal - Free Download",
+    "description": "Lista histórica dos sismos registados em Portugal desde 63 a.C.: data, local, hora, magnitude e número de mortos e feridos. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sismos em Portugal | ListBase",
+    "seo_description": "Download Sismos em Portugal — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_sismos_em_Portugal"
+    ]
+  }
+}
