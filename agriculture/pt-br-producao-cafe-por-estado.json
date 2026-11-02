@@ -1,0 +1,96 @@
+{
+  "id": "pt-br-producao-cafe-por-estado",
+  "name": "Produção de café no Brasil por estado (2001–2018)",
+  "title": "Produção de café no Brasil por estado (2001–2018)",
+  "description": "Produção acumulada de café por estado brasileiro entre 2001 e 2018, em mil sacas, e percentual da produção nacional.",
+  "category": "agriculture",
+  "source": "https://pt.wikipedia.org/wiki/Produção_de_café_no_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Produção_de_café_no_Brasil",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "producao_acumulada_mil_sacas_2001_2018",
+      "label": "Producao Acumulada Mil Sacas 2001 2018",
+      "type": "number"
+    },
+    {
+      "key": "percentual_producao_nacional",
+      "label": "Percentual Producao Nacional",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "estado": "MG",
+      "producao_acumulada_mil_sacas_2001_2018": 403213.8,
+      "percentual_producao_nacional": 51.5
+    },
+    {
+      "estado": "ES",
+      "producao_acumulada_mil_sacas_2001_2018": 179096.1,
+      "percentual_producao_nacional": 22.9
+    },
+    {
+      "estado": "SP",
+      "producao_acumulada_mil_sacas_2001_2018": 78706,
+      "percentual_producao_nacional": 10.1
+    },
+    {
+      "estado": "BA",
+      "producao_acumulada_mil_sacas_2001_2018": 42222.6,
+      "percentual_producao_nacional": 5.4
+    },
+    {
+      "estado": "RO",
+      "producao_acumulada_mil_sacas_2001_2018": 31475.9,
+      "percentual_producao_nacional": 4
+    },
+    {
+      "estado": "PR",
+      "producao_acumulada_mil_sacas_2001_2018": 29327.6,
+      "percentual_producao_nacional": 3.7
+    },
+    {
+      "estado": "RJ",
+      "producao_acumulada_mil_sacas_2001_2018": 4877.4,
+      "percentual_producao_nacional": 0.6
+    },
+    {
+      "estado": "MT",
+      "producao_acumulada_mil_sacas_2001_2018": 3823.3,
+      "percentual_producao_nacional": 0.5
+    },
+    {
+      "estado": "PA",
+      "producao_acumulada_mil_sacas_2001_2018": 3139.1,
+      "percentual_producao_nacional": 0.4
+    },
+    {
+      "estado": "GO",
+      "producao_acumulada_mil_sacas_2001_2018": 1588.1,
+      "percentual_producao_nacional": 0.2
+    },
+    {
+      "estado": "Demais Estados",
+      "producao_acumulada_mil_sacas_2001_2018": 5508.1,
+      "percentual_producao_nacional": 0.7
+    }
+  ],
+  "meta": {
+    "title": "Produção de café no Brasil por estado (2001–2018) - Free Download",
+    "description": "Produção acumulada de café por estado brasileiro entre 2001 e 2018, em mil sacas, e percentual da produção nacional. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produção de café no Brasil por estado (2001–2018) | ListBase",
+    "seo_description": "Download Produção de café no Brasil por estado (2001–2018) — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Produção_de_café_no_Brasil"
+    ]
+  }
+}

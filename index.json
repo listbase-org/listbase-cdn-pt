@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-11-02T02:30:11.098Z",
-  "total_datasets": 519,
-  "total_records": 741880,
+  "generated": "2026-11-02T02:30:19.891Z",
+  "total_datasets": 520,
+  "total_records": 741891,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -125,6 +125,30 @@
         "xlsx": {
           "name": "pt-br-municipios-maior-pib-agropecuario_PT.xlsx",
           "size": 10930
+        }
+      }
+    },
+    {
+      "id": "pt-br-producao-cafe-por-estado",
+      "name": "Produção de café no Brasil por estado (2001–2018)",
+      "category": "agriculture",
+      "record_count": 11,
+      "columns": [
+        "estado",
+        "producao_acumulada_mil_sacas_2001_2018",
+        "percentual_producao_nacional"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Produção_de_café_no_Brasil",
+      "updated": "2026-11",
+      "size": 3189,
+      "files": {
+        "csv": {
+          "name": "pt-br-producao-cafe-por-estado_PT.csv",
+          "size": 322
+        },
+        "xlsx": {
+          "name": "pt-br-producao-cafe-por-estado_PT.xlsx",
+          "size": 7022
         }
       }
     },
