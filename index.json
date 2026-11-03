@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-03T02:31:39.832Z",
-  "total_datasets": 525,
-  "total_records": 742339,
+  "generated": "2026-11-03T02:31:46.643Z",
+  "total_datasets": 526,
+  "total_records": 742409,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -1937,6 +1937,32 @@
         "xlsx": {
           "name": "pt-restaurantes-michelin-portugal_PT.xlsx",
           "size": 100058
+        }
+      }
+    },
+    {
+      "id": "pt-sete-maravilhas-gastronomia",
+      "name": "7 Maravilhas da Gastronomia de Portugal — candidatos e vencedores",
+      "category": "food",
+      "record_count": 70,
+      "columns": [
+        "categoria",
+        "prato",
+        "certificacao",
+        "regiao",
+        "resultado"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Sete_maravilhas_da_gastronomia",
+      "updated": "2026-11",
+      "size": 13611,
+      "files": {
+        "csv": {
+          "name": "pt-sete-maravilhas-gastronomia_PT.csv",
+          "size": 4189
+        },
+        "xlsx": {
+          "name": "pt-sete-maravilhas-gastronomia_PT.xlsx",
+          "size": 9193
         }
       }
     },

@@ -1,0 +1,541 @@
+{
+  "id": "pt-sete-maravilhas-gastronomia",
+  "name": "7 Maravilhas da Gastronomia de Portugal — candidatos e vencedores",
+  "title": "7 Maravilhas da Gastronomia de Portugal — candidatos e vencedores",
+  "description": "Pratos tradicionais portugueses candidatos ao concurso 7 Maravilhas da Gastronomia (2011), por categoria, com região, certificação de origem e resultado.",
+  "category": "food",
+  "source": "https://pt.wikipedia.org/wiki/Sete_maravilhas_da_gastronomia",
+  "source_url": "https://pt.wikipedia.org/wiki/Sete_maravilhas_da_gastronomia",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "prato",
+      "label": "Prato",
+      "type": "string"
+    },
+    {
+      "key": "certificacao",
+      "label": "Certificacao",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "resultado",
+      "label": "Resultado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "categoria": "Entradas",
+      "prato": "Alheira de Mirandela",
+      "certificacao": "IG",
+      "regiao": "Trás-os-Montes e Alto Douro",
+      "resultado": "Vencedor"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Bôla de Lamego",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Bolo do Caco",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Espargos com ovos",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Lapas da Madeira",
+      "certificacao": "",
+      "regiao": "Madeira",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Muxama de atum",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Pastel de bacalhau",
+      "certificacao": "",
+      "regiao": "Região de Lisboa",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Pezinhos de Coentrada",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Presunto de Barrancos",
+      "certificacao": "DOP",
+      "regiao": "Alentejo",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Entradas",
+      "prato": "Queijo Serra da Estrela",
+      "certificacao": "DOP",
+      "regiao": "Beiras",
+      "resultado": "Vencedor"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Açorda à Alentejana",
+      "certificacao": "",
+      "regiao": "Alentejo",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Caldo verde",
+      "certificacao": "",
+      "regiao": "Entre Douro e Minho",
+      "resultado": "Vencedor"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Caldo de cascas",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Canja de Borrego",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Caspacho com carapaus fritos",
+      "certificacao": "",
+      "regiao": "Alentejo e Algarve",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Sopa da pedra",
+      "certificacao": "",
+      "regiao": "Lisboa e Vale do Tejo",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Sopa de cação",
+      "certificacao": "",
+      "regiao": "Alentejo",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Sopa de castanhas",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Sopa de peixe da Figueira",
+      "certificacao": "",
+      "regiao": "Beira Litoral",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Sopa",
+      "prato": "Sopas do Espírito Santo",
+      "certificacao": "",
+      "regiao": "Açores",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Açorda de bacalhau",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Açorda de sável",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Arroz de lampreia",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Arroz de Lingueirão",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Bacalhau à Braz",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Bacalhau à Gomes de Sá",
+      "certificacao": "",
+      "regiao": "Entre Douro e Minho",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Bacalhau à Zé do Pipo",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Bife de atum à Madeirense",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Polvo assado no forno",
+      "certificacao": "",
+      "regiao": "Açores",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Peixe",
+      "prato": "Sardinha assada",
+      "certificacao": "",
+      "regiao": "Região de Lisboa",
+      "resultado": "Vencedor"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Amêijoas à Bulhão Pato",
+      "certificacao": "",
+      "regiao": "Região de Lisboa",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Arroz de marisco",
+      "certificacao": "",
+      "regiao": "Lisboa e Vale do Tejo",
+      "resultado": "Vencedor"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Camarão da Costa da Figueira",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Cavaco cozido com molho verde",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Cracas cozidas",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Lapas grelhadas dos Açores",
+      "certificacao": "",
+      "regiao": "Açores",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Mariscada de Sesimbra",
+      "certificacao": "",
+      "regiao": "Região de Lisboa",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Ostras do Sado",
+      "certificacao": "",
+      "regiao": "Região de Lisboa",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Percebes de Aljezur",
+      "certificacao": "",
+      "regiao": "Algarve",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Marisco",
+      "prato": "Xarém com conquilhas",
+      "certificacao": "",
+      "regiao": "Algarve",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Alcatra da Ilha Terceira",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Alheira de Mirandela com grelos salteados",
+      "certificacao": "IG",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Chanfana",
+      "certificacao": "",
+      "regiao": "Beira Litoral",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Cozido à portuguesa",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Cozido das Furnas",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Espetada de carne de vaca em espeto de pau de louro",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Leitão da Bairrada",
+      "certificacao": "",
+      "regiao": "Beira Litoral",
+      "resultado": "Vencedor"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Migas alentejanas",
+      "certificacao": "",
+      "regiao": "Alentejo",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Posta mirandesa",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Carne",
+      "prato": "Tripas à moda do Porto",
+      "certificacao": "",
+      "regiao": "Entre Douro e Minho",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Arroz de pombo bravo com hortelã",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Coelho à Caçador",
+      "certificacao": "",
+      "regiao": "Beira Litoral",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Coelho do Porto Santo à Caçador",
+      "certificacao": "",
+      "regiao": "Madeira",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Empada de coelho bravo com arroz de pinhão e passas",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Feijoada de javali",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Javali no pote com castanhas",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Perdiz à Algarvia",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Perdiz à Caçador",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Perdiz de escabeche",
+      "certificacao": "",
+      "regiao": "Beira Interior",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Caça",
+      "prato": "Tordos fritos ou fritada dos passarinheiros",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Ananás dos Açores",
+      "certificacao": "DOP",
+      "regiao": "Açores",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Bolo de mel",
+      "certificacao": "",
+      "regiao": "Madeira",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Dom Rodrigo",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Encharcada do Convento de Santa Clara",
+      "certificacao": "",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Ovos moles de Aveiro",
+      "certificacao": "IGP",
+      "regiao": "",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Pão de rala",
+      "certificacao": "",
+      "regiao": "Alentejo",
+      "resultado": "Concorrente"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Pastel de Belém",
+      "certificacao": "",
+      "regiao": "Lisboa e Setúbal",
+      "resultado": "Vencedor"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Pastéis de Tentúgal",
+      "certificacao": "IG",
+      "regiao": "Beira Litoral",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Pudim Abade de Priscos",
+      "certificacao": "",
+      "regiao": "Entre Douro e Minho",
+      "resultado": "Finalista"
+    },
+    {
+      "categoria": "Doces",
+      "prato": "Sericaia ou Cericaia ou Sericá",
+      "certificacao": "",
+      "regiao": "Alentejo",
+      "resultado": "Concorrente"
+    }
+  ],
+  "meta": {
+    "title": "7 Maravilhas da Gastronomia de Portugal — candidatos e vencedores - Free Download",
+    "description": "Pratos tradicionais portugueses candidatos ao concurso 7 Maravilhas da Gastronomia (2011), por categoria, com região, certificação de origem e resultado. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "7 Maravilhas da Gastronomia de Portugal — candidatos e vencedores | ListBase",
+    "seo_description": "Download 7 Maravilhas da Gastronomia de Portugal — candidatos e vencedores — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Sete_maravilhas_da_gastronomia"
+    ]
+  }
+}
