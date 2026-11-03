@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-03T02:31:24.157Z",
-  "total_datasets": 523,
-  "total_records": 742237,
+  "generated": "2026-11-03T02:31:31.318Z",
+  "total_datasets": 524,
+  "total_records": 742283,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -18203,6 +18203,33 @@
         "xlsx": {
           "name": "pt-aldeias-historicas_PT.xlsx",
           "size": 7031
+        }
+      }
+    },
+    {
+      "id": "pt-br-patrimonio-mundial",
+      "name": "Patrimônio Mundial da UNESCO no Brasil",
+      "category": "tourism",
+      "record_count": 46,
+      "columns": [
+        "sitio",
+        "tipo",
+        "ano_inscricao",
+        "localizacao",
+        "descricao",
+        "lista"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_do_Patrimônio_Mundial_no_Brasil",
+      "updated": "2026-11",
+      "size": 34730,
+      "files": {
+        "csv": {
+          "name": "pt-br-patrimonio-mundial_PT.csv",
+          "size": 27252
+        },
+        "xlsx": {
+          "name": "pt-br-patrimonio-mundial_PT.xlsx",
+          "size": 18275
         }
       }
     },
