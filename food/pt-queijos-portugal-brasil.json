@@ -1,0 +1,321 @@
+{
+  "id": "pt-queijos-portugal-brasil",
+  "name": "Queijos de Portugal e do Brasil",
+  "title": "Queijos de Portugal e do Brasil",
+  "description": "Queijos tradicionais de Portugal e do Brasil, com indicação de Denominação de Origem Protegida (DOP) ou Indicação Geográfica Protegida (IGP) quando aplicável.",
+  "category": "food",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_queijos",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_queijos",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "queijo",
+      "label": "Queijo",
+      "type": "string"
+    },
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "certificacao",
+      "label": "Certificacao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "queijo": "Queijo amarelo da Beira Baixa",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo Castelões",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo curado de ovelha",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo de Azeitão",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo de cabra transmontano",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo de cabra",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo de Castelo Branco",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo de Évora",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo de Idanha",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo de Nisa",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo de Santarém",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo de Tomar",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo do Pico",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo dos Envendos",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo Duprado",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo fresco",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo mestiço de Tolosa",
+      "pais": "Portugal",
+      "certificacao": "IGP"
+    },
+    {
+      "queijo": "Queijo picante da Beira Baixa (Queijo Cabreiro)",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo Rabaçal",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo Saloio",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo São Jorge (Queijo Ilha)",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo Serpa",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo Serra da Estrela",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Queijo Terrincho",
+      "pais": "Portugal",
+      "certificacao": "DOP"
+    },
+    {
+      "queijo": "Requeijão de ovelha",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Requeijão",
+      "pais": "Portugal",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Artesanal Alagoa",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Cabacinha",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Catupiry",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Cuesta",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Giramundo",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Joaninha",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Kochkäse",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Mimo da Serra",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Ovelha das Vertentes",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo extra-curado de ovelha",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo coalho",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo da Canastra",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo de Colônia",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo do Marajó",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo manteiga",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo Mantiqueira",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo Minas frescal",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo Minas padrão",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo paulista",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo prato",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo tipo parmesão",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo tipo ricota",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo-do-reino",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Raclette Mineiro",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Requeijão cremoso",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Requeijão",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Muçarela",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Serrano",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Venda Nova",
+      "pais": "Brasil",
+      "certificacao": ""
+    },
+    {
+      "queijo": "Queijo tulha",
+      "pais": "Brasil",
+      "certificacao": ""
+    }
+  ],
+  "meta": {
+    "title": "Queijos de Portugal e do Brasil - Free Download",
+    "description": "Queijos tradicionais de Portugal e do Brasil, com indicação de Denominação de Origem Protegida (DOP) ou Indicação Geográfica Protegida (IGP) quando aplicável. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Queijos de Portugal e do Brasil | ListBase",
+    "seo_description": "Download Queijos de Portugal e do Brasil — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_queijos"
+    ]
+  }
+}
