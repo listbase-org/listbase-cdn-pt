@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-02T02:30:34.730Z",
-  "total_datasets": 522,
-  "total_records": 742028,
+  "generated": "2026-11-03T02:31:24.157Z",
+  "total_datasets": 523,
+  "total_records": 742237,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -3666,6 +3666,34 @@
         "xlsx": {
           "name": "pt-br-constituicoes_PT.xlsx",
           "size": 17809
+        }
+      }
+    },
+    {
+      "id": "pt-br-ministros-justica",
+      "name": "Ministros da Justiça do Brasil",
+      "category": "law",
+      "record_count": 209,
+      "columns": [
+        "periodo",
+        "numero",
+        "nome",
+        "orgao",
+        "inicio",
+        "fim",
+        "chefe_de_governo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_e_Segurança_Pública_do_Brasil",
+      "updated": "2026-11",
+      "size": 69341,
+      "files": {
+        "csv": {
+          "name": "pt-br-ministros-justica_PT.csv",
+          "size": 38993
+        },
+        "xlsx": {
+          "name": "pt-br-ministros-justica_PT.xlsx",
+          "size": 17575
         }
       }
     },

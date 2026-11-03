@@ -1,0 +1,1942 @@
+{
+  "id": "pt-br-ministros-justica",
+  "name": "Ministros da Justiça do Brasil",
+  "title": "Ministros da Justiça do Brasil",
+  "description": "Titulares da pasta da Justiça (hoje Ministério da Justiça e Segurança Pública) do Brasil desde 1822: órgão, início e fim do mandato e chefe de governo.",
+  "category": "law",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_e_Segurança_Pública_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_e_Segurança_Pública_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 209,
+  "columns": [
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "orgao",
+      "label": "Orgao",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fim",
+      "label": "Fim",
+      "type": "string"
+    },
+    {
+      "key": "chefe_de_governo",
+      "label": "Chefe De Governo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "1",
+      "nome": "Caetano Pinto de Miranda Montenegro (marquês de Vila Real da Praia Grande)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "3 de julho de 1822",
+      "fim": "28 de outubro de 1822",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "2",
+      "nome": "Sebastião Luís Tinoco da Silva",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "28 de outubro de 1822",
+      "fim": "30 de outubro de 1822",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "3",
+      "nome": "Caetano Pinto de Miranda Montenegro (marquês de Vila Real da Praia Grande)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "30 de outubro de 1822",
+      "fim": "10 de novembro de 1823",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "4",
+      "nome": "Clemente Ferreira França",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "10 de novembro de 1823",
+      "fim": "21 de novembro de 1825",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "5",
+      "nome": "Sebastião Luís Tinoco da Silva",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "21 de novembro de 1825",
+      "fim": "21 de novembro de 1826",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "6",
+      "nome": "José Joaquim Carneiro de Campos (marquês de Caravelas)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "21 de novembro de 1826",
+      "fim": "15 de janeiro de 1827",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "7",
+      "nome": "Clemente Ferreira França",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "15 de janeiro de 1827",
+      "fim": "11 de março de 1827",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "8",
+      "nome": "José Feliciano Fernandes Pinheiro (visconde de São Leopoldo)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "11 de março de 1827",
+      "fim": "18 de maio de 1827",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "9",
+      "nome": "Estêvão Ribeiro de Resende (marquês de Valença)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "18 de maio de 1827",
+      "fim": "20 de novembro de 1827",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "10",
+      "nome": "Lúcio Soares Teixeira de Gouveia",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "20 de novembro de 1827",
+      "fim": "18 de junho de 1828",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "11",
+      "nome": "José Clemente Pereira",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "18 de junho de 1828",
+      "fim": "25 de setembro de 1828",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "12",
+      "nome": "José Bernardino Batista Pereira de Almeida",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "25 de setembro de 1828",
+      "fim": "22 de novembro de 1828",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "13",
+      "nome": "Lúcio Soares Teixeira de Gouveia",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "22 de novembro de 1828",
+      "fim": "4 de dezembro de 1829",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "14",
+      "nome": "João Inácio da Cunha (visconde de Alcântara)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "4 de dezembro de 1829",
+      "fim": "19 de março de 1831",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "15",
+      "nome": "Manuel José de Sousa França",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "19 de março de 1831",
+      "fim": "5 de abril de 1831",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Primeiro reinado",
+      "numero": "16",
+      "nome": "João Inácio da Cunha (visconde de Alcântara)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "5 de abril de 1831",
+      "fim": "7 de abril de 1831",
+      "chefe_de_governo": "D. Pedro I (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "17",
+      "nome": "Manuel José de Sousa França",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "7 de abril de 1831",
+      "fim": "17 de junho de 1831",
+      "chefe_de_governo": "Regência Trina Provisória"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "17",
+      "nome": "Manuel José de Sousa França",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "17 de junho de 1831",
+      "fim": "5 de julho de 1831",
+      "chefe_de_governo": "Regência Trina Permanente"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "18",
+      "nome": "Diogo Antônio Feijó",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "5 de julho de 1831",
+      "fim": "3 de agosto de 1832",
+      "chefe_de_governo": "Regência Trina Permanente"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "19",
+      "nome": "Pedro de Araújo Lima (marquês de Olinda)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "3 de agosto de 1832",
+      "fim": "13 de setembro de 1832",
+      "chefe_de_governo": "Regência Trina Permanente"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "20",
+      "nome": "Honório Hermeto Carneiro Leão (marquês do Paraná)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "13 de setembro de 1832",
+      "fim": "14 de maio de 1833",
+      "chefe_de_governo": "Regência Trina Permanente"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "21",
+      "nome": "Cândido José de Araújo Viana (marquês de Sapucaí)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "14 de maio de 1833",
+      "fim": "4 de junho de 1833",
+      "chefe_de_governo": "Regência Trina Permanente"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "22",
+      "nome": "Aureliano de Sousa e Oliveira Coutinho (visconde de Sepetiba)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "4 de junho de 1833",
+      "fim": "16 de janeiro de 1835",
+      "chefe_de_governo": "Regência Trina Permanente"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "23",
+      "nome": "Manuel Alves Branco (visconde de Caravelas)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "16 de janeiro de 1835",
+      "fim": "14 de outubro de 1835",
+      "chefe_de_governo": "Regência Trina Permanente"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "24",
+      "nome": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "14 de outubro de 1835",
+      "fim": "3 de junho de 1836",
+      "chefe_de_governo": "Diogo Antônio Feijó"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "25",
+      "nome": "Gustavo Adolfo de Aguilar Pantoja",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "3 de junho de 1836",
+      "fim": "16 de maio de 1837",
+      "chefe_de_governo": "Diogo Antônio Feijó"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "26",
+      "nome": "Francisco Jê Acaiaba de Montezuma (visconde de Jequitinhonha)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "16 de maio de 1837",
+      "fim": "19 de setembro de 1837",
+      "chefe_de_governo": "Diogo Antônio Feijó"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "27",
+      "nome": "Bernardo Pereira de Vasconcelos",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "19 de setembro de 1837",
+      "fim": "16 de abril de 1839",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "28",
+      "nome": "Francisco de Paula Almeida e Albuquerque",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "16 de abril de 1839",
+      "fim": "1 de setembro de 1839",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "29",
+      "nome": "Francisco Ramiro de Assis Coelho",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "1 de setembro de 1839",
+      "fim": "18 de maio de 1840",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "30",
+      "nome": "Silva Maia",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "18 de maio de 1840",
+      "fim": "23 de maio de 1840",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Período regencial",
+      "numero": "31",
+      "nome": "Paulino José Soares de Sousa (visconde de Uruguai)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "23 de maio de 1840",
+      "fim": "24 de julho de 1840",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "32",
+      "nome": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "24 de julho de 1840",
+      "fim": "23 de março de 1841",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "33",
+      "nome": "Paulino José Soares de Sousa (visconde de Uruguai)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "23 de março de 1841",
+      "fim": "20 de janeiro de 1843",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "34",
+      "nome": "Honório Hermeto Carneiro Leão (marquês do Paraná)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "20 de janeiro de 1843",
+      "fim": "2 de fevereiro de 1844",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "35",
+      "nome": "Manuel Alves Branco (visconde de Caravelas)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "2 de fevereiro de 1844",
+      "fim": "23 de maio de 1844",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "36",
+      "nome": "Manuel Antônio Galvão",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "23 de maio de 1844",
+      "fim": "26 de maio de 1845",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "37",
+      "nome": "José Carlos Pereira de Almeida Torres (visconde de Macaé)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "26 de maio de 1845",
+      "fim": "29 de setembro de 1845",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "38",
+      "nome": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "29 de setembro de 1845",
+      "fim": "2 de maio de 1846",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "39",
+      "nome": "Joaquim Marcelino de Brito",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "2 de maio de 1846",
+      "fim": "5 de maio de 1846",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "40",
+      "nome": "José Joaquim Fernandes Torres",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "5 de maio de 1846",
+      "fim": "17 de maio de 1847",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "41",
+      "nome": "Caetano Maria Lopes Gama (visconde de Maranguape)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "17 de maio de 1847",
+      "fim": "22 de maio de 1847",
+      "chefe_de_governo": "D. Pedro II (também Chefe de Estado)"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "42",
+      "nome": "Senador Vergueiro",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "22 de maio de 1847",
+      "fim": "1 de janeiro de 1848",
+      "chefe_de_governo": "Manuel Alves Branco"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "43",
+      "nome": "Saturnino de Sousa e Oliveira Coutinho",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "1 de janeiro de 1848",
+      "fim": "29 de janeiro de 1848",
+      "chefe_de_governo": "Manuel Alves Branco"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "44",
+      "nome": "José Antônio Pimenta Bueno (marquês de São Vicente)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "29 de janeiro de 1848",
+      "fim": "8 de março de 1848",
+      "chefe_de_governo": "Manuel Alves Branco"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "44",
+      "nome": "José Antônio Pimenta Bueno (marquês de São Vicente)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "8 de março de 1848",
+      "fim": "31 de maio de 1848",
+      "chefe_de_governo": "José Carlos Pereira de Almeida Torres"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "45",
+      "nome": "Antônio Manuel de Campos Melo",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "31 de maio de 1848",
+      "fim": "29 de setembro de 1848",
+      "chefe_de_governo": "Francisco de Paula Sousa e Melo"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "46",
+      "nome": "Eusébio de Queirós",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "29 de setembro de 1848",
+      "fim": "8 de outubro de 1849",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "46",
+      "nome": "Eusébio de Queirós",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "8 de outubro de 1849",
+      "fim": "11 de maio de 1852",
+      "chefe_de_governo": "José da Costa Carvalho"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "47",
+      "nome": "José Ildefonso de Sousa Ramos",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "11 de maio de 1852",
+      "fim": "14 de junho de 1853",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "48",
+      "nome": "Luís Antônio Barbosa",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "14 de junho de 1853",
+      "fim": "6 de setembro de 1853",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "49",
+      "nome": "José Tomás Nabuco de Araújo Filho",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "6 de setembro de 1853",
+      "fim": "3 de setembro de 1856",
+      "chefe_de_governo": "Honório Hermeto Carneiro Leão"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "49",
+      "nome": "José Tomás Nabuco de Araújo Filho",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "3 de setembro de 1856",
+      "fim": "4 de maio de 1857",
+      "chefe_de_governo": "Luís Alves de Lima e Silva"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "50",
+      "nome": "Francisco Diogo Pereira de Vasconcelos",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "4 de maio de 1857",
+      "fim": "12 de dezembro de 1858",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "51",
+      "nome": "José Tomás Nabuco de Araújo Filho",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "12 de dezembro de 1858",
+      "fim": "21 de março de 1859",
+      "chefe_de_governo": "Antônio Paulino Limpo de Abreu"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "52",
+      "nome": "Manuel Vieira Tosta (marquês de Muritiba)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "21 de março de 1859",
+      "fim": "10 de agosto de 1859",
+      "chefe_de_governo": "Antônio Paulino Limpo de Abreu"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "53",
+      "nome": "João Lustosa da Cunha Paranaguá (marquês de Paranaguá)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "10 de agosto de 1859",
+      "fim": "3 de março de 1861",
+      "chefe_de_governo": "Ângelo Moniz da Silva Ferraz"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "54",
+      "nome": "Francisco de Paula Negreiros de Saião Lobato (visconde de Niterói)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "3 de março de 1861",
+      "fim": "24 de maio de 1862",
+      "chefe_de_governo": "Luís Alves de Lima e Silva"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "55",
+      "nome": "Francisco José Furtado",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "24 de maio de 1862",
+      "fim": "30 de maio de 1862",
+      "chefe_de_governo": "Zacarias de Góis e Vasconcelos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "56",
+      "nome": "Caetano Maria Lopes Gama (visconde de Maranguape)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "30 de maio de 1862",
+      "fim": "2 de junho de 1863",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "57",
+      "nome": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "2 de junho de 1863",
+      "fim": "15 de janeiro de 1864",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "58",
+      "nome": "Zacarias de Góis e Vasconcelos",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "15 de janeiro de 1864",
+      "fim": "31 de agosto de 1864",
+      "chefe_de_governo": "Zacarias de Góis e Vasconcelos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "59",
+      "nome": "Francisco José Furtado",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "31 de agosto de 1864",
+      "fim": "12 de maio de 1865",
+      "chefe_de_governo": "Francisco José Furtado"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "60",
+      "nome": "José Tomás Nabuco de Araújo Filho",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "12 de maio de 1865",
+      "fim": "3 de agosto de 1866",
+      "chefe_de_governo": "Pedro de Araújo Lima"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "61",
+      "nome": "João Lustosa da Cunha Paranaguá (marquês de Paranaguá)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "3 de agosto de 1866",
+      "fim": "27 de outubro de 1866",
+      "chefe_de_governo": "Zacarias de Góis e Vasconcelos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "62",
+      "nome": "Martim Francisco Ribeiro de Andrada",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "27 de outubro de 1866",
+      "fim": "16 de julho de 1868",
+      "chefe_de_governo": "Zacarias de Góis e Vasconcelos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "63",
+      "nome": "José de Alencar",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "16 de julho de 1868",
+      "fim": "10 de janeiro de 1870",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "64",
+      "nome": "Joaquim Otávio Nébias",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "10 de janeiro de 1870",
+      "fim": "9 de junho de 1870",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "65",
+      "nome": "Manuel Vieira Tosta (marquês de Muritiba)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "9 de junho de 1870",
+      "fim": "29 de setembro de 1870",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "66",
+      "nome": "José Ildefonso de Sousa Ramos",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "29 de setembro de 1870",
+      "fim": "7 de março de 1871",
+      "chefe_de_governo": "José Antônio Pimenta Bueno"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "67",
+      "nome": "Francisco de Paula Negreiros de Saião Lobato (visconde de Niterói)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "7 de março de 1871",
+      "fim": "20 de abril de 1872",
+      "chefe_de_governo": "José Maria da Silva Paranhos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "68",
+      "nome": "Manuel Antônio Duarte de Azevedo",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "20 de abril de 1872",
+      "fim": "25 de junho de 1875",
+      "chefe_de_governo": "José Maria da Silva Paranhos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "69",
+      "nome": "João José de Oliveira Junqueira",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "9 de outubro de 1874",
+      "fim": "17 de novembro de 1874",
+      "chefe_de_governo": "José Maria da Silva Paranhos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "70",
+      "nome": "Diogo Velho Cavalcanti de Albuquerque (visconde de Cavalcanti)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "25 de junho de 1875",
+      "fim": "15 de fevereiro de 1877",
+      "chefe_de_governo": "Luís Alves de Lima e Silva"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "71",
+      "nome": "Francisco Januário da Gama Cerqueira",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "15 de fevereiro de 1877",
+      "fim": "5 de janeiro de 1878",
+      "chefe_de_governo": "Luís Alves de Lima e Silva"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "72",
+      "nome": "Lafayette Rodrigues Pereira",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "5 de janeiro de 1878",
+      "fim": "28 de março de 1880",
+      "chefe_de_governo": "João Lins Vieira Cansanção de Sinimbu"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "73",
+      "nome": "Sousa Dantas",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "28 de março de 1880",
+      "fim": "21 de janeiro de 1882",
+      "chefe_de_governo": "José Antônio Saraiva"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "74",
+      "nome": "Rodolfo Epifânio de Sousa Dantas",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "21 de janeiro de 1882",
+      "fim": "1 de fevereiro de 1882",
+      "chefe_de_governo": "Martinho Álvares da Silva Campos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "75",
+      "nome": "Manuel da Silva Mafra",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "1 de fevereiro de 1882",
+      "fim": "3 de julho de 1882",
+      "chefe_de_governo": "Martinho Álvares da Silva Campos"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "76",
+      "nome": "João Ferreira de Moura",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "3 de julho de 1882",
+      "fim": "24 de maio de 1883",
+      "chefe_de_governo": "João Lustosa da Cunha Paranaguá"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "77",
+      "nome": "Francisco Prisco de Sousa Paraíso",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "24 de maio de 1883",
+      "fim": "6 de junho de 1884",
+      "chefe_de_governo": "Lafayette Rodrigues Pereira"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "78",
+      "nome": "Francisco Maria Sodré Pereira",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "6 de junho de 1884",
+      "fim": "6 de maio de 1885",
+      "chefe_de_governo": "Sousa Dantas"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "79",
+      "nome": "Afonso Pena",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "6 de maio de 1885",
+      "fim": "20 de agosto de 1885",
+      "chefe_de_governo": "José Antônio Saraiva"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "80",
+      "nome": "Joaquim Delfino Ribeiro da Luz",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "20 de agosto de 1885",
+      "fim": "10 de maio de 1887",
+      "chefe_de_governo": "João Maurício Wanderley"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "81",
+      "nome": "João Maurício Wanderley (barão de Cotegipe)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "27 de janeiro de 1887",
+      "fim": "8 de fevereiro de 1887",
+      "chefe_de_governo": "João Maurício Wanderley"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "82",
+      "nome": "Samuel Wallace MacDowell",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "10 de maio de 1887",
+      "fim": "10 de março de 1888",
+      "chefe_de_governo": "João Maurício Wanderley"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "83",
+      "nome": "Antônio Ferreira Viana",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "10 de março de 1888",
+      "fim": "4 de janeiro de 1889",
+      "chefe_de_governo": "João Alfredo Correia de Oliveira"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "84",
+      "nome": "Francisco de Assis Rosa e Silva",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "4 de janeiro de 1889",
+      "fim": "7 de junho de 1889",
+      "chefe_de_governo": "João Alfredo Correia de Oliveira"
+    },
+    {
+      "periodo": "Segundo reinado – D. Pedro II",
+      "numero": "85",
+      "nome": "Cândido Luís Maria de Oliveira",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "7 de junho de 1889",
+      "fim": "15 de novembro de 1889",
+      "chefe_de_governo": "Afonso Celso de Assis Figueiredo"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "—",
+      "nome": "Ruy Barbosa (interino)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "15 de novembro de 1889",
+      "fim": "18 de novembro de 1889",
+      "chefe_de_governo": "Deodoro da Fonseca"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "1",
+      "nome": "Campos Sales",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "18 de novembro de 1889",
+      "fim": "22 de janeiro de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "—",
+      "nome": "Francisco Glicério (interino)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "28 de fevereiro de 1890",
+      "fim": "8 de março de 1890",
+      "chefe_de_governo": "Deodoro da Fonseca"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "2",
+      "nome": "Henrique Pereira de Lucena (Barão de Lucena)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "22 de janeiro de 1891",
+      "fim": "22 de maio de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "3",
+      "nome": "Antônio Luís Afonso de Carvalho",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "22 de maio de 1891",
+      "fim": "23 de novembro de 1891",
+      "chefe_de_governo": "Floriano Peixoto"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "—",
+      "nome": "José Higino Duarte Pereira (interino)",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "23 de novembro de 1891",
+      "fim": "10 de fevereiro de 1892",
+      "chefe_de_governo": "Floriano Peixoto"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "4",
+      "nome": "Fernando Lobo Leite Pereira",
+      "orgao": "Secretaria de Estado dos Negócios da Justiça",
+      "inicio": "10 de fevereiro de 1892",
+      "fim": "26 de dezembro de 1892",
+      "chefe_de_governo": "Floriano Peixoto"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "4",
+      "nome": "Fernando Lobo Leite Pereira",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "26 de dezembro de 1892",
+      "fim": "8 de dezembro de 1893",
+      "chefe_de_governo": "Floriano Peixoto"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "5",
+      "nome": "Alexandre Cassiano do Nascimento",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "8 de dezembro de 1893",
+      "fim": "15 de novembro de 1894",
+      "chefe_de_governo": "Floriano Peixoto"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "6",
+      "nome": "Antônio Gonçalves Ferreira",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1894",
+      "fim": "30 de agosto de 1896",
+      "chefe_de_governo": "Prudente de Morais"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "7",
+      "nome": "Alberto Torres",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "30 de agosto de 1896",
+      "fim": "7 de janeiro de 1897",
+      "chefe_de_governo": "Prudente de Morais"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "8",
+      "nome": "Bernardino de Campos",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "7 de janeiro de 1897",
+      "fim": "19 de janeiro de 1897",
+      "chefe_de_governo": "Prudente de Morais"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "9",
+      "nome": "Amaro Cavalcanti",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "19 de janeiro de 1897",
+      "fim": "15 de novembro de 1898",
+      "chefe_de_governo": "Prudente de Morais"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "10",
+      "nome": "Epitácio Pessoa",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1898",
+      "fim": "6 de agosto de 1901",
+      "chefe_de_governo": "Campos Sales"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "11",
+      "nome": "Sabino Barroso",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "6 de agosto de 1901",
+      "fim": "15 de novembro de 1902",
+      "chefe_de_governo": "Campos Sales"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "12",
+      "nome": "J. J. Seabra",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1902",
+      "fim": "28 de maio de 1906",
+      "chefe_de_governo": "Rodrigues Alves"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "13",
+      "nome": "Félix Gaspar",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "28 de maio de 1906",
+      "fim": "15 de novembro de 1906",
+      "chefe_de_governo": "Rodrigues Alves"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "14",
+      "nome": "Augusto Tavares de Lira",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1906",
+      "fim": "14 de junho de 1909",
+      "chefe_de_governo": "Afonso Pena"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "14",
+      "nome": "Augusto Tavares de Lira",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "14 de junho de 1909",
+      "fim": "18 de junho de 1909",
+      "chefe_de_governo": "Nilo Peçanha"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "15",
+      "nome": "Esmeraldino Bandeira",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "18 de junho de 1909",
+      "fim": "15 de novembro de 1910",
+      "chefe_de_governo": "Nilo Peçanha"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "16",
+      "nome": "Rivadávia Correia",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1910",
+      "fim": "12 de agosto de 1913",
+      "chefe_de_governo": "Hermes da Fonseca"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "17",
+      "nome": "Herculano de Freitas",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "12 de agosto de 1913",
+      "fim": "15 de novembro de 1914",
+      "chefe_de_governo": "Hermes da Fonseca"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "18",
+      "nome": "Carlos Maximiliano",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1914",
+      "fim": "15 de novembro de 1918",
+      "chefe_de_governo": "Venceslau Brás"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "19",
+      "nome": "Amaro Cavalcanti",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1918",
+      "fim": "21 de novembro de 1918",
+      "chefe_de_governo": "Delfim Moreira"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "20",
+      "nome": "Urbano Santos",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "21 de novembro de 1918",
+      "fim": "28 de julho de 1919",
+      "chefe_de_governo": "Delfim Moreira"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "21",
+      "nome": "Alfredo Pinto",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "28 de julho de 1919",
+      "fim": "3 de setembro de 1921",
+      "chefe_de_governo": "Epitácio Pessoa"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "22",
+      "nome": "Joaquim Ferreira Chaves",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "3 de setembro de 1921",
+      "fim": "15 de novembro de 1922",
+      "chefe_de_governo": "Epitácio Pessoa"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "23",
+      "nome": "João Luís Alves",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1922",
+      "fim": "20 de janeiro de 1925",
+      "chefe_de_governo": "Artur Bernardes"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "24",
+      "nome": "Aníbal Freire da Fonseca",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "20 de janeiro de 1925",
+      "fim": "5 de fevereiro de 1925",
+      "chefe_de_governo": "Artur Bernardes"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "25",
+      "nome": "Afonso Pena Júnior",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "5 de fevereiro de 1925",
+      "fim": "15 de novembro de 1926",
+      "chefe_de_governo": "Artur Bernardes"
+    },
+    {
+      "periodo": "República Velha (1.ª República)",
+      "numero": "26",
+      "nome": "Augusto Viana do Castelo",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de novembro de 1926",
+      "fim": "24 de outubro de 1930",
+      "chefe_de_governo": "Washington Luís"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "27",
+      "nome": "Gabriel Loureiro Bernardes",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "24 de outubro de 1930",
+      "fim": "26 de outubro de 1930",
+      "chefe_de_governo": "Junta Governativa Provisória de 1930"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "28",
+      "nome": "Afrânio de Melo Franco",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "26 de outubro de 1930",
+      "fim": "3 de novembro de 1930",
+      "chefe_de_governo": "Junta Governativa Provisória de 1930"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "29",
+      "nome": "Osvaldo Aranha",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "3 de novembro de 1930",
+      "fim": "21 de dezembro de 1931",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "30",
+      "nome": "Maurício Cardoso",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "21 de dezembro de 1931",
+      "fim": "4 de março de 1932",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "31",
+      "nome": "Francisco Campos",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "4 de março de 1932",
+      "fim": "17 de setembro de 1932",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "32",
+      "nome": "Afrânio de Melo Franco",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "17 de setembro de 1932",
+      "fim": "7 de novembro de 1932",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "33",
+      "nome": "Francisco Antunes Maciel Júnior",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "7 de novembro de 1932",
+      "fim": "24 de julho de 1934",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "34",
+      "nome": "Vicente Rao",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "24 de julho de 1934",
+      "fim": "7 de janeiro de 1937",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "35",
+      "nome": "Agamenon Magalhães",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "7 de janeiro de 1937",
+      "fim": "3 de junho de 1937",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "36",
+      "nome": "José Carlos de Macedo Soares",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "3 de junho de 1937",
+      "fim": "10 de novembro de 1937",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "37",
+      "nome": "Francisco Campos",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "10 de novembro de 1937",
+      "fim": "17 de julho de 1942",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "38",
+      "nome": "Marcondes Filho",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "17 de julho de 1942",
+      "fim": "23 de fevereiro de 1943",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "39",
+      "nome": "Fernando Antunes",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "23 de fevereiro de 1943",
+      "fim": "27 de março de 1943",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "40",
+      "nome": "Marcondes Filho",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "27 de março de 1943",
+      "fim": "3 de março de 1945",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "41",
+      "nome": "Agamenon Magalhães",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "3 de março de 1945",
+      "fim": "29 de outubro de 1945",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)",
+      "numero": "42",
+      "nome": "Antônio de Sampaio Dória",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "29 de outubro de 1945",
+      "fim": "31 de janeiro de 1946",
+      "chefe_de_governo": "José Linhares"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "43",
+      "nome": "Carlos Luz",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "31 de janeiro de 1946",
+      "fim": "2 de outubro de 1946",
+      "chefe_de_governo": "Eurico Gaspar Dutra"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "44",
+      "nome": "Benedito Costa Neto",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "2 de outubro de 1946",
+      "fim": "7 de novembro de 1947",
+      "chefe_de_governo": "Eurico Gaspar Dutra"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "45",
+      "nome": "Adroaldo Costa",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "7 de novembro de 1947",
+      "fim": "1 de abril de 1950",
+      "chefe_de_governo": "Eurico Gaspar Dutra"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "46",
+      "nome": "Honório Fernandes Monteiro",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "1 de abril de 1950",
+      "fim": "29 de junho de 1950",
+      "chefe_de_governo": "Eurico Gaspar Dutra"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "47",
+      "nome": "Adroaldo Tourinho Junqueira Aires",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "29 de junho de 1950",
+      "fim": "4 de agosto de 1950",
+      "chefe_de_governo": "Eurico Gaspar Dutra"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "48",
+      "nome": "José Francisco Bias Fortes",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "4 de agosto de 1950",
+      "fim": "31 de janeiro de 1951",
+      "chefe_de_governo": "Eurico Gaspar Dutra"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "49",
+      "nome": "Negrão de Lima",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "31 de janeiro de 1951",
+      "fim": "26 de junho de 1953",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "50",
+      "nome": "Tancredo Neves",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "26 de junho de 1953",
+      "fim": "24 de agosto de 1954",
+      "chefe_de_governo": "Getúlio Vargas"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "51",
+      "nome": "Miguel Seabra Fagundes",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "24 de agosto de 1954",
+      "fim": "14 de fevereiro de 1955",
+      "chefe_de_governo": "Café Filho"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "52",
+      "nome": "Marcondes Filho",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "14 de fevereiro de 1955",
+      "fim": "18 de abril de 1955",
+      "chefe_de_governo": "Café Filho"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "53",
+      "nome": "Prado Kelly",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "18 de abril de 1955",
+      "fim": "11 de novembro de 1955",
+      "chefe_de_governo": "Café Filho"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "54",
+      "nome": "Francisco de Menezes Pimentel",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "11 de novembro de 1955",
+      "fim": "31 de janeiro de 1956",
+      "chefe_de_governo": "Nereu Ramos"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "55",
+      "nome": "Nereu Ramos",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "31 de janeiro de 1956",
+      "fim": "4 de novembro de 1957",
+      "chefe_de_governo": "Juscelino Kubitschek"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "56",
+      "nome": "Eurico Sales",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "4 de novembro de 1957",
+      "fim": "8 de julho de 1958",
+      "chefe_de_governo": "Juscelino Kubitschek"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "57",
+      "nome": "Cirilo Júnior",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "8 de julho de 1958",
+      "fim": "31 de julho de 1959",
+      "chefe_de_governo": "Juscelino Kubitschek"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "58",
+      "nome": "Armando Falcão",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "31 de julho de 1959",
+      "fim": "31 de janeiro de 1961",
+      "chefe_de_governo": "Juscelino Kubitschek"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "59",
+      "nome": "Oscar Pedroso Horta",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "31 de janeiro de 1961",
+      "fim": "25 de agosto de 1961",
+      "chefe_de_governo": "Jânio Quadros"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "60",
+      "nome": "José Martins Rodrigues",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "27 de agosto de 1961",
+      "fim": "8 de setembro de 1961",
+      "chefe_de_governo": "Ranieri Mazzilli"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "—",
+      "nome": "Tancredo Neves (interino)",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "8 de setembro de 1961",
+      "fim": "12 de outubro de 1961",
+      "chefe_de_governo": "João Goulart (parlamentarismo)"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "61",
+      "nome": "Alfredo Nasser",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "13 de outubro de 1961",
+      "fim": "12 de julho de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "62",
+      "nome": "João Mangabeira",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "24 de janeiro de 1963",
+      "fim": "7 de junho de 1963",
+      "chefe_de_governo": "João Goulart (presidencialismo)"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "63",
+      "nome": "Carlos Molinari Cairoli",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "7 de junho de 1963",
+      "fim": "18 de junho de 1963",
+      "chefe_de_governo": "João Goulart (presidencialismo)"
+    },
+    {
+      "periodo": "Período Populista (4.ª República)",
+      "numero": "64",
+      "nome": "Abelardo Jurema",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "18 de junho de 1963",
+      "fim": "31 de março de 1964",
+      "chefe_de_governo": "João Goulart (presidencialismo)"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "65",
+      "nome": "Luís Antônio da Gama e Silva",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "4 de abril de 1964",
+      "fim": "15 de abril de 1964",
+      "chefe_de_governo": "Ranieri Mazzilli"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "66",
+      "nome": "Milton Campos",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "15 de abril de 1964",
+      "fim": "11 de outubro de 1965",
+      "chefe_de_governo": "Humberto Castelo Branco"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "67",
+      "nome": "Luís Viana Filho",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "11 de outubro de 1965",
+      "fim": "19 de outubro de 1965",
+      "chefe_de_governo": "Humberto Castelo Branco"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "68",
+      "nome": "Juracy Magalhães",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "19 de outubro de 1965",
+      "fim": "14 de janeiro de 1966",
+      "chefe_de_governo": "Humberto Castelo Branco"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "69",
+      "nome": "Mem de Azambuja Sá",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "14 de janeiro de 1966",
+      "fim": "28 de junho de 1966",
+      "chefe_de_governo": "Humberto Castelo Branco"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "70",
+      "nome": "Luís Viana Filho",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "28 de junho de 1966",
+      "fim": "19 de julho de 1966",
+      "chefe_de_governo": "Humberto Castelo Branco"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "71",
+      "nome": "Carlos Medeiros",
+      "orgao": "Ministério da Justiça e Negócios Interiores",
+      "inicio": "19 de julho de 1966",
+      "fim": "15 de março de 1967",
+      "chefe_de_governo": "Humberto Castelo Branco"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "72",
+      "nome": "Luís Antônio da Gama e Silva",
+      "orgao": "Ministério da Justiça",
+      "inicio": "15 de março de 1967",
+      "fim": "31 de agosto de 1969",
+      "chefe_de_governo": "Costa e Silva"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "72",
+      "nome": "Luís Antônio da Gama e Silva",
+      "orgao": "Ministério da Justiça",
+      "inicio": "31 de agosto de 1969",
+      "fim": "30 de outubro de 1969",
+      "chefe_de_governo": "Junta militar de 1969"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "73",
+      "nome": "Alfredo Buzaid",
+      "orgao": "Ministério da Justiça",
+      "inicio": "30 de outubro de 1969",
+      "fim": "15 de março de 1974",
+      "chefe_de_governo": "Emílio Garrastazu Médici"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "74",
+      "nome": "Armando Falcão",
+      "orgao": "Ministério da Justiça",
+      "inicio": "15 de março de 1974",
+      "fim": "15 de março de 1979",
+      "chefe_de_governo": "Ernesto Geisel"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "75",
+      "nome": "Petrônio Portella",
+      "orgao": "Ministério da Justiça",
+      "inicio": "15 de março de 1979",
+      "fim": "7 de janeiro de 1980",
+      "chefe_de_governo": "João Figueiredo"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "—",
+      "nome": "Golbery do Couto e Silva (interino)",
+      "orgao": "Ministério da Justiça",
+      "inicio": "7 de janeiro de 1980",
+      "fim": "9 de janeiro de 1980",
+      "chefe_de_governo": "João Figueiredo"
+    },
+    {
+      "periodo": "Ditadura militar (5.ª República)",
+      "numero": "76",
+      "nome": "Ibrahim Abi-Ackel",
+      "orgao": "Ministério da Justiça",
+      "inicio": "9 de janeiro de 1980",
+      "fim": "15 de março de 1985",
+      "chefe_de_governo": "João Figueiredo"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "77",
+      "nome": "Fernando Lyra",
+      "orgao": "Ministério da Justiça",
+      "inicio": "15 de março de 1985",
+      "fim": "14 de fevereiro de 1986",
+      "chefe_de_governo": "José Sarney"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "78",
+      "nome": "Paulo Brossard",
+      "orgao": "Ministério da Justiça",
+      "inicio": "14 de fevereiro de 1986",
+      "fim": "19 de janeiro de 1989",
+      "chefe_de_governo": "José Sarney"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "79",
+      "nome": "Oscar Dias Correia",
+      "orgao": "Ministério da Justiça",
+      "inicio": "19 de janeiro de 1989",
+      "fim": "9 de agosto de 1989",
+      "chefe_de_governo": "José Sarney"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "80",
+      "nome": "Saulo Ramos",
+      "orgao": "Ministério da Justiça",
+      "inicio": "9 de agosto de 1989",
+      "fim": "15 de março de 1990",
+      "chefe_de_governo": "José Sarney"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "81",
+      "nome": "Bernardo Cabral",
+      "orgao": "Ministério da Justiça",
+      "inicio": "15 de março de 1990",
+      "fim": "13 de outubro de 1990",
+      "chefe_de_governo": "Fernando Collor"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "82",
+      "nome": "Jarbas Passarinho",
+      "orgao": "Ministério da Justiça",
+      "inicio": "15 de outubro de 1990",
+      "fim": "2 de abril de 1992",
+      "chefe_de_governo": "Fernando Collor"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "83",
+      "nome": "Célio Borja",
+      "orgao": "Ministério da Justiça",
+      "inicio": "2 de abril de 1992",
+      "fim": "2 de outubro de 1992",
+      "chefe_de_governo": "Fernando Collor"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "84",
+      "nome": "Maurício Corrêa",
+      "orgao": "Ministério da Justiça",
+      "inicio": "2 de outubro de 1992",
+      "fim": "5 de abril de 1994",
+      "chefe_de_governo": "Itamar Franco"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "85",
+      "nome": "Alexandre Dupeyrat",
+      "orgao": "Ministério da Justiça",
+      "inicio": "5 de abril de 1994",
+      "fim": "1 de janeiro de 1995",
+      "chefe_de_governo": "Itamar Franco"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "86",
+      "nome": "Nelson Jobim",
+      "orgao": "Ministério da Justiça",
+      "inicio": "1 de janeiro de 1995",
+      "fim": "8 de abril de 1997",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "87",
+      "nome": "Milton Seligman",
+      "orgao": "Ministério da Justiça",
+      "inicio": "8 de abril de 1997",
+      "fim": "22 de maio de 1997",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "88",
+      "nome": "Iris Rezende",
+      "orgao": "Ministério da Justiça",
+      "inicio": "22 de maio de 1997",
+      "fim": "1 de abril de 1998",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "—",
+      "nome": "José de Jesus Filho (interino)",
+      "orgao": "Ministério da Justiça",
+      "inicio": "1 de abril de 1998",
+      "fim": "7 de abril de 1998",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "89",
+      "nome": "Renan Calheiros",
+      "orgao": "Ministério da Justiça",
+      "inicio": "7 de abril de 1998",
+      "fim": "19 de julho de 1999",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "90",
+      "nome": "José Carlos Dias",
+      "orgao": "Ministério da Justiça",
+      "inicio": "19 de julho de 1999",
+      "fim": "14 de abril de 2000",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "91",
+      "nome": "José Gregori",
+      "orgao": "Ministério da Justiça",
+      "inicio": "14 de abril de 2000",
+      "fim": "14 de novembro de 2001",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "92",
+      "nome": "Aloysio Nunes",
+      "orgao": "Ministério da Justiça",
+      "inicio": "14 de novembro de 2001",
+      "fim": "3 de abril de 2002",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "93",
+      "nome": "Miguel Reale Júnior",
+      "orgao": "Ministério da Justiça",
+      "inicio": "3 de abril de 2002",
+      "fim": "10 de julho de 2002",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "94",
+      "nome": "Paulo de Tarso Ramos Ribeiro",
+      "orgao": "Ministério da Justiça",
+      "inicio": "10 de julho de 2002",
+      "fim": "1 de janeiro de 2003",
+      "chefe_de_governo": "Fernando Henrique Cardoso"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "95",
+      "nome": "Márcio Thomaz Bastos",
+      "orgao": "Ministério da Justiça",
+      "inicio": "1 de janeiro de 2003",
+      "fim": "16 de março de 2007",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "96",
+      "nome": "Tarso Genro",
+      "orgao": "Ministério da Justiça",
+      "inicio": "16 de março de 2007",
+      "fim": "10 de fevereiro de 2010",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "97",
+      "nome": "Luiz Paulo Barreto",
+      "orgao": "Ministério da Justiça",
+      "inicio": "10 de fevereiro de 2010",
+      "fim": "31 de dezembro de 2010",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "98",
+      "nome": "José Eduardo Cardozo",
+      "orgao": "Ministério da Justiça",
+      "inicio": "1 de janeiro de 2011",
+      "fim": "3 de março de 2016",
+      "chefe_de_governo": "Dilma Rousseff"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "99",
+      "nome": "Wellington César Lima e Silva",
+      "orgao": "Ministério da Justiça",
+      "inicio": "3 de março de 2016",
+      "fim": "14 de março de 2016",
+      "chefe_de_governo": "Dilma Rousseff"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "100",
+      "nome": "Eugênio Aragão",
+      "orgao": "Ministério da Justiça",
+      "inicio": "14 de março de 2016",
+      "fim": "12 de maio de 2016",
+      "chefe_de_governo": "Dilma Rousseff"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "101",
+      "nome": "Alexandre de Moraes",
+      "orgao": "Ministério da Justiça",
+      "inicio": "12 de maio de 2016",
+      "fim": "22 de fevereiro de 2017",
+      "chefe_de_governo": "Michel Temer"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "—",
+      "nome": "José Levi (interino)",
+      "orgao": "Ministério da Justiça",
+      "inicio": "7 de fevereiro de 2017",
+      "fim": "7 de março de 2017",
+      "chefe_de_governo": "Michel Temer"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "102",
+      "nome": "Osmar Serraglio",
+      "orgao": "Ministério da Justiça",
+      "inicio": "7 de março de 2017",
+      "fim": "31 de maio de 2017",
+      "chefe_de_governo": "Michel Temer"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "103",
+      "nome": "Torquato Jardim",
+      "orgao": "Ministério da Justiça",
+      "inicio": "31 de maio de 2017",
+      "fim": "1 de janeiro de 2019",
+      "chefe_de_governo": "Michel Temer"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "104",
+      "nome": "Sergio Moro",
+      "orgao": "Ministério da Justiça e Segurança Pública",
+      "inicio": "1 de janeiro de 2019",
+      "fim": "24 de abril de 2020",
+      "chefe_de_governo": "Jair Bolsonaro"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "105",
+      "nome": "André Mendonça",
+      "orgao": "Ministério da Justiça e Segurança Pública",
+      "inicio": "29 de abril de 2020",
+      "fim": "29 de março de 2021",
+      "chefe_de_governo": "Jair Bolsonaro"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "106",
+      "nome": "Anderson Torres",
+      "orgao": "Ministério da Justiça e Segurança Pública",
+      "inicio": "30 de março de 2021",
+      "fim": "31 de dezembro de 2022",
+      "chefe_de_governo": "Jair Bolsonaro"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "107",
+      "nome": "Flávio Dino",
+      "orgao": "Ministério da Justiça e Segurança Pública",
+      "inicio": "1 de janeiro de 2023",
+      "fim": "1 de fevereiro de 2024",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "108",
+      "nome": "Ricardo Lewandowski",
+      "orgao": "Ministério da Justiça e Segurança Pública",
+      "inicio": "1 de fevereiro de 2024",
+      "fim": "9 de janeiro de 2026",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "—",
+      "nome": "Manoel Carlos de Almeida Neto (interino)",
+      "orgao": "Ministério da Justiça e Segurança Pública",
+      "inicio": "9 de janeiro de 2026",
+      "fim": "15 de janeiro de 2026",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "periodo": "Nova República (6.ª República)",
+      "numero": "109",
+      "nome": "Wellington César Lima e Silva",
+      "orgao": "Ministério da Justiça e Segurança Pública",
+      "inicio": "15 de janeiro de 2026",
+      "fim": "em exercício",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva"
+    }
+  ],
+  "meta": {
+    "title": "Ministros da Justiça do Brasil - Free Download",
+    "description": "Titulares da pasta da Justiça (hoje Ministério da Justiça e Segurança Pública) do Brasil desde 1822: órgão, início e fim do mandato e chefe de governo. Contains 209 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros da Justiça do Brasil | ListBase",
+    "seo_description": "Download Ministros da Justiça do Brasil — 209 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 209 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_e_Segurança_Pública_do_Brasil"
+    ]
+  }
+}
