@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-04T02:25:08.502Z",
-  "total_datasets": 528,
-  "total_records": 742503,
+  "generated": "2026-11-04T02:25:17.676Z",
+  "total_datasets": 529,
+  "total_records": 742513,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -1735,6 +1735,33 @@
         "xlsx": {
           "name": "pt-br-moedas-historicas_PT.xlsx",
           "size": 8813
+        }
+      }
+    },
+    {
+      "id": "pt-maiores-bancos-portugal",
+      "name": "Maiores bancos de Portugal",
+      "category": "finance",
+      "record_count": 10,
+      "columns": [
+        "posicao",
+        "banco",
+        "funcionarios",
+        "balcoes",
+        "lucros",
+        "variacao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_de_Portugal",
+      "updated": "2026-11",
+      "size": 3532,
+      "files": {
+        "csv": {
+          "name": "pt-maiores-bancos-portugal_PT.csv",
+          "size": 685
+        },
+        "xlsx": {
+          "name": "pt-maiores-bancos-portugal_PT.xlsx",
+          "size": 7264
         }
       }
     },

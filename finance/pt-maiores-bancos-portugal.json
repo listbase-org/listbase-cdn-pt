@@ -1,0 +1,136 @@
+{
+  "id": "pt-maiores-bancos-portugal",
+  "name": "Maiores bancos de Portugal",
+  "title": "Maiores bancos de Portugal",
+  "description": "Os maiores bancos a operar em Portugal por lucros: número de funcionários, balcões, lucros anuais e variação.",
+  "category": "finance",
+  "source": "https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "banco",
+      "label": "Banco",
+      "type": "string"
+    },
+    {
+      "key": "funcionarios",
+      "label": "Funcionarios",
+      "type": "number"
+    },
+    {
+      "key": "balcoes",
+      "label": "Balcoes",
+      "type": "number"
+    },
+    {
+      "key": "lucros",
+      "label": "Lucros",
+      "type": "string"
+    },
+    {
+      "key": "variacao",
+      "label": "Variacao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": 1,
+      "banco": "Caixa Geral de Depósitos",
+      "funcionarios": 5837,
+      "balcoes": 515,
+      "lucros": "843 milhões de €",
+      "variacao": "45 %"
+    },
+    {
+      "posicao": 2,
+      "banco": "Santander Portugal",
+      "funcionarios": 4664,
+      "balcoes": 339,
+      "lucros": "607 milhões de €",
+      "variacao": "90 %"
+    },
+    {
+      "posicao": 3,
+      "banco": "Novo Banco",
+      "funcionarios": 4090,
+      "balcoes": 292,
+      "lucros": "561 milhões de €",
+      "variacao": "204 %"
+    },
+    {
+      "posicao": 4,
+      "banco": "Banco Português de Investimento",
+      "funcionarios": 4404,
+      "balcoes": 325,
+      "lucros": "365 milhões de €",
+      "variacao": "19 %"
+    },
+    {
+      "posicao": 5,
+      "banco": "Abanca",
+      "funcionarios": "",
+      "balcoes": "",
+      "lucros": "217 milhões de €",
+      "variacao": "41 %"
+    },
+    {
+      "posicao": 6,
+      "banco": "Banco Comercial Português",
+      "funcionarios": 6252,
+      "balcoes": 408,
+      "lucros": "207 milhões de €",
+      "variacao": "50 %"
+    },
+    {
+      "posicao": 7,
+      "banco": "Crédito Agrícola",
+      "funcionarios": "",
+      "balcoes": 617,
+      "lucros": "144 milhões de €",
+      "variacao": ""
+    },
+    {
+      "posicao": 8,
+      "banco": "Banco CTT",
+      "funcionarios": "",
+      "balcoes": "",
+      "lucros": "126 milhões de €",
+      "variacao": "27 %"
+    },
+    {
+      "posicao": 9,
+      "banco": "Bankinter",
+      "funcionarios": "",
+      "balcoes": "",
+      "lucros": "78 milhões de €",
+      "variacao": ""
+    },
+    {
+      "posicao": 10,
+      "banco": "Banco Montepio",
+      "funcionarios": 3406,
+      "balcoes": 239,
+      "lucros": "34 milhões de €",
+      "variacao": ""
+    }
+  ],
+  "meta": {
+    "title": "Maiores bancos de Portugal - Free Download",
+    "description": "Os maiores bancos a operar em Portugal por lucros: número de funcionários, balcões, lucros anuais e variação. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maiores bancos de Portugal | ListBase",
+    "seo_description": "Download Maiores bancos de Portugal — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_dos_maiores_bancos_de_Portugal"
+    ]
+  }
+}
