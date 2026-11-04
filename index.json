@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-04T02:24:57.765Z",
-  "total_datasets": 527,
-  "total_records": 742481,
+  "generated": "2026-11-04T02:25:08.502Z",
+  "total_datasets": 528,
+  "total_records": 742503,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -3881,6 +3881,33 @@
         "xlsx": {
           "name": "pt-br-artistas-recordistas-vendas_PT.xlsx",
           "size": 10292
+        }
+      }
+    },
+    {
+      "id": "pt-br-vencedores-festivais-musica-tv",
+      "name": "Vencedores dos festivais de música brasileira da TV aberta",
+      "category": "music",
+      "record_count": 22,
+      "columns": [
+        "ano",
+        "festival",
+        "emissora",
+        "cancao",
+        "autoria",
+        "interpretes"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Festivais_de_Música_Brasileira",
+      "updated": "2026-11",
+      "size": 6611,
+      "files": {
+        "csv": {
+          "name": "pt-br-vencedores-festivais-musica-tv_PT.csv",
+          "size": 1996
+        },
+        "xlsx": {
+          "name": "pt-br-vencedores-festivais-musica-tv_PT.xlsx",
+          "size": 8232
         }
       }
     },

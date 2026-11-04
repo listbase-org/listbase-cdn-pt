@@ -1,0 +1,232 @@
+{
+  "id": "pt-br-vencedores-festivais-musica-tv",
+  "name": "Vencedores dos festivais de música brasileira da TV aberta",
+  "title": "Vencedores dos festivais de música brasileira da TV aberta",
+  "description": "Canções vencedoras dos festivais brasileiros de canções originais na TV aberta (MPB da TV Excelsior/Record, FIC da TV Globo e outros) desde 1965: festival, emissora, canção, autoria e intérpretes.",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Festivais_de_Música_Brasileira",
+  "source_url": "https://pt.wikipedia.org/wiki/Festivais_de_Música_Brasileira",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "festival",
+      "label": "Festival",
+      "type": "string"
+    },
+    {
+      "key": "emissora",
+      "label": "Emissora",
+      "type": "string"
+    },
+    {
+      "key": "cancao",
+      "label": "Cancao",
+      "type": "string"
+    },
+    {
+      "key": "autoria",
+      "label": "Autoria",
+      "type": "string"
+    },
+    {
+      "key": "interpretes",
+      "label": "Interpretes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": 1965,
+      "festival": "1º MPB",
+      "emissora": "TV Excelsior",
+      "cancao": "Arrastão",
+      "autoria": "Edu Lobo e Vinicius de Moraes",
+      "interpretes": "Elis Regina"
+    },
+    {
+      "ano": 1966,
+      "festival": "FNMPB",
+      "emissora": "TV Excelsior",
+      "cancao": "Porta-Estandarte",
+      "autoria": "Geraldo Vandré e Fernando Lona",
+      "interpretes": "Tuca e Airto Moreira"
+    },
+    {
+      "ano": 1966,
+      "festival": "2º MPB",
+      "emissora": "TV Record",
+      "cancao": "A Banda",
+      "autoria": "Chico Buarque",
+      "interpretes": "Chico Buarque e Nara Leão"
+    },
+    {
+      "ano": 1966,
+      "festival": "2º MPB",
+      "emissora": "TV Record",
+      "cancao": "Disparada",
+      "autoria": "Geraldo Vandré e Théo de Barros",
+      "interpretes": "Jair Rodrigues"
+    },
+    {
+      "ano": 1966,
+      "festival": "1º FIC",
+      "emissora": "TV Rio",
+      "cancao": "Saveiros",
+      "autoria": "Dori Caymmi e Nelson Motta",
+      "interpretes": "Nana Caymmi"
+    },
+    {
+      "ano": 1967,
+      "festival": "3º MPB",
+      "emissora": "TV Record",
+      "cancao": "Ponteio",
+      "autoria": "Edu Lobo e Capinam",
+      "interpretes": "Edu Lobo e Marília Medalha"
+    },
+    {
+      "ano": 1967,
+      "festival": "2º FIC",
+      "emissora": "TV Globo",
+      "cancao": "Margarida",
+      "autoria": "Guttemberg Guarabyra",
+      "interpretes": "Guttemberg Guarabyra e Grupo Manifesto"
+    },
+    {
+      "ano": 1968,
+      "festival": "4º MPB",
+      "emissora": "TV Record",
+      "cancao": "São São Paulo",
+      "autoria": "Tom Zé",
+      "interpretes": "Tom Zé"
+    },
+    {
+      "ano": 1968,
+      "festival": "1ª BS",
+      "emissora": "TV Record",
+      "cancao": "Lapinha",
+      "autoria": "Baden Powell e Paulo César Pinheiro",
+      "interpretes": "Elis Regina e Os Originais do Samba"
+    },
+    {
+      "ano": 1968,
+      "festival": "3º FIC",
+      "emissora": "TV Globo",
+      "cancao": "Sabiá",
+      "autoria": "Chico Buarque e Tom Jobim",
+      "interpretes": "Cynara e Cybele"
+    },
+    {
+      "ano": 1969,
+      "festival": "5º MPB",
+      "emissora": "TV Record",
+      "cancao": "Sinal Fechado",
+      "autoria": "Paulinho da Viola",
+      "interpretes": "Paulinho da Viola"
+    },
+    {
+      "ano": 1969,
+      "festival": "4º FIC",
+      "emissora": "TV Globo",
+      "cancao": "Cantiga por Luciana",
+      "autoria": "Edmundo Souto e Paulinho Tapajós",
+      "interpretes": "Evinha"
+    },
+    {
+      "ano": 1970,
+      "festival": "5º FIC",
+      "emissora": "TV Globo",
+      "cancao": "BR-3",
+      "autoria": "Antônio Adolfo e Tibério Gaspar",
+      "interpretes": "Tony Tornado e Trio Ternura"
+    },
+    {
+      "ano": 1971,
+      "festival": "6º FIC",
+      "emissora": "TV Globo",
+      "cancao": "Kyrie",
+      "autoria": "Paulinho Soares e Marcelo Silva",
+      "interpretes": "Trio Ternura"
+    },
+    {
+      "ano": 1972,
+      "festival": "7º FIC",
+      "emissora": "TV Globo",
+      "cancao": "Fio Maravilha",
+      "autoria": "Jorge Ben",
+      "interpretes": "Maria Alcina"
+    },
+    {
+      "ano": 1975,
+      "festival": "FA",
+      "emissora": "TV Globo",
+      "cancao": "Como Um Ladrão",
+      "autoria": "Carlinhos Vergueiro",
+      "interpretes": "Carlinhos Vergueiro"
+    },
+    {
+      "ano": 1979,
+      "festival": "FMPB",
+      "emissora": "TV Tupi",
+      "cancao": "Quem me Levará Sou Eu",
+      "autoria": "Manduka e Dominguinhos",
+      "interpretes": "Fagner"
+    },
+    {
+      "ano": 1980,
+      "festival": "MPB 80",
+      "emissora": "TV Globo",
+      "cancao": "Agonia",
+      "autoria": "Mongol",
+      "interpretes": "Oswaldo Montenegro"
+    },
+    {
+      "ano": 1981,
+      "festival": "MPB 81",
+      "emissora": "TV Globo",
+      "cancao": "Purpurina",
+      "autoria": "Jerônimo Jardim",
+      "interpretes": "Lucinha Lins"
+    },
+    {
+      "ano": 1982,
+      "festival": "MPB 82",
+      "emissora": "TV Globo",
+      "cancao": "Pelo Amor de Deus",
+      "autoria": "Paulo Debétio e Paulinho Rezende",
+      "interpretes": "Emílio Santiago"
+    },
+    {
+      "ano": 1985,
+      "festival": "FF",
+      "emissora": "TV Globo",
+      "cancao": "Escrito nas Estrelas",
+      "autoria": "Arnaldo Black e Carlos Rennó",
+      "interpretes": "Tetê Espíndola"
+    },
+    {
+      "ano": 2000,
+      "festival": "FMB",
+      "emissora": "TV Globo",
+      "cancao": "Tudo Bem Meu Bem",
+      "autoria": "Ricardo Soares",
+      "interpretes": "Ricardo Soares"
+    }
+  ],
+  "meta": {
+    "title": "Vencedores dos festivais de música brasileira da TV aberta - Free Download",
+    "description": "Canções vencedoras dos festivais brasileiros de canções originais na TV aberta (MPB da TV Excelsior/Record, FIC da TV Globo e outros) desde 1965: festival, emissora, canção, autoria e intérpretes. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vencedores dos festivais de música brasileira da TV aberta | ListBase",
+    "seo_description": "Download Vencedores dos festivais de música brasileira da TV aberta — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Festivais_de_Música_Brasileira"
+    ]
+  }
+}
