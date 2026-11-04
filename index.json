@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-04T02:25:17.676Z",
-  "total_datasets": 529,
-  "total_records": 742513,
+  "generated": "2026-11-04T02:25:26.732Z",
+  "total_datasets": 530,
+  "total_records": 742549,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -14988,6 +14988,34 @@
         "xlsx": {
           "name": "pt-premio-pessoa_PT.xlsx",
           "size": 8374
+        }
+      }
+    },
+    {
+      "id": "pt-vulcoes-de-portugal",
+      "name": "Vulcões de Portugal",
+      "category": "science",
+      "record_count": 36,
+      "columns": [
+        "nome",
+        "altitude_m",
+        "localizacao",
+        "ilha",
+        "regiao",
+        "coordenadas",
+        "ultima_erupcao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_vulcões_de_Portugal",
+      "updated": "2026-11",
+      "size": 11111,
+      "files": {
+        "csv": {
+          "name": "pt-vulcoes-de-portugal_PT.csv",
+          "size": 4059
+        },
+        "xlsx": {
+          "name": "pt-vulcoes-de-portugal_PT.xlsx",
+          "size": 9131
         }
       }
     },

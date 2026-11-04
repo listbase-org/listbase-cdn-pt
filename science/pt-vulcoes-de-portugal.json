@@ -1,0 +1,385 @@
+{
+  "id": "pt-vulcoes-de-portugal",
+  "name": "Vulcões de Portugal",
+  "title": "Vulcões de Portugal",
+  "description": "Vulcões dos Açores e da Madeira (incluindo vulcões submarinos): altitude em metros, localização, ilha, coordenadas e data da última erupção.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_vulcões_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_vulcões_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "number"
+    },
+    {
+      "key": "localizacao",
+      "label": "Localizacao",
+      "type": "string"
+    },
+    {
+      "key": "ilha",
+      "label": "Ilha",
+      "type": "string"
+    },
+    {
+      "key": "regiao",
+      "label": "Regiao",
+      "type": "string"
+    },
+    {
+      "key": "coordenadas",
+      "label": "Coordenadas",
+      "type": "string"
+    },
+    {
+      "key": "ultima_erupcao",
+      "label": "Ultima Erupcao",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Água de Pau (Fogo)",
+      "altitude_m": 947,
+      "localizacao": "Serra de Água de Pau",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 45′ 44″ N, 25° 28′ 25″ O",
+      "ultima_erupcao": "1564"
+    },
+    {
+      "nome": "Caldeirão",
+      "altitude_m": 718,
+      "localizacao": "Morro dos Homens",
+      "ilha": "Corvo",
+      "regiao": "Açores",
+      "coordenadas": "39° 42′ 37″ N, 31° 06′ 39″ O",
+      "ultima_erupcao": ""
+    },
+    {
+      "nome": "Banco D. João de Castro",
+      "altitude_m": -43,
+      "localizacao": "Oceano Atlântico",
+      "ilha": "-",
+      "regiao": "Açores",
+      "coordenadas": "38° 13′ 47″ N, 26° 37′ 48″ O",
+      "ultima_erupcao": "1720"
+    },
+    {
+      "nome": "Sete Cidades",
+      "altitude_m": 856,
+      "localizacao": "Sete Cidades Massif",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 52′ 11″ N, 25° 46′ 48″ O",
+      "ultima_erupcao": "1880"
+    },
+    {
+      "nome": "Pico das Éguas",
+      "altitude_m": 874,
+      "localizacao": "Maciço das Sete Cidades",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 49′ 46″ N, 25° 45′ 18″ O",
+      "ultima_erupcao": ""
+    },
+    {
+      "nome": "Serra Gorda",
+      "altitude_m": 485,
+      "localizacao": "Região Fissural dos Picos",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 47′ 20″ N, 25° 40′ 59″ O",
+      "ultima_erupcao": "-5000"
+    },
+    {
+      "nome": "Congro",
+      "altitude_m": 560,
+      "localizacao": "Achada das Furnas",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 45′ 22″ N, 25° 24′ 25″ O",
+      "ultima_erupcao": "-3400"
+    },
+    {
+      "nome": "Furnas",
+      "altitude_m": 804,
+      "localizacao": "Achada das Furnas",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 46′ 11″ N, 25° 19′ 12″ O",
+      "ultima_erupcao": "1630"
+    },
+    {
+      "nome": "Vulcão de Santa Bárbara",
+      "altitude_m": 1021,
+      "localizacao": "Oeste da Terceira",
+      "ilha": "Terceira",
+      "regiao": "Açores",
+      "coordenadas": "38° 43′ 47″ N, 27° 19′ 11″ O",
+      "ultima_erupcao": "1761 (terra); 1998-2000 (mar)"
+    },
+    {
+      "nome": "Maciço do Pico Alto",
+      "altitude_m": 808,
+      "localizacao": "Agualva",
+      "ilha": "Terceira",
+      "regiao": "Açores",
+      "coordenadas": "38° 45′ 20″ N, 27° 12′ 36″ O",
+      "ultima_erupcao": "<1000"
+    },
+    {
+      "nome": "Complexo Vulcânico de Guilherme Moniz",
+      "altitude_m": 632,
+      "localizacao": "ilha Terceira",
+      "ilha": "Terceira",
+      "regiao": "Açores",
+      "coordenadas": "38° 41′ 20″ N, 27° 11′ 36″ O",
+      "ultima_erupcao": "<1000"
+    },
+    {
+      "nome": "Caldeira",
+      "altitude_m": 402,
+      "localizacao": "-",
+      "ilha": "Graciosa",
+      "regiao": "Açores",
+      "coordenadas": "39° 01′ 29″ N, 27° 58′ 19″ O",
+      "ultima_erupcao": "-10000"
+    },
+    {
+      "nome": "Pico",
+      "altitude_m": 2351,
+      "localizacao": "-",
+      "ilha": "Pico",
+      "regiao": "Açores",
+      "coordenadas": "38° 28′ 19″ N, 28° 21′ 50″ O",
+      "ultima_erupcao": "1718"
+    },
+    {
+      "nome": "Capelinhos",
+      "altitude_m": 755,
+      "localizacao": "Costa de Nau",
+      "ilha": "Faial",
+      "regiao": "Açores",
+      "coordenadas": "38° 36′ 06″ N, 28° 49′ 57″ O",
+      "ultima_erupcao": "1958"
+    },
+    {
+      "nome": "Caldeira",
+      "altitude_m": 1043,
+      "localizacao": "Cabeço Gordo",
+      "ilha": "Faial",
+      "regiao": "Açores",
+      "coordenadas": "38° 35′ 09″ N, 28° 42′ 50″ O",
+      "ultima_erupcao": "1958"
+    },
+    {
+      "nome": "Vulcão Submarino da Serreta",
+      "altitude_m": -300,
+      "localizacao": "Oceano Atlântico",
+      "ilha": "-",
+      "regiao": "Açores",
+      "coordenadas": "38° 47′ 06″ N, 27° 27′ 00″ O",
+      "ultima_erupcao": "2001"
+    },
+    {
+      "nome": "S.V. Velas",
+      "altitude_m": -32,
+      "localizacao": "Oceano Atlântico",
+      "ilha": "-",
+      "regiao": "Açores",
+      "coordenadas": "38° 42′ 30″ N, 28° 17′ 08″ O",
+      "ultima_erupcao": "1964"
+    },
+    {
+      "nome": "S.V. Cachorro",
+      "altitude_m": -130,
+      "localizacao": "Oceano Atlântico",
+      "ilha": "-",
+      "regiao": "Açores",
+      "coordenadas": "38° 35′ 32″ N, 28° 29′ 32″ O",
+      "ultima_erupcao": "1963"
+    },
+    {
+      "nome": "Banco Monaco",
+      "altitude_m": -197,
+      "localizacao": "Oceano Atlântico",
+      "ilha": "-",
+      "regiao": "Açores",
+      "coordenadas": "37° 36′ 02″ N, 25° 51′ 59″ O",
+      "ultima_erupcao": "1911"
+    },
+    {
+      "nome": "S.V. Sabrina",
+      "altitude_m": -26,
+      "localizacao": "Oceano Atlântico",
+      "ilha": "-",
+      "regiao": "Açores",
+      "coordenadas": "37° 51′ 09″ N, 25° 52′ 18″ O",
+      "ultima_erupcao": "1811"
+    },
+    {
+      "nome": "Urzelina",
+      "altitude_m": 900,
+      "localizacao": "Mato da Urzelina",
+      "ilha": "São Jorge",
+      "regiao": "Açores",
+      "coordenadas": "38° 40′ 03″ N, 28° 07′ 19″ O",
+      "ultima_erupcao": "1808"
+    },
+    {
+      "nome": "Pico Vermelho",
+      "altitude_m": 937,
+      "localizacao": "Fissural Zone",
+      "ilha": "Terceira",
+      "regiao": "Açores",
+      "coordenadas": "38° 44′ 07″ N, 27° 16′ 48″ O",
+      "ultima_erupcao": "1761"
+    },
+    {
+      "nome": "Cabeços do Fogo",
+      "altitude_m": 445,
+      "localizacao": "Fissural Zone",
+      "ilha": "Pico",
+      "regiao": "Açores",
+      "coordenadas": "38° 25′ 57″ N, 28° 18′ 27″ O",
+      "ultima_erupcao": "1720"
+    },
+    {
+      "nome": "S.V. Hirondella",
+      "altitude_m": -2665,
+      "localizacao": "Oceano Atlântico",
+      "ilha": "-",
+      "regiao": "Açores",
+      "coordenadas": "38° 07′ 02″ N, 26° 07′ 59″ O",
+      "ultima_erupcao": "1682"
+    },
+    {
+      "nome": "Cabeço do Fogo",
+      "altitude_m": 104,
+      "localizacao": "Capelo",
+      "ilha": "Faial",
+      "regiao": "Açores",
+      "coordenadas": "38° 35′ 11″ N, 28° 46′ 08″ O",
+      "ultima_erupcao": "1672"
+    },
+    {
+      "nome": "Picarito",
+      "altitude_m": 430,
+      "localizacao": "Capelo",
+      "ilha": "Faial",
+      "regiao": "Açores",
+      "coordenadas": "38° 35′ 11″ N, 28° 46′ 08″ O",
+      "ultima_erupcao": "1673"
+    },
+    {
+      "nome": "Pico do Fogo",
+      "altitude_m": 275,
+      "localizacao": "Fissural Zone",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 46′ 32″ N, 25° 34′ 56″ O",
+      "ultima_erupcao": "1652"
+    },
+    {
+      "nome": "S.V. Candelária",
+      "altitude_m": -115,
+      "localizacao": "Ponta da Candelária",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 49′ 34″ N, 25° 52′ 26″ O",
+      "ultima_erupcao": "1638"
+    },
+    {
+      "nome": "Lagoa Seca",
+      "altitude_m": 375,
+      "localizacao": "Furnas",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 44′ 34″ N, 25° 19′ 33″ O",
+      "ultima_erupcao": "1630"
+    },
+    {
+      "nome": "Mistério da Queimada",
+      "altitude_m": 264,
+      "localizacao": "Fissual Zones Manadas",
+      "ilha": "São Jorge",
+      "regiao": "Açores",
+      "coordenadas": "38° 40′ 45″ N, 28° 11′ 25″ O",
+      "ultima_erupcao": "1580"
+    },
+    {
+      "nome": "Pico do Sapateiro (Pico Queimado)",
+      "altitude_m": 348,
+      "localizacao": "Serra de Água de Paul",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 47′ 07″ N, 25° 32′ 37″ O",
+      "ultima_erupcao": "1563"
+    },
+    {
+      "nome": "Cabeços do Mistério",
+      "altitude_m": 816,
+      "localizacao": "Fissural Zone",
+      "ilha": "Pico",
+      "regiao": "Açores",
+      "coordenadas": "38° 28′ 04″ N, 28° 16′ 20″ O",
+      "ultima_erupcao": "1564"
+    },
+    {
+      "nome": "Pico do Gaspar",
+      "altitude_m": 361,
+      "localizacao": "Achada das Furnas",
+      "ilha": "São Miguel",
+      "regiao": "Açores",
+      "coordenadas": "37° 45′ 31″ N, 25° 18′ 58″ O",
+      "ultima_erupcao": "1443"
+    },
+    {
+      "nome": "Pico do Arieiro",
+      "altitude_m": 1818,
+      "localizacao": "Planalto da Madeira",
+      "ilha": "Madeira",
+      "regiao": "Madeira",
+      "coordenadas": "32° 44′ 08″ N, 16° 55′ 44″ O",
+      "ultima_erupcao": ""
+    },
+    {
+      "nome": "Pico Ruivo",
+      "altitude_m": 1862,
+      "localizacao": "Planalto da Madeira",
+      "ilha": "Madeira",
+      "regiao": "Madeira",
+      "coordenadas": "32° 45′ 31″ N, 16° 56′ 32″ O",
+      "ultima_erupcao": ""
+    },
+    {
+      "nome": "Pico das Torres",
+      "altitude_m": 1853,
+      "localizacao": "Planalto da Madeira",
+      "ilha": "Madeira",
+      "regiao": "Madeira",
+      "coordenadas": "32° 44′ 59″ N, 16° 56′ 19″ O",
+      "ultima_erupcao": ""
+    }
+  ],
+  "meta": {
+    "title": "Vulcões de Portugal - Free Download",
+    "description": "Vulcões dos Açores e da Madeira (incluindo vulcões submarinos): altitude em metros, localização, ilha, coordenadas e data da última erupção. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vulcões de Portugal | ListBase",
+    "seo_description": "Download Vulcões de Portugal — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_vulcões_de_Portugal"
+    ]
+  }
+}
