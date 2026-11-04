@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-03T02:31:46.643Z",
-  "total_datasets": 526,
-  "total_records": 742409,
+  "generated": "2026-11-04T02:24:57.765Z",
+  "total_datasets": 527,
+  "total_records": 742481,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -3544,6 +3544,32 @@
         "xlsx": {
           "name": "pt-br-capitanias-hereditarias_PT.xlsx",
           "size": 7574
+        }
+      }
+    },
+    {
+      "id": "pt-br-governadores-gerais-do-brasil",
+      "name": "Governadores-gerais e vice-reis do Brasil colonial",
+      "category": "history",
+      "record_count": 72,
+      "columns": [
+        "numero",
+        "nome",
+        "titulo",
+        "periodo",
+        "destaques"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_governadores-gerais_do_Brasil",
+      "updated": "2026-11",
+      "size": 39390,
+      "files": {
+        "csv": {
+          "name": "pt-br-governadores-gerais-do-brasil_PT.csv",
+          "size": 30588
+        },
+        "xlsx": {
+          "name": "pt-br-governadores-gerais-do-brasil_PT.xlsx",
+          "size": 18292
         }
       }
     },

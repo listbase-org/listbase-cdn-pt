@@ -1,0 +1,555 @@
+{
+  "id": "pt-br-governadores-gerais-do-brasil",
+  "name": "Governadores-gerais e vice-reis do Brasil colonial",
+  "title": "Governadores-gerais e vice-reis do Brasil colonial",
+  "description": "Lista dos governadores-gerais, governos interinos e vice-reis do Estado do Brasil (1549–1808), com título, período de governo e destaques.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_governadores-gerais_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_governadores-gerais_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "titulo",
+      "label": "Titulo",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "destaques",
+      "label": "Destaques",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 1,
+      "nome": "Tomé de Sousa",
+      "titulo": "governador",
+      "periodo": "29 de março de 1549 até 1 de maio de 1553",
+      "destaques": "Primeiro governador-geral do Brasil. Chegou à Bahia trazendo colonos, jesuítas (entre eles Manuel da Nóbrega), funcionários e o Regimento. Fundou Salvador, capital da colônia. Construiu as edificações necessárias para o funcionamento da cidade. Visitou vilas da colônia. Mandou melhorar as fortificações de Ilhéus e São Vicente."
+    },
+    {
+      "numero": 2,
+      "nome": "Duarte da Costa",
+      "titulo": "governador",
+      "periodo": "1 de maio de 1553 até 3 de janeiro de 1558",
+      "destaques": "Desembarcou em Salvador junto de mais alguns jesuítas, como José de Anchieta. Teve de lidar com uma revolta indígena no recôncavo baiano contra a dominação. Em sua administração, invasores franceses ocuparam o Rio de Janeiro, e ele não possuía recursos para expulsá-los. Iniciaram-se as entradas para explorar o interior."
+    },
+    {
+      "numero": 3,
+      "nome": "Mem de Sá",
+      "titulo": "governador",
+      "periodo": "3 de janeiro de 1558 até 2 de março de 1572",
+      "destaques": "Tentou apaziguar os conflitos relacionados à escravização dos índios e expulsou os franceses do Rio de Janeiro. Na luta, perdeu o sobrinho Estácio de Sá, fundador do que seria a cidade do Rio de Janeiro. Transferiu gente para onde hoje é a cidade de São Paulo. Lidou com a peste e a fome na Bahia e deu continuidade às entradas e bandeiras."
+    },
+    {
+      "numero": "",
+      "nome": "Fernão da Silva",
+      "titulo": "interino",
+      "periodo": "2 de março de 1572 até maio de 1573",
+      "destaques": "Ouvidor-geral e provedor-mor da Fazenda, governou interinamente após a morte de Mem de Sá. Depois de entregar o governo a seu sucessor, Luís de Brito e Almeida, este o designou para lutar contra os índios na Paraíba. Foi a primeira expedição para conquistar aquela terra dos índios potiguares, mas foi mal-sucedida."
+    },
+    {
+      "numero": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1572)",
+      "nome": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1572)",
+      "titulo": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1572)",
+      "periodo": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1572)",
+      "destaques": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1572)"
+    },
+    {
+      "numero": 4,
+      "nome": "Luís de Brito e Almeida",
+      "titulo": "governador (na Bahia)",
+      "periodo": "maio de 1573 até 12 de abril de 1578",
+      "destaques": "Após o governo interino de Fernão da Silva, governou o Norte, a partir da capitania de Ilhéus. Continuou a lidar com os franceses e indígenas sem conseguir vencê-los definitivamente. Fundou a vila de Santa Luzia. A Carta Régia de 16 de dezembro de 1572 dividiu a colônia em duas, por questões de segurança e administração."
+    },
+    {
+      "numero": "",
+      "nome": "António Salema",
+      "titulo": "governador (no Rio)",
+      "periodo": "11 de junho de 1574 até 29 de julho de 1577",
+      "destaques": "Administrou o Sul, cuja capital foi instalada no Rio de Janeiro. Os franceses, após terem sido expulsos do Rio, instalaram uma feitoria em Cabo Frio. O governador empreendeu uma expedição para combatê-los. Apesar de ter-lhes infligido uma derrota, com a ajuda de Arariboia, também não logrou vencê-los definitivamente."
+    },
+    {
+      "numero": "Reunificação do governo-geral na Bahia (1578)",
+      "nome": "Reunificação do governo-geral na Bahia (1578)",
+      "titulo": "Reunificação do governo-geral na Bahia (1578)",
+      "periodo": "Reunificação do governo-geral na Bahia (1578)",
+      "destaques": "Reunificação do governo-geral na Bahia (1578)"
+    },
+    {
+      "numero": 5,
+      "nome": "Lourenço da Veiga",
+      "titulo": "governador-geral",
+      "periodo": "12 de abril de 1578 até 17 de junho de 1581",
+      "destaques": "Primeiro governador-geral a ter oficialmente esse título. O governo voltou a ser unido na Bahia. Empreendeu algumas tentativas de conquistar a Paraíba dos índios, tendo feito pouco além disso. Durante sua administração, teve início, em 1580, a União Ibérica: após a morte de dois reis portugueses, Filipe II da Espanha assumiu a coroa portuguesa como Filipe I de Portugal."
+    },
+    {
+      "numero": "Início da União Ibérica (1580)",
+      "nome": "Início da União Ibérica (1580)",
+      "titulo": "Início da União Ibérica (1580)",
+      "periodo": "Início da União Ibérica (1580)",
+      "destaques": "Início da União Ibérica (1580)"
+    },
+    {
+      "numero": "",
+      "nome": "Cosme Rangel de Macedo António Barreiros",
+      "titulo": "junta governativa",
+      "periodo": "17 de junho de 1581 até 11 de maio de 1582",
+      "destaques": "Após a morte de Lourenço da Veiga, o poder esteve com a Câmara de Salvador. Em seguida, uma junta governativa foi designada para governar. Seu mais importante membro foi o ouvidor-geral Cosme Rangel de Macedo. O outro foi o bispo Antonio Barreiros."
+    },
+    {
+      "numero": 6,
+      "nome": "Manuel Teles Barreto",
+      "titulo": "governador-geral",
+      "periodo": "11 de maio de 1582 até 9 de maio de 1587",
+      "destaques": "Primeiro governador nomeado por Filipe I de Portugal e II da Espanha (devido à União Ibérica). Com ele, chegaram ao Brasil os jesuítas Fernão Cardim e Rodrigo de Freitas. Durante sua administração, houve uma intensificação dos ataques de corsários de países inimigos da Espanha. Conquistou-se a Paraíba."
+    },
+    {
+      "numero": "",
+      "nome": "Cristóvão de Barros Antonio Barreiros",
+      "titulo": "junta governativa",
+      "periodo": "9 de maio de 1587 até 9 de junho de 1590",
+      "destaques": "Com a morte de Teles Barreto, seguiram-se dois governos provisórios: o do bispo Antonio Barreiros — que já havia governado na junta que precedeu Barreto — e o do provedor-mor da Fazenda Cristóvão de Barros. Este foi o administrador efetivo. Realizou a conquista definitiva do Sergipe e fundou aí a cidade de São Cristóvão."
+    },
+    {
+      "numero": "",
+      "nome": "Francisco Giraldes",
+      "titulo": "governador-geral",
+      "periodo": "9 de março de 1588 até 9 de junho de 1590",
+      "destaques": "Viajou para o Brasil para ocupar o cargo, mas não conseguiu desembarcar, retornando para Lisboa."
+    },
+    {
+      "numero": 7,
+      "nome": "Francisco de Sousa",
+      "titulo": "governador-geral",
+      "periodo": "9 de junho de 1590 até 1 de abril de 1602",
+      "destaques": "Combateu diversos ataques de corsários, o mais notório dos quais sendo o do inglês Cavendish, entre 1591 e 1592. Deu auxílio oficial às entradas ao interior, iniciadas por Mem de Sá, visando encontrar riquezas nos sertões. Atribui-se a ele a criação da primeira grande bandeira. Conquistou-se o Rio Grande do Norte."
+    },
+    {
+      "numero": 8,
+      "nome": "Diogo Botelho",
+      "titulo": "governador-geral",
+      "periodo": "1 de abril de 1602 até 7 de janeiro 1608",
+      "destaques": "Com o apoio de índios liderados por Zorobabé, reprimiu um quilombo em Itapicuru. Investiu contra os índios Aimorés. Instalou-se em Pernambuco para ficar mais próximo dos locais a serem conquistados durante o processo de conquista do Norte iniciado por seus antecessores, mas não foi bem-sucedido."
+    },
+    {
+      "numero": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1608)",
+      "nome": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1608)",
+      "titulo": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1608)",
+      "periodo": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1608)",
+      "destaques": "Repartição do Brasil: divisão em dois governos-gerais, um ao norte na Bahia e outro ao sul no Rio de Janeiro (1608)"
+    },
+    {
+      "numero": 9,
+      "nome": "Diogo de Meneses Sequeira",
+      "titulo": "governador-geral (na Bahia)",
+      "periodo": "1608 até 22 de agosto de 1612",
+      "destaques": "A colônia foi novamente dividida, desta vez por Filipe II de Portugal e III da Espanha, para facilitar a administração. O novo administrador governou o Norte. Antes de chegar à Bahia, passou por Pernambuco, onde melhorou fortificações. Na Bahia, uma de suas primeiras providências foi a instalação do Tribunal da Relação, instância máxima da colônia."
+    },
+    {
+      "numero": "",
+      "nome": "Francisco de Sousa",
+      "titulo": "governador-geral (no Rio)",
+      "periodo": "1609-1611",
+      "destaques": "Trata-se do mesmo Francisco de Sousa que foi o sétimo governador-geral. Ávido por riquezas, passou a maior parte de seu tempo em São Paulo, onde deu continuidade à organização das bandeiras. Penetrou por diversas capitanias. Morreu em 1611, no interior."
+    },
+    {
+      "numero": "Reunificação do governo-geral na Bahia (1612)",
+      "nome": "Reunificação do governo-geral na Bahia (1612)",
+      "titulo": "Reunificação do governo-geral na Bahia (1612)",
+      "periodo": "Reunificação do governo-geral na Bahia (1612)",
+      "destaques": "Reunificação do governo-geral na Bahia (1612)"
+    },
+    {
+      "numero": 10,
+      "nome": "Gaspar de Sousa",
+      "titulo": "governador-geral",
+      "periodo": "1613 até 1 de janeiro de 1617",
+      "destaques": "Foi incumbido de expulsar os franceses do Maranhão, que tentavam criar a França Equinocial. Por isso, chegou não à Bahia, mas a Pernambuco, devido à maior proximidade ao local a ser conquistado. Uma frota chefiada por Jerônimo de Albuquerque Maranhão conseguiu expulsá-los em 1615."
+    },
+    {
+      "numero": 11,
+      "nome": "Luís de Sousa 2º conde do Prado",
+      "titulo": "governador-geral",
+      "periodo": "1 de janeiro de 1617 até 12 de outubro de 1621",
+      "destaques": "Foi sobrinho do governador-geral Francisco de Sousa. Como ele, continuou a explorar os sertões. Visando povoar a terra, incentivou casamentos entre colonos e indígenas. Ao voltar a Portugal, recebeu o título de conde do Prado. No último ano de sua administração, Filipe II de Portugal e III da Espanha decretou a autonomia do Maranhão."
+    },
+    {
+      "numero": "Autonomização da Capitania do Maranhão, elevada à dignidade de Estado do Maranhão (1621)",
+      "nome": "Autonomização da Capitania do Maranhão, elevada à dignidade de Estado do Maranhão (1621)",
+      "titulo": "Autonomização da Capitania do Maranhão, elevada à dignidade de Estado do Maranhão (1621)",
+      "periodo": "Autonomização da Capitania do Maranhão, elevada à dignidade de Estado do Maranhão (1621)",
+      "destaques": "Autonomização da Capitania do Maranhão, elevada à dignidade de Estado do Maranhão (1621)"
+    },
+    {
+      "numero": 12,
+      "nome": "Diogo de Mendonça Furtado",
+      "titulo": "governador-geral",
+      "periodo": "12 de outubro de 1621 até 26 de julho de 1624",
+      "destaques": "Prevendo um ataque dos holandeses, fortificou Salvador. De todo modo, acabou preso pelos holandeses. Conta-se que quis jogar fogo em barris de pólvora após a chegada dos invasores, mas foi convencido a desistir da ideia. O holandês Johan Van Dorth tornou-se governador do Brasil."
+    },
+    {
+      "numero": "",
+      "nome": "Matias de Albuquerque conde de Alegrete",
+      "titulo": "governador-geral",
+      "periodo": "1624 até 3 de dezembro de 1624",
+      "destaques": "Era governador de Pernambuco quando foi designado governador-geral pela Câmera, devido à captura de Diogo Furtado. Em Pernambuco, tivera papel importante no combate aos holandeses. Foi o primeiro governador-geral nascido na colônia. Algumas fontes, contudo, não o contam como um governador-geral."
+    },
+    {
+      "numero": 13,
+      "nome": "Francisco de Moura Rolim",
+      "titulo": "governador-geral",
+      "periodo": "3 de dezembro de 1624 até 28 de dezembro de 1626",
+      "destaques": "Nomeado por seu primo Matias de Albuquerque, foi o segundo governador-geral nascido no Brasil. Na Bahia, reforçou o exército com soldados de outras capitanias, dando continuidade à guerra contra os holandeses. Com a chegada de uma esquadra hispano-portuguesa comandada por Fadrique de Toledo, portugueses e espanhóis entraram na Bahia, vencendo os holandeses em maio de 1625."
+    },
+    {
+      "numero": 14,
+      "nome": "Diogo Luís de Oliveira",
+      "titulo": "governador-geral",
+      "periodo": "28 de dezembro de 1626 até 11 de dezembro de 1635",
+      "destaques": "Durante sua administração, o holandês Henrique Lonck, após a derrota do seu povo na Bahia, comandou uma esquadra que invadiu Pernambuco. Uma esquadra luso-espanhola chegou mais tarde em auxílio (1631), havendo uma batalha naval com os holandeses. Também houve, com o avanço holandês, uma enorme migração de Pernambuco à Bahia."
+    },
+    {
+      "numero": 15,
+      "nome": "Pedro da Silva 1º conde de São Lourenço",
+      "titulo": "governador-geral",
+      "periodo": "11 de dezembro de 1635 até 20 de janeiro de 1639",
+      "destaques": "Durante sua administração, Maurício de Nassau chegou ao Brasil. Tratou de proteger a capital, Salvador, de Nassau e seus soldados, que a atacaram. Durante sua administração, houve também uma tentativa malsucedida de retomar Recife e Olinda dos holandeses. Foi a Batalha de Mata Redonda, na qual morreu Luis de Rojas y Borja, que chegara ao Brasil junto com o governador-geral para comandar as operações militares."
+    },
+    {
+      "numero": 16,
+      "nome": "Fernando de Mascarenhas 1º conde da Torre",
+      "titulo": "governador-geral",
+      "periodo": "20 de janeiro de 1639 até 21 de outubro de 1639",
+      "destaques": "Novo governador-geral, comandou uma grande esquadra preparada pela Espanha para a expulsão definitiva dos holandeses do Brasil. Mas, devido a excessivas demoras para atacar o inimigo em Pernambuco, a missão fracassou e a esquadra foi inteiramente destruída."
+    },
+    {
+      "numero": "",
+      "nome": "Vasco de Mascarenhas 1º conde de Óbidos",
+      "titulo": "governador-geral",
+      "periodo": "21 de outubro de 1639 até 26 de maio de 1640",
+      "destaques": "Nomeado pelo rei espanhol, fez parte da esquadra do seu antecessor, que visava a expulsão dos holandeses, e seu governo ocorreu no âmbito dessa guerra. Em seguida, foi chamado de volta a Portugal. Algumas fontes não o contam como governador-geral."
+    },
+    {
+      "numero": 17,
+      "nome": "Jorge de Mascarenhas 1º marquês de Montalvão",
+      "titulo": "1º vice-rei",
+      "periodo": "26 de maio de 1640 até 16 de agosto de 1642",
+      "destaques": "Primeiro a ter título de vice-rei, outorgado por Filipe III de Portugal e IV da Espanha. Lutou contra os holandeses, pressionando as tropas de Maurício de Nassau. Teve um governo curto. Após o fim da União Ibérica, foi chamado de volta a Portugal, acusado de traição, pois o novo rei de Portugal, João IV, era cético quanto à sua lealdade aos portugueses."
+    },
+    {
+      "numero": "Fim da União Ibérica (1640)",
+      "nome": "Fim da União Ibérica (1640)",
+      "titulo": "Fim da União Ibérica (1640)",
+      "periodo": "Fim da União Ibérica (1640)",
+      "destaques": "Fim da União Ibérica (1640)"
+    },
+    {
+      "numero": "",
+      "nome": "Pedro Sampaio Luís Bezerra Lourenço Correia",
+      "titulo": "junta governativa",
+      "periodo": "16 de agosto de 1642 até 26 de agosto de 1642",
+      "destaques": "Com a ida de Jorge de Mascarenhas a Portugal, assumiu uma junta composta por Pedro da Silva Sampaio, Luís Barbalho Bezerra e Lourenço de Brito Correia. O primeiro foi o mais relevante. Era bispo de Salvador. O segundo, à sombra de Pedro Sampaio, pouco pôde realizar. Sobre o terceiro, pouco se sabe. Nessa época houve a aclamação de Amador Bueno."
+    },
+    {
+      "numero": 18,
+      "nome": "António Teles da Silva",
+      "titulo": "governador-geral",
+      "periodo": "26 de agosto de 1642 até 22 de dezembro de 1647",
+      "destaques": "Foi nomeado por João IV de Portugal, já que a União Ibérica chegara ao fim. Sua administração foi marcada pelo empenho na chamada Insurreição Pernambucana, na qual atuou como articulador da insurreição luso-brasileira. Essa insurreição levaria mais tarde à expulsão definitiva dos holandeses."
+    },
+    {
+      "numero": 19,
+      "nome": "António Teles de Meneses 1º conde de Vila Pouca",
+      "titulo": "governador-geral",
+      "periodo": "22 de dezembro de 1647 até 10 de março de 1650",
+      "destaques": "Durante sua administração, houve a batalha dos Guararapes. Ficou famoso por ter sido o governante que derrotou os holandeses, embora não tenha conseguido expulsá-los definitivamente. Foi também durante o seu governo que foi criada, em Lisboa, a Companhia Geral do Comércio do Brasil em moldes semelhantes aos da Companhia Holandesa das Índias Ocidentais."
+    },
+    {
+      "numero": 20,
+      "nome": "João Rodrigues de Vasconcelos e Sousa 2º conde de Castelo Melhor",
+      "titulo": "governador-geral",
+      "periodo": "10 de março de 1650 até 6 de janeiro de 1654",
+      "destaques": "Partiu de Lisboa em 4 de novembro de 1649, no comando da primeira esquadra da Companhia Geral do Comércio do Brasil, que acabara de ser criada. Sua decisão de distribuir cargos na colônia a militares que lutaram em Pernambuco, em vez dos naturais da colônia, gerou descontentamento, tendo por isso uma administração conturbada."
+    },
+    {
+      "numero": 21,
+      "nome": "Jerónimo de Ataíde 6º conde de Atouguia",
+      "titulo": "governador-geral",
+      "periodo": "6 de janeiro de 1654 até 20 de junho de 1657",
+      "destaques": "Durante sua administração, os holandeses foram finalmente derrotados (assinou-se o Tratado de Taborda, no qual os holandeses capitulavam), e o \"Estado do Maranhão\" passou a se chamar \"Estado do Maranhão do Grão Pará\". Como governador-geral do Brasil, tentou dar fim ao conflito entre as famílias Pires e Camargos."
+    },
+    {
+      "numero": 22,
+      "nome": "Francisco Barreto de Meneses",
+      "titulo": "governador-geral",
+      "periodo": "20 de junho de 1657 até 24 de junho de 1663",
+      "destaques": "Participara na luta dos Guararapes, na qual lutou ao lado de Vidal de Negreiros, Henrique Dias, entre outros. Em sua administração, foram concluídas as negociações de paz entre Portugal e Holanda pelo Tratado de Haia de 1661. Após pagamento de indenização, a Holanda desistiu da posse de qualquer parte do território brasileiro."
+    },
+    {
+      "numero": 23,
+      "nome": "Vasco de Mascarenhas 1º conde de Óbidos",
+      "titulo": "2º vice-rei",
+      "periodo": "24 de junho de 1663 até 13 de junho de 1667",
+      "destaques": "Segundo vice-rei. Recebeu o título para realizar importantes reformas que lhe couberam. Tornou as capitanias hereditárias imediatamente sujeitas ao vice-rei, reduzindo os poderes dos donatários da capitanias e centralizando o poder. Realizou reformas monetárias e tributárias."
+    },
+    {
+      "numero": 24,
+      "nome": "Alexandre de Sousa Freire",
+      "titulo": "governador-geral",
+      "periodo": "13 de junho de 1667 até 8 de maio de 1671",
+      "destaques": "Pouco se sabe sobre ele ou sua administração. Sabe-se que foi avô de um governador do Estado do Maranhão e Grão Pará de mesmo nome."
+    },
+    {
+      "numero": 25,
+      "nome": "Afonso Furtado de Castro de Mendonça 1º visconde de Barbacena",
+      "titulo": "governador-geral",
+      "periodo": "8 de maio de 1671 até 26 de novembro de 1675",
+      "destaques": "Teve início a decadência do ciclo do açúcar, devido à concorrência do açúcar holandês das Antilhas. Procurou-se diversificar a economia e descobrir novas fontes de renda. Nesse contexto, houve a bandeira de Fernão Dias, que buscava esmeraldas. O governador ficou conhecido como \"o matador de índios\". Morreu no exercício do cargo."
+    },
+    {
+      "numero": "",
+      "nome": "Antônio Brito Agostinho Monteiro Álvaro de Azevedo",
+      "titulo": "junta governativa",
+      "periodo": "26 de novembro de 1675 até 15 de março de 1678",
+      "destaques": "Com a morte do governador, assumiu uma junta composta por Antônio Guedes de Brito — o mais importante da junta —, Agostinho de Azevedo Monteiro e Álvaro de Azevedo. Antônio Brito foi um bandeirante e rico proprietário de terras. Perseguiu indígenas hostis, sendo notório por isso. Pouco se sabe sobre os outros dois."
+    },
+    {
+      "numero": 26,
+      "nome": "Roque da Costa Barreto",
+      "titulo": "governador-geral",
+      "periodo": "15 de março de 1678 até 3 de maio de 1682",
+      "destaques": "Foi incumbido de continuar a diversificar as atividades econômicas da colônia. Em 1680, foi construída a Colônia do Sacramento. Em seguida, os espanhóis a invadiram. No ano seguinte, assinou-se o Tratado de Lisboa como resultado das tentativas de resolver os conflitos."
+    },
+    {
+      "numero": 27,
+      "nome": "António de Sousa Meneses",
+      "titulo": "governador-geral",
+      "periodo": "3 de maio de 1682 até 4 de junho de 1684",
+      "destaques": "Apelidado de \"braço de prata\" devido a uma prótese, teve uma administração impopular e era considerado arbitrário e violento. Foi criticado pelo poeta Gregório de Matos e pelo padre António Vieira. Devido às críticas deste, foi chamado de volta a Portugal."
+    },
+    {
+      "numero": 28,
+      "nome": "António Luís de Sousa Telo de Meneses 2º marquês das Minas",
+      "titulo": "governador-geral",
+      "periodo": "4 de junho de 1684 até 4 de junho de 1687",
+      "destaques": "Foi encarregado de apaziguar as inquietações nascidas nos governos anteriores, em especial o do \"braço de prata\". O acontecimento mais notório em sua administração foi a Revolta de Beckman, contra a Companhia de Comércio do Maranhão. (Cabe lembrar que este governador-geral não governava o Norte do Brasil.)"
+    },
+    {
+      "numero": 29,
+      "nome": "Matias da Cunha",
+      "titulo": "governador-geral",
+      "periodo": "4 de junho de 1687 até 24 de outubro de 1688",
+      "destaques": "Foi governador-geral por curto período, até sua morte. Nesse cargo, combateu os indígenas, sobretudo nos sertões do Rio Grande do Norte e do Ceará. Atacou também o Quilombo dos Palmares."
+    },
+    {
+      "numero": "",
+      "nome": "Manuel da Ressurreição Manuel Carneiro de Sá",
+      "titulo": "junta governativa",
+      "periodo": "24 de outubro de 1688 até 11 de outubro de 1690",
+      "destaques": "Com a morte de Matias da Cunha, assumiu provisoriamente uma junta composta por Manuel da Ressurreição (imagem) e Manuel Carneiro de Sá. O primeiro foi quem efetivamente governou, tendo sido indicado pelo próprio Matias da Cunha. Teve de enfrentar levantes indígenas no Nordeste. Junto com o governador de Pernambuco e com a ajuda de Domingos Jorge Velho, encabeçou a \" Guerra dos Bárbaros \"."
+    },
+    {
+      "numero": 30,
+      "nome": "Antônio Luís Gonçalves da Câmara Coutinho",
+      "titulo": "governador-geral",
+      "periodo": "11 de outubro de 1690 até 22 de maio de 1694",
+      "destaques": "Teve de lidar com os problemas financeiros da colônia, agravados pelas várias lutas contra os indígenas. Apesar das dificuldades, introduziu na colônia o cultivo de especiarias, como a pimenta e a canela. Descobriu as primeiras minas de salitre. Em sua reforma monetária, criou uma moeda para circulação exclusiva na colônia."
+    },
+    {
+      "numero": 31,
+      "nome": "João de Lencastre",
+      "titulo": "governador-geral",
+      "periodo": "22 de maio de 1694 até 3 de julho de 1702",
+      "destaques": "Foi encarregado pelo rei de encontrar mais jazidas de ouro na região das Minas Gerais, que já haviam sido descobertas, mas que eram ainda poucas. Sua administração foi marcada pela destruição do Quilombo de Palmares e pela morte de Zumbi."
+    },
+    {
+      "numero": 32,
+      "nome": "Rodrigo da Costa",
+      "titulo": "governador-geral",
+      "periodo": "3 de julho de 1702 até 8 de setembro de 1705",
+      "destaques": "Foi em sua gestão que se iniciou de modo intensivo a exploração do ouro e de outros minerais nas Minas Gerais, criando as condições que levariam à Guerra dos Emboabas. No Sul, evacuou-se a Colônia do Sacramento, sendo ela entregue aos espanhóis."
+    },
+    {
+      "numero": 33,
+      "nome": "Luís César de Meneses",
+      "titulo": "governador-geral",
+      "periodo": "8 de setembro de 1705 até 3 de maio de 1710",
+      "destaques": "Teve início, em sua administração, a Guerra dos Emboabas (1707-09). Em 1705, foi enviado para o governo-geral do Brasil e tomou posse. Agradecendo-lhe os serviços prestados, em 26 de novembro de 1709, o rei lhe escrevia, dispensando-o das suas funções e a entregando-as a D. Lourenço de Almada."
+    },
+    {
+      "numero": 34,
+      "nome": "Lourenço de Almada 9º conde de Avranches",
+      "titulo": "governador-geral",
+      "periodo": "3 de maio de 1710 até 14 de outubro de 1711",
+      "destaques": "Contribuiu com várias obras militares, entre elas o Reduto do Rio Vermelho e o Forte de São Lourenço da Ilha de Itaparica, ambos a Bahia. Este último foi nomeado em sua homenagem. Ocorreu, durante sua administração a Guerra dos Mascates, em Pernambuco, e a famosa invasão do corsário francês Duguay-Trouin, no Rio de Janeiro."
+    },
+    {
+      "numero": 35,
+      "nome": "Pedro de Vasconcelos e Sousa",
+      "titulo": "governador-geral",
+      "periodo": "14 de outubro de 1711 até 13 de julho de 1714",
+      "destaques": "Logo ao assumir o cargo, teve de lidar com uma revolta em Salvador. A população se revoltara contra a coroa devido à taxação excessiva do sal e a outras medidas impopulares. Embora não fosse responsável pelas medidas, sua forma de lidar com a rebelião fez dele um governador impopular."
+    },
+    {
+      "numero": 36,
+      "nome": "Pedro António de Meneses Noronha de Albuquerque 1º marquês de Angeja",
+      "titulo": "3º vice-rei",
+      "periodo": "13 de julho de 1714 até 21 de agosto de 1718",
+      "destaques": "Terceiro vice-rei, mandou reabrir as Casas da Moeda da Bahia, do Rio e de Minas Gerais, para que se cunhasse ouro. Estabeleceu imposto de 10% sobre artigos importados. Construiu e reformou fortes e deu impulso à construção naval. Realizou também melhorias na capital, como reformas e novas construções."
+    },
+    {
+      "numero": 37,
+      "nome": "Sancho de Faro e Sousa 2º conde de Vimieiro",
+      "titulo": "governador-geral",
+      "periodo": "21 de agosto de 1718 até 13 de outubro de 1719",
+      "destaques": "Impôs severo castigo a 48 piratas ingleses que tiveram seu navio apreendido na costa de Macaé, no Rio de Janeiro, e que lhe foram enviados para serem julgados na Bahia. Treze dos piratas fugiram e os restantes foram enforcados. O governador já viera doente de Portugal e morreu após um ano de governo."
+    },
+    {
+      "numero": "",
+      "nome": "Sebastião da Vide Caetano Figueiredo João Araújo e Azevedo",
+      "titulo": "junta governativa",
+      "periodo": "13 de outubro de 1719 até 23 de novembro de 1720",
+      "destaques": "Com a morte do governador, formou-se uma junta provisória encabeçada pelo arcebispo Sebastião Monteiro da Vide (imagem). Ele foi autor de um pedido de beatificação de Madre Vitória da Encarnação. Os outros dois membros da junta foram Caetano de Brito e Figueiredo — um dos fundadores da Academia dos Esquecidos (vide abaixo) — e João de Araújo e Azevedo."
+    },
+    {
+      "numero": 38,
+      "nome": "Vasco Fernandes César de Meneses 1º conde de Sabugosa",
+      "titulo": "4º vice-rei",
+      "periodo": "23 de novembro de 1720 até 11 de maio de 1735",
+      "destaques": "Criou a Academia dos Esquecidos, primeira sociedade literária da colônia. Impôs severo castigo aos envolvidos no motim do Terço Velho. Criou vilas, como a de Rio de Contas, para iniciar o povoamento das regiões que tinham ouro. A partir dele, todos os governadores-gerais seriam vice-reis."
+    },
+    {
+      "numero": 39,
+      "nome": "André de Melo e Castro 2º conde das Galveias",
+      "titulo": "5º vice-rei",
+      "periodo": "11 de maio de 1735 até 17 de dezembro de 1749",
+      "destaques": "Foi governador de Minas Gerais entre 1732 e 1735. Já nas funções de vice-rei, foi autor de uma carta considerada por historiadores como a primeira tentativa de preservação do patrimônio histórico do Brasil. A carta, endereçada ao governador de Pernambuco, tratava do uso que vinha sendo feito do Palácio de Friburgo, do tempo de Maurício de Nassau."
+    },
+    {
+      "numero": 40,
+      "nome": "Luís Pedro Peregrino de Carvalho e Ataíde 10º conde de Atouguia",
+      "titulo": "6º vice-rei",
+      "periodo": "17 de dezembro de 1749 até 17 de agosto de 1754",
+      "destaques": "Modificou as leis que regulamentavam o trabalho nas minas de ouro e nas casas de fundição, impondo maior ordem à extração e comercialização do metal. Em Portugal, o Marquês do Pombal assumia o cargo de ministro. O governador solicitou demissão à coroa, mas não obtinha resposta. Decidiu voltar a Portugal, onde faleceu a 7 de setembro de 1756."
+    },
+    {
+      "numero": "",
+      "nome": "José Botelho de Matos Manoel Sotomaior Lourenço Monteiro",
+      "titulo": "junta governativa",
+      "periodo": "17 de agosto de 1754 até 23 de dezembro de 1755",
+      "destaques": "Antes de voltar a Portugal, o governador entregou o poder a uma junta. José Botelho de Matos (imagem), apesar de não ser jesuíta, defendia estes padres, e por isso teve atritos com o Marquês do Pombal. Deste modo, a junta teve vida curta. Manoel Antonio da Cunha Sotomaior, outro integrante, era provedor-mor da fazenda. O terceiro, Lourenço Monteiro, faleceu pouco depois de formada a junta."
+    },
+    {
+      "numero": 41,
+      "nome": "Marcos José de Noronha e Brito 6º conde dos Arcos",
+      "titulo": "7º vice-rei",
+      "periodo": "23 de dezembro de 1755 até 9 de janeiro de 1760",
+      "destaques": "Auxiliou na reconstrução de Lisboa após o Sismo de Lisboa de 1755. Para esse fim, impôs tributo à população da colônia. Durante sua administração, emitiu-se a ordem de expulsão dos jesuítas de Portugal e das colônias, que ele cumpriu, novamente tentando agradar à corte portuguesa."
+    },
+    {
+      "numero": 42,
+      "nome": "António de Almeida Soares Portugal 1º marquês do Lavradio",
+      "titulo": "8º vice-rei",
+      "periodo": "9 de janeiro de 1760 até 8 de julho de 1760",
+      "destaques": "Último vice-rei da Bahia. Foi escolhido para o cargo por Pombal. Chegou ao Brasil incumbido de expulsar definitivamente os jesuítas, mas, como já chegasse doente, morreu poucos meses depois, tendo feito nada de notório além de deportar 600 jesuítas, concluindo o trabalho do seu antecessor."
+    },
+    {
+      "numero": "",
+      "nome": "Tomás Rubi José de Andrade Gonçalo Alvim Manuel de Santa Inês",
+      "titulo": "junta governativa",
+      "periodo": "8 de julho de 1760 até 27 de junho de 1763",
+      "destaques": "Formou-se então, com a morte do governador, uma junta: Tomás Rubi de Barros Barreto, José Carvalho de Andrade e Gonçalo Xavier de Barros e Alvim. Poucos meses depois, Tomás Rubi foi substituído pelo arcebispo Manuel de Santa Inês (imagem), que foi incumbido, junto com os outros dois integrantes, de realizar a transferência da capital da colônia."
+    },
+    {
+      "numero": "Transferência da capital de Salvador para o Rio de Janeiro (1763)",
+      "nome": "Transferência da capital de Salvador para o Rio de Janeiro (1763)",
+      "titulo": "Transferência da capital de Salvador para o Rio de Janeiro (1763)",
+      "periodo": "Transferência da capital de Salvador para o Rio de Janeiro (1763)",
+      "destaques": "Transferência da capital de Salvador para o Rio de Janeiro (1763)"
+    },
+    {
+      "numero": 43,
+      "nome": "Antônio Álvares da Cunha 1º conde da Cunha",
+      "titulo": "9º vice-rei",
+      "periodo": "27 de junho de 1763 até 31 de agosto de 1767",
+      "destaques": "Primeiro vice-rei da nova capital, lidou com os conflitos com os espanhóis no sul do Brasil, que tentavam ocupar o atual Rio Grande do Sul. Construiu e reformou fortes, como o da Praia Vermelha, entre outras medidas. Foi impopular por ter executado a ordem da corte de proibir o ofício de ourives, para prevenir o contrabando do ouro."
+    },
+    {
+      "numero": 44,
+      "nome": "Antônio Rolim de Moura Tavares 1º conde de Azambuja",
+      "titulo": "10º vice-rei",
+      "periodo": "17 de novembro de 1767 até 4 de novembro de 1769",
+      "destaques": "Foi governador de Mato Grosso e da Bahia antes de assumir o governo-geral. O conflito no Sul com os espanhóis já ameaçava atingir diretamente o Rio de Janeiro. Cuidou das defesas da capital, fortificando principalmente o litoral, e reorganizou militarmente a cidade."
+    },
+    {
+      "numero": 45,
+      "nome": "Luís de Almeida Portugal Soares Mascarenhas 2º marquês do Lavradio",
+      "titulo": "11º vice-rei",
+      "periodo": "4 de novembro de 1769 até 30 de abril de 1778",
+      "destaques": "Continuou a defender a colônia dos espanhóis. Portugal recuperou o Rio Grande do Sul, mas perdeu novamente a Colônia do Sacramento. No Rio, construiu o Forte do Leme (hoje Forte Duque de Caxias) e criou a Academia Científica, e introduziu-se o café na cidade. Favoreceu o desenvolvimento da lavoura, pois previa que o esgotamento do ouro seria desastroso para a economia."
+    },
+    {
+      "numero": "Extinção do Estado do Grão-Pará e Rio Negro e do Estado do Maranhão e Piauí, e sua incorporação ao Estado do Brasil (1775)",
+      "nome": "Extinção do Estado do Grão-Pará e Rio Negro e do Estado do Maranhão e Piauí, e sua incorporação ao Estado do Brasil (1775)",
+      "titulo": "Extinção do Estado do Grão-Pará e Rio Negro e do Estado do Maranhão e Piauí, e sua incorporação ao Estado do Brasil (1775)",
+      "periodo": "Extinção do Estado do Grão-Pará e Rio Negro e do Estado do Maranhão e Piauí, e sua incorporação ao Estado do Brasil (1775)",
+      "destaques": "Extinção do Estado do Grão-Pará e Rio Negro e do Estado do Maranhão e Piauí, e sua incorporação ao Estado do Brasil (1775)"
+    },
+    {
+      "numero": 46,
+      "nome": "Luís de Vasconcelos e Sousa 4º conde de Figueiró",
+      "titulo": "12º vice-rei",
+      "periodo": "30 de abril de 1778 até 9 de maio de 1790",
+      "destaques": "A defesa do Rio deixou temporariamente de ser a principal preocupação. Fez várias melhorias na capital. Concluiu o Passeio Público. Criou uma sociedade literária e a Casa dos Pássaros, que daria origem ao Museu Nacional. Foi em sua administração que se descobriu a Inconfidência Mineira. Mandou prender Tiradentes."
+    },
+    {
+      "numero": 47,
+      "nome": "José Luís de Castro 2º conde de Resende",
+      "titulo": "13º vice-rei",
+      "periodo": "9 de maio de 1790 até 14 de outubro de 1801",
+      "destaques": "Em sua administração, foram julgados os conspiradores e Tiradentes foi executado. De temperamento difícil, e desconfiado dos intelectuais e maçons, fechou a Sociedade Literária criada por Vasconcelos e mandou prender seus membros. Organizou um serviço de correios para o país. Em sua administração, denunciou-se a Conjuração Baiana, e, no último ano, reiniciou-se a luta contra os espanhóis."
+    },
+    {
+      "numero": 48,
+      "nome": "Fernando José de Portugal e Castro 2º marquês de Aguiar",
+      "titulo": "14º vice-rei",
+      "periodo": "14 de outubro de 1801 até 21 de agosto de 1806",
+      "destaques": "Após ter sido governador da Bahia, assumiu o cargo no Rio de Janeiro. Atualizou o Regimento que fora trazido em 1677 pelo governador-geral Roque da Costa Barreto e que havia muito estava desatualizado. Fez críticas à administração colonial e deu sugestões para melhorias no governo."
+    },
+    {
+      "numero": 49,
+      "nome": "Marcos de Noronha e Brito 8º conde dos Arcos",
+      "titulo": "15º vice-rei",
+      "periodo": "14 de outubro de 1806 até 22 de janeiro de 1808",
+      "destaques": "Último vice-rei do Brasil. Realizou o embelezamento de várias cidades e preparou o Rio para receber a corte portuguesa, que viria para o Brasil para escapar de Napoleão. A corte se instalou em sua residência, o Paço dos Vice-Reis (hoje Paço Imperial). Com isso, teve fim a mais longa época da história do Brasil e iniciou-se o período monárquico. No ano seguinte, foi nomeado governador da Bahia."
+    }
+  ],
+  "meta": {
+    "title": "Governadores-gerais e vice-reis do Brasil colonial - Free Download",
+    "description": "Lista dos governadores-gerais, governos interinos e vice-reis do Estado do Brasil (1549–1808), com título, período de governo e destaques. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Governadores-gerais e vice-reis do Brasil colonial | ListBase",
+    "seo_description": "Download Governadores-gerais e vice-reis do Brasil colonial — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_governadores-gerais_do_Brasil"
+    ]
+  }
+}
