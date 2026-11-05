@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-05T02:29:11.320Z",
-  "total_datasets": 535,
-  "total_records": 742793,
+  "generated": "2026-11-05T02:29:49.433Z",
+  "total_datasets": 536,
+  "total_records": 742819,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -3674,6 +3674,34 @@
         "xlsx": {
           "name": "pt-reis-de-portugal_PT.xlsx",
           "size": 12138
+        }
+      }
+    },
+    {
+      "id": "pt-alfabeto-portugues-letras",
+      "name": "Alfabeto português – letras, nomes e pronúncia",
+      "category": "language",
+      "record_count": 26,
+      "columns": [
+        "numero",
+        "maiuscula",
+        "minuscula",
+        "nome_da_letra",
+        "afi",
+        "transliteracao_comum",
+        "exemplo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs",
+      "updated": "2026-11",
+      "size": 7522,
+      "files": {
+        "csv": {
+          "name": "pt-alfabeto-portugues-letras_PT.csv",
+          "size": 1534
+        },
+        "xlsx": {
+          "name": "pt-alfabeto-portugues-letras_PT.xlsx",
+          "size": 8368
         }
       }
     },

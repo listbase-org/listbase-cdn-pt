@@ -1,0 +1,295 @@
+{
+  "id": "pt-alfabeto-portugues-letras",
+  "name": "Alfabeto português – letras, nomes e pronúncia",
+  "title": "Alfabeto português – letras, nomes e pronúncia",
+  "description": "As 26 letras do alfabeto português com forma maiúscula e minúscula, nome da letra em português, pronúncia no Alfabeto Fonético Internacional (AFI), transliteração comum e exemplo.",
+  "category": "language",
+  "source": "https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs",
+  "source_url": "https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "maiuscula",
+      "label": "Maiuscula",
+      "type": "string"
+    },
+    {
+      "key": "minuscula",
+      "label": "Minuscula",
+      "type": "string"
+    },
+    {
+      "key": "nome_da_letra",
+      "label": "Nome Da Letra",
+      "type": "string"
+    },
+    {
+      "key": "afi",
+      "label": "Afi",
+      "type": "string"
+    },
+    {
+      "key": "transliteracao_comum",
+      "label": "Transliteracao Comum",
+      "type": "string"
+    },
+    {
+      "key": "exemplo",
+      "label": "Exemplo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 1,
+      "maiuscula": "A",
+      "minuscula": "a",
+      "nome_da_letra": "á",
+      "afi": "/a/, /ɐ/ ou /ɑ/",
+      "transliteracao_comum": "a",
+      "exemplo": "'a' em amor"
+    },
+    {
+      "numero": 2,
+      "maiuscula": "B",
+      "minuscula": "b",
+      "nome_da_letra": "bê",
+      "afi": "/b/ ou /β/",
+      "transliteracao_comum": "b",
+      "exemplo": "'b' em sábado"
+    },
+    {
+      "numero": 3,
+      "maiuscula": "C",
+      "minuscula": "c",
+      "nome_da_letra": "cê",
+      "afi": "/k/, /s/",
+      "transliteracao_comum": "c",
+      "exemplo": "'c' em casa"
+    },
+    {
+      "numero": 4,
+      "maiuscula": "D",
+      "minuscula": "d",
+      "nome_da_letra": "dê",
+      "afi": "/d/ ou /ð/",
+      "transliteracao_comum": "dh, d",
+      "exemplo": "'d' em dádiva"
+    },
+    {
+      "numero": 5,
+      "maiuscula": "E",
+      "minuscula": "e",
+      "nome_da_letra": "ê / é",
+      "afi": "/e/, /ɛ/",
+      "transliteracao_comum": "e",
+      "exemplo": "'e' em elephante"
+    },
+    {
+      "numero": 6,
+      "maiuscula": "F",
+      "minuscula": "f",
+      "nome_da_letra": "efe / éf",
+      "afi": "/f/",
+      "transliteracao_comum": "ph, f",
+      "exemplo": "'f' em flor"
+    },
+    {
+      "numero": 7,
+      "maiuscula": "G",
+      "minuscula": "g",
+      "nome_da_letra": "gê / guê",
+      "afi": "/g/, /ʒ/ ou /ɣ/",
+      "transliteracao_comum": "g",
+      "exemplo": "'g' em grama"
+    },
+    {
+      "numero": 8,
+      "maiuscula": "H",
+      "minuscula": "h",
+      "nome_da_letra": "agá",
+      "afi": "/∅/ ou /h/",
+      "transliteracao_comum": "h",
+      "exemplo": "'h' em hambúrguer"
+    },
+    {
+      "numero": 9,
+      "maiuscula": "I",
+      "minuscula": "i",
+      "nome_da_letra": "i",
+      "afi": "/i/",
+      "transliteracao_comum": "i",
+      "exemplo": "'i' em idade"
+    },
+    {
+      "numero": 10,
+      "maiuscula": "J",
+      "minuscula": "j",
+      "nome_da_letra": "jota",
+      "afi": "/ʒ/",
+      "transliteracao_comum": "zh, j",
+      "exemplo": "'j' em jaca"
+    },
+    {
+      "numero": 11,
+      "maiuscula": "K",
+      "minuscula": "k",
+      "nome_da_letra": "cá / capa",
+      "afi": "/k/",
+      "transliteracao_comum": "k",
+      "exemplo": "'k' em Kátia"
+    },
+    {
+      "numero": 12,
+      "maiuscula": "L",
+      "minuscula": "l",
+      "nome_da_letra": "ele / él",
+      "afi": "/l/, /u/",
+      "transliteracao_comum": "l",
+      "exemplo": "'l' em lua"
+    },
+    {
+      "numero": 13,
+      "maiuscula": "M",
+      "minuscula": "m",
+      "nome_da_letra": "eme / ém",
+      "afi": "/m/, /~/",
+      "transliteracao_comum": "m",
+      "exemplo": "'m' em macaco"
+    },
+    {
+      "numero": 14,
+      "maiuscula": "N",
+      "minuscula": "n",
+      "nome_da_letra": "ene / én",
+      "afi": "/n/, /~/",
+      "transliteracao_comum": "n",
+      "exemplo": "'n' em nada"
+    },
+    {
+      "numero": 15,
+      "maiuscula": "O",
+      "minuscula": "o",
+      "nome_da_letra": "ô / ó",
+      "afi": "/o/, /ɔ/",
+      "transliteracao_comum": "o",
+      "exemplo": "'o' em olá"
+    },
+    {
+      "numero": 16,
+      "maiuscula": "P",
+      "minuscula": "p",
+      "nome_da_letra": "pê",
+      "afi": "/p/",
+      "transliteracao_comum": "p",
+      "exemplo": "'p' em pato"
+    },
+    {
+      "numero": 17,
+      "maiuscula": "Q",
+      "minuscula": "q",
+      "nome_da_letra": "quê",
+      "afi": "/k/",
+      "transliteracao_comum": "kw, q",
+      "exemplo": "'q' em quina"
+    },
+    {
+      "numero": 18,
+      "maiuscula": "R",
+      "minuscula": "r",
+      "nome_da_letra": "erre / ér",
+      "afi": "/ʁ/, /ɾ/",
+      "transliteracao_comum": "rh, r",
+      "exemplo": "'r' em rato"
+    },
+    {
+      "numero": 19,
+      "maiuscula": "S",
+      "minuscula": "s",
+      "nome_da_letra": "esse / és",
+      "afi": "/s/, /z/",
+      "transliteracao_comum": "s",
+      "exemplo": "'s' em sol"
+    },
+    {
+      "numero": 20,
+      "maiuscula": "T",
+      "minuscula": "t",
+      "nome_da_letra": "tê",
+      "afi": "/t/",
+      "transliteracao_comum": "t",
+      "exemplo": "'t' em tatu"
+    },
+    {
+      "numero": 21,
+      "maiuscula": "U",
+      "minuscula": "u",
+      "nome_da_letra": "u",
+      "afi": "/u/ ou /ʊ/",
+      "transliteracao_comum": "u",
+      "exemplo": "'u' em Ubá"
+    },
+    {
+      "numero": 22,
+      "maiuscula": "V",
+      "minuscula": "v",
+      "nome_da_letra": "vê",
+      "afi": "/v/",
+      "transliteracao_comum": "v",
+      "exemplo": "'v' em vaca"
+    },
+    {
+      "numero": 23,
+      "maiuscula": "W",
+      "minuscula": "w",
+      "nome_da_letra": "dáblio / dâblio/ dábliu / duplo vê / vê dobrado",
+      "afi": "/u/, /v/",
+      "transliteracao_comum": "u, w",
+      "exemplo": "'w' no Inglês em what"
+    },
+    {
+      "numero": 24,
+      "maiuscula": "X",
+      "minuscula": "x",
+      "nome_da_letra": "xis",
+      "afi": "/ʃ/, /ks/, /s/, /z/ ou /x/",
+      "transliteracao_comum": "x",
+      "exemplo": "'x' em xuxa"
+    },
+    {
+      "numero": 25,
+      "maiuscula": "Y",
+      "minuscula": "y",
+      "nome_da_letra": "ípsilon / i grego",
+      "afi": "/j/, /i/",
+      "transliteracao_comum": "y",
+      "exemplo": "'y' no Inglês em you"
+    },
+    {
+      "numero": 26,
+      "maiuscula": "Z",
+      "minuscula": "z",
+      "nome_da_letra": "zê",
+      "afi": "/z/, /s/",
+      "transliteracao_comum": "z",
+      "exemplo": "'z' em zebra"
+    }
+  ],
+  "meta": {
+    "title": "Alfabeto português – letras, nomes e pronúncia - Free Download",
+    "description": "As 26 letras do alfabeto português com forma maiúscula e minúscula, nome da letra em português, pronúncia no Alfabeto Fonético Internacional (AFI), transliteração comum e exemplo. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alfabeto português – letras, nomes e pronúncia | ListBase",
+    "seo_description": "Download Alfabeto português – letras, nomes e pronúncia — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs"
+    ]
+  }
+}
