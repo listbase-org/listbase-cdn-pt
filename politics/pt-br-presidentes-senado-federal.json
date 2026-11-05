@@ -1,0 +1,544 @@
+{
+  "id": "pt-br-presidentes-senado-federal",
+  "name": "Presidentes do Senado Federal do Brasil (desde 1891)",
+  "title": "Presidentes do Senado Federal do Brasil (desde 1891)",
+  "description": "Lista dos presidentes do Senado Federal do Brasil desde a Primeira República, com início e fim do mandato, estado, partido e ano da eleição.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Senado_Federal_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Senado_Federal_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inicio_mandato",
+      "label": "Inicio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fim_mandato",
+      "label": "Fim Mandato",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "eleicao",
+      "label": "Eleicao",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Floriano Peixoto",
+      "inicio_mandato": "26 de fevereiro de 1891",
+      "fim_mandato": "23 de novembro de 1891",
+      "estado": "Alagoas",
+      "partido": "Nenhum (militar)",
+      "eleicao": ""
+    },
+    {
+      "nome": "Prudente de Morais",
+      "inicio_mandato": "23 de novembro de 1891",
+      "fim_mandato": "15 de novembro de 1894",
+      "estado": "São Paulo",
+      "partido": "Republicano Federal PR Federal",
+      "eleicao": ""
+    },
+    {
+      "nome": "Manuel Vitorino",
+      "inicio_mandato": "1895",
+      "fim_mandato": "15 de novembro de 1898",
+      "estado": "Bahia",
+      "partido": "Republicano Federal PR Federal",
+      "eleicao": ""
+    },
+    {
+      "nome": "Francisco de Assis Rosa e Silva",
+      "inicio_mandato": "15 de novembro de 1898",
+      "fim_mandato": "15 de novembro de 1902",
+      "estado": "Pernambuco",
+      "partido": "Republicano Federal PR Federal",
+      "eleicao": ""
+    },
+    {
+      "nome": "Afonso Pena",
+      "inicio_mandato": "15 de novembro de 1902",
+      "fim_mandato": "15 de novembro de 1906",
+      "estado": "Minas Gerais",
+      "partido": "Republicano Mineiro PRM",
+      "eleicao": ""
+    },
+    {
+      "nome": "Nilo Peçanha",
+      "inicio_mandato": "15 de novembro de 1906",
+      "fim_mandato": "14 de junho de 1909",
+      "estado": "Rio de Janeiro",
+      "partido": "Republicano Fluminense PRF",
+      "eleicao": ""
+    },
+    {
+      "nome": "Venceslau Brás",
+      "inicio_mandato": "15 de novembro de 1910",
+      "fim_mandato": "15 de novembro de 1914",
+      "estado": "Minas Gerais",
+      "partido": "Republicano Mineiro PRM",
+      "eleicao": ""
+    },
+    {
+      "nome": "Urbano Santos da Costa Araújo",
+      "inicio_mandato": "15 de novembro de 1914",
+      "fim_mandato": "15 de novembro de 1918",
+      "estado": "Maranhão",
+      "partido": "",
+      "eleicao": ""
+    },
+    {
+      "nome": "Delfim Moreira",
+      "inicio_mandato": "15 de novembro de 1918",
+      "fim_mandato": "1 de julho de 1920",
+      "estado": "Minas Gerais",
+      "partido": "Republicano Mineiro PRM",
+      "eleicao": ""
+    },
+    {
+      "nome": "Bueno de Paiva",
+      "inicio_mandato": "10 de novembro de 1920",
+      "fim_mandato": "15 de novembro de 1922",
+      "estado": "Minas Gerais",
+      "partido": "Republicano Mineiro PRM",
+      "eleicao": ""
+    },
+    {
+      "nome": "Estácio Coimbra",
+      "inicio_mandato": "15 de novembro de 1922",
+      "fim_mandato": "15 de novembro de 1926",
+      "estado": "Pernambuco",
+      "partido": "Partido Republicano de Barreiros PRB",
+      "eleicao": ""
+    },
+    {
+      "nome": "Fernando de Melo Viana",
+      "inicio_mandato": "15 de novembro de 1926",
+      "fim_mandato": "24 de outubro de 1930",
+      "estado": "Minas Gerais",
+      "partido": "Republicano Mineiro PRM",
+      "eleicao": ""
+    },
+    {
+      "nome": "Antônio Garcia de Medeiros Neto",
+      "inicio_mandato": "29 de abril de 1935",
+      "fim_mandato": "2 de março de 1936",
+      "estado": "Bahia",
+      "partido": "",
+      "eleicao": "1935"
+    },
+    {
+      "nome": "Valdomiro de Barros Magalhães",
+      "inicio_mandato": "2 de março de 1936",
+      "fim_mandato": "30 de abril de 1936",
+      "estado": "Minas Gerais",
+      "partido": "",
+      "eleicao": "1935"
+    },
+    {
+      "nome": "Nereu Ramos",
+      "inicio_mandato": "19 de setembro de 1946",
+      "fim_mandato": "31 de janeiro de 1951",
+      "estado": "Santa Catarina",
+      "partido": "Social Democrático PSD",
+      "eleicao": "1945"
+    },
+    {
+      "nome": "Marcondes Filho",
+      "inicio_mandato": "31 de janeiro de 1951",
+      "fim_mandato": "24 de agosto de 1954",
+      "estado": "São Paulo",
+      "partido": "Trabalhista Brasileiro PTB",
+      "eleicao": "1950"
+    },
+    {
+      "nome": "Apolônio Jorge de Faria Sales",
+      "inicio_mandato": "31 de janeiro de 1956",
+      "fim_mandato": "31 de janeiro de 1958",
+      "estado": "Pernambuco",
+      "partido": "Social Democrático PSD",
+      "eleicao": "1954"
+    },
+    {
+      "nome": "João Goulart",
+      "inicio_mandato": "31 de janeiro de 1958",
+      "fim_mandato": "31 de janeiro de 1959",
+      "estado": "Rio Grande do Sul",
+      "partido": "Trabalhista Brasileiro PTB",
+      "eleicao": "1954"
+    },
+    {
+      "nome": "João Goulart",
+      "inicio_mandato": "31 de janeiro de 1959",
+      "fim_mandato": "25 de agosto de 1961",
+      "estado": "Rio Grande do Sul",
+      "partido": "Trabalhista Brasileiro PTB",
+      "eleicao": "1958"
+    },
+    {
+      "nome": "Auro de Moura Andrade",
+      "inicio_mandato": "25 de agosto de 1961",
+      "fim_mandato": "1 de abril de 1964",
+      "estado": "São Paulo",
+      "partido": "Social Democrático PSD",
+      "eleicao": "1958"
+    },
+    {
+      "nome": "Auro de Moura Andrade",
+      "inicio_mandato": "25 de agosto de 1961",
+      "fim_mandato": "1 de abril de 1964",
+      "estado": "São Paulo",
+      "partido": "Social Democrático PSD",
+      "eleicao": "1962"
+    },
+    {
+      "nome": "Auro de Moura Andrade",
+      "inicio_mandato": "1 de abril de 1964",
+      "fim_mandato": "27 de outubro de 1965",
+      "estado": "São Paulo",
+      "partido": "Social Democrático PSD",
+      "eleicao": "1962"
+    },
+    {
+      "nome": "Auro de Moura Andrade",
+      "inicio_mandato": "27 de outubro de 1965",
+      "fim_mandato": "1968",
+      "estado": "São Paulo",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": "1962"
+    },
+    {
+      "nome": "Auro de Moura Andrade",
+      "inicio_mandato": "27 de outubro de 1965",
+      "fim_mandato": "1968",
+      "estado": "São Paulo",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": ""
+    },
+    {
+      "nome": "Gilberto Marinho",
+      "inicio_mandato": "1968",
+      "fim_mandato": "1970",
+      "estado": "Guanabara",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": ""
+    },
+    {
+      "nome": "João Cleofas",
+      "inicio_mandato": "1970",
+      "fim_mandato": "1971",
+      "estado": "Pernambuco",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": ""
+    },
+    {
+      "nome": "Petrônio Portella",
+      "inicio_mandato": "1971",
+      "fim_mandato": "1973",
+      "estado": "Piauí",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": ""
+    },
+    {
+      "nome": "Filinto Müller",
+      "inicio_mandato": "1973",
+      "fim_mandato": "15 de março de 1973",
+      "estado": "Mato Grosso",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": ""
+    },
+    {
+      "nome": "Paulo Francisco Torres",
+      "inicio_mandato": "15 de março de 1973",
+      "fim_mandato": "15 de março de 1975",
+      "estado": "Rio de Janeiro",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": ""
+    },
+    {
+      "nome": "Magalhães Pinto",
+      "inicio_mandato": "15 de março de 1975",
+      "fim_mandato": "15 de março de 1977",
+      "estado": "Minas Gerais",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": "1974"
+    },
+    {
+      "nome": "Petrônio Portella",
+      "inicio_mandato": "15 de março de 1977",
+      "fim_mandato": "15 de março de 1979",
+      "estado": "Piauí",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": "1974"
+    },
+    {
+      "nome": "Luís Viana Filho",
+      "inicio_mandato": "15 de março de 1979",
+      "fim_mandato": "30 de janeiro de 1980",
+      "estado": "Bahia",
+      "partido": "Aliança Renovadora Nacional ARENA",
+      "eleicao": "1978"
+    },
+    {
+      "nome": "Luís Viana Filho",
+      "inicio_mandato": "30 de janeiro de 1980",
+      "fim_mandato": "15 de março de 1981",
+      "estado": "Bahia",
+      "partido": "Democrático Social PDS",
+      "eleicao": "1978"
+    },
+    {
+      "nome": "Jarbas Passarinho",
+      "inicio_mandato": "15 de março de 1981",
+      "fim_mandato": "1 de fevereiro de 1983",
+      "estado": "Pará",
+      "partido": "Democrático Social PDS",
+      "eleicao": "1978"
+    },
+    {
+      "nome": "Nilo Coelho",
+      "inicio_mandato": "1 de fevereiro de 1983",
+      "fim_mandato": "11 de novembro de 1983",
+      "estado": "Pernambuco",
+      "partido": "Democrático Social PDS",
+      "eleicao": "1982"
+    },
+    {
+      "nome": "Moacir Dalla",
+      "inicio_mandato": "11 de novembro de 1983",
+      "fim_mandato": "15 de março de 1985",
+      "estado": "Espírito Santo",
+      "partido": "Democrático Social PDS",
+      "eleicao": "1982"
+    },
+    {
+      "nome": "José Fragelli",
+      "inicio_mandato": "15 de março de 1985",
+      "fim_mandato": "15 de março de 1987",
+      "estado": "Mato Grosso do Sul",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "1982"
+    },
+    {
+      "nome": "Humberto Lucena",
+      "inicio_mandato": "15 de março de 1987",
+      "fim_mandato": "15 de março de 1989",
+      "estado": "Paraíba",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": ""
+    },
+    {
+      "nome": "Nelson Carneiro",
+      "inicio_mandato": "15 de março de 1989",
+      "fim_mandato": "15 de março de 1991",
+      "estado": "Rio de Janeiro",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": ""
+    },
+    {
+      "nome": "Mauro Benevides",
+      "inicio_mandato": "15 de março de 1991",
+      "fim_mandato": "28 de agosto de 1993",
+      "estado": "Ceará",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": ""
+    },
+    {
+      "nome": "Humberto Lucena",
+      "inicio_mandato": "28 de agosto de 1993",
+      "fim_mandato": "2 de fevereiro de 1995",
+      "estado": "Paraíba",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": ""
+    },
+    {
+      "nome": "José Sarney",
+      "inicio_mandato": "2 de fevereiro de 1995",
+      "fim_mandato": "2 de fevereiro de 1997",
+      "estado": "Amapá",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "1994"
+    },
+    {
+      "nome": "Antônio Carlos Magalhães",
+      "inicio_mandato": "2 de fevereiro de 1997",
+      "fim_mandato": "2 de fevereiro de 1999",
+      "estado": "Bahia",
+      "partido": "Partido da Frente Liberal PFL",
+      "eleicao": "1994"
+    },
+    {
+      "nome": "Antônio Carlos Magalhães",
+      "inicio_mandato": "2 de fevereiro de 1999",
+      "fim_mandato": "14 de fevereiro de 2001",
+      "estado": "Bahia",
+      "partido": "Partido da Frente Liberal PFL",
+      "eleicao": "1998"
+    },
+    {
+      "nome": "Jader Barbalho",
+      "inicio_mandato": "14 de fevereiro de 2001",
+      "fim_mandato": "19 de setembro de 2001",
+      "estado": "Pará",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "1998"
+    },
+    {
+      "nome": "Edison Lobão (interino)",
+      "inicio_mandato": "19 de setembro de 2001",
+      "fim_mandato": "20 de setembro de 2001",
+      "estado": "Maranhão",
+      "partido": "Partido da Frente Liberal PFL",
+      "eleicao": "1998"
+    },
+    {
+      "nome": "Ramez Tebet",
+      "inicio_mandato": "20 de setembro de 2001",
+      "fim_mandato": "2 de fevereiro de 2003",
+      "estado": "Mato Grosso do Sul",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "1998"
+    },
+    {
+      "nome": "José Sarney",
+      "inicio_mandato": "2 de fevereiro de 2003",
+      "fim_mandato": "2 de fevereiro de 2005",
+      "estado": "Amapá",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2002"
+    },
+    {
+      "nome": "Renan Calheiros",
+      "inicio_mandato": "2 de fevereiro de 2005",
+      "fim_mandato": "2 de fevereiro de 2007",
+      "estado": "Alagoas",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2002"
+    },
+    {
+      "nome": "Renan Calheiros",
+      "inicio_mandato": "2 de fevereiro de 2007",
+      "fim_mandato": "14 de outubro de 2007",
+      "estado": "Alagoas",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2006"
+    },
+    {
+      "nome": "Tião Viana (interino)",
+      "inicio_mandato": "14 de outubro de 2007",
+      "fim_mandato": "12 de dezembro de 2007",
+      "estado": "Acre",
+      "partido": "Partido dos Trabalhadores PT",
+      "eleicao": "2006"
+    },
+    {
+      "nome": "Garibaldi Alves Filho",
+      "inicio_mandato": "12 de dezembro de 2007",
+      "fim_mandato": "2 de fevereiro de 2009",
+      "estado": "Rio Grande do Norte",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2006"
+    },
+    {
+      "nome": "José Sarney",
+      "inicio_mandato": "2 de fevereiro de 2009",
+      "fim_mandato": "2 de fevereiro de 2011",
+      "estado": "Amapá",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2006"
+    },
+    {
+      "nome": "José Sarney",
+      "inicio_mandato": "2 de fevereiro de 2011",
+      "fim_mandato": "1 de fevereiro de 2013",
+      "estado": "Amapá",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2010"
+    },
+    {
+      "nome": "Renan Calheiros",
+      "inicio_mandato": "1 de fevereiro de 2013",
+      "fim_mandato": "1 de fevereiro de 2015",
+      "estado": "Alagoas",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2010"
+    },
+    {
+      "nome": "Renan Calheiros",
+      "inicio_mandato": "1 de fevereiro de 2015",
+      "fim_mandato": "1 de fevereiro de 2017",
+      "estado": "Alagoas",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2014"
+    },
+    {
+      "nome": "Eunício Oliveira",
+      "inicio_mandato": "1 de fevereiro de 2017",
+      "fim_mandato": "1 de fevereiro de 2019",
+      "estado": "Ceará",
+      "partido": "Partido do Movimento Democrático Brasileiro PMDB",
+      "eleicao": "2014"
+    },
+    {
+      "nome": "Davi Alcolumbre",
+      "inicio_mandato": "1 de fevereiro de 2019",
+      "fim_mandato": "1 de fevereiro de 2021",
+      "estado": "Amapá",
+      "partido": "Democratas DEM",
+      "eleicao": "2018"
+    },
+    {
+      "nome": "Rodrigo Pacheco",
+      "inicio_mandato": "1º de fevereiro de 2021",
+      "fim_mandato": "1º de fevereiro de 2023",
+      "estado": "Minas Gerais",
+      "partido": "Social Democrático PSD",
+      "eleicao": "2018"
+    },
+    {
+      "nome": "Rodrigo Pacheco",
+      "inicio_mandato": "1º de fevereiro de 2023",
+      "fim_mandato": "1° de fevereiro de 2025",
+      "estado": "Minas Gerais",
+      "partido": "Social Democrático PSD",
+      "eleicao": "2018"
+    },
+    {
+      "nome": "Davi Alcolumbre",
+      "inicio_mandato": "1º de fevereiro de 2025",
+      "fim_mandato": "em exercício",
+      "estado": "Amapá",
+      "partido": "União Brasil UNIÃO",
+      "eleicao": "2022"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes do Senado Federal do Brasil (desde 1891) - Free Download",
+    "description": "Lista dos presidentes do Senado Federal do Brasil desde a Primeira República, com início e fim do mandato, estado, partido e ano da eleição. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes do Senado Federal do Brasil (desde 1891) | ListBase",
+    "seo_description": "Download Presidentes do Senado Federal do Brasil (desde 1891) — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Senado_Federal_do_Brasil"
+    ]
+  }
+}
