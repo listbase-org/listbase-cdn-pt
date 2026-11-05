@@ -1,0 +1,387 @@
+{
+  "id": "pt-br-procuradores-gerais-republica",
+  "name": "Procuradores-Gerais da República do Brasil",
+  "title": "Procuradores-Gerais da República do Brasil",
+  "description": "Lista dos procuradores-gerais da República do Brasil desde 1891, com datas de início e fim do mandato e o presidente que os indicou.",
+  "category": "law",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_procuradores-gerais_da_República_(Brasil)",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_procuradores-gerais_da_República_(Brasil)",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fim",
+      "label": "Fim",
+      "type": "string"
+    },
+    {
+      "key": "indicacao_presidencial",
+      "label": "Indicacao Presidencial",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1",
+      "nome": "José Júlio de Albuquerque Barros",
+      "inicio": "3 de março de 1891",
+      "fim": "31 de agosto de 1893",
+      "indicacao_presidencial": "Deodoro da Fonseca"
+    },
+    {
+      "numero": "2",
+      "nome": "Ovídio Fernandes Trigo de Loureiro",
+      "inicio": "18 de setembro de 1894",
+      "fim": "29 de setembro de 1894",
+      "indicacao_presidencial": "Floriano Peixoto"
+    },
+    {
+      "numero": "3",
+      "nome": "Antônio de Sousa Martins",
+      "inicio": "20 de outubro de 1894",
+      "fim": "25 de dezembro de 1896",
+      "indicacao_presidencial": "Floriano Peixoto"
+    },
+    {
+      "numero": "4",
+      "nome": "Lúcio de Mendonça",
+      "inicio": "7 de janeiro de 1897",
+      "fim": "2 de agosto de 1897",
+      "indicacao_presidencial": "Prudente de Morais"
+    },
+    {
+      "numero": "5",
+      "nome": "Joaquim Antunes de Figueiredo Júnior",
+      "inicio": "2 de agosto de 1897",
+      "fim": "23 de agosto de 1897",
+      "indicacao_presidencial": "Prudente de Morais"
+    },
+    {
+      "numero": "6",
+      "nome": "João Pedro Belfort Vieira",
+      "inicio": "24 de agosto de 1897",
+      "fim": "2 de agosto de 1898",
+      "indicacao_presidencial": "Prudente de Morais"
+    },
+    {
+      "numero": "7",
+      "nome": "Antônio Augusto Ribeiro de Almeida",
+      "inicio": "17 de dezembro de 1898",
+      "fim": "11 de março de 1901",
+      "indicacao_presidencial": "Campos Sales"
+    },
+    {
+      "numero": "8",
+      "nome": "Epitácio Pessoa",
+      "inicio": "7 de junho de 1902",
+      "fim": "21 de outubro de 1905",
+      "indicacao_presidencial": "Campos Sales"
+    },
+    {
+      "numero": "9",
+      "nome": "Pedro Antônio de Oliveira Ribeiro",
+      "inicio": "21 de outubro de 1905",
+      "fim": "6 de dezembro de 1909",
+      "indicacao_presidencial": "Rodrigues Alves"
+    },
+    {
+      "numero": "10",
+      "nome": "Joaquim Xavier Guimarães Natal",
+      "inicio": "6 de dezembro de 1909",
+      "fim": "14 de novembro de 1910",
+      "indicacao_presidencial": "Nilo Peçanha"
+    },
+    {
+      "numero": "11",
+      "nome": "Antônio Augusto Cardoso de Castro",
+      "inicio": "25 de novembro de 1910",
+      "fim": "26 de outubro de 1911",
+      "indicacao_presidencial": "Hermes da Fonseca"
+    },
+    {
+      "numero": "12",
+      "nome": "Edmundo Muniz Barreto",
+      "inicio": "6 de setembro de 1911",
+      "fim": "29 de junho de 1919",
+      "indicacao_presidencial": "Hermes da Fonseca"
+    },
+    {
+      "numero": "13",
+      "nome": "Antônio Joaquim Pires de Carvalho e Albuquerque",
+      "inicio": "6 de agosto de 1919",
+      "fim": "18 de fevereiro de 1931",
+      "indicacao_presidencial": "Epitácio Pessoa"
+    },
+    {
+      "numero": "14",
+      "nome": "Antônio Bento de Faria",
+      "inicio": "28 de março de 1931",
+      "fim": "14 de julho de 1934",
+      "indicacao_presidencial": "Getúlio Vargas"
+    },
+    {
+      "numero": "15",
+      "nome": "Carlos Maximiliano",
+      "inicio": "2 de agosto de 1934",
+      "fim": "21 de abril de 1936",
+      "indicacao_presidencial": "Getúlio Vargas"
+    },
+    {
+      "numero": "16",
+      "nome": "Gabriel Passos",
+      "inicio": "27 de maio de 1936",
+      "fim": "17 de maio de 1945",
+      "indicacao_presidencial": "Getúlio Vargas"
+    },
+    {
+      "numero": "17",
+      "nome": "Hahnemann Guimarães",
+      "inicio": "17 de maio de 1945",
+      "fim": "31 de janeiro de 1946",
+      "indicacao_presidencial": "Getúlio Vargas"
+    },
+    {
+      "numero": "18",
+      "nome": "Themístocles Cavalcanti",
+      "inicio": "20 de fevereiro de 1946",
+      "fim": "6 de outubro de 1947",
+      "indicacao_presidencial": "Eurico Gaspar Dutra"
+    },
+    {
+      "numero": "19",
+      "nome": "Luís Gallotti",
+      "inicio": "13 de outubro de 1947",
+      "fim": "12 de setembro de 1949",
+      "indicacao_presidencial": "Eurico Gaspar Dutra"
+    },
+    {
+      "numero": "20",
+      "nome": "Plínio Travassos",
+      "inicio": "23 de setembro de 1949",
+      "fim": "24 de janeiro de 1957",
+      "indicacao_presidencial": "Eurico Gaspar Dutra"
+    },
+    {
+      "numero": "21",
+      "nome": "Carlos Medeiros",
+      "inicio": "7 de fevereiro de 1957",
+      "fim": "5 de dezembro de 1960",
+      "indicacao_presidencial": "Juscelino Kubitschek"
+    },
+    {
+      "numero": "22",
+      "nome": "Cândido de Oliveira Neto",
+      "inicio": "12 de dezembro de 1960",
+      "fim": "31 de janeiro de 1961",
+      "indicacao_presidencial": "Juscelino Kubitschek"
+    },
+    {
+      "numero": "23",
+      "nome": "Joaquim Canuto Mendes de Almeida",
+      "inicio": "20 de março de 1961",
+      "fim": "13 de setembro de 1961",
+      "indicacao_presidencial": "Jânio Quadros"
+    },
+    {
+      "numero": "24",
+      "nome": "Evandro Lins e Silva",
+      "inicio": "14 de setembro de 1961",
+      "fim": "23 de janeiro de 1963",
+      "indicacao_presidencial": "João Goulart"
+    },
+    {
+      "numero": "—",
+      "nome": "Cândido de Oliveira Neto (Segundo mandato)",
+      "inicio": "12 de fevereiro de 1963",
+      "fim": "6 de abril de 1964",
+      "indicacao_presidencial": "João Goulart"
+    },
+    {
+      "numero": "25",
+      "nome": "Osvaldo Trigueiro",
+      "inicio": "6 de junho de 1964",
+      "fim": "24 de novembro de 1965",
+      "indicacao_presidencial": "Humberto de Alencar Castelo Branco"
+    },
+    {
+      "numero": "26",
+      "nome": "Alcino Salazar",
+      "inicio": "2 de dezembro de 1965",
+      "fim": "10 de março de 1967",
+      "indicacao_presidencial": "Humberto de Alencar Castelo Branco"
+    },
+    {
+      "numero": "27",
+      "nome": "Haroldo Valladão",
+      "inicio": "30 de março de 1967",
+      "fim": "13 de novembro de 1967",
+      "indicacao_presidencial": "Costa e Silva"
+    },
+    {
+      "numero": "28",
+      "nome": "Décio Miranda",
+      "inicio": "24 de novembro de 1967",
+      "fim": "30 de outubro de 1969",
+      "indicacao_presidencial": "Costa e Silva"
+    },
+    {
+      "numero": "29",
+      "nome": "Francisco Xavier de Albuquerque",
+      "inicio": "6 de novembro de 1969",
+      "fim": "18 de abril de 1972",
+      "indicacao_presidencial": "Emílio Garrastazu Médici"
+    },
+    {
+      "numero": "30",
+      "nome": "Moreira Alves",
+      "inicio": "18 de abril de 1972",
+      "fim": "18 de junho de 1975",
+      "indicacao_presidencial": "Emílio Garrastazu Médici"
+    },
+    {
+      "numero": "31",
+      "nome": "Henrique Fonseca de Araújo",
+      "inicio": "10 de julho de 1975",
+      "fim": "14 de março de 1979",
+      "indicacao_presidencial": "Ernesto Geisel"
+    },
+    {
+      "numero": "32",
+      "nome": "Firmino Paz",
+      "inicio": "15 de março de 1979",
+      "fim": "11 de junho de 1981",
+      "indicacao_presidencial": "João Figueiredo"
+    },
+    {
+      "numero": "33",
+      "nome": "Inocêncio Mártires Coelho",
+      "inicio": "11 de junho de 1981",
+      "fim": "15 de março de 1985",
+      "indicacao_presidencial": "João Figueiredo"
+    },
+    {
+      "numero": "34",
+      "nome": "Sepúlveda Pertence",
+      "inicio": "15 de março de 1985",
+      "fim": "17 de maio de 1989",
+      "indicacao_presidencial": "José Sarney"
+    },
+    {
+      "numero": "35",
+      "nome": "Aristides Junqueira",
+      "inicio": "20 de junho de 1989",
+      "fim": "28 de junho de 1995",
+      "indicacao_presidencial": "José Sarney"
+    },
+    {
+      "numero": "36",
+      "nome": "Geraldo Brindeiro",
+      "inicio": "28 de junho de 1995",
+      "fim": "28 de junho de 2003",
+      "indicacao_presidencial": "Fernando Henrique Cardoso"
+    },
+    {
+      "numero": "37",
+      "nome": "Claudio Fonteles",
+      "inicio": "30 de junho de 2003",
+      "fim": "29 de janeiro de 2005",
+      "indicacao_presidencial": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "numero": "38",
+      "nome": "Antonio Fernando de Souza",
+      "inicio": "30 de janeiro de 2005",
+      "fim": "28 de junho de 2009",
+      "indicacao_presidencial": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "numero": "—",
+      "nome": "Deborah Duprat (interina)",
+      "inicio": "29 de junho de 2009",
+      "fim": "21 de julho de 2009",
+      "indicacao_presidencial": "—"
+    },
+    {
+      "numero": "39",
+      "nome": "Roberto Gurgel",
+      "inicio": "22 de julho de 2009",
+      "fim": "15 de agosto de 2013",
+      "indicacao_presidencial": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "numero": "—",
+      "nome": "Helenita Acioli (interina)",
+      "inicio": "15 de agosto de 2013",
+      "fim": "16 de setembro de 2013",
+      "indicacao_presidencial": "—"
+    },
+    {
+      "numero": "40",
+      "nome": "Rodrigo Janot",
+      "inicio": "17 de setembro de 2013",
+      "fim": "17 de setembro de 2017",
+      "indicacao_presidencial": "Dilma Rousseff"
+    },
+    {
+      "numero": "41",
+      "nome": "Raquel Dodge",
+      "inicio": "18 de setembro de 2017",
+      "fim": "17 de setembro de 2019",
+      "indicacao_presidencial": "Michel Temer"
+    },
+    {
+      "numero": "—",
+      "nome": "Alcides Martins (interino)",
+      "inicio": "18 de setembro de 2019",
+      "fim": "26 de setembro de 2019",
+      "indicacao_presidencial": "—"
+    },
+    {
+      "numero": "42",
+      "nome": "Augusto Aras",
+      "inicio": "26 de setembro de 2019",
+      "fim": "26 de setembro de 2023",
+      "indicacao_presidencial": "Jair Bolsonaro"
+    },
+    {
+      "numero": "—",
+      "nome": "Elizeta Ramos (interina)",
+      "inicio": "27 de setembro de 2023",
+      "fim": "18 de dezembro de 2023",
+      "indicacao_presidencial": "—"
+    },
+    {
+      "numero": "43",
+      "nome": "Paulo Gonet",
+      "inicio": "18 de dezembro de 2023",
+      "fim": "em exercício",
+      "indicacao_presidencial": "Luiz Inácio Lula da Silva"
+    }
+  ],
+  "meta": {
+    "title": "Procuradores-Gerais da República do Brasil - Free Download",
+    "description": "Lista dos procuradores-gerais da República do Brasil desde 1891, com datas de início e fim do mandato e o presidente que os indicou. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Procuradores-Gerais da República do Brasil | ListBase",
+    "seo_description": "Download Procuradores-Gerais da República do Brasil — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_procuradores-gerais_da_República_(Brasil)"
+    ]
+  }
+}
