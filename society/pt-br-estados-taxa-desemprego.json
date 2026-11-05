@@ -1,0 +1,280 @@
+{
+  "id": "pt-br-estados-taxa-desemprego",
+  "name": "Unidades federativas do Brasil por taxa de desemprego (2023–2025)",
+  "title": "Unidades federativas do Brasil por taxa de desemprego (2023–2025)",
+  "description": "Taxa de desemprego (%) em cada unidade federativa do Brasil em 2023, 2024 e 2025, com a variação no período.",
+  "category": "society",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_desemprego",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_desemprego",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "unidade_federativa",
+      "label": "Unidade Federativa",
+      "type": "string"
+    },
+    {
+      "key": "taxa_2025_pct",
+      "label": "Taxa 2025 Pct",
+      "type": "number"
+    },
+    {
+      "key": "taxa_2024_pct",
+      "label": "Taxa 2024 Pct",
+      "type": "number"
+    },
+    {
+      "key": "taxa_2023_pct",
+      "label": "Taxa 2023 Pct",
+      "type": "number"
+    },
+    {
+      "key": "variacao_2023_2025",
+      "label": "Variacao 2023 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": 1,
+      "unidade_federativa": "Bahia",
+      "taxa_2025_pct": 8.7,
+      "taxa_2024_pct": 10.8,
+      "taxa_2023_pct": 13.2,
+      "variacao_2023_2025": -4.8
+    },
+    {
+      "posicao": 2,
+      "unidade_federativa": "Pernambuco",
+      "taxa_2025_pct": 8.7,
+      "taxa_2024_pct": 10.8,
+      "taxa_2023_pct": 13.4,
+      "variacao_2023_2025": -4.5
+    },
+    {
+      "posicao": 3,
+      "unidade_federativa": "Distrito Federal",
+      "taxa_2025_pct": 7.5,
+      "taxa_2024_pct": 9.6,
+      "taxa_2023_pct": 10.1,
+      "variacao_2023_2025": -2.7
+    },
+    {
+      "posicao": 4,
+      "unidade_federativa": "Rio de Janeiro",
+      "taxa_2025_pct": 7.6,
+      "taxa_2024_pct": 9.3,
+      "taxa_2023_pct": 10.1,
+      "variacao_2023_2025": -2.5
+    },
+    {
+      "posicao": 5,
+      "unidade_federativa": "Sergipe",
+      "taxa_2025_pct": 7.9,
+      "taxa_2024_pct": 9,
+      "taxa_2023_pct": 11.4,
+      "variacao_2023_2025": -3.6
+    },
+    {
+      "posicao": 6,
+      "unidade_federativa": "Rio Grande do Norte",
+      "taxa_2025_pct": 8.1,
+      "taxa_2024_pct": 8.5,
+      "taxa_2023_pct": 10.7,
+      "variacao_2023_2025": -2.8
+    },
+    {
+      "posicao": 7,
+      "unidade_federativa": "Amazonas",
+      "taxa_2025_pct": 8.4,
+      "taxa_2024_pct": 8.4,
+      "taxa_2023_pct": 9.9,
+      "variacao_2023_2025": -1.6
+    },
+    {
+      "posicao": 8,
+      "unidade_federativa": "Amapá",
+      "taxa_2025_pct": 7.9,
+      "taxa_2024_pct": 8.3,
+      "taxa_2023_pct": 11.3,
+      "variacao_2023_2025": -3.3
+    },
+    {
+      "posicao": 9,
+      "unidade_federativa": "Paraíba",
+      "taxa_2025_pct": 6,
+      "taxa_2024_pct": 8.3,
+      "taxa_2023_pct": 9.6,
+      "variacao_2023_2025": -3.5
+    },
+    {
+      "posicao": 10,
+      "unidade_federativa": "Alagoas",
+      "taxa_2025_pct": 8.3,
+      "taxa_2024_pct": 7.6,
+      "taxa_2023_pct": 9.2,
+      "variacao_2023_2025": -1.5
+    },
+    {
+      "posicao": 11,
+      "unidade_federativa": "Roraima",
+      "taxa_2025_pct": 5.1,
+      "taxa_2024_pct": 7.5,
+      "taxa_2023_pct": 6.6,
+      "variacao_2023_2025": -0.9
+    },
+    {
+      "posicao": 12,
+      "unidade_federativa": "Pará",
+      "taxa_2025_pct": 6.8,
+      "taxa_2024_pct": 7.2,
+      "taxa_2023_pct": 7.7,
+      "variacao_2023_2025": -0.9
+    },
+    {
+      "posicao": 13,
+      "unidade_federativa": "Piauí",
+      "taxa_2025_pct": 9.3,
+      "taxa_2024_pct": 7.2,
+      "taxa_2023_pct": 9.8,
+      "variacao_2023_2025": -1.1
+    },
+    {
+      "posicao": 14,
+      "unidade_federativa": "Maranhão",
+      "taxa_2025_pct": 6.8,
+      "taxa_2024_pct": 7.1,
+      "taxa_2023_pct": 7.9,
+      "variacao_2023_2025": -0.5
+    },
+    {
+      "posicao": 15,
+      "unidade_federativa": "Ceará",
+      "taxa_2025_pct": 6.5,
+      "taxa_2024_pct": 7,
+      "taxa_2023_pct": 8.5,
+      "variacao_2023_2025": -2
+    },
+    {
+      "posicao": "-",
+      "unidade_federativa": "Brasil",
+      "taxa_2025_pct": 5.6,
+      "taxa_2024_pct": 6.6,
+      "taxa_2023_pct": 7.8,
+      "variacao_2023_2025": -2.1
+    },
+    {
+      "posicao": 16,
+      "unidade_federativa": "Acre",
+      "taxa_2025_pct": 6.6,
+      "taxa_2024_pct": 6.4,
+      "taxa_2023_pct": 7.5,
+      "variacao_2023_2025": -0.8
+    },
+    {
+      "posicao": 17,
+      "unidade_federativa": "São Paulo",
+      "taxa_2025_pct": 5,
+      "taxa_2024_pct": 6.2,
+      "taxa_2023_pct": 7.5,
+      "variacao_2023_2025": -2.5
+    },
+    {
+      "posicao": 18,
+      "unidade_federativa": "Tocantins",
+      "taxa_2025_pct": 4.7,
+      "taxa_2024_pct": 5.5,
+      "taxa_2023_pct": 5.8,
+      "variacao_2023_2025": -1.1
+    },
+    {
+      "posicao": 19,
+      "unidade_federativa": "Goiás",
+      "taxa_2025_pct": 4.6,
+      "taxa_2024_pct": 5.4,
+      "taxa_2023_pct": 5.8,
+      "variacao_2023_2025": -1.3
+    },
+    {
+      "posicao": 20,
+      "unidade_federativa": "Rio Grande do Sul",
+      "taxa_2025_pct": 4,
+      "taxa_2024_pct": 5.2,
+      "taxa_2023_pct": 5.4,
+      "variacao_2023_2025": -1.4
+    },
+    {
+      "posicao": 21,
+      "unidade_federativa": "Minas Gerais",
+      "taxa_2025_pct": 4.6,
+      "taxa_2024_pct": 5,
+      "taxa_2023_pct": 5.8,
+      "variacao_2023_2025": -1.2
+    },
+    {
+      "posicao": 22,
+      "unidade_federativa": "Paraná",
+      "taxa_2025_pct": 3.6,
+      "taxa_2024_pct": 4.1,
+      "taxa_2023_pct": 4.8,
+      "variacao_2023_2025": -1.2
+    },
+    {
+      "posicao": 23,
+      "unidade_federativa": "Espírito Santo",
+      "taxa_2025_pct": 3.3,
+      "taxa_2024_pct": 3.9,
+      "taxa_2023_pct": 5.7,
+      "variacao_2023_2025": -2.4
+    },
+    {
+      "posicao": 24,
+      "unidade_federativa": "Mato Grosso do Sul",
+      "taxa_2025_pct": 3,
+      "taxa_2024_pct": 3.9,
+      "taxa_2023_pct": 4.7,
+      "variacao_2023_2025": -1.7
+    },
+    {
+      "posicao": 25,
+      "unidade_federativa": "Rondônia",
+      "taxa_2025_pct": 3.3,
+      "taxa_2024_pct": 3.3,
+      "taxa_2023_pct": 3.2,
+      "variacao_2023_2025": 0.2
+    },
+    {
+      "posicao": 26,
+      "unidade_federativa": "Santa Catarina",
+      "taxa_2025_pct": 2.3,
+      "taxa_2024_pct": 2.9,
+      "taxa_2023_pct": 3.4,
+      "variacao_2023_2025": -1.2
+    },
+    {
+      "posicao": 27,
+      "unidade_federativa": "Mato Grosso",
+      "taxa_2025_pct": 2.2,
+      "taxa_2024_pct": 2.6,
+      "taxa_2023_pct": 3.3,
+      "variacao_2023_2025": -1.2
+    }
+  ],
+  "meta": {
+    "title": "Unidades federativas do Brasil por taxa de desemprego (2023–2025) - Free Download",
+    "description": "Taxa de desemprego (%) em cada unidade federativa do Brasil em 2023, 2024 e 2025, com a variação no período. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unidades federativas do Brasil por taxa de desemprego (2023–2025) | ListBase",
+    "seo_description": "Download Unidades federativas do Brasil por taxa de desemprego (2023–2025) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_desemprego"
+    ]
+  }
+}

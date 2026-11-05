@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-05T02:28:30.275Z",
-  "total_datasets": 531,
-  "total_records": 742577,
+  "generated": "2026-11-05T02:28:39.759Z",
+  "total_datasets": 532,
+  "total_records": 742605,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -15098,6 +15098,33 @@
         "xlsx": {
           "name": "pt-br-estados-idh_PT.xlsx",
           "size": 8143
+        }
+      }
+    },
+    {
+      "id": "pt-br-estados-taxa-desemprego",
+      "name": "Unidades federativas do Brasil por taxa de desemprego (2023–2025)",
+      "category": "society",
+      "record_count": 28,
+      "columns": [
+        "posicao",
+        "unidade_federativa",
+        "taxa_2025_pct",
+        "taxa_2024_pct",
+        "taxa_2023_pct",
+        "variacao_2023_2025"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_desemprego",
+      "updated": "2026-11",
+      "size": 7461,
+      "files": {
+        "csv": {
+          "name": "pt-br-estados-taxa-desemprego_PT.csv",
+          "size": 1279
+        },
+        "xlsx": {
+          "name": "pt-br-estados-taxa-desemprego_PT.xlsx",
+          "size": 7887
         }
       }
     },
