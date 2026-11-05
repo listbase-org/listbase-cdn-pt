@@ -1,0 +1,140 @@
+{
+  "id": "pt-frequencia-letras-portugues",
+  "name": "Frequência das letras na língua portuguesa",
+  "title": "Frequência das letras na língua portuguesa",
+  "description": "Frequência relativa (%) de cada uma das 26 letras do alfabeto em textos escritos em língua portuguesa.",
+  "category": "language",
+  "source": "https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs",
+  "source_url": "https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "letra",
+      "label": "Letra",
+      "type": "string"
+    },
+    {
+      "key": "frequencia_pct",
+      "label": "Frequencia Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "letra": "A",
+      "frequencia_pct": 14.63
+    },
+    {
+      "letra": "B",
+      "frequencia_pct": 1.04
+    },
+    {
+      "letra": "C",
+      "frequencia_pct": 3.88
+    },
+    {
+      "letra": "D",
+      "frequencia_pct": 5.01
+    },
+    {
+      "letra": "E",
+      "frequencia_pct": 12.57
+    },
+    {
+      "letra": "F",
+      "frequencia_pct": 1.02
+    },
+    {
+      "letra": "G",
+      "frequencia_pct": 1.3
+    },
+    {
+      "letra": "H",
+      "frequencia_pct": 1.28
+    },
+    {
+      "letra": "I",
+      "frequencia_pct": 6.18
+    },
+    {
+      "letra": "J",
+      "frequencia_pct": 0.4
+    },
+    {
+      "letra": "K",
+      "frequencia_pct": 0.02
+    },
+    {
+      "letra": "L",
+      "frequencia_pct": 2.78
+    },
+    {
+      "letra": "M",
+      "frequencia_pct": 4.74
+    },
+    {
+      "letra": "N",
+      "frequencia_pct": 5.05
+    },
+    {
+      "letra": "O",
+      "frequencia_pct": 10.73
+    },
+    {
+      "letra": "P",
+      "frequencia_pct": 2.52
+    },
+    {
+      "letra": "Q",
+      "frequencia_pct": 1.2
+    },
+    {
+      "letra": "R",
+      "frequencia_pct": 6.53
+    },
+    {
+      "letra": "S",
+      "frequencia_pct": 7.81
+    },
+    {
+      "letra": "T",
+      "frequencia_pct": 4.34
+    },
+    {
+      "letra": "U",
+      "frequencia_pct": 4.63
+    },
+    {
+      "letra": "V",
+      "frequencia_pct": 1.67
+    },
+    {
+      "letra": "W",
+      "frequencia_pct": 0.01
+    },
+    {
+      "letra": "X",
+      "frequencia_pct": 0.21
+    },
+    {
+      "letra": "Y",
+      "frequencia_pct": 0.01
+    },
+    {
+      "letra": "Z",
+      "frequencia_pct": 0.47
+    }
+  ],
+  "meta": {
+    "title": "Frequência das letras na língua portuguesa - Free Download",
+    "description": "Frequência relativa (%) de cada uma das 26 letras do alfabeto em textos escritos em língua portuguesa. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Frequência das letras na língua portuguesa | ListBase",
+    "seo_description": "Download Frequência das letras na língua portuguesa — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs"
+    ]
+  }
+}

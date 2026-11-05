@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-05T02:29:49.433Z",
-  "total_datasets": 536,
-  "total_records": 742819,
+  "generated": "2026-11-05T02:29:57.475Z",
+  "total_datasets": 537,
+  "total_records": 742845,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -3751,6 +3751,29 @@
         "xlsx": {
           "name": "pt-br-toponimos-tupi_PT.xlsx",
           "size": 9033
+        }
+      }
+    },
+    {
+      "id": "pt-frequencia-letras-portugues",
+      "name": "Frequência das letras na língua portuguesa",
+      "category": "language",
+      "record_count": 26,
+      "columns": [
+        "letra",
+        "frequencia_pct"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs",
+      "updated": "2026-11",
+      "size": 3036,
+      "files": {
+        "csv": {
+          "name": "pt-frequencia-letras-portugues_PT.csv",
+          "size": 313
+        },
+        "xlsx": {
+          "name": "pt-frequencia-letras-portugues_PT.xlsx",
+          "size": 7133
         }
       }
     },
