@@ -1,0 +1,247 @@
+{
+  "id": "pt-br-estados-extrema-pobreza",
+  "name": "Unidades federativas do Brasil por extrema pobreza (2021–2023)",
+  "title": "Unidades federativas do Brasil por extrema pobreza (2021–2023)",
+  "description": "Percentual da população em situação de extrema pobreza em cada unidade federativa do Brasil em 2021, 2022 e 2023.",
+  "category": "society",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_incidência_da_pobreza",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_incidência_da_pobreza",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "posicao_2022",
+      "label": "Posicao 2022",
+      "type": "number"
+    },
+    {
+      "key": "unidade_federativa",
+      "label": "Unidade Federativa",
+      "type": "string"
+    },
+    {
+      "key": "extrema_pobreza_2023_pct",
+      "label": "Extrema Pobreza 2023 Pct",
+      "type": "number"
+    },
+    {
+      "key": "extrema_pobreza_2022_pct",
+      "label": "Extrema Pobreza 2022 Pct",
+      "type": "number"
+    },
+    {
+      "key": "extrema_pobreza_2021_pct",
+      "label": "Extrema Pobreza 2021 Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicao_2022": 1,
+      "unidade_federativa": "Acre",
+      "extrema_pobreza_2023_pct": 13.2,
+      "extrema_pobreza_2022_pct": 14,
+      "extrema_pobreza_2021_pct": 17.6
+    },
+    {
+      "posicao_2022": 2,
+      "unidade_federativa": "Maranhão",
+      "extrema_pobreza_2023_pct": 12.2,
+      "extrema_pobreza_2022_pct": 15,
+      "extrema_pobreza_2021_pct": 22.6
+    },
+    {
+      "posicao_2022": 3,
+      "unidade_federativa": "Ceará",
+      "extrema_pobreza_2023_pct": 9.4,
+      "extrema_pobreza_2022_pct": 10.9,
+      "extrema_pobreza_2021_pct": 16
+    },
+    {
+      "posicao_2022": 4,
+      "unidade_federativa": "Pernambuco",
+      "extrema_pobreza_2023_pct": 9.3,
+      "extrema_pobreza_2022_pct": 11.7,
+      "extrema_pobreza_2021_pct": 19.4
+    },
+    {
+      "posicao_2022": 5,
+      "unidade_federativa": "Alagoas",
+      "extrema_pobreza_2023_pct": 8.8,
+      "extrema_pobreza_2022_pct": 13.1,
+      "extrema_pobreza_2021_pct": 16.4
+    },
+    {
+      "posicao_2022": 6,
+      "unidade_federativa": "Bahia",
+      "extrema_pobreza_2023_pct": 8.8,
+      "extrema_pobreza_2022_pct": 11.9,
+      "extrema_pobreza_2021_pct": 17
+    },
+    {
+      "posicao_2022": 7,
+      "unidade_federativa": "Piauí",
+      "extrema_pobreza_2023_pct": 8.1,
+      "extrema_pobreza_2022_pct": 11.6,
+      "extrema_pobreza_2021_pct": 16.1
+    },
+    {
+      "posicao_2022": 8,
+      "unidade_federativa": "Sergipe",
+      "extrema_pobreza_2023_pct": 8.1,
+      "extrema_pobreza_2022_pct": 8.9,
+      "extrema_pobreza_2021_pct": 14.9
+    },
+    {
+      "posicao_2022": 9,
+      "unidade_federativa": "Paraíba",
+      "extrema_pobreza_2023_pct": 7.4,
+      "extrema_pobreza_2022_pct": 11.1,
+      "extrema_pobreza_2021_pct": 16.7
+    },
+    {
+      "posicao_2022": 10,
+      "unidade_federativa": "Roraima",
+      "extrema_pobreza_2023_pct": 7.2,
+      "extrema_pobreza_2022_pct": 7.8,
+      "extrema_pobreza_2021_pct": 11.3
+    },
+    {
+      "posicao_2022": 11,
+      "unidade_federativa": "Amazonas",
+      "extrema_pobreza_2023_pct": 6.6,
+      "extrema_pobreza_2022_pct": 10.5,
+      "extrema_pobreza_2021_pct": 16.2
+    },
+    {
+      "posicao_2022": 12,
+      "unidade_federativa": "Rio Grande do Norte",
+      "extrema_pobreza_2023_pct": 6.3,
+      "extrema_pobreza_2022_pct": 9.4,
+      "extrema_pobreza_2021_pct": 14.9
+    },
+    {
+      "posicao_2022": 13,
+      "unidade_federativa": "Pará",
+      "extrema_pobreza_2023_pct": 5.7,
+      "extrema_pobreza_2022_pct": 7.5,
+      "extrema_pobreza_2021_pct": 15.3
+    },
+    {
+      "posicao_2022": 14,
+      "unidade_federativa": "Rondônia",
+      "extrema_pobreza_2023_pct": 4.4,
+      "extrema_pobreza_2022_pct": 4.3,
+      "extrema_pobreza_2021_pct": 8.1
+    },
+    {
+      "posicao_2022": 15,
+      "unidade_federativa": "Tocantins",
+      "extrema_pobreza_2023_pct": 4.2,
+      "extrema_pobreza_2022_pct": 4.9,
+      "extrema_pobreza_2021_pct": 7.6
+    },
+    {
+      "posicao_2022": 16,
+      "unidade_federativa": "Amapá",
+      "extrema_pobreza_2023_pct": 3.6,
+      "extrema_pobreza_2022_pct": 7.9,
+      "extrema_pobreza_2021_pct": 11.8
+    },
+    {
+      "posicao_2022": 17,
+      "unidade_federativa": "Rio de Janeiro",
+      "extrema_pobreza_2023_pct": 3.6,
+      "extrema_pobreza_2022_pct": 4.5,
+      "extrema_pobreza_2021_pct": 7.6
+    },
+    {
+      "posicao_2022": 18,
+      "unidade_federativa": "Espírito Santo",
+      "extrema_pobreza_2023_pct": 2.7,
+      "extrema_pobreza_2022_pct": 4.1,
+      "extrema_pobreza_2021_pct": 7.2
+    },
+    {
+      "posicao_2022": 19,
+      "unidade_federativa": "Mato Grosso",
+      "extrema_pobreza_2023_pct": 2.6,
+      "extrema_pobreza_2022_pct": 4.1,
+      "extrema_pobreza_2021_pct": 3.5
+    },
+    {
+      "posicao_2022": 20,
+      "unidade_federativa": "Minas Gerais",
+      "extrema_pobreza_2023_pct": 2.2,
+      "extrema_pobreza_2022_pct": 3.2,
+      "extrema_pobreza_2021_pct": 4.5
+    },
+    {
+      "posicao_2022": 21,
+      "unidade_federativa": "São Paulo",
+      "extrema_pobreza_2023_pct": 2.2,
+      "extrema_pobreza_2022_pct": 2.9,
+      "extrema_pobreza_2021_pct": 4.4
+    },
+    {
+      "posicao_2022": 22,
+      "unidade_federativa": "Paraná",
+      "extrema_pobreza_2023_pct": 2.2,
+      "extrema_pobreza_2022_pct": 2.9,
+      "extrema_pobreza_2021_pct": 3.9
+    },
+    {
+      "posicao_2022": 23,
+      "unidade_federativa": "Mato Grosso do Sul",
+      "extrema_pobreza_2023_pct": 2,
+      "extrema_pobreza_2022_pct": 2.7,
+      "extrema_pobreza_2021_pct": 4
+    },
+    {
+      "posicao_2022": 24,
+      "unidade_federativa": "Distrito Federal",
+      "extrema_pobreza_2023_pct": 1.9,
+      "extrema_pobreza_2022_pct": 1.8,
+      "extrema_pobreza_2021_pct": 4.3
+    },
+    {
+      "posicao_2022": 25,
+      "unidade_federativa": "Santa Catarina",
+      "extrema_pobreza_2023_pct": 1.4,
+      "extrema_pobreza_2022_pct": 1.8,
+      "extrema_pobreza_2021_pct": 2.4
+    },
+    {
+      "posicao_2022": 26,
+      "unidade_federativa": "Goiás",
+      "extrema_pobreza_2023_pct": 1.3,
+      "extrema_pobreza_2022_pct": 2.7,
+      "extrema_pobreza_2021_pct": 3.8
+    },
+    {
+      "posicao_2022": 27,
+      "unidade_federativa": "Rio Grande do Sul",
+      "extrema_pobreza_2023_pct": 1.3,
+      "extrema_pobreza_2022_pct": 2.5,
+      "extrema_pobreza_2021_pct": 2.9
+    },
+    {
+      "posicao_2022": "-",
+      "unidade_federativa": "Brasil",
+      "extrema_pobreza_2023_pct": 4.4,
+      "extrema_pobreza_2022_pct": 5.9,
+      "extrema_pobreza_2021_pct": 9
+    }
+  ],
+  "meta": {
+    "title": "Unidades federativas do Brasil por extrema pobreza (2021–2023) - Free Download",
+    "description": "Percentual da população em situação de extrema pobreza em cada unidade federativa do Brasil em 2021, 2022 e 2023. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unidades federativas do Brasil por extrema pobreza (2021–2023) | ListBase",
+    "seo_description": "Download Unidades federativas do Brasil por extrema pobreza (2021–2023) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_incidência_da_pobreza"
+    ]
+  }
+}

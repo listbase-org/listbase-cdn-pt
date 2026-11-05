@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-04T02:25:26.732Z",
-  "total_datasets": 530,
-  "total_records": 742549,
+  "generated": "2026-11-05T02:28:30.275Z",
+  "total_datasets": 531,
+  "total_records": 742577,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -15043,6 +15043,32 @@
         "xlsx": {
           "name": "pt-br-estados-expectativa-de-vida_PT.xlsx",
           "size": 7861
+        }
+      }
+    },
+    {
+      "id": "pt-br-estados-extrema-pobreza",
+      "name": "Unidades federativas do Brasil por extrema pobreza (2021–2023)",
+      "category": "society",
+      "record_count": 28,
+      "columns": [
+        "posicao_2022",
+        "unidade_federativa",
+        "extrema_pobreza_2023_pct",
+        "extrema_pobreza_2022_pct",
+        "extrema_pobreza_2021_pct"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_incidência_da_pobreza",
+      "updated": "2026-11",
+      "size": 7569,
+      "files": {
+        "csv": {
+          "name": "pt-br-estados-extrema-pobreza_PT.csv",
+          "size": 1119
+        },
+        "xlsx": {
+          "name": "pt-br-estados-extrema-pobreza_PT.xlsx",
+          "size": 7733
         }
       }
     },
