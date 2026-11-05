@@ -1,0 +1,604 @@
+{
+  "id": "pt-br-ministros-educacao",
+  "name": "Ministros da Educação do Brasil",
+  "title": "Ministros da Educação do Brasil",
+  "description": "Lista dos ministros da Educação do Brasil desde 1930, com o nome do órgão (Educação e Saúde, Educação e Cultura, Educação), datas de início e fim e o presidente da República.",
+  "category": "education",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Educação_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Educação_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "orgao",
+      "label": "Orgao",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fim",
+      "label": "Fim",
+      "type": "string"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Francisco Campos",
+      "orgao": "Ministério dos Negócios da Educação e Saúde Pública",
+      "inicio": "6 de dezembro de 1930",
+      "fim": "31 de agosto de 1931",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Belisário Penna (interino)",
+      "orgao": "Ministério dos Negócios da Educação e Saúde Pública",
+      "inicio": "16 de setembro de 1931",
+      "fim": "1 de dezembro de 1931",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Francisco Campos",
+      "orgao": "Ministério dos Negócios da Educação e Saúde Pública",
+      "inicio": "2 de dezembro de 1931",
+      "fim": "15 de setembro de 1932",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Washington Pires",
+      "orgao": "Ministério dos Negócios da Educação e Saúde Pública",
+      "inicio": "16 de setembro de 1932",
+      "fim": "23 de julho de 1934",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Gustavo Capanema",
+      "orgao": "Ministério dos Negócios da Educação e Saúde Pública",
+      "inicio": "23 de julho de 1934",
+      "fim": "13 de janeiro de 1937",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Gustavo Capanema",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "13 de janeiro de 1937",
+      "fim": "9 de novembro de 1937",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Gustavo Capanema",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "10 de novembro de 1937",
+      "fim": "30 de outubro de 1945",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Raul Leitão da Cunha",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "30 de outubro de 1945",
+      "fim": "31 de janeiro de 1946",
+      "presidente": "José Linhares"
+    },
+    {
+      "nome": "Ernesto de Sousa Campos",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "31 de janeiro de 1946",
+      "fim": "6 de dezembro de 1946",
+      "presidente": "Gaspar Dutra"
+    },
+    {
+      "nome": "Clemente Mariani",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "6 de dezembro de 1946",
+      "fim": "15 de maio de 1950",
+      "presidente": "Gaspar Dutra"
+    },
+    {
+      "nome": "Eduardo Rios Filho (interino)",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "15 de maio de 1950",
+      "fim": "4 de agosto de 1950",
+      "presidente": "Gaspar Dutra"
+    },
+    {
+      "nome": "Pedro Calmon",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "4 de agosto de 1950",
+      "fim": "31 de janeiro de 1951",
+      "presidente": "Gaspar Dutra"
+    },
+    {
+      "nome": "Ernesto Simões Filho",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "31 de janeiro de 1951",
+      "fim": "25 de maio de 1953",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Péricles Madureira de Pinho (interino)",
+      "orgao": "Ministério da Educação e Saúde",
+      "inicio": "26 de maio de 1953",
+      "fim": "24 de junho de 1953",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Antônio Balbino",
+      "orgao": "Ministério da Educação",
+      "inicio": "25 de junho de 1953",
+      "fim": "2 de julho de 1954",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Edgard Santos, o Reitor Magnífico",
+      "orgao": "Ministério da Educação",
+      "inicio": "6 de julho de 1954",
+      "fim": "24 de agosto de 1954",
+      "presidente": "Getúlio Vargas"
+    },
+    {
+      "nome": "Edgard Santos, o Reitor Magnífico",
+      "orgao": "Ministério da Educação",
+      "inicio": "24 de agosto de 1954",
+      "fim": "2 de setembro de 1954",
+      "presidente": "Café Filho"
+    },
+    {
+      "nome": "Cândido Mota Filho",
+      "orgao": "Ministério da Educação",
+      "inicio": "2 de setembro de 1954",
+      "fim": "17 de novembro de 1955",
+      "presidente": "Café Filho"
+    },
+    {
+      "nome": "Abgar Renault",
+      "orgao": "Ministério da Educação",
+      "inicio": "24 de novembro de 1955",
+      "fim": "31 de janeiro de 1956",
+      "presidente": "Nereu Ramos"
+    },
+    {
+      "nome": "Clóvis Salgado da Gama",
+      "orgao": "Ministério da Educação",
+      "inicio": "31 de janeiro de 1956",
+      "fim": "30 de abril de 1956",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "Celso Brant (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "30 de abril de 1956",
+      "fim": "2 de outubro de 1956",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "Nereu Ramos (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "3 de outubro de 1956",
+      "fim": "4 de novembro de 1956",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "Clóvis Salgado da Gama",
+      "orgao": "Ministério da Educação",
+      "inicio": "4 de novembro de 1956",
+      "fim": "18 de junho de 1959",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "Pedro Calmon",
+      "orgao": "Ministério da Educação",
+      "inicio": "18 de junho de 1959",
+      "fim": "16 de junho de 1960",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "José Pedro Ferreira da Costa (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "17 de junho de 1960",
+      "fim": "24 de junho de 1960",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "Pedro Paulo Penido",
+      "orgao": "Ministério da Educação",
+      "inicio": "1 de julho de 1960",
+      "fim": "17 de outubro de 1960",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "Clóvis Salgado da Gama",
+      "orgao": "Ministério da Educação",
+      "inicio": "18 de outubro de 1960",
+      "fim": "31 de janeiro de 1961",
+      "presidente": "Juscelino Kubitschek"
+    },
+    {
+      "nome": "Brígido Fernandes Tinoco",
+      "orgao": "Ministério da Educação",
+      "inicio": "31 de janeiro de 1961",
+      "fim": "25 de agosto de 1961",
+      "presidente": "Jânio Quadros"
+    },
+    {
+      "nome": "Antônio Ferreira de Oliveira Brito",
+      "orgao": "Ministério da Educação",
+      "inicio": "8 de setembro de 1961",
+      "fim": "11 de julho de 1962",
+      "presidente": "João Goulart (parlamentarismo)"
+    },
+    {
+      "nome": "Roberto Lira",
+      "orgao": "Ministério da Educação",
+      "inicio": "12 de julho de 1962",
+      "fim": "14 de setembro de 1962",
+      "presidente": "João Goulart (parlamentarismo)"
+    },
+    {
+      "nome": "Darcy Ribeiro",
+      "orgao": "Ministério da Educação",
+      "inicio": "18 de setembro de 1962",
+      "fim": "23 de janeiro de 1963",
+      "presidente": "João Goulart (parlamentarismo)"
+    },
+    {
+      "nome": "Teotônio Monteiro de Barros",
+      "orgao": "Ministério da Educação",
+      "inicio": "23 de janeiro de 1963",
+      "fim": "18 de junho de 1963",
+      "presidente": "João Goulart (presidencialismo)"
+    },
+    {
+      "nome": "Paulo de Tarso Santos",
+      "orgao": "Ministério da Educação",
+      "inicio": "18 de junho de 1963",
+      "fim": "21 de outubro de 1963",
+      "presidente": "João Goulart (presidencialismo)"
+    },
+    {
+      "nome": "Júlio Furquim Sambaqui (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "21 de outubro de 1963",
+      "fim": "6 de abril de 1964",
+      "presidente": "João Goulart (presidencialismo)"
+    },
+    {
+      "nome": "Luís Antônio da Gama e Silva",
+      "orgao": "Ministério da Educação",
+      "inicio": "6 de abril de 1964",
+      "fim": "15 de abril de 1964",
+      "presidente": "Ranieri Mazzilli"
+    },
+    {
+      "nome": "Flávio Suplicy de Lacerda",
+      "orgao": "Ministério da Educação",
+      "inicio": "15 de abril de 1964",
+      "fim": "8 de março de 1965",
+      "presidente": "Humberto Castelo Branco"
+    },
+    {
+      "nome": "Flávio Suplicy de Lacerda",
+      "orgao": "Ministério da Educação",
+      "inicio": "22 de abril de 1965",
+      "fim": "10 de janeiro de 1966",
+      "presidente": "Humberto Castelo Branco"
+    },
+    {
+      "nome": "Pedro Aleixo",
+      "orgao": "Ministério da Educação",
+      "inicio": "10 de janeiro de 1966",
+      "fim": "30 de junho de 1966",
+      "presidente": "Humberto Castelo Branco"
+    },
+    {
+      "nome": "Raymundo Augusto de Castro Moniz de Aragão",
+      "orgao": "Ministério da Educação",
+      "inicio": "30 de junho de 1966",
+      "fim": "4 de outubro de 1966",
+      "presidente": "Humberto Castelo Branco"
+    },
+    {
+      "nome": "Guilherme Augusto Canedo de Magalhães (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "4 de outubro de 1966",
+      "fim": "17 de outubro de 1966",
+      "presidente": "Humberto Castelo Branco"
+    },
+    {
+      "nome": "Guilherme Augusto Canedo de Magalhães (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "21 de outubro de 1966",
+      "fim": "10 de novembro de 1966",
+      "presidente": "Humberto Castelo Branco"
+    },
+    {
+      "nome": "Tarso Dutra",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "15 de março de 1967",
+      "fim": "5 de dezembro de 1967",
+      "presidente": "Costa e Silva"
+    },
+    {
+      "nome": "Favorino Bastos Mércio (interino)",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "13 de dezembro de 1967",
+      "fim": "31 de agosto de 1969",
+      "presidente": "Costa e Silva"
+    },
+    {
+      "nome": "Favorino Bastos Mércio (interino)",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "31 de agosto de 1969",
+      "fim": "3 de novembro de 1969",
+      "presidente": "Junta militar de 1969"
+    },
+    {
+      "nome": "Jarbas Passarinho",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "3 de novembro de 1969",
+      "fim": "15 de março de 1974",
+      "presidente": "Emílio Garrastazu Médici"
+    },
+    {
+      "nome": "Ney Braga",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "15 de março de 1974",
+      "fim": "30 de maio de 1978",
+      "presidente": "Ernesto Geisel"
+    },
+    {
+      "nome": "Euro Brandão",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "30 de maio de 1978",
+      "fim": "14 de março de 1979",
+      "presidente": "Ernesto Geisel"
+    },
+    {
+      "nome": "Eduardo Portella",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "15 de março de 1979",
+      "fim": "26 de novembro de 1980",
+      "presidente": "João Figueiredo"
+    },
+    {
+      "nome": "Rubem Carlos Ludwig",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "27 de novembro de 1980",
+      "fim": "24 de agosto de 1982",
+      "presidente": "João Figueiredo"
+    },
+    {
+      "nome": "Esther de Figueiredo Ferraz",
+      "orgao": "Ministério da Educação e Cultura",
+      "inicio": "24 de agosto de 1982",
+      "fim": "15 de março de 1985",
+      "presidente": "João Figueiredo"
+    },
+    {
+      "nome": "Marco Maciel",
+      "orgao": "Ministério da Educação",
+      "inicio": "15 de março de 1985",
+      "fim": "14 de fevereiro de 1986",
+      "presidente": "José Sarney"
+    },
+    {
+      "nome": "Jorge Bornhausen",
+      "orgao": "Ministério da Educação",
+      "inicio": "14 de fevereiro de 1986",
+      "fim": "5 de outubro de 1987",
+      "presidente": "José Sarney"
+    },
+    {
+      "nome": "Aloísio Guimarães Sotero (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "6 de outubro de 1987",
+      "fim": "30 de outubro de 1987",
+      "presidente": "José Sarney"
+    },
+    {
+      "nome": "Hugo Napoleão do Rego Neto",
+      "orgao": "Ministério da Educação",
+      "inicio": "3 de novembro de 1987",
+      "fim": "16 de janeiro de 1989",
+      "presidente": "José Sarney"
+    },
+    {
+      "nome": "Carlos Corrêa de Menezes Sant'anna",
+      "orgao": "Ministério da Educação",
+      "inicio": "16 de janeiro de 1989",
+      "fim": "15 de março de 1990",
+      "presidente": "José Sarney"
+    },
+    {
+      "nome": "Carlos Chiarelli",
+      "orgao": "Ministério da Educação",
+      "inicio": "15 de março de 1990",
+      "fim": "21 de agosto de 1991",
+      "presidente": "Fernando Collor"
+    },
+    {
+      "nome": "José Goldemberg",
+      "orgao": "Ministério da Educação",
+      "inicio": "22 de agosto de 1991",
+      "fim": "4 de agosto de 1992",
+      "presidente": "Fernando Collor"
+    },
+    {
+      "nome": "Eraldo Tinoco",
+      "orgao": "Ministério da Educação",
+      "inicio": "4 de agosto de 1992",
+      "fim": "1º de outubro de 1992",
+      "presidente": "Fernando Collor"
+    },
+    {
+      "nome": "Murílio de Avellar Hingel",
+      "orgao": "Ministério da Educação",
+      "inicio": "1º de outubro de 1992",
+      "fim": "1º de janeiro de 1995",
+      "presidente": "Itamar Franco"
+    },
+    {
+      "nome": "Paulo Renato Souza",
+      "orgao": "Ministério da Educação",
+      "inicio": "1º de janeiro de 1995",
+      "fim": "1º de janeiro de 2003",
+      "presidente": "Fernando Henrique Cardoso"
+    },
+    {
+      "nome": "Cristovam Buarque",
+      "orgao": "Ministério da Educação",
+      "inicio": "1º de janeiro de 2003",
+      "fim": "27 de janeiro de 2004",
+      "presidente": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "nome": "Tarso Genro",
+      "orgao": "Ministério da Educação",
+      "inicio": "27 de janeiro de 2004",
+      "fim": "29 de julho de 2005",
+      "presidente": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "nome": "Fernando Haddad",
+      "orgao": "Ministério da Educação",
+      "inicio": "29 de julho de 2005",
+      "fim": "1º de janeiro de 2011",
+      "presidente": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "nome": "Fernando Haddad",
+      "orgao": "Ministério da Educação",
+      "inicio": "1º de janeiro de 2011",
+      "fim": "23 de janeiro de 2012",
+      "presidente": "Dilma Rousseff"
+    },
+    {
+      "nome": "Aloizio Mercadante",
+      "orgao": "Ministério da Educação",
+      "inicio": "24 de janeiro de 2012",
+      "fim": "2 de fevereiro de 2014",
+      "presidente": "Dilma Rousseff"
+    },
+    {
+      "nome": "José Henrique Paim",
+      "orgao": "Ministério da Educação",
+      "inicio": "3 de fevereiro de 2014",
+      "fim": "1º de janeiro de 2015",
+      "presidente": "Dilma Rousseff"
+    },
+    {
+      "nome": "Cid Gomes",
+      "orgao": "Ministério da Educação",
+      "inicio": "1º de janeiro de 2015",
+      "fim": "18 de março de 2015",
+      "presidente": "Dilma Rousseff"
+    },
+    {
+      "nome": "Luiz Cláudio Costa (interino)",
+      "orgao": "Ministério da Educação",
+      "inicio": "18 de março de 2015",
+      "fim": "6 de abril de 2015",
+      "presidente": "Dilma Rousseff"
+    },
+    {
+      "nome": "Renato Janine Ribeiro",
+      "orgao": "Ministério da Educação",
+      "inicio": "6 de abril de 2015",
+      "fim": "1º de outubro de 2015",
+      "presidente": "Dilma Rousseff"
+    },
+    {
+      "nome": "Aloizio Mercadante",
+      "orgao": "Ministério da Educação",
+      "inicio": "2 de outubro de 2015",
+      "fim": "12 de maio de 2016",
+      "presidente": "Dilma Rousseff"
+    },
+    {
+      "nome": "Mendonça Filho",
+      "orgao": "Ministério da Educação",
+      "inicio": "12 de maio de 2016",
+      "fim": "6 de abril de 2018",
+      "presidente": "Michel Temer"
+    },
+    {
+      "nome": "Rossieli Soares",
+      "orgao": "Ministério da Educação",
+      "inicio": "6 de abril de 2018",
+      "fim": "1º de janeiro de 2019",
+      "presidente": "Michel Temer"
+    },
+    {
+      "nome": "Ricardo Vélez Rodríguez",
+      "orgao": "Ministério da Educação",
+      "inicio": "1º de janeiro de 2019",
+      "fim": "8 de abril de 2019",
+      "presidente": "Jair Bolsonaro"
+    },
+    {
+      "nome": "Abraham Weintraub",
+      "orgao": "Ministério da Educação",
+      "inicio": "9 de abril de 2019",
+      "fim": "19 de junho de 2020",
+      "presidente": "Jair Bolsonaro"
+    },
+    {
+      "nome": "Carlos Decotelli (nomeado; não empossado por irregularidades no currículo, mas sem efeitos) vago",
+      "orgao": "Ministério da Educação",
+      "inicio": "20 de junho de 2020",
+      "fim": "16 de julho de 2020",
+      "presidente": "Jair Bolsonaro"
+    },
+    {
+      "nome": "Milton Ribeiro",
+      "orgao": "Ministério da Educação",
+      "inicio": "16 de julho de 2020",
+      "fim": "28 de março de 2022",
+      "presidente": "Jair Bolsonaro"
+    },
+    {
+      "nome": "Victor Godoy Veiga",
+      "orgao": "Ministério da Educação",
+      "inicio": "29 de março de 2022",
+      "fim": "1º de janeiro de 2023",
+      "presidente": "Jair Bolsonaro"
+    },
+    {
+      "nome": "Camilo Santana",
+      "orgao": "Ministério da Educação",
+      "inicio": "1º de janeiro de 2023",
+      "fim": "1º de abril de 2026",
+      "presidente": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "nome": "Leonardo Barchini",
+      "orgao": "Ministério da Educação",
+      "inicio": "2 de abril de 2026",
+      "fim": "—",
+      "presidente": "Luiz Inácio Lula da Silva"
+    }
+  ],
+  "meta": {
+    "title": "Ministros da Educação do Brasil - Free Download",
+    "description": "Lista dos ministros da Educação do Brasil desde 1930, com o nome do órgão (Educação e Saúde, Educação e Cultura, Educação), datas de início e fim e o presidente da República. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros da Educação do Brasil | ListBase",
+    "seo_description": "Download Ministros da Educação do Brasil — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Educação_do_Brasil"
+    ]
+  }
+}

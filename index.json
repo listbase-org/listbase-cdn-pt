@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-05T02:28:39.759Z",
-  "total_datasets": 532,
-  "total_records": 742605,
+  "generated": "2026-11-05T02:28:49.162Z",
+  "total_datasets": 533,
+  "total_records": 742684,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -488,6 +488,32 @@
         "xlsx": {
           "name": "pt-br-estados-alfabetizacao_PT.xlsx",
           "size": 7396
+        }
+      }
+    },
+    {
+      "id": "pt-br-ministros-educacao",
+      "name": "Ministros da Educação do Brasil",
+      "category": "education",
+      "record_count": 79,
+      "columns": [
+        "nome",
+        "orgao",
+        "inicio",
+        "fim",
+        "presidente"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Educação_do_Brasil",
+      "updated": "2026-11",
+      "size": 19176,
+      "files": {
+        "csv": {
+          "name": "pt-br-ministros-educacao_PT.csv",
+          "size": 9895
+        },
+        "xlsx": {
+          "name": "pt-br-ministros-educacao_PT.xlsx",
+          "size": 10464
         }
       }
     },
