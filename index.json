@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-09T02:21:39.320Z",
-  "total_datasets": 541,
-  "total_records": 743347,
+  "generated": "2026-11-09T02:21:46.426Z",
+  "total_datasets": 542,
+  "total_records": 743450,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -4260,6 +4260,36 @@
         "xlsx": {
           "name": "pt-br-presidentes-senado-federal_PT.xlsx",
           "size": 9718
+        }
+      }
+    },
+    {
+      "id": "pt-presidentes-parlamento-portugal",
+      "name": "Presidentes do Parlamento português (Cortes, Câmara dos Deputados e Assembleia da República)",
+      "category": "politics",
+      "record_count": 103,
+      "columns": [
+        "n",
+        "presidente",
+        "nascimento_morte",
+        "inicio_mandato",
+        "fim_mandato",
+        "legislatura",
+        "votos",
+        "partido",
+        "orgao_periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Assembleia_da_República_Portuguesa",
+      "updated": "2026-11",
+      "size": 42532,
+      "files": {
+        "csv": {
+          "name": "pt-presidentes-parlamento-portugal_PT.csv",
+          "size": 19595
+        },
+        "xlsx": {
+          "name": "pt-presidentes-parlamento-portugal_PT.xlsx",
+          "size": 13679
         }
       }
     },
