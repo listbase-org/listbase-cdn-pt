@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-11-09T02:21:15.065Z",
-  "total_datasets": 538,
-  "total_records": 742885,
+  "generated": "2026-11-09T02:21:23.864Z",
+  "total_datasets": 539,
+  "total_records": 743035,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -102,6 +102,34 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pt-br-ministros-agricultura",
+      "name": "Ministros da Agricultura do Brasil",
+      "category": "agriculture",
+      "record_count": 150,
+      "columns": [
+        "n",
+        "nome",
+        "orgao",
+        "inicio",
+        "fim",
+        "chefe_de_governo",
+        "periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Agricultura_e_Pecuária_do_Brasil",
+      "updated": "2026-11",
+      "size": 50642,
+      "files": {
+        "csv": {
+          "name": "pt-br-ministros-agricultura_PT.csv",
+          "size": 29121
+        },
+        "xlsx": {
+          "name": "pt-br-ministros-agricultura_PT.xlsx",
+          "size": 15304
+        }
+      }
+    },
     {
       "id": "pt-br-municipios-maior-pib-agropecuario",
       "name": "Municípios do Brasil com maior PIB agropecuário (2021)",

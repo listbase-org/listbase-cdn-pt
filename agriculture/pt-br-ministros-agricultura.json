@@ -1,0 +1,1411 @@
+{
+  "id": "pt-br-ministros-agricultura",
+  "name": "Ministros da Agricultura do Brasil",
+  "title": "Ministros da Agricultura do Brasil",
+  "description": "Lista dos ministros da Agricultura (e Pecuária) do Brasil desde 1861, com o órgão, início e fim do mandato e o chefe de governo.",
+  "category": "agriculture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Agricultura_e_Pecuária_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Agricultura_e_Pecuária_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 150,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "orgao",
+      "label": "Orgao",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fim",
+      "label": "Fim",
+      "type": "string"
+    },
+    {
+      "key": "chefe_de_governo",
+      "label": "Chefe De Governo",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": "1",
+      "nome": "Joaquim José Inácio (visconde de Inhaúma)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "2 de março de 1861",
+      "fim": "21 de abril de 1861",
+      "chefe_de_governo": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "2",
+      "nome": "Manuel Felizardo de Sousa e Melo",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "21 de abril de 1861",
+      "fim": "24 de maio de 1862",
+      "chefe_de_governo": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "3",
+      "nome": "Antônio Coelho de Sá e Albuquerque",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "24 de maio de 1862",
+      "fim": "30 de maio de 1862",
+      "chefe_de_governo": "Zacarias de Góis",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "4",
+      "nome": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "30 de maio de 1862",
+      "fim": "9 de fevereiro de 1863",
+      "chefe_de_governo": "Pedro de Araújo Lima (marquês de Olinda)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "5",
+      "nome": "Pedro de Alcântara Bellegarde",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "9 de fevereiro de 1863",
+      "fim": "15 de janeiro de 1864",
+      "chefe_de_governo": "Pedro de Araújo Lima (marquês de Olinda)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "6",
+      "nome": "Domiciano Leite Ribeiro (visconde de Araxá)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "15 de janeiro de 1864",
+      "fim": "20 de julho de 1864",
+      "chefe_de_governo": "Zacarias de Góis",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "7",
+      "nome": "João Pedro Dias Vieira",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "20 de julho de 1864",
+      "fim": "31 de agosto de 1864",
+      "chefe_de_governo": "Zacarias de Góis",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "8",
+      "nome": "Jesuíno Marcondes de Oliveira e Sá",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "31 de agosto de 1864",
+      "fim": "12 de maio de 1865",
+      "chefe_de_governo": "Francisco José Furtado",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "9",
+      "nome": "Antônio Francisco de Paula Sousa",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "12 de maio de 1865",
+      "fim": "3 de agosto de 1866",
+      "chefe_de_governo": "Pedro de Araújo Lima (marquês de Olinda)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "10",
+      "nome": "Sousa Dantas",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "3 de agosto de 1866",
+      "fim": "16 de julho de 1868",
+      "chefe_de_governo": "Zacarias de Góis",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "11",
+      "nome": "Joaquim Antão Fernandes Leão",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "16 de julho de 1868",
+      "fim": "10 de janeiro de 1870",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres (visconde de Itaboraí)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "12",
+      "nome": "Diogo Velho Cavalcanti de Albuquerque (visconde de Cavalcanti)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "10 de janeiro de 1870",
+      "fim": "29 de setembro de 1870",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres (visconde de Itaboraí)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "13",
+      "nome": "Jerônimo José Teixeira Júnior (visconde do Cruzeiro)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "29 de setembro de 1870",
+      "fim": "20 de novembro de 1870",
+      "chefe_de_governo": "José Antônio Pimenta Bueno (marquês de São Vicente)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "14",
+      "nome": "João Alfredo Correia de Oliveira",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "20 de novembro de 1870",
+      "fim": "7 de março de 1871",
+      "chefe_de_governo": "José Antônio Pimenta Bueno (marquês de São Vicente)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "15",
+      "nome": "Teodoro Machado Freire Pereira da Silva",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "7 de março de 1871",
+      "fim": "20 de abril de 1872",
+      "chefe_de_governo": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "16",
+      "nome": "Cândido Borges Monteiro (visconde de Itaúna)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "20 de abril de 1872",
+      "fim": "26 de agosto de 1872",
+      "chefe_de_governo": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "17",
+      "nome": "Barros Barreto",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "26 de agosto de 1872",
+      "fim": "28 de janeiro de 1873",
+      "chefe_de_governo": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "18",
+      "nome": "Costa Pereira",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "28 de janeiro de 1873",
+      "fim": "25 de junho de 1875",
+      "chefe_de_governo": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "19",
+      "nome": "Tomás José Coelho de Almeida",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "25 de junho de 1875",
+      "fim": "5 de janeiro de 1878",
+      "chefe_de_governo": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "20",
+      "nome": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "5 de janeiro de 1878",
+      "fim": "28 de março de 1880",
+      "chefe_de_governo": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "21",
+      "nome": "Manuel Buarque de Macedo",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "28 de março de 1880",
+      "fim": "31 de agosto de 1881",
+      "chefe_de_governo": "José Antônio Saraiva",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "22",
+      "nome": "Pedro Luís Pereira de Sousa",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "31 de agosto de 1881",
+      "fim": "3 de novembro de 1881",
+      "chefe_de_governo": "José Antônio Saraiva",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "23",
+      "nome": "José Antônio Saraiva",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "3 de novembro de 1881",
+      "fim": "21 de janeiro de 1882",
+      "chefe_de_governo": "José Antônio Saraiva",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "24",
+      "nome": "Manuel Alves de Araújo",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "21 de janeiro de 1882",
+      "fim": "3 de julho de 1882",
+      "chefe_de_governo": "Martinho Álvares da Silva Campos",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "25",
+      "nome": "André Augusto de Pádua Fleury",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "3 de julho de 1882",
+      "fim": "16 de dezembro de 1882",
+      "chefe_de_governo": "João Lustosa da Cunha Paranaguá (marquês de Paranaguá)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "26",
+      "nome": "Lourenço Cavalcanti de Albuquerque",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "16 de dezembro de 1882",
+      "fim": "7 de janeiro de 1883",
+      "chefe_de_governo": "João Lustosa da Cunha Paranaguá (marquês de Paranaguá)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "27",
+      "nome": "Henrique Francisco d'Ávila",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "7 de janeiro de 1883",
+      "fim": "24 de maio de 1883",
+      "chefe_de_governo": "João Lustosa da Cunha Paranaguá (marquês de Paranaguá)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "28",
+      "nome": "Afonso Pena",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "24 de maio de 1883",
+      "fim": "6 de junho de 1884",
+      "chefe_de_governo": "Lafayette Rodrigues Pereira",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "29",
+      "nome": "Antônio Carneiro da Rocha",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "6 de junho de 1884",
+      "fim": "6 de maio de 1885",
+      "chefe_de_governo": "Sousa Dantas",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "30",
+      "nome": "João Ferreira de Moura",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "6 de maio de 1885",
+      "fim": "20 de agosto de 1885",
+      "chefe_de_governo": "José Antônio Saraiva",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "31",
+      "nome": "Antônio da Silva Prado",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "20 de agosto de 1885",
+      "fim": "10 de maio de 1887",
+      "chefe_de_governo": "João Maurício Wanderley (barão de Cotegipe)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "32",
+      "nome": "Rodrigo Augusto da Silva",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "10 de maio de 1887",
+      "fim": "27 de junho de 1888",
+      "chefe_de_governo": "João Alfredo Correia de Oliveira",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "33",
+      "nome": "Antônio da Silva Prado",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "27 de junho de 1888",
+      "fim": "5 de janeiro de 1889",
+      "chefe_de_governo": "João Alfredo Correia de Oliveira",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "34",
+      "nome": "Rodrigo Augusto da Silva",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "5 de janeiro de 1889",
+      "fim": "7 de junho de 1889",
+      "chefe_de_governo": "João Alfredo Correia de Oliveira",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "35",
+      "nome": "Lourenço Cavalcanti de Albuquerque",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "7 de junho de 1889",
+      "fim": "15 de novembro de 1889",
+      "chefe_de_governo": "Afonso Celso de Assis Figueiredo (visconde de Ouro Preto)",
+      "periodo": "Segundo reinado – D. Pedro II"
+    },
+    {
+      "n": "36",
+      "nome": "Quintino Bocaiuva",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "15 de novembro de 1889",
+      "fim": "7 de dezembro de 1889",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "37",
+      "nome": "Demétrio Nunes Ribeiro",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "7 de dezembro de 1889",
+      "fim": "31 de janeiro de 1890",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "38",
+      "nome": "Francisco Glicério",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "31 de janeiro de 1890",
+      "fim": "22 de janeiro de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "39",
+      "nome": "Henrique Pereira de Lucena (barão de Lucena)",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "22 de janeiro de 1891",
+      "fim": "4 de julho de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "40",
+      "nome": "João Barbalho Uchôa Cavalcanti",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "4 de julho de 1891",
+      "fim": "23 de novembro de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "41",
+      "nome": "Antão Gonçalves de Faria",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "23 de novembro de 1891",
+      "fim": "23 de junho de 1892",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "42",
+      "nome": "Serzedelo Correia",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "23 de junho de 1892",
+      "fim": "17 de dezembro de 1892",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "43",
+      "nome": "Antônio Paulino Limpo de Abreu",
+      "orgao": "Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas",
+      "inicio": "17 de dezembro de 1892",
+      "fim": "22 de abril de 1893",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "44",
+      "nome": "Antônio Cândido Rodrigues",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "19 de junho de 1909",
+      "fim": "26 de novembro de 1909",
+      "chefe_de_governo": "Nilo Peçanha",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "45",
+      "nome": "Francisco Sá",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "26 de novembro de 1909",
+      "fim": "29 de novembro de 1909",
+      "chefe_de_governo": "Nilo Peçanha",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "46",
+      "nome": "Rodolfo Nogueira da Rocha Miranda",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "29 de novembro de 1909",
+      "fim": "15 de novembro de 1910",
+      "chefe_de_governo": "Nilo Peçanha",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "47",
+      "nome": "Pedro Manuel de Toledo",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "15 de novembro de 1910",
+      "fim": "18 de novembro de 1913",
+      "chefe_de_governo": "Hermes da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "José Joaquim Seabra (interino)",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "3 de março de 1911",
+      "fim": "30 de março de 1911",
+      "chefe_de_governo": "Hermes da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "José Barbosa Gonçalves (interino)",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "4 de maio de 1912",
+      "fim": "29 de maio de 1912",
+      "chefe_de_governo": "Hermes da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "48",
+      "nome": "Edwiges de Queirós",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "19 de novembro de 1913",
+      "fim": "15 de novembro de 1914",
+      "chefe_de_governo": "Hermes da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "49",
+      "nome": "Pandiá Calógeras",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "15 de novembro de 1914",
+      "fim": "7 de agosto de 1915",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "50",
+      "nome": "José Rufino Bezerra Cavalcanti",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "7 de agosto de 1915",
+      "fim": "26 de novembro de 1917",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Pandiá Calógeras (interino)",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "15 de julho de 1915",
+      "fim": "7 de agosto de 1915",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Carlos Maximiliano (interino)",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "19 de janeiro de 1916",
+      "fim": "22 de fevereiro de 1916",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "51",
+      "nome": "João Gonçalves Pereira Lima",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "26 de novembro de 1917",
+      "fim": "15 de novembro de 1918",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "51",
+      "nome": "João Gonçalves Pereira Lima",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "15 de novembro de 1918",
+      "fim": "12 de dezembro de 1918",
+      "chefe_de_governo": "Delfim Moreira",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "52",
+      "nome": "Antônio de Pádua Sales",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "12 de dezembro de 1918",
+      "fim": "28 de julho de 1919",
+      "chefe_de_governo": "Delfim Moreira",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "53",
+      "nome": "Ildefonso Simões Lopes",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "28 de julho de 1919",
+      "fim": "24 de maio de 1922",
+      "chefe_de_governo": "Epitácio Pessoa",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "54",
+      "nome": "José Pires do Rio",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "24 de maio de 1922",
+      "fim": "15 de novembro de 1922",
+      "chefe_de_governo": "Epitácio Pessoa",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "55",
+      "nome": "Miguel Calmon du Pin e Almeida",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "15 de novembro de 1922",
+      "fim": "15 de novembro de 1926",
+      "chefe_de_governo": "Artur Bernardes",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "56",
+      "nome": "Geminiano Lira Castro",
+      "orgao": "Ministério de Agricultura, Indústria e Comércio",
+      "inicio": "15 de novembro de 1926",
+      "fim": "23 de outubro de 1930",
+      "chefe_de_governo": "Washington Luís",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "n": "57",
+      "nome": "Paulo de Morais Barros",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "23 de outubro de 1930",
+      "fim": "18 de novembro de 1930",
+      "chefe_de_governo": "Junta Governativa Provisória de 1930",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "58",
+      "nome": "Joaquim Francisco de Assis Brasil",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "18 de novembro de 1930",
+      "fim": "22 de dezembro de 1932",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "59",
+      "nome": "Juarez Távora",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "22 de dezembro de 1932",
+      "fim": "24 de julho de 1934",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "—",
+      "nome": "Edmundo Navarro de Andrade (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "19 de agosto de 1933",
+      "fim": "4 de outubro de 1933",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "—",
+      "nome": "Edmundo Navarro de Andrade (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "9 de janeiro de 1934",
+      "fim": "18 de fevereiro de 1934",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "—",
+      "nome": "Guilherme Edelberto Hermsdorff (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "5 de junho de 1934",
+      "fim": "12 de junho de 1934",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "60",
+      "nome": "Odilon Duarte Braga",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "24 de julho de 1934",
+      "fim": "13 de novembro de 1937",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "—",
+      "nome": "José Solano Carneiro da Cunha (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "9 de agosto de 1935",
+      "fim": "9 de setembro de 1935",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "61",
+      "nome": "Fernando de Sousa Costa",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "13 de novembro de 1937",
+      "fim": "3 de junho de 1941",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "62",
+      "nome": "Carlos de Sousa Duarte",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "3 de junho de 1941",
+      "fim": "18 de fevereiro de 1942",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "63",
+      "nome": "Apolônio Sales",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "19 de fevereiro de 1942",
+      "fim": "29 de outubro de 1945",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "—",
+      "nome": "João Maurício de Medeiros (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "29 de maio de 1944",
+      "fim": "17 de julho de 1944",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "—",
+      "nome": "João Maurício de Medeiros (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "16 de setembro de 1945",
+      "fim": "10 de outubro de 1945",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "64",
+      "nome": "Teodureto Leite de Almeida Camargo",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "8 de novembro de 1945",
+      "fim": "31 de janeiro de 1946",
+      "chefe_de_governo": "José Linhares",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "n": "65",
+      "nome": "Manoel Neto Campelo Júnior",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "31 de janeiro de 1946",
+      "fim": "15 de outubro de 1946",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Daniel Serapião de Carvalho (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de outubro de 1946",
+      "fim": "27 de abril de 1950",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "66",
+      "nome": "Antônio de Novais Filho",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "27 de abril de 1950",
+      "fim": "31 de janeiro de 1951",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "67",
+      "nome": "João Cleofas",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "31 de janeiro de 1951",
+      "fim": "8 de junho de 1954",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "68",
+      "nome": "Oswaldo Aranha",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "8 de junho de 1954",
+      "fim": "28 de junho de 1954",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "69",
+      "nome": "Apolônio Sales",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "29 de junho de 1954",
+      "fim": "24 de agosto de 1954",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "69",
+      "nome": "Apolônio Sales",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "24 de agosto de 1954",
+      "fim": "31 de agosto de 1954",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "70",
+      "nome": "José Antônio da Costa Porto",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "31 de agosto de 1954",
+      "fim": "3 de maio de 1955",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "71",
+      "nome": "Bento Munhoz da Rocha",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "3 de maio de 1955",
+      "fim": "18 de maio de 1955",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "72",
+      "nome": "Eduardo Catalão",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "18 de maio de 1955",
+      "fim": "9 de novembro de 1955",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "72",
+      "nome": "Eduardo Catalão",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "9 de novembro de 1955",
+      "fim": "31 de janeiro de 1956",
+      "chefe_de_governo": "Nereu Ramos",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "73",
+      "nome": "Ernesto Dorneles",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "31 de janeiro de 1956",
+      "fim": "30 de setembro de 1956",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "74",
+      "nome": "Parsifal Barroso",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "30 de setembro de 1956",
+      "fim": "3 de outubro de 1956",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "75",
+      "nome": "Mário Meneghetti",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "3 de outubro de 1956",
+      "fim": "5 de abril de 1960",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Paulo Fróes da Cruz (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "1 de agosto de 1958",
+      "fim": "31 de agosto de 1958",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "76",
+      "nome": "Fernando Nóbrega",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "6 de abril de 1960",
+      "fim": "6 de junho de 1960",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "77",
+      "nome": "Antônio de Barros Carvalho",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "6 de junho de 1960",
+      "fim": "30 de janeiro de 1961",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "78",
+      "nome": "Romero Cabral da Costa",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "31 de janeiro de 1961",
+      "fim": "25 de agosto de 1961",
+      "chefe_de_governo": "Jânio Quadros",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "79",
+      "nome": "Ricardo Greenhalgh Barreto Filho",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "29 de agosto de 1961",
+      "fim": "8 de setembro de 1961",
+      "chefe_de_governo": "Ranieri Mazzilli",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "80",
+      "nome": "Armando Monteiro Filho",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "8 de setembro de 1961",
+      "fim": "26 de junho de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "81",
+      "nome": "Renato Costa Lima",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "12 de julho de 1962",
+      "fim": "22 de janeiro de 1963",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "82",
+      "nome": "José Ermírio de Moraes",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "23 de janeiro de 1963",
+      "fim": "21 de junho de 1963",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "83",
+      "nome": "Osvaldo Lima Filho",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "21 de junho de 1963",
+      "fim": "6 de abril de 1964",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "n": "84",
+      "nome": "Arnaldo Lopes Süssekind",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "6 de abril de 1964",
+      "fim": "15 de abril de 1964",
+      "chefe_de_governo": "Ranieri Mazzilli",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "85",
+      "nome": "Oscar Thompson Filho",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de abril de 1964",
+      "fim": "16 de junho de 1964",
+      "chefe_de_governo": "Humberto Castelo Branco",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "86",
+      "nome": "Hugo de Almeida Leme",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "16 de junho de 1964",
+      "fim": "19 de novembro de 1965",
+      "chefe_de_governo": "Humberto Castelo Branco",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "87",
+      "nome": "Ney Braga",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "19 de novembro de 1965",
+      "fim": "12 de agosto de 1966",
+      "chefe_de_governo": "Humberto Castelo Branco",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "88",
+      "nome": "Severo Gomes",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "12 de agosto de 1966",
+      "fim": "15 de março de 1967",
+      "chefe_de_governo": "Humberto Castelo Branco",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "89",
+      "nome": "Ivo Arzua Pereira",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de março de 1967",
+      "fim": "31 de agosto de 1969",
+      "chefe_de_governo": "Costa e Silva",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Raymundo Bruno Marussig (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "10 de abril de 1968",
+      "fim": "20 de novembro de 1968",
+      "chefe_de_governo": "Costa e Silva",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Rui Correia Lopes (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de julho de 1969",
+      "fim": "29 de julho de 1969",
+      "chefe_de_governo": "Costa e Silva",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Ivo Arzua Pereira",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "31 de agosto de 1969",
+      "fim": "30 de outubro de 1969",
+      "chefe_de_governo": "Junta militar brasileira de 1969",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Boris Casoy (interino)",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "30 de outubro de 1969",
+      "fim": "9 de maio de 1970",
+      "chefe_de_governo": "Emílio Garrastazu Médici",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "91",
+      "nome": "Luís Fernando Cirne Lima",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "30 de maio de 1970",
+      "fim": "9 de maio de 1973",
+      "chefe_de_governo": "Emílio Garrastazu Médici",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "92",
+      "nome": "Moura Cavalcanti",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "9 de maio de 1973",
+      "fim": "15 de março de 1974",
+      "chefe_de_governo": "Emílio Garrastazu Médici",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "93",
+      "nome": "Alysson Paolinelli",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de março de 1974",
+      "fim": "15 de março de 1979",
+      "chefe_de_governo": "Ernesto Geisel",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "94",
+      "nome": "Delfim Netto",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de março de 1979",
+      "fim": "15 de agosto de 1979",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "95",
+      "nome": "Ângelo Amaury Stábile",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de agosto de 1979",
+      "fim": "2 de março de 1984",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "96",
+      "nome": "Nestor Jost",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "2 de março de 1984",
+      "fim": "15 de março de 1985",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "n": "96",
+      "nome": "Pedro Simon",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "15 de março de 1985",
+      "fim": "14 de fevereiro de 1986",
+      "chefe_de_governo": "José Sarney",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "97",
+      "nome": "Iris Rezende",
+      "orgao": "Ministério da Agricultura",
+      "inicio": "14 de fevereiro de 1986",
+      "fim": "15 de março de 1990",
+      "chefe_de_governo": "José Sarney",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "97",
+      "nome": "Iris Rezende",
+      "orgao": "Ministério da Agricultura e Reforma Agrária",
+      "inicio": "14 de fevereiro de 1990",
+      "fim": "30 de março de 1990",
+      "chefe_de_governo": "Fernando Collor de Mello",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "98",
+      "nome": "Bernardo Cabral",
+      "orgao": "Ministério da Agricultura e Reforma Agrária",
+      "inicio": "30 de março de 1990",
+      "fim": "3 de abril de 1990",
+      "chefe_de_governo": "Fernando Collor de Mello",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "99",
+      "nome": "Antônio Cabrera Mano Filho",
+      "orgao": "Ministério da Agricultura e Reforma Agrária",
+      "inicio": "3 de abril de 1990",
+      "fim": "2 de outubro de 1992",
+      "chefe_de_governo": "Fernando Collor de Mello",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "100",
+      "nome": "Lázaro Barbosa",
+      "orgao": "Ministério da Agricultura e Reforma Agrária",
+      "inicio": "2 de outubro de 1992",
+      "fim": "14 de novembro de 1992",
+      "chefe_de_governo": "Fernando Collor de Mello",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "100",
+      "nome": "Lázaro Barbosa",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "14 de novembro de 1992",
+      "fim": "25 de maio de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "101",
+      "nome": "Wilson Brandi Romão",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "25 de maio de 1993",
+      "fim": "5 de junho de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "102",
+      "nome": "Nuri Andraus Gassani",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "7 de junho de 1993",
+      "fim": "16 de junho de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Wilson Brandi Romão (interino)",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "16 de junho de 1993",
+      "fim": "17 de junho de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "103",
+      "nome": "Barros Munhoz",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "17 de junho de 1993",
+      "fim": "1 de setembro de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "104",
+      "nome": "José Eduardo de Andrade Vieira",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "1 de setembro de 1993",
+      "fim": "13 de outubro de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "105",
+      "nome": "Dejandir Dalpasquale",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "14 de outubro de 1993",
+      "fim": "21 de dezembro de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "106",
+      "nome": "Alberto Duque Portugal",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "21 de dezembro de 1993",
+      "fim": "25 de janeiro de 1994",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "107",
+      "nome": "Sinval Guazzelli",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "26 de janeiro de 1994",
+      "fim": "1 de janeiro de 1995",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "108",
+      "nome": "José Eduardo de Andrade Vieira",
+      "orgao": "Ministério da Agricultura, Abastecimento e Reforma Agrária",
+      "inicio": "1 de janeiro de 1995",
+      "fim": "2 de maio de 1996",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "109",
+      "nome": "Arlindo Porto",
+      "orgao": "Ministério da Agricultura e Abastecimento",
+      "inicio": "8 de maio de 1996",
+      "fim": "4 de abril de 1998",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Ailton Barcelos Fernandes (interino)",
+      "orgao": "Ministério da Agricultura e Abastecimento",
+      "inicio": "3 de maio de 1996",
+      "fim": "8 de maio de 1996",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Washington Thadeu de Mello (interino)",
+      "orgao": "Ministério da Agricultura e Abastecimento",
+      "inicio": "12 de fevereiro de 1997",
+      "fim": "14 de fevereiro de 1997",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "—",
+      "nome": "Enio Antônio Marques Pereira (interino)",
+      "orgao": "Ministério da Agricultura e Abastecimento",
+      "inicio": "12 de outubro de 1997",
+      "fim": "15 de outubro de 1997",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "110",
+      "nome": "Francisco Turra",
+      "orgao": "Ministério da Agricultura e Abastecimento",
+      "inicio": "7 de abril de 1998",
+      "fim": "19 de julho de 1999",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "111",
+      "nome": "Pratini de Moraes",
+      "orgao": "Ministério da Agricultura e Abastecimento",
+      "inicio": "19 de julho de 1999",
+      "fim": "1 de janeiro de 2003",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "112",
+      "nome": "Roberto Rodrigues",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "1 de janeiro de 2003",
+      "fim": "30 de junho de 2006",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "113",
+      "nome": "Luis Carlos Guedes Pinto",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "3 de julho de 2006",
+      "fim": "22 de março de 2007",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "114",
+      "nome": "Reinhold Stephanes",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "22 de março de 2007",
+      "fim": "24 de abril de 2010",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "115",
+      "nome": "Wagner Rossi",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "24 de abril de 2010",
+      "fim": "31 de dezembro de 2010",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "115",
+      "nome": "Wagner Rossi",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "1 de janeiro de 2011",
+      "fim": "17 de agosto de 2011",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "116",
+      "nome": "Mendes Ribeiro Filho",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "18 de agosto de 2011",
+      "fim": "16 de março de 2013",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "117",
+      "nome": "Antônio Andrade",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "16 de março de 2013",
+      "fim": "17 de março de 2014",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "118",
+      "nome": "Neri Geller",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "17 de março de 2014",
+      "fim": "1º de janeiro de 2015",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "119",
+      "nome": "Kátia Abreu",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "1º de janeiro de 2015",
+      "fim": "12 de maio de 2016",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "120",
+      "nome": "Blairo Maggi",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "12 de maio de 2016",
+      "fim": "1 de janeiro de 2019",
+      "chefe_de_governo": "Michel Temer",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "121",
+      "nome": "Tereza Cristina",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "1 de janeiro de 2019",
+      "fim": "30 de março de 2022",
+      "chefe_de_governo": "Jair Bolsonaro",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "122",
+      "nome": "Marcos Montes",
+      "orgao": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "inicio": "30 de março de 2022",
+      "fim": "31 de dezembro de 2022",
+      "chefe_de_governo": "Jair Bolsonaro",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "123",
+      "nome": "Carlos Fávaro",
+      "orgao": "Ministério da Agricultura e Pecuária",
+      "inicio": "1 de janeiro de 2023",
+      "fim": "31 de março de 2026",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "n": "124",
+      "nome": "André de Paula",
+      "orgao": "Ministério da Agricultura e Pecuária",
+      "inicio": "1 de abril de 2026",
+      "fim": "—",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    }
+  ],
+  "meta": {
+    "title": "Ministros da Agricultura do Brasil - Free Download",
+    "description": "Lista dos ministros da Agricultura (e Pecuária) do Brasil desde 1861, com o órgão, início e fim do mandato e o chefe de governo. Contains 150 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros da Agricultura do Brasil | ListBase",
+    "seo_description": "Download Ministros da Agricultura do Brasil — 150 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 150 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Agricultura_e_Pecuária_do_Brasil"
+    ]
+  }
+}
