@@ -1,0 +1,1688 @@
+{
+  "id": "pt-br-ministros-fazenda",
+  "name": "Ministros da Fazenda do Brasil",
+  "title": "Ministros da Fazenda do Brasil",
+  "description": "Lista dos ministros da Fazenda do Brasil desde a Independência (1822), com início e fim do mandato, chefe de governo e período histórico.",
+  "category": "finance",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Fazenda_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Fazenda_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 204,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "orgao",
+      "label": "Orgao",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fim",
+      "label": "Fim",
+      "type": "string"
+    },
+    {
+      "key": "chefe_de_governo",
+      "label": "Chefe De Governo",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Martim Francisco Ribeiro de Andrada",
+      "orgao": "",
+      "inicio": "7 de setembro de 1822",
+      "fim": "17 de julho de 1823",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Manuel Jacinto Nogueira da Gama (marquês de Baependi)",
+      "orgao": "",
+      "inicio": "17 de julho de 1823",
+      "fim": "10 de novembro de 1823",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Sebastião Luís Tinoco da Silva",
+      "orgao": "",
+      "inicio": "10 de novembro de 1823",
+      "fim": "13 de novembro de 1823",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Mariano José Pereira da Fonseca (marquês de Maricá)",
+      "orgao": "",
+      "inicio": "13 de novembro de 1823",
+      "fim": "21 de novembro de 1825",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Felisberto Caldeira Brant Pontes de Oliveira Horta (marquês de Barbacena)",
+      "orgao": "",
+      "inicio": "21 de novembro de 1825",
+      "fim": "20 de janeiro de 1826",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Antônio Luís Pereira da Cunha (marquês de Inhambupe)",
+      "orgao": "",
+      "inicio": "20 de janeiro de 1826",
+      "fim": "21 de janeiro de 1826",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Manuel Jacinto Nogueira da Gama (marquês de Baependi)",
+      "orgao": "",
+      "inicio": "21 de janeiro de 1826",
+      "fim": "16 de janeiro de 1827",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "João Severiano Maciel da Costa (marquês de Queluz)",
+      "orgao": "",
+      "inicio": "16 de janeiro de 1827",
+      "fim": "20 de novembro de 1827",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Miguel Calmon du Pin e Almeida (marquês de Abrantes)",
+      "orgao": "",
+      "inicio": "20 de novembro de 1827",
+      "fim": "15 de junho de 1828",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "José Clemente Pereira",
+      "orgao": "",
+      "inicio": "16 de junho de 1828",
+      "fim": "18 de junho de 1828",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "José Bernardino Batista Pereira de Almeida",
+      "orgao": "",
+      "inicio": "18 de junho de 1828",
+      "fim": "25 de setembro de 1828",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Miguel Calmon du Pin e Almeida (marquês de Abrantes)",
+      "orgao": "",
+      "inicio": "25 de setembro de 1828",
+      "fim": "4 de dezembro de 1829",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Felisberto Caldeira Brant Pontes de Oliveira Horta (marquês de Barbacena)",
+      "orgao": "",
+      "inicio": "4 de dezembro de 1829",
+      "fim": "2 de outubro de 1830",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "José Antônio Lisboa",
+      "orgao": "",
+      "inicio": "2 de outubro de 1830",
+      "fim": "3 de novembro de 1830",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Antônio Francisco de Paula de Holanda Cavalcanti de Albuquerque (visconde de Albuquerque)",
+      "orgao": "",
+      "inicio": "3 de novembro de 1830",
+      "fim": "5 de abril de 1831",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "Manuel Jacinto Nogueira da Gama (marquês de Baependi)",
+      "orgao": "",
+      "inicio": "5 de abril de 1831",
+      "fim": "7 de abril de 1831",
+      "chefe_de_governo": "D. Pedro I",
+      "periodo": "Primeiro reinado"
+    },
+    {
+      "nome": "José Inácio Borges",
+      "orgao": "",
+      "inicio": "7 de abril de 1831",
+      "fim": "16 de julho de 1831",
+      "chefe_de_governo": "Regência Trina Provisória",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Bernardo Pereira de Vasconcelos",
+      "orgao": "",
+      "inicio": "16 de julho de 1831",
+      "fim": "10 de maio de 1832",
+      "chefe_de_governo": "Regência Trina Permanente",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Joaquim José Rodrigues Torres (visconde de Itaboraí)",
+      "orgao": "",
+      "inicio": "10 de maio de 1832",
+      "fim": "3 de agosto de 1832",
+      "chefe_de_governo": "Regência Trina Permanente",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Antônio Francisco de Paula de Holanda Cavalcanti de Albuquerque (visconde de Albuquerque)",
+      "orgao": "",
+      "inicio": "3 de agosto de 1832",
+      "fim": "13 de setembro de 1832",
+      "chefe_de_governo": "Regência Trina Permanente",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Nicolau Pereira de Campos Vergueiro",
+      "orgao": "",
+      "inicio": "13 de setembro de 1832",
+      "fim": "14 de dezembro de 1832",
+      "chefe_de_governo": "Regência Trina Permanente",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Cândido José de Araújo Viana (marquês de Sapucaí)",
+      "orgao": "",
+      "inicio": "14 de dezembro de 1832",
+      "fim": "2 de junho de 1834",
+      "chefe_de_governo": "Regência Trina Permanente",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Antônio Pinto Chichorro da Gama",
+      "orgao": "",
+      "inicio": "2 de junho de 1834",
+      "fim": "7 de outubro de 1834",
+      "chefe_de_governo": "Regência Trina Permanente",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Manuel do Nascimento Castro e Silva",
+      "orgao": "",
+      "inicio": "7 de outubro de 1834",
+      "fim": "12 de outubro de 1835",
+      "chefe_de_governo": "Regência Trina Permanente",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Manuel do Nascimento Castro e Silva",
+      "orgao": "",
+      "inicio": "12 de outubro de 1835",
+      "fim": "16 de maio de 1837",
+      "chefe_de_governo": "Diogo Antônio Feijó",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Manuel Alves Branco (visconde de Caravelas)",
+      "orgao": "",
+      "inicio": "16 de maio de 1837",
+      "fim": "19 de setembro de 1837",
+      "chefe_de_governo": "Diogo Antônio Feijó",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Miguel Calmon du Pin e Almeida (marquês de Abrantes)",
+      "orgao": "",
+      "inicio": "19 de setembro de 1837",
+      "fim": "16 de abril de 1839",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Cândido Batista de Oliveira",
+      "orgao": "",
+      "inicio": "16 de abril de 1839",
+      "fim": "1 de setembro de 1839",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Manuel Alves Branco (visconde de Caravelas)",
+      "orgao": "",
+      "inicio": "1 de setembro de 1839",
+      "fim": "18 de maio de 1840",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "José Antônio da Silva Maia",
+      "orgao": "",
+      "inicio": "18 de maio de 1840",
+      "fim": "24 de julho de 1840",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Período regencial"
+    },
+    {
+      "nome": "Martim Francisco Ribeiro de Andrada",
+      "orgao": "",
+      "inicio": "24 de julho de 1840",
+      "fim": "23 de março de 1841",
+      "chefe_de_governo": "D. Pedro II (a partir de 22 de maio de 1847 teve função apenas de chefe de Estado)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Miguel Calmon du Pin e Almeida (marquês de Abrantes)",
+      "orgao": "",
+      "inicio": "23 de março de 1841",
+      "fim": "20 de janeiro de 1843",
+      "chefe_de_governo": "D. Pedro II (a partir de 22 de maio de 1847 teve função apenas de chefe de Estado)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Joaquim Francisco Viana",
+      "orgao": "",
+      "inicio": "20 de janeiro de 1843",
+      "fim": "2 de fevereiro de 1844",
+      "chefe_de_governo": "D. Pedro II (a partir de 22 de maio de 1847 teve função apenas de chefe de Estado)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Manuel Alves Branco (visconde de Caravelas)",
+      "orgao": "",
+      "inicio": "2 de fevereiro de 1844",
+      "fim": "2 de maio de 1846",
+      "chefe_de_governo": "D. Pedro II (a partir de 22 de maio de 1847 teve função apenas de chefe de Estado)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Antônio Francisco de Paula de Holanda Cavalcanti de Albuquerque (visconde de Albuquerque)",
+      "orgao": "",
+      "inicio": "2 de maio de 1846",
+      "fim": "17 de maio de 1847",
+      "chefe_de_governo": "D. Pedro II (a partir de 22 de maio de 1847 teve função apenas de chefe de Estado)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Joaquim Fernandes Torres (interino)",
+      "orgao": "",
+      "inicio": "17 de maio de 1847",
+      "fim": "22 de maio de 1847",
+      "chefe_de_governo": "D. Pedro II (a partir de 22 de maio de 1847 teve função apenas de chefe de Estado)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Manuel Alves Branco (visconde de Caravelas)",
+      "orgao": "",
+      "inicio": "22 de maio de 1847",
+      "fim": "20 de outubro de 1847",
+      "chefe_de_governo": "Manuel Alves Branco",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Saturnino de Sousa e Oliveira Coutinho (interino)",
+      "orgao": "",
+      "inicio": "20 de outubro de 1847",
+      "fim": "18 de novembro de 1847",
+      "chefe_de_governo": "Manuel Alves Branco",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Manuel Alves Branco (visconde de Caravelas)",
+      "orgao": "",
+      "inicio": "18 de novembro de 1847",
+      "fim": "8 de março de 1848",
+      "chefe_de_governo": "Manuel Alves Branco",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "orgao": "",
+      "inicio": "8 de março de 1848",
+      "fim": "14 de maio de 1848",
+      "chefe_de_governo": "José Carlos Pereira de Almeida Torres",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Dias de Carvalho",
+      "orgao": "",
+      "inicio": "14 de maio de 1848",
+      "fim": "31 de maio de 1848",
+      "chefe_de_governo": "José Carlos Pereira de Almeida Torres",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Francisco de Paula Sousa e Melo",
+      "orgao": "",
+      "inicio": "31 de maio de 1848",
+      "fim": "18 de agosto de 1848",
+      "chefe_de_governo": "Francisco de Paula Sousa e Melo",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Bernardo de Sousa Franco (visconde de Souza Franco, interino)",
+      "orgao": "",
+      "inicio": "18 de agosto de 1848",
+      "fim": "29 de setembro de 1848",
+      "chefe_de_governo": "Francisco de Paula Sousa e Melo",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Pedro de Araújo Lima (marquês de Olinda)",
+      "orgao": "",
+      "inicio": "29 de setembro de 1848",
+      "fim": "6 de outubro de 1848",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Joaquim Fernandes Torres (interino)",
+      "orgao": "",
+      "inicio": "6 de outubro de 1848",
+      "fim": "6 de dezembro de 1850",
+      "chefe_de_governo": "José da Costa Carvalho",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Paulino José Soares de Sousa (visconde de Uruguai, interino)",
+      "orgao": "",
+      "inicio": "6 de dezembro de 1850",
+      "fim": "13 de janeiro de 1851",
+      "chefe_de_governo": "José da Costa Carvalho",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Joaquim Fernandes Torres (reassumiu)",
+      "orgao": "",
+      "inicio": "13 de janeiro de 1851",
+      "fim": "12 de fevereiro de 1853",
+      "chefe_de_governo": "José da Costa Carvalho (até 11 de maio de 1852) Joaquim José Rodrigues Torres (exerceu as duas funções)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Manuel Felizardo de Sousa e Melo (interino)",
+      "orgao": "",
+      "inicio": "12 de fevereiro de 1853",
+      "fim": "6 de setembro de 1853",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Honório Hermeto Carneiro Leão (marquês do Paraná)",
+      "orgao": "",
+      "inicio": "6 de setembro de 1853",
+      "fim": "12 de janeiro de 1855",
+      "chefe_de_governo": "Honório Hermeto Carneiro Leão",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "orgao": "",
+      "inicio": "12 de janeiro de 1855",
+      "fim": "27 de janeiro de 1855",
+      "chefe_de_governo": "Antônio Paulino Limpo de Abreu (exercendo as duas funções)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Honório Hermeto Carneiro Leão (marquês do Paraná)",
+      "orgao": "",
+      "inicio": "27 de janeiro de 1855",
+      "fim": "23 de agosto de 1856",
+      "chefe_de_governo": "Antônio Paulino Limpo de Abreu",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "João Maurício Wanderley (barão de Cotegipe)",
+      "orgao": "",
+      "inicio": "23 de agosto de 1856",
+      "fim": "4 de maio de 1857",
+      "chefe_de_governo": "Antônio Paulino Limpo de Abreu",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Bernardo de Sousa Franco (visconde de Souza Franco)",
+      "orgao": "",
+      "inicio": "4 de maio de 1857",
+      "fim": "12 de dezembro de 1858",
+      "chefe_de_governo": "Antônio Paulino Limpo de Abreu",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Francisco de Sales Torres Homem (visconde de Inhomirim)",
+      "orgao": "",
+      "inicio": "12 de dezembro de 1858",
+      "fim": "10 de agosto de 1859",
+      "chefe_de_governo": "Antônio Paulino Limpo de Abreu",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Ângelo Moniz da Silva Ferraz (barão de Uruguaiana)",
+      "orgao": "",
+      "inicio": "10 de agosto de 1859",
+      "fim": "2 de março de 1861",
+      "chefe_de_governo": "Ângelo Moniz da Silva Ferraz (exercendo as duas funções)",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "orgao": "",
+      "inicio": "2 de março de 1861",
+      "fim": "24 de maio de 1862",
+      "chefe_de_governo": "Luís Alves de Lima e Silva",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Dias de Carvalho",
+      "orgao": "",
+      "inicio": "24 de maio de 1862",
+      "fim": "30 de maio de 1862",
+      "chefe_de_governo": "Zacarias de Góis e Vasconcelos",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Antônio Francisco de Paula de Holanda Cavalcanti de Albuquerque (visconde de Albuquerque)",
+      "orgao": "",
+      "inicio": "30 de maio de 1862",
+      "fim": "8 de abril de 1863",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Miguel Calmon du Pin e Almeida (marquês de Abrantes)",
+      "orgao": "",
+      "inicio": "8 de abril de 1863",
+      "fim": "15 de janeiro de 1864",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Dias de Carvalho",
+      "orgao": "",
+      "inicio": "15 de janeiro de 1864",
+      "fim": "31 de agosto de 1864",
+      "chefe_de_governo": "Zacarias de Góis e Vasconcelos",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Carlos Carneiro de Campos (3.º visconde de Caravelas)",
+      "orgao": "",
+      "inicio": "31 de agosto de 1864",
+      "fim": "12 de maio de 1865",
+      "chefe_de_governo": "Francisco José Furtado",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Dias de Carvalho",
+      "orgao": "",
+      "inicio": "12 de maio de 1865",
+      "fim": "4 de março de 1866",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Francisco de Paula da Silveira Lobo",
+      "orgao": "",
+      "inicio": "4 de março de 1866",
+      "fim": "7 de março de 1866",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "João da Silva Carrão",
+      "orgao": "",
+      "inicio": "7 de março de 1866",
+      "fim": "3 de agosto de 1866",
+      "chefe_de_governo": "Pedro de Araújo Lima",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Zacarias de Góis e Vasconcelos",
+      "orgao": "",
+      "inicio": "3 de agosto de 1866",
+      "fim": "16 de julho de 1868",
+      "chefe_de_governo": "Zacarias de Góis e Vasconcelos",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Joaquim Fernandes Torres",
+      "orgao": "",
+      "inicio": "16 de julho de 1868",
+      "fim": "29 de setembro de 1870",
+      "chefe_de_governo": "Joaquim José Rodrigues Torres",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Francisco de Sales Torres Homem (visconde de Inhomirim)",
+      "orgao": "",
+      "inicio": "29 de setembro de 1870",
+      "fim": "7 de março de 1871",
+      "chefe_de_governo": "José Antônio Pimenta Bueno",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "orgao": "",
+      "inicio": "7 de março de 1871",
+      "fim": "25 de junho de 1875",
+      "chefe_de_governo": "José Maria da Silva Paranhos",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "João Maurício Wanderley (barão de Cotegipe)",
+      "orgao": "",
+      "inicio": "25 de junho de 1875",
+      "fim": "5 de fevereiro de 1878",
+      "chefe_de_governo": "Luís Alves de Lima e Silva",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "orgao": "",
+      "inicio": "5 de fevereiro de 1878",
+      "fim": "13 de fevereiro de 1878",
+      "chefe_de_governo": "João Lins Vieira Cansanção de Sinimbu",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Gaspar da Silveira Martins",
+      "orgao": "",
+      "inicio": "13 de fevereiro de 1878",
+      "fim": "8 de fevereiro de 1879",
+      "chefe_de_governo": "João Lins Vieira Cansanção de Sinimbu",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Afonso Celso de Assis Figueiredo (visconde de Ouro Preto)",
+      "orgao": "",
+      "inicio": "8 de fevereiro de 1879",
+      "fim": "28 de março de 1880",
+      "chefe_de_governo": "João Lins Vieira Cansanção de Sinimbu",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Antônio Saraiva",
+      "orgao": "",
+      "inicio": "28 de março de 1880",
+      "fim": "21 de janeiro de 1882",
+      "chefe_de_governo": "José Antônio Saraiva",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Martinho Álvares da Silva Campos",
+      "orgao": "",
+      "inicio": "21 de janeiro de 1882",
+      "fim": "3 de julho de 1882",
+      "chefe_de_governo": "Martinho Álvares da Silva Campos",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "João Lustosa da Cunha Paranaguá (2.º marquês de Paranaguá)",
+      "orgao": "",
+      "inicio": "3 de julho de 1882",
+      "fim": "24 de maio de 1883",
+      "chefe_de_governo": "João Lustosa da Cunha Paranaguá",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Lafayette Rodrigues Pereira",
+      "orgao": "",
+      "inicio": "24 de maio de 1883",
+      "fim": "6 de junho de 1884",
+      "chefe_de_governo": "Lafayette Rodrigues Pereira",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Sousa Dantas",
+      "orgao": "",
+      "inicio": "6 de junho de 1884",
+      "fim": "6 de maio de 1885",
+      "chefe_de_governo": "Sousa Dantas",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "José Antônio Saraiva",
+      "orgao": "",
+      "inicio": "6 de maio de 1885",
+      "fim": "20 de agosto de 1885",
+      "chefe_de_governo": "José Antônio Saraiva",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Francisco Belisário Soares de Sousa",
+      "orgao": "",
+      "inicio": "20 de agosto de 1885",
+      "fim": "10 de março de 1888",
+      "chefe_de_governo": "João Maurício Wanderley",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "João Alfredo Correia de Oliveira",
+      "orgao": "",
+      "inicio": "10 de março de 1888",
+      "fim": "7 de junho de 1889",
+      "chefe_de_governo": "João Alfredo Correia de Oliveira",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Afonso Celso de Assis Figueiredo (visconde de Ouro Preto)",
+      "orgao": "",
+      "inicio": "7 de junho de 1889",
+      "fim": "20 de julho de 1889",
+      "chefe_de_governo": "Afonso Celso de Assis Figueiredo",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Cândido Luís Maria de Oliveira (interino)",
+      "orgao": "",
+      "inicio": "20 de julho de 1889",
+      "fim": "28 de julho de 1889",
+      "chefe_de_governo": "Afonso Celso de Assis Figueiredo",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Afonso Celso de Assis Figueiredo (visconde de Ouro Preto, reassumiu)",
+      "orgao": "",
+      "inicio": "28 de julho de 1889",
+      "fim": "15 de novembro de 1889",
+      "chefe_de_governo": "Afonso Celso de Assis Figueiredo",
+      "periodo": "Segundo reinado"
+    },
+    {
+      "nome": "Ruy Barbosa",
+      "orgao": "",
+      "inicio": "15 de novembro de 1889",
+      "fim": "21 de janeiro de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Tristão de Alencar Araripe",
+      "orgao": "",
+      "inicio": "22 de janeiro de 1891",
+      "fim": "4 de julho de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Henrique Pereira de Lucena (barão de Lucena)",
+      "orgao": "",
+      "inicio": "4 de julho de 1891",
+      "fim": "23 de novembro de 1891",
+      "chefe_de_governo": "Deodoro da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Antão Gonçalves de Faria (interino)",
+      "orgao": "",
+      "inicio": "23 de novembro de 1891",
+      "fim": "26 de novembro de 1891",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Rodrigues Alves",
+      "orgao": "",
+      "inicio": "26 de novembro de 1891",
+      "fim": "31 de agosto de 1892",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Antão Gonçalves de Faria (interino)",
+      "orgao": "",
+      "inicio": "31 de dezembro de 1891",
+      "fim": "10 de janeiro de 1892",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Serzedelo Correia",
+      "orgao": "",
+      "inicio": "31 de agosto de 1892",
+      "fim": "30 de abril de 1893",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Felisbelo Firmo de Oliveira Freire",
+      "orgao": "",
+      "inicio": "30 de abril de 1893",
+      "fim": "18 de agosto de 1894",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Alexandre Cassiano do Nascimento (interino)",
+      "orgao": "",
+      "inicio": "18 de agosto de 1894",
+      "fim": "15 de novembro de 1894",
+      "chefe_de_governo": "Floriano Peixoto",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Rodrigues Alves",
+      "orgao": "",
+      "inicio": "15 de novembro de 1894",
+      "fim": "20 de novembro de 1896",
+      "chefe_de_governo": "Prudente de Morais",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Bernardino de Campos",
+      "orgao": "",
+      "inicio": "20 de novembro de 1896",
+      "fim": "15 de novembro de 1898",
+      "chefe_de_governo": "Prudente de Morais",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Joaquim Murtinho",
+      "orgao": "",
+      "inicio": "15 de novembro de 1898",
+      "fim": "2 de setembro de 1902",
+      "chefe_de_governo": "Campos Sales",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Sabino Barroso",
+      "orgao": "",
+      "inicio": "2 de setembro de 1902",
+      "fim": "15 de novembro de 1902",
+      "chefe_de_governo": "Campos Sales",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Leopoldo de Bulhões",
+      "orgao": "",
+      "inicio": "15 de novembro de 1902",
+      "fim": "15 de novembro de 1906",
+      "chefe_de_governo": "Rodrigues Alves",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "David Morethson Campista",
+      "orgao": "",
+      "inicio": "15 de novembro de 1906",
+      "fim": "14 de junho de 1909",
+      "chefe_de_governo": "Afonso Pena",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Leopoldo de Bulhões",
+      "orgao": "",
+      "inicio": "14 de junho de 1909",
+      "fim": "15 de novembro de 1910",
+      "chefe_de_governo": "Nilo Peçanha",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Francisco Antônio de Sales",
+      "orgao": "",
+      "inicio": "15 de novembro de 1910",
+      "fim": "9 de maio de 1913",
+      "chefe_de_governo": "Hermes da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Rivadávia Correia (interino)",
+      "orgao": "",
+      "inicio": "9 de maio de 1913",
+      "fim": "11 de agosto de 1913",
+      "chefe_de_governo": "Hermes da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Rivadávia Correia",
+      "orgao": "",
+      "inicio": "11 de agosto de 1913",
+      "fim": "15 de novembro de 1914",
+      "chefe_de_governo": "Hermes da Fonseca",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Sabino Barroso",
+      "orgao": "",
+      "inicio": "15 de novembro de 1914",
+      "fim": "31 de maio de 1915",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Pandiá Calógeras (interino)",
+      "orgao": "",
+      "inicio": "1 de maio de 1915",
+      "fim": "8 de julho de 1915",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Pandiá Calógeras",
+      "orgao": "",
+      "inicio": "8 de julho de 1915",
+      "fim": "6 de setembro de 1917",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Augusto Tavares de Lira (interino)",
+      "orgao": "",
+      "inicio": "29 de maio de 1916",
+      "fim": "30 de junho de 1916",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Antônio Carlos Ribeiro de Andrada",
+      "orgao": "",
+      "inicio": "6 de setembro de 1917",
+      "fim": "1 de novembro de 1918",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Augusto Tavares de Lira (interino)",
+      "orgao": "",
+      "inicio": "1 de novembro de 1918",
+      "fim": "15 de novembro de 1918",
+      "chefe_de_governo": "Venceslau Brás",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Amaro Cavalcanti",
+      "orgao": "",
+      "inicio": "15 de novembro de 1918",
+      "fim": "17 de janeiro de 1919",
+      "chefe_de_governo": "Delfim Moreira",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "João Ribeiro de Oliveira e Sousa",
+      "orgao": "",
+      "inicio": "17 de janeiro de 1919",
+      "fim": "27 de julho de 1919",
+      "chefe_de_governo": "Delfim Moreira",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Homero Batista",
+      "orgao": "",
+      "inicio": "27 de julho de 1919",
+      "fim": "15 de novembro de 1922",
+      "chefe_de_governo": "Epitácio Pessoa",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Rafael de Abreu Sampaio Vidal",
+      "orgao": "",
+      "inicio": "15 de novembro de 1922",
+      "fim": "2 de janeiro de 1925",
+      "chefe_de_governo": "Artur Bernardes",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Aníbal Freire da Fonseca",
+      "orgao": "",
+      "inicio": "2 de janeiro de 1925",
+      "fim": "15 de novembro de 1926",
+      "chefe_de_governo": "Artur Bernardes",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Getúlio Vargas",
+      "orgao": "",
+      "inicio": "15 de novembro de 1926",
+      "fim": "17 de dezembro de 1927",
+      "chefe_de_governo": "Washington Luís",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Oliveira Botelho",
+      "orgao": "",
+      "inicio": "17 de dezembro de 1927",
+      "fim": "24 de outubro de 1930",
+      "chefe_de_governo": "Washington Luís",
+      "periodo": "República Velha (1.ª República)"
+    },
+    {
+      "nome": "Agenor Lafayette de Roure",
+      "orgao": "",
+      "inicio": "25 de outubro de 1930",
+      "fim": "4 de novembro de 1930",
+      "chefe_de_governo": "Junta Governativa Provisória de 1930",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "José Maria Whitaker",
+      "orgao": "",
+      "inicio": "4 de novembro de 1930",
+      "fim": "16 de novembro de 1931",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "Osvaldo Aranha",
+      "orgao": "",
+      "inicio": "16 de novembro de 1931",
+      "fim": "24 de julho de 1934",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "Artur de Sousa Costa",
+      "orgao": "",
+      "inicio": "24 de julho de 1934",
+      "fim": "29 de outubro de 1945",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "Orlando Bandeira Vilela (interino)",
+      "orgao": "",
+      "inicio": "14 de junho de 1937",
+      "fim": "9 de agosto de 1937",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "Romero Estelita Cavalcanti Pessoa (interino)",
+      "orgao": "",
+      "inicio": "25 de janeiro de 1939",
+      "fim": "18 de março de 1941",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "Paulo de Lira Tavares (interino)",
+      "orgao": "",
+      "inicio": "23 de junho de 1944",
+      "fim": "11 de agosto de 1944",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "José Pires do Rio",
+      "orgao": "",
+      "inicio": "29 de outubro de 1945",
+      "fim": "1 de fevereiro de 1946",
+      "chefe_de_governo": "José Linhares",
+      "periodo": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "nome": "Gastão Vidigal",
+      "orgao": "",
+      "inicio": "1 de fevereiro de 1946",
+      "fim": "15 de outubro de 1946",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Onaldo Brancante Machado (interino)",
+      "orgao": "",
+      "inicio": "15 de outubro de 1946",
+      "fim": "21 de outubro de 1946",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Pedro Luís Correia e Castro",
+      "orgao": "",
+      "inicio": "21 de outubro de 1946",
+      "fim": "10 de junho de 1949",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Oscar Santa Maria Pereira (interino)",
+      "orgao": "",
+      "inicio": "17 de janeiro de 1947",
+      "fim": "24 de janeiro de 1947",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "José Vieira Machado (interino)",
+      "orgao": "",
+      "inicio": "15 de setembro de 1947",
+      "fim": "21 de novembro de 1947",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Ovídio de Abreu (interino)",
+      "orgao": "",
+      "inicio": "27 de setembro de 1948",
+      "fim": "5 de novembro de 1948",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Manuel Guilherme da Silveira Filho",
+      "orgao": "",
+      "inicio": "10 de junho de 1949",
+      "fim": "31 de janeiro de 1951",
+      "chefe_de_governo": "Eurico Gaspar Dutra",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Horácio Lafer",
+      "orgao": "",
+      "inicio": "1 de fevereiro de 1951",
+      "fim": "15 de junho de 1953",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Alberto Andrade de Queirós (interino)",
+      "orgao": "",
+      "inicio": "27 de agosto de 1952",
+      "fim": "1 de outubro de 1952",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Osvaldo Aranha",
+      "orgao": "",
+      "inicio": "16 de junho de 1953",
+      "fim": "24 de agosto de 1954",
+      "chefe_de_governo": "Getúlio Vargas",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Eugênio Gudin",
+      "orgao": "",
+      "inicio": "25 de agosto de 1954",
+      "fim": "12 de abril de 1955",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Otávio Gouveia de Bulhões (interino)",
+      "orgao": "",
+      "inicio": "20 de setembro de 1954",
+      "fim": "8 de novembro de 1954",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "José Maria Whitaker",
+      "orgao": "",
+      "inicio": "13 de abril de 1955",
+      "fim": "10 de outubro de 1955",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Mário Leopoldo Pereira da Câmara",
+      "orgao": "",
+      "inicio": "11 de outubro de 1955",
+      "fim": "8 de novembro de 1955",
+      "chefe_de_governo": "Café Filho",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Mário Leopoldo Pereira da Câmara",
+      "orgao": "",
+      "inicio": "8 de novembro de 1955",
+      "fim": "11 de novembro de 1955",
+      "chefe_de_governo": "Carlos Luz",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Mário Leopoldo Pereira da Câmara",
+      "orgao": "",
+      "inicio": "11 de novembro de 1955",
+      "fim": "31 de janeiro de 1956",
+      "chefe_de_governo": "Nereu Ramos",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "José Maria Alkmin",
+      "orgao": "",
+      "inicio": "1 de fevereiro de 1956",
+      "fim": "24 de junho de 1958",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Sebastião Paes de Almeida (interino)",
+      "orgao": "",
+      "inicio": "19 de setembro de 1956",
+      "fim": "26 de outubro de 1956",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "João de Oliveira Castro Viana Júnior (interino)",
+      "orgao": "",
+      "inicio": "15 de agosto de 1957",
+      "fim": "9 de outubro de 1957",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Lucas Lopes",
+      "orgao": "",
+      "inicio": "25 de junho de 1958",
+      "fim": "3 de junho de 1959",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Sebastião Paes de Almeida (interino)",
+      "orgao": "",
+      "inicio": "28 de novembro de 1958",
+      "fim": "3 de junho de 1959",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Sebastião Paes de Almeida",
+      "orgao": "",
+      "inicio": "4 de junho de 1959",
+      "fim": "31 de janeiro de 1961",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Maurício Chagas Bicalho (interino)",
+      "orgao": "",
+      "inicio": "19 de setembro de 1959",
+      "fim": "15 de junho de 1960",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Antônio Carlos Barcellos (interino)",
+      "orgao": "",
+      "inicio": "19 de setembro de 1960",
+      "fim": "29 de novembro de 1960",
+      "chefe_de_governo": "Juscelino Kubitschek",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Clemente Mariani",
+      "orgao": "",
+      "inicio": "1 de fevereiro de 1961",
+      "fim": "25 de agosto de 1961",
+      "chefe_de_governo": "Jânio Quadros",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Hamilton Prisco Paraíso (interino)",
+      "orgao": "",
+      "inicio": "8 de maio de 1961",
+      "fim": "18 de agosto de 1961",
+      "chefe_de_governo": "Jânio Quadros",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Clemente Mariani (reassumiu)",
+      "orgao": "",
+      "inicio": "25 de agosto de 1961",
+      "fim": "7 de setembro de 1961",
+      "chefe_de_governo": "Ranieri Mazzilli",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Walther Moreira Salles",
+      "orgao": "",
+      "inicio": "8 de setembro de 1961",
+      "fim": "26 de junho de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Tancredo Neves (interino)",
+      "orgao": "",
+      "inicio": "23 de março de 1962",
+      "fim": "9 de maio de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Walther Moreira Salles (reassumiu)",
+      "orgao": "",
+      "inicio": "12 de julho de 1962",
+      "fim": "14 de setembro de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Henrique Domingos Ribeiro Barbosa (interino)",
+      "orgao": "",
+      "inicio": "22 de junho de 1962",
+      "fim": "3 de agosto de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Francisco de Paula Brochado da Rocha",
+      "orgao": "",
+      "inicio": "13 de julho de 1962",
+      "fim": "29 de julho de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Miguel Calmon du Pin e Almeida Sobrinho (interino)",
+      "orgao": "",
+      "inicio": "3 de agosto de 1962",
+      "fim": "17 de setembro de 1962",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Miguel Calmon du Pin e Almeida Sobrinho",
+      "orgao": "",
+      "inicio": "18 de setembro de 1962",
+      "fim": "22 de janeiro de 1963",
+      "chefe_de_governo": "João Goulart (parlamentarismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "San Tiago Dantas",
+      "orgao": "",
+      "inicio": "23 de janeiro de 1963",
+      "fim": "20 de junho de 1963",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Antônio Balbino (interino)",
+      "orgao": "",
+      "inicio": "11 de março de 1963",
+      "fim": "26 de março de 1963",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Carvalho Pinto",
+      "orgao": "",
+      "inicio": "21 de junho de 1963",
+      "fim": "19 de dezembro de 1963",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Hélio Bicudo (interino)",
+      "orgao": "",
+      "inicio": "19 de setembro de 1963",
+      "fim": "4 de outubro de 1963",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Ney Neves Galvão",
+      "orgao": "",
+      "inicio": "20 de dezembro de 1963",
+      "fim": "3 de abril de 1964",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Waldyr Ramos Borges (interino)",
+      "orgao": "",
+      "inicio": "16 de março de 1964",
+      "fim": "20 de março de 1964",
+      "chefe_de_governo": "João Goulart (presidencialismo)",
+      "periodo": "Período Populista (4.ª República)"
+    },
+    {
+      "nome": "Otávio Gouveia de Bulhões (interino)",
+      "orgao": "",
+      "inicio": "4 de abril de 1964",
+      "fim": "15 de abril de 1964",
+      "chefe_de_governo": "Ranieri Mazzilli",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Otávio Gouveia de Bulhões",
+      "orgao": "",
+      "inicio": "15 de abril de 1964",
+      "fim": "16 de março de 1967",
+      "chefe_de_governo": "Castelo Branco",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Roberto Campos (interino)",
+      "orgao": "",
+      "inicio": "4 de setembro de 1964",
+      "fim": "15 de setembro de 1964",
+      "chefe_de_governo": "Castelo Branco",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Eduardo Lopes Rodrigues (interino)",
+      "orgao": "",
+      "inicio": "23 de setembro de 1965",
+      "fim": "4 de dezembro de 1966",
+      "chefe_de_governo": "Castelo Branco",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Delfim Netto",
+      "orgao": "",
+      "inicio": "17 de março de 1967",
+      "fim": "31 de agosto de 1969",
+      "chefe_de_governo": "Costa e Silva",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Fernando Ribeiro do Val (interino)",
+      "orgao": "",
+      "inicio": "24 de abril de 1967",
+      "fim": "6 de abril de 1969",
+      "chefe_de_governo": "Costa e Silva",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Delfim Netto (reassumiu)",
+      "orgao": "",
+      "inicio": "31 de agosto de 1969",
+      "fim": "30 de outubro de 1969",
+      "chefe_de_governo": "Junta militar de 1969",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Delfim Netto (reassumiu)",
+      "orgao": "",
+      "inicio": "30 de outubro de 1969",
+      "fim": "15 de março de 1974",
+      "chefe_de_governo": "Emílio Garrastazu Médici",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "José Flávio Pécora",
+      "orgao": "",
+      "inicio": "7 de abril de 1969",
+      "fim": "15 de março de 1974",
+      "chefe_de_governo": "Emílio Garrastazu Médici",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Mário Henrique Simonsen",
+      "orgao": "",
+      "inicio": "16 de março de 1974",
+      "fim": "15 de março de 1979",
+      "chefe_de_governo": "Ernesto Geisel",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Karlos Rischbieter",
+      "orgao": "",
+      "inicio": "16 de março de 1979",
+      "fim": "17 de janeiro de 1980",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Márcio Fortes (interino)",
+      "orgao": "",
+      "inicio": "16 de março de 1979",
+      "fim": "17 de janeiro de 1980",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Ernane Galvêas",
+      "orgao": "",
+      "inicio": "18 de janeiro de 1980",
+      "fim": "14 de março de 1985",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Eduardo Pereira de Carvalho (interino)",
+      "orgao": "",
+      "inicio": "18 de janeiro de 1980",
+      "fim": "25 de março de 1981",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Carlos Viacava (interino)",
+      "orgao": "",
+      "inicio": "25 de março de 1981",
+      "fim": "1 de março de 1983",
+      "chefe_de_governo": "João Figueiredo",
+      "periodo": "Ditadura militar (5.ª República)"
+    },
+    {
+      "nome": "Francisco Dornelles",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "15 de março de 1985",
+      "fim": "26 de agosto de 1985",
+      "chefe_de_governo": "José Sarney",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Dilson Funaro",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "26 de agosto de 1985",
+      "fim": "29 de abril de 1987",
+      "chefe_de_governo": "José Sarney",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Luiz Carlos Bresser-Pereira",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "29 de abril de 1987",
+      "fim": "21 de dezembro de 1987",
+      "chefe_de_governo": "José Sarney",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Maílson da Nóbrega",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "13 de maio de 1987",
+      "fim": "6 de janeiro de 1988",
+      "chefe_de_governo": "José Sarney",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Maílson da Nóbrega",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "6 de janeiro de 1988",
+      "fim": "15 de março de 1990",
+      "chefe_de_governo": "José Sarney",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Zélia Cardoso de Mello",
+      "orgao": "Ministério da Economia, Fazenda e Planejamento",
+      "inicio": "15 de março de 1990",
+      "fim": "10 de maio de 1991",
+      "chefe_de_governo": "Fernando Collor",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Marcílio Marques Moreira",
+      "orgao": "Ministério da Economia, Fazenda e Planejamento",
+      "inicio": "10 de maio de 1991",
+      "fim": "2 de outubro de 1992",
+      "chefe_de_governo": "Fernando Collor",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Gustavo Krause",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "2 de outubro de 1992",
+      "fim": "16 de dezembro de 1992",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Paulo Roberto Haddad",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "16 de dezembro de 1992",
+      "fim": "1 de março de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Eliseu Resende",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "1 de março de 1993",
+      "fim": "19 de maio de 1993",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Fernando Henrique Cardoso",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "19 de maio de 1993",
+      "fim": "30 de março de 1994",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Rubens Ricupero",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "30 de março de 1994",
+      "fim": "6 de setembro de 1994",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Ciro Gomes",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "6 de setembro de 1994",
+      "fim": "1 de janeiro de 1995",
+      "chefe_de_governo": "Itamar Franco",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Pedro Malan",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "1 de janeiro de 1995",
+      "fim": "1 de janeiro de 2003",
+      "chefe_de_governo": "Fernando Henrique Cardoso",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Antonio Palocci",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "1 de janeiro de 2003",
+      "fim": "27 de março de 2006",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Guido Mantega",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "27 de março de 2006",
+      "fim": "3 de janeiro de 2007",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Bernard Appy (interino)",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "3 de janeiro de 2007",
+      "fim": "14 de janeiro de 2007",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Guido Mantega (reassumiu)",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "14 de janeiro de 2007",
+      "fim": "1 de janeiro de 2011",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Guido Mantega (reassumiu)",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "1 de janeiro de 2011",
+      "fim": "1 de janeiro de 2015",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Joaquim Levy",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "1 de janeiro de 2015",
+      "fim": "18 de dezembro de 2015",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Nelson Barbosa",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "18 de dezembro de 2015",
+      "fim": "12 de maio de 2016",
+      "chefe_de_governo": "Dilma Rousseff",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Henrique Meirelles",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "12 de maio de 2016",
+      "fim": "10 de abril de 2018",
+      "chefe_de_governo": "Michel Temer",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Eduardo Guardia",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "10 de abril de 2018",
+      "fim": "1 de janeiro de 2019",
+      "chefe_de_governo": "Michel Temer",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Paulo Guedes",
+      "orgao": "Ministério da Economia",
+      "inicio": "1 de janeiro de 2019",
+      "fim": "1 de janeiro de 2023",
+      "chefe_de_governo": "Jair Bolsonaro",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Fernando Haddad",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "1 de janeiro de 2023",
+      "fim": "19 de março de 2026",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    },
+    {
+      "nome": "Dario Durigan",
+      "orgao": "Ministério da Fazenda",
+      "inicio": "19 de março de 2026",
+      "fim": "Em exercício",
+      "chefe_de_governo": "Luiz Inácio Lula da Silva",
+      "periodo": "Nova República (6.ª República)"
+    }
+  ],
+  "meta": {
+    "title": "Ministros da Fazenda do Brasil - Free Download",
+    "description": "Lista dos ministros da Fazenda do Brasil desde a Independência (1822), com início e fim do mandato, chefe de governo e período histórico. Contains 204 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros da Fazenda do Brasil | ListBase",
+    "seo_description": "Download Ministros da Fazenda do Brasil — 204 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 204 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Fazenda_do_Brasil"
+    ]
+  }
+}
