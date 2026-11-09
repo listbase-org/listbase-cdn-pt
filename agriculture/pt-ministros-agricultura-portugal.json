@@ -1,0 +1,1146 @@
+{
+  "id": "pt-ministros-agricultura-portugal",
+  "name": "Ministros da Agricultura de Portugal",
+  "title": "Ministros da Agricultura de Portugal",
+  "description": "Lista dos ministros da Agricultura de Portugal desde a Primeira República, com a designação do cargo, mandato, governo e período político.",
+  "category": "agriculture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Agricultura_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Agricultura_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "ministro",
+      "label": "Ministro",
+      "type": "string"
+    },
+    {
+      "key": "nascimento_morte",
+      "label": "Nascimento Morte",
+      "type": "string"
+    },
+    {
+      "key": "cargo",
+      "label": "Cargo",
+      "type": "string"
+    },
+    {
+      "key": "inicio_mandato",
+      "label": "Inicio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fim_mandato",
+      "label": "Fim Mandato",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": "1",
+      "ministro": "Eduardo Fernandes de Oliveira",
+      "nascimento_morte": "1882–1943",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "9 de março de 1918",
+      "fim_mandato": "15 de maio de 1918",
+      "governo": "XV Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "n": "1",
+      "ministro": "Eduardo Fernandes de Oliveira",
+      "nascimento_morte": "1882–1943",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "9 de março de 1918",
+      "fim_mandato": "15 de maio de 1918",
+      "governo": "XV Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "n": "–",
+      "ministro": "Eduardo Fernandes de Oliveira",
+      "nascimento_morte": "1882–1943",
+      "cargo": "Secretário de Estado da Agricultura",
+      "inicio_mandato": "15 de maio de 1918",
+      "fim_mandato": "16 de dezembro de 1918",
+      "governo": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "n": "–",
+      "ministro": "Eduardo Fernandes de Oliveira",
+      "nascimento_morte": "1882–1943",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "16 de dezembro de 1918",
+      "fim_mandato": "23 de dezembro de 1918",
+      "governo": "XVI Canto e Castro",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "n": "–",
+      "ministro": "Eduardo Fernandes de Oliveira",
+      "nascimento_morte": "1882–1943",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "23 de dezembro de 1918",
+      "fim_mandato": "27 de janeiro de 1919",
+      "governo": "XVII Tamagnini Barbosa",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "Eduardo Fernandes de Oliveira",
+      "nascimento_morte": "1882–1943",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "23 de dezembro de 1918",
+      "fim_mandato": "27 de janeiro de 1919",
+      "governo": "XVIII Tamagnini Barbosa",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "2",
+      "ministro": "Jorge de Vasconcelos Nunes",
+      "nascimento_morte": "1878–1936",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "27 de janeiro de 1919",
+      "fim_mandato": "30 de março de 1919",
+      "governo": "XIX Relvas",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "2",
+      "ministro": "Jorge de Vasconcelos Nunes",
+      "nascimento_morte": "1878–1936",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "27 de janeiro de 1919",
+      "fim_mandato": "30 de março de 1919",
+      "governo": "XX Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "3",
+      "ministro": "César Justino de Lima Alves",
+      "nascimento_morte": "1866–1942",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "29 de junho de 1919",
+      "fim_mandato": "3 de janeiro de 1920",
+      "governo": "XXI Sá Cardoso",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "João Luís Ricardo da Silva (não empossado)",
+      "nascimento_morte": "1875–1929",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "3 de janeiro de 1920",
+      "fim_mandato": "15 de janeiro de 1920",
+      "governo": "XXI Sá Cardoso",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "4",
+      "ministro": "José Domingues dos Santos (interino)",
+      "nascimento_morte": "1887–1958",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "3 de janeiro de 1920",
+      "fim_mandato": "15 de janeiro de 1920",
+      "governo": "XXI Sá Cardoso",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "Afonso de Melo Pinto Veloso (interino; não empossado)",
+      "nascimento_morte": "1878–1968",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "15 de janeiro de 1920",
+      "fim_mandato": "15 de janeiro de 1920",
+      "governo": "XXII Fernandes Costa (não empossado)",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "João Luís Ricardo da Silva (reconduzido; não empossado)",
+      "nascimento_morte": "1875–1929",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "15 de janeiro de 1920",
+      "fim_mandato": "21 de janeiro de 1920",
+      "governo": "XXI Sá Cardoso",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "José Domingues dos Santos (reconduzido; interino)",
+      "nascimento_morte": "1887–1958",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "15 de janeiro de 1920",
+      "fim_mandato": "21 de janeiro de 1920",
+      "governo": "XXI Sá Cardoso",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "5",
+      "ministro": "Álvaro Pereira de Lacerda",
+      "nascimento_morte": "1877–1943",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "21 de janeiro de 1920",
+      "fim_mandato": "23 de janeiro de 1920",
+      "governo": "XXIII Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "Jorge de Vasconcelos Nunes (interino)",
+      "nascimento_morte": "1878–1936",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "23 de janeiro de 1920",
+      "fim_mandato": "27 de janeiro de 1920",
+      "governo": "XXIII Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "6",
+      "ministro": "Joaquim António de Melo e Castro Ribeiro",
+      "nascimento_morte": "1882–1953",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "27 de janeiro de 1920",
+      "fim_mandato": "8 de março de 1920",
+      "governo": "XXIII Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "7",
+      "ministro": "João Luís Ricardo da Silva",
+      "nascimento_morte": "1875–1929",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "8 de março de 1920",
+      "fim_mandato": "26 de junho de 1920",
+      "governo": "XXIV Baptista (até 6 jun. 1920) Ramos Preto (desde 6 jun. 1920)",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "8",
+      "ministro": "João Gonçalves",
+      "nascimento_morte": "1874–1956",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "26 de junho de 1920",
+      "fim_mandato": "19 de julho de 1920",
+      "governo": "XXV Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "9",
+      "ministro": "António Joaquim Granjo",
+      "nascimento_morte": "1881–1921",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "19 de julho de 1920",
+      "fim_mandato": "20 de novembro de 1920",
+      "governo": "XXVI Granjo",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "10",
+      "ministro": "José Maria Álvares",
+      "nascimento_morte": "1875–1940",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "20 de novembro de 1920",
+      "fim_mandato": "30 de novembro de 1920",
+      "governo": "XXVII A. Castro",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "11",
+      "ministro": "João Gonçalves (2.ª vez)",
+      "nascimento_morte": "1874–1956",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "30 de novembro de 1920",
+      "fim_mandato": "2 de março de 1921",
+      "governo": "XXVIII Pinto",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "12",
+      "ministro": "Bernardino Luís Machado Guimarães (interino)",
+      "nascimento_morte": "1851–1944",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "2 de março de 1921",
+      "fim_mandato": "4 de maio de 1921",
+      "governo": "XXIX Machado",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "13",
+      "ministro": "Albano Augusto de Portugal Durão",
+      "nascimento_morte": "1871–1925",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "4 de maio de 1921",
+      "fim_mandato": "19 de maio de 1921",
+      "governo": "XXIX Machado",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "14",
+      "ministro": "Bernardino Luís Machado Guimarães (2.ª vez; interino)",
+      "nascimento_morte": "1851–1944",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "19 de maio de 1921",
+      "fim_mandato": "23 de maio de 1921",
+      "governo": "XXIX Machado",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "15",
+      "ministro": "Tomé José de Barros Queirós (interino)",
+      "nascimento_morte": "1872–1926",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "23 de maio de 1921",
+      "fim_mandato": "24 de maio de 1921",
+      "governo": "XXX Barros Queirós",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "16",
+      "ministro": "Manuel de Sousa da Câmara",
+      "nascimento_morte": "1871–1955",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "24 de maio de 1921",
+      "fim_mandato": "30 de agosto de 1921",
+      "governo": "XXX Barros Queirós",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "17",
+      "ministro": "Francisco José de Meneses Fernandes Costa (interino)",
+      "nascimento_morte": "1857–1925",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "30 de agosto de 1921",
+      "fim_mandato": "3 de setembro de 1921",
+      "governo": "XXXI Granjo",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "18",
+      "ministro": "António Lobo Aboim Inglês",
+      "nascimento_morte": "1860–1941",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "3 de setembro de 1921",
+      "fim_mandato": "19 de outubro de 1921",
+      "governo": "XXXI Granjo",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "19",
+      "ministro": "Antão Fernandes de Carvalho",
+      "nascimento_morte": "1871–1948",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "19 de outubro de 1921",
+      "fim_mandato": "16 de dezembro de 1921",
+      "governo": "XXXII Coelho",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "19",
+      "ministro": "Antão Fernandes de Carvalho",
+      "nascimento_morte": "1871–1948",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "19 de outubro de 1921",
+      "fim_mandato": "16 de dezembro de 1921",
+      "governo": "XXXIII Maia Pinto",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "20",
+      "ministro": "Mariano Martins",
+      "nascimento_morte": "1880–1943",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "16 de dezembro de 1921",
+      "fim_mandato": "6 de fevereiro de 1922",
+      "governo": "XXXIV Cunha Leal",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "21",
+      "ministro": "Ernesto Júlio Navarro",
+      "nascimento_morte": "1876–1938",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "6 de fevereiro de 1922",
+      "fim_mandato": "30 de novembro de 1922",
+      "governo": "XXXV Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "22",
+      "ministro": "António Maria da Silva (interino)",
+      "nascimento_morte": "1872–1950",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "30 de novembro de 1922",
+      "fim_mandato": "9 de janeiro de 1923",
+      "governo": "XXXVI Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "22",
+      "ministro": "António Maria da Silva (interino)",
+      "nascimento_morte": "1872–1950",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "30 de novembro de 1922",
+      "fim_mandato": "9 de janeiro de 1923",
+      "governo": "XXXVII Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "23",
+      "ministro": "Abel Fontoura da Costa",
+      "nascimento_morte": "1869–1940",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "9 de janeiro de 1923",
+      "fim_mandato": "30 de abril de 1923",
+      "governo": "XXXVII Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "João Teixeira de Queirós Vaz Guedes (interino)",
+      "nascimento_morte": "1871–1926",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "30 de abril de 1923",
+      "fim_mandato": "8 de maio de 1923",
+      "governo": "XXXVII Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "Abel Fontoura da Costa",
+      "nascimento_morte": "1869–1940",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "8 de maio de 1923",
+      "fim_mandato": "13 de agosto de 1923",
+      "governo": "XXXVII Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "24",
+      "ministro": "Joaquim António de Melo e Castro Ribeiro (2.ª vez)",
+      "nascimento_morte": "1882–1953",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "13 de agosto de 1923",
+      "fim_mandato": "15 de novembro de 1923",
+      "governo": "XXXVII Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "25",
+      "ministro": "Alexandre José Botelho de Vasconcelos e Sá",
+      "nascimento_morte": "1897–1929",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "15 de novembro de 1923",
+      "fim_mandato": "18 de dezembro de 1923",
+      "governo": "XXXVIII Ginestal Machado",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "26",
+      "ministro": "António Joaquim Ferreira da Fonseca (interino)",
+      "nascimento_morte": "1887–1937",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "18 de dezembro de 1923",
+      "fim_mandato": "24 de dezembro de 1923",
+      "governo": "XXXIX A. Castro",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "27",
+      "ministro": "Mário de Azevedo Gomes",
+      "nascimento_morte": "1885–1965",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "24 de dezembro de 1923",
+      "fim_mandato": "28 de fevereiro de 1924",
+      "governo": "XXXIX A. Castro",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "28",
+      "ministro": "Joaquim António de Melo e Castro Ribeiro (3.ª vez)",
+      "nascimento_morte": "1882–1953",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "28 de fevereiro de 1924",
+      "fim_mandato": "6 de julho de 1924",
+      "governo": "XXXIX A. Castro",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "29",
+      "ministro": "Alfredo Rodrigues Gaspar (interino)",
+      "nascimento_morte": "1865–1938",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "6 de julho de 1924",
+      "fim_mandato": "22 de julho de 1924",
+      "governo": "XL Rodrigues Gaspar",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "30",
+      "ministro": "António Alberto Torres Garcia",
+      "nascimento_morte": "1889–1937",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "22 de julho de 1924",
+      "fim_mandato": "22 de novembro de 1924",
+      "governo": "XL Rodrigues Gaspar",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "31",
+      "ministro": "Ezequiel Pereira de Campos",
+      "nascimento_morte": "1874–1965",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "22 de novembro de 1924",
+      "fim_mandato": "15 de fevereiro de 1925",
+      "governo": "XLI Domingues dos Santos",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "32",
+      "ministro": "Francisco Coelho do Amaral Reis",
+      "nascimento_morte": "1873–1938",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "15 de fevereiro de 1925",
+      "fim_mandato": "1 de julho de 1925",
+      "governo": "XLII Guimarães",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "33",
+      "ministro": "António Alberto Torres Garcia (2.ª vez)",
+      "nascimento_morte": "1889–1937",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "1 de julho de 1925",
+      "fim_mandato": "1 de agosto de 1925",
+      "governo": "XLIII Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "34",
+      "ministro": "Manuel Gaspar de Lemos",
+      "nascimento_morte": "1887–1967",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "1 de agosto de 1925",
+      "fim_mandato": "17 de dezembro de 1925",
+      "governo": "XLIV Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "35",
+      "ministro": "António Alberto Torres Garcia (3.ª vez)",
+      "nascimento_morte": "1889–1937",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "17 de dezembro de 1925",
+      "fim_mandato": "29 de maio de 1926",
+      "governo": "XLV Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "n": "–",
+      "ministro": "Junta de Salvação Pública composta por: José Mendes Cabeçadas Júnior (Presidente) Armando Humberto da Gama Ochoa Jaime Pereira Rodrigues Baptista Carlos de Jesus Vilhena",
+      "nascimento_morte": "",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "29 de maio de 1926",
+      "fim_mandato": "30 de maio de 1926",
+      "governo": "——",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "n": "36",
+      "ministro": "José Mendes Cabeçadas Júnior (interino)",
+      "nascimento_morte": "1883–1965",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "30 de maio de 1926",
+      "fim_mandato": "1 de junho de 1926",
+      "governo": "I Mendes Cabeçadas",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "n": "–",
+      "ministro": "Manuel de Oliveira Gomes da Costa (não empossado)",
+      "nascimento_morte": "1863–1929",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "1 de junho de 1926",
+      "fim_mandato": "3 de junho de 1926",
+      "governo": "I Mendes Cabeçadas",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "n": "–",
+      "ministro": "Ezequiel Pereira de Campos (não empossado)",
+      "nascimento_morte": "1874–1965",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "3 de junho de 1926",
+      "fim_mandato": "5 de junho de 1926",
+      "governo": "I Mendes Cabeçadas",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "n": "37",
+      "ministro": "Felisberto Alves Pedrosa",
+      "nascimento_morte": "1862–1937",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "5 de junho de 1926",
+      "fim_mandato": "18 de abril de 1928",
+      "governo": "I Mendes Cabeçadas",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "n": "37",
+      "ministro": "Felisberto Alves Pedrosa",
+      "nascimento_morte": "1862–1937",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "5 de junho de 1926",
+      "fim_mandato": "18 de abril de 1928",
+      "governo": "II Gomes da Costa",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "n": "37",
+      "ministro": "Felisberto Alves Pedrosa",
+      "nascimento_morte": "1862–1937",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "5 de junho de 1926",
+      "fim_mandato": "18 de abril de 1928",
+      "governo": "III Carmona",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "n": "38",
+      "ministro": "Joaquim Nunes Mexia",
+      "nascimento_morte": "1870–1941",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "18 de abril de 1928",
+      "fim_mandato": "7 de julho de 1928",
+      "governo": "IV Freitas",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "39",
+      "ministro": "Joaquim Mendes do Amaral",
+      "nascimento_morte": "1889–1961",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "7 de julho de 1928",
+      "fim_mandato": "16 de julho de 1928",
+      "governo": "IV Freitas",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "–",
+      "ministro": "José Dias de Araújo Correia (interino)",
+      "nascimento_morte": "1894–1978",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "16 de julho de 1928",
+      "fim_mandato": "18 de julho de 1928",
+      "governo": "IV Freitas",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "–",
+      "ministro": "Joaquim Mendes do Amaral",
+      "nascimento_morte": "1889–1961",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "18 de julho de 1928",
+      "fim_mandato": "10 de novembro de 1928",
+      "governo": "IV Freitas",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "40",
+      "ministro": "Pedro de Castro Pinto Bravo",
+      "nascimento_morte": "1877–1948",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "10 de novembro de 1928",
+      "fim_mandato": "8 de julho de 1929",
+      "governo": "V Freitas",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "41",
+      "ministro": "Henrique Linhares de Lima",
+      "nascimento_morte": "1876–1953",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "8 de julho de 1929",
+      "fim_mandato": "5 de julho de 1932",
+      "governo": "VI Ivens Ferraz",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "41",
+      "ministro": "Henrique Linhares de Lima",
+      "nascimento_morte": "1876–1953",
+      "cargo": "Ministro do Comércio e Comunicações",
+      "inicio_mandato": "8 de julho de 1929",
+      "fim_mandato": "5 de julho de 1932",
+      "governo": "VII Oliveira",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "42",
+      "ministro": "Sebastião Garcia Ramires",
+      "nascimento_morte": "1898–1972",
+      "cargo": "Ministro do Comércio, Indústria e Agricultura",
+      "inicio_mandato": "5 de julho de 1932",
+      "fim_mandato": "11 de abril de 1933",
+      "governo": "VIII Oliveira Salazar",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "n": "–",
+      "ministro": "Sebastião Garcia Ramires",
+      "nascimento_morte": "1898–1972",
+      "cargo": "Ministro do Comércio, Indústria e Agricultura",
+      "inicio_mandato": "11 de abril de 1933",
+      "fim_mandato": "24 de julho de 1933",
+      "governo": "I Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "n": "43",
+      "ministro": "Leovigildo Queimado Franco de Sousa",
+      "nascimento_morte": "1892–1968",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "24 de julho de 1933",
+      "fim_mandato": "23 de outubro de 1934",
+      "governo": "I Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "n": "44",
+      "ministro": "Rafael da Silva Neves Duque",
+      "nascimento_morte": "1893–1969",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "23 de outubro de 1934",
+      "fim_mandato": "28 de agosto de 1940",
+      "governo": "I Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "n": "44",
+      "ministro": "Rafael da Silva Neves Duque",
+      "nascimento_morte": "1893–1969",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "23 de outubro de 1934",
+      "fim_mandato": "28 de agosto de 1940",
+      "governo": "II Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "n": "–",
+      "ministro": "Serviços integrados no Ministério da Economia (ver: Lista de ministros da Economia de Portugal)",
+      "nascimento_morte": "",
+      "cargo": "Pasta da Agricultura",
+      "inicio_mandato": "28 de agosto de 1940",
+      "fim_mandato": "15 de março de 1974",
+      "governo": "——",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "n": "45",
+      "ministro": "João Mota Pereira de Campos",
+      "nascimento_morte": "1927–2021",
+      "cargo": "Ministro da Agricultura e Comércio",
+      "inicio_mandato": "15 de março de 1974",
+      "fim_mandato": "25 de abril de 1974",
+      "governo": "III Caetano",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "n": "–",
+      "ministro": "Junta de Salvação Nacional composta por: António Sebastião Ribeiro de Spínola (Presidente) Francisco da Costa Gomes Jaime Silvério Marques Manuel Diogo Neto Carlos Galvão de Melo José Baptista Pinheiro de Azevedo António Alva Rosa Coutinho",
+      "nascimento_morte": "",
+      "cargo": "Ministro da Agricultura e Comércio",
+      "inicio_mandato": "25 de abril de 1974",
+      "fim_mandato": "16 de maio de 1974",
+      "governo": "——",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "n": "–",
+      "ministro": "Serviços integrados no Ministério da Coordenação Económica (ver: Lista de ministros da Economia de Portugal)",
+      "nascimento_morte": "",
+      "cargo": "Pasta da Agricultura",
+      "inicio_mandato": "16 de maio de 1974",
+      "fim_mandato": "17 de julho de 1974",
+      "governo": "——",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "n": "–",
+      "ministro": "Serviços integrados no Ministério da Economia (ver: Lista de ministros da Economia de Portugal)",
+      "nascimento_morte": "",
+      "cargo": "Pasta da Agricultura",
+      "inicio_mandato": "17 de julho de 1974",
+      "fim_mandato": "26 de março de 1975",
+      "governo": "——",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "n": "46",
+      "ministro": "Fernando de Oliveira Baptista",
+      "nascimento_morte": "1942–",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "26 de março de 1975",
+      "fim_mandato": "19 de setembro de 1975",
+      "governo": "IV Prov. Gonçalves",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "n": "46",
+      "ministro": "Fernando de Oliveira Baptista",
+      "nascimento_morte": "1942–",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "26 de março de 1975",
+      "fim_mandato": "19 de setembro de 1975",
+      "governo": "V Prov. Gonçalves",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "n": "47",
+      "ministro": "António Poppe Lopes Cardoso",
+      "nascimento_morte": "1933–2000",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "19 de setembro de 1975",
+      "fim_mandato": "23 de julho de 1976",
+      "governo": "VI Prov. Pinheiro de Azevedo",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "n": "–",
+      "ministro": "António Poppe Lopes Cardoso",
+      "nascimento_morte": "1933–2000",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "23 de julho de 1976",
+      "fim_mandato": "5 de novembro de 1976",
+      "governo": "I Soares",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "48",
+      "ministro": "António Miguel de Morais Barreto",
+      "nascimento_morte": "1942–",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "5 de novembro de 1976",
+      "fim_mandato": "30 de janeiro de 1978",
+      "governo": "I Soares",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "49",
+      "ministro": "Luís Silvério Gonçalves Saias",
+      "nascimento_morte": "1924–2023",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "30 de janeiro de 1978",
+      "fim_mandato": "29 de agosto de 1978",
+      "governo": "II Soares",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "50",
+      "ministro": "Apolinário José Barbosa da Cruz Vaz Portugal",
+      "nascimento_morte": "1930–2008",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "29 de agosto de 1978",
+      "fim_mandato": "1 de agosto de 1979",
+      "governo": "III Nobre da Costa",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "50",
+      "ministro": "Apolinário José Barbosa da Cruz Vaz Portugal",
+      "nascimento_morte": "1930–2008",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "29 de agosto de 1978",
+      "fim_mandato": "1 de agosto de 1979",
+      "governo": "IV Mota Pinto",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "51",
+      "ministro": "Joaquim da Silva Lourenço",
+      "nascimento_morte": "1933–",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "1 de agosto de 1979",
+      "fim_mandato": "3 de janeiro de 1980",
+      "governo": "V Pintasilgo",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "52",
+      "ministro": "António José Baptista Cardoso e Cunha",
+      "nascimento_morte": "1934–2021",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "3 de janeiro de 1980",
+      "fim_mandato": "3 de setembro de 1981",
+      "governo": "VI Sá Carneiro (até 4 dez. 1980) Freitas do Amaral (desde 4 dez. 1980) (interino)",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "52",
+      "ministro": "António José Baptista Cardoso e Cunha",
+      "nascimento_morte": "1934–2021",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "3 de janeiro de 1980",
+      "fim_mandato": "3 de setembro de 1981",
+      "governo": "VII Pinto Balsemão",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "53",
+      "ministro": "Basílio Adolfo Mendonça Horta da França",
+      "nascimento_morte": "1943–",
+      "cargo": "Ministro da Agricultura, Comércio e Pescas",
+      "inicio_mandato": "4 de setembro de 1981",
+      "fim_mandato": "9 de junho de 1983",
+      "governo": "VIII Pinto Balsemão",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "54",
+      "ministro": "Manuel José Dias Soares Costa",
+      "nascimento_morte": "1933–2021",
+      "cargo": "Ministro da Agricultura, Florestas e Alimentação",
+      "inicio_mandato": "9 de junho de 1983",
+      "fim_mandato": "17 de outubro de 1984",
+      "governo": "IX Soares",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "55",
+      "ministro": "Álvaro Roque de Pinho de Bissaia Barreto",
+      "nascimento_morte": "1936–2020",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "17 de outubro de 1984",
+      "fim_mandato": "6 de novembro de 1985",
+      "governo": "IX Soares",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "–",
+      "ministro": "Álvaro Roque de Pinho de Bissaia Barreto",
+      "nascimento_morte": "1936–2020",
+      "cargo": "Ministro da Agricultura, Pescas e Alimentação",
+      "inicio_mandato": "6 de novembro de 1985",
+      "fim_mandato": "5 de janeiro de 1990",
+      "governo": "X Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "–",
+      "ministro": "Álvaro Roque de Pinho de Bissaia Barreto",
+      "nascimento_morte": "1936–2020",
+      "cargo": "Ministro da Agricultura, Pescas e Alimentação",
+      "inicio_mandato": "6 de novembro de 1985",
+      "fim_mandato": "5 de janeiro de 1990",
+      "governo": "XI Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "56",
+      "ministro": "Arlindo Marques da Cunha",
+      "nascimento_morte": "1950–",
+      "cargo": "Ministro da Agricultura, Pescas e Alimentação",
+      "inicio_mandato": "5 de janeiro de 1990",
+      "fim_mandato": "31 de outubro de 1991",
+      "governo": "XI Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "–",
+      "ministro": "Arlindo Marques da Cunha",
+      "nascimento_morte": "1950–",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "31 de outubro de 1991",
+      "fim_mandato": "21 de maio de 1994",
+      "governo": "XII Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "57",
+      "ministro": "António Baptista Duarte Silva",
+      "nascimento_morte": "1941–2011",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "21 de maio de 1994",
+      "fim_mandato": "28 de outubro de 1995",
+      "governo": "XII Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "58",
+      "ministro": "Fernando Manuel van Zeller Gomes da Silva",
+      "nascimento_morte": "1938–",
+      "cargo": "Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",
+      "inicio_mandato": "28 de outubro de 1995",
+      "fim_mandato": "3 de outubro de 1998",
+      "governo": "XIII Guterres",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "59",
+      "ministro": "Luís Manuel Capoulas Santos",
+      "nascimento_morte": "1951–",
+      "cargo": "Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",
+      "inicio_mandato": "3 de outubro de 1998",
+      "fim_mandato": "6 de abril de 2002",
+      "governo": "XIII Guterres",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "59",
+      "ministro": "Luís Manuel Capoulas Santos",
+      "nascimento_morte": "1951–",
+      "cargo": "Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",
+      "inicio_mandato": "3 de outubro de 1998",
+      "fim_mandato": "6 de abril de 2002",
+      "governo": "XIV Guterres",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "60",
+      "ministro": "Armando José Cordeiro Sevinate Pinto",
+      "nascimento_morte": "1946–2015",
+      "cargo": "Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",
+      "inicio_mandato": "6 de abril de 2002",
+      "fim_mandato": "17 de julho de 2004",
+      "governo": "XV Durão Barroso",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "61",
+      "ministro": "Carlos Henrique da Costa Neves",
+      "nascimento_morte": "1954–",
+      "cargo": "Ministro da Agricultura, Pescas e Florestas",
+      "inicio_mandato": "17 de julho de 2004",
+      "fim_mandato": "12 de março de 2005",
+      "governo": "XVI Santana Lopes",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "62",
+      "ministro": "Jaime de Jesus Lopes Silva",
+      "nascimento_morte": "1954–",
+      "cargo": "Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",
+      "inicio_mandato": "12 de março de 2005",
+      "fim_mandato": "26 de outubro de 2009",
+      "governo": "XVII Sócrates",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "63",
+      "ministro": "António Manuel Soares Serrano",
+      "nascimento_morte": "1965–",
+      "cargo": "Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",
+      "inicio_mandato": "26 de outubro de 2009",
+      "fim_mandato": "21 de junho de 2011",
+      "governo": "XVIII Sócrates",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "64",
+      "ministro": "Maria de Assunção Oliveira Cristas Machado da Graça",
+      "nascimento_morte": "1974–",
+      "cargo": "Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território",
+      "inicio_mandato": "21 de junho de 2011",
+      "fim_mandato": "24 de julho de 2013",
+      "governo": "XIX Passos Coelho",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "–",
+      "ministro": "Maria de Assunção Oliveira Cristas Machado da Graça",
+      "nascimento_morte": "1974–",
+      "cargo": "Ministra da Agricultura e do Mar",
+      "inicio_mandato": "24 de julho de 2013",
+      "fim_mandato": "26 de novembro de 2015",
+      "governo": "XIX Passos Coelho",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "–",
+      "ministro": "Maria de Assunção Oliveira Cristas Machado da Graça",
+      "nascimento_morte": "1974–",
+      "cargo": "Ministra da Agricultura e do Mar",
+      "inicio_mandato": "24 de julho de 2013",
+      "fim_mandato": "26 de novembro de 2015",
+      "governo": "XX Passos Coelho",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "65",
+      "ministro": "Luís Manuel Capoulas Santos (2.ª vez)",
+      "nascimento_morte": "1951–",
+      "cargo": "Ministro da Agricultura, Florestas e Desenvolvimento Rural",
+      "inicio_mandato": "26 de novembro de 2015",
+      "fim_mandato": "26 de outubro de 2019",
+      "governo": "XXI Costa",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "66",
+      "ministro": "Maria do Céu de Oliveira Antunes",
+      "nascimento_morte": "1970–",
+      "cargo": "Ministro da Agricultura",
+      "inicio_mandato": "26 de outubro de 2019",
+      "fim_mandato": "30 de março de 2022",
+      "governo": "XXII Costa",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "–",
+      "ministro": "Maria do Céu de Oliveira Antunes",
+      "nascimento_morte": "1970–",
+      "cargo": "Ministro da Agricultura e da Alimentação",
+      "inicio_mandato": "30 de março de 2022",
+      "fim_mandato": "2 de abril de 2024",
+      "governo": "XXIII Costa",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "67",
+      "ministro": "José Manuel Ferreira Fernandes",
+      "nascimento_morte": "1967–",
+      "cargo": "Ministro da Agricultura e Pescas",
+      "inicio_mandato": "2 de abril de 2024",
+      "fim_mandato": "5 de junho de 2025",
+      "governo": "XXIV Montenegro",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    },
+    {
+      "n": "–",
+      "ministro": "José Manuel Ferreira Fernandes",
+      "nascimento_morte": "1967–",
+      "cargo": "Ministro da Agricultura e Mar",
+      "inicio_mandato": "5 de junho de 2025",
+      "fim_mandato": "presente",
+      "governo": "XXV Montenegro",
+      "periodo": "Governos Constitucionais (1976-Presente)"
+    }
+  ],
+  "meta": {
+    "title": "Ministros da Agricultura de Portugal - Free Download",
+    "description": "Lista dos ministros da Agricultura de Portugal desde a Primeira República, com a designação do cargo, mandato, governo e período político. Contains 108 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros da Agricultura de Portugal | ListBase",
+    "seo_description": "Download Ministros da Agricultura de Portugal — 108 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 108 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Agricultura_de_Portugal"
+    ]
+  }
+}
