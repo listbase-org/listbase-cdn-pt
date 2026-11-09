@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-05T02:29:57.475Z",
-  "total_datasets": 537,
-  "total_records": 742845,
+  "generated": "2026-11-09T02:21:15.065Z",
+  "total_datasets": 538,
+  "total_records": 742885,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "time",
@@ -15465,6 +15465,34 @@
         "xlsx": {
           "name": "pt-primeira-liga-campeoes_PT.xlsx",
           "size": 10954
+        }
+      }
+    },
+    {
+      "id": "pt-br-estruturas-mais-altas",
+      "name": "Estruturas mais altas do Brasil",
+      "category": "tech",
+      "record_count": 40,
+      "columns": [
+        "posicao",
+        "nome",
+        "localidade",
+        "uf",
+        "altura_m",
+        "conclusao",
+        "material"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_das_estruturas_mais_altas_do_Brasil",
+      "updated": "2026-11",
+      "size": 10947,
+      "files": {
+        "csv": {
+          "name": "pt-br-estruturas-mais-altas_PT.csv",
+          "size": 3834
+        },
+        "xlsx": {
+          "name": "pt-br-estruturas-mais-altas_PT.xlsx",
+          "size": 9188
         }
       }
     },

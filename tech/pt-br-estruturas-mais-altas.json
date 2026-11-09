@@ -1,0 +1,421 @@
+{
+  "id": "pt-br-estruturas-mais-altas",
+  "name": "Estruturas mais altas do Brasil",
+  "title": "Estruturas mais altas do Brasil",
+  "description": "Lista das estruturas mais altas do Brasil (torres de transmissão, observatórios, torres de rádio e TV), com localidade, UF, altura, ano de conclusão e material.",
+  "category": "tech",
+  "source": "https://pt.wikipedia.org/wiki/Lista_das_estruturas_mais_altas_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_das_estruturas_mais_altas_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "localidade",
+      "label": "Localidade",
+      "type": "string"
+    },
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "altura_m",
+      "label": "Altura M",
+      "type": "number"
+    },
+    {
+      "key": "conclusao",
+      "label": "Conclusao",
+      "type": "number"
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": 1,
+      "nome": "Observatório de Torre Alta da Amazônia",
+      "localidade": "São Sebastião do Uatumã",
+      "uf": "Amazonas",
+      "altura_m": 325,
+      "conclusao": 2015,
+      "material": "Aço"
+    },
+    {
+      "posicao": 2,
+      "nome": "Torre 238 da Linha de Transmissão Tucuruí-Macapá-Manaus",
+      "localidade": "Porto de Moz",
+      "uf": "Pará",
+      "altura_m": 300,
+      "conclusao": 2012,
+      "material": "Aço"
+    },
+    {
+      "posicao": 3,
+      "nome": "Torre 241 da Linha de Transmissão Tucuruí-Macapá-Manaus",
+      "localidade": "Almeirim",
+      "uf": "Pará",
+      "altura_m": 300,
+      "conclusao": 2012,
+      "material": "Aço"
+    },
+    {
+      "posicao": 4,
+      "nome": "Torre da Rádio Gaúcha",
+      "localidade": "Guaíba",
+      "uf": "Rio Grande do Sul",
+      "altura_m": 230,
+      "conclusao": 1986,
+      "material": "Aço"
+    },
+    {
+      "posicao": 5,
+      "nome": "Torre de Televisão de Brasília",
+      "localidade": "Brasília",
+      "uf": "Distrito Federal",
+      "altura_m": 224,
+      "conclusao": 1965,
+      "material": "Aço e concreto"
+    },
+    {
+      "posicao": 6,
+      "nome": "Torre da Band (Torre da TV Bandeirantes)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 212,
+      "conclusao": 1997,
+      "material": "Aço"
+    },
+    {
+      "posicao": 7,
+      "nome": "Chaminé da Usina de Candiota III",
+      "localidade": "Candiota",
+      "uf": "Rio Grande do Sul",
+      "altura_m": 200,
+      "conclusao": 2010,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 8,
+      "nome": "Ponte Rio Negro",
+      "localidade": "Manaus / Iranduba",
+      "uf": "Amazonas",
+      "altura_m": 190.25,
+      "conclusao": 2011,
+      "material": "Concreto e aço"
+    },
+    {
+      "posicao": 9,
+      "nome": "Torre de TV Digital de Brasília",
+      "localidade": "Lago Norte",
+      "uf": "Distrito Federal",
+      "altura_m": 182,
+      "conclusao": 2012,
+      "material": "Concreto e aço"
+    },
+    {
+      "posicao": 10,
+      "nome": "Torre Transamérica",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 180,
+      "conclusao": 1990,
+      "material": "Aço"
+    },
+    {
+      "posicao": 11,
+      "nome": "Torre Grande Avenida (Torre da Record)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 160,
+      "conclusao": 1968,
+      "material": "Aço"
+    },
+    {
+      "posicao": 12,
+      "nome": "Torre Assis Chateaubriand (Torre do SBT)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 160,
+      "conclusao": 1981,
+      "material": "Concreto e aço"
+    },
+    {
+      "posicao": 13,
+      "nome": "Chaminé da Unidade Puma da Klabin S.A.",
+      "localidade": "Ortigueira",
+      "uf": "Paraná",
+      "altura_m": 160,
+      "conclusao": 2016,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 14,
+      "nome": "Torre de Refrigeração da Usina Angra 2",
+      "localidade": "Angra dos Reis",
+      "uf": "Rio de Janeiro",
+      "altura_m": 156,
+      "conclusao": 2000,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 15,
+      "nome": "Torre de Refrigeração da Usina Angra 3",
+      "localidade": "Angra dos Reis",
+      "uf": "Rio de Janeiro",
+      "altura_m": 156,
+      "conclusao": 2014,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 16,
+      "nome": "Torre Cultura (Torre da TV Cultura)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 155,
+      "conclusao": 1992,
+      "material": "Aço"
+    },
+    {
+      "posicao": 17,
+      "nome": "Chaminé da Usina Termelétrica Presidente Médici - Fase B",
+      "localidade": "Candiota",
+      "uf": "Rio Grande do Sul",
+      "altura_m": 150,
+      "conclusao": 1986,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 18,
+      "nome": "Torre Marechal Rondon (Oi)",
+      "localidade": "Cuiabá",
+      "uf": "Mato Grosso",
+      "altura_m": 141,
+      "conclusao": 1994,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 19,
+      "nome": "Ponte Octávio Frias de Oliveira",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 138,
+      "conclusao": 2008,
+      "material": "Concreto e aço"
+    },
+    {
+      "posicao": 20,
+      "nome": "Torre TV Cidade",
+      "localidade": "Cuiabá",
+      "uf": "Mato Grosso",
+      "altura_m": 136,
+      "conclusao": 1998,
+      "material": "Aço"
+    },
+    {
+      "posicao": 21,
+      "nome": "Torre de Resfriamento da Usina Termelétrica Presidente Médici - Fase B",
+      "localidade": "Candiota",
+      "uf": "Rio Grande do Sul",
+      "altura_m": 133,
+      "conclusao": 1986,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 22,
+      "nome": "TV Vila Real (Grupo Gazeta de Comunicação)",
+      "localidade": "Cuiabá",
+      "uf": "Mato Grosso",
+      "altura_m": 125,
+      "conclusao": 1992,
+      "material": "Aço"
+    },
+    {
+      "posicao": 23,
+      "nome": "Catedral Basílica Menor Nossa Senhora da Glória",
+      "localidade": "Maringá",
+      "uf": "Paraná",
+      "altura_m": 124,
+      "conclusao": 1972,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 24,
+      "nome": "Torre UNIP (RBI / Mega TV / Mix FM)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 123,
+      "conclusao": 2015,
+      "material": "Aço + (33 andares do prédio)"
+    },
+    {
+      "posicao": 25,
+      "nome": "Torre da RBA (99 FM, Diário FM e RBA TV)",
+      "localidade": "Belém",
+      "uf": "Pará",
+      "altura_m": 122,
+      "conclusao": 1988,
+      "material": "Concreto e aço"
+    },
+    {
+      "posicao": 26,
+      "nome": "Torre de Telecomunicação Oi",
+      "localidade": "Tangará da Serra",
+      "uf": "Mato Grosso",
+      "altura_m": 120,
+      "conclusao": 2005,
+      "material": "Aço"
+    },
+    {
+      "posicao": 27,
+      "nome": "Torre da Globo (Rede Globo)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 119,
+      "conclusao": 2007,
+      "material": "Aço"
+    },
+    {
+      "posicao": 28,
+      "nome": "TV Centro América (TVCA)",
+      "localidade": "Cuiabá",
+      "uf": "Mato Grosso",
+      "altura_m": 118,
+      "conclusao": 1982,
+      "material": "Aço"
+    },
+    {
+      "posicao": 29,
+      "nome": "Chaminé da Usina do Gasômetro",
+      "localidade": "Porto Alegre",
+      "uf": "Rio Grande do Sul",
+      "altura_m": 117,
+      "conclusao": 1937,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 30,
+      "nome": "Luzeiro do Nordeste",
+      "localidade": "Juazeiro do Norte",
+      "uf": "Ceará",
+      "altura_m": 111.5,
+      "conclusao": 2005,
+      "material": "Aço"
+    },
+    {
+      "posicao": 31,
+      "nome": "Torre Renascer (TVCi / CNT / Rede Gospel)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 110,
+      "conclusao": 2005,
+      "material": "Aço"
+    },
+    {
+      "posicao": 32,
+      "nome": "Torre Panorâmica de Curitiba (Torre da Oi ou das Mercês)",
+      "localidade": "Curitiba",
+      "uf": "Paraná",
+      "altura_m": 109.5,
+      "conclusao": 1991,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 33,
+      "nome": "Torre Cásper Líbero (Torre da Gazeta)",
+      "localidade": "São Paulo",
+      "uf": "São Paulo",
+      "altura_m": 109,
+      "conclusao": 1983,
+      "material": "Aço"
+    },
+    {
+      "posicao": 34,
+      "nome": "Torre da Oi",
+      "localidade": "Toledo",
+      "uf": "Paraná",
+      "altura_m": 109,
+      "conclusao": 1991,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 35,
+      "nome": "Ponte Newton Navarro",
+      "localidade": "Natal",
+      "uf": "Rio Grande do Norte",
+      "altura_m": 103.45,
+      "conclusao": 2007,
+      "material": "Concreto e aço"
+    },
+    {
+      "posicao": 36,
+      "nome": "Torre Piemonte (Torre Alta Vila)",
+      "localidade": "Nova Lima",
+      "uf": "Minas Gerais",
+      "altura_m": 101,
+      "conclusao": 2005,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 37,
+      "nome": "Mastro especial da Praça dos Três Poderes",
+      "localidade": "Brasília",
+      "uf": "Distrito Federal",
+      "altura_m": 100,
+      "conclusao": 1972,
+      "material": "Aço"
+    },
+    {
+      "posicao": 38,
+      "nome": "Torre da TV Cabo Branco",
+      "localidade": "João Pessoa",
+      "uf": "Paraíba",
+      "altura_m": 100,
+      "conclusao": 1997,
+      "material": "Concreto"
+    },
+    {
+      "posicao": 39,
+      "nome": "Torre TVE",
+      "localidade": "Cuiabá",
+      "uf": "Mato Grosso",
+      "altura_m": 100,
+      "conclusao": 2002,
+      "material": "Aço"
+    },
+    {
+      "posicao": 40,
+      "nome": "Torre Nossa Senhora da Glória",
+      "localidade": "Francisco Beltrão",
+      "uf": "Paraná",
+      "altura_m": 100,
+      "conclusao": 2009,
+      "material": "Concreto"
+    }
+  ],
+  "meta": {
+    "title": "Estruturas mais altas do Brasil - Free Download",
+    "description": "Lista das estruturas mais altas do Brasil (torres de transmissão, observatórios, torres de rádio e TV), com localidade, UF, altura, ano de conclusão e material. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Estruturas mais altas do Brasil | ListBase",
+    "seo_description": "Download Estruturas mais altas do Brasil — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_das_estruturas_mais_altas_do_Brasil"
+    ]
+  }
+}
