@@ -1,0 +1,1108 @@
+{
+  "id": "pt-castros-portugal",
+  "name": "Castros de Portugal",
+  "title": "Castros de Portugal",
+  "description": "Castros e povoados fortificados proto-históricos localizados em Portugal: freguesia, coordenadas, classificação patrimonial e número SIPA.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_castros_localizados_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_castros_localizados_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "heritage_status",
+      "label": "Heritage Status",
+      "type": "string"
+    },
+    {
+      "key": "sipa_id",
+      "label": "Sipa Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Castro de Nossa Senhora da Confiança",
+      "location": "",
+      "coordinates": "",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Paredes",
+      "location": "Aboadela, Sanche e Várzea",
+      "coordinates": "",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": ""
+    },
+    {
+      "name": "Povoado de Baldoeiro",
+      "location": "Adeganha e Cardanha",
+      "coordinates": "41° 13′ 24″ N, 7° 05′ 10″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2350"
+    },
+    {
+      "name": "Sítio Arqueológico do Cabeço das Fráguas",
+      "location": "Adão Benespera Santana da Azinha",
+      "coordinates": "40° 25′ 27″ N, 7° 13′ 22″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "34727"
+    },
+    {
+      "name": "Cividade de Âncora",
+      "location": "Afife Vila Praia de Âncora",
+      "coordinates": "41° 47′ 13″ N, 8° 51′ 18″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "3609"
+    },
+    {
+      "name": "Povoado fortificado de São Miguel-o-Anjo",
+      "location": "Airão Santa Maria, Airão São João e Vermil",
+      "coordinates": "41° 27′ 28″ N, 8° 23′ 12″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "9581"
+    },
+    {
+      "name": "Sítio arqueológico do Cerro do Castelo de Alferce",
+      "location": "Alferce",
+      "coordinates": "37° 19′ 14″ N, 8° 29′ 29″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "34026"
+    },
+    {
+      "name": "Castro de Ribas",
+      "location": "Algeriz",
+      "coordinates": "41° 35′ 04″ N, 7° 23′ 55″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5989"
+    },
+    {
+      "name": "Cerro da Mangancha",
+      "location": "Aljustrel e Rio de Moinhos",
+      "coordinates": "37° 52′ 23″ N, 8° 10′ 08″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "31544"
+    },
+    {
+      "name": "Estação Arqueológica da Quinta do Almaraz",
+      "location": "Almada, Cova da Piedade, Pragal e Cacilhas",
+      "coordinates": "38° 41′ 10″ N, 9° 09′ 09″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "23089"
+    },
+    {
+      "name": "Castro dos Arados",
+      "location": "Alpendorada, Várzea e Torrão",
+      "coordinates": "41° 05′ 52″ N, 8° 13′ 38″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3961"
+    },
+    {
+      "name": "Castro de Alvarelhos",
+      "location": "Alvarelhos e Guidões",
+      "coordinates": "41° 18′ 03″ N, 8° 37′ 06″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3811"
+    },
+    {
+      "name": "Terronha de Pinhovelo",
+      "location": "Amendoeira",
+      "coordinates": "41° 32′ 36″ N, 6° 59′ 20″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "18952"
+    },
+    {
+      "name": "Castro de São Miguel de Amêndoa",
+      "location": "Amêndoa Vila de Rei",
+      "coordinates": "39° 40′ 05″ N, 8° 03′ 52″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3369"
+    },
+    {
+      "name": "Ruínas da cidade velha de Santa Luzia",
+      "location": "Areosa",
+      "coordinates": "41° 42′ 19″ N, 8° 50′ 07″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3626"
+    },
+    {
+      "name": "Castro de Goujoim",
+      "location": "Aricera e Goujoim",
+      "coordinates": "41° 05′ 12″ N, 7° 38′ 32″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "33754"
+    },
+    {
+      "name": "Cividade de Terroso",
+      "location": "Aver-o-Mar, Amorim e Terroso",
+      "coordinates": "41° 24′ 45″ N, 8° 43′ 16″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5135"
+    },
+    {
+      "name": "Castro de Bagunte",
+      "location": "Bagunte, Ferreiró, Outeiro Maior e Parada",
+      "coordinates": "41° 23′ 01″ N, 8° 39′ 21″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "5394"
+    },
+    {
+      "name": "Povoado Fortificado de Carmona",
+      "location": "Balugães",
+      "coordinates": "41° 38′ 47″ N, 8° 38′ 52″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "21291"
+    },
+    {
+      "name": "Castro de Leceia",
+      "location": "Barcarena",
+      "coordinates": "38° 43′ 41″ N, 9° 16′ 54″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2345"
+    },
+    {
+      "name": "Castro da Argemela",
+      "location": "Barco e Coutada Lavacolhos",
+      "coordinates": "40° 09′ 18″ N, 7° 36′ 12″ O",
+      "heritage_status": "Sítio de Interesse Municipal",
+      "sipa_id": "35955"
+    },
+    {
+      "name": "Povoado Fortificado de Carmona",
+      "location": "Barroselas e Carvoeiro",
+      "coordinates": "41° 38′ 50″ N, 8° 38′ 52″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "No/unknown value"
+    },
+    {
+      "name": "Castro de Sacóias",
+      "location": "Baçal",
+      "coordinates": "41° 51′ 47″ N, 6° 41′ 25″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "552"
+    },
+    {
+      "name": "Povoado do Outeiro do Circo",
+      "location": "Beja",
+      "coordinates": "38° 02′ 27″ N, 8° 00′ 31″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Citânia do Monte da Assunção",
+      "location": "Bela",
+      "coordinates": "42° 03′ 29″ N, 8° 24′ 30″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "8999"
+    },
+    {
+      "name": "Estação arqueológica Cividade de Belinho",
+      "location": "Belinho e Mar",
+      "coordinates": "41° 35′ 56″ N, 8° 46′ 31″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1893"
+    },
+    {
+      "name": "Citânia de Briteiros",
+      "location": "Briteiros São Salvador e Briteiros Santa Leocádia",
+      "coordinates": "41° 31′ 39″ N, 8° 18′ 57″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "1891"
+    },
+    {
+      "name": "Estação arqueológica do Alto do Coto da Pena",
+      "location": "Caminha (Matriz) e Vilarelho",
+      "coordinates": "41° 51′ 59″ N, 8° 50′ 06″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3518"
+    },
+    {
+      "name": "Castro de Monte Castro",
+      "location": "Carapeços",
+      "coordinates": "41° 35′ 27″ N, 8° 38′ 02″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "1107"
+    },
+    {
+      "name": "Estação arqueológica da Pedra de Ouro",
+      "location": "Carregado e Cadafais",
+      "coordinates": "39° 02′ 08″ N, 9° 02′ 07″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "6250"
+    },
+    {
+      "name": "Castro da Cárcoda",
+      "location": "Carvalhais e Candal",
+      "coordinates": "40° 48′ 13″ N, 8° 07′ 12″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "4999"
+    },
+    {
+      "name": "Cidadonha",
+      "location": "Carviçais",
+      "coordinates": "41° 12′ 12″ N, 6° 54′ 01″ O",
+      "heritage_status": "Em estudo",
+      "sipa_id": "535"
+    },
+    {
+      "name": "Estação Arqueológica do Monte de São Martinho",
+      "location": "Castelo Branco",
+      "coordinates": "39° 48′ 13″ N, 7° 27′ 51″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "2498"
+    },
+    {
+      "name": "Castro de Moldes",
+      "location": "Castelo do Neiva",
+      "coordinates": "41° 36′ 50″ N, 8° 47′ 05″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "4980"
+    },
+    {
+      "name": "Fraga dos Corvos",
+      "location": "Castelãos e Vilar do Monte",
+      "coordinates": "41° 29′ 38″ N, 6° 56′ 43″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Castro Verde",
+      "location": "Castro Verde e Casével",
+      "coordinates": "37° 41′ 51″ N, 8° 04′ 55″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "985"
+    },
+    {
+      "name": "Castro Vicente",
+      "location": "Castro Vicente",
+      "coordinates": "41° 22′ 34″ N, 6° 49′ 44″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2693"
+    },
+    {
+      "name": "Castro Calbo",
+      "location": "Cesar",
+      "coordinates": "",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Cidadelhe",
+      "location": "Cidadelhe",
+      "coordinates": "41° 10′ 43″ N, 7° 50′ 40″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3670"
+    },
+    {
+      "name": "Castelo do Mau Vizinho ou dos Mouros",
+      "location": "Cimo de Vila da Castanheira",
+      "coordinates": "41° 49′ 01″ N, 7° 13′ 59″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "6015"
+    },
+    {
+      "name": "Colmeal",
+      "location": "Colmeal e Vilar Torpim",
+      "coordinates": "40° 49′ 47″ N, 7° 00′ 21″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "5928"
+    },
+    {
+      "name": "Povoado romanizado do Cramanchão",
+      "location": "Cortiços",
+      "coordinates": "41° 31′ 09″ N, 7° 02′ 31″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro do Poio",
+      "location": "Covas do Barroso",
+      "coordinates": "41° 38′ 10″ N, 7° 48′ 13″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Lesenho",
+      "location": "Covas do Barroso",
+      "coordinates": "41° 38′ 44″ N, 7° 45′ 15″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5723"
+    },
+    {
+      "name": "Ruínas da Calcedónia",
+      "location": "Covide",
+      "coordinates": "41° 43′ 30″ N, 8° 12′ 02″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1954"
+    },
+    {
+      "name": "Castro da Curalha",
+      "location": "Curalha",
+      "coordinates": "41° 42′ 34″ N, 7° 31′ 41″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "5945"
+    },
+    {
+      "name": "Castro do Monte Castelo de Guifões",
+      "location": "Custóias, Leça do Balio e Guifões",
+      "coordinates": "41° 12′ 01″ N, 8° 40′ 43″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "4978"
+    },
+    {
+      "name": "Côto da Cividade de Eja",
+      "location": "Eja",
+      "coordinates": "",
+      "heritage_status": "Em estudo",
+      "sipa_id": ""
+    },
+    {
+      "name": "Estação Arqueológica de Santa Marta das Cortiças",
+      "location": "Esporões",
+      "coordinates": "41° 30′ 53″ N, 8° 23′ 40″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1062"
+    },
+    {
+      "name": "Povoado fortificado em Nossa Senhora da Graça",
+      "location": "Espírito Santo, Nossa Senhora da Graça e São Simão",
+      "coordinates": "39° 32′ 51″ N, 7° 37′ 35″ O",
+      "heritage_status": "Conjunto de Interesse Público",
+      "sipa_id": "28700"
+    },
+    {
+      "name": "Castro do Formigoso, ruínas na Bouça do Monte do Crasto",
+      "location": "Estorãos",
+      "coordinates": "41° 46′ 50″ N, 8° 39′ 59″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "420"
+    },
+    {
+      "name": "Castro de Tintinolho",
+      "location": "Faia",
+      "coordinates": "40° 34′ 22″ N, 7° 17′ 15″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3922"
+    },
+    {
+      "name": "Sítio Classificado dos Montes de Santa Olaia e Ferrestelo",
+      "location": "Ferreira-a-Nova",
+      "coordinates": "40° 10′ 15″ N, 8° 43′ 14″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2792"
+    },
+    {
+      "name": "Santa Olaia Castro",
+      "location": "Figueira da Foz",
+      "coordinates": "40° 10′ 15″ N, 8° 43′ 10″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro da Ucha",
+      "location": "Figueiredo de Alva",
+      "coordinates": "40° 48′ 59″ N, 8° 01′ 15″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "36350"
+    },
+    {
+      "name": "Castro de Santiago",
+      "location": "Figueiró da Granja Muxagata",
+      "coordinates": "40° 38′ 46″ N, 7° 28′ 56″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "36353"
+    },
+    {
+      "name": "Castro de Fiães",
+      "location": "Fiães",
+      "coordinates": "40° 59′ 03″ N, 8° 31′ 00″ O",
+      "heritage_status": "Em vias de classificação Imóvel de Interesse Público",
+      "sipa_id": "26261"
+    },
+    {
+      "name": "Castelo Velho de Cobres",
+      "location": "Freguesia de Entradas",
+      "coordinates": "37° 45′ 07″ N, 7° 56′ 24″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "900"
+    },
+    {
+      "name": "Castro de Navais",
+      "location": "Freguesia de Navais",
+      "coordinates": "",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Cerro do Castelo dos Moiros",
+      "location": "Freguesia de Saboia",
+      "coordinates": "37° 28′ 54″ N, 8° 29′ 10″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Citânia de Lenteiro",
+      "location": "Freguesia de Silveiros",
+      "coordinates": "",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Gimonde",
+      "location": "Gimonde",
+      "coordinates": "41° 48′ 00″ N, 6° 41′ 46″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "553"
+    },
+    {
+      "name": "Sítio arqueológico Castanheiro do Vento",
+      "location": "Horta",
+      "coordinates": "41° 03′ 44″ N, 7° 19′ 27″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "20607"
+    },
+    {
+      "name": "Penedo de Lexim",
+      "location": "Igreja Nova e Cheleiros",
+      "coordinates": "38° 53′ 29″ N, 9° 18′ 43″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "6384"
+    },
+    {
+      "name": "Castro do Jarmelo",
+      "location": "Jarmelo São Pedro",
+      "coordinates": "40° 35′ 26″ N, 7° 07′ 57″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2915"
+    },
+    {
+      "name": "Castro de São Paio",
+      "location": "Labruge",
+      "coordinates": "41° 16′ 54″ N, 8° 43′ 50″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Estação arqueológica do Lago",
+      "location": "Lago",
+      "coordinates": "41° 36′ 39″ N, 8° 24′ 39″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1108"
+    },
+    {
+      "name": "Castro de Pragança",
+      "location": "Lamas e Cercal",
+      "coordinates": "39° 12′ 22″ N, 9° 02′ 46″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "6282"
+    },
+    {
+      "name": "Castro de Laundos",
+      "location": "Laundos",
+      "coordinates": "",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro do Monte das Ermidas",
+      "location": "Lemenhe, Mouquim e Jesufrei",
+      "coordinates": "41° 27′ 35″ N, 8° 31′ 24″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1937"
+    },
+    {
+      "name": "Castro de Loivos",
+      "location": "Loivos e Póvoa de Agrações",
+      "coordinates": "41° 37′ 27″ N, 7° 30′ 18″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "4176"
+    },
+    {
+      "name": "Citânia da Longa",
+      "location": "Longa",
+      "coordinates": "41° 04′ 19″ N, 7° 35′ 33″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "7242"
+    },
+    {
+      "name": "Castro de São Caetano",
+      "location": "Longos Vales",
+      "coordinates": "42° 02′ 24″ N, 8° 26′ 38″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3610"
+    },
+    {
+      "name": "Castro de Vila Nova de São Pedro",
+      "location": "Manique do Intendente, Vila Nova de São Pedro e Maçussa",
+      "coordinates": "39° 13′ 11″ N, 8° 50′ 25″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "6278"
+    },
+    {
+      "name": "Povoado calcolítico do Cerro do Castelo",
+      "location": "Martim Longo",
+      "coordinates": "37° 26′ 21″ N, 7° 45′ 58″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2829"
+    },
+    {
+      "name": "Castro de Sabariz",
+      "location": "Mazarefes e Vila Fria",
+      "coordinates": "41° 40′ 30″ N, 8° 44′ 12″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3585"
+    },
+    {
+      "name": "Castelo Velho",
+      "location": "Mação, Penhascoso e Aboboreira",
+      "coordinates": "39° 34′ 36″ N, 7° 57′ 39″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3368"
+    },
+    {
+      "name": "Castro de Vale de Águia ou Castrilhouço",
+      "location": "Miranda do Douro",
+      "coordinates": "41° 30′ 57″ N, 6° 15′ 34″ O",
+      "heritage_status": "Em vias de classificação Imóvel de Interesse Público",
+      "sipa_id": "154"
+    },
+    {
+      "name": "Castro do Monte Padrão",
+      "location": "Monte Córdova",
+      "coordinates": "41° 18′ 45″ N, 8° 26′ 57″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "5148"
+    },
+    {
+      "name": "Castro de São Bernardo",
+      "location": "Moura",
+      "coordinates": "",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro da Azougada",
+      "location": "Moura (Santo Agostinho e São João Baptista) e Santo Amador",
+      "coordinates": "38° 10′ 03″ N, 7° 28′ 49″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "989"
+    },
+    {
+      "name": "Castro dos Ratinhos",
+      "location": "Moura (Santo Agostinho e São João Baptista) e Santo Amador",
+      "coordinates": "38° 11′ 39″ N, 7° 29′ 17″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "33053"
+    },
+    {
+      "name": "Castro de Trás de Cidades",
+      "location": "Navió e Vitorino dos Piães",
+      "coordinates": "41° 41′ 40″ N, 8° 36′ 31″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3524"
+    },
+    {
+      "name": "Castro do Alto das Valadas",
+      "location": "Navió e Vitorino dos Piães",
+      "coordinates": "41° 41′ 37″ N, 8° 35′ 45″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3594"
+    },
+    {
+      "name": "Castro do Cresto",
+      "location": "Navió e Vitorino dos Piães",
+      "coordinates": "41° 41′ 18″ N, 8° 37′ 10″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3525"
+    },
+    {
+      "name": "Castelo de Geraldo",
+      "location": "Nossa Senhora da Tourega e Nossa Senhora de Guadalupe",
+      "coordinates": "38° 32′ 17″ N, 8° 01′ 59″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "1159"
+    },
+    {
+      "name": "Castro de Palheiros",
+      "location": "Noura e Palheiros",
+      "coordinates": "41° 24′ 11″ N, 7° 22′ 49″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "25163"
+    },
+    {
+      "name": "Monte de Santa Comba",
+      "location": "Nunes e Ousilhão",
+      "coordinates": "41° 47′ 40″ N, 6° 58′ 04″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "20602"
+    },
+    {
+      "name": "Povoado fortificado da Serra da Amoreira",
+      "location": "Odivelas",
+      "coordinates": "38° 48′ 44″ N, 9° 11′ 59″ O",
+      "heritage_status": "Imóvel de Interesse Municipal",
+      "sipa_id": "50"
+    },
+    {
+      "name": "Castro de Monte Mozinho",
+      "location": "Oldrões",
+      "coordinates": "41° 08′ 47″ N, 8° 18′ 40″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3884"
+    },
+    {
+      "name": "Castro de Orjais e ruínas de uma construção junto à capela de Nossa Senhora das Cabeças",
+      "location": "Orjais",
+      "coordinates": "40° 20′ 43″ N, 7° 24′ 47″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2531"
+    },
+    {
+      "name": "Castro da Cola",
+      "location": "Ourique",
+      "coordinates": "37° 34′ 44″ N, 8° 18′ 02″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "6438"
+    },
+    {
+      "name": "Castelo de Ourique",
+      "location": "Ourique",
+      "coordinates": "37° 39′ 15″ N, 8° 13′ 35″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "590"
+    },
+    {
+      "name": "Castro de Melgaço",
+      "location": "Paderne",
+      "coordinates": "42° 04′ 53″ N, 8° 16′ 33″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "9378"
+    },
+    {
+      "name": "Castro de Chibanes",
+      "location": "Palmela",
+      "coordinates": "38° 33′ 50″ N, 8° 55′ 06″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "35704"
+    },
+    {
+      "name": "Ruínas da muralha das Portas de Montemuro",
+      "location": "Parada de Ester e Ester",
+      "coordinates": "40° 57′ 59″ N, 8° 00′ 35″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5002"
+    },
+    {
+      "name": "Castro de Ovil",
+      "location": "Paramos",
+      "coordinates": "40° 58′ 44″ N, 8° 37′ 15″ O",
+      "heritage_status": "Imóvel de Interesse Municipal",
+      "sipa_id": "731"
+    },
+    {
+      "name": "Castro da Senhora da Saúde ou Monte Murado",
+      "location": "Pedroso e Seixezelo",
+      "coordinates": "41° 03′ 26″ N, 8° 34′ 31″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5357"
+    },
+    {
+      "name": "Sítio de Angeses/Angeiras (Castro)",
+      "location": "Perafita, Lavra e Santa Cruz do Bispo",
+      "coordinates": "",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro do Vieito",
+      "location": "Perre",
+      "coordinates": "41° 43′ 50″ N, 8° 48′ 26″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro da Senhora da Aparecida",
+      "location": "Pinheiro",
+      "coordinates": "41° 22′ 18″ N, 8° 09′ 07″ O",
+      "heritage_status": "Sítio de Interesse Municipal",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro da Senhora da Vista",
+      "location": "Podame",
+      "coordinates": "",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": ""
+    },
+    {
+      "name": "Citânia de São Julião de Caldelas",
+      "location": "Ponte",
+      "coordinates": "41° 41′ 22″ N, 8° 23′ 38″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1083"
+    },
+    {
+      "name": "Castro das Eiras",
+      "location": "Pousada de Saramagos",
+      "coordinates": "41° 26′ 14″ N, 8° 26′ 37″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "1121"
+    },
+    {
+      "name": "Castro do Pópulo",
+      "location": "Pópulo e Ribalonga",
+      "coordinates": "41° 22′ 23″ N, 7° 29′ 21″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "6479"
+    },
+    {
+      "name": "Estação lusitano-romana de Póvoa do Lanhoso",
+      "location": "Póvoa de Lanhoso",
+      "coordinates": "41° 35′ 14″ N, 8° 16′ 55″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1890"
+    },
+    {
+      "name": "Castro de São Jurge",
+      "location": "Ranhados",
+      "coordinates": "41° 00′ 35″ N, 7° 19′ 59″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "35937"
+    },
+    {
+      "name": "Castro da Columbeira",
+      "location": "Roliça",
+      "coordinates": "39° 18′ 03″ N, 9° 11′ 34″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro do Coto de Ouro",
+      "location": "Romarigães",
+      "coordinates": "41° 52′ 18″ N, 8° 38′ 02″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5261"
+    },
+    {
+      "name": "Castro de Romariz",
+      "location": "Romariz",
+      "coordinates": "40° 56′ 45″ N, 8° 27′ 37″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "3924"
+    },
+    {
+      "name": "Monte do Castelo",
+      "location": "Rossas",
+      "coordinates": "41° 34′ 45″ N, 8° 03′ 46″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "355"
+    },
+    {
+      "name": "Castro de Sabrosa, também conhecido por «Castelo dos Mouros»",
+      "location": "Sabrosa",
+      "coordinates": "41° 16′ 43″ N, 7° 34′ 17″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5840"
+    },
+    {
+      "name": "Castelo Velho de Safara",
+      "location": "Safara e Santo Aleixo da Restauração",
+      "coordinates": "38° 08′ 19″ N, 7° 13′ 18″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "33084"
+    },
+    {
+      "name": "Citânia de Sabroso",
+      "location": "Sande São Lourenço e Balazar",
+      "coordinates": "41° 30′ 41″ N, 8° 20′ 28″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "1072"
+    },
+    {
+      "name": "Citânia de Sanfins",
+      "location": "Sanfins Lamoso Codessos",
+      "coordinates": "41° 19′ 23″ N, 8° 23′ 12″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "5093"
+    },
+    {
+      "name": "Castro de Santa Catarina",
+      "location": "Santa Catarina",
+      "coordinates": "39° 27′ 26″ N, 9° 00′ 50″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "No/unknown value"
+    },
+    {
+      "name": "Povoado das Mesas do Castelinho",
+      "location": "Santa Clara-a-Nova e Gomes Aires",
+      "coordinates": "37° 29′ 07″ N, 8° 07′ 31″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "964"
+    },
+    {
+      "name": "Castro do Zambujal",
+      "location": "Santa Maria, São Pedro e Matacães",
+      "coordinates": "39° 04′ 28″ N, 9° 17′ 09″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "6349"
+    },
+    {
+      "name": "Castro de Sapelos",
+      "location": "Sapiãos",
+      "coordinates": "41° 42′ 54″ N, 7° 36′ 18″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Castelo Velho (Sertã)",
+      "location": "Sertã",
+      "coordinates": "",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Sesimbra",
+      "location": "Sesimbra",
+      "coordinates": "38° 27′ 22″ N, 9° 06′ 10″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castelo dos Mouros (Arrábida)",
+      "location": "Setúbal",
+      "coordinates": "38° 29′ 16″ N, 8° 59′ 52″ O",
+      "heritage_status": "",
+      "sipa_id": ""
+    },
+    {
+      "name": "Cerro da Rocha Branca",
+      "location": "Silves",
+      "coordinates": "37° 11′ 09″ N, 8° 27′ 27″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "2897"
+    },
+    {
+      "name": "Castro de Roques",
+      "location": "Subportela, Deocriste e Portela Susã",
+      "coordinates": "41° 40′ 37″ N, 8° 43′ 31″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "3586"
+    },
+    {
+      "name": "Castro do Crastoeiro",
+      "location": "São Cristóvão de Mondim de Basto",
+      "coordinates": "41° 24′ 54″ N, 7° 55′ 47″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "35782"
+    },
+    {
+      "name": "Sítio arqueológico de Castelos de Monte Novo",
+      "location": "São Manços e São Vicente do Pigeiro",
+      "coordinates": "38° 29′ 57″ N, 7° 41′ 55″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "4466"
+    },
+    {
+      "name": "Estação arqueológica de Mogueira",
+      "location": "São Martinho de Mouros",
+      "coordinates": "41° 05′ 52″ N, 7° 53′ 38″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "4261"
+    },
+    {
+      "name": "Castro de Santa Cristina",
+      "location": "São Martinho do Vale",
+      "coordinates": "41° 25′ 45″ N, 8° 27′ 52″ O",
+      "heritage_status": "Conjunto de Interesse Público",
+      "sipa_id": "1121"
+    },
+    {
+      "name": "Castro de Banho",
+      "location": "São Pedro do Sul, Várzea e Baiões",
+      "coordinates": "40° 44′ 17″ N, 8° 06′ 34″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5006"
+    },
+    {
+      "name": "Castro do Bom Sucesso",
+      "location": "Tavares (Chãs, Várzea e Travanca)",
+      "coordinates": "40° 37′ 59″ N, 7° 36′ 19″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "4797"
+    },
+    {
+      "name": "Povoado fortificado e Santuário de Endovélico",
+      "location": "Terena",
+      "coordinates": "38° 38′ 36″ N, 7° 26′ 35″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "4451"
+    },
+    {
+      "name": "Cabeço da Muralha",
+      "location": "Tinhela e Alvarelhos",
+      "coordinates": "41° 18′ 04″ N, 8° 37′ 02″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "6009"
+    },
+    {
+      "name": "Castro de Nandufe",
+      "location": "Tondela e Nandufe",
+      "coordinates": "40° 32′ 41″ N, 8° 04′ 11″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "2391"
+    },
+    {
+      "name": "Torre de Dona Chama",
+      "location": "Torre de Dona Chama",
+      "coordinates": "41° 39′ 20″ N, 7° 07′ 16″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "710"
+    },
+    {
+      "name": "Cabeço de Alfarela",
+      "location": "Torre de Moncorvo",
+      "coordinates": "41° 11′ 20″ N, 7° 05′ 45″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "2352"
+    },
+    {
+      "name": "Monte da Tumba",
+      "location": "Torrão",
+      "coordinates": "38° 17′ 01″ N, 8° 13′ 53″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "3437"
+    },
+    {
+      "name": "Estação arqueológica do Cabeço do Vouga",
+      "location": "Trofa, Segadães e Lamas do Vouga",
+      "coordinates": "40° 37′ 42″ N, 8° 28′ 01″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "6456"
+    },
+    {
+      "name": "Castelo de Oleiros",
+      "location": "Urrós",
+      "coordinates": "41° 18′ 05″ N, 6° 27′ 29″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "828"
+    },
+    {
+      "name": "Castro da Covilhã Velha",
+      "location": "Vale de Prazeres e Mata da Rainha",
+      "coordinates": "40° 07′ 00″ N, 7° 26′ 46″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "2499"
+    },
+    {
+      "name": "Castro ou Castelo de Vermoim",
+      "location": "Vermoim",
+      "coordinates": "41° 25′ 46″ N, 8° 27′ 05″ O",
+      "heritage_status": "Conjunto de Interesse Público",
+      "sipa_id": "1121"
+    },
+    {
+      "name": "Castro de São Lourenço",
+      "location": "Vila Chã",
+      "coordinates": "41° 33′ 22″ N, 8° 45′ 40″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1939"
+    },
+    {
+      "name": "Castro do Santinho ou de Roques",
+      "location": "Vila de Punhe Subportela, Deocriste e Portela Susã",
+      "coordinates": "41° 40′ 37″ N, 8° 43′ 31″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": "3586"
+    },
+    {
+      "name": "Estação arqueológica de Lovelhe",
+      "location": "Vila Nova de Cerveira e Lovelhe",
+      "coordinates": "41° 57′ 08″ N, 8° 44′ 21″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "6445"
+    },
+    {
+      "name": "Castro de São Miguel-o-Anjo",
+      "location": "Vila Nova de Famalicão e Calendário",
+      "coordinates": "41° 23′ 31″ N, 8° 32′ 10″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1914"
+    },
+    {
+      "name": "Castro de Barbudo",
+      "location": "Vila Verde e Barbudo",
+      "coordinates": "41° 39′ 15″ N, 8° 27′ 56″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "1080"
+    },
+    {
+      "name": "Estância arqueológica do Chelo",
+      "location": "Vilar da Veiga",
+      "coordinates": "41° 43′ 55″ N, 8° 09′ 06″ O",
+      "heritage_status": "Em vias de classificação",
+      "sipa_id": "1064"
+    },
+    {
+      "name": "Castro de Vilarandelo",
+      "location": "Vilarandelo",
+      "coordinates": "41° 40′ 21″ N, 7° 18′ 29″ O",
+      "heritage_status": "Imóvel de Interesse Público",
+      "sipa_id": "5937"
+    },
+    {
+      "name": "Povoado Fortificado de Vilarinho dos Galegos",
+      "location": "Vilarinho dos Galegos e Ventozelo",
+      "coordinates": "41° 15′ 10″ N, 6° 37′ 03″ O",
+      "heritage_status": "Sítio de Interesse Público",
+      "sipa_id": "35628"
+    },
+    {
+      "name": "Cava de Viriato",
+      "location": "Viseu",
+      "coordinates": "40° 40′ 05″ N, 7° 54′ 36″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3796"
+    },
+    {
+      "name": "Senhora do Castelo",
+      "location": "Vouzela e Paços de Vilharigues",
+      "coordinates": "40° 43′ 19″ N, 8° 05′ 46″ O 40° 43′ 11″ N, 8° 05′ 39″ O",
+      "heritage_status": "sem protecção legal",
+      "sipa_id": ""
+    },
+    {
+      "name": "Castro de Ázere",
+      "location": "Ázere",
+      "coordinates": "41° 51′ 29″ N, 8° 24′ 17″ O",
+      "heritage_status": "Monumento Nacional",
+      "sipa_id": "3588"
+    }
+  ],
+  "meta": {
+    "title": "Castros de Portugal - Free Download",
+    "description": "Castros e povoados fortificados proto-históricos localizados em Portugal: freguesia, coordenadas, classificação patrimonial e número SIPA. Contains 151 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Castros de Portugal | ListBase",
+    "seo_description": "Download Castros de Portugal — 151 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 151 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_castros_localizados_em_Portugal"
+    ]
+  }
+}

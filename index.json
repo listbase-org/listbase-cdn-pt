@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-10T02:25:45.289Z",
-  "total_datasets": 544,
-  "total_records": 743712,
+  "generated": "2026-11-10T02:25:52.704Z",
+  "total_datasets": 545,
+  "total_records": 743863,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -3760,6 +3760,32 @@
         "xlsx": {
           "name": "pt-br-lutas-e-rebelioes_PT.xlsx",
           "size": 13942
+        }
+      }
+    },
+    {
+      "id": "pt-castros-portugal",
+      "name": "Castros de Portugal",
+      "category": "history",
+      "record_count": 151,
+      "columns": [
+        "name",
+        "location",
+        "coordinates",
+        "heritage_status",
+        "sipa_id"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_castros_localizados_em_Portugal",
+      "updated": "2026-11",
+      "size": 36795,
+      "files": {
+        "csv": {
+          "name": "pt-castros-portugal_PT.csv",
+          "size": 18259
+        },
+        "xlsx": {
+          "name": "pt-castros-portugal_PT.xlsx",
+          "size": 15552
         }
       }
     },
