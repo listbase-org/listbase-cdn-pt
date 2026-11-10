@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-10T02:25:52.704Z",
-  "total_datasets": 545,
-  "total_records": 743863,
+  "generated": "2026-11-10T02:26:00.799Z",
+  "total_datasets": 546,
+  "total_records": 743968,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -15633,6 +15633,32 @@
         "xlsx": {
           "name": "pt-primeira-liga-campeoes_PT.xlsx",
           "size": 10954
+        }
+      }
+    },
+    {
+      "id": "pt-taca-de-portugal-vencedores",
+      "name": "Vencedores da Taça de Portugal",
+      "category": "sports",
+      "record_count": 105,
+      "columns": [
+        "season",
+        "club",
+        "captain",
+        "coach",
+        "competition"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Taça_de_Portugal",
+      "updated": "2026-11",
+      "size": 20670,
+      "files": {
+        "csv": {
+          "name": "pt-taca-de-portugal-vencedores_PT.csv",
+          "size": 8589
+        },
+        "xlsx": {
+          "name": "pt-taca-de-portugal-vencedores_PT.xlsx",
+          "size": 11498
         }
       }
     },

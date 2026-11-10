@@ -1,0 +1,786 @@
+{
+  "id": "pt-taca-de-portugal-vencedores",
+  "name": "Vencedores da Taça de Portugal",
+  "title": "Vencedores da Taça de Portugal",
+  "description": "Clubes vencedores da Taça de Portugal (e do antigo Campeonato de Portugal, 1922–1938) por época, com capitão e treinador.",
+  "category": "sports",
+  "source": "https://pt.wikipedia.org/wiki/Taça_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Taça_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "club",
+      "label": "Club",
+      "type": "string"
+    },
+    {
+      "key": "captain",
+      "label": "Captain",
+      "type": "string"
+    },
+    {
+      "key": "coach",
+      "label": "Coach",
+      "type": "string"
+    },
+    {
+      "key": "competition",
+      "label": "Competition",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1921–22",
+      "club": "FC Porto",
+      "captain": "João Brito",
+      "coach": "Adolphe Cassaigne",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1922–23",
+      "club": "Sporting",
+      "captain": "Francisco Stromp",
+      "coach": "Francisco Stromp",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1923–24",
+      "club": "Olhanense",
+      "captain": "Júlio Costa",
+      "coach": "Júlio Costa",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1924–25",
+      "club": "FC Porto 2",
+      "captain": "Norman Hall",
+      "coach": "Akös Teszler",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1925–26",
+      "club": "Marítimo",
+      "captain": "Domingos Vasconcelos",
+      "coach": "Francisco Ekker",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1926–27",
+      "club": "Belenenses",
+      "captain": "Augusto Silva",
+      "coach": "Artur José Pereira",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1927–28",
+      "club": "Carcavelinhos",
+      "captain": "Carlos Canuto",
+      "coach": "Carlos Canuto",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1928–29",
+      "club": "Belenenses 2",
+      "captain": "Augusto Silva",
+      "coach": "Artur José Pereira",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1929–30",
+      "club": "Benfica",
+      "captain": "Jorge Tavares",
+      "coach": "Artur John",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1930–31",
+      "club": "Benfica 2",
+      "captain": "Jorge Tavares",
+      "coach": "Artur John",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1931–32",
+      "club": "FC Porto 3",
+      "captain": "",
+      "coach": "Joseph Szabo",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1932–33",
+      "club": "Belenenses 3",
+      "captain": "Augusto Silva",
+      "coach": "Artur José Pereira",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1933–34",
+      "club": "Sporting 2",
+      "captain": "Faustino",
+      "coach": "Rodolf Jenny",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1934–35",
+      "club": "Benfica 3",
+      "captain": "Gustavo Teixeira",
+      "coach": "Vítor Gonçalves",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1935–36",
+      "club": "Sporting 3",
+      "captain": "Faustino",
+      "coach": "Wilhelm Possak",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1936–37",
+      "club": "FC Porto 4",
+      "captain": "",
+      "coach": "François Gutkas",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1937–38",
+      "club": "Sporting 4",
+      "captain": "Rui Araújo",
+      "coach": "Joseph Szabo",
+      "competition": "Campeonato de Portugal"
+    },
+    {
+      "season": "1938–39",
+      "club": "Académica",
+      "captain": "Alexandre Portugal",
+      "coach": "Albano Paulo",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1939–40",
+      "club": "Benfica",
+      "captain": "Francisco Ferreira",
+      "coach": "János Biri",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1940–41",
+      "club": "Sporting",
+      "captain": "Manuel Marques",
+      "coach": "József Szabo",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1941–42",
+      "club": "Belenenses",
+      "captain": "Mariano Amaro",
+      "coach": "Rodolfo Faroleiro",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1942–43",
+      "club": "Benfica 2",
+      "captain": "Francisco Ferreira",
+      "coach": "János Biri",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1943–44",
+      "club": "Benfica 3",
+      "captain": "Francisco Ferreira",
+      "coach": "János Biri",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1944–45",
+      "club": "Sporting 2",
+      "captain": "Manuel Marques",
+      "coach": "Joaquim Ferreira",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1945–46",
+      "club": "Sporting 3",
+      "captain": "Manuel Marques",
+      "coach": "Cândido de Oliveira",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1946–47",
+      "club": "Não disputada devido a constrangimentos de calendário",
+      "captain": "Não disputada devido a constrangimentos de calendário",
+      "coach": "Não disputada devido a constrangimentos de calendário",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1947–48",
+      "club": "Sporting 4",
+      "captain": "Manuel Marques",
+      "coach": "Cândido de Oliveira",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1948–49",
+      "club": "Benfica 4",
+      "captain": "Francisco Ferreira",
+      "coach": "Ted Smith",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1949–50",
+      "club": "Não disputada devido à organização da Taça Latina no Estádio Nacional",
+      "captain": "Não disputada devido à organização da Taça Latina no Estádio Nacional",
+      "coach": "Não disputada devido à organização da Taça Latina no Estádio Nacional",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1950–51",
+      "club": "Benfica 5",
+      "captain": "Francisco Ferreira",
+      "coach": "Ted Smith",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1951–52",
+      "club": "Benfica 6",
+      "captain": "Francisco Ferreira",
+      "coach": "Cândido Tavares",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1952–53",
+      "club": "Benfica 7",
+      "captain": "Francisco Moreira",
+      "coach": "António Ribeiro dos Reis",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1953–54",
+      "club": "Sporting 5",
+      "captain": "Galileu Moura",
+      "coach": "Joseph Szabo",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1954–55",
+      "club": "Benfica 8",
+      "captain": "Arsénio",
+      "coach": "Otto Glória",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1955–56",
+      "club": "FC Porto",
+      "captain": "José Maria Pedroto",
+      "coach": "Dorival Knippel",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1956–57",
+      "club": "Benfica 9",
+      "captain": "Jacinto Marques",
+      "coach": "Otto Glória",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1957–58",
+      "club": "FC Porto 2",
+      "captain": "Virgílio",
+      "coach": "Otto Bumbel",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1958–59",
+      "club": "Benfica 10",
+      "captain": "Artur Santos",
+      "coach": "José Valdivieso",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1959–60",
+      "club": "Belenenses 2",
+      "captain": "Francisco Pires",
+      "coach": "Otto Glória",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1960–61",
+      "club": "Leixões",
+      "captain": "Joaquim Pacheco",
+      "coach": "Filpo Nunez",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1961–62",
+      "club": "Benfica 11",
+      "captain": "José Águas",
+      "coach": "Fernando Caiado",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1962–63",
+      "club": "Sporting 6",
+      "captain": "Joaquim Carvalho",
+      "coach": "Juca",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1963–64",
+      "club": "Benfica 12",
+      "captain": "Mário Coluna",
+      "coach": "Lajos Czeizler",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1964–65",
+      "club": "Vitória de Setúbal",
+      "captain": "Carlos Torpes",
+      "coach": "Fernando Vaz",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1965–66",
+      "club": "SC Braga",
+      "captain": "Carlos Canário",
+      "coach": "Manuel Palmeira",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1966–67",
+      "club": "Vitória de Setúbal 2",
+      "captain": "José Maria",
+      "coach": "Fernando Vaz",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1967–68",
+      "club": "FC Porto 3",
+      "captain": "Américo Lopes",
+      "coach": "José Maria Pedroto",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1968–69",
+      "club": "Benfica 13",
+      "captain": "Mário Coluna",
+      "coach": "Otto Glória",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1969–70",
+      "club": "Benfica 14",
+      "captain": "Malta da Silva",
+      "coach": "José Augusto",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1970–71",
+      "club": "Sporting 7",
+      "captain": "Pedro Gomes",
+      "coach": "Fernando Vaz",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1971–72",
+      "club": "Benfica 15",
+      "captain": "Jaime Graça",
+      "coach": "Jimmy Hagan",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1972–73",
+      "club": "Sporting 8",
+      "captain": "Carlos Manaca",
+      "coach": "Mário Lino",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1973–74",
+      "club": "Sporting 9",
+      "captain": "Vítor Damas",
+      "coach": "Mário Lino",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1974–75",
+      "club": "Boavista",
+      "captain": "Mário João",
+      "coach": "José Maria Pedroto",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1975–76",
+      "club": "Boavista 2",
+      "captain": "Mário João",
+      "coach": "José Maria Pedroto",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1976–77",
+      "club": "FC Porto 4",
+      "captain": "António Oliveira",
+      "coach": "José Maria Pedroto",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1977–78",
+      "club": "Sporting 10",
+      "captain": "João Laranjeira",
+      "coach": "Rodrigues Dias",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1978–79",
+      "club": "Boavista 3",
+      "captain": "Mário João",
+      "coach": "Jimmy Hagan",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1979–80",
+      "club": "Benfica 16",
+      "captain": "Nené",
+      "coach": "Mário Wilson",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1980–81",
+      "club": "Benfica 17",
+      "captain": "Nené",
+      "coach": "Lajos Baróti",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1981–82",
+      "club": "Sporting 11",
+      "captain": "Manuel Fernandes",
+      "coach": "Malcolm Allison",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1982–83",
+      "club": "Benfica 18",
+      "captain": "Manuel Bento",
+      "coach": "Sven-Göran Eriksson",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1983–84",
+      "club": "FC Porto 5",
+      "captain": "Fernando Gomes",
+      "coach": "António Morais",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1984–85",
+      "club": "Benfica 19",
+      "captain": "Manuel Bento",
+      "coach": "Pál Csernai",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1985–86",
+      "club": "Benfica 20",
+      "captain": "Manuel Bento",
+      "coach": "John Mortimore",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1986–87",
+      "club": "Benfica 21",
+      "captain": "Shéu",
+      "coach": "John Mortimore",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1987–88",
+      "club": "FC Porto 6",
+      "captain": "António Lima Pereira",
+      "coach": "Tomislav Ivić",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1988–89",
+      "club": "Belenenses 3",
+      "captain": "José António",
+      "coach": "Marinho Peres",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1989–90",
+      "club": "Estrela da Amadora",
+      "captain": "Duílio",
+      "coach": "João Alves",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1990–91",
+      "club": "FC Porto 7",
+      "captain": "João Pinto",
+      "coach": "Artur Jorge",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1991–92",
+      "club": "Boavista 4",
+      "captain": "Rui Casaca",
+      "coach": "Manuel José",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1992–93",
+      "club": "Benfica 22",
+      "captain": "António Veloso",
+      "coach": "Toni",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1993–94",
+      "club": "FC Porto 8",
+      "captain": "João Pinto",
+      "coach": "Bobby Robson",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1994–95",
+      "club": "Sporting 12",
+      "captain": "Oceano",
+      "coach": "Carlos Queiroz",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1995–96",
+      "club": "Benfica 23",
+      "captain": "João Pinto",
+      "coach": "Mário Wilson",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1996–97",
+      "club": "Boavista 5",
+      "captain": "Paulo Sousa",
+      "coach": "Mário Reis",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1997–98",
+      "club": "FC Porto 9",
+      "captain": "Aloísio",
+      "coach": "António Oliveira",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1998–99",
+      "club": "Beira-Mar",
+      "captain": "Fusco",
+      "coach": "António Sousa",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "1999–00",
+      "club": "FC Porto 10",
+      "captain": "Jorge Costa",
+      "coach": "Fernando Santos",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2000–01",
+      "club": "FC Porto 11",
+      "captain": "Jorge Costa",
+      "coach": "Fernando Santos",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2001–02",
+      "club": "Sporting 13",
+      "captain": "Pedro Barbosa",
+      "coach": "László Bölöni",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2002–03",
+      "club": "FC Porto 12",
+      "captain": "Jorge Costa",
+      "coach": "José Mourinho",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2003–04",
+      "club": "Benfica 24",
+      "captain": "Simão Sabrosa",
+      "coach": "José Antonio Camacho",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2004–05",
+      "club": "Vitória de Setúbal 3",
+      "captain": "Sandro",
+      "coach": "José Rachão",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2005–06",
+      "club": "FC Porto 13",
+      "captain": "Pedro Emanuel",
+      "coach": "Co Adriaanse",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2006–07",
+      "club": "Sporting 14",
+      "captain": "Ricardo",
+      "coach": "Paulo Bento",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2007–08",
+      "club": "Sporting 15",
+      "captain": "João Moutinho",
+      "coach": "Paulo Bento",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2008–09",
+      "club": "FC Porto 14",
+      "captain": "Bruno Alves",
+      "coach": "Jesualdo Ferreira",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2009–10",
+      "club": "FC Porto 15",
+      "captain": "Bruno Alves",
+      "coach": "Jesualdo Ferreira",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2010–11",
+      "club": "FC Porto 16",
+      "captain": "Hulk",
+      "coach": "André Villas-Boas",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2011–12",
+      "club": "Académica 2",
+      "captain": "Diogo Melo",
+      "coach": "Pedro Emanuel",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2012–13",
+      "club": "Vitória de Guimarães",
+      "captain": "Leonel Olímpio",
+      "coach": "Rui Vitória",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2013–14",
+      "club": "Benfica 25",
+      "captain": "Luisão",
+      "coach": "Jorge Jesus",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2014–15",
+      "club": "Sporting 16",
+      "captain": "Rui Patrício",
+      "coach": "Marco Silva",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2015–16",
+      "club": "SC Braga 2",
+      "captain": "André Pinto",
+      "coach": "Paulo Fonseca",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2016–17",
+      "club": "Benfica 26",
+      "captain": "Luisão",
+      "coach": "Rui Vitória",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2017–18",
+      "club": "Desportivo das Aves",
+      "captain": "Quim",
+      "coach": "José Mota",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2018–19",
+      "club": "Sporting 17",
+      "captain": "Bruno Fernandes",
+      "coach": "Marcel Keizer",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2019–20",
+      "club": "FC Porto 17",
+      "captain": "Danilo Pereira",
+      "coach": "Sérgio Conceição",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2020–21",
+      "club": "SC Braga 3",
+      "captain": "Fransérgio",
+      "coach": "Carlos Carvalhal",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2021–22",
+      "club": "FC Porto 18",
+      "captain": "Pepe",
+      "coach": "Sérgio Conceição",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2022–23",
+      "club": "FC Porto 19",
+      "captain": "Pepe",
+      "coach": "Sérgio Conceição",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2023–24",
+      "club": "FC Porto 20",
+      "captain": "Pepe",
+      "coach": "Sérgio Conceição",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2024–25",
+      "club": "Sporting 18",
+      "captain": "Morten Hjulmand",
+      "coach": "Rui Manuel Borges",
+      "competition": "Taça de Portugal"
+    },
+    {
+      "season": "2025–26",
+      "club": "Torreense",
+      "captain": "Stopira",
+      "coach": "Luís Tralhão",
+      "competition": "Taça de Portugal"
+    }
+  ],
+  "meta": {
+    "title": "Vencedores da Taça de Portugal - Free Download",
+    "description": "Clubes vencedores da Taça de Portugal (e do antigo Campeonato de Portugal, 1922–1938) por época, com capitão e treinador. Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vencedores da Taça de Portugal | ListBase",
+    "seo_description": "Download Vencedores da Taça de Portugal — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Taça_de_Portugal"
+    ]
+  }
+}
