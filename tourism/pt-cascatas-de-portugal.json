@@ -1,0 +1,619 @@
+{
+  "id": "pt-cascatas-de-portugal",
+  "name": "Cascatas de Portugal",
+  "title": "Cascatas de Portugal",
+  "description": "Cascatas e quedas de água de Portugal continental, Açores e Madeira: localização, altura e área protegida.",
+  "category": "tourism",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_cascatas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_cascatas_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "subregion",
+      "label": "Subregion",
+      "type": "string"
+    },
+    {
+      "key": "district_or_island",
+      "label": "District Or Island",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "type": "string"
+    },
+    {
+      "key": "protected_area",
+      "label": "Protected Area",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cascata da Ferida Má (Cascata do Pincho)",
+      "region": "Norte",
+      "subregion": "Alto Minho",
+      "district_or_island": "Viana do Castelo",
+      "location": "Montaria, Viana do Castelo",
+      "height": ">10 m",
+      "protected_area": "Serra de Arga"
+    },
+    {
+      "name": "Cascata de Fervença",
+      "region": "Norte",
+      "subregion": "Alto Minho",
+      "district_or_island": "Viana do Castelo",
+      "location": "Boivães e Grovelas, Ponte da Barca",
+      "height": "20 m",
+      "protected_area": "Rio Lima"
+    },
+    {
+      "name": "Cascata do Laboreiro",
+      "region": "Norte",
+      "subregion": "Alto Minho",
+      "district_or_island": "Viana do Castelo",
+      "location": "Castro Laboreiro, Melgaço",
+      "height": "Sem dados",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata da Peneda",
+      "region": "Norte",
+      "subregion": "Alto Minho",
+      "district_or_island": "Viana do Castelo",
+      "location": "Gavieira, Arcos de Valdevez",
+      "height": "30 m",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascatas do Poço Negro",
+      "region": "Norte",
+      "subregion": "Alto Minho",
+      "district_or_island": "Viana do Castelo",
+      "location": "Soajo, Arcos de Valdevez",
+      "height": "Sem dados",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata do Arado",
+      "region": "Norte",
+      "subregion": "Cávado",
+      "district_or_island": "Braga",
+      "location": "Vilar de Veiga, Terras de Bouro",
+      "height": "15 m",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascatas de Fecha de Barjas (Cascatas do Tahiti)",
+      "region": "Norte",
+      "subregion": "Cávado",
+      "district_or_island": "Braga",
+      "location": "Vilar de Veiga, Terras de Bouro",
+      "height": "Sem dados",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata da Laja",
+      "region": "Norte",
+      "subregion": "Cávado",
+      "district_or_island": "Braga",
+      "location": "Vilar de Veiga, Terras de Bouro",
+      "height": "Sem dados",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata de Leonte",
+      "region": "Norte",
+      "subregion": "Cávado",
+      "district_or_island": "Braga",
+      "location": "Vilar de Veiga, Terras de Bouro",
+      "height": "19 m",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata da Portela do Homem (Cascata de S. Miguel)",
+      "region": "Norte",
+      "subregion": "Cávado",
+      "district_or_island": "Braga",
+      "location": "Campos do Gerês, Terras de Bouro",
+      "height": "Sem dados",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata de Água Cai d`Alto",
+      "region": "Norte",
+      "subregion": "Alto Tâmega",
+      "district_or_island": "Vila Real",
+      "location": "Cerva, Ribeira da Pena",
+      "height": "Sem dados",
+      "protected_area": "Alvão / Marão"
+    },
+    {
+      "name": "Cascata de Pincães",
+      "region": "Norte",
+      "subregion": "Alto Tâmega",
+      "district_or_island": "Vila Real",
+      "location": "Cabril, Montalegre",
+      "height": "Sem dados",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata de Pitões das Júnias",
+      "region": "Norte",
+      "subregion": "Alto Tâmega",
+      "district_or_island": "Vila Real",
+      "location": "Pitões das Júnias, Montalegre",
+      "height": "30 m",
+      "protected_area": "PNPG"
+    },
+    {
+      "name": "Cascata da Queimadela",
+      "region": "Norte",
+      "subregion": "Ave",
+      "district_or_island": "Braga",
+      "location": "Monte e Queimadela, Fafe",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata de Agarez",
+      "region": "Norte",
+      "subregion": "Ave",
+      "district_or_island": "Vila Real",
+      "location": "Vila Marim, Vila Real",
+      "height": "8 m",
+      "protected_area": "PNA"
+    },
+    {
+      "name": "Cascata de Fisgas do Ermelo",
+      "region": "Norte",
+      "subregion": "Ave",
+      "district_or_island": "Vila Real",
+      "location": "Ermelo, Mondim de Basto",
+      "height": "Sem dados",
+      "protected_area": "PNA"
+    },
+    {
+      "name": "Cascata da Faia da Água Alta (Cascata do Lamoso)",
+      "region": "Norte",
+      "subregion": "Terras de Trás os Montes",
+      "district_or_island": "Bragança",
+      "location": "Bemposta, Mogadouro",
+      "height": "60 m",
+      "protected_area": "PNDI"
+    },
+    {
+      "name": "Cascata de Galegos da Serra",
+      "region": "Norte",
+      "subregion": "Douro",
+      "district_or_island": "Vila Real",
+      "location": "Vila Marim, Vila Real",
+      "height": "Sem dados",
+      "protected_area": "PNA"
+    },
+    {
+      "name": "Quedas da Fervença",
+      "region": "Norte",
+      "subregion": "Área Metropolitana do Porto",
+      "district_or_island": "Porto",
+      "location": "Monte Córdova, Santo Tirso",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Frecha da Mizarela",
+      "region": "Norte",
+      "subregion": "Área Metropolitana do Porto",
+      "district_or_island": "Aveiro",
+      "location": "Albergaria da Serra, Arouca",
+      "height": "75 m",
+      "protected_area": "Serras da Freita e Arada"
+    },
+    {
+      "name": "Cascata da Cabreia",
+      "region": "Centro",
+      "subregion": "Região de Aveiro",
+      "district_or_island": "Aveiro",
+      "location": "Silva Escura, Sever do Vouga",
+      "height": "25 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Fílveda (Cascata da Frágua da Pena)",
+      "region": "Centro",
+      "subregion": "Região de Aveiro",
+      "district_or_island": "Aveiro",
+      "location": "Dornelas, Sever do Vouga",
+      "height": ">40 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Pantanha",
+      "region": "Centro",
+      "subregion": "Viseu Dão-Lafões",
+      "district_or_island": "Viseu",
+      "location": "Canas de Senhorim, Nelas",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascatas do Poço Negro",
+      "region": "Centro",
+      "subregion": "Viseu Dão-Lafões",
+      "district_or_island": "Viseu",
+      "location": "Manhouce, São Pedro do Sul",
+      "height": "5 m",
+      "protected_area": "Serras da Freita e Arada"
+    },
+    {
+      "name": "Cascata do Poço do Inferno",
+      "region": "Centro",
+      "subregion": "Beiras e Serra da Estrela",
+      "district_or_island": "Guarda",
+      "location": "Serra da Estrela",
+      "height": "10 m",
+      "protected_area": "PNSE"
+    },
+    {
+      "name": "Quedas de Água das Paredes",
+      "region": "Centro",
+      "subregion": "Região de Coimbra",
+      "district_or_island": "Viseu",
+      "location": "Mortágua",
+      "height": "30 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Fraga da Pena",
+      "region": "Centro",
+      "subregion": "Região de Coimbra",
+      "district_or_island": "Coimbra",
+      "location": "Pardieiros, Arganil",
+      "height": "20 m",
+      "protected_area": "PPSA"
+    },
+    {
+      "name": "Cascata da Pedra da Ferida",
+      "region": "Centro",
+      "subregion": "Região de Coimbra",
+      "district_or_island": "Coimbra",
+      "location": "Serra do Espinhal, Penela",
+      "height": "25 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Fórnea",
+      "region": "Centro",
+      "subregion": "Região de Leiria",
+      "district_or_island": "Leiria",
+      "location": "Porto de Mós",
+      "height": "Sem dados",
+      "protected_area": "PNSAC"
+    },
+    {
+      "name": "Cascata do Penedo Furado",
+      "region": "Centro",
+      "subregion": "Médio Tejo",
+      "district_or_island": "Castelo Branco",
+      "location": "Milreu, Vila de Rei",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata do Alviela (Cascata da Corredoura)",
+      "region": "Centro",
+      "subregion": "Lezíria do Tejo",
+      "district_or_island": "Santarém",
+      "location": "Mouchão Parque, Pernes, Santarém",
+      "height": "14 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascatas de Arruda dos Vinhos",
+      "region": "Área Metropolitana de Lisboa",
+      "subregion": "Área Metropolitana de Lisboa",
+      "district_or_island": "Lisboa",
+      "location": "Rio Grande da Pipa, Arruda dos Vinhos",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Fervença (Cascata da Bajouca)",
+      "region": "Área Metropolitana de Lisboa",
+      "subregion": "Área Metropolitana de Lisboa",
+      "district_or_island": "Lisboa",
+      "location": "Terrugem, Sintra",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata do Boição (Ribeira do Boição)",
+      "region": "Área Metropolitana de Lisboa",
+      "subregion": "Área Metropolitana de Lisboa",
+      "district_or_island": "Lisboa",
+      "location": "Bucelas, Loures",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata do Mourão (Cascata de Anços)",
+      "region": "Área Metropolitana de Lisboa",
+      "subregion": "Área Metropolitana de Lisboa",
+      "district_or_island": "Lisboa",
+      "location": "Rio Mourão, Anços, Sintra",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Rocha de Água d’Alto",
+      "region": "Alentejo",
+      "subregion": "Alentejo Litoral",
+      "district_or_island": "Beja",
+      "location": "Vila Nova de Milfontes, Odemira",
+      "height": "30 m",
+      "protected_area": "PNSACV"
+    },
+    {
+      "name": "Cascata do Pulo do Lobo",
+      "region": "Alentejo",
+      "subregion": "Baixo Alentejo",
+      "district_or_island": "Beja",
+      "location": "Rio Guadiana, Mértola",
+      "height": "16 m",
+      "protected_area": "PNVG"
+    },
+    {
+      "name": "Cascata do Cadouço ou Cadoiço",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "São Clemente, Loulé",
+      "height": "10 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata do Pego do Inferno",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "Santo Estêvão, Tavira",
+      "height": "3 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata do Pomarinho",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "Santo Estêvão, Tavira",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Torre",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "Santo Estêvão, Tavira",
+      "height": "Sem dados",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Queda do Vigário",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "Alte, Loulé",
+      "height": "24 m",
+      "protected_area": "Barrocal"
+    },
+    {
+      "name": "Cascata do Olho de Paris",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "Alte, Loulé",
+      "height": "Sem dados",
+      "protected_area": "Barrocal"
+    },
+    {
+      "name": "Cascata de Penedos Altos",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "Querença, Loulé",
+      "height": "Sem dados",
+      "protected_area": "Barrocal"
+    },
+    {
+      "name": "Cascata da ribeira de Alface",
+      "region": "Algarve",
+      "subregion": "Algarve",
+      "district_or_island": "Faro",
+      "location": "Alte, Loulé",
+      "height": "Sem dados",
+      "protected_area": "Barrocal"
+    },
+    {
+      "name": "Cascata do Poço do Bacalhau",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "Flores",
+      "location": "Fajã Grande, Lajes das Flores",
+      "height": "90 m",
+      "protected_area": "PNIFLO"
+    },
+    {
+      "name": "Cascata da Ribeira Grande",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "Flores",
+      "location": "Fajãzinha, Lajes das Flores",
+      "height": "300 m",
+      "protected_area": "PNIFLO"
+    },
+    {
+      "name": "Cascata da Fajã de Santo Cristo",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Jorge",
+      "location": "Ribeira Seca, Calheta",
+      "height": "Sem dados",
+      "protected_area": "PNSJ Costa NE e Ponta do Topo"
+    },
+    {
+      "name": "Cascata da Ribeira Quente",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Ribeira Quente, Povoação",
+      "height": "20-25 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Ribeira dos Caldeirões",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Achada, Nordeste",
+      "height": "3-20 m",
+      "protected_area": "PNRC"
+    },
+    {
+      "name": "Cascata do Salto da Farinha (Miradouro do Salto da Farinha)",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Salga, Nordeste",
+      "height": "40 m",
+      "protected_area": "PNRC"
+    },
+    {
+      "name": "Cascata do Cabrito (Salto do Cabrito)",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Ponta Delgada",
+      "height": "40 m",
+      "protected_area": "PNSM (MNCV)"
+    },
+    {
+      "name": "Cascata da Caldeira Velha",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Ribeira Grande",
+      "height": "Sem dados",
+      "protected_area": "PNSM (MNCV)"
+    },
+    {
+      "name": "Salto do Cagarrão",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Faial da Terra",
+      "height": "6 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Salto do Prego",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Faial da Terra",
+      "height": "9 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata da Ponta do Arnel (Salto do Andrea e Martin)",
+      "region": "Açores",
+      "subregion": "Açores",
+      "district_or_island": "São Miguel",
+      "location": "Nordeste",
+      "height": "80 m",
+      "protected_area": "PNSM"
+    },
+    {
+      "name": "Cascata dos Anjos",
+      "region": "Madeira",
+      "subregion": "Madeira",
+      "district_or_island": "Ilha da Madeira",
+      "location": "Ponta do Sol",
+      "height": "90 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata do Véu da Noiva",
+      "region": "Madeira",
+      "subregion": "Madeira",
+      "district_or_island": "Ilha da Madeira",
+      "location": "Seixal, Porto Moniz",
+      "height": "Sem dados",
+      "protected_area": "PNM (Laurissilva)"
+    },
+    {
+      "name": "Cascata das Vinte e Cinco Fontes",
+      "region": "Madeira",
+      "subregion": "Madeira",
+      "district_or_island": "Ilha da Madeira",
+      "location": "Rabaçal, Paul da Serra",
+      "height": "30 m",
+      "protected_area": "PNM Maciço Montanhoso Central"
+    },
+    {
+      "name": "Cascata da Levada Nova da Ponta do Sol",
+      "region": "Madeira",
+      "subregion": "Madeira",
+      "district_or_island": "Ilha da Madeira",
+      "location": "Horta Lombada, Ponta do Sol",
+      "height": "8 m",
+      "protected_area": "Nenhuma"
+    },
+    {
+      "name": "Cascata do Salto do Patagarro",
+      "region": "Madeira",
+      "subregion": "Madeira",
+      "district_or_island": "Ilha da Madeira",
+      "location": "Tornos Altos, Funchal",
+      "height": "Sem dados",
+      "protected_area": "PNM"
+    },
+    {
+      "name": "Cascata da Água D’Alto",
+      "region": "Madeira",
+      "subregion": "Madeira",
+      "district_or_island": "Ilha da Madeira",
+      "location": "Corujeira de Cima, Santana",
+      "height": "100 m",
+      "protected_area": "PNM"
+    }
+  ],
+  "meta": {
+    "title": "Cascatas de Portugal - Free Download",
+    "description": "Cascatas e quedas de água de Portugal continental, Açores e Madeira: localização, altura e área protegida. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cascatas de Portugal | ListBase",
+    "seo_description": "Download Cascatas de Portugal — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_cascatas_de_Portugal"
+    ]
+  }
+}

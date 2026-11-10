@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-10T02:25:37.233Z",
-  "total_datasets": 543,
-  "total_records": 743650,
+  "generated": "2026-11-10T02:25:45.289Z",
+  "total_datasets": 544,
+  "total_records": 743712,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -18741,6 +18741,34 @@
         "xlsx": {
           "name": "pt-br-patrimonio-mundial_PT.xlsx",
           "size": 18275
+        }
+      }
+    },
+    {
+      "id": "pt-cascatas-de-portugal",
+      "name": "Cascatas de Portugal",
+      "category": "tourism",
+      "record_count": 62,
+      "columns": [
+        "name",
+        "region",
+        "subregion",
+        "district_or_island",
+        "location",
+        "height",
+        "protected_area"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_cascatas_de_Portugal",
+      "updated": "2026-11",
+      "size": 18335,
+      "files": {
+        "csv": {
+          "name": "pt-cascatas-de-portugal_PT.csv",
+          "size": 7095
+        },
+        "xlsx": {
+          "name": "pt-cascatas-de-portugal_PT.xlsx",
+          "size": 10511
         }
       }
     },
