@@ -1,0 +1,676 @@
+{
+  "id": "pt-vencedores-festival-rtp-cancao",
+  "name": "Vencedores do Festival RTP da Canção",
+  "title": "Vencedores do Festival RTP da Canção",
+  "description": "Canções e artistas vencedores do Festival RTP da Canção desde 1964, com pontuação, segundo classificado, data e local.",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Vencedores_do_Festival_RTP_da_Canção",
+  "source_url": "https://pt.wikipedia.org/wiki/Vencedores_do_Festival_RTP_da_Canção",
+  "updated": "2026-11",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "points",
+      "label": "Points",
+      "type": "number"
+    },
+    {
+      "key": "second_song",
+      "label": "Second Song",
+      "type": "string"
+    },
+    {
+      "key": "second_artist",
+      "label": "Second Artist",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1964,
+      "song": "Oração (canção de António Calvário)",
+      "artist": "António Calvário",
+      "points": "79",
+      "second_song": "Lindo par",
+      "second_artist": "Guilherme Kjölner",
+      "date": "2 de Fevereiro de 1964",
+      "venue": "Estúdios do Lumiar da RTP, Lisboa"
+    },
+    {
+      "year": 1965,
+      "song": "Sol de Inverno",
+      "artist": "Simone de Oliveira",
+      "points": "91",
+      "second_song": "Amor",
+      "second_artist": "Artur Garcia",
+      "date": "6 de Fevereiro de 1965",
+      "venue": "Estúdios do Lumiar da RTP, Lisboa"
+    },
+    {
+      "year": 1966,
+      "song": "Ele e Ela (canção)",
+      "artist": "Madalena Iglesias",
+      "points": "81",
+      "second_song": "Eu nunca direi adeus",
+      "second_artist": "Sérgio Borges",
+      "date": "15 de Janeiro de 1966",
+      "venue": "Estúdios do Lumiar da RTP, Lisboa"
+    },
+    {
+      "year": 1967,
+      "song": "O Vento Mudou",
+      "artist": "Eduardo Nascimento",
+      "points": "120",
+      "second_song": "Livro sem fim",
+      "second_artist": "Duo Ouro Negro",
+      "date": "25 de Fevereiro de 1967",
+      "venue": "Estúdios do Lumiar da RTP, Lisboa"
+    },
+    {
+      "year": 1968,
+      "song": "Verão",
+      "artist": "Carlos Mendes",
+      "points": "61",
+      "second_song": "Fui ter com a madrugada",
+      "second_artist": "Tonicha",
+      "date": "4 de Março de 1968",
+      "venue": "Estúdios do Lumiar da RTP, Lisboa"
+    },
+    {
+      "year": 1969,
+      "song": "Desfolhada Portuguesa",
+      "artist": "Simone de Oliveira",
+      "points": "94",
+      "second_song": "Tenho Amor Para Amar",
+      "second_artist": "Duo Ouro Negro",
+      "date": "24 de Fevereiro de 1969",
+      "venue": "Teatro São Luiz, Lisboa"
+    },
+    {
+      "year": 1970,
+      "song": "Onde Vais Rio Que Eu Canto",
+      "artist": "Sérgio Borges",
+      "points": "84",
+      "second_song": "Canção de Madrugar",
+      "second_artist": "Hugo Maia Loureiro",
+      "date": "22 de Maio de 1970",
+      "venue": "Cinema Monumental, Lisboa"
+    },
+    {
+      "year": 1971,
+      "song": "Menina do Alto da Serra",
+      "artist": "Tonicha",
+      "points": "103",
+      "second_song": "Flor sem tempo",
+      "second_artist": "Paulo de Carvalho",
+      "date": "11 de Fevereiro de 1971",
+      "venue": "Cinema Tivoli, Lisboa"
+    },
+    {
+      "year": 1972,
+      "song": "A Festa da Vida",
+      "artist": "Carlos Mendes",
+      "points": "227",
+      "second_song": "Vamos cantar de pé",
+      "second_artist": "Paco Bandeira",
+      "date": "21 de Fevereiro de 1972",
+      "venue": "Teatro S. Luiz, Lisboa"
+    },
+    {
+      "year": 1973,
+      "song": "Tourada",
+      "artist": "Fernando Tordo",
+      "points": "115",
+      "second_song": "É por isso que eu vivo",
+      "second_artist": "Paco Bandeira",
+      "date": "26 de Fevereiro de 1973",
+      "venue": "Teatro Maria Matos, Lisboa"
+    },
+    {
+      "year": 1974,
+      "song": "E Depois do Adeus",
+      "artist": "Paulo de Carvalho",
+      "points": "245",
+      "second_song": "No dia em que o rei fez anos",
+      "second_artist": "Green Windows",
+      "date": "7 de Março de 1974",
+      "venue": "Teatro Maria Matos, Lisboa"
+    },
+    {
+      "year": 1975,
+      "song": "Madrugada",
+      "artist": "Duarte Mendes",
+      "points": "61",
+      "second_song": "A boca do lobo",
+      "second_artist": "Carlos Cavalheiro",
+      "date": "15 de Fevereiro de 1975",
+      "venue": "Teatro Maria Matos, Lisboa"
+    },
+    {
+      "year": 1976,
+      "song": "Uma Flor de Verde Pinho",
+      "artist": "Carlos do Carmo",
+      "points": "25,25% (votos)",
+      "second_song": "Novo fado alegre",
+      "second_artist": "Carlos do Carmo",
+      "date": "22 de Fevereiro de 1976",
+      "venue": "Estúdio 1 da RTP, Lisboa"
+    },
+    {
+      "year": 1977,
+      "song": "Portugal No Coração \" (Versão A)",
+      "artist": "Os Amigos",
+      "points": "62844 (votos)",
+      "second_song": "Rita, Rita limão \" (Versão A)",
+      "second_artist": "Green Windows",
+      "date": "12 de Fevereiro de 1977",
+      "venue": "Estúdio 1 da RTP, Lisboa"
+    },
+    {
+      "year": 1978,
+      "song": "Dai-li-dou",
+      "artist": "Gemini",
+      "points": "46",
+      "second_song": "O meu piano",
+      "second_artist": "José Cid",
+      "date": "18 de Fevereiro de 1978",
+      "venue": "Teatro Villaret, Lisboa"
+    },
+    {
+      "year": 1979,
+      "song": "Sobe, Sobe, Balão Sobe",
+      "artist": "Manuela Bravo",
+      "points": "149",
+      "second_song": "Eu só quero",
+      "second_artist": "Gabriela Schaaf",
+      "date": "23 de Fevereiro de 1979",
+      "venue": "Cinema Monumental, Lisboa"
+    },
+    {
+      "year": 1980,
+      "song": "Um Grande, Grande Amor",
+      "artist": "José Cid",
+      "points": "92",
+      "second_song": "Doce",
+      "second_artist": "Doce",
+      "date": "7 de Março de 1980",
+      "venue": "Teatro São Luiz, Lisboa"
+    },
+    {
+      "year": 1981,
+      "song": "Playback",
+      "artist": "Carlos Paião",
+      "points": "203",
+      "second_song": "Morrer de amor por ti",
+      "second_artist": "José Cid",
+      "date": "7 de Março de 1981",
+      "venue": "Teatro Maria Matos, Lisboa"
+    },
+    {
+      "year": 1982,
+      "song": "Bem Bom",
+      "artist": "Doce",
+      "points": "182",
+      "second_song": "Trocas e baldrocas",
+      "second_artist": "Cândida Branca Flor",
+      "date": "6 de Março de 1982",
+      "venue": "Teatro Maria Matos, Lisboa"
+    },
+    {
+      "year": 1983,
+      "song": "Esta Balada Que Te Dou",
+      "artist": "Armando Gama",
+      "points": "232",
+      "second_song": "A cor do teu baton",
+      "second_artist": "Herman José",
+      "date": "5 de Março de 1983",
+      "venue": "Coliseu do Porto, Porto"
+    },
+    {
+      "year": 1984,
+      "song": "Silêncio e Tanta Gente",
+      "artist": "Maria Guinot",
+      "points": "150",
+      "second_song": "Pelo fim da tarde",
+      "second_artist": "Samuel",
+      "date": "7 de Março de 1984",
+      "venue": "Cinema Europa, Lisboa"
+    },
+    {
+      "year": 1985,
+      "song": "Penso em Ti, Eu Sei",
+      "artist": "Adelaide Ferreira",
+      "points": "219",
+      "second_song": "Meu amor, minha dor, meu jardim",
+      "second_artist": "Eduarda",
+      "date": "7 de Março de 1985",
+      "venue": "Coliseu dos Recreios, Lisboa"
+    },
+    {
+      "year": 1986,
+      "song": "Não Sejas Mau para Mim",
+      "artist": "Dora",
+      "points": "Não revelado",
+      "second_song": "Os tigres de Bengala",
+      "second_artist": "Trabalhadores do Comércio",
+      "date": "22 de Março de 1986",
+      "venue": "Estúdios da RTP da Madeira, Açores, Porto, Lisboa"
+    },
+    {
+      "year": 1986,
+      "song": "Não Sejas Mau para Mim",
+      "artist": "Dora",
+      "points": "Não revelado",
+      "second_song": "No vapor da madrugada",
+      "second_artist": "Rimanço",
+      "date": "22 de Março de 1986",
+      "venue": "Estúdios da RTP da Madeira, Açores, Porto, Lisboa"
+    },
+    {
+      "year": 1987,
+      "song": "Neste Barco à Vela",
+      "artist": "Duo Nevada",
+      "points": "116",
+      "second_song": "Hora a hora, dia a dia",
+      "second_artist": "Glória",
+      "date": "7 de Março de 1987",
+      "venue": "Casino Park Funchal, Funchal"
+    },
+    {
+      "year": 1988,
+      "song": "Voltarei",
+      "artist": "Dora",
+      "points": "Não revelado",
+      "second_song": "Não revelado",
+      "second_artist": "Não revelado",
+      "date": "7 de Março de 1988",
+      "venue": "Estúdio da RTP, Lisboa"
+    },
+    {
+      "year": 1989,
+      "song": "Conquistador",
+      "artist": "Da Vinci",
+      "points": "121",
+      "second_song": "Partir de mim",
+      "second_artist": "Marina Mota",
+      "date": "7 de Março de 1989",
+      "venue": "Teatro Garcia de Resende, Évora"
+    },
+    {
+      "year": 1990,
+      "song": "Há Sempre Alguém",
+      "artist": "Nucha",
+      "points": "242",
+      "second_song": "Essência da vida",
+      "second_artist": "Karamurú",
+      "date": "10 de Março de 1990",
+      "venue": "Casino Estoril, Estoril"
+    },
+    {
+      "year": 1991,
+      "song": "Lusitana Paixão",
+      "artist": "Dulce Pontes",
+      "points": "166",
+      "second_song": "Fazer uma canção",
+      "second_artist": "Os Blocco",
+      "date": "7 de Março de 1991",
+      "venue": "Feira Internacional de Lisboa, Lisboa"
+    },
+    {
+      "year": 1992,
+      "song": "Amor D'Água Fresca",
+      "artist": "Dina",
+      "points": "230",
+      "second_song": "Meu amor inventado em mim",
+      "second_artist": "Rita Guerra",
+      "date": "7 de Março de 1992",
+      "venue": "Teatro São Luiz, Lisboa"
+    },
+    {
+      "year": 1993,
+      "song": "A Cidade (até Ser Dia)",
+      "artist": "Anabela",
+      "points": "167",
+      "second_song": "O poeta, o pintor e o músico",
+      "second_artist": "Cid, Bragança e Ca. Lda",
+      "date": "11 de Março de 1993",
+      "venue": "Teatro São Luiz, Lisboa"
+    },
+    {
+      "year": 1994,
+      "song": "Chamar A Música",
+      "artist": "Sara Tavares",
+      "points": "220",
+      "second_song": "Todos nós alguma vez",
+      "second_artist": "Pedro Miguéis",
+      "date": "7 de Março de 1994",
+      "venue": "Teatro São Luiz, Lisboa"
+    },
+    {
+      "year": 1995,
+      "song": "Baunilha e chocolate",
+      "artist": "Tó Cruz",
+      "points": "158",
+      "second_song": "Tanto amor tanto mar",
+      "second_artist": "Ana Isabel",
+      "date": "7 de Março de 1995",
+      "venue": "Cinema Tivoli, Lisboa"
+    },
+    {
+      "year": 1996,
+      "song": "O Meu Coração não Tem Cor",
+      "artist": "Lúcia Moniz",
+      "points": "95",
+      "second_song": "Canto em Português",
+      "second_artist": "Patrícia Antunes",
+      "date": "7 de Março de 1996",
+      "venue": "Teatro Politeama, Lisboa"
+    },
+    {
+      "year": 1997,
+      "song": "Antes do adeus",
+      "artist": "Célia Lawson",
+      "points": "127",
+      "second_song": "Da primeira vez",
+      "second_artist": "Sónia Mendes",
+      "date": "7 de Março de 1997",
+      "venue": "Coliseu dos Recreios, Lisboa"
+    },
+    {
+      "year": 1998,
+      "song": "Se Eu Te Pudesse Abraçar",
+      "artist": "Alma Lusa",
+      "points": "50",
+      "second_song": "Só o mar ficou",
+      "second_artist": "Teresa Radamanto",
+      "date": "7 de Março de 1998",
+      "venue": "Teatro São Luiz, Lisboa"
+    },
+    {
+      "year": 1999,
+      "song": "Como Tudo Começou",
+      "artist": "Rui Bandeira",
+      "points": "90",
+      "second_song": "Menina alegria",
+      "second_artist": "Sofia Frões",
+      "date": "8 de Março de 1999",
+      "venue": "Sala Tejo do Pavilhão Atlântico, Lisboa"
+    },
+    {
+      "year": 2000,
+      "song": "Sonhos Mágicos",
+      "artist": "Liana",
+      "points": "86",
+      "second_song": "O teu tempo",
+      "second_artist": "Paulo Terrão",
+      "date": "26 de Março de 2000",
+      "venue": "Sala Tejo do Pavilhão Atlântico, Lisboa"
+    },
+    {
+      "year": 2001,
+      "song": "Só Sei Ser Feliz assim",
+      "artist": "MTM",
+      "points": "280",
+      "second_song": "Choro no fado",
+      "second_artist": "Patrícia Colaço & Duo Demo",
+      "date": "7 de Março de 2001",
+      "venue": "Europarque, Santa Maria da Feira"
+    },
+    {
+      "year": 2002,
+      "song": "Não se realizou.",
+      "artist": "Não se realizou.",
+      "points": "Não se realizou.",
+      "second_song": "Não se realizou.",
+      "second_artist": "Não se realizou.",
+      "date": "Não se realizou.",
+      "venue": "Não se realizou."
+    },
+    {
+      "year": 2003,
+      "song": "Deixa-me sonhar (só mais uma vez)",
+      "artist": "Rita Guerra",
+      "points": "75% (votos)",
+      "second_song": "Prazer no pecado",
+      "second_artist": "Rita Guerra",
+      "date": "2 de Março de 2003",
+      "venue": "Estúdios da Endemol, Venda do Pinheiro"
+    },
+    {
+      "year": 2004,
+      "song": "Foi Magia",
+      "artist": "Sofia Vitória",
+      "points": "39 072 (votos)",
+      "second_song": "Novo e clássico",
+      "second_artist": "Gonçalo Medeiros",
+      "date": "25 de Janeiro de 2004",
+      "venue": "Estúdios da Endemol, Mem Martins"
+    },
+    {
+      "year": 2005,
+      "song": "Amar",
+      "artist": "2B",
+      "points": "Selecção interna.",
+      "second_song": "Selecção interna.",
+      "second_artist": "Selecção interna.",
+      "date": "31 de Março de 2005",
+      "venue": "Estúdio da RTP, Lisboa"
+    },
+    {
+      "year": 2006,
+      "song": "Coisas de Nada (Gonna Make You Dance)",
+      "artist": "Nonstop",
+      "points": "22",
+      "second_song": "Sei quem sou (Portugal)",
+      "second_artist": "Vânia Oliveira",
+      "date": "10 de Março de 2006",
+      "venue": "Centro de Congressos de Lisboa, Lisboa"
+    },
+    {
+      "year": 2007,
+      "song": "Dança Comigo (Vem Ser Feliz)",
+      "artist": "Sabrina",
+      "points": "8874 (votos)",
+      "second_song": "Ai de quem nunca cantou",
+      "second_artist": "Teresa Radamanto",
+      "date": "10 de Março de 2007",
+      "venue": "Sala Tejo do Pavilhão Atlântico, Lisboa"
+    },
+    {
+      "year": 2008,
+      "song": "Senhora do Mar (Negras Águas)",
+      "artist": "Vânia Fernandes",
+      "points": "17650 (votos)",
+      "second_song": "Obrigatório ter",
+      "second_artist": "Alex Smith",
+      "date": "9 de Março de 2008",
+      "venue": "Teatro Camões, Lisboa"
+    },
+    {
+      "year": 2009,
+      "song": "Todas as Ruas do Amor",
+      "artist": "Flor-de-Lis",
+      "points": "22",
+      "second_song": "Voar é ver",
+      "second_artist": "Francisco Andrade",
+      "date": "28 de Fevereiro de 2009",
+      "venue": "Teatro Camões, Lisboa"
+    },
+    {
+      "year": 2010,
+      "song": "Há dias assim",
+      "artist": "Filipa Azevedo",
+      "points": "19",
+      "second_song": "Canta por mim",
+      "second_artist": "Catarina Pereira",
+      "date": "6 de Março de 2010",
+      "venue": "Praça de Touros do Campo Pequeno, Lisboa"
+    },
+    {
+      "year": 2011,
+      "song": "A Luta é Alegria",
+      "artist": "Homens da Luta",
+      "points": "18",
+      "second_song": "São os Barcos de Lisboa",
+      "second_artist": "Nuno Norte",
+      "date": "5 de Março de 2011",
+      "venue": "Teatro Camões, Lisboa"
+    },
+    {
+      "year": 2012,
+      "song": "Vida minha",
+      "artist": "Filipa Sousa",
+      "points": "24",
+      "second_song": "Será o que será",
+      "second_artist": "Cúmplice's",
+      "date": "10 de Março de 2012",
+      "venue": "Estúdio 1 da RTP, Lisboa"
+    },
+    {
+      "year": 2013,
+      "song": "Não se realizou.",
+      "artist": "Não se realizou.",
+      "points": "Não se realizou.",
+      "second_song": "Não se realizou.",
+      "second_artist": "Não se realizou.",
+      "date": "Não se realizou.",
+      "venue": "Não se realizou."
+    },
+    {
+      "year": 2014,
+      "song": "Quero ser tua",
+      "artist": "Suzy",
+      "points": "41,56% (votos)",
+      "second_song": "Mea Culpa",
+      "second_artist": "Catarina Pereira",
+      "date": "15 de Março de 2014",
+      "venue": "Convento do Beato, Lisboa"
+    },
+    {
+      "year": 2015,
+      "song": "Há um mar que nos separa",
+      "artist": "Leonor Andrade",
+      "points": "Não revelado",
+      "second_song": "Um Fado em Viena",
+      "second_artist": "Teresa Radamanto",
+      "date": "7 de Março de 2015",
+      "venue": "Estúdio 2 da RTP, Lisboa"
+    },
+    {
+      "year": 2016,
+      "song": "Não se realizou.",
+      "artist": "Não se realizou.",
+      "points": "Não se realizou.",
+      "second_song": "Não se realizou.",
+      "second_artist": "Não se realizou.",
+      "date": "Não se realizou.",
+      "venue": "Não se realizou."
+    },
+    {
+      "year": 2017,
+      "song": "Amar pelos dois",
+      "artist": "Salvador Sobral",
+      "points": "22",
+      "second_song": "Nova glória",
+      "second_artist": "Viva La Diva",
+      "date": "5 de Março de 2017",
+      "venue": "Coliseu dos Recreios, Lisboa"
+    },
+    {
+      "year": 2018,
+      "song": "O jardim",
+      "artist": "Cláudia Pascoal",
+      "points": "22",
+      "second_song": "Para sorrir eu não preciso de nada",
+      "second_artist": "Catarina Miranda",
+      "date": "4 de Março de 2018",
+      "venue": "Multiusos de Guimarães, Guimarães"
+    },
+    {
+      "year": 2019,
+      "song": "Telemóveis",
+      "artist": "Conan Osíris",
+      "points": "24",
+      "second_song": "Igual a ti",
+      "second_artist": "NBC",
+      "date": "2 de Março de 2019",
+      "venue": "Portimão Arena, Portimão"
+    },
+    {
+      "year": 2020,
+      "song": "Medo de sentir",
+      "artist": "Elisa",
+      "points": "20",
+      "second_song": "Passe-Partout",
+      "second_artist": "Bárbara Tinoco",
+      "date": "7 de Março de 2020",
+      "venue": "Coliseu de Elvas, Elvas"
+    },
+    {
+      "year": 2021,
+      "song": "Love is on my side",
+      "artist": "The Black Mamba",
+      "points": "20",
+      "second_song": "Por um triz",
+      "second_artist": "Carolina Deslandes",
+      "date": "6 de março de 2021",
+      "venue": "Estúdio da RTP, Lisboa"
+    },
+    {
+      "year": 2022,
+      "song": "Saudade, saudade",
+      "artist": "Maro",
+      "points": "24",
+      "second_song": "Amanhã",
+      "second_artist": "Os Quatro e Meia",
+      "date": "12 de março de 2022",
+      "venue": "Estúdio da RTP, Lisboa"
+    },
+    {
+      "year": 2023,
+      "song": "Ai Coração",
+      "artist": "Mimicat",
+      "points": "24",
+      "second_song": "Festa",
+      "second_artist": "Edmundo Inácio",
+      "date": "11 de março de 2023",
+      "venue": "Estúdio da RTP, Lisboa"
+    }
+  ],
+  "meta": {
+    "title": "Vencedores do Festival RTP da Canção - Free Download",
+    "description": "Canções e artistas vencedores do Festival RTP da Canção desde 1964, com pontuação, segundo classificado, data e local. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vencedores do Festival RTP da Canção | ListBase",
+    "seo_description": "Download Vencedores do Festival RTP da Canção — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Vencedores_do_Festival_RTP_da_Canção"
+    ]
+  }
+}
