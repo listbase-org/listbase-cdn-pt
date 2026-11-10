@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-09T02:21:46.426Z",
-  "total_datasets": 542,
-  "total_records": 743450,
+  "generated": "2026-11-10T02:25:37.233Z",
+  "total_datasets": 543,
+  "total_records": 743650,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -1604,6 +1604,34 @@
         "xlsx": {
           "name": "pt-canais-tv-series_PT.xlsx",
           "size": 7663
+        }
+      }
+    },
+    {
+      "id": "pt-areas-protegidas-portugal",
+      "name": "Áreas protegidas de Portugal",
+      "category": "environment",
+      "record_count": 200,
+      "columns": [
+        "name",
+        "type",
+        "created",
+        "area_km2",
+        "natura2000_code",
+        "region",
+        "wikidata"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_áreas_protegidas_de_Portugal",
+      "updated": "2026-11",
+      "size": 54615,
+      "files": {
+        "csv": {
+          "name": "pt-areas-protegidas-portugal_PT.csv",
+          "size": 25253
+        },
+        "xlsx": {
+          "name": "pt-areas-protegidas-portugal_PT.xlsx",
+          "size": 18372
         }
       }
     },

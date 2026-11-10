@@ -1,0 +1,1861 @@
+{
+  "id": "pt-areas-protegidas-portugal",
+  "name": "Áreas protegidas de Portugal",
+  "title": "Áreas protegidas de Portugal",
+  "description": "Áreas protegidas de Portugal (parques e reservas naturais, sítios Natura 2000, ZPE, sítios Ramsar, áreas marinhas): tipo, ano de criação, área e código Natura 2000.",
+  "category": "environment",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_áreas_protegidas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_áreas_protegidas_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 200,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "created",
+      "label": "Created",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "natura2000_code",
+      "label": "Natura2000 Code",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aveiro/ Nazaré",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2015,
+      "area_km2": 2929.2865,
+      "natura2000_code": "PTZPE0060",
+      "region": "Aveiro",
+      "wikidata": "Q63378431"
+    },
+    {
+      "name": "Barrinha de Esmoriz",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 3.9615,
+      "natura2000_code": "PTCON0018",
+      "region": "Aveiro",
+      "wikidata": "Q16497003"
+    },
+    {
+      "name": "Dunas de Mira, Gândara e Gafanhas",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 205.2936,
+      "natura2000_code": "PTCON0055",
+      "region": "Aveiro",
+      "wikidata": "Q20053762"
+    },
+    {
+      "name": "lagoa da Pateira de Fermentelos e vale dos rios Águeda e Cértima",
+      "type": "sítio Ramsar",
+      "created": 2012,
+      "area_km2": 15.59,
+      "natura2000_code": "",
+      "region": "Aveiro",
+      "wikidata": "Q63378382"
+    },
+    {
+      "name": "Paul de Arzila (Zona de Proteção Especial)",
+      "type": "Zona de Protecção Especial",
+      "created": 1988,
+      "area_km2": 4.7705,
+      "natura2000_code": "PTZPE0005",
+      "region": "Aveiro",
+      "wikidata": "Q63378816"
+    },
+    {
+      "name": "Paúl de Arzila",
+      "type": "sítio Ramsar",
+      "created": 1996,
+      "area_km2": 5.85,
+      "natura2000_code": "",
+      "region": "Aveiro",
+      "wikidata": "Q63378356"
+    },
+    {
+      "name": "Reserva Natural das Dunas de São Jacinto",
+      "type": "reserva natural área protegida",
+      "created": 1979,
+      "area_km2": 9.9579998,
+      "natura2000_code": "",
+      "region": "Aveiro",
+      "wikidata": "Q10359748"
+    },
+    {
+      "name": "Ria de Aveiro",
+      "type": "ria Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 2014,
+      "area_km2": 331.2749,
+      "natura2000_code": "PTCON0061",
+      "region": "Aveiro",
+      "wikidata": "Q379557"
+    },
+    {
+      "name": "Ria de Aveiro",
+      "type": "Zona de Protecção Especial",
+      "created": 1990,
+      "area_km2": 514.4621,
+      "natura2000_code": "PTZPE0004",
+      "region": "Aveiro",
+      "wikidata": "Q63378386"
+    },
+    {
+      "name": "Serra de Montemuro",
+      "type": "serra área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 388.0395,
+      "natura2000_code": "PTCON0025",
+      "region": "Aveiro",
+      "wikidata": "Q10370414"
+    },
+    {
+      "name": "Serras da Freita e Arada",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 286.57,
+      "natura2000_code": "PTCON0047",
+      "region": "Aveiro",
+      "wikidata": "Q55080922"
+    },
+    {
+      "name": "Serra da Malcata",
+      "type": "serra Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 163.4706,
+      "natura2000_code": "PTZPE0007",
+      "region": "Beira Interior",
+      "wikidata": "Q9077158"
+    },
+    {
+      "name": "Alvito/Cuba",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 9.2298,
+      "natura2000_code": "PTCON0035",
+      "region": "Beja",
+      "wikidata": "Q63378483"
+    },
+    {
+      "name": "Castro Verde",
+      "type": "reserva da biosfera Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": "",
+      "area_km2": 853.4301,
+      "natura2000_code": "PTZPE0046",
+      "region": "Beja",
+      "wikidata": "Q54828077"
+    },
+    {
+      "name": "Costa Sudoeste",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 1006.85,
+      "natura2000_code": "PTZPE0015",
+      "region": "Beja",
+      "wikidata": "Q63378424"
+    },
+    {
+      "name": "Costa Sudoeste (Sítio de Importância Comunitária)",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 1182.6349,
+      "natura2000_code": "PTCON0012",
+      "region": "Beja",
+      "wikidata": "Q63378826"
+    },
+    {
+      "name": "Cuba",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2008,
+      "area_km2": 40.808,
+      "natura2000_code": "PTZPE0057",
+      "region": "Beja",
+      "wikidata": "Q63378410"
+    },
+    {
+      "name": "Moura / Barrancos",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 433.0873,
+      "natura2000_code": "PTCON0053",
+      "region": "Beja",
+      "wikidata": "Q55080930"
+    },
+    {
+      "name": "Parque Natural do Sudoeste Alentejano e Costa Vicentina",
+      "type": "parque natural paisagem protegida área protegida",
+      "created": 1988,
+      "area_km2": 895.7189843,
+      "natura2000_code": "",
+      "region": "Beja",
+      "wikidata": "Q1548840"
+    },
+    {
+      "name": "Piçarras",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2008,
+      "area_km2": 28.2735,
+      "natura2000_code": "PTZPE0058",
+      "region": "Beja",
+      "wikidata": "Q63378399"
+    },
+    {
+      "name": "Sitio de Importância Comunitária do Guadiana",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 384.6199,
+      "natura2000_code": "PTCON0036",
+      "region": "Beja",
+      "wikidata": "Q63481145"
+    },
+    {
+      "name": "Vale do Guadiana",
+      "type": "Zona de Protecção Especial",
+      "created": 1999,
+      "area_km2": 765.43,
+      "natura2000_code": "PTZPE0047",
+      "region": "Beja",
+      "wikidata": "Q63378442"
+    },
+    {
+      "name": "Litoral Norte (Marine Protected Area)",
+      "type": "Marine Protected Area (OSPAR)",
+      "created": 2015,
+      "area_km2": 74,
+      "natura2000_code": "",
+      "region": "Braga",
+      "wikidata": "Q63378381"
+    },
+    {
+      "name": "Douro Internacional",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 357.186,
+      "natura2000_code": "PTCON0022",
+      "region": "Bragança",
+      "wikidata": "Q63378450"
+    },
+    {
+      "name": "Minas de St. Adrião",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 35.0703,
+      "natura2000_code": "PTCON0042",
+      "region": "Bragança",
+      "wikidata": "Q63378484"
+    },
+    {
+      "name": "Montesinho / Nogueira",
+      "type": "Zona de Protecção Especial",
+      "created": 1988,
+      "area_km2": 1080.0463,
+      "natura2000_code": "PTZPE0003",
+      "region": "Bragança",
+      "wikidata": "Q63378412"
+    },
+    {
+      "name": "Montesinho/Nogueira (Sítio de Importância Comunitária)",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 1077.1284,
+      "natura2000_code": "PTCON0002",
+      "region": "Bragança",
+      "wikidata": "Q63378821"
+    },
+    {
+      "name": "Morais",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 129.7957,
+      "natura2000_code": "PTCON0023",
+      "region": "Bragança",
+      "wikidata": "Q15256074"
+    },
+    {
+      "name": "Paisagem Protegida da Albufeira do Azibo",
+      "type": "paisagem protegida área protegida",
+      "created": 1999,
+      "area_km2": 32.8169531,
+      "natura2000_code": "",
+      "region": "Bragança",
+      "wikidata": "Q4832565"
+    },
+    {
+      "name": "Parque Natural de Montesinho",
+      "type": "parque natural área protegida",
+      "created": 1979,
+      "area_km2": 742.29375,
+      "natura2000_code": "",
+      "region": "Bragança",
+      "wikidata": "Q3364588"
+    },
+    {
+      "name": "Serra da Estrela",
+      "type": "cordilheira serra área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": 1998,
+      "area_km2": 882.8741,
+      "natura2000_code": "PTCON0014",
+      "region": "Castelo Branco",
+      "wikidata": "Q738004"
+    },
+    {
+      "name": "Serra da Gardunha",
+      "type": "montanha serra área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 59.3526,
+      "natura2000_code": "PTCON0028",
+      "region": "Castelo Branco",
+      "wikidata": "Q3028369"
+    },
+    {
+      "name": "Serra da Gardunha (paisagem protegida regional)",
+      "type": "paisagem protegida regional área protegida",
+      "created": 2015,
+      "area_km2": 105.074855,
+      "natura2000_code": "",
+      "region": "Castelo Branco",
+      "wikidata": "Q63378840"
+    },
+    {
+      "name": "Serra do Açor",
+      "type": "serra cordilheira área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 13.6312,
+      "natura2000_code": "PTCON0051",
+      "region": "Castelo Branco",
+      "wikidata": "Q10370452"
+    },
+    {
+      "name": "Tejo Internacional; Erges e Pônsul",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 257.748,
+      "natura2000_code": "PTZPE0042",
+      "region": "Castelo Branco",
+      "wikidata": "Q63378406"
+    },
+    {
+      "name": "Estuário do Mondego",
+      "type": "sítio Ramsar",
+      "created": 2005,
+      "area_km2": 15.18,
+      "natura2000_code": "",
+      "region": "Coimbra",
+      "wikidata": "Q63378366"
+    },
+    {
+      "name": "Monumento Natural do Cabo Mondego",
+      "type": "monumento natural área protegida",
+      "created": 2007,
+      "area_km2": 1.1769999,
+      "natura2000_code": "",
+      "region": "Coimbra",
+      "wikidata": "Q10332134"
+    },
+    {
+      "name": "Paisagem Protegida da Serra do Açor",
+      "type": "paisagem protegida área protegida",
+      "created": 1982,
+      "area_km2": 3.7339999,
+      "natura2000_code": "",
+      "region": "Coimbra",
+      "wikidata": "Q7455252"
+    },
+    {
+      "name": "Paul da Madriz",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 0.8935,
+      "natura2000_code": "PTZPE0006",
+      "region": "Coimbra",
+      "wikidata": "Q63378401"
+    },
+    {
+      "name": "Paul do Taipal",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1990,
+      "area_km2": 2.2141,
+      "natura2000_code": "PTZPE0040",
+      "region": "Coimbra",
+      "wikidata": "Q63378393"
+    },
+    {
+      "name": "Paúl de Madriz",
+      "type": "sítio Ramsar",
+      "created": 1996,
+      "area_km2": 2.26,
+      "natura2000_code": "",
+      "region": "Coimbra",
+      "wikidata": "Q63378357"
+    },
+    {
+      "name": "Paúl do Taipal",
+      "type": "sítio Ramsar",
+      "created": 2001,
+      "area_km2": 2.33,
+      "natura2000_code": "",
+      "region": "Coimbra",
+      "wikidata": "Q63378354"
+    },
+    {
+      "name": "Reserva Natural do Paul de Arzila",
+      "type": "reserva natural área protegida da rede Natura 2000 área protegida Sítio de importância comunitária",
+      "created": 1988,
+      "area_km2": 5.8679998,
+      "natura2000_code": "PTCON0005",
+      "region": "Coimbra",
+      "wikidata": "Q10359754"
+    },
+    {
+      "name": "Serra da Lousã",
+      "type": "serra cordilheira área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 151.5734,
+      "natura2000_code": "PTCON0060",
+      "region": "Coimbra",
+      "wikidata": "Q10370357"
+    },
+    {
+      "name": "Terras de Sicó",
+      "type": "serra cordilheira área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": "",
+      "natura2000_code": "PTCON0045",
+      "region": "Coimbra",
+      "wikidata": "Q130394954"
+    },
+    {
+      "name": "Estuário do Tejo (Sítio de Importância Comunitária)",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 440.1128,
+      "natura2000_code": "PTCON0009",
+      "region": "Estremadura",
+      "wikidata": "Q63378834"
+    },
+    {
+      "name": "Estuário do Tejo (Zona de Proteção Especial)",
+      "type": "Zona de Protecção Especial",
+      "created": 1988,
+      "area_km2": 447.7246,
+      "natura2000_code": "PTZPE0010",
+      "region": "Estremadura",
+      "wikidata": "Q63378813"
+    },
+    {
+      "name": "Arade / Odelouca",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 21.3874,
+      "natura2000_code": "PTCON0052",
+      "region": "Faro",
+      "wikidata": "Q63378522"
+    },
+    {
+      "name": "Barrocal",
+      "type": "Sítio de importância comunitária Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": "",
+      "area_km2": 208.6036,
+      "natura2000_code": "PTCON0049",
+      "region": "Faro",
+      "wikidata": "Q9649367"
+    },
+    {
+      "name": "Caldeirão",
+      "type": "Zona de Protecção Especial",
+      "created": 2004,
+      "area_km2": 473.4754,
+      "natura2000_code": "PTCON0057",
+      "region": "Faro",
+      "wikidata": "Q63378385"
+    },
+    {
+      "name": "Cerro da Cabeça",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 5.7402,
+      "natura2000_code": "PTCON0050",
+      "region": "Faro",
+      "wikidata": "Q9736189"
+    },
+    {
+      "name": "Leixão da Gaivota",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 0.0016,
+      "natura2000_code": "PTZPE0016",
+      "region": "Faro",
+      "wikidata": "Q63378403"
+    },
+    {
+      "name": "Monchique",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2004,
+      "area_km2": 765.4074,
+      "natura2000_code": "PTCON0037",
+      "region": "Faro",
+      "wikidata": "Q63378411"
+    },
+    {
+      "name": "Parque Natural da Ria Formosa",
+      "type": "parque natural reserva natural sítio Ramsar área protegida",
+      "created": 1978,
+      "area_km2": 179.0090039,
+      "natura2000_code": "",
+      "region": "Faro",
+      "wikidata": "Q61715781"
+    },
+    {
+      "name": "Reserva Natural do Sapal de Castro Marim e Vila Real de Santo António",
+      "type": "reserva natural área protegida",
+      "created": 1975,
+      "area_km2": 23.0819995,
+      "natura2000_code": "",
+      "region": "Faro",
+      "wikidata": "Q5050789"
+    },
+    {
+      "name": "Ria de Alvor",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 14.54,
+      "natura2000_code": "PTCON0058",
+      "region": "Faro",
+      "wikidata": "Q111420081"
+    },
+    {
+      "name": "Ria Formosa",
+      "type": "sítio Ramsar área protegida da rede Natura 2000",
+      "created": 1980,
+      "area_km2": 160,
+      "natura2000_code": "",
+      "region": "Faro",
+      "wikidata": "Q63378355"
+    },
+    {
+      "name": "Ria Formosa (Zona de Proteção Especial)",
+      "type": "Zona de Protecção Especial",
+      "created": 1988,
+      "area_km2": 232.6921,
+      "natura2000_code": "PTZPE0017",
+      "region": "Faro",
+      "wikidata": "Q63378817"
+    },
+    {
+      "name": "Ria Formosa/Castro Marim",
+      "type": "Sítio de importância comunitária Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": "",
+      "area_km2": 175.1923,
+      "natura2000_code": "PTCON0013",
+      "region": "Faro",
+      "wikidata": "Q61715911"
+    },
+    {
+      "name": "Ribeira de Quarteira",
+      "type": "rio área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 5.8241,
+      "natura2000_code": "PTCON0038",
+      "region": "Faro",
+      "wikidata": "Q10360793"
+    },
+    {
+      "name": "Ribeira do Vascão",
+      "type": "sítio Ramsar",
+      "created": 2012,
+      "area_km2": 443.31,
+      "natura2000_code": "",
+      "region": "Faro",
+      "wikidata": "Q63378383"
+    },
+    {
+      "name": "Rocha da Pena",
+      "type": "monumento natural",
+      "created": "",
+      "area_km2": 6.72,
+      "natura2000_code": "",
+      "region": "Faro",
+      "wikidata": "Q1584266"
+    },
+    {
+      "name": "Sapais de Castro Marim",
+      "type": "sítio Ramsar",
+      "created": 1996,
+      "area_km2": 22.35,
+      "natura2000_code": "",
+      "region": "Faro",
+      "wikidata": "Q63378361"
+    },
+    {
+      "name": "Sapais de Castro Marim (Zona de Proteção Especial)",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 21.4643,
+      "natura2000_code": "PTZPE0018",
+      "region": "Faro",
+      "wikidata": "Q63378815"
+    },
+    {
+      "name": "Sítio Classificado da Fonte Benémola",
+      "type": "área protegida paisagem protegida local",
+      "created": 1991,
+      "area_km2": 4.0639999,
+      "natura2000_code": "",
+      "region": "Faro",
+      "wikidata": "Q10376492"
+    },
+    {
+      "name": "Reserva da Faia Brava",
+      "type": "Área protegida privada área protegida",
+      "created": 2010,
+      "area_km2": 2.1466554,
+      "natura2000_code": "",
+      "region": "Figueira de Castelo Rodrigo",
+      "wikidata": "Q59243332"
+    },
+    {
+      "name": "Planalto Superior da Serra da Estrela e Parte Superior do Rio Zêzere",
+      "type": "sítio Ramsar",
+      "created": 2005,
+      "area_km2": 50.75,
+      "natura2000_code": "",
+      "region": "Guarda",
+      "wikidata": "Q63378363"
+    },
+    {
+      "name": "Vale do Côa",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1990,
+      "area_km2": 206.2557,
+      "natura2000_code": "PTZPE0039",
+      "region": "Guarda",
+      "wikidata": "Q63378405"
+    },
+    {
+      "name": "Arquipélago das Berlengas",
+      "type": "grupo insular área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 0.9577,
+      "natura2000_code": "PTCON0006",
+      "region": "Leiria",
+      "wikidata": "Q821015"
+    },
+    {
+      "name": "Azabuxo-Leiria",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 1.3649,
+      "natura2000_code": "PTCON0046",
+      "region": "Leiria",
+      "wikidata": "Q63378463"
+    },
+    {
+      "name": "Berlengas",
+      "type": "reserva da biosfera UNESCO-MAB Biosphere Reserve",
+      "created": "",
+      "area_km2": 0.188,
+      "natura2000_code": "",
+      "region": "Leiria",
+      "wikidata": "Q22771851"
+    },
+    {
+      "name": "Berlengas (Marine Protected Area (OSPAR))",
+      "type": "Marine Protected Area (OSPAR)",
+      "created": 2015,
+      "area_km2": 96,
+      "natura2000_code": "",
+      "region": "Leiria",
+      "wikidata": "Q63378812"
+    },
+    {
+      "name": "Ilhas Berlengas",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 1026.625,
+      "natura2000_code": "PTZPE0009",
+      "region": "Leiria",
+      "wikidata": "Q63378430"
+    },
+    {
+      "name": "Parque Natural das Serras de Aire e Candeeiros",
+      "type": "parque natural área protegida",
+      "created": 1979,
+      "area_km2": 383.925,
+      "natura2000_code": "",
+      "region": "Leiria",
+      "wikidata": "Q3364596"
+    },
+    {
+      "name": "Paul de Tornada",
+      "type": "sítio Ramsar reserva natural local área protegida",
+      "created": 2009,
+      "area_km2": 0.5,
+      "natura2000_code": "",
+      "region": "Leiria",
+      "wikidata": "Q10346308"
+    },
+    {
+      "name": "Peniche / Santa Cruz",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 82.8554,
+      "natura2000_code": "PTCON0056",
+      "region": "Leiria",
+      "wikidata": "Q55080933"
+    },
+    {
+      "name": "Reserva Natural das Berlengas",
+      "type": "reserva natural área protegida",
+      "created": 1981,
+      "area_km2": 95.6040039,
+      "natura2000_code": "",
+      "region": "Leiria",
+      "wikidata": "Q3457408"
+    },
+    {
+      "name": "Serras d'Aire e Candeeiros",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 442.268,
+      "natura2000_code": "PTCON0015",
+      "region": "Leiria",
+      "wikidata": "Q63378517"
+    },
+    {
+      "name": "Sicó / Alvaiázere",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 316.7709,
+      "natura2000_code": "PTCON0045",
+      "region": "Leiria",
+      "wikidata": "Q55080926"
+    },
+    {
+      "name": "Cabo Raso",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000 cabo",
+      "created": 2015,
+      "area_km2": 1335.4686,
+      "natura2000_code": "PTZPE0061",
+      "region": "Lisboa",
+      "wikidata": "Q63378394"
+    },
+    {
+      "name": "Parque Natural de Sintra-Cascais",
+      "type": "parque natural Sítio de importância comunitária área protegida da rede Natura 2000 área protegida",
+      "created": 1981,
+      "area_km2": 144.507998,
+      "natura2000_code": "PTCON0008",
+      "region": "Lisboa",
+      "wikidata": "Q7525142"
+    },
+    {
+      "name": "Serra de Montejunto",
+      "type": "serra paisagem protegida área protegida",
+      "created": 1999,
+      "area_km2": 48.973999,
+      "natura2000_code": "",
+      "region": "Lisboa",
+      "wikidata": "Q7455225"
+    },
+    {
+      "name": "Serra de Montejunto (Sítio de Importância Comunitária)",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 38.3049,
+      "natura2000_code": "PTCON0048",
+      "region": "Lisboa",
+      "wikidata": "Q63378828"
+    },
+    {
+      "name": "Serras do Socorro e Archeira",
+      "type": "paisagem protegida local área protegida",
+      "created": 2014,
+      "area_km2": 11.91,
+      "natura2000_code": "",
+      "region": "Lisboa",
+      "wikidata": "Q63378684"
+    },
+    {
+      "name": "Reserva da Biosfera Transfronteiriça Gerês-Xurés",
+      "type": "reserva da biosfera UNESCO-MAB Biosphere Reserve",
+      "created": 2009,
+      "area_km2": 119.6,
+      "natura2000_code": "",
+      "region": "Minho",
+      "wikidata": "Q22680843"
+    },
+    {
+      "name": "Parque Natural do Vale do Guadiana",
+      "type": "parque natural área protegida da rede Natura 2000 área protegida",
+      "created": 1995,
+      "area_km2": 696.6929687,
+      "natura2000_code": "",
+      "region": "Mértola",
+      "wikidata": "Q145359"
+    },
+    {
+      "name": "Cabeção",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 486.0861,
+      "natura2000_code": "PTCON0029",
+      "region": "Portalegre",
+      "wikidata": "Q55080941"
+    },
+    {
+      "name": "Caia",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 310.8707,
+      "natura2000_code": "PTCON0030",
+      "region": "Portalegre",
+      "wikidata": "Q63378462"
+    },
+    {
+      "name": "Campo Maior",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 95.7958,
+      "natura2000_code": "PTZPE0043",
+      "region": "Portalegre",
+      "wikidata": "Q63378440"
+    },
+    {
+      "name": "Monforte",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 18.8736,
+      "natura2000_code": "PTZPE0051",
+      "region": "Portalegre",
+      "wikidata": "Q63378426"
+    },
+    {
+      "name": "Parque Natural da Serra de São Mamede",
+      "type": "objeto geográfico parque natural área protegida",
+      "created": 1989,
+      "area_km2": 560.5889843,
+      "natura2000_code": "",
+      "region": "Portalegre",
+      "wikidata": "Q7455242"
+    },
+    {
+      "name": "Serra de São Mamede",
+      "type": "cordilheira serra área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 1156.7553,
+      "natura2000_code": "PTCON0007",
+      "region": "Portalegre",
+      "wikidata": "Q2273942"
+    },
+    {
+      "name": "São Vicente",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 35.649,
+      "natura2000_code": "PTZPE0054",
+      "region": "Portalegre",
+      "wikidata": "Q63378443"
+    },
+    {
+      "name": "Torre da Bolsa",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2008,
+      "area_km2": 8.6884,
+      "natura2000_code": "PTZPE0059",
+      "region": "Portalegre",
+      "wikidata": "Q63378428"
+    },
+    {
+      "name": "Veiros",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 19.5951,
+      "natura2000_code": "PTZPE0052",
+      "region": "Portalegre",
+      "wikidata": "Q63378427"
+    },
+    {
+      "name": "Vila Fernando",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 52.6066,
+      "natura2000_code": "PTZPE0053",
+      "region": "Portalegre",
+      "wikidata": "Q63378408"
+    },
+    {
+      "name": "Paisagem Protegida Regional do Litoral de Vila do Conde e Reserva Ornitológica de Mindelo",
+      "type": "paisagem protegida regional área protegida",
+      "created": 2009,
+      "area_km2": 3.7961044,
+      "natura2000_code": "",
+      "region": "Porto",
+      "wikidata": "Q10343652"
+    },
+    {
+      "name": "Reserva Natural Local do Estuário do Douro",
+      "type": "reserva natural reserva natural local área protegida",
+      "created": 2009,
+      "area_km2": 0.6635918,
+      "natura2000_code": "",
+      "region": "Porto",
+      "wikidata": "Q52855310"
+    },
+    {
+      "name": "Parque Natural do Douro Internacional",
+      "type": "parque natural área protegida",
+      "created": 1998,
+      "area_km2": 870.1129687,
+      "natura2000_code": "",
+      "region": "Região Norte",
+      "wikidata": "Q5842992"
+    },
+    {
+      "name": "Parque Natural do Litoral Norte",
+      "type": "parque natural área protegida",
+      "created": 1987,
+      "area_km2": 87.627,
+      "natura2000_code": "",
+      "region": "Região Norte",
+      "wikidata": "Q7058679"
+    },
+    {
+      "name": "Reserva Natural da Serra da Malcata",
+      "type": "área protegida reserva natural",
+      "created": 1981,
+      "area_km2": 161.5870019,
+      "natura2000_code": "",
+      "region": "Região do Centro",
+      "wikidata": "Q918892"
+    },
+    {
+      "name": "Rio Vouga",
+      "type": "rio área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 27.6885,
+      "natura2000_code": "PTCON0026",
+      "region": "Região do Centro",
+      "wikidata": "Q15653"
+    },
+    {
+      "name": "Monumento Natural das Pegadas de Dinossáurio de Ourém - Torres Novas",
+      "type": "monumento natural",
+      "created": 1996,
+      "area_km2": 0.54,
+      "natura2000_code": "",
+      "region": "Santarém",
+      "wikidata": "Q10332130"
+    },
+    {
+      "name": "Paul do Boquilobo",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 4.3279,
+      "natura2000_code": "PTZPE0008",
+      "region": "Santarém",
+      "wikidata": "Q63378421"
+    },
+    {
+      "name": "Paúl do Boquilobo",
+      "type": "UNESCO-MAB Biosphere Reserve reserva da biosfera",
+      "created": 1981,
+      "area_km2": 5.54,
+      "natura2000_code": "",
+      "region": "Santarém",
+      "wikidata": "Q63378348"
+    },
+    {
+      "name": "Paúl do Boquilobo (sítio Ramsar)",
+      "type": "sítio Ramsar",
+      "created": 1996,
+      "area_km2": 5.29,
+      "natura2000_code": "",
+      "region": "Santarém",
+      "wikidata": "Q63378809"
+    },
+    {
+      "name": "Polje de Mira Minde e nascentes relacionadas",
+      "type": "sítio Ramsar",
+      "created": 2005,
+      "area_km2": 6.62,
+      "natura2000_code": "",
+      "region": "Santarém",
+      "wikidata": "Q63378365"
+    },
+    {
+      "name": "Reserva Natural do Paul do Boquilobo",
+      "type": "reserva natural área protegida paul",
+      "created": 1980,
+      "area_km2": 8.1759997,
+      "natura2000_code": "",
+      "region": "Santarém",
+      "wikidata": "Q4944223"
+    },
+    {
+      "name": "Sítio Classificado dos Açudes da Agolada",
+      "type": "paisagem protegida local área protegida",
+      "created": 1980,
+      "area_km2": 2.6639999,
+      "natura2000_code": "",
+      "region": "Santarém",
+      "wikidata": "Q10376499"
+    },
+    {
+      "name": "Arrabida",
+      "type": "Marine Protected Area (OSPAR)",
+      "created": 2015,
+      "area_km2": 53,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q63378380"
+    },
+    {
+      "name": "Arrábida/Espichel",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 206.6192,
+      "natura2000_code": "PTCON0010",
+      "region": "Setúbal",
+      "wikidata": "Q63378499"
+    },
+    {
+      "name": "Açude da Murta",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 4.9771,
+      "natura2000_code": "PTZPE0012",
+      "region": "Setúbal",
+      "wikidata": "Q63378422"
+    },
+    {
+      "name": "Cabo Espichel",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000 promontório",
+      "created": 1999,
+      "area_km2": 164.2796,
+      "natura2000_code": "PTZPE0050",
+      "region": "Setúbal",
+      "wikidata": "Q63378387"
+    },
+    {
+      "name": "Comporta / Galé",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 320.5107,
+      "natura2000_code": "PTCON0034",
+      "region": "Setúbal",
+      "wikidata": "Q55080938"
+    },
+    {
+      "name": "Estuário do Sado",
+      "type": "sítio Ramsar",
+      "created": 1996,
+      "area_km2": 255.88,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q63378353"
+    },
+    {
+      "name": "Estuário do Sado (Sítio de Importância Comunitária)",
+      "type": "Sítio de importância comunitária",
+      "created": 1997,
+      "area_km2": 309.6784,
+      "natura2000_code": "PTCON0011",
+      "region": "Setúbal",
+      "wikidata": "Q63378822"
+    },
+    {
+      "name": "Estuário do Sado (Zona de Proteção Especial)",
+      "type": "Zona de Protecção Especial",
+      "created": 1988,
+      "area_km2": 246.3285,
+      "natura2000_code": "PTZPE0011",
+      "region": "Setúbal",
+      "wikidata": "Q63378814"
+    },
+    {
+      "name": "Lagoa da Albufeira",
+      "type": "sítio Ramsar",
+      "created": 1996,
+      "area_km2": 19.95,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q63378352"
+    },
+    {
+      "name": "Lagoa da Sancha",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 4.0879,
+      "natura2000_code": "PTZPE0014",
+      "region": "Setúbal",
+      "wikidata": "Q63378438"
+    },
+    {
+      "name": "Lagoa de Albufeira",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 43183.7,
+      "natura2000_code": "PTCON0054",
+      "region": "Setúbal",
+      "wikidata": "Q10315752"
+    },
+    {
+      "name": "Lagoa de Santo André",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1988,
+      "area_km2": 21.6454,
+      "natura2000_code": "PTZPE0013",
+      "region": "Setúbal",
+      "wikidata": "Q63378423"
+    },
+    {
+      "name": "Lagoa de St. André e Lagoa de Sancha",
+      "type": "sítio Ramsar",
+      "created": 1996,
+      "area_km2": 26.38,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q63378360"
+    },
+    {
+      "name": "Lagoa Pequena",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 0.6877,
+      "natura2000_code": "PTZPE0049",
+      "region": "Setúbal",
+      "wikidata": "Q63378407"
+    },
+    {
+      "name": "Lagoas de Santo Andre e Sancha",
+      "type": "Marine Protected Area (OSPAR)",
+      "created": 2015,
+      "area_km2": 21,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q63378379"
+    },
+    {
+      "name": "Mata Nacional dos Medos",
+      "type": "reserva botânica área protegida",
+      "created": 1971,
+      "area_km2": 3.7869741,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q10327238"
+    },
+    {
+      "name": "Paisagem Protegida da Arriba Fóssil da Costa de Caparica",
+      "type": "paisagem protegida área protegida",
+      "created": 1984,
+      "area_km2": 15.515,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q10343656"
+    },
+    {
+      "name": "Parque Natural da Arrábida",
+      "type": "parque natural área protegida",
+      "created": 1976,
+      "area_km2": 176.530996,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q3049849"
+    },
+    {
+      "name": "Reserva Natural das Lagoas de Santo André e da Sancha",
+      "type": "reserva natural área protegida",
+      "created": 2000,
+      "area_km2": 52.6570703,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q10359752"
+    },
+    {
+      "name": "Reserva Natural do Estuário do Sado",
+      "type": "área protegida da rede Natura 2000 reserva natural área protegida",
+      "created": 1980,
+      "area_km2": 239.7130078,
+      "natura2000_code": "",
+      "region": "Setúbal",
+      "wikidata": "Q2145586"
+    },
+    {
+      "name": "Douro Internacional e Vale do Águeda",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1990,
+      "area_km2": 507.6935,
+      "natura2000_code": "PTZPE0038",
+      "region": "Trás-os-Montes e Alto Douro",
+      "wikidata": "Q63378392"
+    },
+    {
+      "name": "Rios Sabor e Maçãs",
+      "type": "Zona de Protecção Especial",
+      "created": 1990,
+      "area_km2": 507.2261,
+      "natura2000_code": "PTZPE0037",
+      "region": "Trás-os-Montes e Alto Douro",
+      "wikidata": "Q63378439"
+    },
+    {
+      "name": "Rios Sabor e Maçãs",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 333.0106,
+      "natura2000_code": "PTCON0021",
+      "region": "Trás-os-Montes e Alto Douro",
+      "wikidata": "Q63378835"
+    },
+    {
+      "name": "Côrno do Bico",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 51.3897,
+      "natura2000_code": "PTCON0040",
+      "region": "Viana do Castelo",
+      "wikidata": "Q63378520"
+    },
+    {
+      "name": "Estuários dos Rios Minho e Coura",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2003,
+      "area_km2": 33.9262,
+      "natura2000_code": "PTZPE0001",
+      "region": "Viana do Castelo",
+      "wikidata": "Q63378437"
+    },
+    {
+      "name": "Lagoas de Bertiandos e de S. Pedro de Arcos",
+      "type": "laguna área protegida",
+      "created": 2005,
+      "area_km2": 3.46,
+      "natura2000_code": "",
+      "region": "Viana do Castelo",
+      "wikidata": "Q63378362"
+    },
+    {
+      "name": "Litoral Norte (Sítio de Importância Comunitária)",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 27.9712,
+      "natura2000_code": "PTCON0017",
+      "region": "Viana do Castelo",
+      "wikidata": "Q63378827"
+    },
+    {
+      "name": "Paisagem Protegida das Lagoas de Bertiandos e São Pedro dos Arcos",
+      "type": "paisagem protegida área protegida",
+      "created": 2000,
+      "area_km2": 3.456,
+      "natura2000_code": "",
+      "region": "Viana do Castelo",
+      "wikidata": "Q4895599"
+    },
+    {
+      "name": "Paisagem Protegida do Corno do Bico",
+      "type": "paisagem protegida área protegida",
+      "created": 1999,
+      "area_km2": 21.8119995,
+      "natura2000_code": "",
+      "region": "Viana do Castelo",
+      "wikidata": "Q5171884"
+    },
+    {
+      "name": "Parque Nacional da Peneda-Gerês",
+      "type": "parque nacional património cultural área protegida",
+      "created": 1971,
+      "area_km2": 695.925,
+      "natura2000_code": "",
+      "region": "Viana do Castelo",
+      "wikidata": "Q1473702"
+    },
+    {
+      "name": "Serra de Arga",
+      "type": "serra área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 44.9294,
+      "natura2000_code": "PTCON0039",
+      "region": "Viana do Castelo",
+      "wikidata": "Q10370394"
+    },
+    {
+      "name": "Serra do Gerês",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1990,
+      "area_km2": 634.321,
+      "natura2000_code": "PTZPE0002",
+      "region": "Viana do Castelo",
+      "wikidata": "Q63378429"
+    },
+    {
+      "name": "Alvão/Marão",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 587.8378,
+      "natura2000_code": "PTCON0003",
+      "region": "Vila Real",
+      "wikidata": "Q63378474"
+    },
+    {
+      "name": "Parque Natural do Alvão",
+      "type": "parque natural área protegida",
+      "created": 1983,
+      "area_km2": 72.0270019,
+      "natura2000_code": "",
+      "region": "Vila Real",
+      "wikidata": "Q3364602"
+    },
+    {
+      "name": "Carregal do Sal",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 95.5297,
+      "natura2000_code": "PTCON0027",
+      "region": "Viseu",
+      "wikidata": "Q63378478"
+    },
+    {
+      "name": "Reserva Botânica de Cambarinho",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 0.2331,
+      "natura2000_code": "PTCON0016",
+      "region": "Viseu",
+      "wikidata": "Q10359649"
+    },
+    {
+      "name": "Rio Paiva",
+      "type": "rio área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 145.6159,
+      "natura2000_code": "PTCON0059",
+      "region": "Viseu",
+      "wikidata": "Q14617"
+    },
+    {
+      "name": "Açude do Monte da Barca",
+      "type": "paisagem protegida local área protegida",
+      "created": 1980,
+      "area_km2": 8.6779998,
+      "natura2000_code": "",
+      "region": "Évora",
+      "wikidata": "Q63378568"
+    },
+    {
+      "name": "Monfurado",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 239.4649,
+      "natura2000_code": "PTCON0031",
+      "region": "Évora",
+      "wikidata": "Q63378481"
+    },
+    {
+      "name": "Mourão/Moura/Barrancos",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 849.129,
+      "natura2000_code": "PTZPE0045",
+      "region": "Évora",
+      "wikidata": "Q63378441"
+    },
+    {
+      "name": "Reguengos",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2008,
+      "area_km2": 60.4265,
+      "natura2000_code": "PTZPE0056",
+      "region": "Évora",
+      "wikidata": "Q63378420"
+    },
+    {
+      "name": "Rio Guadiana / Juromenha",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 24.644,
+      "natura2000_code": "PTCON0032",
+      "region": "Évora",
+      "wikidata": "Q63378482"
+    },
+    {
+      "name": "Évora",
+      "type": "Zona de Protecção Especial área protegida da rede Natura 2000",
+      "created": 2008,
+      "area_km2": 147.0743,
+      "natura2000_code": "PTZPE0055",
+      "region": "Évora",
+      "wikidata": "Q63378409"
+    },
+    {
+      "name": "Algar do Carvão",
+      "type": "área protegida",
+      "created": 1987,
+      "area_km2": 0.393,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202145"
+    },
+    {
+      "name": "Banco de Gorringe",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": "",
+      "area_km2": 22927.7848,
+      "natura2000_code": "PTCON0062",
+      "region": "",
+      "wikidata": "Q1538407"
+    },
+    {
+      "name": "Baía de S. Lourenço",
+      "type": "área protegida",
+      "created": 1987,
+      "area_km2": 0.5974,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202489"
+    },
+    {
+      "name": "Cabrela",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 564.8748,
+      "natura2000_code": "PTCON0033",
+      "region": "",
+      "wikidata": "Q63378501"
+    },
+    {
+      "name": "Caldeira da Graciosa",
+      "type": "área protegida",
+      "created": 2004,
+      "area_km2": 1.1986,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202159"
+    },
+    {
+      "name": "Caldeira Velha",
+      "type": "área protegida",
+      "created": 2004,
+      "area_km2": 0.1316,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202151"
+    },
+    {
+      "name": "Carenque",
+      "type": "área protegida",
+      "created": 1997,
+      "area_km2": 0.061,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202153"
+    },
+    {
+      "name": "Estuário do Tejo",
+      "type": "estuário",
+      "created": 1980,
+      "area_km2": 145.63,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q25447299"
+    },
+    {
+      "name": "Floresta Laurissilva na Madeira",
+      "type": "Laurissilva património cultural património natural",
+      "created": "",
+      "area_km2": 150,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q11257230"
+    },
+    {
+      "name": "Furnas de Santo António",
+      "type": "área protegida reserva natural",
+      "created": 2008,
+      "area_km2": 0.0016,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202302"
+    },
+    {
+      "name": "Furnas do Enxofre",
+      "type": "área protegida",
+      "created": 2004,
+      "area_km2": 0.135,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202152"
+    },
+    {
+      "name": "Gruta das Torres",
+      "type": "área protegida",
+      "created": 2004,
+      "area_km2": 0.637,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202146"
+    },
+    {
+      "name": "Gruta do Carvão",
+      "type": "área protegida",
+      "created": 2005,
+      "area_km2": 0.3304,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202143"
+    },
+    {
+      "name": "Lagosteiros",
+      "type": "área protegida",
+      "created": 1997,
+      "area_km2": 0.051,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202155"
+    },
+    {
+      "name": "Maceda - Praia da Vieira",
+      "type": "Sítio de importância comunitária Special Area of Conservation",
+      "created": "",
+      "area_km2": 5026.37,
+      "natura2000_code": "PTCON0063",
+      "region": "",
+      "wikidata": "Q96757842"
+    },
+    {
+      "name": "Montanha do Pico",
+      "type": "montanha reserva natural área protegida vulcão",
+      "created": "",
+      "area_km2": 13.41,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q928681"
+    },
+    {
+      "name": "Monumento Natural da Pedra da Mua",
+      "type": "monumento natural património cultural",
+      "created": 1997,
+      "area_km2": 0.0709999,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q10332128"
+    },
+    {
+      "name": "Monumento Natural da Pedreira do Avelino",
+      "type": "monumento natural património cultural",
+      "created": 1997,
+      "area_km2": 0.017,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q10332129"
+    },
+    {
+      "name": "Monumento Natural da Ponta do Pargo",
+      "type": "área protegida",
+      "created": 2018,
+      "area_km2": 2.04,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202160"
+    },
+    {
+      "name": "Monumento Natural de Carenque",
+      "type": "monumento natural Rastro",
+      "created": 1997,
+      "area_km2": 0.0609999,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q10332131"
+    },
+    {
+      "name": "Monumento Natural dos Lagosteiros",
+      "type": "monumento natural património cultural",
+      "created": 1997,
+      "area_km2": 0.0509999,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q10332135"
+    },
+    {
+      "name": "Nisa / Lage da Prata",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1999,
+      "area_km2": 126.5859,
+      "natura2000_code": "PTCON0044",
+      "region": "",
+      "wikidata": "Q63378505"
+    },
+    {
+      "name": "Paisagem Protegida da Ponta do Pargo",
+      "type": "área protegida",
+      "created": 2018,
+      "area_km2": 0.47,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202161"
+    },
+    {
+      "name": "Paisagem Protegida Regional Parque das Serras do Porto",
+      "type": "área protegida",
+      "created": 2017,
+      "area_km2": 59.7408,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202163"
+    },
+    {
+      "name": "Parque Natural da Serra da Estrela",
+      "type": "área protegida parque natural",
+      "created": 1976,
+      "area_km2": 891.365,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q2581550"
+    },
+    {
+      "name": "Parque Natural do Tejo Internacional",
+      "type": "parque natural área protegida",
+      "created": 2000,
+      "area_km2": 264.910996,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q3321094"
+    },
+    {
+      "name": "Parque Natural Marinho da Ponta do Pargo",
+      "type": "área protegida",
+      "created": 2018,
+      "area_km2": 15.4,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202162"
+    },
+    {
+      "name": "Pedra da Mua",
+      "type": "área protegida",
+      "created": 1997,
+      "area_km2": 0.071,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202149"
+    },
+    {
+      "name": "Pedreira do Avelino",
+      "type": "área protegida",
+      "created": 1997,
+      "area_km2": 0.017,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202154"
+    },
+    {
+      "name": "Pegadas de Dinossáurios de Ourém/Torres Novas",
+      "type": "área protegida",
+      "created": 1996,
+      "area_km2": 0.54,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202157"
+    },
+    {
+      "name": "Peneda/Gerês",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1997,
+      "area_km2": 888.3702,
+      "natura2000_code": "PTCON0001",
+      "region": "",
+      "wikidata": "Q63378514"
+    },
+    {
+      "name": "Pico das Camarinhas-Ponta da Ferraria",
+      "type": "área protegida",
+      "created": 2005,
+      "area_km2": 0.4027,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202144"
+    },
+    {
+      "name": "Ponta da Ilha",
+      "type": "área protegida de gestão de recursos área protegida da rede Natura 2000 área protegida",
+      "created": 2008,
+      "area_km2": 5.955,
+      "natura2000_code": "PTZPE0025",
+      "region": "",
+      "wikidata": "Q10351233"
+    },
+    {
+      "name": "Ponta dos Rosais",
+      "type": "monumento natural promontório",
+      "created": 2011,
+      "area_km2": 1.702,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q10351277"
+    },
+    {
+      "name": "Ponta dos Rosais",
+      "type": "área protegida",
+      "created": 2011,
+      "area_km2": 1.702,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202148"
+    },
+    {
+      "name": "Portas de Rodão",
+      "type": "área protegida",
+      "created": 2009,
+      "area_km2": 9.6534,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202141"
+    },
+    {
+      "name": "Portas de Ródão",
+      "type": "monumento natural",
+      "created": 2009,
+      "area_km2": 9.6534344,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q10332132"
+    },
+    {
+      "name": "Reserva Natural do Estuário do Tejo",
+      "type": "reserva natural área protegida",
+      "created": 1976,
+      "area_km2": 144.1616,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q7675357"
+    },
+    {
+      "name": "Rio Minho",
+      "type": "rio área protegida da rede Natura 2000 Sítio de importância comunitária rio principal",
+      "created": "",
+      "area_km2": 45.54,
+      "natura2000_code": "ES1140007 PTCON0019",
+      "region": "",
+      "wikidata": "Q14554"
+    },
+    {
+      "name": "Rocha da Pena",
+      "type": "área protegida",
+      "created": 1991,
+      "area_km2": 6.718,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202142"
+    },
+    {
+      "name": "Rocha dos Bordões",
+      "type": "área protegida",
+      "created": 2011,
+      "area_km2": 0.1028,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202150"
+    },
+    {
+      "name": "Romeu",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 47.6834,
+      "natura2000_code": "PTCON0043",
+      "region": "",
+      "wikidata": "Q63378504"
+    },
+    {
+      "name": "Samil",
+      "type": "Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": 1998,
+      "area_km2": 0.9284,
+      "natura2000_code": "PTCON0041",
+      "region": "",
+      "wikidata": "Q63378503"
+    },
+    {
+      "name": "Sítio Classificado da Malcata",
+      "type": "Sítio de importância comunitária Sítio de importância comunitária área protegida da rede Natura 2000",
+      "created": "",
+      "area_km2": 794.0481,
+      "natura2000_code": "PTCON0004",
+      "region": "",
+      "wikidata": "Q30933780"
+    },
+    {
+      "name": "Vale do Tua",
+      "type": "parque natural regional área protegida",
+      "created": 2013,
+      "area_km2": 247.6907292,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q63378617"
+    },
+    {
+      "name": "Valongo",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 25.523,
+      "natura2000_code": "PTCON0024",
+      "region": "",
+      "wikidata": "Q55080946"
+    },
+    {
+      "name": "Vulcão dos Capelinhos",
+      "type": "área protegida",
+      "created": 2019,
+      "area_km2": 1.4255,
+      "natura2000_code": "",
+      "region": "",
+      "wikidata": "Q108202164"
+    },
+    {
+      "name": "Zona Especial de Conservação do Rio Lima",
+      "type": "área protegida da rede Natura 2000 Sítio de importância comunitária",
+      "created": "",
+      "area_km2": 53.6029,
+      "natura2000_code": "PTCON0020",
+      "region": "",
+      "wikidata": "Q117030333"
+    }
+  ],
+  "meta": {
+    "title": "Áreas protegidas de Portugal - Free Download",
+    "description": "Áreas protegidas de Portugal (parques e reservas naturais, sítios Natura 2000, ZPE, sítios Ramsar, áreas marinhas): tipo, ano de criação, área e código Natura 2000. Contains 200 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Áreas protegidas de Portugal | ListBase",
+    "seo_description": "Download Áreas protegidas de Portugal — 200 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 200 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_áreas_protegidas_de_Portugal"
+    ]
+  }
+}
