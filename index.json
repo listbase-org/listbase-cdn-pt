@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-11T02:14:34.004Z",
-  "total_datasets": 549,
-  "total_records": 744267,
+  "generated": "2026-11-11T02:14:47.514Z",
+  "total_datasets": 550,
+  "total_records": 744311,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -575,6 +575,36 @@
         "xlsx": {
           "name": "pt-br-presidentes-banco-central_PT.xlsx",
           "size": 8333
+        }
+      }
+    },
+    {
+      "id": "pt-ministros-economia-portugal",
+      "name": "Ministros da Economia de Portugal",
+      "category": "economy",
+      "record_count": 44,
+      "columns": [
+        "number",
+        "minister",
+        "birth_year",
+        "death_year",
+        "office_title",
+        "start",
+        "end",
+        "government",
+        "period"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Economia_de_Portugal",
+      "updated": "2026-11",
+      "size": 18409,
+      "files": {
+        "csv": {
+          "name": "pt-ministros-economia-portugal_PT.csv",
+          "size": 8593
+        },
+        "xlsx": {
+          "name": "pt-ministros-economia-portugal_PT.xlsx",
+          "size": 10261
         }
       }
     },
