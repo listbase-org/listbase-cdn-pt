@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-11T02:14:21.617Z",
-  "total_datasets": 548,
-  "total_records": 744067,
+  "generated": "2026-11-11T02:14:34.004Z",
+  "total_datasets": 549,
+  "total_records": 744267,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -330,6 +330,35 @@
         "xlsx": {
           "name": "pt-br-escolas-de-samba_PT.xlsx",
           "size": 14722
+        }
+      }
+    },
+    {
+      "id": "pt-br-santos-beatos-veneraveis",
+      "name": "Santos, beatos, veneráveis e servos de Deus do Brasil",
+      "category": "culture",
+      "record_count": 200,
+      "columns": [
+        "status",
+        "name",
+        "lifespan",
+        "work",
+        "beatification",
+        "canonization",
+        "recognition",
+        "feast_day"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_santos_brasileiros",
+      "updated": "2026-11",
+      "size": 66294,
+      "files": {
+        "csv": {
+          "name": "pt-br-santos-beatos-veneraveis_PT.csv",
+          "size": 30832
+        },
+        "xlsx": {
+          "name": "pt-br-santos-beatos-veneraveis_PT.xlsx",
+          "size": 19847
         }
       }
     },

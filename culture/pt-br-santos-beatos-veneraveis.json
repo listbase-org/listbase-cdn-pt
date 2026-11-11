@@ -1,0 +1,2066 @@
+{
+  "id": "pt-br-santos-beatos-veneraveis",
+  "name": "Santos, beatos, veneráveis e servos de Deus do Brasil",
+  "title": "Santos, beatos, veneráveis e servos de Deus do Brasil",
+  "description": "Lista de santos, beatos, veneráveis e servos de Deus brasileiros ou ligados ao Brasil, com período de vida, obra, datas de beatificação/canonização e festa litúrgica.",
+  "category": "culture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_santos_brasileiros",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_santos_brasileiros",
+  "updated": "2026-11",
+  "record_count": 200,
+  "columns": [
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    },
+    {
+      "key": "work",
+      "label": "Work",
+      "type": "string"
+    },
+    {
+      "key": "beatification",
+      "label": "Beatification",
+      "type": "string"
+    },
+    {
+      "key": "canonization",
+      "label": "Canonization",
+      "type": "string"
+    },
+    {
+      "key": "recognition",
+      "label": "Recognition",
+      "type": "string"
+    },
+    {
+      "key": "feast_day",
+      "label": "Feast Day",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "status": "Santo",
+      "name": "São José de Anchieta presbítero, religioso (SJ) e co-patrono do Brasil",
+      "lifespan": "1534–1597 († 63 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "1980 J. P. II",
+      "canonization": "2014 Francisco",
+      "recognition": "",
+      "feast_day": "9 de junho"
+    },
+    {
+      "status": "Santo",
+      "name": "São Roque González presbítero, religioso (SJ) e mártir",
+      "lifespan": "1576–1628 († 52 anos)",
+      "work": "Mártires das Missões.",
+      "beatification": "1934 Pio IX",
+      "canonization": "1988 J. P. II",
+      "recognition": "",
+      "feast_day": "19 de novembro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santo Afonso Rodrigues presbítero, religioso (SJ) e mártir",
+      "lifespan": "1598-1628 († 30 anos)",
+      "work": "Mártires das Missões.",
+      "beatification": "1934 Pio IX",
+      "canonization": "1988 J. P. II",
+      "recognition": "",
+      "feast_day": "19 de novembro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Juan del Castillo presbítero, religioso (SJ) e mártir",
+      "lifespan": "1595-1628 († 33 anos)",
+      "work": "Mártires das Missões.",
+      "beatification": "1934 Pio IX",
+      "canonization": "1988 J. P. II",
+      "recognition": "",
+      "feast_day": "19 de novembro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santo André de Soveral presbítero, religioso (SJ) e mártir",
+      "lifespan": "1572–1645 († 73 anos)",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santo Ambrósio Francisco Ferro presbítero e mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Mateus Moreira mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Domingos Carvalho mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santos António Vilela e sua filha mártires",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São José do Porto mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Francisco de Bastos mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Diogo Pereira mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São João Lostau Navarro mártir",
+      "lifespan": "1578–1645 († 67 anos)",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santo António Vilela Cid mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santos Estêvão Machado de Miranda e suas duas filhas mártires",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Vicente de Sousa Pereira mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Francisco Mendes Pereira mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São João da Silveira mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Simão Correia mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santo António Baracho mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santos João Martins e sete companheiros mártires",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "São Manuel Rodrigues de Moura e sua esposa mártires",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Uma filha de Francisco Dias mártir",
+      "lifespan": "† 1645",
+      "work": "Protomártires do Brasil.",
+      "beatification": "2000 J. P. II",
+      "canonization": "2017 Francisco",
+      "recognition": "",
+      "feast_day": "3 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santo Antônio de Sant'Ana Galvão (Frei Galvão) religioso (OFM) e místico",
+      "lifespan": "1739–1822 († 83 anos)",
+      "work": "Frade franciscano e taumaturgo.",
+      "beatification": "1998 J. P. II",
+      "canonization": "2007 Bento XVI",
+      "recognition": "",
+      "feast_day": "25 de outubro"
+    },
+    {
+      "status": "Santo",
+      "name": "Santa Paulina do Coração Agonizante de Jesus religiosa (CIIC) e fundadora",
+      "lifespan": "1865–1942 († 76 anos)",
+      "work": "Fundadora das Irmãzinhas da Imaculada Conceição.",
+      "beatification": "1991 J. P. II",
+      "canonization": "2002 J. P. II",
+      "recognition": "",
+      "feast_day": "9 de julho"
+    },
+    {
+      "status": "Santo",
+      "name": "Santa Dulce Lopes Pontes (Irmã Dulce) religiosa (SMIC)",
+      "lifespan": "1914–1992 († 77 anos)",
+      "work": "Assistência aos pobres no Brasil.",
+      "beatification": "2011 Cardeal Agnelo (por Bento XVI)",
+      "canonization": "2019 Francisco",
+      "recognition": "",
+      "feast_day": "13 de agosto"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Inácio de Azevedo presbítero, religioso (SJ) e mártir",
+      "lifespan": "1526–1570 († 44 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Diogo de Andrade presbítero, religioso (SJ) e mártir",
+      "lifespan": "1531–1570 († 39 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Brás Ribeiro religioso (SJ) e mártir",
+      "lifespan": "1546–1570 († 24 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato António Correia religioso (SJ) e mártir",
+      "lifespan": "1553–1570 († 17 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato António Fernandes religioso (SJ) e mártir",
+      "lifespan": "1552–1570 († 18 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato António Soares religioso (SJ) e mártir",
+      "lifespan": "† 1570",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Bento de Castro religioso (SJ) e mártir",
+      "lifespan": "1543–1570 († 27 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Francisco Álvares religioso (SJ) e mártir",
+      "lifespan": "1539–1570 († 31 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Simão da Costa religioso (SJ) e mártir",
+      "lifespan": "1551–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Simão Lopes religioso (SJ) e mártir",
+      "lifespan": "1552–1570 († 18 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Francisco de Magalhães religioso (SJ) e mártir",
+      "lifespan": "1549–1570 († 21 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Gaspar Álvares religioso (SJ) e mártir",
+      "lifespan": "1552–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Nicolau Diniz religioso (SJ) e mártir",
+      "lifespan": "1553–1570 († 17 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Pero Nunes religioso (SJ) e mártir",
+      "lifespan": "1551–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Pedro de Fontoura religioso (SJ) e mártir",
+      "lifespan": "1547–1570 († 23 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato João Fernandes (de Lisboa) religioso (SJ) e mártir",
+      "lifespan": "1551–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato João Fernandes (de Braga) religioso (SJ) e mártir",
+      "lifespan": "1547–1570 († 23 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Luís Correia religioso (SJ) e mártir",
+      "lifespan": "1553–1570 († 17 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Luís Rodrigues religioso (SJ) e mártir",
+      "lifespan": "1554–1570 († 16 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Manuel Rodrigues religioso (SJ) e mártir",
+      "lifespan": "1550–1570 († 20 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Marcos Caldeira religioso (SJ) e mártir",
+      "lifespan": "1547–1570 († 23 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Manuel Álvares religioso (SJ) e mártir",
+      "lifespan": "1546–1570 († 24 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Manuel Fernandes religioso (SJ) e mártir",
+      "lifespan": "1551–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Manuel Pacheco religioso (SJ) e mártir",
+      "lifespan": "1551–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Amaro Vaz religioso (SJ) e mártir",
+      "lifespan": "1553–1570 († 17 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Domingos Fernandes religioso (SJ) e mártir",
+      "lifespan": "1551–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Gonçalo Henriques religioso (SJ) e mártir",
+      "lifespan": "1550–1570 († 20 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Álvaro Mendes Borralho religioso (SJ) e mártir",
+      "lifespan": "1551–1570 († 19 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Diogo Pires Mimoso religioso (SJ) e mártir",
+      "lifespan": "1546–1570 († 24 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Aleixo Delgado religioso (SJ) e mártir",
+      "lifespan": "1555–1570 († 14 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato André Gonçalves religioso (SJ) e mártir",
+      "lifespan": "1552–1570 († 18 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato João Adaúto mártir",
+      "lifespan": "† 1570",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Juan de Mayorga religioso (SJ) e mártir",
+      "lifespan": "1533–1570 († 37 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Alfonso de Baena religioso (SJ) e mártir",
+      "lifespan": "1539–1570 († 31 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Francisco Pérez Godoy religioso (SJ) e mártir",
+      "lifespan": "1540–1570 († 30 anos)",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Esteban de Zuraire religioso (SJ) e mártir",
+      "lifespan": "† 1570",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Juan de San Martín religioso (SJ) e mártir",
+      "lifespan": "† 1570",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Gregório Escribano religioso (SJ) e mártir",
+      "lifespan": "† 1570",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Juan de Zafra religioso (SJ) e mártir",
+      "lifespan": "† 1570",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Fernán Sanchez religioso (SJ) e mártir",
+      "lifespan": "† 1570",
+      "work": "Missionários e mártires em Tazacorte.",
+      "beatification": "1854 Pio IX",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "17 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beata Maria Bárbara da Santíssima Trindade (Bárbara Maix) religiosa (ICM) e fundadora",
+      "lifespan": "1818–1873 († 54 anos)",
+      "work": "Fundadora das Irmãs do Imaculado Coração de Maria.",
+      "beatification": "2010 Cardeal Baldisseri (por Bento XVI)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "6 de novembro"
+    },
+    {
+      "status": "Beato",
+      "name": "Beata Francisca de Paula de Jesus (Nhá Chica) leiga e confessora",
+      "lifespan": "1810–1895 († 85 anos)",
+      "work": "Assistência aos pobres no Brasil.",
+      "beatification": "2013 Cardeal Amato (por Francisco)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "14 de junho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Francisco de Paula Victor (Padre Victor) presbítero",
+      "lifespan": "1827–1905 († 78 anos)",
+      "work": "Sacerdote vítima de discriminação racial.",
+      "beatification": "2015 Cardeal Amato (por Francisco)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "23 de setembro"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Manuel Gómez González presbítero e mártir",
+      "lifespan": "1877–1924 († 46 anos)",
+      "work": "Mártires em Três Passos.",
+      "beatification": "2007 Cardeal Martins (por Bento XVI)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "21 de maio"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Adílio Da Ronch leigo e mártir",
+      "lifespan": "1908-1924 († 15 anos)",
+      "work": "Mártires em Três Passos.",
+      "beatification": "2007 Cardeal Martins (por Bento XVI)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "21 de maio"
+    },
+    {
+      "status": "Beato",
+      "name": "Beata Albertina Berkenbrock virgem e mártir",
+      "lifespan": "1919–1931 († 12 anos)",
+      "work": "Jovem assassinada em defesa da castidade.",
+      "beatification": "2007 Cardeal Martins (por Bento XVI)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "15 de junho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beata Benigna Cardoso da Silva (Menina Benigna) virgem e mártir",
+      "lifespan": "1928–1941 († 13 anos)",
+      "work": "Jovem assassinada em defesa da castidade.",
+      "beatification": "2022 Cardeal Steiner (por Francisco)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "24 de outubro"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Eustáquio van Lieshout (Padre Eustáquio) presbítero e religioso (SSCC)",
+      "lifespan": "1890–1943 († 52 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "2006 Cardeal Martins (por Bento XVI)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "30 de agosto"
+    },
+    {
+      "status": "Beato",
+      "name": "Beata Maria Assunta Caterina Marchetti (Assunta Marchetti) religiosa (CS) e fundadora",
+      "lifespan": "1871–1948 († 76 anos)",
+      "work": "Missionária no Brasil e fundadora das Irmãs Scalabrinianas.",
+      "beatification": "2014 Cardeal Amato (por Francisco)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "1 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Donizetti Tavares de Lima (Padre Donizetti) presbítero",
+      "lifespan": "1882–1961 († 79 anos)",
+      "work": "Sacerdote conhecido por suas bençãos.",
+      "beatification": "2019 Cardeal Becciu (por Francisco)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "16 de junho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato João Schiavo presbítero e religioso (CSI)",
+      "lifespan": "1903–1967 († 63 anos)",
+      "work": "Missionário e Superior Provincial no Brasil.",
+      "beatification": "2017 Cardeal Amato (por Francisco)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "8 de julho"
+    },
+    {
+      "status": "Beato",
+      "name": "Beata Isabel Cristina Mrad Campos virgem e mártir",
+      "lifespan": "1962–1982 († 20 anos)",
+      "work": "Jovem assassinada em defesa da castidade.",
+      "beatification": "2022 Cardeal Damasceno (por Francisco)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "1 de setembro"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Mariano de la Mata Aparício (Padre Mariano) presbítero e religioso (OAR)",
+      "lifespan": "1905–1983 († 77 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "2006 Cardeal Martins (por Bento XVI)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "5 de novembro"
+    },
+    {
+      "status": "Beato",
+      "name": "Beata Lindalva Justo de Oliveira virgem, religiosa (FDC) e mártir",
+      "lifespan": "1953–1993 († 39 anos)",
+      "work": "Religiosa assassinada por resistir a um assédio.",
+      "beatification": "2007 Cardeal Martins (por Bento XVI)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "7 de janeiro"
+    },
+    {
+      "status": "Beato",
+      "name": "Beato Nazareno Lanciotti (Padre Nazareno) presbítero (MSM) e mártir",
+      "lifespan": "1940–2001 († 60 anos)",
+      "work": "Missionário no Brasil e Mártir do Movimento Sacerdotal Mariano.",
+      "beatification": "2026 Cardeal de Aviz (por Leão XIV)",
+      "canonization": "",
+      "recognition": "",
+      "feast_day": "12 de janeiro"
+    },
+    {
+      "status": "Venerável",
+      "name": "Antônio Vicente Ferreira Viçoso (Dom Viçoso) prelado e religioso (CM)",
+      "lifespan": "1787–1875 († 88 anos)",
+      "work": "7.º Bispo da Diocese de Mariana.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2014 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "José Antônio Ibiapina presbítero",
+      "lifespan": "1806–1883 († 76 anos)",
+      "work": "Missionário no Nordeste. Primeiro pregador popular do Brasil. Antecessor de Padre Cícero e Frei Damião.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Giuseppe Marchetti presbítero, religioso (CS) e fundador",
+      "lifespan": "1869–1896 († 27 anos)",
+      "work": "Fundador das Irmãs Missionárias de São Carlos Borromeu.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2016 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "João Pedro de Sexto São João presbítero, religioso (OFMCap) e fundador",
+      "lifespan": "1868–1913 († 47 anos)",
+      "work": "Fundador das Congregação das Irmãs Missionárias Capuchinhas e missionário na Amazônia.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Daniel de Samarate presbítero e religioso (OFMCap)",
+      "lifespan": "1876–1924 († 47 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2017 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Maria Teodora Voiron religiosa (OSC)",
+      "lifespan": "1835–1925 († 90 anos)",
+      "work": "Membra das Irmãs de São José de Chambéry.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "1989 J. P. II",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Odette Vidal Cardoso (Odetinha) leiga",
+      "lifespan": "1931–1939 († 8 anos)",
+      "work": "Menina conhecida por sua profunda devoção.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Júlio Maria de Lombaerde presbítero e religioso (MSF)",
+      "lifespan": "1878–1944 († 66 anos)",
+      "work": "Missionário e intelectual em Minas Gerais.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2026 Leão XIV",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Rodolfo Komorek presbítero e religioso (SDB)",
+      "lifespan": "1890–1949 († 59 anos)",
+      "work": "Sacerdote polonês que ajudou vítimas da tuberculose no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "1995 J. P. II",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Vicenta Guilarte Alonso religiosa (FJ)",
+      "lifespan": "1879–1960 († 81 anos)",
+      "work": "Membra das Irmãs Filhas de Jesus.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2024 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Pelágio Sauter (Padre Pelágio) presbítero e religioso CSsR",
+      "lifespan": "1878–1961 († 83 anos)",
+      "work": "Sacerdote que atuou como missionário em Trindade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2014 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Antonieta Farani religiosa (CLP)",
+      "lifespan": "1906–1963 († 91 anos)",
+      "work": "Religiosa passionista.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "1992 J. P. II",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Nelson Santana (Nelsinho) leigo",
+      "lifespan": "1955–1964 († 9 anos)",
+      "work": "Menino conhecido por se apegar a fé durante o câncer.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Maria do Carmo da Santíssima Trindade (Madre Carminha) religiosa (OCD)",
+      "lifespan": "1898–1966 († 67 anos)",
+      "work": "Religiosa carmelita.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Salvador Pinzetta religioso (OFMCap)",
+      "lifespan": "1911–1972 († 60 anos)",
+      "work": "Frade capuchinho.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Attilio Giordani leigo",
+      "lifespan": "1913–1972 († 59 anos)",
+      "work": "Membro da Associação dos Salesianos Cooperadores.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2013 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Albino Alves da Cunha e Silva (Padre Albino) presbítero",
+      "lifespan": "1882–1973 († 91 anos)",
+      "work": "Sacerdote português que buscou refúgio no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Antônio de Almeida Lustosa (Dom Lustosa) prelado e religioso (SDB)",
+      "lifespan": "1886–1974 († 88 anos)",
+      "work": "2.º Arcebispo da Arquidiocese de Fortaleza.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Libério Rodrigues Moreira presbítero",
+      "lifespan": "1884–1980 († 96 anos)",
+      "work": "Sacerdote conhecido por sua fama de realizar milagres.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2024 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Franz de Castro Holzwarth leigo e doador da vida",
+      "lifespan": "1942–1981 († 38 anos)",
+      "work": "Advogado assassinado após ser tomado como refém em um motim.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Benigna Victima de Jesus (Irmã Benigna) religiosa (CIANSP)",
+      "lifespan": "1907–1981 († 74 anos)",
+      "work": "Abadessa da Congregação das Irmãs Auxiliares de Nossa Senhora da Piedade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Maria Teresa de Jesus Eucarístico religiosa (PMMI) e fundadora",
+      "lifespan": "1916–1983 († 67 anos)",
+      "work": "Fundadora das Pequenas Missionárias de Maria Imaculada.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2014 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Marcello Candia leigo",
+      "lifespan": "1916–1983 († 67 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2014 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "João Luiz Pozzobon diácono",
+      "lifespan": "1904–1985 († 80 anos)",
+      "work": "Missionário mariano ligado à devoção da Nossa Senhora de Schoenstatt.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025 Leão XIV",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Vítor Coelho de Almeida (Padre Vítor Coelho) presbítero e religioso CSsR",
+      "lifespan": "1899–1987 († 87 anos)",
+      "work": "Sacerdote que atuou como missionário em Aparecida.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Maria Imaculada da Santíssima Trindade (Mãezinha do Carmelo) religiosa (OCD)",
+      "lifespan": "1909–1988 († 78 anos)",
+      "work": "Religiosa carmelita.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2026 Leão XIV",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Maria dos Anjos de Santa Teresa (Dinah Amorim) religiosa (SchP)",
+      "lifespan": "1917–1988 († 71 anos)",
+      "work": "Religiosa escolápia que atuou pela educação de jovens.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Serafina Cinque religiosa (ASC)",
+      "lifespan": "1913–1988 († 75 anos)",
+      "work": "Religiosa membra das Irmãs Adoradoras do Sangue de Cristo que atuou na Amazônia.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2014 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Roberto Giovanni presbítero e religioso (CSS)",
+      "lifespan": "1903–1994 († 90 anos)",
+      "work": "Membro da Congregação dos Sagrados Estigmas de Nosso Senhor Jesus Cristo.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Maria de Lourdes Guarda leiga",
+      "lifespan": "1926–1996 († 69 anos)",
+      "work": "Leiga, missionária e membra da Fraternidade Cristã de Deficientes.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025 Leão XIV",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Damião de Bozzano (Frei Damião) presbítero e religioso (OFMCap)",
+      "lifespan": "1898–1997 († 98 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Alberto Maria Beretta presbítero e religioso (OFMCap)",
+      "lifespan": "1916–2001 († 84 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Tereza Margarida do Coração de Maria (Nossa Mãe) religiosa (OCD)",
+      "lifespan": "1915–2005 († 89 anos)",
+      "work": "Religiosa carmelita.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Aloísio Sebastião Boeing (Padre Aloísio) presbítero, religioso (SCJ) e fundador",
+      "lifespan": "1913–2006 († 92 anos)",
+      "work": "Fundador da Fraternidade Mariana do Coração de Jesus.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Angelo Angioni presbítero",
+      "lifespan": "1915–2008 († 93 anos)",
+      "work": "Sacerdote italiano radicado no Brasil e fundador do Instituto Missionário do Coração Imaculado de Maria.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025 Leão XIV",
+      "feast_day": ""
+    },
+    {
+      "status": "Venerável",
+      "name": "Guido Vidal França Schäffer (Guido Schäffer) leigo seminarista",
+      "lifespan": "1974–2009 († 34 anos)",
+      "work": "Médico e seminarista conhecido por se dedicar à assistência aos pobres doentes e à prática do surfe como lazer - nisto morreu.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023 Francisco",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Adelaide Molinari religiosa",
+      "lifespan": "1938–1985 († 47 anos)",
+      "work": "Obras de caridade na Amazônia brasileira.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Adélia Teixeira de Carvalho (Irmã Adélia) religiosa",
+      "lifespan": "1922–2013 († 90 anos)",
+      "work": "Aparição de Cimbres",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Alano Maria du Noday bispo",
+      "lifespan": "1899–1985 († 86 anos)",
+      "work": "Bispado numa região relativamente isolada do Norte do Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Alberto Fuger presbítero",
+      "lifespan": "1892–1971 († 79 anos)",
+      "work": "Obras de caridade em Minas Gerais.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2015",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Alderigi Maria Torriani presbítero",
+      "lifespan": "1895–1977 († 81 anos)",
+      "work": "Pároco em Minas Gerais.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Alfredo Haasler presbítero",
+      "lifespan": "1907–1997 († 89 anos)",
+      "work": "Criação de escolas numa região com elevado nível de analfabetismo.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Ambrósia Ana Sabatovich religiosa",
+      "lifespan": "1894–1943 († 49 anos)",
+      "work": "Obras de caridade no interior do Paraná, junto a imigrantes ucranianos.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Ananias de Paula Vieira presbítero",
+      "lifespan": "1869–1958 († 89 anos)",
+      "work": "Presbítero.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Anatólia Tecla Bodnar religiosa",
+      "lifespan": "1884–1956 († 71 anos)",
+      "work": "Obras de caridade no interior do Paraná, junto a imigrantes ucranianos.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "André Bortolameotti presbítero",
+      "lifespan": "1919–2010 († 90 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Ângelo Frosi prelado",
+      "lifespan": "1924–1995 († 71 anos)",
+      "work": "Bispado, formação sacerdotal.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Ângelo Possído Carù presbítero",
+      "lifespan": "1925–1995 († 70 anos)",
+      "work": "Obras de caridade no estados do Rio de Janeiro e Paraná.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Antônio Campelo de Aragão prelado",
+      "lifespan": "1904–1988 († 83 anos)",
+      "work": "Bispo e formador.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Antônio da Rocha Marmo (Antoninho) leigo",
+      "lifespan": "1918–1930 († 12 anos)",
+      "work": "Aceitação do sofrimento, intercessão pelos doentes.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Bento Dias Pacheco presbítero",
+      "lifespan": "1819–1911 († 91 anos)",
+      "work": "Obras de misericórdia.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Bruno Linden presbítero",
+      "lifespan": "1876–1960 († 83 anos)",
+      "work": "Obras de caridade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Caetano de Messina presbítero",
+      "lifespan": "1807–1878 († 70 anos)",
+      "work": "Obras de caridade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Cecília do Coração de Maria religiosa",
+      "lifespan": "1852–1950 († 98 anos)",
+      "work": "Obras de caridade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Cícero Romão Batista presbítero",
+      "lifespan": "1844–1934 († 90 anos)",
+      "work": "Obras de caridade no Nordeste do Brasil, pregações, atuação política.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Clemência de Oliveira religiosa",
+      "lifespan": "1896–1966 († 70 anos)",
+      "work": "Obras de caridade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Cleusa Carolina Rody Coelho religiosa",
+      "lifespan": "1933–1985 († 51 anos)",
+      "work": "Martirizada por praticar obras de caridade na Amazônia.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "1991",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Danilo Rossato presbítero",
+      "lifespan": "1932–2008 († 75 anos)",
+      "work": "Religioso palotino.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2024",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Domingos Nakamura [中村長八] presbítero",
+      "lifespan": "1865–1940 († 74 anos)",
+      "work": "Assistência espiritual a imigrantes japoneses e inicador da evangelização de nipo-brasileiros.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2015",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Domingos Evangelista Pinheiro presbítero",
+      "lifespan": "1843–1924 († 80 anos)",
+      "work": "Educação católica em Minas Gerais.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Egídio Maria Moscini presbítero",
+      "lifespan": "1884–1976 († 92 anos)",
+      "work": "Patrono da agricultura familiar no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Eliseu Maria Coroli prelado",
+      "lifespan": "1900–1982 († 82 anos)",
+      "work": "Bispado.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Ezequiel Ramin presbítero",
+      "lifespan": "1953–1985 († 32 anos)",
+      "work": "Missionário na Amazônia, tecnificação dos povos locais.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Floripes Dornelas de Jesus (Lola) leiga",
+      "lifespan": "1913–1999 († 85 anos)",
+      "work": "Viver apenas da Eucaristia por 60 anos após ficar paraplégica.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2016",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Francisco Expedito Lopes prelado",
+      "lifespan": "1914–1957 († 42 anos)",
+      "work": "Martirizado por um presbítero indolente de sua diocese.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Gabriel de Frazzanò presbítero",
+      "lifespan": "1907–1973 († 66 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Gabriel Paulino Bueno Couto prelado",
+      "lifespan": "1910–1982 († 71 anos)",
+      "work": "Bispado.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Gilberto Maria Defina presbítero",
+      "lifespan": "1925–2004 († 79 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Ginetta Calliari religiosa",
+      "lifespan": "1918–2001 († 82 anos)",
+      "work": "Missionária.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Hélder Pessoa Câmara prelado",
+      "lifespan": "1909–1999 († 90 anos)",
+      "work": "Fundação da CNBB.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2018",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Inácio João Dal Monte prelado",
+      "lifespan": "1897–1963 († 65 anos)",
+      "work": "Bispado.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Inocêncio Lopez Santamaría prelado",
+      "lifespan": "1874–1958 († 83 anos)",
+      "work": "Bispado.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Inácio Martínez Madrid presbítero",
+      "lifespan": "1902–1942 († 39 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Jerônimo Magalhães leigo Zélia Magalhães leiga",
+      "lifespan": "1851–1909 († 58 anos); 1857–1919 († 62 anos)",
+      "work": "Assistência social a ex-escravos, posteriormente vida monástica.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "João Batista Reus presbítero",
+      "lifespan": "1868–1947 († 79 anos)",
+      "work": "Missionário dedicado ao ensino de profissões.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "João Benvegnú presbítero",
+      "lifespan": "1907–1986 († 79 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "João Crippa presbítero",
+      "lifespan": "1861–1941 († 79 anos)",
+      "work": "Pároco de Três Lagoas.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2026",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "João Francisco de Siqueira Andrade presbítero",
+      "lifespan": "1837–1881 († 43 anos)",
+      "work": "Fundador das Irmãs Franciscanas de Nossa Senhora do Amparo",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2026",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "João Maria Cavalcanti de Brito presbítero",
+      "lifespan": "1848–1905 († 57 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Joaquim Arnóbio de Andrade presbítero",
+      "lifespan": "1915–1985 († 69 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "José Antônio do Couto prelado",
+      "lifespan": "1927–1997 († 69 anos)",
+      "work": "Bispado.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "José Calvi presbítero",
+      "lifespan": "1901–1943 († 42 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "José Carlos Parra Pires presbítero",
+      "lifespan": "1954–1990 († 36 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "José Erlei de Almeida presbítero",
+      "lifespan": "1969–2001 († 31 anos)",
+      "work": "Presbítero.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "José Gumercindo dos Santos presbítero",
+      "lifespan": "1907–1991 († 84 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "José Silvério Horta presbítero",
+      "lifespan": "1859–1933 († 73 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Lafayette da Costa Coelho presbítero",
+      "lifespan": "1886–1961 († 74 anos)",
+      "work": "Pároco em Minas Gerais.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2023",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Léo Tarcísio Pereira presbítero",
+      "lifespan": "1961–2007 († 45 anos)",
+      "work": "Nova evangelização, obra social de cura de drogaditos.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2018",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Leônia Milito religiosa",
+      "lifespan": "1910–1980 († 70 anos)",
+      "work": "Missionária.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Lucia Eleonora Schiavinato religiosa",
+      "lifespan": "1911–1966 († 55 anos)",
+      "work": "Missionária.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Luciano Mendes de Almeida prelado",
+      "lifespan": "1930–2006 († 75 anos)",
+      "work": "Presidência da CNBB, ações sociais, criação da emissora católica Redevida.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2018",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Luís Cecchin presbítero",
+      "lifespan": "1924–2010 († 85 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Luís Gonzaga do Monte presbítero",
+      "lifespan": "1905–1944 († 39 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Luso de Barros Matos presbítero",
+      "lifespan": "1906–1987 († 80 anos)",
+      "work": "Pároco no Tocantins.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Marcelo Henrique Câmara (Marcelinho) leigo",
+      "lifespan": "1979–2008 († 28 anos)",
+      "work": "Leigo. Advogado, promotor público e professor universitário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Marciano Bernardes da Fonseca presbítero",
+      "lifespan": "1859–1946 († 87 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Maria Angélica da Eucaristia religiosa",
+      "lifespan": "1931–2018 († 86 anos)",
+      "work": "Religiosa carmelita.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2026",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Maria de Lourdes de Santa Rosa religiosa",
+      "lifespan": "1910–1974 († 64 anos)",
+      "work": "Missionária.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Maria de Lourdes Fontão (Lourdinha Fontão) leiga",
+      "lifespan": "1930–1988 († 58 anos)",
+      "work": "Missionária.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Maria José Bezerra de Melo religiosa",
+      "lifespan": "1874–1970 († 96 anos)",
+      "work": "Dedicação a instrução social e religiosa.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Maria José de Jesus religiosa",
+      "lifespan": "1882–1959 († 77 anos)",
+      "work": "Religiosa carmelita.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2008",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Maria Milza dos Santos Fonseca (Mãezinha) leiga",
+      "lifespan": "1923–1993 († 70 anos)",
+      "work": "Obras de caridade e dons místicos.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2025",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Martinho de Porres Ward presbítero",
+      "lifespan": "1918–1999 († 81 anos)",
+      "work": "Missionário americano negro.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Matheus van Herkhuizen presbítero",
+      "lifespan": "1915–1973 († 67 anos)",
+      "work": "Missionário no Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Miguel Ângelo Pigotti presbítero",
+      "lifespan": "1916–1995 († 79 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2002",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Miguel Ângelo Serafini presbítero",
+      "lifespan": "1908–2013 († 104 anos)",
+      "work": "Obras de caridade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Nemésio Bernardi presbítero",
+      "lifespan": "1927–2016 († 88 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Othon Motta prelado",
+      "lifespan": "1913–1985 († 71 anos)",
+      "work": "Bispado e formador.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2016",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Paolino Maria Baldassari presbítero",
+      "lifespan": "1926–2016 († 90 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2019",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Pedro Balzi presbítero",
+      "lifespan": "1926–2009 († 82 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Pedro Luís Maria Galibert prelado",
+      "lifespan": "1877–1965 († 87 anos)",
+      "work": "Missionário.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "1997",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Pero Dias e onze companheiros presbítero",
+      "lifespan": "1526–1571 († 45 anos)",
+      "work": "Martírio a caminho da América Portuguesa.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2008",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Rodolfo Lunkenbein presbítero Simão Cristino Koge Kudugodu (Simão Bororó) leigo",
+      "lifespan": "1939–1976 († 37 anos) 1937-1976 († 38 anos)",
+      "work": "Missionário no Centro-Oeste do Brasil. Evangelizador entre ameríndios.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Rosita Paiva religiosa",
+      "lifespan": "1909–1991 († 82 anos)",
+      "work": "Missionária.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2021",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Sepé Tiaraju leigo",
+      "lifespan": "1723–1756 († 33 anos)",
+      "work": "Colaborador das missões jesuíticas no Sul do Brasil.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2018",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Tomás Vaquero prelado",
+      "lifespan": "1914–1992 († 78 anos)",
+      "work": "Bispado.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2022",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Vital de Oliveira prelado",
+      "lifespan": "1844–1878 († 33 anos)",
+      "work": "Bispo perseguido pelo Império do Brasil, por sua oposição à maçonaria.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2012",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Vitória da Encarnação religiosa",
+      "lifespan": "1661–1715 († 54 anos)",
+      "work": "Primeira pessoa de vida monástica nascida no Brasil e com fama de santidade.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2016",
+      "feast_day": ""
+    },
+    {
+      "status": "Servo de Deus",
+      "name": "Waldir Lopes de Castro presbítero",
+      "lifespan": "1931–2001 († 70 anos)",
+      "work": "Pároco, obras de caridade no Ceará.",
+      "beatification": "",
+      "canonization": "",
+      "recognition": "2020",
+      "feast_day": ""
+    }
+  ],
+  "meta": {
+    "title": "Santos, beatos, veneráveis e servos de Deus do Brasil - Free Download",
+    "description": "Lista de santos, beatos, veneráveis e servos de Deus brasileiros ou ligados ao Brasil, com período de vida, obra, datas de beatificação/canonização e festa litúrgica. Contains 200 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Santos, beatos, veneráveis e servos de Deus do Brasil | ListBase",
+    "seo_description": "Download Santos, beatos, veneráveis e servos de Deus do Brasil — 200 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 200 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_santos_brasileiros"
+    ]
+  }
+}
