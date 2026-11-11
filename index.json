@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-10T02:26:07.747Z",
-  "total_datasets": 547,
-  "total_records": 744029,
+  "generated": "2026-11-11T02:14:21.617Z",
+  "total_datasets": 548,
+  "total_records": 744067,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -521,6 +521,31 @@
         "xlsx": {
           "name": "pt-br-pessoas-mais-ricas_PT.xlsx",
           "size": 9987
+        }
+      }
+    },
+    {
+      "id": "pt-br-presidentes-banco-central",
+      "name": "Presidentes do Banco Central do Brasil",
+      "category": "economy",
+      "record_count": 38,
+      "columns": [
+        "name",
+        "start",
+        "end",
+        "president_of_brazil"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Banco_Central_do_Brasil",
+      "updated": "2026-11",
+      "size": 8359,
+      "files": {
+        "csv": {
+          "name": "pt-br-presidentes-banco-central_PT.csv",
+          "size": 3406
+        },
+        "xlsx": {
+          "name": "pt-br-presidentes-banco-central_PT.xlsx",
+          "size": 8333
         }
       }
     },

@@ -1,0 +1,274 @@
+{
+  "id": "pt-br-presidentes-banco-central",
+  "name": "Presidentes do Banco Central do Brasil",
+  "title": "Presidentes do Banco Central do Brasil",
+  "description": "Lista dos presidentes do Banco Central do Brasil desde 1965, com início e fim do mandato e o presidente da República que os nomeou.",
+  "category": "economy",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Banco_Central_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Banco_Central_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "president_of_brazil",
+      "label": "President Of Brazil",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Dênio Nogueira",
+      "start": "12 de abril de 1965",
+      "end": "21 de março de 1967",
+      "president_of_brazil": "Humberto Castelo Branco"
+    },
+    {
+      "name": "Rui Leme",
+      "start": "31 de março de 1967",
+      "end": "12 de fevereiro de 1968",
+      "president_of_brazil": "Costa e Silva"
+    },
+    {
+      "name": "Ary Burguer (interino)",
+      "start": "8 de fevereiro de 1968",
+      "end": "20 de fevereiro de 1968",
+      "president_of_brazil": "Costa e Silva"
+    },
+    {
+      "name": "Ernane Galvêas",
+      "start": "21 de fevereiro de 1968",
+      "end": "31 de agosto de 1969",
+      "president_of_brazil": "Costa e Silva"
+    },
+    {
+      "name": "Ernane Galvêas",
+      "start": "31 de agosto de 1969",
+      "end": "30 de outubro de 1969",
+      "president_of_brazil": "Junta militar de 1969"
+    },
+    {
+      "name": "Ernane Galvêas",
+      "start": "30 de outubro de 1969",
+      "end": "15 de março de 1974",
+      "president_of_brazil": "Emílio Garrastazu Médici"
+    },
+    {
+      "name": "Paulo Pereira Lira",
+      "start": "15 de março de 1974",
+      "end": "14 de março de 1979",
+      "president_of_brazil": "Ernesto Geisel"
+    },
+    {
+      "name": "Carlos Brandão",
+      "start": "15 de março de 1979",
+      "end": "17 de agosto de 1979",
+      "president_of_brazil": "João Figueiredo"
+    },
+    {
+      "name": "Ernane Galvêas",
+      "start": "17 de agosto de 1979",
+      "end": "18 de janeiro de 1980",
+      "president_of_brazil": "João Figueiredo"
+    },
+    {
+      "name": "Carlos Langoni",
+      "start": "18 de janeiro de 1980",
+      "end": "5 de setembro de 1983",
+      "president_of_brazil": "João Figueiredo"
+    },
+    {
+      "name": "Affonso Celso Pastore",
+      "start": "5 de setembro de 1983",
+      "end": "14 de março de 1985",
+      "president_of_brazil": "João Figueiredo"
+    },
+    {
+      "name": "Antônio Carlos Lemgruber",
+      "start": "15 de março de 1985",
+      "end": "28 de agosto de 1985",
+      "president_of_brazil": "José Sarney"
+    },
+    {
+      "name": "Fernão Bracher",
+      "start": "28 de agosto de 1985",
+      "end": "11 de fevereiro de 1987",
+      "president_of_brazil": "José Sarney"
+    },
+    {
+      "name": "Francisco Gros",
+      "start": "11 de fevereiro de 1987",
+      "end": "30 de abril de 1987",
+      "president_of_brazil": "José Sarney"
+    },
+    {
+      "name": "Lycio de Faria (interino)",
+      "start": "30 de abril de 1987",
+      "end": "4 de maio de 1987",
+      "president_of_brazil": "José Sarney"
+    },
+    {
+      "name": "Fernando Milliet",
+      "start": "5 de maio de 1987",
+      "end": "9 de março de 1988",
+      "president_of_brazil": "José Sarney"
+    },
+    {
+      "name": "Elmo Camões",
+      "start": "9 de março de 1988",
+      "end": "22 de junho de 1989",
+      "president_of_brazil": "José Sarney"
+    },
+    {
+      "name": "Wadico Waldir Bucchi",
+      "start": "23 de junho de 1989",
+      "end": "14 de março de 1990",
+      "president_of_brazil": "José Sarney"
+    },
+    {
+      "name": "Ibrahim Eris",
+      "start": "15 de março de 1990",
+      "end": "17 de maio de 1991",
+      "president_of_brazil": "Fernando Collor"
+    },
+    {
+      "name": "Francisco Gros",
+      "start": "17 de maio de 1991",
+      "end": "16 de novembro de 1992",
+      "president_of_brazil": "Fernando Collor"
+    },
+    {
+      "name": "Gustavo Loyola",
+      "start": "13 de novembro de 1992",
+      "end": "29 de março de 1993",
+      "president_of_brazil": "Itamar Franco"
+    },
+    {
+      "name": "Paulo Ximenes",
+      "start": "26 de março de 1993",
+      "end": "9 de setembro de 1993",
+      "president_of_brazil": "Itamar Franco"
+    },
+    {
+      "name": "Pedro Malan",
+      "start": "9 de setembro de 1993",
+      "end": "31 de dezembro de 1994",
+      "president_of_brazil": "Itamar Franco"
+    },
+    {
+      "name": "Gustavo Franco (interino)",
+      "start": "31 de dezembro de 1994",
+      "end": "11 de janeiro de 1995",
+      "president_of_brazil": "Itamar Franco"
+    },
+    {
+      "name": "Pérsio Arida",
+      "start": "11 de janeiro de 1995",
+      "end": "13 de junho de 1995",
+      "president_of_brazil": "Fernando Henrique Cardoso"
+    },
+    {
+      "name": "Gustavo Loyola",
+      "start": "13 de junho de 1995",
+      "end": "20 de agosto de 1997",
+      "president_of_brazil": "Fernando Henrique Cardoso"
+    },
+    {
+      "name": "Gustavo Franco",
+      "start": "20 de agosto de 1997",
+      "end": "4 de março de 1999",
+      "president_of_brazil": "Fernando Henrique Cardoso"
+    },
+    {
+      "name": "Francisco Lopes (interino)",
+      "start": "13 de janeiro de 1999",
+      "end": "1 de fevereiro de 1999",
+      "president_of_brazil": "Fernando Henrique Cardoso"
+    },
+    {
+      "name": "Armínio Fraga",
+      "start": "4 de março de 1999",
+      "end": "1 de janeiro de 2003",
+      "president_of_brazil": "Fernando Henrique Cardoso"
+    },
+    {
+      "name": "Henrique Meirelles",
+      "start": "1 de janeiro de 2003",
+      "end": "1 de janeiro de 2011",
+      "president_of_brazil": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "name": "Alexandre Tombini",
+      "start": "1 de janeiro de 2011",
+      "end": "9 de junho de 2016",
+      "president_of_brazil": "Dilma Rousseff"
+    },
+    {
+      "name": "Ilan Goldfajn",
+      "start": "9 de junho de 2016",
+      "end": "31 de dezembro de 2018",
+      "president_of_brazil": "Michel Temer"
+    },
+    {
+      "name": "Ilan Goldfajn",
+      "start": "1 de janeiro de 2019",
+      "end": "28 de fevereiro de 2019",
+      "president_of_brazil": "Jair Bolsonaro"
+    },
+    {
+      "name": "Roberto Campos Neto",
+      "start": "28 de fevereiro de 2019",
+      "end": "24 de fevereiro de 2021",
+      "president_of_brazil": "Jair Bolsonaro"
+    },
+    {
+      "name": "Independência de indicação e mandato fixo",
+      "start": "Independência de indicação e mandato fixo",
+      "end": "Independência de indicação e mandato fixo",
+      "president_of_brazil": "Independência de indicação e mandato fixo"
+    },
+    {
+      "name": "Roberto Campos Neto",
+      "start": "24 de fevereiro de 2021",
+      "end": "1 de janeiro de 2023",
+      "president_of_brazil": "Jair Bolsonaro"
+    },
+    {
+      "name": "Roberto Campos Neto",
+      "start": "1 de janeiro de 2023",
+      "end": "1 de janeiro de 2025",
+      "president_of_brazil": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "name": "Gabriel Galípolo",
+      "start": "1 de janeiro de 2025",
+      "end": "Em exercício",
+      "president_of_brazil": "Luiz Inácio Lula da Silva"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes do Banco Central do Brasil - Free Download",
+    "description": "Lista dos presidentes do Banco Central do Brasil desde 1965, com início e fim do mandato e o presidente da República que os nomeou. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes do Banco Central do Brasil | ListBase",
+    "seo_description": "Download Presidentes do Banco Central do Brasil — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Banco_Central_do_Brasil"
+    ]
+  }
+}
