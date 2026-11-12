@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-11T02:14:59.169Z",
-  "total_datasets": 551,
-  "total_records": 744457,
+  "generated": "2026-11-12T02:10:57.549Z",
+  "total_datasets": 552,
+  "total_records": 744481,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -15323,6 +15323,32 @@
         "xlsx": {
           "name": "pt-viseu-aeroportos_PT.xlsx",
           "size": 8139
+        }
+      }
+    },
+    {
+      "id": "pt-anfibios-de-portugal",
+      "name": "Anfíbios de Portugal",
+      "category": "science",
+      "record_count": 24,
+      "columns": [
+        "nome_comum",
+        "nome_cientifico",
+        "ordem_familia",
+        "informacoes",
+        "estado_conservacao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_anfíbios_de_Portugal",
+      "updated": "2026-11",
+      "size": 12248,
+      "files": {
+        "csv": {
+          "name": "pt-anfibios-de-portugal_PT.csv",
+          "size": 7356
+        },
+        "xlsx": {
+          "name": "pt-anfibios-de-portugal_PT.xlsx",
+          "size": 9956
         }
       }
     },
