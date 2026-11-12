@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-12T02:11:08.010Z",
-  "total_datasets": 553,
-  "total_records": 744551,
+  "generated": "2026-11-12T02:11:18.745Z",
+  "total_datasets": 554,
+  "total_records": 744634,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -15455,6 +15455,33 @@
         "xlsx": {
           "name": "pt-br-satelites-brasileiros_PT.xlsx",
           "size": 9787
+        }
+      }
+    },
+    {
+      "id": "pt-especies-perigosas-portugal",
+      "name": "Espécies perigosas em Portugal",
+      "category": "science",
+      "record_count": 83,
+      "columns": [
+        "nome",
+        "tipo_perigo",
+        "identificacao",
+        "descricao",
+        "perigo",
+        "consequencias"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_espécies_perigosas_em_Portugal",
+      "updated": "2026-11",
+      "size": 69663,
+      "files": {
+        "csv": {
+          "name": "pt-especies-perigosas-portugal_PT.csv",
+          "size": 56676
+        },
+        "xlsx": {
+          "name": "pt-especies-perigosas-portugal_PT.xlsx",
+          "size": 20725
         }
       }
     },

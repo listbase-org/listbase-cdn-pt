@@ -1,0 +1,720 @@
+{
+  "id": "pt-especies-perigosas-portugal",
+  "name": "Espécies perigosas em Portugal",
+  "title": "Espécies perigosas em Portugal",
+  "description": "Animais venenosos, traumatogénicos e vetores de doenças existentes em Portugal (víboras, aranhas, escorpiões, insetos, mamíferos), com identificação, tipo de perigo e consequências.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_espécies_perigosas_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_espécies_perigosas_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo_perigo",
+      "label": "Tipo Perigo",
+      "type": "string"
+    },
+    {
+      "key": "identificacao",
+      "label": "Identificacao",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    },
+    {
+      "key": "perigo",
+      "label": "Perigo",
+      "type": "string"
+    },
+    {
+      "key": "consequencias",
+      "label": "Consequencias",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Víbora-cornuda Vipera latastei",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Ofídio (cobra) da família das víboras (viperidae), existente em todo o Portugal Continental. Necessita de locais com boa insolação, habitando em zonas abertas nos limites dos bosques e matos ou em bosques relativamente abertos como os montados ou os pinhais. No Sul habita também dunas costeiras e areais.",
+      "descricao": "Cabeça triangular destacada, pupilas verticais, ausência de placas cefálicas, linha dorsal escura em ziguezague ou ondulada, comprimento até 50 cm, corpo robusto (grosso), cauda curta e, específico desta espécie, focinho proeminente (que faz lembrar um corno).",
+      "perigo": "Mordedura",
+      "consequencias": "Geralmente não fatal em adultos saudáveis, a mordedura das víboras é muito perigosa em crianças, idosos ou doentes crónicos ou caso a região mordida seja na cabeça, pescoço ou tórax. A gravidade do envenenamento é variável. Sintomas inicais: dor local, edema, taquicardia, sudorese; depois possíveis: edema progressivo, equimose, hipotensão, hemorragia; mais tarde possíveis: linfangite, síndrome compartimental e raramente morte (por infecção secundária ou discrasia hemorrágica com falência multiorgânica). Tratamento: repouso, lavagem da ferida, gelo, analgesia e soro antiveneno (antivíbora europeia). Não existe antídoto específico para estas espécies."
+    },
+    {
+      "nome": "Víbora-de-seoane Vipera seoanei",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Ofídio (cobra) da família das víboras (viperidae), existe em Portugal somente na região de Peneda-Gerês e Paredes de Coura, geralmente em serranias.",
+      "descricao": "Cabeça triangular destacada, pupilas verticais, ausência de placas cefálicas, linha dorsal escura em ziguezague ou ondulada, comprimento até 70 cm, corpo robusto (grosso) e cauda curta.",
+      "perigo": "Mordedura",
+      "consequencias": "Geralmente não fatal em adultos saudáveis, a mordedura das víboras é muito perigosa em crianças, idosos ou doentes crónicos ou caso a região mordida seja na cabeça, pescoço ou tórax. A gravidade do envenenamento é variável. Sintomas inicais: dor local, edema, taquicardia, sudorese; depois possíveis: edema progressivo, equimose, hipotensão, hemorragia; mais tarde possíveis: linfangite, síndrome compartimental e raramente morte (por infecção secundária ou discrasia hemorrágica com falência multiorgânica). Tratamento: repouso, lavagem da ferida, gelo, analgesia e soro antiveneno (antivíbora europeia). Não existe antídoto específico para estas espécies."
+    },
+    {
+      "nome": "Fungos",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Fungos",
+      "descricao": "Fungos",
+      "perigo": "Fungos",
+      "consequencias": "Fungos"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Chapéu-da-morte (ou Cicuta-verde) Amanita phalloides",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Fungo existente em todo o território nacional, geralmente em bosques e florestas.",
+      "descricao": "",
+      "perigo": "Ingestão",
+      "consequencias": "A intoxicação apresenta 3 fases. 1ª Fase (6 a 24 horas após a ingestão): náuseas, vómitos, diarreia severa, febre, taquicardia, hipoglicemia, hipotensão e desequilíbrio dos electrólitos, com distúrbio ácido-base. 2ª Fase (24 a 48 horas): surgem sintomas gastrintestinais e deterioração das funções hepática e renal. 3ª Fase (3 a 5 dias): ocorre dano hepatocelular e falha renal, que pode evoluir para falha hepática severa; cardiomiopatias e coagulopatias. Os danos no fígado são irreversíveis sendo, nos casos mais graves, necessário recorrer ao transplante hepático. Nos casos fatais a morte resulta de falência hepática e/ou renal. Tratamento: lavagem gástrica, hidroterapia, antibioterapia e, nos casos mais graves, transplante hepático."
+    },
+    {
+      "nome": "Anjo-destruidor-europeu Amanita virosa",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Fungo existente em todo o território nacional, geralmente em bosques e florestas.",
+      "descricao": "",
+      "perigo": "Ingestão",
+      "consequencias": "A intoxicação apresenta 3 fases. 1ª Fase (6 a 24 horas após a ingestão): náuseas, vómitos, diarreia severa, febre, taquicardia, hipoglicemia, hipotensão e desequilíbrio dos electrólitos, com distúrbio ácido-base. 2ª Fase (24 a 48 horas): surgem sintomas gastrintestinais e deterioração das funções hepática e renal. 3ª Fase (3 a 5 dias): ocorre dano hepatocelular e falha renal, que pode evoluir para falha hepática severa; cardiomiopatias e coagulopatias. Os danos no fígado são irreversíveis sendo, nos casos mais graves, necessário recorrer ao transplante hepático. Nos casos fatais a morte resulta de falência hepática e/ou renal. Tratamento: lavagem gástrica, hidroterapia, antibioterapia e, nos casos mais graves, transplante hepático."
+    },
+    {
+      "nome": "Anjo-da-morte Amanita verna",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Fungo existente em todo o território nacional, geralmente em bosques e florestas.",
+      "descricao": "",
+      "perigo": "Ingestão",
+      "consequencias": "A intoxicação apresenta 3 fases. 1ª Fase (6 a 24 horas após a ingestão): náuseas, vómitos, diarreia severa, febre, taquicardia, hipoglicemia, hipotensão e desequilíbrio dos electrólitos, com distúrbio ácido-base. 2ª Fase (24 a 48 horas): surgem sintomas gastrintestinais e deterioração das funções hepática e renal. 3ª Fase (3 a 5 dias): ocorre dano hepatocelular e falha renal, que pode evoluir para falha hepática severa; cardiomiopatias e coagulopatias. Os danos no fígado são irreversíveis sendo, nos casos mais graves, necessário recorrer ao transplante hepático. Nos casos fatais a morte resulta de falência hepática e/ou renal. Tratamento: lavagem gástrica, hidroterapia, antibioterapia e, nos casos mais graves, transplante hepático."
+    },
+    {
+      "nome": "Plantas",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Plantas",
+      "descricao": "Plantas",
+      "perigo": "Plantas",
+      "consequencias": "Plantas"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Identificação",
+      "descricao": "Características",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Cicuta Conium maculatum",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Planta existente em todo o território nacional.",
+      "descricao": "Erva aromática, anual ou bienal, de 30–200 cm de altura, com caules cilíndricos, ocos e geralmente manchados de cor púpura. Folhas triangulares e sem pêlos. Umbelas terminais com flores brancas.",
+      "perigo": "Ingestão",
+      "consequencias": "Todas as partes da planta são muito venenosas devido a conterem alcalóides (cicutina). Sintomas: ardor na boca e garganta, náuseas, vómitos, diarreia, paralisia progressiva dos músculos, esfriamento das extremidades, convulsões e, por fim, a morte por paragem cárdio-respiratória."
+    },
+    {
+      "nome": "Dedaleira Digitalis purpurea",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Planta existente em todo o território nacional, abundante na Serra da Estrela.",
+      "descricao": "Erva bienal alta, com até 150 cm de altura, e flores púrpuras.",
+      "perigo": "Ingestão",
+      "consequencias": "A planta é venenosa, especialmente através de infusão (chá) das folhas, mas também pelo consumo das folhas ou flores. Sintomas: ardor na boca e garganta, náuseas, vómitos, diarreias; podem ocorrer convulsões e morte por paragem cárdio-respiratória."
+    },
+    {
+      "nome": "Embude Oenanthe crocata",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Planta existente em todo o território nacional.",
+      "descricao": "Erva com folhas semelhantes à salsa (Petroselinum crispum) e flores brancas.",
+      "perigo": "Ingestão",
+      "consequencias": "A planta é venenosa. Sintomas: ardor na boca e garganta, náuseas, vómitos, diarreia; podem ocorrer convulsões e morte por paragem cárdio-respiratória."
+    },
+    {
+      "nome": "Erva-moura Solanum nigrum",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Planta existente em todo o território nacional.",
+      "descricao": "Erva com folhas largas, flores brancas e frutos negros.",
+      "perigo": "Ingestão",
+      "consequencias": "A planta é tóxica devido à presença de solanina (alcalóide). Sintomas: ardor na boca e garganta, náuseas, vómitos, diarreia e, também, convulsões e morte por paragem cárdio-respiratória."
+    },
+    {
+      "nome": "Estramónio Datura stramonium",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Planta invasora existente em Portugal Continental e na Madeira.",
+      "descricao": "Planta herbácea anual, com até 2 m de altura. Folhas ovaladas com pecíolo com pêlos. Grandes flores brancas ou violetas. Frutos em cápsulas ovóides cobertas de acúleos (espinhos).",
+      "perigo": "Ingestão",
+      "consequencias": "A planta é tóxica devido à presença de atropina (alcalóide). Sintomas: delírio, que se manifesta em excitação, angústia, desorientação, alucinações e insónia; podem ocorrer convulsões e morte por paragem cárdio-respiratória."
+    },
+    {
+      "nome": "Oleandro Nerium oleander",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Planta invasora existente em todo o território nacional.",
+      "descricao": "Planta decorativa comum, vista frequentemente nos separadores centrais de auto-estradas e outros locais. É um arbusto grande, podendo ter por volta de 3 a 5 m de altura (embora haja uma variedade menor). Suas flores podem ser brancas, róseas ou vermelhas. As folhas são estreitas e longas, às vezes descritas como em formato de ponta de lança. É uma planta pouco exigente no que diz respeito à temperatura e humidade.",
+      "perigo": "Ingestão",
+      "consequencias": "Os sintomas da intoxicação, que podem não demorar ou aparecer várias horas depois da ingestão (ou contato com a seiva), incluem dores abdominais, pulsação acelerada (taquicardia), ansiedade, gastrite, diarreia, vertigem, sonolência, dispnéia, irritação da boca, náusea, vômitos, coma e morte."
+    },
+    {
+      "nome": "Touro Bos tauros",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Mamífero criado em todo o território nacional.",
+      "descricao": "Corpulento com hastes desenvolvidas.",
+      "perigo": "Investida e pisadura",
+      "consequencias": "Os bovinos podem causar lesões traumatogénicas (perfurantes ou contundentes) graves ou fatais através de investida (mesmo embolados) ou de pisadura. A raça brava (touros ou vacas bravas) são mais susceptíveis de ataques deliberados."
+    },
+    {
+      "nome": "Lobo-ibérico Canis lupus signatus",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Mamífero distribuído em Portugal Continental por duas populações, a Norte do Douro (maioria das alcateias) no Minho e em Trás-os-Montes, e a Sul do Douro na Beira Alta.",
+      "descricao": "Semelhante a outras subespécies do lobo-cinzento, os lobos-ibéricos machos medem 130–180 cm de comprimento e pesam 30–40 kg, enquanto as fêmeas medem 130–160 cm e pesam 25–35 kg. A altura ao garrote pode chegar aos 70 cm.",
+      "perigo": "Mordedura",
+      "consequencias": "A mordedura dos lobos pode causar lesões traumatogénicas graves ou fatais. Em Portugal os ataques fortuitos a humanos são raros, não havendo registo de ataques a humanos nos últimos 25 anos, somente a animais (principalmente cabras e ovelhas)."
+    },
+    {
+      "nome": "Cão Canis lupus familiaris",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Mamífero criado em todo o território nacional.",
+      "descricao": "Existem diversas raças com tamanho e características distintas.",
+      "perigo": "Mordedura",
+      "consequencias": "A mordedura dos cães pode causar lesões traumatogénicas graves ou fatais. Podem também transmitir patologias (ex. raiva). As raças consideradas perigosas por lei em Portugal são: Cão de Fila Brasileiro, Dogue Argentino, Pit Bull Terrier, Rottweiler, Staffordshire Terrier Americano, Staffordshire Bull Terrier e Tosa Inu. Atenção: outras raças de médio ou grande porte também podem constituir perigo para o ser humano ou para animais."
+    },
+    {
+      "nome": "Viúva-negra mediterrânica Latrodectus tredecimguttatus",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Aracnídeo da família das viúvas-negras (latrodectus), esta aranha é comum em Portugal Continental, com predominância no Alentejo e Algarve, mas geralmente em áreas rurais. Incomum em habitações. Muitas vezes confundida com aranhas como Steatoda grossa ou Steatoda nobilis (falsas viúvas-negras) comuns em habitações. É contudo inconfundível caso possua as distintas manchas laranja/vermelho pálido ou vivo.",
+      "descricao": "Fêmea: corpo com 14–15 mm, carapaça (com depressão na zona torácica) e patas negras, abdómen volumoso negro com pêlos bífidos e 3 linhas brancas com 13 manchas laranja, vermelhas ou amarelas, mas há também a forma negra integral (lugubris) ou com as manchas bordeadas de branco ou amarelo. Macho: corpo 8–10 mm e abdómen mais pequeno.",
+      "perigo": "Picada",
+      "consequencias": "A gravidade do envenenamento é variável. O veneno é neurotóxico. Sintomas de latrodectismo: dor intensa, edema, cãibras musculares, inluindo rigidez abdominal com dificuldade respiratória, rigidez facial (facies latrodectismica) e rigidez dos músculos penianos (priapismo), aceleração cardíaca, hipertensão, oligúria, suores profusos, hipersalivação e paralesias parciais temporárias; pode provocar necrose e, no caso de crianças com peso inferior a 15 kg, choque e morte. Tratamento: hidroterapia, antibioterapia e soro antilatrodéctico. Prognóstico: com assistência médica imediata na maioria dos casos a vítima começa a recuperar em 12-24 horas e cura-se sem sequelas em alguns dias."
+    },
+    {
+      "nome": "Reclusa-mediterrânica (ou Aranha-violino) Loxosceles rufescens",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Aracnídeo comum em Portugal Continental, com predominância no Alentejo e Algarve. Apresenta-se tanto em áreas rurais (debaixo de troncos e pedras), como em áreas urbanas (é comum no interior de casas e armazéns). Podem ser facilmente confundidas com aranhas-de-casa (muito comuns em habitações mas inofensivas), ou com espécimes maiores de Pholcus phalangioides (comuns em habitações mas inofensivas).",
+      "descricao": "Fêmea: corpo com 7–10 mm, carapaça de cor castanha, amarela ou avermelhada, abdómen oval cinzento ou amarelo pálido, sem padrões e com pêlos curtos escuros, mas com uma mancha cardíaca esbatida mais escura. Tem 6 olhos bem separados em três grupos de dois. Patas compridas e delgadas, com as mesmas cores da carapaça e do abdómen. Macho: corpo com 7–10 mm, abdómen menos volumoso e patas proporcionalmente mais compridas e delgadas.",
+      "perigo": "Picada",
+      "consequencias": "Apesar de relativamente raras (por não ser agressiva e fugir da presença humana), as picadas da aranha-violino são as mais frequentes picadas de aranha em Portugal (por ser comum em habitações). O veneno da aranha-violino é citotóxico e necrosante. Sintomas de loxoscelismo: dor local, edema, que após 1-2 dias apresenta placa violácea com áreas hemorrágicas e que, em casos graves, evolui para ulceração local profunda, necrose tissular (morte dos tecidos no local da picada) e possível gangrena. Tratamento: limpeza da ferida, gelo e antibioterapia."
+    },
+    {
+      "nome": "Tarântula-ibérica (ou Tarântula-mediterrânica) Lycosa hispanica (ou Lycosa tarantula)",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Aracnídeo existente em Portugal Continental e na Madeira, com predominância no Algarve e Madeira. Não faz teias, escavando antes tocas. É incomum em habitações. É confundível com a aranha-lobo-radiada (Hogna radiata). Tem hábitos predominantemente nocturnos, mas também pode estar activa à tarde.",
+      "descricao": "Aranha de grandes dimensões. Com envergadura total de 6–7 cm é a maior aranha da Europa. Fêmea: corpo até 30 mm, abdómen cinzento com pêlos e face ventral negra com os lados laranja vivo. Patas robustas, pilosas e cinzentas/negras por cima e laranja por baixo. Macho: corpo até 25 mm, patas mais compridas e abdómen menor que a fêmea.",
+      "perigo": "Picada",
+      "consequencias": "Veneno de baixa toxicidade para os seres humanos que, contudo, pode provocar dor local, edema e, em casos raros, necrose local."
+    },
+    {
+      "nome": "Aranha-lobo-radiada Hogna radiata",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Aracnídeo existente em Portugal Continental e na Madeira, com predominância no Alentejo, Algarve e Madeira. É a espécie de licosídeo (tarântulas) mais comum em Portugal. Tem hábitos predominantemente nocturnos, mas também pode estar activa à tarde.",
+      "descricao": "Mais pequena e com patas mais finas, mas mais agressiva que a tarântula-ibérica. Aranha de grandes dimensões. Fêmea: corpo até 20 mm, castanho, com pêlos e face ventral negra. Patas robustas e pilosas. Macho: corpo 15–18 mm.",
+      "perigo": "Picada",
+      "consequencias": "Veneno de baixa toxicidade para os seres humanos que, contudo, pode provocar dor local, edema e, em casos raros, necrose local."
+    },
+    {
+      "nome": "Tarântula-de-porto-santo (ou Aranha-Lobo-de-Porto-Santo) Hogna schmitzi",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Aranha endémica da ilha de Porto Santo, no Arquipélago da Madeira, catalogada por Wunderlich em 1992. Tem hábitos predominantemente nocturnos, mas também pode estar activa à tarde.",
+      "descricao": "Aranha de grandes dimensões. Carapaça e abdómen cinzentos, com pêlos, e face ventral negra. Patas robustas, pilosas e laranja por cima e negras por baixo.",
+      "perigo": "Picada",
+      "consequencias": "Veneno de baixa toxicidade para os seres humanos que, contudo, pode provocar dor local, edema e, em casos raros, necrose local."
+    },
+    {
+      "nome": "Tarântula-das-desertas Hogna ingens",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Aranha endémica das ilhas Desertas, no Arquipélago da Madeira, catalogada por Blackwall em 1857. Tem hábitos predominantemente nocturnos, mas também pode estar activa à tarde.",
+      "descricao": "Aranha de grandes dimensões. Carapaça cinzenta/negra com pêlos, abdómen cinzento com pêlos e face ventral negra. Patas robustas, pilosas e cinzentas salpicadas de branco.",
+      "perigo": "Picada",
+      "consequencias": "Veneno de baixa toxicidade para os seres humanos que, contudo, pode provocar dor local, edema e, em casos raros, necrose local."
+    },
+    {
+      "nome": "Escorpião (ou Lacrau) Buthus ibericus",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Aracnídeo existente em Portugal Continental, com predominância no Alentejo e Algarve.",
+      "descricao": "Com 5–6 cm de comprimento, geralmente de cor amarela. Tem hábitos predominantemente nocturnos, tornando-se activo ao entardecer. Incomum em habitações.",
+      "perigo": "Picada",
+      "consequencias": "O veneno do lacrau é neurotóxico. Sintomas: dor muito intensa, edema, paralisia parcial do membro afectado, ansiedade, arrepios, cãibras musculares, hipotensão, aumento da pulsação cardíaca e diminuição da temperatura corporal. Crianças e idosos têm sintomas exacerbados, tal como em caso de picadas na cabeça, pescoço, tórax ou abdómen. Tratamento: aplicação local de anestésico, analgesia e soro antiescorpiónico. Prognóstico: as picadas de lacrau geralmente não são fatais nem deixam sequelas, salvo casos de crianças muito pequenas ou hipersensibilidade (pode ocorrer choque e, sem tratamento, morte)."
+    },
+    {
+      "nome": "Quilópodes",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Quilópodes",
+      "descricao": "Quilópodes",
+      "perigo": "Quilópodes",
+      "consequencias": "Quilópodes"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Centopeia-mediterrânica (ou Centopeia-amarela) Scolopendra cingulata",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Artrópode da classe Quilópode existente no Alentejo e Algarve. Pode ser encontrada no solo, debaixo de pedras ou manta morta, preferencialmente em locais mais húmidos. Ocasional em habitações. Tem hábitos predominantemente nocturnos.",
+      "descricao": "Com até 12 cm de comprimento, é a maior espécie de centopeia de Portugal e da Europa. Com corpo listado, de cor castanha, castanha-avermelhada ou castanha-amarelada, com 8 ocelos e 21 pares de patas robustas, com o último par mais robusto e espinhoso.",
+      "perigo": "Picada",
+      "consequencias": "Veneno de baixa toxicidade para os seres humanos que, contudo, pode provocar dor muito intensa, eritema (vermelhidão) e edema. Tratamento: gelo, aplicação local de anestésico, analgesia e, se necessário, corticosteróides. No caso de crianças muito pequenas ou hipersensibilidade é necessária assistência médica imediata."
+    },
+    {
+      "nome": "Centopeia Scolopendra oraniensis",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Artrópode da classe Quilópode existente em todo o território nacional, com predominância no Alentejo e Algarve. Comum em habitações. Tem hábitos predominantemente nocturnos.",
+      "descricao": "De cor castanha ou amarela, com longas listas longitudinais e 15 pares de patas finas.",
+      "perigo": "Picada",
+      "consequencias": "Menos perigosa que a espécie Scolopendra cingulata. Veneno de baixa toxicidade para os seres humanos que, contudo, pode provocar dor muito intensa, eritema (vermelhidão) e edema."
+    },
+    {
+      "nome": "Peixes",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Peixes",
+      "descricao": "Peixes",
+      "perigo": "Peixes",
+      "consequencias": "Peixes"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Peixe-aranha-comum Echiichthys vipera",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Peixe existente na Costa Portuguesa, com predominância em praias arenosas do Litoral Alentejano e Algarve.",
+      "descricao": "Peixe de cor amarela ou castanha com até 37 cm, contendo espinhos venenosos nas barbatanas dorsais e nas brânquias (guelras). Encontra-se enterrado na areia em águas pouco profundas, sendo mais comuns as picadas na baixa-mar.",
+      "perigo": "Picada",
+      "consequencias": "Não são agressivos, as picadas não resultam de qualquer ataque, mas de serem pisados inadvertidamente. As zonas mais afectadas são os pés (devido à vítima pisar o peixe-aranha enterrado na areia ou o rascasso escondido junto a rochas) ou, raramente, a barriga no caso de crianças que chapinhem deitadas na água. Os sintomas mais significativos iniciam-se 2-3 minutos após a picada. Sintomas: dor local muito intensa, edema, dormência, formigueiro, náuseas, vômitos, dores articulares, dores de cabeça, cólicas abdominais, tonturas, aumento do volume miccional e tremores. Sintomas raros: arritmia, fraqueza, dificuldade respiratória, convulsões, diminuição da pressão arterial, gangrena, degeneração de tecidos e perda de consciência. Tratamento: colocar o membro afectado em água quente (inactiva o veneno que é termolábil) e retirar os espinhos remanescentes; analgesia e aplicação de anti-inflamatórios e antissépticos. Em caso de sintomas raros é necessária assistência médica. Prognóstico: a vítima recupera totalmente em algumas horas ou dias."
+    },
+    {
+      "nome": "Peixe-aranha-maior Trachinus draco",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Peixe existente na Costa Portuguesa, com predominância em praias arenosas do Algarve.",
+      "descricao": "Peixe de cor amarela, castanha ou verde-escura com até 53 cm, contendo espinhos venenosos nas barbatanas dorsais e nas brânquias (guelras). Encontra-se enterrado na areia, sendo mais comuns as picadas na baixa-mar.",
+      "perigo": "Picada",
+      "consequencias": "Não são agressivos, as picadas não resultam de qualquer ataque, mas de serem pisados inadvertidamente. As zonas mais afectadas são os pés (devido à vítima pisar o peixe-aranha enterrado na areia ou o rascasso escondido junto a rochas) ou, raramente, a barriga no caso de crianças que chapinhem deitadas na água. Os sintomas mais significativos iniciam-se 2-3 minutos após a picada. Sintomas: dor local muito intensa, edema, dormência, formigueiro, náuseas, vômitos, dores articulares, dores de cabeça, cólicas abdominais, tonturas, aumento do volume miccional e tremores. Sintomas raros: arritmia, fraqueza, dificuldade respiratória, convulsões, diminuição da pressão arterial, gangrena, degeneração de tecidos e perda de consciência. Tratamento: colocar o membro afectado em água quente (inactiva o veneno que é termolábil) e retirar os espinhos remanescentes; analgesia e aplicação de anti-inflamatórios e antissépticos. Em caso de sintomas raros é necessária assistência médica. Prognóstico: a vítima recupera totalmente em algumas horas ou dias."
+    },
+    {
+      "nome": "Rascasso-vermelho Scorpaena scrofa",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Peixe existente na Costa Portuguesa, com predominância em praias rochosas do Algarve.",
+      "descricao": "Peixe de cor vermelha com 26–50 cm, contendo espinhos venenosos nas barbatanas dorsais. Peixe solitário e de hábitos nocturnos, passa o dia praticamente imóvel, disfarçado entre rochas e algas em águas pouco profundas ou poças de água na baixa-mar.",
+      "perigo": "Picada",
+      "consequencias": "Não são agressivos, as picadas não resultam de qualquer ataque, mas de serem pisados inadvertidamente. As zonas mais afectadas são os pés (devido à vítima pisar o peixe-aranha enterrado na areia ou o rascasso escondido junto a rochas) ou, raramente, a barriga no caso de crianças que chapinhem deitadas na água. Os sintomas mais significativos iniciam-se 2-3 minutos após a picada. Sintomas: dor local muito intensa, edema, dormência, formigueiro, náuseas, vômitos, dores articulares, dores de cabeça, cólicas abdominais, tonturas, aumento do volume miccional e tremores. Sintomas raros: arritmia, fraqueza, dificuldade respiratória, convulsões, diminuição da pressão arterial, gangrena, degeneração de tecidos e perda de consciência. Tratamento: colocar o membro afectado em água quente (inactiva o veneno que é termolábil) e retirar os espinhos remanescentes; analgesia e aplicação de anti-inflamatórios e antissépticos. Em caso de sintomas raros é necessária assistência médica. Prognóstico: a vítima recupera totalmente em algumas horas ou dias."
+    },
+    {
+      "nome": "Raia Myliobatis aquila",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Peixe existente na Costa Portuguesa.",
+      "descricao": "Peixe cartilaginoso de cor castanha, com o corpo achatado dorsiventralmente e contendo um ferrão venenoso na cauda longa.",
+      "perigo": "Picada",
+      "consequencias": "Afecta maioritariamente mergulhadores e raramente banhistas (quando a raias são pisadas, geralmente na baixa-mar). Sintomas: trauma local (da perfuração do ferrão), dor muito intensa, edema, cãibras musculares, náuseas, fadiga, dores de cabeça, calafrios e febre; possível infecção bacteriana ou fúngica. Geralmente benignas, as picadas de raia podem causar risco de vida em caso de hipersensibilidade ou no caso da picada se localizar em locais sensíveis (cabeça, pescoço, tórax ou abdómen). Tratamento: é necessária assistência médica; colocar o membro afectado em água quente (ajuda a inactivar o veneno que é termolábil); antibioterapia (para prevenir infecções), analgesia e aplicação de anestésico local, anti-inflamatórios e antissépticos. Prognóstico: na maioria dos casos as dores e restantes sintomas cessam até 48 horas após a picada (com os piores sintomas nos primeiros 30-60 minutos)."
+    },
+    {
+      "nome": "Raia Myliobatis aquila",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Peixe existente na Costa Portuguesa.",
+      "descricao": "Peixe cartilaginoso de cor amarela, com tons avermelhados, com o corpo achatado dorsiventralmente e contendo um ferrão venenoso na causa.",
+      "perigo": "Picada",
+      "consequencias": "Afecta maioritariamente mergulhadores e raramente banhistas (quando a raias são pisadas, geralmente na baixa-mar). Sintomas: trauma local (da perfuração do ferrão), dor muito intensa, edema, cãibras musculares, náuseas, fadiga, dores de cabeça, calafrios e febre; possível infecção bacteriana ou fúngica. Geralmente benignas, as picadas de raia podem causar risco de vida em caso de hipersensibilidade ou no caso da picada se localizar em locais sensíveis (cabeça, pescoço, tórax ou abdómen). Tratamento: é necessária assistência médica; colocar o membro afectado em água quente (ajuda a inactivar o veneno que é termolábil); antibioterapia (para prevenir infecções), analgesia e aplicação de anestésico local, anti-inflamatórios e antissépticos. Prognóstico: na maioria dos casos as dores e restantes sintomas cessam até 48 horas após a picada (com os piores sintomas nos primeiros 30-60 minutos)."
+    },
+    {
+      "nome": "Raia Myliobatis aquila",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Peixe existente na Costa Portuguesa.",
+      "descricao": "Peixe cartilaginoso de cor castanha, com tons amarelados e avermelhados, com o corpo achatado dorsiventralmente e contendo um ferrão venenoso na causa.",
+      "perigo": "Picada",
+      "consequencias": "Afecta maioritariamente mergulhadores e raramente banhistas (quando a raias são pisadas, geralmente na baixa-mar). Sintomas: trauma local (da perfuração do ferrão), dor muito intensa, edema, cãibras musculares, náuseas, fadiga, dores de cabeça, calafrios e febre; possível infecção bacteriana ou fúngica. Geralmente benignas, as picadas de raia podem causar risco de vida em caso de hipersensibilidade ou no caso da picada se localizar em locais sensíveis (cabeça, pescoço, tórax ou abdómen). Tratamento: é necessária assistência médica; colocar o membro afectado em água quente (ajuda a inactivar o veneno que é termolábil); antibioterapia (para prevenir infecções), analgesia e aplicação de anestésico local, anti-inflamatórios e antissépticos. Prognóstico: na maioria dos casos as dores e restantes sintomas cessam até 48 horas após a picada (com os piores sintomas nos primeiros 30-60 minutos)."
+    },
+    {
+      "nome": "Cnidários e Equinodermes",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Cnidários e Equinodermes",
+      "descricao": "Cnidários e Equinodermes",
+      "perigo": "Cnidários e Equinodermes",
+      "consequencias": "Cnidários e Equinodermes"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Alforreca (ou Medusa) Pelagia noctiluca",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Cnidário existente na Costa Portuguesa, com predominância na Costa Ocidental, Açores e Madeira.",
+      "descricao": "Corpo gelatinoso (umbrela) geralmente cor-de-rosa ou amarelo, com 8 longos tentáculos com cnidócitos (células urticantes) carregados de nematocistos (cápsulas urticantes).",
+      "perigo": "Picada",
+      "consequencias": "Veneno tóxico para os seres humanos. Sintomas: dor intensa, edema local, cãibras musculares e queimaduras dolorosas, que deixam flictenas (bolhas). No caso de hipersensibilidade pode ocorrer choque anafilático com risco de vida. Tratamento: remoção imediata dos fragmentos de tentáculos que fiquem presos à pele, seguido da aplicação local de solução aquosa de ácido acético (3 a 10%) ou vinagre (ou na sua falta água salgada), gelo e pasta de bicarbonato de sódio em água ou creme gordo; aplicação de analgésicos, anti-inflamatórios e anti-histamínicos sistémicos. Não usar água doce, álcool, amónia ou urina (devido a espalharem o veneno). Prognóstico: nos casos leves as lesões saram em dias ou semanas; nos casos graves são possíveis cicatrizes de duração prolongada ou vitalícia. Atenção: os cnidócitos encontram-se activos mesmo que a alforreca esteja fora de água ou se encontre morta."
+    },
+    {
+      "nome": "Medusa-tambor Rhizostoma luteum",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Cnidário existente na Costa Portuguesa.",
+      "descricao": "Corpo gelatinoso (umbrela) branco, podendo ter tons azulados ou violetas, com longos tentáculos com cnidócitos (células urticantes) carregados de nematocistos (cápsulas urticantes).",
+      "perigo": "Picada",
+      "consequencias": "Veneno tóxico para os seres humanos. Sintomas: dor intensa, edema local, cãibras musculares e queimaduras dolorosas, que deixam flictenas (bolhas). No caso de hipersensibilidade pode ocorrer choque anafilático com risco de vida. Tratamento: remoção imediata dos fragmentos de tentáculos que fiquem presos à pele, seguido da aplicação local de solução aquosa de ácido acético (3 a 10%) ou vinagre (ou na sua falta água salgada), gelo e pasta de bicarbonato de sódio em água ou creme gordo; aplicação de analgésicos, anti-inflamatórios e anti-histamínicos sistémicos. Não usar água doce, álcool, amónia ou urina (devido a espalharem o veneno). Prognóstico: nos casos leves as lesões saram em dias ou semanas; nos casos graves são possíveis cicatrizes de duração prolongada ou vitalícia. Atenção: os cnidócitos encontram-se activos mesmo que a alforreca esteja fora de água ou se encontre morta."
+    },
+    {
+      "nome": "Alforreca (ou Medusa) Chrysaora hysoscella",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Cnidário existente na Costa Portuguesa.",
+      "descricao": "Corpo gelatinoso (umbrela) radiado amarelo e castanho com até 30 cm, com 24 longos tentáculos com cnidócitos (células urticantes) carregados de nematocistos (cápsulas urticantes).",
+      "perigo": "Picada",
+      "consequencias": "Veneno tóxico para os seres humanos. Sintomas: dor intensa, edema local, cãibras musculares e queimaduras dolorosas, que deixam flictenas (bolhas). No caso de hipersensibilidade pode ocorrer choque anafilático com risco de vida. Tratamento: remoção imediata dos fragmentos de tentáculos que fiquem presos à pele, seguido da aplicação local de solução aquosa de ácido acético (3 a 10%) ou vinagre (ou na sua falta água salgada), gelo e pasta de bicarbonato de sódio em água ou creme gordo; aplicação de analgésicos, anti-inflamatórios e anti-histamínicos sistémicos. Não usar água doce, álcool, amónia ou urina (devido a espalharem o veneno). Prognóstico: nos casos leves as lesões saram em dias ou semanas; nos casos graves são possíveis cicatrizes de duração prolongada ou vitalícia. Atenção: os cnidócitos encontram-se activos mesmo que a alforreca esteja fora de água ou se encontre morta."
+    },
+    {
+      "nome": "Caravela-portuguesa Physalia physalis",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Cnidário existente na Costa Portuguesa.",
+      "descricao": "Corpo gelatinoso (umbrela) em crista de cor branca e com tons azuis e violetas, com longos tentáculos (podem ter alguns metros) com cnidócitos (células urticantes) carregados de nematocistos (cápsulas urticantes).",
+      "perigo": "Picada",
+      "consequencias": "Veneno tóxico para os seres humanos. Sintomas: dor intensa, edema local, cãibras musculares e queimaduras dolorosas, que deixam flictenas (bolhas). No caso de hipersensibilidade pode ocorrer choque anafilático com risco de vida. Tratamento: remoção imediata dos fragmentos de tentáculos que fiquem presos à pele, seguido da aplicação local de solução aquosa de ácido acético (3 a 10%) ou vinagre (ou na sua falta água salgada), gelo e pasta de bicarbonato de sódio em água ou creme gordo; aplicação de analgésicos, anti-inflamatórios e anti-histamínicos sistémicos. Não usar água doce, álcool, amónia ou urina (devido a espalharem o veneno). Prognóstico: nos casos leves as lesões saram em dias ou semanas; nos casos graves são possíveis cicatrizes de duração prolongada ou vitalícia. Atenção: os cnidócitos encontram-se activos mesmo que a alforreca esteja fora de água ou se encontre morta."
+    },
+    {
+      "nome": "Ouriço-do-mar Paracentrotus lividus",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Equinoderme existente na Costa Portuguesa.",
+      "descricao": "Corpo com 11–25 cm coberto de espinhos, com cores variáveis.",
+      "perigo": "Picada",
+      "consequencias": "O ouriço-do-mar é venenoso, mas o veneno é de baixa toxicidade para os seres humanos e raramente causa sintomas. O problema reside nos espinhos, que são dolorosos, numerosos e difíceis de retirar. Tratamento: retirar os espinhos com pinça, podendo ser usado vinagre (pois dissolve os espinhos)."
+    },
+    {
+      "nome": "Ouriço-de-espinhos-longos Centrostephanus longispinus",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Equinoderme existente na Costa Portuguesa.",
+      "descricao": "Corpo com 15–30 cm coberto de espinhos longos, com cores variáveis.",
+      "perigo": "Picada",
+      "consequencias": "O ouriço-do-mar é venenoso, mas o veneno é de baixa toxicidade para os seres humanos e raramente causa sintomas. O problema reside nos espinhos, que são dolorosos, numerosos e difíceis de retirar. Tratamento: retirar os espinhos com pinça, podendo ser usado vinagre (pois dissolve os espinhos)."
+    },
+    {
+      "nome": "Insectos",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insectos",
+      "descricao": "Insectos",
+      "perigo": "Insectos",
+      "consequencias": "Insectos"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Abelha do mel Apis mellifera",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem ou doméstico (apicultura) existente em todo o território nacional. As abelhas selvagens constroem as colmeias em árvores ocas e cavidades em telhados e paredes, com uma população muito numerosa (até 30.000 indivíduos). Apenas picam se forem provocadas. Os machos (zangões) não têm ferrão.",
+      "descricao": "Coloração castanha escura. Corpo coberto de pêlos.",
+      "perigo": "Picada",
+      "consequencias": "A abelha morre após a picada, ficando o ferrão a injectar veneno por 1-2 minutos. Apesar da picada ser dolorosa, o veneno, a apitoxina, é de baixa toxicidade para os seres humanos, sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: retirada do ferrão (com pinça), desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Abelha solitária Osmia spp.",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem existente em todo o território nacional. Constroem pequenos ninhos ao cuidado de uma só fêmea, geralmente em solo macio ou entre tijolos com cimento e argamassa moles. Raramente picam.",
+      "descricao": "Coloração castanha escura. Corpo coberto de pêlos.",
+      "perigo": "Picada",
+      "consequencias": "A abelha morre após a picada, ficando o ferrão a injectar veneno por 1-2 minutos. Apesar da picada ser dolorosa, o veneno, a apitoxina, é de baixa toxicidade para os seres humanos, sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: retirada do ferrão (com pinça), desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Abelha carpinteira Xylocopa virginica",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem existente em todo o território nacional. Escavam túneis na madeira para depositar os ovos. Só picam se forem provocadas. Os machos não têm ferrão.",
+      "descricao": "Entre 1,9 e 2,5 cm de comprimento. Coloração amarela brilhante, com pêlos cor de laranja ou brancos no tórax; sem pêlos no abdómen.",
+      "perigo": "Picada",
+      "consequencias": "A abelha morre após a picada, ficando o ferrão a injectar veneno por 1-2 minutos. Apesar da picada ser dolorosa, o veneno, a apitoxina, é de baixa toxicidade para os seres humanos, sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: retirada do ferrão (com pinça), desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Abelhão Bombus terrestris",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem existente em todo o território nacional (não confundir com o zangão, macho da abelha do mel). Constrói ninhos pequenos, com até 50 indivíduos. Pouco agressivo.",
+      "descricao": "Entre 11–17 mm de comprimento. Corpo com pêlos de coloração preta e amarela, com abdómen branco.",
+      "perigo": "Picada",
+      "consequencias": "Raramente pica, mas pode picar várias vezes (ao contrário da abelha do mel, o abelhão não deixa o ferrão na vítima) e a picada é muito dolorosa. O tratamento indicado é similar ao previsto para a picada da abelha."
+    },
+    {
+      "nome": "Vespa comum Vespula vulgaris",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem existente em todo o território nacional. Constroem os ninhos em águas-furtadas, cavidades de paredes, antigos buracos de roedores, árvores ocas e arbustos, com uma população de algumas dezenas até 25.000 indivíduos. O ninho morre durante o Inverno. Picam rapidamente e várias vezes.",
+      "descricao": "Abdómen preto e amarelo.",
+      "perigo": "Picada",
+      "consequencias": "O ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos (inferior ao da abelha), sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Vespa mediana Dolichovespula media",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem existente em todo o território nacional. Constroem ninhos acima do solo em áreas rurais ou urbanas, com até 800 indivíduos. O ninho morre durante o Inverno. Picam rapidamente e várias vezes.",
+      "descricao": "Abdómen preto com riscas amarelas.",
+      "perigo": "Picada",
+      "consequencias": "O ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos (inferior ao da abelha), sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Vespa germânica Vespula germanica",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem existente em todo o território nacional. Constroem ninhos acima do solo em áreas rurais ou urbanas, com milhares de indivíduos. Raramente o ninho sobrevive ao Inverno. Picam rapidamente e várias vezes.",
+      "descricao": "Abdómen preto com manchas amarelas.",
+      "perigo": "Picada",
+      "consequencias": "O ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos (inferior ao da abelha), sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Vespa de papel Polistes biglumis",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Insecto selvagem existente em todo o território nacional. Constroem ninhos de papel resistentes à água, utilizando fibras de madeira ou caules de plantas. O ninho morre durante o Inverno. Picam rapidamente e várias vezes.",
+      "descricao": "Abdómen preto com manchas amarelas.",
+      "perigo": "Picada",
+      "consequencias": "O ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos (inferior ao da abelha), sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Vespa asiática Vespa velutina",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Vespão invasor documentado em Portugal desde 2011, cuja colonização se iniciou no litoral Norte, atingindo hoje 12 Distritos. Esta espécie de vespão forma ninhos em áreas urbanas e rurais. Ataca as abelhas, sendo responsável por grandes prejuízos. É agressiva e ataca em enxame.",
+      "descricao": "Grandes dimensões, entre 17 e 32 mm. Corpo preto com uma ampla faixa laranja no abdómen e uma faixa amarela no primeiro segmento. Quando observada de frente a cabeça é laranja e as patas são amarelas nas pontas.",
+      "perigo": "Picada",
+      "consequencias": "Tal como nas demais vespas e vespões o ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos. Contudo a vespa asiática é agressiva e ataca em enxame, o que constitui perigo de picadas múltiplas, que em caso de número elevado podem causar risco de vida; o mesmo sucede em caso de hipersensibilidade (alergia) ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos e as picadas múltiplas constituem uma emergência médica."
+    },
+    {
+      "nome": "Vespa europeia Vespa crabro",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Vespão autóctone de Portugal, presente em todo o território nacional. O ninho é construído no tronco oco de uma árvore, em casas, ninhos de madeira para aves e em cortiços ou colmeias, raramente o fazem no solo ao contrário de outras vespas. Ataca as abelhas, mas apenas as moribundas. Não causa prejuízos.",
+      "descricao": "Grandes dimensões, entre 18 e 23mm. Tem o abdómen predominantemente amarelo pálido, com faixas pretas. A sua cabeça é amarela vista de frente e vermelha vista de cima. O tórax e as patas são pretas e encarnadas.",
+      "perigo": "Picada",
+      "consequencias": "Tal como nas restantes vespas e vespões o ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos, sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Vespa oriental Vespa orientalis",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Vespão presente em Portugal Continental. Ataca as abelhas, mas apenas as moribundas. Não causa prejuízos.",
+      "descricao": "Grandes dimensões, entre 18 e 23mm. É na sua totalidade encarnada. Só a cabeça vista de frente é amarela, assim como uma banda que apresenta no abdómen.",
+      "perigo": "Picada",
+      "consequencias": "Tal como nas restantes vespas e vespões o ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos, sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Vespa mamute Megascolia maculata",
+      "tipo_perigo": "Venenosas",
+      "identificacao": "Vespão presente em Portugal Continental. É um parasita das larvas dos coleópteros.",
+      "descricao": "Grandes dimensões (o maior vespão da Europa), até 6cm. Está coberto por uma densa camada de pêlos e tem um corpo preto brilhante. A sua cabeça é amarela no topo e tem 4 zonas amarelas sem pêlos no abdómen.",
+      "perigo": "Picada",
+      "consequencias": "Tal como nas restantes vespas e vespões o ferrão não fica preso na vítima, contudo a vespa pode picar várias vezes, inoculando uma quantidade variável de veneno. Este é de baixa toxicidade para os seres humanos, sendo contudo potencialmente perigoso (incluindo risco de vida) em caso de hipersensibilidade (alergia), elevado número de picadas ou se a picada ocorrer nas vias aéreas (garganta). Tratamento: desinfecção local, aplicação de gelo e, se necessário, administração de anti-histamínico. Os casos especiais referidos constituem uma emergência médica."
+    },
+    {
+      "nome": "Javali Sus scrofa",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Mamífero selvagem abundante em Portugal Continental, em bosques ou, de noite, em áreas agrícolas.",
+      "descricao": "Macho: peso entre 130–250 kg. Fêmea: peso entre 80–130 kg. Medem entre 125–180 cm de comprimento e podem alcançar uma altura no garrote de 100 cm.",
+      "perigo": "Investida ou mordedura",
+      "consequencias": "Os javalis podem provocar lesões traumatogénicas graves por mordedura mas principalmente com as presas (dentes que podem atingir 20 cm). Em casos extremos podem causar hemorragias ou lesões com risco de vida."
+    },
+    {
+      "nome": "Carneiro Ovis aries",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Mamífero criado em todo o território nacional.",
+      "descricao": "Existem diversas raças com tamanho e características distintas.",
+      "perigo": "Investida",
+      "consequencias": "Os ovinos e caprinos (mesmo os mochos, sem chifres), principalmente os machos, podem provocar lesões traumatogénicas graves por esmagamento (ao contrário dos bovinos que produzem feridas perfurantes)."
+    },
+    {
+      "nome": "Bode Capra aegagrus hircus",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Mamífero criado em todo o território nacional.",
+      "descricao": "Existem diversas raças com tamanho e características distintas.",
+      "perigo": "Investida",
+      "consequencias": "Os ovinos e caprinos (mesmo os mochos, sem chifres), principalmente os machos, podem provocar lesões traumatogénicas graves por esmagamento (ao contrário dos bovinos que produzem feridas perfurantes)."
+    },
+    {
+      "nome": "Gato Felis silvestris catus",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Mamífero criado em todo o território nacional.",
+      "descricao": "Existem diversas raças com tamanho e características distintas.",
+      "perigo": "Arranhadura (ataque com garras) e mordedura",
+      "consequencias": "Os gatos podem provocar lesões traumatogénicas graves, especialmente com as garras, que podem deixar sequelas permanentes. Podem causar a doença por arranhadura do gato."
+    },
+    {
+      "nome": "Peixes",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Peixes",
+      "descricao": "Peixes",
+      "perigo": "Peixes",
+      "consequencias": "Peixes"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Moreia-pintada Muraena helena",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Peixe existente na Costa de Portugal Continental, Açores e Madeira, geralmente em cavidades rochosas.",
+      "descricao": "Peixe ósseo anguiliforme com corpo longo, robusto e cilíndrico, de cor castanha, podendo ter manchas amareladas de núcleo castanho, medindo até 1,5 metros.",
+      "perigo": "Mordedura",
+      "consequencias": "As mordeduras das moreias podem provocar ferimentos sérios e dolorosos, que podem inclusive deixar sequelas permanentes. É necessária assistência médica. Tratamento: antibioterapia e aplicação de antissépticos. Geralmente afecta apenas mergulhadores."
+    },
+    {
+      "nome": "Moreia-preta Muraena augusti",
+      "tipo_perigo": "Traumatogénicas",
+      "identificacao": "Peixe existente na Costa dos Açores e Madeira, geralmente em cavidades rochosas.",
+      "descricao": "Peixe ósseo anguiliforme de olhos esbranquiçados, com corpo longo, robusto e cilíndrico, de coloração variável entre o azul escuro e o castanho, de acordo com o fundo onde se encontra (possui capacidade mimética), medindo até 1,3 metros.",
+      "perigo": "Mordedura",
+      "consequencias": "As mordeduras das moreias podem provocar ferimentos sérios e dolorosos, que podem inclusive deixar sequelas permanentes. É necessária assistência médica. Tratamento: antibioterapia e aplicação de antissépticos. Geralmente afecta apenas mergulhadores."
+    },
+    {
+      "nome": "Mosquito Aedes aegypti",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Mosquito (insecto) da família dos culicídios (culicidae), espécie invasora existente na Ilha da Madeira, pelo menos desde 2005. Existe tanto em zonas rurais como urbanas.",
+      "descricao": "O Aedes aegypti é um mosquito hematófago com actividade diurna, que tem como vítima preferencial o Homem e praticamente não faz qualquer som audível antes de picar. Mede menos de 1 centímetro; é preto com manchas brancas no corpo e nas patas.",
+      "perigo": "Picada",
+      "consequencias": "O Aedes aegypti é vector de dengue e de outras doenças graves. Presente na Ilha da Madeira desde 2005 este mosquito provocou um surto de dengue entre 2012 e 2013, com a duração de 6 meses mas sem óbitos registados, não tendo ocorrido casos de dengue hemorrágico."
+    },
+    {
+      "nome": "Pulga Ctenocephalides",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Insecto existente em todo o Território Nacional. Existe tanto em áreas urbanas como rurais, parasitando o Homem e animais domésticos ou selvagens.",
+      "descricao": "Possui corpo ovalado de cor castanha de variados tons e 6 patas, com desenvolvimento acentuado do par anterior (usado para saltar).",
+      "perigo": "Picada",
+      "consequencias": "Este insecto hematófago é vector de várias patologias, podendo transmitir ao Homem riquetsioses, como tifo murino, e outras doenças bacterianas como tularémia, salmoneloses e peste bubónica, bem como outras patologias como himenolepíase, com baixa patogenia conhecida em Portugal (com excepção da peste bubónica que actualmente não tem patogenia conhecida)."
+    },
+    {
+      "nome": "Piolho da cabeça Pediculus humanus capitis",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Insecto existente em todo o Território Nacional. Existe tanto em áreas urbanas como rurais, parasitando o Homem.",
+      "descricao": "Insecto hematófago, de cor cinzento claro (ou avermelhado após alimentar-se), possui corpo ovalado, medindo de 2,5 a 3 mm, sem asas, distinguindo-se a cabeça com um par de antenas, toráx com 6 patas e abdómen com 7 segmentos.",
+      "perigo": "Picada",
+      "consequencias": "Os piolhos, principalmente o piolho do corpo, são vectores de várias patologias, como tifo murino, febre recorrente ou febre das trincheiras, com baixa patogenia conhecida em Portugal."
+    },
+    {
+      "nome": "Piolho do corpo Pediculus humanus humanus",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Insecto existente em todo o Território Nacional. Existe tanto em áreas urbanas como rurais, parasitando o Homem.",
+      "descricao": "Insecto hematófago, de cor acastanhada ou cinzento claro (ou avermelhado após alimentar-se), possui corpo ovalado, medindo de 2,5 a 3,5 mm, sem asas, distinguindo-se a cabeça com um par de antenas, toráx com 6 patas e abdómen com 7 segmentos.",
+      "perigo": "Picada",
+      "consequencias": "Os piolhos, principalmente o piolho do corpo, são vectores de várias patologias, como tifo murino, febre recorrente ou febre das trincheiras, com baixa patogenia conhecida em Portugal."
+    },
+    {
+      "nome": "Piolho púbico Pthirus pubis",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Insecto existente em todo o Território Nacional. Existe tanto em áreas urbanas como rurais, parasitando o Homem.",
+      "descricao": "Insecto hematófago, de cor amarelada (ou avermelhado após alimentar-se), possui corpo arredondado, medindo de 1 a 3 mm, sem asas e com 6 patas.",
+      "perigo": "Picada",
+      "consequencias": "Os piolhos, principalmente o piolho do corpo, são vectores de várias patologias, como tifo murino, febre recorrente ou febre das trincheiras, com baixa patogenia conhecida em Portugal."
+    },
+    {
+      "nome": "Aracnídios",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Aracnídios",
+      "descricao": "Aracnídios",
+      "perigo": "Aracnídios",
+      "consequencias": "Aracnídios"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Carraça Rhipicephalus sanguineus",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Aracnídio da família dos ixodídeos (ixodidae) existente em todo o Território Nacional. Existe tanto em áreas urbanas como rurais.",
+      "descricao": "Aracnídeo hematófago, possui corpo ovalado e 8 patas de cor castanha de variados tons, com quelícera curta.",
+      "perigo": "Picada",
+      "consequencias": "Este ixodídeo é vector de febre botonosa ou escaro-nudolar (febre da carraça) transmissível ao Homem e a animais domésticos, com patogenia conhecida em Portugal."
+    },
+    {
+      "nome": "Carraça Ixodes ricinus",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Aracnídio da família dos ixodídeos (ixodidae) existente em todo o Território Nacional. Predominante em áreas rurais.",
+      "descricao": "Aracnídeo hematófago, possui corpo ovalado e 8 patas de cor castanha ou bege, com carapaça maciça nos machos e parcialmente mole nas fêmeas. Não possui olhos, usando antes o órgão de Halle.",
+      "perigo": "Picada",
+      "consequencias": "Este ixodídeo é vector de borreliose de Lyme (doença de Lyme), ehrlichiose granulocítica humana e perimiocardite crónica. Destas patologias a borreliose de Lyme tem patogenia conhecida em Portugal."
+    },
+    {
+      "nome": "Carraça Dermacentor marginatus",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Aracnídio da família dos ixodídeos (ixodidae) existente em todo o Território Nacional. Predominante em áreas rurais.",
+      "descricao": "Aracnídeo hematófago, possui corpo ovalado e 8 patas de cor castanha ou bege.",
+      "perigo": "Picada",
+      "consequencias": "Este ixodídeo é vector de borreliose de Lyme (doença de Lyme) e tibola. Destas patologias a borreliose de Lyme tem patogenia conhecida em Portugal."
+    },
+    {
+      "nome": "Ácaro Sarcoptes scabiei",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Aracnídio da família dos sarcoptodes (sarcoptidae) existente em todo o Território Nacional.",
+      "descricao": "Aracnídeo hematófago, possui corpo globoso e cabeça curta. As patas são curtas, grossas e cónicas com ventosas tarsais.",
+      "perigo": "Picada",
+      "consequencias": "Este ácaro é vector de escabiose (sarna), com patogenia conhecida em Portugal."
+    },
+    {
+      "nome": "Mamíferos",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Mamíferos",
+      "descricao": "Mamíferos",
+      "perigo": "Mamíferos",
+      "consequencias": "Mamíferos"
+    },
+    {
+      "nome": "Nome",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Identificação",
+      "descricao": "Descrição",
+      "perigo": "Perigo",
+      "consequencias": "Consequências"
+    },
+    {
+      "nome": "Ratazana Rattus norvegicus",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Roedor da família dos murídios (muridae) existente em todo o Território Nacional. Tem hábitos nocturnos. Existe tanto em áreas urbanas como rurais.",
+      "descricao": "Possui corpo cinzento-acastanhado robusto com 18 a 25 cm de comprimento e 250 a 600 g de peso. Tem pêlos ásperos, orelhas pequenas e arredondadas, e olhos pequenos. A cauda é grossa e peluda medindo cerca de 15 a 21 cm.",
+      "perigo": "Mordedura ou contacto com fluídos",
+      "consequencias": "A ratazana e o rato preto são mais agressivos, com maior perigo de mordedura. Mas a principal perigosidade reside no facto de que as 3 espécies são vectoras de doenças graves transmissíveis ao Homem e a animais domésticos, tais como: leptospirose, salmonelose, sarna e micoses (com patogenia em Portugal), mas também tifo, peste bubónica e febre hemorrágica. Destas a de maior preocupação em Portugal é a leptospirose, com especial impacto nos Açores. O contágio pode ocorrer por contacto directo, por mordedura ou manuseamento, ou indirecto, através do contacto com urina, fezes, saliva ou sangue dos roedores. O perigo de contágio é maior no caso da ratazana e rato preto."
+    },
+    {
+      "nome": "Rato Preto Rattus rattus",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Roedor da família dos murídios (muridae) existente em todo o Território Nacional. Tem hábitos nocturnos e excelente capacidade como trepador. Existe tanto em áreas urbanas como rurais.",
+      "descricao": "Possui corpo preto esguio com 16 a 21 cm de comprimento e de 80 a 300 g de peso. Tem pelagem delicada e orelhas e olhos grandes. A cauda é fina e com poucos pêlos medindo cerca de 19 a 25 cm.",
+      "perigo": "Mordedura ou contacto com fluídos",
+      "consequencias": "A ratazana e o rato preto são mais agressivos, com maior perigo de mordedura. Mas a principal perigosidade reside no facto de que as 3 espécies são vectoras de doenças graves transmissíveis ao Homem e a animais domésticos, tais como: leptospirose, salmonelose, sarna e micoses (com patogenia em Portugal), mas também tifo, peste bubónica e febre hemorrágica. Destas a de maior preocupação em Portugal é a leptospirose, com especial impacto nos Açores. O contágio pode ocorrer por contacto directo, por mordedura ou manuseamento, ou indirecto, através do contacto com urina, fezes, saliva ou sangue dos roedores. O perigo de contágio é maior no caso da ratazana e rato preto."
+    },
+    {
+      "nome": "Rato Doméstico Mus musculus",
+      "tipo_perigo": "Espécies vectoras de doenças",
+      "identificacao": "Roedor da família dos murídios (muridae) existente em todo o Território Nacional. Tem hábitos nocturnos. Existe tanto em áreas urbanas como rurais.",
+      "descricao": "Possui um corpo cinzento-acastanhado delgado com 8 a 9 cm de comprimento e 10 a 21 g de peso. Tem um pelo delicado e sedoso, orelhas grandes e salientes, olhos pretos, pequenos e salientes, e a cauda é fina e sem pêlos medindo 8 a 10 cm.",
+      "perigo": "Mordedura ou contacto com fluídos",
+      "consequencias": "A ratazana e o rato preto são mais agressivos, com maior perigo de mordedura. Mas a principal perigosidade reside no facto de que as 3 espécies são vectoras de doenças graves transmissíveis ao Homem e a animais domésticos, tais como: leptospirose, salmonelose, sarna e micoses (com patogenia em Portugal), mas também tifo, peste bubónica e febre hemorrágica. Destas a de maior preocupação em Portugal é a leptospirose, com especial impacto nos Açores. O contágio pode ocorrer por contacto directo, por mordedura ou manuseamento, ou indirecto, através do contacto com urina, fezes, saliva ou sangue dos roedores. O perigo de contágio é maior no caso da ratazana e rato preto."
+    }
+  ],
+  "meta": {
+    "title": "Espécies perigosas em Portugal - Free Download",
+    "description": "Animais venenosos, traumatogénicos e vetores de doenças existentes em Portugal (víboras, aranhas, escorpiões, insetos, mamíferos), com identificação, tipo de perigo e consequências. Contains 83 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Espécies perigosas em Portugal | ListBase",
+    "seo_description": "Download Espécies perigosas em Portugal — 83 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 83 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_espécies_perigosas_em_Portugal"
+    ]
+  }
+}
