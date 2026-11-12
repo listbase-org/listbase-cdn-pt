@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-12T02:10:57.549Z",
-  "total_datasets": 552,
-  "total_records": 744481,
+  "generated": "2026-11-12T02:11:08.010Z",
+  "total_datasets": 553,
+  "total_records": 744551,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -15402,6 +15402,30 @@
         "xlsx": {
           "name": "pt-br-meteoritos_PT.xlsx",
           "size": 10636
+        }
+      }
+    },
+    {
+      "id": "pt-br-observatorios-astronomicos",
+      "name": "Observatórios astronômicos do Brasil",
+      "category": "science",
+      "record_count": 70,
+      "columns": [
+        "nome",
+        "cidade",
+        "estado"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_observatórios_astronômicos_do_Brasil",
+      "updated": "2026-11",
+      "size": 11274,
+      "files": {
+        "csv": {
+          "name": "pt-br-observatorios-astronomicos_PT.csv",
+          "size": 5488
+        },
+        "xlsx": {
+          "name": "pt-br-observatorios-astronomicos_PT.xlsx",
+          "size": 9449
         }
       }
     },

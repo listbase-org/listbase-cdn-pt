@@ -1,0 +1,391 @@
+{
+  "id": "pt-br-observatorios-astronomicos",
+  "name": "Observatórios astronômicos do Brasil",
+  "title": "Observatórios astronômicos do Brasil",
+  "description": "Lista de observatórios astronômicos e radio-observatórios do Brasil, com a instituição, cidade e estado.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_observatórios_astronômicos_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_observatórios_astronômicos_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Observatório Astronômico Genival Leite Lima (OAGLL)",
+      "cidade": "",
+      "estado": "Alagoas"
+    },
+    {
+      "nome": "Observatório Astronômico Antares - UEFS",
+      "cidade": "Feira de Santana",
+      "estado": "Bahia"
+    },
+    {
+      "nome": "Observatório Astronômico UESC - UESC",
+      "cidade": "Ilhéus",
+      "estado": "Bahia"
+    },
+    {
+      "nome": "Rádio-Observatório Espacial do Nordeste - INPE",
+      "cidade": "Eusébio",
+      "estado": "Ceará"
+    },
+    {
+      "nome": "Observatório Astronômico Otto de Alencar - Universidade Estadual do Ceará - UECE",
+      "cidade": "Fortaleza",
+      "estado": "Ceará"
+    },
+    {
+      "nome": "Observatório Astronômico Luiz Cruls - UnB",
+      "cidade": "",
+      "estado": "Distrito Federal"
+    },
+    {
+      "nome": "Observatório Astronômico da UFES - UFES",
+      "cidade": "Vitória",
+      "estado": "Espírito Santo"
+    },
+    {
+      "nome": "Observatório Astronômico da Serra da Piedade - UFMG",
+      "cidade": "Caeté",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico da Escola de Minas - UFOP",
+      "cidade": "Ouro Preto",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico da Universidade de Itaúna - Universidade de Itaúna",
+      "cidade": "Itaúna",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico de Poços de Caldas",
+      "cidade": "Poços de Caldas",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico do Museu - Museu de História Natural e Jardim Botânico da Universidade Federal de Minas Gerais",
+      "cidade": "Belo Horizonte",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório do Pico dos Dias - LNA",
+      "cidade": "Brasópolis",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico Prof. Dr. Leonel Moro",
+      "cidade": "Campo Magro",
+      "estado": "Paraná"
+    },
+    {
+      "nome": "Observatório Astronômico Manoel Machuca - UEPG",
+      "cidade": "Ponta Grossa",
+      "estado": "Paraná"
+    },
+    {
+      "nome": "Observatório do Parque Tecnológico Itaipu - Espaço Casimiro Montenegro Filho - Foz do Iguaçu",
+      "cidade": "",
+      "estado": "Paraná"
+    },
+    {
+      "nome": "Observatório Astronômico da Torre Malakoff",
+      "cidade": "Recife",
+      "estado": "Pernambuco"
+    },
+    {
+      "nome": "Observatório Astronômico da Sé",
+      "cidade": "Olinda",
+      "estado": "Pernambuco"
+    },
+    {
+      "nome": "Observatório Astronômico do Sertão de Itaparica (OASI)",
+      "cidade": "Itacuruba",
+      "estado": "Pernambuco"
+    },
+    {
+      "nome": "Observatório Astronômico da UFGRS - UFGRS",
+      "cidade": "Porto Alegre",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "nome": "Observatório Astronômico do Morro de Santana - UFGRS",
+      "cidade": "Porto Alegre",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "nome": "Observatório da PUCRS - PUCRS",
+      "cidade": "Porto Alegre",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "nome": "Observatório Astronômico Didático Capitão Parobé - CMPA",
+      "cidade": "Porto Alegre",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "nome": "Observatório Astronômico Didático Caixa de Jóias - APCEF/RS",
+      "cidade": "São Francisco de Paula, RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "nome": "Observatório Nacional",
+      "cidade": "Rio de Janeiro",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "nome": "Observatório do Valongo - UFRJ",
+      "cidade": "Rio de Janeiro",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "nome": "Observatório Abrahão de Moraes - USP",
+      "cidade": "Valinhos",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório do Centro Integrado de Ciência e Cultura",
+      "cidade": "São José do Rio Preto",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico do Centro de Divulgação Científica - USP",
+      "cidade": "São Carlos",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico do Centro Técnico Aeroespacial -",
+      "cidade": "São José dos Campos",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico Municipal de Diadema",
+      "cidade": "Diadema",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico de Piracicaba",
+      "cidade": "Piracicaba",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico Professor Mário Schenberg - Unesp",
+      "cidade": "Ilha Solteira",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório do Morro Azul - Faculdades de Limeira",
+      "cidade": "Limeira",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Municipal de Astronomia de Franca",
+      "cidade": "Franca",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Municipal de Americana",
+      "cidade": "Americana",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Municipal de Amparo",
+      "cidade": "Amparo",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Didático de Astronomia \"Lionel José Andriatto\"",
+      "cidade": "Bauru",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Municipal Anwar Damha",
+      "cidade": "Presidente Prudente",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Municipal de Campinas Jean Nicolini",
+      "cidade": "Campinas",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório de São Paulo - Parque de Ciência e Tecnologia da USP",
+      "cidade": "São Paulo",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Rádio Observatório de Itapetinga - USP, Unicamp, INPE, Mackenzie",
+      "cidade": "Atibaia",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Rádio Observatório GEM - INPE",
+      "cidade": "Cachoeira Paulista",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico Zeus",
+      "cidade": "Cedro de Barrocas",
+      "estado": "Bahia"
+    },
+    {
+      "nome": "Observatório Astronômico do Colégio Christus",
+      "cidade": "Fortaleza",
+      "estado": "Ceará"
+    },
+    {
+      "nome": "Observatório DogsHeaven",
+      "cidade": "Brasília",
+      "estado": "Distrito Federal"
+    },
+    {
+      "nome": "Observatório Astronômico Aristarco de Samos",
+      "cidade": "Cariacica",
+      "estado": "Espírito Santo"
+    },
+    {
+      "nome": "Observatório Astronômico de Uberlândia",
+      "cidade": "Uberlândia",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico Monoceros",
+      "cidade": "Além Paraíba",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico Phoenix",
+      "cidade": "Cláudio",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Centauro (Cambuquira)}",
+      "cidade": "",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório do Centro de Astronomia Ápex do Vale do Aço",
+      "cidade": "Ipatinga",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Lunar Vaz Tolentino - VTOL",
+      "cidade": "Belo Horizonte",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Nazaré",
+      "cidade": "Conselheiro Lafaiete",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Oswaldo Nery",
+      "cidade": "Belo Horizonte",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Sonear - Southern Observatory for Near Earth Asteroids Research",
+      "cidade": "Oliveira",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Observatório Astronômico Bagozzi",
+      "cidade": "Curitiba",
+      "estado": "Paraná"
+    },
+    {
+      "nome": "Observatório Astronômico Prof. Dr. Leonel Moro",
+      "cidade": "Curitiba",
+      "estado": "Paraná"
+    },
+    {
+      "nome": "observatório Astronômico Estrela do Sul",
+      "cidade": "Sarandi",
+      "estado": "Paraná"
+    },
+    {
+      "nome": "Observatório Astronômico da Piedade",
+      "cidade": "Rio de Janeiro",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "nome": "Observatório Metropolitano do Rio de Janeiro",
+      "cidade": "São Gonçalo",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "nome": "Observatório Astronômico de Brusque Tadeu Cristovam Mikowski",
+      "cidade": "Brusque",
+      "estado": "Santa Catarina"
+    },
+    {
+      "nome": "Observatório Municipal Domingos Forlin - ODF",
+      "cidade": "Videira",
+      "estado": "Santa Catarina"
+    },
+    {
+      "nome": "Observatório Astronômico do Colégio Magno",
+      "cidade": "São Paulo",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico de Pedreira",
+      "cidade": "Pedreira",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório do Colégio Next - Unidade Itatiba",
+      "cidade": "Itatiba",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório da Fundação CEU",
+      "cidade": "Brotas",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico do Colégio I. L. Peretz",
+      "cidade": "São Paulo",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico Albert Einstein - CEU - GUE",
+      "cidade": "São Paulo / capital",
+      "estado": "São Paulo"
+    },
+    {
+      "nome": "Observatório Astronômico Herschel",
+      "cidade": "Santos/SP",
+      "estado": "São Paulo"
+    }
+  ],
+  "meta": {
+    "title": "Observatórios astronômicos do Brasil - Free Download",
+    "description": "Lista de observatórios astronômicos e radio-observatórios do Brasil, com a instituição, cidade e estado. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Observatórios astronômicos do Brasil | ListBase",
+    "seo_description": "Download Observatórios astronômicos do Brasil — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_observatórios_astronômicos_do_Brasil"
+    ]
+  }
+}
