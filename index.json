@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-12T02:11:29.990Z",
-  "total_datasets": 555,
-  "total_records": 744865,
+  "generated": "2026-11-12T02:11:41.735Z",
+  "total_datasets": 556,
+  "total_records": 744971,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "health",
@@ -2384,6 +2384,33 @@
         "xlsx": {
           "name": "pt-estacoes-ferroviarias_PT.xlsx",
           "size": 21428
+        }
+      }
+    },
+    {
+      "id": "pt-montanhas-de-portugal",
+      "name": "Montanhas e serras de Portugal por altitude",
+      "category": "geography",
+      "record_count": 106,
+      "columns": [
+        "nome",
+        "altitude_m",
+        "proeminencia_m",
+        "localizacao",
+        "faixa_altitude",
+        "observacoes"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_montanhas_de_Portugal",
+      "updated": "2026-11",
+      "size": 25224,
+      "files": {
+        "csv": {
+          "name": "pt-montanhas-de-portugal_PT.csv",
+          "size": 8611
+        },
+        "xlsx": {
+          "name": "pt-montanhas-de-portugal_PT.xlsx",
+          "size": 11658
         }
       }
     },

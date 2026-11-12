@@ -1,0 +1,904 @@
+{
+  "id": "pt-montanhas-de-portugal",
+  "name": "Montanhas e serras de Portugal por altitude",
+  "title": "Montanhas e serras de Portugal por altitude",
+  "description": "Lista de montanhas, picos e serras de Portugal (continente, Açores e Madeira) com altitude, proeminência, localização e observações.",
+  "category": "geography",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_montanhas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_montanhas_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 106,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "number"
+    },
+    {
+      "key": "proeminencia_m",
+      "label": "Proeminencia M",
+      "type": "number"
+    },
+    {
+      "key": "localizacao",
+      "label": "Localizacao",
+      "type": "string"
+    },
+    {
+      "key": "faixa_altitude",
+      "label": "Faixa Altitude",
+      "type": "string"
+    },
+    {
+      "key": "observacoes",
+      "label": "Observacoes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Monte Pico",
+      "altitude_m": 2351,
+      "proeminencia_m": 2351,
+      "localizacao": "Ilha do Pico",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Montanha mais alta de Portugal"
+    },
+    {
+      "nome": "Torre (Serra da Estrela)",
+      "altitude_m": 1993,
+      "proeminencia_m": "",
+      "localizacao": "Serra da Estrela",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Montanha mais alta de Portugal Continental"
+    },
+    {
+      "nome": "Pico Ruivo",
+      "altitude_m": 1861,
+      "proeminencia_m": 1861,
+      "localizacao": "Ilha da Madeira",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Montanha mais alta da Madeira"
+    },
+    {
+      "nome": "Pico das Torres",
+      "altitude_m": 1851,
+      "proeminencia_m": "",
+      "localizacao": "Ilha da Madeira",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico do Areeiro",
+      "altitude_m": 1818,
+      "proeminencia_m": "",
+      "localizacao": "Ilha da Madeira",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico Cidrão",
+      "altitude_m": 1801,
+      "proeminencia_m": "",
+      "localizacao": "Ilha da Madeira",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico do Cedro",
+      "altitude_m": "",
+      "proeminencia_m": "",
+      "localizacao": "Ilha da Madeira",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Alto da Pedrice (Poio da Cabeça)",
+      "altitude_m": 1758,
+      "proeminencia_m": 207,
+      "localizacao": "Serra da Estrela",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Pico secundário da serra da Estrela, de baixa proeminência"
+    },
+    {
+      "nome": "Pico Casado",
+      "altitude_m": 1725,
+      "proeminencia_m": "",
+      "localizacao": "Ilha da Madeira",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Poios Brancos",
+      "altitude_m": 1704,
+      "proeminencia_m": 102,
+      "localizacao": "Serra da Estrela",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Pico secundário, de baixa proeminência"
+    },
+    {
+      "nome": "Santinha",
+      "altitude_m": 1595,
+      "proeminencia_m": 198,
+      "localizacao": "Serra da Estrela",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Pico secundário, de baixa proeminência"
+    },
+    {
+      "nome": "Pico da Nevosa",
+      "altitude_m": 1548,
+      "proeminencia_m": 760,
+      "localizacao": "Serra do Gerês",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Segunda montanha mais alta de Portugal Continental"
+    },
+    {
+      "nome": "Pico do Sobreiro",
+      "altitude_m": 1538,
+      "proeminencia_m": 124,
+      "localizacao": "Serra do Gerês",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Pico secundário, de baixa proeminência"
+    },
+    {
+      "nome": "Larouco",
+      "altitude_m": 1535,
+      "proeminencia_m": 423,
+      "localizacao": "Serra do Larouco",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Terceira montanha mais alta de Portugal Continental"
+    },
+    {
+      "nome": "São Bento",
+      "altitude_m": 1530,
+      "proeminencia_m": 119,
+      "localizacao": "Serra da Estrela",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Pico secundário, de baixa proeminência"
+    },
+    {
+      "nome": "Taloeiros (Cabeço dos Pinheiros/Alvoaça)",
+      "altitude_m": 1517,
+      "proeminencia_m": 101,
+      "localizacao": "Serra da Estrela",
+      "faixa_altitude": "acima de 1500 m",
+      "observacoes": "Pico secundário, de baixa proeminência"
+    },
+    {
+      "nome": "Lombada Grande (Serra de Montesinho)",
+      "altitude_m": 1486,
+      "proeminencia_m": "",
+      "localizacao": "Bragança (Bragança)",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Lombada Grande é o ponto mais alto em Portugal da serra de Montesinho, mas não é o cume de uma montanha, mas sim de uma pequena elevação secundária numa encosta da serra que em Espanha se chama sierra de La Parada, e que por sua vez constitui apenas o prolongamento para sudeste da serra de Gamoneda. Coordenadas: 41° 59′ 19″ N, 6° 48′ 27″ O (mais alto em Portugal) e 41° 59′ 19″ N, 6° 48′ 27″ O (cume em Espanha)"
+    },
+    {
+      "nome": "Picoto de Cebola (Serra do Açor)",
+      "altitude_m": 1418,
+      "proeminencia_m": "",
+      "localizacao": "Coimbra",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Ponto mais alto da Serra do Açor"
+    },
+    {
+      "nome": "Serra de Soajo",
+      "altitude_m": 1416,
+      "proeminencia_m": 768,
+      "localizacao": "Arcos de Valdevez, Melgaço e Monção",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "O ponto mais alto é o pico da Pedrada"
+    },
+    {
+      "nome": "Serra do Marão",
+      "altitude_m": 1415,
+      "proeminencia_m": "",
+      "localizacao": "Amarante, Baião, Vila Real, Mesão Frio, Santa Marta de Penaguião e Régua",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Montemuro",
+      "altitude_m": 1382,
+      "proeminencia_m": 842,
+      "localizacao": "Cinfães (Viseu)",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra Amarela",
+      "altitude_m": 1359,
+      "proeminencia_m": "",
+      "localizacao": "Ponte da Barca e Terras de Bouro",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "O ponto mais alto é a Louriça (1359m)"
+    },
+    {
+      "nome": "Serra do Açor",
+      "altitude_m": 1339,
+      "proeminencia_m": "",
+      "localizacao": "Coimbra",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Nogueira",
+      "altitude_m": 1319,
+      "proeminencia_m": "",
+      "localizacao": "Bragança",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Cabreira",
+      "altitude_m": 1286,
+      "proeminencia_m": "",
+      "localizacao": "Montalegre, Vieira do Minho e Cabeceiras de Basto",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "O ponto mais alto é o Talefe (1262m), em Vieira do Minho"
+    },
+    {
+      "nome": "Serra do Alvão",
+      "altitude_m": 1283,
+      "proeminencia_m": "",
+      "localizacao": "Vila Real (Vila Real)",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Barroso",
+      "altitude_m": 1279,
+      "proeminencia_m": "",
+      "localizacao": "Montalegre (Vila Real)",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Coroa",
+      "altitude_m": 1273,
+      "proeminencia_m": 307,
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Gardunha",
+      "altitude_m": 1227,
+      "proeminencia_m": 770,
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Bigorne",
+      "altitude_m": 1210,
+      "proeminencia_m": "",
+      "localizacao": "Lamego (Viseu)",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Lousã",
+      "altitude_m": 1205,
+      "proeminencia_m": "",
+      "localizacao": "Lousã (Coimbra)",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Bornes",
+      "altitude_m": 1200,
+      "proeminencia_m": 620,
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Padrela",
+      "altitude_m": 1146,
+      "proeminencia_m": "",
+      "localizacao": "Valpaços e Vila Pouca de Aguiar",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Esculqueira",
+      "altitude_m": 1145,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Falperra",
+      "altitude_m": 1134,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Vidual",
+      "altitude_m": 1119,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Arada",
+      "altitude_m": 1116,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Gralheira",
+      "altitude_m": 1116,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico da Vara",
+      "altitude_m": 1108,
+      "proeminencia_m": "",
+      "localizacao": "Ilha de São Miguel, Açores",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Montanha mais alta da Ilha de São Miguel"
+    },
+    {
+      "nome": "Serra da Freita",
+      "altitude_m": 1098,
+      "proeminencia_m": "",
+      "localizacao": "Arouca (Aveiro)",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Alvéolos",
+      "altitude_m": 1084,
+      "proeminencia_m": "",
+      "localizacao": "Distrito de Castelo Branco",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Nomes alternativos: Cabeço Rainho ou Cabeço da Rainha"
+    },
+    {
+      "nome": "Serra de Mairos",
+      "altitude_m": 1084,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Malcata",
+      "altitude_m": 1072,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Caramulo",
+      "altitude_m": 1077,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Coelheira",
+      "altitude_m": 1054,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico da Esperança",
+      "altitude_m": 1053,
+      "proeminencia_m": "",
+      "localizacao": "Ilha de São Jorge, Açores",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Montanha mais alta da Ilha de São Jorge"
+    },
+    {
+      "nome": "Serra de São Macário",
+      "altitude_m": 1052,
+      "proeminencia_m": "",
+      "localizacao": "Frente ao vale de São Pedro do Sul",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Cabeço Gordo",
+      "altitude_m": 1043,
+      "proeminencia_m": "",
+      "localizacao": "Ilha do Faial, Açores",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Ponto mais alto da Ilha do Faial"
+    },
+    {
+      "nome": "Serra de Santa Comba",
+      "altitude_m": 1041,
+      "proeminencia_m": "",
+      "localizacao": "Valpaços e Mirandela",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Pico mais alto fica situado na freguesia de Vales (Valpaços)"
+    },
+    {
+      "nome": "Serra do Temão",
+      "altitude_m": 1035,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de São Mamede",
+      "altitude_m": 1025,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Montanha mais alta a sul do rio Tejo"
+    },
+    {
+      "nome": "Serra de Santa Bárbara",
+      "altitude_m": 1021,
+      "proeminencia_m": "",
+      "localizacao": "Ilha Terceira, Açores",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": "Montanha mais alta da Terceira"
+    },
+    {
+      "nome": "Serra de Leomil",
+      "altitude_m": 1008,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Fundão",
+      "altitude_m": 1000,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "1000 a 1500 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Mogadouro",
+      "altitude_m": 997,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Santa Isabel",
+      "altitude_m": 992,
+      "proeminencia_m": "",
+      "localizacao": "Amares e Terras de Bouro",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Pisco",
+      "altitude_m": 989,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Marofa",
+      "altitude_m": 977,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Aboboreira",
+      "altitude_m": 972,
+      "proeminencia_m": "",
+      "localizacao": "Baião (Porto)",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Reboredo",
+      "altitude_m": 966,
+      "proeminencia_m": "",
+      "localizacao": "Torre de Moncorvo",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Castelo de Matos",
+      "altitude_m": 970,
+      "proeminencia_m": "",
+      "localizacao": "Baião (Porto)",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Lapa",
+      "altitude_m": 955,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Monte Farinha",
+      "altitude_m": 947,
+      "proeminencia_m": "",
+      "localizacao": "Mondim de Basto",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Morro Alto",
+      "altitude_m": 914,
+      "proeminencia_m": "",
+      "localizacao": "Ilha das Flores, Açores",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Monchique",
+      "altitude_m": 902,
+      "proeminencia_m": "",
+      "localizacao": "Monchique (Faro)",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": "Montanha mais alta do Algarve"
+    },
+    {
+      "nome": "Serra do Maroiço / Merouço",
+      "altitude_m": 894,
+      "proeminencia_m": "",
+      "localizacao": "Fafe",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": "Alto de Morgair"
+    },
+    {
+      "nome": "Serra de Corno de Bico",
+      "altitude_m": 889,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Moradal",
+      "altitude_m": 885,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Marvão",
+      "altitude_m": 865,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Arestal",
+      "altitude_m": 830,
+      "proeminencia_m": "",
+      "localizacao": "Sever do Vouga, Vale de Cambra",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Arga",
+      "altitude_m": 825,
+      "proeminencia_m": "",
+      "localizacao": "Viana do Castelo, Caminha e Ponte de Lima",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Oural",
+      "altitude_m": 722,
+      "proeminencia_m": "",
+      "localizacao": "Vila Verde, Ponte da Barca, Ponte de Lima",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Aire",
+      "altitude_m": 679,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Montejunto",
+      "altitude_m": 666,
+      "proeminencia_m": "",
+      "localizacao": "Alenquer",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": "Montanha mais alta do distrito de Lisboa"
+    },
+    {
+      "nome": "Serra de Ossa",
+      "altitude_m": 650,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra Bando dos Santos",
+      "altitude_m": 643,
+      "proeminencia_m": "",
+      "localizacao": "Mação",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Alvaiázere",
+      "altitude_m": 618,
+      "proeminencia_m": "",
+      "localizacao": "Alvaiázere",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra dos Candeeiros",
+      "altitude_m": 613,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Ansião",
+      "altitude_m": 612,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Melriça",
+      "altitude_m": 591,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico Alto",
+      "altitude_m": 587,
+      "proeminencia_m": "",
+      "localizacao": "Ilha de Santa Maria, Açores",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Adiça",
+      "altitude_m": 584,
+      "proeminencia_m": "",
+      "localizacao": "Alentejo",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Caldeirão",
+      "altitude_m": 577,
+      "proeminencia_m": "",
+      "localizacao": "Distrito de Faro",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": "Segunda montanha mais alta do Algarve"
+    },
+    {
+      "nome": "Serra do Sicó",
+      "altitude_m": 553,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Buçaco",
+      "altitude_m": 549,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Rabaçal",
+      "altitude_m": 532,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Agrela",
+      "altitude_m": 532,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Sintra",
+      "altitude_m": 528,
+      "proeminencia_m": "",
+      "localizacao": "Sintra",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico do Facho do Porto Santo",
+      "altitude_m": 516,
+      "proeminencia_m": "",
+      "localizacao": "Porto Santo (Madeira)",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Arrábida",
+      "altitude_m": 503,
+      "proeminencia_m": "",
+      "localizacao": "Setúbal e Palmela",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Maunça",
+      "altitude_m": 423,
+      "proeminencia_m": "",
+      "localizacao": "Leiria",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Portel",
+      "altitude_m": 418,
+      "proeminencia_m": "",
+      "localizacao": "Alentejo",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Monte Figo",
+      "altitude_m": 411,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Cabeço de Montachique",
+      "altitude_m": 408,
+      "proeminencia_m": "",
+      "localizacao": "Loures",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Arraiolos",
+      "altitude_m": 407,
+      "proeminencia_m": "",
+      "localizacao": "Alentejo",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Senhora do Círculo",
+      "altitude_m": 406,
+      "proeminencia_m": "",
+      "localizacao": "Condeixa-a-Nova",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": "Terras de Sicó"
+    },
+    {
+      "nome": "Pico do Coirão",
+      "altitude_m": 405,
+      "proeminencia_m": "",
+      "localizacao": "Ilha da Graciosa, Açores",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de São Tiago",
+      "altitude_m": 400,
+      "proeminencia_m": "",
+      "localizacao": "",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Vigia",
+      "altitude_m": 393,
+      "proeminencia_m": "",
+      "localizacao": "Alentejo",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Grândola",
+      "altitude_m": 383,
+      "proeminencia_m": "",
+      "localizacao": "Alentejo",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra do Cercal",
+      "altitude_m": 378,
+      "proeminencia_m": "",
+      "localizacao": "Alentejo",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Espinhaço de Cão",
+      "altitude_m": 368,
+      "proeminencia_m": "",
+      "localizacao": "Barlavento algarvio",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra de Montemor",
+      "altitude_m": 357,
+      "proeminencia_m": "",
+      "localizacao": "Loures",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Pico do Facho de Machico",
+      "altitude_m": 323,
+      "proeminencia_m": "",
+      "localizacao": "Machico (Madeira)",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Amoreira",
+      "altitude_m": 313,
+      "proeminencia_m": "",
+      "localizacao": "Odivelas",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    },
+    {
+      "nome": "Serra da Boa Viagem",
+      "altitude_m": 261,
+      "proeminencia_m": "",
+      "localizacao": "Figueira da Foz",
+      "faixa_altitude": "abaixo de 1000 m",
+      "observacoes": ""
+    }
+  ],
+  "meta": {
+    "title": "Montanhas e serras de Portugal por altitude - Free Download",
+    "description": "Lista de montanhas, picos e serras de Portugal (continente, Açores e Madeira) com altitude, proeminência, localização e observações. Contains 106 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Montanhas e serras de Portugal por altitude | ListBase",
+    "seo_description": "Download Montanhas e serras de Portugal por altitude — 106 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 106 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_montanhas_de_Portugal"
+    ]
+  }
+}
