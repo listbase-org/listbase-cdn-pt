@@ -1,0 +1,1904 @@
+{
+  "id": "pt-ministros-justica-portugal",
+  "name": "Ministros da Justiça de Portugal",
+  "title": "Ministros da Justiça de Portugal",
+  "description": "Lista cronológica dos ministros da Justiça de Portugal desde 1828, com início e fim do mandato, governo e período político.",
+  "category": "law",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inicio_mandato",
+      "label": "Inicio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fim_mandato",
+      "label": "Fim Mandato",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1",
+      "nome": "Luís de Paula Furtado de Castro do Rio de Mendonça (1796–1834)",
+      "inicio_mandato": "26 de fevereiro de 1828",
+      "fim_mandato": "11 de abril de 1829",
+      "governo": "I Cadaval",
+      "periodo": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "numero": "2",
+      "nome": "João de Matos e Vasconcelos Barbosa de Magalhães (1772–1834)",
+      "inicio_mandato": "11 de abril de 1829",
+      "fim_mandato": "27 de junho de 1831",
+      "governo": "I Cadaval",
+      "periodo": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "numero": "3",
+      "nome": "Luís de Paula Furtado de Castro do Rio de Mendonça (2.ª vez; interino a partir de 29 de junho de 1831) (1796–1834)",
+      "inicio_mandato": "27 de junho de 1831",
+      "fim_mandato": "26 de maio de 1834",
+      "governo": "I Cadaval; II; III",
+      "periodo": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "numero": "1",
+      "nome": "Luís da Silva Mouzinho de Albuquerque (1792–1846)",
+      "inicio_mandato": "15 de março de 1830",
+      "fim_mandato": "14 de janeiro de 1831",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "–",
+      "nome": "António César de Vasconcelos Correia (interino) (1797–1865)",
+      "inicio_mandato": "14 de janeiro de 1831",
+      "fim_mandato": "2 de julho de 1831",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "2",
+      "nome": "José António Ferreira Brak-Lamy (1780–1847)",
+      "inicio_mandato": "2 de julho de 1831",
+      "fim_mandato": "10 de outubro de 1831",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "3",
+      "nome": "José Dionísio da Serra (1772–1836)",
+      "inicio_mandato": "10 de outubro de 1831",
+      "fim_mandato": "3 de março de 1832",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "4",
+      "nome": "José Xavier Mouzinho da Silveira (interino) (1780–1849)",
+      "inicio_mandato": "3 de março de 1832",
+      "fim_mandato": "3 de dezembro de 1832",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "5",
+      "nome": "Joaquim António de Magalhães (1795–1848)",
+      "inicio_mandato": "3 de dezembro de 1832",
+      "fim_mandato": "21 de abril de 1833",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "6",
+      "nome": "José da Silva Carvalho (interino) (1782–1856)",
+      "inicio_mandato": "21 de abril de 1833",
+      "fim_mandato": "23 de abril de 1834",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "7",
+      "nome": "Joaquim António de Aguiar (1792–1874)",
+      "inicio_mandato": "23 de abril de 1834",
+      "fim_mandato": "24 de setembro de 1834",
+      "governo": "Gov. Reg.",
+      "periodo": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "numero": "8",
+      "nome": "António Barreto Ferraz de Vasconcelos (1789–1861)",
+      "inicio_mandato": "24 de setembro de 1834",
+      "fim_mandato": "28 de abril de 1835",
+      "governo": "I Palmela (até 28 abr. 1835) Linhares (desde 4 mai. 1835)",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "9",
+      "nome": "Manuel Duarte Leitão (1787–1856)",
+      "inicio_mandato": "28 de abril de 1835",
+      "fim_mandato": "27 de maio de 1835",
+      "governo": "I Palmela (até 28 abr. 1835) Linhares (desde 4 mai. 1835)",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "10",
+      "nome": "Manuel António de Carvalho (1785–1858)",
+      "inicio_mandato": "27 de maio de 1835",
+      "fim_mandato": "15 de julho de 1835",
+      "governo": "II Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "11",
+      "nome": "João de Sousa Pinto de Magalhães (1790–1865)",
+      "inicio_mandato": "15 de julho de 1835",
+      "fim_mandato": "18 de novembro de 1835",
+      "governo": "III Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "12",
+      "nome": "Manuel António Velez Caldeira de Pina Castelo Branco (1791–1868)",
+      "inicio_mandato": "18 de novembro de 1835",
+      "fim_mandato": "20 de abril de 1836",
+      "governo": "IV Loureiro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "13",
+      "nome": "Joaquim António de Aguiar (2.ª vez) (1792–1874)",
+      "inicio_mandato": "20 de abril de 1836",
+      "fim_mandato": "10 de setembro de 1836",
+      "governo": "V Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "14",
+      "nome": "António Manuel Lopes Vieira de Castro (1766–1842)",
+      "inicio_mandato": "10 de setembro de 1836",
+      "fim_mandato": "4 de novembro de 1836",
+      "governo": "VI Lumiares",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Francisco de Paula e Oliveira (não empossado) (1768–1865)",
+      "inicio_mandato": "4 de novembro de 1836",
+      "fim_mandato": "5 de novembro de 1836",
+      "governo": "G. M. Valença (não empossado)",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "António Manuel Lopes Vieira de Castro (reconduzido) (1766–1842)",
+      "inicio_mandato": "5 de novembro de 1836",
+      "fim_mandato": "27 de maio de 1837",
+      "governo": "VII Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "15",
+      "nome": "Manuel da Silva Passos \" Manuel \" (interino) (1801–1862)",
+      "inicio_mandato": "27 de maio de 1837",
+      "fim_mandato": "1 de junho de 1837",
+      "governo": "VII Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "16",
+      "nome": "António Dias de Oliveira (interino) (1804–1863)",
+      "inicio_mandato": "1 de junho de 1837",
+      "fim_mandato": "10 de agosto de 1837",
+      "governo": "VIII Dias de Oliveira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "17",
+      "nome": "José Alexandre de Campos e Almeida (1794–1850)",
+      "inicio_mandato": "10 de agosto de 1837",
+      "fim_mandato": "9 de março de 1838",
+      "governo": "IX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "18",
+      "nome": "João Gualberto de Oliveira (interino) (1788–1852)",
+      "inicio_mandato": "9 de março de 1838",
+      "fim_mandato": "22 de março de 1838",
+      "governo": "IX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "19",
+      "nome": "Manuel Duarte Leitão (2.ª vez; interino) (1787–1856)",
+      "inicio_mandato": "22 de março de 1838",
+      "fim_mandato": "22 de agosto de 1838",
+      "governo": "IX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "20",
+      "nome": "António Fernandes Coelho (interino) (1807–1886)",
+      "inicio_mandato": "22 de agosto de 1838",
+      "fim_mandato": "18 de abril de 1839",
+      "governo": "IX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "21",
+      "nome": "João Cardoso da Cunha Araújo e Castro Portocarrero (1792–1864)",
+      "inicio_mandato": "18 de abril de 1839",
+      "fim_mandato": "26 de novembro de 1839",
+      "governo": "X Sabrosa",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "22",
+      "nome": "António Bernardo da Costa Cabral (1803–1889)",
+      "inicio_mandato": "26 de novembro de 1839",
+      "fim_mandato": "12 de janeiro de 1842",
+      "governo": "XI Bonfim; XII Aguiar",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "23",
+      "nome": "Joaquim António de Aguiar (3.ª vez; interino) (1792–1874)",
+      "inicio_mandato": "12 de janeiro de 1842",
+      "fim_mandato": "7 de fevereiro de 1842",
+      "governo": "XII Aguiar",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "24",
+      "nome": "Joaquim António de Magalhães (2.ª vez; interino) (1795–1848)",
+      "inicio_mandato": "7 de fevereiro de 1842",
+      "fim_mandato": "8 de fevereiro de 1842",
+      "governo": "XIII (G.E.) Palmela",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "25",
+      "nome": "Joaquim Filipe de Soure (1805–1882)",
+      "inicio_mandato": "8 de fevereiro de 1842",
+      "fim_mandato": "8 de fevereiro de 1842",
+      "governo": "XIII (G.E.) Palmela",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Junta Provisória de Governo composta por: António Bernardo da Costa Cabral António Vicente de Queirós, Barão da Ponte de Santa Maria Marcelino Máximo de Azevedo e Melo António Pereira dos Reis",
+      "inicio_mandato": "8 de fevereiro de 1842",
+      "fim_mandato": "9 de fevereiro de 1842",
+      "governo": "——",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "26",
+      "nome": "Luís da Silva Mouzinho de Albuquerque (2.ª vez; interino) (1792–1846)",
+      "inicio_mandato": "9 de fevereiro de 1842",
+      "fim_mandato": "20 de fevereiro de 1842",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "27",
+      "nome": "João Baptista Felgueiras (1787–1848)",
+      "inicio_mandato": "20 de fevereiro de 1842",
+      "fim_mandato": "24 de fevereiro de 1842",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "28",
+      "nome": "António de Azevedo Melo e Carvalho (1795–1862)",
+      "inicio_mandato": "24 de fevereiro de 1842",
+      "fim_mandato": "14 de setembro de 1842",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "29",
+      "nome": "José António de Sousa Azevedo, Visconde de Algés (1796–1865)",
+      "inicio_mandato": "14 de setembro de 1842",
+      "fim_mandato": "27 de junho de 1844",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e Conde de Vila Flor (interino) (1792–1860)",
+      "inicio_mandato": "27 de junho de 1844",
+      "fim_mandato": "15 de julho de 1844",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "30",
+      "nome": "António Bernardo da Costa Cabral, Conde de Tomar (interino) (1803–1889)",
+      "inicio_mandato": "15 de julho de 1844",
+      "fim_mandato": "3 de maio de 1845",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "31",
+      "nome": "José Bernardo da Silva Cabral (interino até 24 de julho de 1845) (1801–1869)",
+      "inicio_mandato": "3 de maio de 1845",
+      "fim_mandato": "21 de abril de 1846",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "António Bernardo da Costa Cabral, Conde de Tomar (interino) (1803–1889)",
+      "inicio_mandato": "21 de abril de 1846",
+      "fim_mandato": "20 de maio de 1846",
+      "governo": "XIV Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "32",
+      "nome": "D. Pedro de Sousa Holstein, Duque de Palmela (interino) (1781–1850)",
+      "inicio_mandato": "20 de maio de 1846",
+      "fim_mandato": "26 de maio de 1846",
+      "governo": "XV Palmela",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "33",
+      "nome": "Joaquim Filipe de Soure (2.ª vez) (1805–1882)",
+      "inicio_mandato": "26 de maio de 1846",
+      "fim_mandato": "19 de julho de 1846",
+      "governo": "XV Palmela",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "34",
+      "nome": "Joaquim António de Aguiar (4.ª vez) (1792–1874)",
+      "inicio_mandato": "19 de julho de 1846",
+      "fim_mandato": "6 de outubro de 1846",
+      "governo": "XV Palmela",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "35",
+      "nome": "José Jacinto Valente Farinho (1792–1855)",
+      "inicio_mandato": "6 de outubro de 1846",
+      "fim_mandato": "28 de abril de 1847",
+      "governo": "XVI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "36",
+      "nome": "Manuel Duarte Leitão (3.ª vez) (1787–1856)",
+      "inicio_mandato": "28 de abril de 1847",
+      "fim_mandato": "22 de agosto de 1847",
+      "governo": "XVI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "37",
+      "nome": "Francisco António Fernandes da Silva Ferrão (1798–1874)",
+      "inicio_mandato": "22 de agosto de 1847",
+      "fim_mandato": "18 de dezembro de 1847",
+      "governo": "XVI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Bernardo Gorjão Henriques da Cunha Coimbra Botado e Serra (interino) (1786–1854)",
+      "inicio_mandato": "18 de dezembro de 1847",
+      "fim_mandato": "21 de janeiro de 1848",
+      "governo": "XVII Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "38",
+      "nome": "Joaquim José de Queirós (1774–1850)",
+      "inicio_mandato": "21 de janeiro de 1848",
+      "fim_mandato": "21 de fevereiro de 1848",
+      "governo": "XVII Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "39",
+      "nome": "José Joaquim de Azevedo e Moura (1794–1876)",
+      "inicio_mandato": "21 de fevereiro de 1848",
+      "fim_mandato": "29 de março de 1848",
+      "governo": "XVII Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "40",
+      "nome": "João Elias da Costa Faria e Silva (1788–1860)",
+      "inicio_mandato": "29 de março de 1848",
+      "fim_mandato": "29 de janeiro de 1849",
+      "governo": "XVII Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "41",
+      "nome": "José Marcelino de Sá Vargas (1802–1876)",
+      "inicio_mandato": "29 de janeiro de 1849",
+      "fim_mandato": "18 de junho de 1849",
+      "governo": "XVII Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "42",
+      "nome": "Félix Pereira de Magalhães (1794–1878)",
+      "inicio_mandato": "18 de junho de 1849",
+      "fim_mandato": "1 de maio de 1851",
+      "governo": "XVIII Tomar; XIX Terceira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "43",
+      "nome": "Marino Miguel Franzini (interino) (1779–1861)",
+      "inicio_mandato": "1 de maio de 1851",
+      "fim_mandato": "22 de maio de 1851",
+      "governo": "XX Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "44",
+      "nome": "Joaquim Filipe de Soure (3.ª vez) (1805–1882)",
+      "inicio_mandato": "22 de maio de 1851",
+      "fim_mandato": "7 de julho de 1851",
+      "governo": "XXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "D. António Bernardo da Fonseca Moniz (não empossado) (1789–1859)",
+      "inicio_mandato": "7 de julho de 1851",
+      "fim_mandato": "4 de março de 1852",
+      "governo": "XXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "45",
+      "nome": "Rodrigo da Fonseca Magalhães (interino) (1787–1858)",
+      "inicio_mandato": "7 de julho de 1851",
+      "fim_mandato": "4 de março de 1852",
+      "governo": "XXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "46",
+      "nome": "António Luís de Seabra e Sousa (1798–1895)",
+      "inicio_mandato": "4 de março de 1852",
+      "fim_mandato": "19 de agosto de 1852",
+      "governo": "XXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "47",
+      "nome": "Rodrigo da Fonseca Magalhães (2.ª vez; interino) (1787–1858)",
+      "inicio_mandato": "19 de agosto de 1852",
+      "fim_mandato": "3 de setembro de 1853",
+      "governo": "XXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "48",
+      "nome": "Frederico Guilherme da Silva Pereira (1806–1871)",
+      "inicio_mandato": "3 de setembro de 1853",
+      "fim_mandato": "6 de junho de 1856",
+      "governo": "XXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "49",
+      "nome": "Elias da Cunha Pessoa (1801–1860)",
+      "inicio_mandato": "6 de junho de 1856",
+      "fim_mandato": "14 de março de 1857",
+      "governo": "XXII Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "50",
+      "nome": "Vicente Ferrer Neto de Paiva (1798–1886)",
+      "inicio_mandato": "14 de março de 1857",
+      "fim_mandato": "4 de maio de 1857",
+      "governo": "XXII Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "51",
+      "nome": "António José de Ávila (interino) (1807–1881)",
+      "inicio_mandato": "4 de maio de 1857",
+      "fim_mandato": "7 de dezembro de 1857",
+      "governo": "XXII Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "52",
+      "nome": "José Silvestre Ribeiro (1807–1891)",
+      "inicio_mandato": "7 de dezembro de 1857",
+      "fim_mandato": "31 de março de 1858",
+      "governo": "XXII Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "53",
+      "nome": "António José de Ávila (2.ª vez; interino) (1807–1881)",
+      "inicio_mandato": "31 de março de 1858",
+      "fim_mandato": "16 de março de 1859",
+      "governo": "XXII Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "54",
+      "nome": "João Baptista da Silva Ferrão de Carvalho Martens \" Ferrão \" (1824–1895)",
+      "inicio_mandato": "16 de março de 1859",
+      "fim_mandato": "4 de julho de 1860",
+      "governo": "XXIII Terceira; XXIV Aguiar",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "55",
+      "nome": "Alberto António de Morais Carvalho, pai (1801–1878)",
+      "inicio_mandato": "4 de julho de 1860",
+      "fim_mandato": "21 de fevereiro de 1862",
+      "governo": "XXV Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "56",
+      "nome": "Gaspar Pereira da Silva (1801–1870)",
+      "inicio_mandato": "21 de fevereiro de 1862",
+      "fim_mandato": "2 de novembro de 1863",
+      "governo": "XXV Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Anselmo José Braamcamp de Almeida Castelo Branco (interino) (1817–1885)",
+      "inicio_mandato": "2 de novembro de 1863",
+      "fim_mandato": "16 de novembro de 1863",
+      "governo": "XXV Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Gaspar Pereira da Silva (continuação) (1801–1870)",
+      "inicio_mandato": "16 de novembro de 1963",
+      "fim_mandato": "5 de março de 1865",
+      "governo": "XXV Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "57",
+      "nome": "D. António Frutuoso Aires de Gouveia Osório (1828–1916)",
+      "inicio_mandato": "5 de março de 1865",
+      "fim_mandato": "17 de abril de 1865",
+      "governo": "XXV Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "58",
+      "nome": "Júlio Gomes da Silva Sanches (interino) (1802–1866)",
+      "inicio_mandato": "17 de abril de 1865",
+      "fim_mandato": "4 de setembro de 1865",
+      "governo": "XXVI Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "59",
+      "nome": "Augusto César Barjona de Freitas (1834–1900)",
+      "inicio_mandato": "4 de setembro de 1865",
+      "fim_mandato": "4 de janeiro de 1868",
+      "governo": "XXVII Aguiar",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "60",
+      "nome": "António Luís de Seabra e Sousa, Visconde de Seabra (2.ª vez) (1798–1895)",
+      "inicio_mandato": "4 de janeiro de 1868",
+      "fim_mandato": "22 de julho de 1868",
+      "governo": "XXVIII Ávila",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "D. António Alves Martins (interino) (1808–1882)",
+      "inicio_mandato": "22 de julho de 1868",
+      "fim_mandato": "15 de agosto de 1868",
+      "governo": "XXIX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "61",
+      "nome": "António Adriano Pequito Seixas de Andrade (1819–1895)",
+      "inicio_mandato": "15 de agosto de 1868",
+      "fim_mandato": "18 de junho de 1869",
+      "governo": "XXIX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "D. António Alves Martins (interino) (1808–1882)",
+      "inicio_mandato": "18 de junho de 1869",
+      "fim_mandato": "24 de julho de 1869",
+      "governo": "XXIX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "António Adriano Pequito Seixas de Andrade (continuação) (1819–1895)",
+      "inicio_mandato": "24 de julho de 1869",
+      "fim_mandato": "2 de agosto de 1869",
+      "governo": "XXIX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "62",
+      "nome": "João José de Mendonça Cortês (1837–1912)",
+      "inicio_mandato": "2 de agosto de 1869",
+      "fim_mandato": "11 de agosto de 1869",
+      "governo": "XXIX Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "63",
+      "nome": "José Luciano de Castro Pereira Corte-Real (1834–1914)",
+      "inicio_mandato": "11 de agosto de 1869",
+      "fim_mandato": "20 de maio de 1870",
+      "governo": "XXX Loulé",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "64",
+      "nome": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (interino) (1790–1876)",
+      "inicio_mandato": "20 de maio de 1870",
+      "fim_mandato": "26 de maio de 1870",
+      "governo": "XXXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "65",
+      "nome": "José Dias Ferreira (interino) (1837–1907)",
+      "inicio_mandato": "26 de maio de 1870",
+      "fim_mandato": "29 de agosto de 1870",
+      "governo": "XXXI Saldanha",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "66",
+      "nome": "António José de Ávila, Marquês de Ávila e Bolama (3.ª vez; interino) (1806–1881)",
+      "inicio_mandato": "29 de agosto de 1870",
+      "fim_mandato": "12 de setembro de 1870",
+      "governo": "XXXII Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "67",
+      "nome": "D. António Alves Martins (interino) (1808–1882)",
+      "inicio_mandato": "12 de setembro de 1870",
+      "fim_mandato": "29 de outubro de 1870",
+      "governo": "XXXII Sá da Bandeira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "68",
+      "nome": "Augusto Saraiva de Carvalho (1839–1882)",
+      "inicio_mandato": "29 de outubro de 1870",
+      "fim_mandato": "30 de janeiro de 1871",
+      "governo": "XXXIII Ávila",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "69",
+      "nome": "José Eduardo de Melo Gouveia (interino) (1815–1893)",
+      "inicio_mandato": "30 de janeiro de 1871",
+      "fim_mandato": "1 de março de 1871",
+      "governo": "XXXIII Ávila",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "70",
+      "nome": "José Marcelino de Sá Vargas (2.ª vez) (1802–1876)",
+      "inicio_mandato": "1 de março de 1871",
+      "fim_mandato": "13 de setembro de 1871",
+      "governo": "XXXIII Ávila",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "71",
+      "nome": "Augusto César Barjona de Freitas (2.ª vez) (1834–1900)",
+      "inicio_mandato": "13 de setembro de 1871",
+      "fim_mandato": "9 de novembro de 1876",
+      "governo": "XXXIV Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "72",
+      "nome": "António Cardoso Avelino (1822–1889)",
+      "inicio_mandato": "9 de novembro de 1876",
+      "fim_mandato": "5 de março de 1877",
+      "governo": "XXXIV Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "73",
+      "nome": "José de Sande Magalhães Mexia Salema (1816–1893)",
+      "inicio_mandato": "5 de março de 1877",
+      "fim_mandato": "29 de janeiro de 1878",
+      "governo": "XXXV Ávila",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "74",
+      "nome": "Augusto César Barjona de Freitas (3.ª vez) (1834–1900)",
+      "inicio_mandato": "29 de janeiro de 1878",
+      "fim_mandato": "15 de novembro de 1878",
+      "governo": "XXXVI Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "75",
+      "nome": "Tomás António Ribeiro Ferreira (interino) (1831–1901)",
+      "inicio_mandato": "15 de novembro de 1878",
+      "fim_mandato": "3 de dezembro de 1878",
+      "governo": "XXXVI Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "76",
+      "nome": "António Maria do Couto Monteiro (1821–1896)",
+      "inicio_mandato": "3 de dezembro de 1878",
+      "fim_mandato": "1 de junho de 1879",
+      "governo": "XXXVI Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "77",
+      "nome": "Adriano de Abreu Cardoso Machado (1829–1891)",
+      "inicio_mandato": "1 de junho de 1879",
+      "fim_mandato": "25 de março de 1881",
+      "governo": "XXXVII Braamcamp",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "78",
+      "nome": "António José de Barros e Sá (1822–1903)",
+      "inicio_mandato": "25 de março de 1881",
+      "fim_mandato": "14 de novembro de 1881",
+      "governo": "XXXVIII Rodrigues Sampaio",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "79",
+      "nome": "Júlio Marques de Vilhena (1845–1928)",
+      "inicio_mandato": "14 de novembro de 1881",
+      "fim_mandato": "24 de outubro de 1883",
+      "governo": "XXXIX Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "80",
+      "nome": "Lopo Vaz de Sampaio e Melo (1848–1892)",
+      "inicio_mandato": "24 de outubro de 1883",
+      "fim_mandato": "4 de fevereiro de 1885",
+      "governo": "XL Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "81",
+      "nome": "Augusto César Barjona de Freitas (4.ª vez; interino) (1834–1900)",
+      "inicio_mandato": "4 de fevereiro de 1885",
+      "fim_mandato": "19 de novembro de 1885",
+      "governo": "XL Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "82",
+      "nome": "Manuel da Assunção (1844–1893)",
+      "inicio_mandato": "19 de novembro de 1885",
+      "fim_mandato": "20 de fevereiro de 1886",
+      "governo": "XL Fontes Pereira de Melo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "83",
+      "nome": "Francisco António da Veiga Beirão (1841–1916)",
+      "inicio_mandato": "20 de fevereiro de 1886",
+      "fim_mandato": "6 de outubro de 1886",
+      "governo": "XLI J. L. Castro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "José Luciano de Castro Pereira Corte-Real (interino) (1834–1914)",
+      "inicio_mandato": "6 de outubro de 1886",
+      "fim_mandato": "19 de outubro de 1886",
+      "governo": "XLI J. L. Castro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Francisco António da Veiga Beirão (continuação) (1841–1916)",
+      "inicio_mandato": "19 de outubro de 1886",
+      "fim_mandato": "14 de janeiro de 1890",
+      "governo": "XLI J. L. Castro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "84",
+      "nome": "Lopo Vaz de Sampaio e Melo (2.ª vez) (1848–1892)",
+      "inicio_mandato": "14 de janeiro de 1890",
+      "fim_mandato": "13 de outubro de 1890",
+      "governo": "XLII Serpa",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "85",
+      "nome": "António Emílio Correia de Sá Brandão (1821–1909)",
+      "inicio_mandato": "13 de outubro de 1890",
+      "fim_mandato": "21 de maio de 1891",
+      "governo": "XLIII Crisóstomo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "86",
+      "nome": "Alberto António de Morais Carvalho, filho (1853–1932)",
+      "inicio_mandato": "21 de maio de 1891",
+      "fim_mandato": "17 de janeiro de 1892",
+      "governo": "XLIV Crisóstomo",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "87",
+      "nome": "D. António Frutuoso Aires de Gouveia Osório, bispo de Betsaida (2.ª vez; interino) (1828–1916)",
+      "inicio_mandato": "17 de janeiro de 1892",
+      "fim_mandato": "27 de maio de 1892",
+      "governo": "XLV Dias Ferreira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "88",
+      "nome": "António Teles Pereira de Vasconcelos Pimentel (1832–1907)",
+      "inicio_mandato": "27 de maio de 1892",
+      "fim_mandato": "22 de fevereiro de 1893",
+      "governo": "XLVI Dias Ferreira",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "89",
+      "nome": "António de Azevedo Castelo Branco (1842–1916)",
+      "inicio_mandato": "22 de fevereiro de 1893",
+      "fim_mandato": "7 de fevereiro de 1897",
+      "governo": "XLVII Hintze Ribeiro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "90",
+      "nome": "Francisco António da Veiga Beirão (2.ª vez) (1841–1916)",
+      "inicio_mandato": "7 de fevereiro de 1897",
+      "fim_mandato": "18 de agosto de 1898",
+      "governo": "XLVIII J. L. Castro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "91",
+      "nome": "José Maria de Alpoim Cerqueira Borges Cabral (1858–1916)",
+      "inicio_mandato": "18 de agosto de 1898",
+      "fim_mandato": "25 de junho de 1900",
+      "governo": "XLIX J. L. Castro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "92",
+      "nome": "Artur Alberto de Campos Henriques (1852–1922)",
+      "inicio_mandato": "25 de junho de 1900",
+      "fim_mandato": "4 de julho de 1903",
+      "governo": "L Hintze Ribeiro; LI Hintze Ribeiro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Luís Augusto Pimentel Pinto (interino) (1843–1913)",
+      "inicio_mandato": "4 de julho de 1903",
+      "fim_mandato": "7 de setembro de 1903",
+      "governo": "LI Hintze Ribeiro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "–",
+      "nome": "Artur Alberto de Campos Henriques (continuação) (1852–1922)",
+      "inicio_mandato": "7 de setembro de 1903",
+      "fim_mandato": "20 de outubro de 1904",
+      "governo": "LI Hintze Ribeiro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "93",
+      "nome": "José Maria de Alpoim Cerqueira Borges Cabral (2.ª vez) (1858–1916)",
+      "inicio_mandato": "20 de outubro de 1904",
+      "fim_mandato": "10 de maio de 1905",
+      "governo": "LII J. L. Castro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "94",
+      "nome": "Artur Pinto de Miranda Montenegro (1871–1941)",
+      "inicio_mandato": "10 de maio de 1905",
+      "fim_mandato": "20 de março de 1906",
+      "governo": "LII J. L. Castro; LIII J. L. Castro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "95",
+      "nome": "Artur Alberto de Campos Henriques (2.ª vez) (1852–1922)",
+      "inicio_mandato": "20 de março de 1906",
+      "fim_mandato": "19 de maio de 1906",
+      "governo": "LIV Hintze Ribeiro",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "96",
+      "nome": "José Joaquim de Abreu do Couto de Amorim Novais (1855–1913)",
+      "inicio_mandato": "19 de maio de 1906",
+      "fim_mandato": "2 de maio de 1907",
+      "governo": "LV Franco",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "97",
+      "nome": "António José Teixeira de Abreu (1865–1930)",
+      "inicio_mandato": "2 de maio de 1907",
+      "fim_mandato": "4 de fevereiro de 1908",
+      "governo": "LV Franco",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "98",
+      "nome": "Artur Alberto de Campos Henriques (3.ª vez) (1852–1922)",
+      "inicio_mandato": "4 de fevereiro de 1908",
+      "fim_mandato": "25 de dezembro de 1908",
+      "governo": "LVI Ferreira do Amaral",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "99",
+      "nome": "João de Alarcão Velasques Sarmento Osório (1854–1918)",
+      "inicio_mandato": "25 de dezembro de 1908",
+      "fim_mandato": "11 de abril de 1909",
+      "governo": "LVII Campos Henriques",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "100",
+      "nome": "Amadeu Teles da Silva de Afonseca Mesquita de Castro Pereira e Solla, Conde de Castro e Solla (1874–1948)",
+      "inicio_mandato": "11 de abril de 1909",
+      "fim_mandato": "14 de maio de 1909",
+      "governo": "LVIII Teles",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "101",
+      "nome": "Francisco José de Medeiros (1845–1912)",
+      "inicio_mandato": "14 de maio de 1909",
+      "fim_mandato": "26 de outubro de 1909",
+      "governo": "LIX Lima",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "102",
+      "nome": "Venceslau de Sousa Pereira de Lima (interino) (1858–1919)",
+      "inicio_mandato": "26 de outubro de 1909",
+      "fim_mandato": "22 de dezembro de 1909",
+      "governo": "LIX Lima",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "103",
+      "nome": "Artur Pinto de Miranda Montenegro (2.ª vez) (1871–1941)",
+      "inicio_mandato": "22 de dezembro de 1909",
+      "fim_mandato": "10 de maio de 1910",
+      "governo": "LX Veiga Beirão",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "104",
+      "nome": "Francisco António da Veiga Beirão (3.ª vez) (1841–1916)",
+      "inicio_mandato": "10 de maio de 1910",
+      "fim_mandato": "26 de junho de 1910",
+      "governo": "LX Veiga Beirão",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "105",
+      "nome": "Manuel Joaquim Fratel (1869–1938)",
+      "inicio_mandato": "26 de junho de 1910",
+      "fim_mandato": "5 de outubro de 1910",
+      "governo": "LXI Teixeira de Sousa",
+      "periodo": "Monarquia Constitucional (1830–1910)"
+    },
+    {
+      "numero": "106",
+      "nome": "Afonso Augusto da Costa (1871–1937)",
+      "inicio_mandato": "5 de outubro de 1910",
+      "fim_mandato": "14 de março de 1911",
+      "governo": "Gov. Prov. (I) Braga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "nome": "Bernardino Luís Machado Guimarães (interino) (1851–1944)",
+      "inicio_mandato": "14 de março de 1911",
+      "fim_mandato": "4 de abril de 1911",
+      "governo": "Gov. Prov. (I) Braga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "nome": "Afonso Augusto da Costa (continuação) (1871–1937)",
+      "inicio_mandato": "4 de abril de 1911",
+      "fim_mandato": "18 de maio de 1911",
+      "governo": "Gov. Prov. (I) Braga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "nome": "Bernardino Luís Machado Guimarães (interino) (1851–1944)",
+      "inicio_mandato": "18 de maio de 1911",
+      "fim_mandato": "26 de julho de 1911",
+      "governo": "Gov. Prov. (I) Braga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "–",
+      "nome": "Afonso Augusto da Costa (continuação) (1871–1937)",
+      "inicio_mandato": "26 de julho de 1911",
+      "fim_mandato": "3 de setembro de 1911",
+      "governo": "Gov. Prov. (I) Braga",
+      "periodo": "Governo Provisório (1910–1911)"
+    },
+    {
+      "numero": "107",
+      "nome": "Diogo Tavares de Melo Leote (1849–1920)",
+      "inicio_mandato": "4 de setembro de 1911",
+      "fim_mandato": "12 de novembro de 1911",
+      "governo": "II Chagas",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "108",
+      "nome": "António Caetano Macieira Júnior (1875–1918)",
+      "inicio_mandato": "12 de novembro de 1911",
+      "fim_mandato": "16 de junho de 1912",
+      "governo": "III Vasconcelos",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "109",
+      "nome": "Francisco Correia de Lemos (1852–1914)",
+      "inicio_mandato": "16 de junho de 1912",
+      "fim_mandato": "9 de janeiro de 1913",
+      "governo": "IV Leite",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "110",
+      "nome": "Álvaro Xavier de Castro (1878–1928)",
+      "inicio_mandato": "9 de janeiro de 1913",
+      "fim_mandato": "9 de fevereiro de 1914",
+      "governo": "V Costa",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "111",
+      "nome": "Manuel Joaquim Rodrigues Monteiro (1879–1952)",
+      "inicio_mandato": "9 de fevereiro de 1914",
+      "fim_mandato": "23 de junho de 1914",
+      "governo": "VI Machado",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "112",
+      "nome": "Bernardino Luís Machado Guimarães (interino) (1851–1944)",
+      "inicio_mandato": "23 de junho de 1914",
+      "fim_mandato": "22 de julho de 1914",
+      "governo": "VII Machado",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "113",
+      "nome": "Eduardo Augusto de Sousa Monteiro (1864–1965)",
+      "inicio_mandato": "22 de julho de 1914",
+      "fim_mandato": "1 de dezembro de 1914",
+      "governo": "VII Machado",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "–",
+      "nome": "Eduardo Augusto de Sousa Monteiro (continuação) (1864–1965)",
+      "inicio_mandato": "1 de dezembro de 1914",
+      "fim_mandato": "12 de dezembro de 1914",
+      "governo": "VII Machado",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "114",
+      "nome": "Augusto Luís Vieira Soares (interino) (1873–1954)",
+      "inicio_mandato": "12 de dezembro de 1914",
+      "fim_mandato": "21 de dezembro de 1914",
+      "governo": "VIII Azevedo Coutinho",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "115",
+      "nome": "José Maria Vilhena Barbosa de Magalhães (1879–1959)",
+      "inicio_mandato": "21 de dezembro de 1914",
+      "fim_mandato": "25 de janeiro de 1915",
+      "governo": "VIII Azevedo Coutinho",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "116",
+      "nome": "José Joaquim Pereira Pimenta de Castro (interino) (1846–1918)",
+      "inicio_mandato": "25 de janeiro de 1915",
+      "fim_mandato": "28 de janeiro de 1915",
+      "governo": "IX Pimenta de Castro",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "117",
+      "nome": "Guilherme Alves Moreira (1861–1922)",
+      "inicio_mandato": "28 de janeiro de 1915",
+      "fim_mandato": "14 de maio de 1915",
+      "governo": "IX Pimenta de Castro",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "–",
+      "nome": "Junta Constitucional composta por: José Maria Mendes Ribeiro Norton de Matos António Maria da Silva José de Freitas Ribeiro Alfredo Ernesto de Sá Cardoso Álvaro Xavier de Castro Paulo José Falcão",
+      "inicio_mandato": "14 de maio de 1915",
+      "fim_mandato": "15 de maio de 1915",
+      "governo": "——",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "118",
+      "nome": "Paulo José Falcão (1873–1950)",
+      "inicio_mandato": "15 de maio de 1915",
+      "fim_mandato": "19 de junho de 1915",
+      "governo": "X Chagas (até 29 mai. 1915) (não empossado) J. Castro (desde 17 mai. 1915) (interino)",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "119",
+      "nome": "João Catanho de Meneses (1854–1942)",
+      "inicio_mandato": "19 de junho de 1915",
+      "fim_mandato": "15 de março de 1916",
+      "governo": "XI J. Castro; XII Costa",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "120",
+      "nome": "Luís Augusto de Sales Pinto Mesquita de Carvalho (1868–1931)",
+      "inicio_mandato": "15 de março de 1916",
+      "fim_mandato": "25 de abril de 1917",
+      "governo": "XIII Almeida",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "121",
+      "nome": "Alexandre Braga, filho (1871–1921)",
+      "inicio_mandato": "25 de abril de 1917",
+      "fim_mandato": "28 de novembro de 1917",
+      "governo": "XIV Costa",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "–",
+      "nome": "José Maria Vilhena Barbosa de Magalhães (interino) (1879–1959)",
+      "inicio_mandato": "28 de novembro de 1917",
+      "fim_mandato": "8 de dezembro de 1917",
+      "governo": "XIV Costa",
+      "periodo": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "numero": "–",
+      "nome": "Junta Revolucionária composta por: Sidónio Bernardino Cardoso da Silva Pais (Presidente) António Maria de Azevedo Machado Santos (Vogal) José Feliciano da Costa Júnior (Vogal)",
+      "inicio_mandato": "8 de dezembro de 1917",
+      "fim_mandato": "11 de dezembro de 1917",
+      "governo": "——",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "122",
+      "nome": "Alberto de Moura Pinto (1883–1960)",
+      "inicio_mandato": "11 de dezembro de 1917",
+      "fim_mandato": "7 de março de 1918",
+      "governo": "XV Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "123",
+      "nome": "Martinho Nobre de Melo (1891–1985)",
+      "inicio_mandato": "7 de março de 1918",
+      "fim_mandato": "15 de maio de 1918",
+      "governo": "XV Pais",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "124",
+      "nome": "Alberto Osório de Castro (1868–1946)",
+      "inicio_mandato": "15 de maio de 1918",
+      "fim_mandato": "8 de outubro de 1918",
+      "governo": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "125",
+      "nome": "Jorge Couceiro da Costa (1858–1937)",
+      "inicio_mandato": "8 de outubro de 1918",
+      "fim_mandato": "16 de dezembro de 1918",
+      "governo": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "–",
+      "nome": "Jorge Couceiro da Costa (continuação) (1858–1937)",
+      "inicio_mandato": "16 de dezembro de 1918",
+      "fim_mandato": "23 de dezembro de 1918",
+      "governo": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "periodo": "República Nova (1917–1918)"
+    },
+    {
+      "numero": "126",
+      "nome": "Afonso de Melo Pinto Veloso (1878–1968)",
+      "inicio_mandato": "23 de dezembro de 1918",
+      "fim_mandato": "7 de janeiro de 1919",
+      "governo": "XVII Tamagnini Barbosa",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "127",
+      "nome": "Francisco Joaquim Fernandes (1869–1923)",
+      "inicio_mandato": "7 de janeiro de 1919",
+      "fim_mandato": "27 de janeiro de 1919",
+      "governo": "XVIII Tamagnini Barbosa",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "128",
+      "nome": "Francisco Manuel Couceiro da Costa (1870–1925)",
+      "inicio_mandato": "27 de janeiro de 1919",
+      "fim_mandato": "15 de fevereiro de 1919",
+      "governo": "XIX Relvas",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "Domingos Leite Pereira (interino) (1882–1956)",
+      "inicio_mandato": "15 de fevereiro de 1919",
+      "fim_mandato": "data indeterminada (antes de 22 de fevereiro de 1919)",
+      "governo": "XIX Relvas",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "Francisco Manuel Couceiro da Costa (continuação) (1870–1925)",
+      "inicio_mandato": "data indeterminada (antes de 22 de fevereiro de 1919)",
+      "fim_mandato": "30 de março de 1919",
+      "governo": "XIX Relvas",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "129",
+      "nome": "António Joaquim Granjo (1881–1921)",
+      "inicio_mandato": "30 de março de 1919",
+      "fim_mandato": "29 de junho de 1919",
+      "governo": "XX Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "130",
+      "nome": "Artur Alberto da Cunha Camacho Lopes Cardoso (1881–1968)",
+      "inicio_mandato": "29 de junho de 1919",
+      "fim_mandato": "15 de janeiro de 1920",
+      "governo": "XXI Sá Cardoso",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "Luís Augusto de Sales Pinto Mesquita de Carvalho (não empossado) (1868–1931)",
+      "inicio_mandato": "15 de janeiro de 1920",
+      "fim_mandato": "15 de janeiro de 1920",
+      "governo": "XXII Fernandes Costa (não empossado)",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "Artur Alberto da Cunha Camacho Lopes Cardoso (reconduzido) (1881–1968)",
+      "inicio_mandato": "15 de janeiro de 1920",
+      "fim_mandato": "21 de janeiro de 1920",
+      "governo": "XXI Sá Cardoso",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "131",
+      "nome": "Luís Augusto de Sales Pinto Mesquita de Carvalho (2.ª vez) (1868–1931)",
+      "inicio_mandato": "21 de janeiro de 1920",
+      "fim_mandato": "8 de março de 1920",
+      "governo": "XXIII Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "132",
+      "nome": "José Ramos Preto (1870–1949)",
+      "inicio_mandato": "8 de março de 1920",
+      "fim_mandato": "26 de junho de 1920",
+      "governo": "XXIV Baptista (até 6 jun. 1920) Ramos Preto (desde 6 jun. 1920)",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "133",
+      "nome": "António Joaquim de Oliveira e Castro (1865–1938)",
+      "inicio_mandato": "26 de junho de 1920",
+      "fim_mandato": "19 de julho de 1920",
+      "governo": "XXV Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "134",
+      "nome": "Artur Alberto da Cunha Camacho Lopes Cardoso (2.ª vez) (1881–1968)",
+      "inicio_mandato": "19 de julho de 1920",
+      "fim_mandato": "23 de maio de 1921",
+      "governo": "XXVI Granjo; XXVII A. Castro; XXVIII Pinto; XXIX Machado",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "135",
+      "nome": "José do Vale de Matos Cid (1871–1945)",
+      "inicio_mandato": "23 de maio de 1921",
+      "fim_mandato": "30 de agosto de 1921",
+      "governo": "XXX Barros Queirós",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "136",
+      "nome": "Raul Lelo Portela (1888–1972)",
+      "inicio_mandato": "30 de agosto de 1921",
+      "fim_mandato": "19 de outubro de 1921",
+      "governo": "XXXI Granjo",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "Vasco Guedes de Vasconcelos (não empossado) (1880–1950)",
+      "inicio_mandato": "19 de outubro de 1921",
+      "fim_mandato": "22 de outubro de 1921",
+      "governo": "XXXII Coelho",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "137",
+      "nome": "António Augusto de Almeida Arez (1868–1942)",
+      "inicio_mandato": "22 de outubro de 1921",
+      "fim_mandato": "5 de novembro de 1921",
+      "governo": "XXXII Coelho",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "138",
+      "nome": "Vasco Guedes de Vasconcelos (1880–1950)",
+      "inicio_mandato": "5 de novembro de 1921",
+      "fim_mandato": "16 de dezembro de 1921",
+      "governo": "XXXIII Maia Pinto",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "139",
+      "nome": "António de Abranches Ferrão (1883–1932)",
+      "inicio_mandato": "16 de dezembro de 1921",
+      "fim_mandato": "6 de fevereiro de 1922",
+      "governo": "XXXIV Cunha Leal",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "140",
+      "nome": "João Catanho de Meneses (2.ª vez) (1854–1942)",
+      "inicio_mandato": "6 de fevereiro de 1922",
+      "fim_mandato": "7 de fevereiro de 1922",
+      "governo": "XXXV Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "Vasco Borges (interino) (1882–1942)",
+      "inicio_mandato": "7 de fevereiro de 1922",
+      "fim_mandato": "18 de fevereiro de 1922",
+      "governo": "XXXV Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "João Catanho de Meneses (2.ª vez continuação) (1854–1942)",
+      "inicio_mandato": "18 de fevereiro de 1922",
+      "fim_mandato": "7 de dezembro de 1922",
+      "governo": "XXXV Silva; XXXVI Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "141",
+      "nome": "António de Abranches Ferrão (2.ª vez) (1883–1932)",
+      "inicio_mandato": "7 de dezembro de 1922",
+      "fim_mandato": "15 de novembro de 1923",
+      "governo": "XXXVII Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "142",
+      "nome": "Artur Alberto da Cunha Camacho Lopes Cardoso (3.ª vez) (1881–1968)",
+      "inicio_mandato": "15 de novembro de 1923",
+      "fim_mandato": "18 de dezembro de 1923",
+      "governo": "XXXVIII Ginestal Machado",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "143",
+      "nome": "José Domingues dos Santos (1887–1958)",
+      "inicio_mandato": "18 de dezembro de 1923",
+      "fim_mandato": "6 de julho de 1924",
+      "governo": "XXXIX A. Castro",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "144",
+      "nome": "João Catanho de Meneses (3.ª vez) (1854–1942)",
+      "inicio_mandato": "6 de julho de 1924",
+      "fim_mandato": "22 de novembro de 1924",
+      "governo": "XL Rodrigues Gaspar",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "145",
+      "nome": "Pedro Augusto Pereira de Castro (1867–1943)",
+      "inicio_mandato": "22 de novembro de 1924",
+      "fim_mandato": "15 de fevereiro de 1925",
+      "governo": "XLI Domingues dos Santos",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "146",
+      "nome": "Adolfo Augusto de Oliveira Coutinho (1875–1950)",
+      "inicio_mandato": "15 de fevereiro de 1925",
+      "fim_mandato": "1 de julho de 1925",
+      "governo": "XLII Guimarães",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "147",
+      "nome": "Augusto Casimiro Alves Monteiro (1861–1958)",
+      "inicio_mandato": "1 de julho de 1925",
+      "fim_mandato": "17 de dezembro de 1925",
+      "governo": "XLIII Silva; XLIV Pereira",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "148",
+      "nome": "João Catanho de Meneses (4.ª vez) (1854–1942)",
+      "inicio_mandato": "17 de dezembro de 1925",
+      "fim_mandato": "29 de maio de 1926",
+      "governo": "XLV Silva",
+      "periodo": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "numero": "–",
+      "nome": "Junta de Salvação Pública composta por: José Mendes Cabeçadas Júnior (Presidente) Armando Humberto da Gama Ochoa Jaime Pereira Rodrigues Baptista Carlos de Jesus Vilhena",
+      "inicio_mandato": "29 de maio de 1926",
+      "fim_mandato": "30 de maio de 1926",
+      "governo": "——",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "149",
+      "nome": "José Mendes Cabeçadas Júnior (interino até 1 de junho) (1883–1965)",
+      "inicio_mandato": "30 de maio de 1926",
+      "fim_mandato": "3 de junho de 1926",
+      "governo": "I Mendes Cabeçadas",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "150",
+      "nome": "Manuel Rodrigues Júnior (1889–1946)",
+      "inicio_mandato": "3 de junho de 1926",
+      "fim_mandato": "11 de abril de 1928",
+      "governo": "I Mendes Cabeçadas; II Gomes da Costa; III Carmona",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "151",
+      "nome": "António Maria de Bettencourt Rodrigues (1854–1933)",
+      "inicio_mandato": "11 de abril de 1928",
+      "fim_mandato": "18 de abril de 1928",
+      "governo": "III Carmona",
+      "periodo": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "numero": "152",
+      "nome": "José da Silva Monteiro (1867–1940)",
+      "inicio_mandato": "18 de abril de 1928",
+      "fim_mandato": "10 de novembro de 1928",
+      "governo": "IV Freitas",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "153",
+      "nome": "Mário de Figueiredo (1890–1969)",
+      "inicio_mandato": "10 de novembro de 1928",
+      "fim_mandato": "8 de julho de 1929",
+      "governo": "V Freitas",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "154",
+      "nome": "Francisco Xavier da Silva Teles (interino) (1860–1930)",
+      "inicio_mandato": "8 de julho de 1929",
+      "fim_mandato": "15 de julho de 1929",
+      "governo": "VI Ivens Ferraz",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "155",
+      "nome": "Luís Maria Lopes da Fonseca (1883–1974)",
+      "inicio_mandato": "15 de julho de 1929",
+      "fim_mandato": "23 de janeiro de 1931",
+      "governo": "VI Ivens Ferraz; VII Oliveira",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "156",
+      "nome": "Domingos Augusto Alves da Costa e \"de\" Oliveira (interino) (1873–1957)",
+      "inicio_mandato": "23 de janeiro de 1931",
+      "fim_mandato": "26 de janeiro de 1931",
+      "governo": "VII Oliveira",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "157",
+      "nome": "José de Almeida Eusébio (1881–1945)",
+      "inicio_mandato": "26 de janeiro de 1931",
+      "fim_mandato": "5 de julho de 1932",
+      "governo": "VII Oliveira",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "158",
+      "nome": "Manuel Rodrigues Júnior (2.ª vez) (1889–1946)",
+      "inicio_mandato": "5 de julho de 1932",
+      "fim_mandato": "11 de abril de 1933",
+      "governo": "VIII Oliveira Salazar",
+      "periodo": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "numero": "–",
+      "nome": "Manuel Rodrigues Júnior (2.ª vez continuação) (1889–1946)",
+      "inicio_mandato": "11 de abril de 1933",
+      "fim_mandato": "23 de outubro de 1934",
+      "governo": "I Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "–",
+      "nome": "Manuel Rodrigues Júnior (2.ª vez continuação) (1889–1946)",
+      "inicio_mandato": "23 de outubro de 1934",
+      "fim_mandato": "28 de agosto de 1940",
+      "governo": "I Oliveira Salazar; II Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "159",
+      "nome": "Adriano Pais da Silva Vaz Serra (1903–1989)",
+      "inicio_mandato": "28 de agosto de 1940",
+      "fim_mandato": "6 de setembro de 1944",
+      "governo": "II Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "160",
+      "nome": "Manuel Gonçalves Cavaleiro de Ferreira (1911–1992)",
+      "inicio_mandato": "6 de setembro de 1944",
+      "fim_mandato": "7 de agosto de 1954",
+      "governo": "II Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "161",
+      "nome": "João de Matos Antunes Varela (1919–2005)",
+      "inicio_mandato": "14 de agosto de 1954",
+      "fim_mandato": "31 de maio de 1955",
+      "governo": "II Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "162",
+      "nome": "Fernando de Andrade Pires de Lima (interino) (1906–1970)",
+      "inicio_mandato": "31 de maio de 1955",
+      "fim_mandato": "30 de junho de 1955",
+      "governo": "II Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "163",
+      "nome": "João de Matos Antunes Varela (2.ª vez) (1919–2005)",
+      "inicio_mandato": "30 de junho de 1955",
+      "fim_mandato": "22 de setembro de 1967",
+      "governo": "II Oliveira Salazar",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "164",
+      "nome": "Mário Júlio Brito de Almeida Costa (1927–2025)",
+      "inicio_mandato": "22 de setembro de 1967",
+      "fim_mandato": "7 de novembro de 1973",
+      "governo": "II Oliveira Salazar; III Caetano",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "165",
+      "nome": "António Maria de Mendonça Lino Neto (1913–1980)",
+      "inicio_mandato": "7 de novembro de 1973",
+      "fim_mandato": "25 de abril de 1974",
+      "governo": "III Caetano",
+      "periodo": "Estado Novo (1933–1974)"
+    },
+    {
+      "numero": "–",
+      "nome": "Junta de Salvação Nacional composta por: António Sebastião Ribeiro de Spínola (Presidente) Francisco da Costa Gomes Jaime Silvério Marques Manuel Diogo Neto Carlos Galvão de Melo José Baptista Pinheiro de Azevedo António Alva Rosa Coutinho",
+      "inicio_mandato": "25 de abril de 1974",
+      "fim_mandato": "16 de maio de 1974",
+      "governo": "——",
+      "periodo": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "numero": "166",
+      "nome": "Francisco de Almeida Salgado Zenha (1923–1993)",
+      "inicio_mandato": "16 de maio de 1974",
+      "fim_mandato": "8 de agosto de 1975",
+      "governo": "I Prov. Palma Carlos; II Prov. Gonçalves; III Prov. Gonçalves; IV Prov. Gonçalves",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "numero": "167",
+      "nome": "Joaquim Pinto da Rocha e Cunha (1913–1996)",
+      "inicio_mandato": "8 de agosto de 1975",
+      "fim_mandato": "19 de setembro de 1975",
+      "governo": "V Prov. Gonçalves",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "numero": "168",
+      "nome": "João de Deus Pinheiro Farinha (1919–1994)",
+      "inicio_mandato": "19 de setembro de 1975",
+      "fim_mandato": "22 de julho de 1976",
+      "governo": "VI Prov. Pinheiro de Azevedo",
+      "periodo": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "numero": "169",
+      "nome": "António de Almeida Santos (1926–2016)",
+      "inicio_mandato": "23 de julho de 1976",
+      "fim_mandato": "30 de janeiro de 1978",
+      "governo": "I Soares",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "170",
+      "nome": "José Dias dos Santos Pais (1929–)",
+      "inicio_mandato": "30 de janeiro de 1978",
+      "fim_mandato": "29 de agosto de 1978",
+      "governo": "II Soares",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "171",
+      "nome": "Mário Ferreira Bastos Raposo (1929–2013)",
+      "inicio_mandato": "29 de agosto de 1978",
+      "fim_mandato": "22 de novembro de 1978",
+      "governo": "III Nobre da Costa",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "172",
+      "nome": "Eduardo Henriques da Silva Correia (1915–1991)",
+      "inicio_mandato": "22 de novembro de 1978",
+      "fim_mandato": "1 de agosto de 1979",
+      "governo": "IV Mota Pinto",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "173",
+      "nome": "Pedro de Lemos e Sousa Macedo (1928–)",
+      "inicio_mandato": "1 de agosto de 1979",
+      "fim_mandato": "3 de janeiro de 1980",
+      "governo": "V Pintasilgo",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "174",
+      "nome": "Mário Ferreira Bastos Raposo (2.ª vez) (1929–2013)",
+      "inicio_mandato": "3 de janeiro de 1980",
+      "fim_mandato": "9 de janeiro de 1981",
+      "governo": "VI Sá Carneiro (até 4 dez. 1980) Freitas do Amaral (desde 4 dez. 1980) (interino)",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "175",
+      "nome": "José Manuel Menéres Sampaio Pimentel (1928–2014)",
+      "inicio_mandato": "9 de janeiro de 1981",
+      "fim_mandato": "4 de setembro de 1981",
+      "governo": "VII Pinto Balsemão",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "–",
+      "nome": "José Manuel Menéres Sampaio Pimentel (continuação) (1928–2014)",
+      "inicio_mandato": "4 de setembro de 1981",
+      "fim_mandato": "9 de junho de 1983",
+      "governo": "VIII Pinto Balsemão",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "176",
+      "nome": "Rui Manuel Parente Chancerelle de Machete (1940–)",
+      "inicio_mandato": "9 de junho de 1983",
+      "fim_mandato": "15 de fevereiro de 1985",
+      "governo": "IX Soares",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "177",
+      "nome": "Mário Ferreira Bastos Raposo (3.ª vez) (1929–2013)",
+      "inicio_mandato": "15 de fevereiro de 1985",
+      "fim_mandato": "17 de agosto de 1987",
+      "governo": "IX Soares; X Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "178",
+      "nome": "Joaquim Fernando Nogueira (1950–)",
+      "inicio_mandato": "17 de agosto de 1987",
+      "fim_mandato": "5 de março de 1990",
+      "governo": "XI Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "179",
+      "nome": "Álvaro José Brilhante Laborinho Lúcio (1941–2025)",
+      "inicio_mandato": "5 de março de 1990",
+      "fim_mandato": "28 de outubro de 1995",
+      "governo": "XI Cavaco Silva; XII Cavaco Silva",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "180",
+      "nome": "José Eduardo Vera -Cruz Jardim (1939–)",
+      "inicio_mandato": "28 de outubro de 1995",
+      "fim_mandato": "25 de outubro de 1999",
+      "governo": "XIII Guterres",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "181",
+      "nome": "António Luís Santos da Costa (1961–)",
+      "inicio_mandato": "25 de outubro de 1999",
+      "fim_mandato": "6 de abril de 2002",
+      "governo": "XIV Guterres",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "182",
+      "nome": "Maria Celeste Ferreira Lopes Cardona (1951–)",
+      "inicio_mandato": "6 de abril de 2002",
+      "fim_mandato": "17 de julho de 2004",
+      "governo": "XV Durão Barroso",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "183",
+      "nome": "José Pedro Correia de Aguiar-Branco (1957–)",
+      "inicio_mandato": "17 de julho de 2004",
+      "fim_mandato": "12 de março de 2005",
+      "governo": "XVI Santana Lopes",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "184",
+      "nome": "Alberto Bernardes Costa (1947–)",
+      "inicio_mandato": "12 de março de 2005",
+      "fim_mandato": "26 de outubro de 2009",
+      "governo": "XVII Sócrates",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "185",
+      "nome": "Alberto de Sousa Martins (1945–)",
+      "inicio_mandato": "26 de outubro de 2009",
+      "fim_mandato": "21 de junho de 2011",
+      "governo": "XVIII Sócrates",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "186",
+      "nome": "Paula Maria von Hafe Teixeira da Cruz (1960–)",
+      "inicio_mandato": "21 de junho de 2011",
+      "fim_mandato": "30 de outubro de 2015",
+      "governo": "XIX Passos Coelho",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "187",
+      "nome": "Fernando Mimoso Negrão (1955–)",
+      "inicio_mandato": "30 de outubro de 2015",
+      "fim_mandato": "26 de novembro de 2015",
+      "governo": "XX Passos Coelho",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "188",
+      "nome": "Francisca Eugénia da Silva Dias Van Dunem (1955–)",
+      "inicio_mandato": "26 de novembro de 2015",
+      "fim_mandato": "30 de março de 2022",
+      "governo": "XXI Costa; XXII Costa",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "189",
+      "nome": "Catarina Teresa Rola Sarmento e Castro (1970–)",
+      "inicio_mandato": "30 de março de 2022",
+      "fim_mandato": "2 de abril de 2024",
+      "governo": "XXIII Costa",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "numero": "190",
+      "nome": "Rita Fragoso de Rhodes Alarcão Júdice de Abreu e Mota (1973–)",
+      "inicio_mandato": "2 de abril de 2024",
+      "fim_mandato": "presente",
+      "governo": "XXIV Montenegro; XXV Montenegro",
+      "periodo": "Governos Constitucionais (1976-presente)"
+    }
+  ],
+  "meta": {
+    "title": "Ministros da Justiça de Portugal - Free Download",
+    "description": "Lista cronológica dos ministros da Justiça de Portugal desde 1828, com início e fim do mandato, governo e período político. Contains 231 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros da Justiça de Portugal | ListBase",
+    "seo_description": "Download Ministros da Justiça de Portugal — 231 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 231 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_de_Portugal"
+    ]
+  }
+}

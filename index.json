@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-12T02:11:18.745Z",
-  "total_datasets": 554,
-  "total_records": 744634,
+  "generated": "2026-11-12T02:11:29.990Z",
+  "total_datasets": 555,
+  "total_records": 744865,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -4211,6 +4211,33 @@
         "xlsx": {
           "name": "pt-juizes-tribunal-constitucional_PT.xlsx",
           "size": 12442
+        }
+      }
+    },
+    {
+      "id": "pt-ministros-justica-portugal",
+      "name": "Ministros da Justiça de Portugal",
+      "category": "law",
+      "record_count": 231,
+      "columns": [
+        "numero",
+        "nome",
+        "inicio_mandato",
+        "fim_mandato",
+        "governo",
+        "periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_da_Justiça_de_Portugal",
+      "updated": "2026-11",
+      "size": 70877,
+      "files": {
+        "csv": {
+          "name": "pt-ministros-justica-portugal_PT.csv",
+          "size": 39789
+        },
+        "xlsx": {
+          "name": "pt-ministros-justica-portugal_PT.xlsx",
+          "size": 20116
         }
       }
     },
