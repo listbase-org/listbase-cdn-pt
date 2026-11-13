@@ -1,0 +1,400 @@
+{
+  "id": "pt-br-bens-tombados-iphan-rio-grande-do-sul",
+  "name": "Bens tombados pelo IPHAN no Rio Grande do Sul",
+  "title": "Bens tombados pelo IPHAN no Rio Grande do Sul",
+  "description": "Lista do patrimônio histórico e artístico tombado pelo IPHAN no estado do Rio Grande do Sul, por município, com ano de tombamento, classificação, livros do tombo e descrição.",
+  "category": "tourism",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_bens_tombados_pelo_IPHAN_no_Rio_Grande_do_Sul",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_bens_tombados_pelo_IPHAN_no_Rio_Grande_do_Sul",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "bem",
+      "label": "Bem",
+      "type": "string"
+    },
+    {
+      "key": "ano_de_tombamento",
+      "label": "Ano De Tombamento",
+      "type": "number"
+    },
+    {
+      "key": "classificacao",
+      "label": "Classificacao",
+      "type": "string"
+    },
+    {
+      "key": "livros_do_tombo",
+      "label": "Livros Do Tombo",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "municipio": "Antônio Prado",
+      "bem": "Casarão de Madeira na Rua Gustavo Sampaio, 34 ou Casa de Dona Neni",
+      "ano_de_tombamento": "1985",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "A Casa de Dona Neni é um exemplar de arquitetura urbana em madeira, construído na região de imigração italiana, em 1910."
+    },
+    {
+      "municipio": "Antônio Prado",
+      "bem": "Conjunto arquitetônico e urbanístico de Antônio Prado",
+      "ano_de_tombamento": "1990",
+      "classificacao": "Conjunto Arquitetônico",
+      "livros_do_tombo": "Arqueológico, etnográfico e paisagístico Histórico",
+      "descricao": "O Conjunto Arquitetônico e Urbanístico de Antônio Prado constitui-se de 47 exemplares de arquitetura popular, com grandes casarões em alvenaria e madeira, ornamentados com lambrequins."
+    },
+    {
+      "municipio": "Bagé",
+      "bem": "Forte de Santa Tecla: fundações",
+      "ano_de_tombamento": "1970",
+      "classificacao": "Ruína",
+      "livros_do_tombo": "Arqueológico, etnográfico e paisagístico",
+      "descricao": "O Forte de Santa Tecla localizava-se perto do rio Negro, próximo ao rio Piraízinho, atual município de Bagé, no estado brasileiro do Rio Grande do Sul. Atualmente restam vestígios das antigas fundações em pedra, tombadas pelo Instituto do Patrimônio Histórico e Artístico Nacional desde 1970, em terreno pertencente à Prefeitura do Município de Bagé."
+    },
+    {
+      "municipio": "Bagé",
+      "bem": "Igreja Matriz de São Sebastião",
+      "ano_de_tombamento": "1955",
+      "classificacao": "Edificação e Acervo",
+      "livros_do_tombo": "Histórico",
+      "descricao": "A Igreja Matriz de São Sebastião, em Bagé – RS, possui planta central, nave única e duas torres cobertas com cúpulas em forma de bulbo e foi concluída em 1863."
+    },
+    {
+      "municipio": "Caçapava do Sul",
+      "bem": "Forte de Caçapava",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "Fortificação em alvenaria de pedra, com planta hexagonal, cuja construção, iniciada em 1850, foi abandonada inconclusa em 1856."
+    },
+    {
+      "municipio": "Entre-Ijuís",
+      "bem": "Casa construída com material missioneiro",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "A Casa construída com material missioneiro foi tombada por indicação de Lucio Costa, e demolida durante ou após o processo de tombamento."
+    },
+    {
+      "municipio": "Entre-Ijuís",
+      "bem": "Povo de São João: ruínas e remanescentes do Povoado",
+      "ano_de_tombamento": "1970",
+      "classificacao": "Ruína",
+      "livros_do_tombo": "Histórico",
+      "descricao": "A redução de São João Batista foi fundada em 1697 pelo padre tirolês Antônio Sepp, com famílias indígenas provenientes da redução de São Miguel Arcanjo. Hoje, no local, podem ser identificados os remanescentes da igreja, do cemitério e do colégio, além de estruturas complementares como olarias, barragem, estradas. É um dois quatro sítios que compõe o Parque Histórico Nacional das Missões."
+    },
+    {
+      "municipio": "General Câmara",
+      "bem": "Conjunto histórico da Vila de Santo Amaro, contendo quatorze edificações",
+      "ano_de_tombamento": "2006",
+      "classificacao": "Conjunto Arquitetônico",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Marcada pela arquitetura colonial portuguesa, a vila é um dos mais significativos conjuntos urbanos de origem portuguesa no Estado do Rio Grande do Sul. Em 1970, diversos locais da vila foram utilizados como cenários para o filme Um Certo Capitão Rodrigo, dirigido por Anselmo Duarte e baseado na trilogia O tempo e o vento, obra do escritor Érico Veríssimo, que reúne ficção e história, como a Revolução Farroupilha. Grande parte das edificações que compõem o conjunto tombado tiveram importantes funções no passado e serviram de moradia para personagens históricos. Uma delas é o casarão onde nasceu em 12 e abril de 1773 o herói farroupilha e primeiro presidente da República Rio-grandense, José Gomes de Vasconcelos Jardim. Perto do balneário do Coqueiro, está o sobrado que pertenceu ao chefe do Exército Imperial durante a Revolução Farroupilha, Chico Pedro, um dos mais temidos pelos farrapos."
+    },
+    {
+      "municipio": "Ivoti",
+      "bem": "Ponte do Imperador",
+      "ano_de_tombamento": "1988",
+      "classificacao": "Infraestrutura ou equipamento urbano",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Construída sobre o Rio Feitoria, em pedra de cantaria lavrada, com 88 metros de comprimento, 14 metros de altura e 14 metros de largura. Foi construída em 1855 e recebeu esse nome em homenagem a D. Pedro II."
+    },
+    {
+      "municipio": "Jaguarão",
+      "bem": "Conjunto Histórico e Paisagístico de Jaguarão",
+      "ano_de_tombamento": "2012",
+      "classificacao": "Conjunto Urbano",
+      "livros_do_tombo": "Arqueológico, etnográfico e paisagístico Histórico",
+      "descricao": "O conjunto histórico e paisagístico de Jaguarão, tombado pelo Iphan, em 2011, conserva um patrimônio sem similar em número e estado de conservação, no Rio Grande do Sul, com edificações coloniais, ecléticas, art déco e modernistas."
+    },
+    {
+      "municipio": "Jaguarão",
+      "bem": "Ponte Internacional Mauá",
+      "ano_de_tombamento": "2012",
+      "classificacao": "Infraestrutura ou equipamento urbano",
+      "livros_do_tombo": "Arqueológico, etnográfico e paisagístico Histórico Artes Aplicadas",
+      "descricao": "Foi construída entre 1927 e 1930, depois de um tratado firmado em 1918 entre os dois países para pagamento de dívida de guerra. É o primeiro bem binacional tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), reconhecido como primeiro patrimônio cultural do Mercosul."
+    },
+    {
+      "municipio": "Novo Hamburgo",
+      "bem": "Casa Presser",
+      "ano_de_tombamento": "1985 / 1986",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Belas Artes / Arqueológico, etnográfico e paisagístico Histórico",
+      "descricao": "A casa de Johann Peter Schmitt foi construída na primeira metade do século XIX, como residência e casa de comércio. Constitui-se num dos mais antigos exemplares, no Rio Grande do Sul, de arquitetura de enxaimel, característica das áreas de imigração germânica."
+    },
+    {
+      "municipio": "Pelotas",
+      "bem": "Caixa D'Água localizada na Praça Piratinino de Almeida, antigo Largo da Caridade",
+      "ano_de_tombamento": "1984",
+      "classificacao": "Infraestrutura ou equipamento urbano",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "Construída em 1875 com elementos pré-fabricados de ferro, tem forma cilíndrica, com diâmetro de 15 m."
+    },
+    {
+      "municipio": "Pelotas",
+      "bem": "Obelisco Republicano",
+      "ano_de_tombamento": "1955",
+      "classificacao": "Bem móvel ou integrado",
+      "livros_do_tombo": "Histórico",
+      "descricao": "O obelisco foi erguido, em 1885, pelos membros do Partido Republicano de Pelotas em homenagem ao político, Domingos José de Almeida, que lutou pela instauração da República Rio-Grandense."
+    },
+    {
+      "municipio": "Pelotas",
+      "bem": "Prédios números 2, 6 e 8, formando um conjunto arquitetônico, situados na Praça Coronel Pedro Osório",
+      "ano_de_tombamento": "1977",
+      "classificacao": "Conjunto Arquitetônico",
+      "livros_do_tombo": "Arqueológico, Etnográfico e Paisagístico",
+      "descricao": "O conjunto é formado por três casarões em estilo eclético, construídos por volta de 1880, por charqueadores e políticos de famílias tradicionais como Viana, Moreira, Albuquerque Barros e Antunes Maciel. Sua arquitetura utilizou projetos, materiais e elementos decorativos importados da Europa."
+    },
+    {
+      "municipio": "Pelotas",
+      "bem": "Teatro Sete de Abril, Praça Coronel Pedro Osório, nº 160",
+      "ano_de_tombamento": "1972",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Prédio simples coberto por telhado com beiral, projeto do engenheiro alemão Eduard van Kertchmar e execução de José Vieira Vianna, foi inaugurado no dia 2 de dezembro de 1834. Foi a primeira casa de espetáculos a abrir suas portas às artes cênicas na província de São Pedro do Rio Grande do Sul e a quarta no Brasil."
+    },
+    {
+      "municipio": "Piratini",
+      "bem": "Casa de Garibaldi",
+      "ano_de_tombamento": "1941",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Giuseppe Garibaldi morou nesta pequena casa térrea, quando a cidade foi Capital Farroupilha, em companhia de Luigi Rossetti, também italiano, partidário dos Carbonários e redator do jornal revolucionário “ O Povo ”, que era editado em sua residência."
+    },
+    {
+      "municipio": "Piratini",
+      "bem": "Palácio Farroupilha",
+      "ano_de_tombamento": "1941",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "O edifício foi a sede do Governo Farroupilha, entre 11 de setembro de 1836 e 15 de julho de 1842, enquanto a cidade foi capital da República Rio-Grandense ou República do Piratini. O imóvel foi transformado no Museu Barbosa Lessa, inaugurado em julho de 2006, após a reestruturação do Museu Histórico Farroupilha."
+    },
+    {
+      "municipio": "Piratini",
+      "bem": "Quartel General Farroupilha",
+      "ano_de_tombamento": "1952",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "O edifício atualmente abriga o Museu Histórico Farroupilha."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Antigo Prédio dos Correios e Telégrafos",
+      "ano_de_tombamento": "1981",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Belas Artes / Histórico",
+      "descricao": "Projetado por Rudolph Ahrons e Theodor Wiederspahn, teve sua construção iniciada em 1910 e concluída em 1913. Atualmente abriga o Memorial do Rio Grande do Sul."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Coleções arqueológicas, etnográficas, históricas e artísticas do Museu Júlio de Castilhos",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Coleção ou acervo",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "Coleção eclética, com mais de 10.000 itens, do mais antigo museu do Rio Grande do Sul."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Igreja Nossa Senhora das Dores",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Edificação e acervo",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "Mais antiga igreja remanescente de Porto Alegre, teve sua construção iniciada em 1833 e somente concluída quase um século depois, em 1904. O tombamento incide sobre todo o seu acervo, incluindo as pinturas de Germano Traub."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Pórtico central e armazéns do cais do porto",
+      "ano_de_tombamento": "1983",
+      "classificacao": "Conjunto arquitetônico",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "O pórtico, de origem francesa, foi construído entre 1911 e 1922."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Casa que pertenceu ao Visconde de Pelotas, na Rua Duque de Caxias, número novecentos e sessenta e oito (Solar dos Câmara)",
+      "ano_de_tombamento": "1963",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Erguido entre 1818 e 1824, em estilo colonial português, para servir de residência a José Feliciano Fernandes Pinheiro. Uma reforma em 1874 lhe conferiu o atual aspecto neoclássico. É considerado o imóvel residencial mais antigo de Porto Alegre."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Imóvel situado na Av. Independência, 867 conhecido como Palacete Argentina",
+      "ano_de_tombamento": "1990",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "Trata-se de um grande casarão aristocrático, em estilo eclético, erguido em 1901. Declarando-o de utilidade pública, o Governo do Estado desapropriou o imóvel em 1971, e a partir de 1984 foi restaurado pelo IPHAN, que nele instalou sua sede regional, tombando-o em 1990."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Faculdade de Direito da Universidade Federal do Rio Grande do Sul",
+      "ano_de_tombamento": "2000",
+      "classificacao": "Conjunto Arquitetônico",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Com projeto realizado no escritório de Rudolph Ahrons, sob o comando do arquiteto alemão Hermann Otto Menschen, é uma réplica em tamanho reduzido do Palais du Rhin, em Estrasburgo, França. Foi tombado pelo IPHAN no ano 2000 juntamente com o Observatório Astronômico da UFRGS."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Observatório Astronômico da UFRGS",
+      "ano_de_tombamento": "2000",
+      "classificacao": "Conjunto Arquitetônico",
+      "livros_do_tombo": "Histórico",
+      "descricao": "O Observatório Astronômico da UFRGS (OA) surge no contexto histórico da transferência da Escola de Engenharia de Porto Alegre, em 1899, para o local que atualmente abriga o Campus Central da UFRGS. Atualmente, desenvolve atividades voltadas à comunidade, tais como, visita guiada ao museu, observação do céu e oficinas, ofertadas para escolas e público geral."
+    },
+    {
+      "municipio": "Porto Alegre",
+      "bem": "Sítio Histórico das praças da Matriz e da Alfândega",
+      "ano_de_tombamento": "2003",
+      "classificacao": "Conjunto Urbano",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Situada no Centro Histórico da cidade, a praça da alfândega é cercada por importantes edificações, algumas delas igualmente históricas e antigas, tais como o Museu de Arte do Rio Grande do Sul (MARGS), o Memorial do Rio Grande do Sul, o Santander Cultural e o Clube do Comércio de Porto Alegre. A Praça Marechal Deodoro, mais conhecida como Praça da Matriz, é um espaço público e histórico da cidade de Porto Alegre, capital do estado brasileiro do Rio Grande do Sul. Está localizada no coração da cidade, no Centro Histórico, e existe desde os primórdios da capital."
+    },
+    {
+      "municipio": "Rio Grande",
+      "bem": "Canoa de Pranchão, de nome Tradição",
+      "ano_de_tombamento": "2012",
+      "classificacao": "Bem móvel ou integrado",
+      "livros_do_tombo": "Arqueológico, Etnográfico e Paisagístico / Belas Artes",
+      "descricao": "A canoa de pranchão \"Tradição\" foi construída em 1885 e possui 9,3 metros de comprimento. É um exemplar entre menos de uma dezena de remanescentes das mais de 500 embarcações que navegavam em meados do século XIX."
+    },
+    {
+      "municipio": "Rio Grande",
+      "bem": "Igreja Matriz de São Pedro e Capela da Ordem Terceira de São Francisco",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Edificação e acervo",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "\"Primeira igreja portuguesa no Rio Grande do Sul, a Matriz de São Pedro foi fundada em 25 de agosto de 1755. Mais tarde, construiu-se uma capela para a Ordem Terceira de São Francisco de Assis em sua parte posterior, com acesso pela rua de trás.\""
+    },
+    {
+      "municipio": "Rio Grande",
+      "bem": "Prédio da Alfândega",
+      "ano_de_tombamento": "1967",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "O edifício, em estilo neoclássico, foi construído sob ordens de Ministro da Fazenda Visconde de Rio Branco e do Imperador D. Pedro II, como consta na sua fachada ainda hoje."
+    },
+    {
+      "municipio": "Rio Pardo",
+      "bem": "Calçamento de Pedra, antigo, da rua da Ladeira, abrangendo o trecho situado entre a esquina da rua Andrade Neves e a praça da Matriz",
+      "ano_de_tombamento": "1955",
+      "classificacao": "Infraestrutura ou equipamento urbano",
+      "livros_do_tombo": "Histórico",
+      "descricao": "A Rua Júlio de Castilhos, também conhecida como Rua da Ladeira, é uma das primeiras vias pavimentadas no Rio Grande do Sul. A pavimentação foi executada por escravos, no ano de 1813, com pedras retiradas do rio Jacuí. A rua foi idealizada conforme a Via Appia Romana, com escoamento de águas fluviais pelo centro. Em suas esquinas, há frades de pedra, que eram utilizados para amarrar cavalos."
+    },
+    {
+      "municipio": "Santa Maria",
+      "bem": "Museu da União dos Caixeiros Viajantes: acervo",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Coleção ou acervo",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "Acervo formado de bens arqueológicos, paleontológicos, armarias, taxidermia e diferentes objetos e instrumentos antigos, industrializados ou artesanais. Os objetos foram recolhidos, no início do século XX por integrantes da Sociedade União dos Caixeiros Viajantes. Em 1981, o acervo foi doado à Universidade Federal de Santa Maria."
+    },
+    {
+      "municipio": "Santa Tereza",
+      "bem": "Núcleo urbano de Santa Tereza",
+      "ano_de_tombamento": "2012",
+      "classificacao": "Conjunto Urbano",
+      "livros_do_tombo": "Arqueológico, Etnográfico e Paisagístico",
+      "descricao": "É composto por 25 casas de madeira e de alvenaria construídas nos séculos XIX e XX, pelos imigrantes que vieram de diferentes regiões da Itália. O tombamento considerou o traçado urbano preservado, seu acervo arquitetônico, a paisagem rural do município e a riqueza de todo o patrimônio cultural."
+    },
+    {
+      "municipio": "Sant'Ana do Livramento",
+      "bem": "Casa à Rua Vinte e quatro de maio, 1094, Casa de Davi Canabarro",
+      "ano_de_tombamento": "1953",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "A residência que David Canabarro construiu na área urbana de Santana do Livramento foi edificada em meados do século XIX. Atualmente abriga o Centro Cultural Casa de Davi Canabarro."
+    },
+    {
+      "municipio": "São Gabriel",
+      "bem": "Sobrado na Praça Dr. Fernando Abott, que em 1845 hospedou D. Pedro II",
+      "ano_de_tombamento": "1974",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Sobrado situado na esquina das ruas Duque de Caxias e Dr. Francisco Leivas. Provavelmente construído em 1826, foi nele que Tomás Ferreira Vale hospedou o Imperador D. Pedro II quando este esteve em São Gabriel, no ano de 1846, para conhecer o povo gaúcho."
+    },
+    {
+      "municipio": "São Luiz Gonzaga",
+      "bem": "Conjunto de 13 (treze) imagens existentes na Igreja Matriz de São Luiz Gonzaga, provenientes da antiga Igreja do Povo Missioneiro",
+      "ano_de_tombamento": "1984",
+      "classificacao": "Bem móvel ou integrado",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Coleção formada por treze imagens, em madeira policromada. As imagens integram o inventário da imaginária missioneira no Brasil. Não se sabe se foram todas esculpidas em São Luiz Gonzaga, nem se são obra de um só escultor ou produto de trabalho conjunto. Encontram-se, hoje, na Igreja Matriz de São Luiz Gonzaga."
+    },
+    {
+      "municipio": "São Luiz Gonzaga",
+      "bem": "Povo de São Lourenço das Missões: ruínas e remanescentes do povoado",
+      "ano_de_tombamento": "1970",
+      "classificacao": "Ruína",
+      "livros_do_tombo": "Arqueológico, Etnográfico e Paisagístico",
+      "descricao": "Conjunto de ruínas remanescentes da redução jesuítica homônima, que fazia parte dos Sete Povos das Missões."
+    },
+    {
+      "municipio": "São Miguel das Missões",
+      "bem": "Povo de São Miguel: remanescentes e ruínas da Igreja de São Miguel",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Ruína",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "O sítio arqueológico de São Miguel das Missões – declarado Patrimônio Mundial, Cultural e Natural, pela Unesco, em 1983 – é um dos conjuntos históricos mais importantes situados em terras brasileiras. Em 1937, o arquiteto Lúcio Costa foi enviado ao Rio Grande do Sul para analisar os remanescentes dos Sete Povos das Missões e a visita resultou no tombamento, pelo Iphan, em 1938, dos remanescentes das Missões. As ruínas da igreja são os remanescentes do projeto atribuído ao arquiteto jesuíta italiano Gian Battista Primoli, inspirado na Igreja de Gesù, principal templo jesuítico romano."
+    },
+    {
+      "municipio": "São Nicolau",
+      "bem": "Povo de São Nicolau: ruínas e remanescentes",
+      "ano_de_tombamento": "1970",
+      "classificacao": "Ruína",
+      "livros_do_tombo": "Arqueológico, Etnográfico e Paisagístico",
+      "descricao": "Conjunto de ruínas remanescentes da redução jesuítica homônima, que fazia parte dos Sete Povos das Missões."
+    },
+    {
+      "municipio": "Tramandaí",
+      "bem": "Coleção de armas e apetrechos militares do Museu de Armas General Osório",
+      "ano_de_tombamento": "1942",
+      "classificacao": "Coleção ou acervo",
+      "livros_do_tombo": "Histórico",
+      "descricao": "Coleção de armas e apetrechos militares, pertencentes a Manuel Luís Osório, militar que participou da Revolução Farroupilha (1835-1845) e da Guerra do Paraguai (1865-1870)."
+    },
+    {
+      "municipio": "Triunfo",
+      "bem": "Casa natal de Bento Gonçalves",
+      "ano_de_tombamento": "1940",
+      "classificacao": "Edificação",
+      "livros_do_tombo": "Histórico",
+      "descricao": "A casa onde nasceu Bento Gonçalves foi construída por seu avô, depois de 1754. É uma pequena casa térrea, tipicamente luso brasileira, com porta e corredor central e duas janelas laterais. A cobertura, em duas águas, é feita com telhas cerâmicas, do tipo capa e canal, e a platibanda, com pinhas, provavelmente é de época posterior. Hoje, nela está instalado o Museu Municipal Bento Gonçalves."
+    },
+    {
+      "municipio": "Viamão",
+      "bem": "Igreja de Nossa Senhora da Conceição de Viamão",
+      "ano_de_tombamento": "1938",
+      "classificacao": "Edificação e Acervo",
+      "livros_do_tombo": "Belas Artes",
+      "descricao": "Igreja matriz, cuja construção foi iniciada em 1747, segundo projeto do Coronel José Custódio de Sá e Faria. Executada pelo mestre carpinteiro Francisco Costa Sena, a edificação possui um frontão escalonado, torres, nave, capela-mor, sacristias. Sua composição corresponde ao barroco seiscentista, singela e sem ornatos. As paredes são feitas de barro e alcançam 1,5 m de espessura."
+    }
+  ],
+  "meta": {
+    "title": "Bens tombados pelo IPHAN no Rio Grande do Sul - Free Download",
+    "description": "Lista do patrimônio histórico e artístico tombado pelo IPHAN no estado do Rio Grande do Sul, por município, com ano de tombamento, classificação, livros do tombo e descrição. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bens tombados pelo IPHAN no Rio Grande do Sul | ListBase",
+    "seo_description": "Download Bens tombados pelo IPHAN no Rio Grande do Sul — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_bens_tombados_pelo_IPHAN_no_Rio_Grande_do_Sul"
+    ]
+  }
+}

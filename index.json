@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-12T02:11:41.735Z",
-  "total_datasets": 556,
-  "total_records": 744971,
+  "generated": "2026-11-13T02:08:10.253Z",
+  "total_datasets": 557,
+  "total_records": 745014,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -19040,6 +19040,33 @@
         "xlsx": {
           "name": "pt-aldeias-historicas_PT.xlsx",
           "size": 7031
+        }
+      }
+    },
+    {
+      "id": "pt-br-bens-tombados-iphan-rio-grande-do-sul",
+      "name": "Bens tombados pelo IPHAN no Rio Grande do Sul",
+      "category": "tourism",
+      "record_count": 43,
+      "columns": [
+        "municipio",
+        "bem",
+        "ano_de_tombamento",
+        "classificacao",
+        "livros_do_tombo",
+        "descricao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_bens_tombados_pelo_IPHAN_no_Rio_Grande_do_Sul",
+      "updated": "2026-11",
+      "size": 25250,
+      "files": {
+        "csv": {
+          "name": "pt-br-bens-tombados-iphan-rio-grande-do-sul_PT.csv",
+          "size": 17072
+        },
+        "xlsx": {
+          "name": "pt-br-bens-tombados-iphan-rio-grande-do-sul_PT.xlsx",
+          "size": 14300
         }
       }
     },
