@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-13T02:08:32.565Z",
-  "total_datasets": 559,
-  "total_records": 745049,
+  "generated": "2026-11-13T02:08:43.550Z",
+  "total_datasets": 560,
+  "total_records": 745075,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -3953,6 +3953,32 @@
         "xlsx": {
           "name": "pt-reis-de-portugal_PT.xlsx",
           "size": 12138
+        }
+      }
+    },
+    {
+      "id": "pt-residencias-reais-de-portugal",
+      "name": "Residências reais de Portugal",
+      "category": "history",
+      "record_count": 26,
+      "columns": [
+        "residencia",
+        "localizacao",
+        "periodo",
+        "monarcas",
+        "dinastia_epoca"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_residências_reais_de_Portugal",
+      "updated": "2026-11",
+      "size": 8130,
+      "files": {
+        "csv": {
+          "name": "pt-residencias-reais-de-portugal_PT.csv",
+          "size": 3390
+        },
+        "xlsx": {
+          "name": "pt-residencias-reais-de-portugal_PT.xlsx",
+          "size": 8508
         }
       }
     },

@@ -1,0 +1,233 @@
+{
+  "id": "pt-residencias-reais-de-portugal",
+  "name": "Residências reais de Portugal",
+  "title": "Residências reais de Portugal",
+  "description": "Lista das residências oficiais dos monarcas portugueses ao longo da história, com localização, período de uso e monarcas que nelas residiram.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_residências_reais_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_residências_reais_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "residencia",
+      "label": "Residencia",
+      "type": "string"
+    },
+    {
+      "key": "localizacao",
+      "label": "Localizacao",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "monarcas",
+      "label": "Monarcas",
+      "type": "string"
+    },
+    {
+      "key": "dinastia_epoca",
+      "label": "Dinastia Epoca",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "residencia": "Castelo de Guimarães",
+      "localizacao": "Guimarães",
+      "periodo": "1095 - 1131",
+      "monarcas": "Henrique de Borgonha Afonso Henriques",
+      "dinastia_epoca": "Condado Portucalense"
+    },
+    {
+      "residencia": "Paço das Escolas",
+      "localizacao": "Universidade de Coimbra, Coimbra",
+      "periodo": "1131 - 1143",
+      "monarcas": "Afonso Henriques",
+      "dinastia_epoca": "Condado Portucalense"
+    },
+    {
+      "residencia": "Paço das Escolas",
+      "localizacao": "Universidade de Coimbra, Coimbra",
+      "periodo": "1143 - 1255",
+      "monarcas": "Afonso Henriques Sancho I Afonso II Sancho II Afonso III",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Paço da Alcáçova ou Castelo de São Jorge",
+      "localizacao": "Lisboa",
+      "periodo": "1255 - 1503",
+      "monarcas": "Afonso III Dinis I Afonso IV Pedro I Fernando I João I Duarte I Afonso V João II Manuel I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Nacional de Sintra",
+      "localizacao": "Sintra, Sintra",
+      "periodo": "1489 - 1910",
+      "monarcas": "Manuel I João III Sebastião I Henrique I João IV Afonso VI Pedro II João V José I Maria II",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Paço Real de São Francisco",
+      "localizacao": "Évora, Évora",
+      "periodo": "1470 - 1616",
+      "monarcas": "Afonso V João II Manuel I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Paço Real das Caldas",
+      "localizacao": "Caldas da Rainha, Caldas da Rainha",
+      "periodo": "fim século XV - 1525",
+      "monarcas": "João II e Leonor de Avis",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Paço da Ribeira",
+      "localizacao": "Madalena, Lisboa",
+      "periodo": "1503 - 1580; 1640 - 1755",
+      "monarcas": "Manuel I João III Sebastião I Henrique I João IV Afonso VI Pedro II João V José I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Paço Ducal de Vila Viçosa",
+      "localizacao": "Vila Viçosa",
+      "periodo": "1640 - 1910",
+      "monarcas": "João IV Afonso VI Pedro II João V José I Carlos I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Nacional de Belém",
+      "localizacao": "Belém, Lisboa",
+      "periodo": "1726 - 1910",
+      "monarcas": "João V José I João VI Maria II Luís I Carlos I Manuel II",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Nacional de Mafra",
+      "localizacao": "Mafra, Mafra",
+      "periodo": "1730 - 1910",
+      "monarcas": "João V José I João VI Carlos I Manuel II",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Real Barraca",
+      "localizacao": "Madalena, Lisboa",
+      "periodo": "1755 - 1794",
+      "monarcas": "José I Maria I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Nacional de Queluz",
+      "localizacao": "Queluz, Sintra",
+      "periodo": "1794 - 1807",
+      "monarcas": "Maria I e Pedro III Pedro IV",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio das Necessidades",
+      "localizacao": "Estrela (anteriormente Prazeres), Lisboa",
+      "periodo": "1821 - 1822; 1828 - 1861; 1889 - 1910",
+      "monarcas": "João VI Miguel I Maria II e Fernando II Pedro V e Estefânia de Hohenzollern-Sigmaringen Carlos I e Amélia de Orleães Manuel II",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio da Bemposta",
+      "localizacao": "Atual Academia Militar, Lisboa",
+      "periodo": "1822 - 1826",
+      "monarcas": "João VI",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Paço Real do Ramalhão",
+      "localizacao": "Atual Colégio de São José das Irmãs Dominicanas Portuguesas, Sintra",
+      "periodo": "1821 - 1830",
+      "monarcas": "Carlota Joaquina de Bourbon",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Nacional da Ajuda",
+      "localizacao": "Ajuda, Lisboa",
+      "periodo": "1828; 1862 - 1889",
+      "monarcas": "Miguel I Luís I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Nacional da Pena",
+      "localizacao": "Sintra",
+      "periodo": "1834 - 1910",
+      "monarcas": "Maria II Fernando II Luís I Carlos I Manuel II",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Real da Torre da Marca",
+      "localizacao": "Porto",
+      "periodo": "1861 - 1910",
+      "monarcas": "Pedro V Luís I Carlos I Manuel II",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Quinta Real de Caxias",
+      "localizacao": "Caxias, Oeiras",
+      "periodo": "1861 - 1862",
+      "monarcas": "Luís I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio da Cidadela de Cascais ou Paço da Cidadela",
+      "localizacao": "Cascais",
+      "periodo": "1870 - 1910",
+      "monarcas": "Luís I Carlos I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Real do Alfeite",
+      "localizacao": "Alfeite",
+      "periodo": "1758 -1849 -1910",
+      "monarcas": "Pedro V Carlos I",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Palácio Real do Buçaco",
+      "localizacao": "Luso, Mealhada",
+      "periodo": "1888 - 1907",
+      "monarcas": "Carlos I Manuel II",
+      "dinastia_epoca": "Reino"
+    },
+    {
+      "residencia": "Real Alcázar de Madrid",
+      "localizacao": "Madrid, Espanha",
+      "periodo": "1580 - 1640",
+      "monarcas": "Filipe I Filipe II Filipe III",
+      "dinastia_epoca": "Residências de reis de Portugal situadas fora de Portugal (à época no Brasil colónia)"
+    },
+    {
+      "residencia": "Paço Imperial",
+      "localizacao": "Rio de Janeiro, Brasil",
+      "periodo": "1808 - 1821; 1826",
+      "monarcas": "Maria I João VI Pedro IV",
+      "dinastia_epoca": "Residências de reis de Portugal situadas fora de Portugal (à época no Brasil colónia)"
+    },
+    {
+      "residencia": "Paço de São Cristóvão",
+      "localizacao": "Rio de Janeiro, Brasil",
+      "periodo": "1808 - 1821; 1826",
+      "monarcas": "Maria I João VI Pedro IV",
+      "dinastia_epoca": "Residências de reis de Portugal situadas fora de Portugal (à época no Brasil colónia)"
+    }
+  ],
+  "meta": {
+    "title": "Residências reais de Portugal - Free Download",
+    "description": "Lista das residências oficiais dos monarcas portugueses ao longo da história, com localização, período de uso e monarcas que nelas residiram. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Residências reais de Portugal | ListBase",
+    "seo_description": "Download Residências reais de Portugal — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_residências_reais_de_Portugal"
+    ]
+  }
+}
