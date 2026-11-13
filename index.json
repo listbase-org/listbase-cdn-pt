@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-13T02:08:10.253Z",
-  "total_datasets": 557,
-  "total_records": 745014,
+  "generated": "2026-11-13T02:08:21.667Z",
+  "total_datasets": 558,
+  "total_records": 745038,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -19067,6 +19067,43 @@
         "xlsx": {
           "name": "pt-br-bens-tombados-iphan-rio-grande-do-sul_PT.xlsx",
           "size": 14300
+        }
+      }
+    },
+    {
+      "id": "pt-br-chegadas-turistas-estrangeiros-por-pais",
+      "name": "Chegadas de turistas estrangeiros ao Brasil por país de origem (2011–2025)",
+      "category": "tourism",
+      "record_count": 24,
+      "columns": [
+        "pais",
+        "chegadas_2025",
+        "chegadas_2024",
+        "chegadas_2023",
+        "chegadas_2022",
+        "chegadas_2021",
+        "chegadas_2020",
+        "chegadas_2019",
+        "chegadas_2018",
+        "chegadas_2017",
+        "chegadas_2016",
+        "chegadas_2015",
+        "chegadas_2014",
+        "chegadas_2013",
+        "chegadas_2012",
+        "chegadas_2011"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Turismo_no_Brasil",
+      "updated": "2026-11",
+      "size": 15001,
+      "files": {
+        "csv": {
+          "name": "pt-br-chegadas-turistas-estrangeiros-por-pais_PT.csv",
+          "size": 3584
+        },
+        "xlsx": {
+          "name": "pt-br-chegadas-turistas-estrangeiros-por-pais_PT.xlsx",
+          "size": 9545
         }
       }
     },
