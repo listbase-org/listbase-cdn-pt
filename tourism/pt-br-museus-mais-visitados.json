@@ -1,0 +1,128 @@
+{
+  "id": "pt-br-museus-mais-visitados",
+  "name": "Museus mais visitados do Brasil",
+  "title": "Museus mais visitados do Brasil",
+  "description": "Ranking dos museus brasileiros com maior número de visitantes por ano, com cidade, estado e número de visitas.",
+  "category": "tourism",
+  "source": "https://pt.wikipedia.org/wiki/Lista_dos_museus_mais_visitados_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_dos_museus_mais_visitados_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "posicao",
+      "label": "Posicao",
+      "type": "number"
+    },
+    {
+      "key": "museu",
+      "label": "Museu",
+      "type": "string"
+    },
+    {
+      "key": "cidade",
+      "label": "Cidade",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "visitas",
+      "label": "Visitas",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicao": 1,
+      "museu": "Museu do Amanhã",
+      "cidade": "Rio de Janeiro",
+      "estado": "Rio de Janeiro",
+      "visitas": 835950
+    },
+    {
+      "posicao": 2,
+      "museu": "Museu de Arte de São Paulo",
+      "cidade": "São Paulo",
+      "estado": "São Paulo",
+      "visitas": 729325
+    },
+    {
+      "posicao": 3,
+      "museu": "Museu Catavento",
+      "cidade": "São Paulo",
+      "estado": "São Paulo",
+      "visitas": 665452
+    },
+    {
+      "posicao": 4,
+      "museu": "Museu Nacional da República",
+      "cidade": "Brasília",
+      "estado": "Distrito Federal",
+      "visitas": 573000
+    },
+    {
+      "posicao": 5,
+      "museu": "Pinacoteca do Estado de São Paulo",
+      "cidade": "São Paulo",
+      "estado": "São Paulo",
+      "visitas": 491000
+    },
+    {
+      "posicao": 6,
+      "museu": "Casa das Rosas",
+      "cidade": "São Paulo",
+      "estado": "São Paulo",
+      "visitas": 485187
+    },
+    {
+      "posicao": 7,
+      "museu": "Museu Imperial",
+      "cidade": "Petrópolis",
+      "estado": "Rio de Janeiro",
+      "visitas": 446932
+    },
+    {
+      "posicao": 8,
+      "museu": "Museu Oscar Niemeyer",
+      "cidade": "Curitiba",
+      "estado": "Paraná",
+      "visitas": 380000
+    },
+    {
+      "posicao": 9,
+      "museu": "Museu do Futebol",
+      "cidade": "São Paulo",
+      "estado": "São Paulo",
+      "visitas": 281394
+    },
+    {
+      "posicao": 10,
+      "museu": "Instituto Inhotim",
+      "cidade": "Brumadinho",
+      "estado": "Minas Gerais",
+      "visitas": 267932
+    },
+    {
+      "posicao": 11,
+      "museu": "Museu Nacional da Cultura Afro- Brasileira",
+      "cidade": "Salvador",
+      "estado": "Bahia",
+      "visitas": 150000
+    }
+  ],
+  "meta": {
+    "title": "Museus mais visitados do Brasil - Free Download",
+    "description": "Ranking dos museus brasileiros com maior número de visitantes por ano, com cidade, estado e número de visitas. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Museus mais visitados do Brasil | ListBase",
+    "seo_description": "Download Museus mais visitados do Brasil — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_dos_museus_mais_visitados_do_Brasil"
+    ]
+  }
+}

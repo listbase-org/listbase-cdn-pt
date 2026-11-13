@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-13T02:08:21.667Z",
-  "total_datasets": 558,
-  "total_records": 745038,
+  "generated": "2026-11-13T02:08:32.565Z",
+  "total_datasets": 559,
+  "total_records": 745049,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -19104,6 +19104,32 @@
         "xlsx": {
           "name": "pt-br-chegadas-turistas-estrangeiros-por-pais_PT.xlsx",
           "size": 9545
+        }
+      }
+    },
+    {
+      "id": "pt-br-museus-mais-visitados",
+      "name": "Museus mais visitados do Brasil",
+      "category": "tourism",
+      "record_count": 11,
+      "columns": [
+        "posicao",
+        "museu",
+        "cidade",
+        "estado",
+        "visitas"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_dos_museus_mais_visitados_do_Brasil",
+      "updated": "2026-11",
+      "size": 3414,
+      "files": {
+        "csv": {
+          "name": "pt-br-museus-mais-visitados_PT.csv",
+          "size": 763
+        },
+        "xlsx": {
+          "name": "pt-br-museus-mais-visitados_PT.xlsx",
+          "size": 7246
         }
       }
     },
