@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-13T02:08:43.550Z",
-  "total_datasets": 560,
-  "total_records": 745075,
+  "generated": "2026-11-13T02:08:54.457Z",
+  "total_datasets": 561,
+  "total_records": 745086,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -19259,6 +19259,29 @@
         "xlsx": {
           "name": "pt-sete-maravilhas_PT.xlsx",
           "size": 7380
+        }
+      }
+    },
+    {
+      "id": "pt-turistas-estrangeiros-em-portugal-por-pais-2019",
+      "name": "Turistas estrangeiros em Portugal por país de origem (2019)",
+      "category": "tourism",
+      "record_count": 11,
+      "columns": [
+        "pais_de_origem",
+        "turistas_2019"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Turismo_em_Portugal",
+      "updated": "2026-11",
+      "size": 2394,
+      "files": {
+        "csv": {
+          "name": "pt-turistas-estrangeiros-em-portugal-por-pais-2019_PT.csv",
+          "size": 261
+        },
+        "xlsx": {
+          "name": "pt-turistas-estrangeiros-em-portugal-por-pais-2019_PT.xlsx",
+          "size": 6941
         }
       }
     },

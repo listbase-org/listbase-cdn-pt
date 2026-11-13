@@ -1,0 +1,80 @@
+{
+  "id": "pt-turistas-estrangeiros-em-portugal-por-pais-2019",
+  "name": "Turistas estrangeiros em Portugal por país de origem (2019)",
+  "title": "Turistas estrangeiros em Portugal por país de origem (2019)",
+  "description": "Número de turistas estrangeiros que visitaram Portugal em 2019, pelos principais países de origem.",
+  "category": "tourism",
+  "source": "https://pt.wikipedia.org/wiki/Turismo_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Turismo_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "pais_de_origem",
+      "label": "Pais De Origem",
+      "type": "string"
+    },
+    {
+      "key": "turistas_2019",
+      "label": "Turistas 2019",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pais_de_origem": "Reino Unido",
+      "turistas_2019": 2149100
+    },
+    {
+      "pais_de_origem": "Espanha",
+      "turistas_2019": 2278000
+    },
+    {
+      "pais_de_origem": "França",
+      "turistas_2019": 1611900
+    },
+    {
+      "pais_de_origem": "Alemanha",
+      "turistas_2019": 1522000
+    },
+    {
+      "pais_de_origem": "Brasil",
+      "turistas_2019": 1271000
+    },
+    {
+      "pais_de_origem": "E.U.A.",
+      "turistas_2019": 1191300
+    },
+    {
+      "pais_de_origem": "Itália",
+      "turistas_2019": 713700
+    },
+    {
+      "pais_de_origem": "Países Baixos",
+      "turistas_2019": 595200
+    },
+    {
+      "pais_de_origem": "Irlanda",
+      "turistas_2019": 413700
+    },
+    {
+      "pais_de_origem": "Bélgica",
+      "turistas_2019": 324000
+    },
+    {
+      "pais_de_origem": "Outros",
+      "turistas_2019": 4245800
+    }
+  ],
+  "meta": {
+    "title": "Turistas estrangeiros em Portugal por país de origem (2019) - Free Download",
+    "description": "Número de turistas estrangeiros que visitaram Portugal em 2019, pelos principais países de origem. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turistas estrangeiros em Portugal por país de origem (2019) | ListBase",
+    "seo_description": "Download Turistas estrangeiros em Portugal por país de origem (2019) — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Turismo_em_Portugal"
+    ]
+  }
+}
