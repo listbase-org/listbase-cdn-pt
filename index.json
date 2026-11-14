@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-14T02:16:09.750Z",
-  "total_datasets": 563,
-  "total_records": 745160,
+  "generated": "2026-11-14T02:16:46.406Z",
+  "total_datasets": 564,
+  "total_records": 745173,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -419,6 +419,31 @@
         "xlsx": {
           "name": "pt-premio-camoes_PT.xlsx",
           "size": 8810
+        }
+      }
+    },
+    {
+      "id": "pt-premio-literario-jose-saramago",
+      "name": "Prémio Literário José Saramago — vencedores",
+      "category": "culture",
+      "record_count": 13,
+      "columns": [
+        "ano",
+        "obra",
+        "autor",
+        "nacionalidade"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Prémio_Literário_José_Saramago",
+      "updated": "2026-11",
+      "size": 3538,
+      "files": {
+        "csv": {
+          "name": "pt-premio-literario-jose-saramago_PT.csv",
+          "size": 760
+        },
+        "xlsx": {
+          "name": "pt-premio-literario-jose-saramago_PT.xlsx",
+          "size": 7346
         }
       }
     },

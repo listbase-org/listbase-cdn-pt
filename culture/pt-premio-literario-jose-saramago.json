@@ -1,0 +1,124 @@
+{
+  "id": "pt-premio-literario-jose-saramago",
+  "name": "Prémio Literário José Saramago — vencedores",
+  "title": "Prémio Literário José Saramago — vencedores",
+  "description": "Vencedores do Prémio Literário José Saramago, atribuído pela Fundação Círculo de Leitores a obras de jovens autores de língua portuguesa, com ano, obra, autor e nacionalidade.",
+  "category": "culture",
+  "source": "https://pt.wikipedia.org/wiki/Prémio_Literário_José_Saramago",
+  "source_url": "https://pt.wikipedia.org/wiki/Prémio_Literário_José_Saramago",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "obra",
+      "label": "Obra",
+      "type": "string"
+    },
+    {
+      "key": "autor",
+      "label": "Autor",
+      "type": "string"
+    },
+    {
+      "key": "nacionalidade",
+      "label": "Nacionalidade",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": 1999,
+      "obra": "Natureza Morta",
+      "autor": "Paulo José Miranda",
+      "nacionalidade": "Portugal"
+    },
+    {
+      "ano": 2001,
+      "obra": "Nenhum Olhar",
+      "autor": "José Luís Peixoto",
+      "nacionalidade": "Portugal"
+    },
+    {
+      "ano": 2003,
+      "obra": "Sinfonia em Branco",
+      "autor": "Adriana Lisboa",
+      "nacionalidade": "Brasil"
+    },
+    {
+      "ano": 2005,
+      "obra": "Jerusalém",
+      "autor": "Gonçalo M. Tavares",
+      "nacionalidade": "Portugal"
+    },
+    {
+      "ano": 2007,
+      "obra": "O Remorso de Baltazar Serapião",
+      "autor": "Valter Hugo Mãe",
+      "nacionalidade": "Portugal"
+    },
+    {
+      "ano": 2009,
+      "obra": "As Três Vidas",
+      "autor": "João Tordo",
+      "nacionalidade": "Portugal"
+    },
+    {
+      "ano": 2011,
+      "obra": "Os Malaquias",
+      "autor": "Andréa del Fuego",
+      "nacionalidade": "Brasil"
+    },
+    {
+      "ano": 2013,
+      "obra": "Os Transparentes",
+      "autor": "Ondjaki",
+      "nacionalidade": "Angola"
+    },
+    {
+      "ano": 2015,
+      "obra": "As Primeiras Coisas",
+      "autor": "Bruno Vieira Amaral",
+      "nacionalidade": "Portugal"
+    },
+    {
+      "ano": 2017,
+      "obra": "A Resistência",
+      "autor": "Julián Fuks",
+      "nacionalidade": "Brasil"
+    },
+    {
+      "ano": 2019,
+      "obra": "Pão de Açúcar",
+      "autor": "Afonso Reis Cabral",
+      "nacionalidade": "Portugal"
+    },
+    {
+      "ano": 2022,
+      "obra": "Dor Fantasma",
+      "autor": "Rafael Gallo",
+      "nacionalidade": "Brasil"
+    },
+    {
+      "ano": 2024,
+      "obra": "Morramos ao menos no porto",
+      "autor": "Francisco Mota Saraiva",
+      "nacionalidade": "Portugal"
+    }
+  ],
+  "meta": {
+    "title": "Prémio Literário José Saramago — vencedores - Free Download",
+    "description": "Vencedores do Prémio Literário José Saramago, atribuído pela Fundação Círculo de Leitores a obras de jovens autores de língua portuguesa, com ano, obra, autor e nacionalidade. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prémio Literário José Saramago — vencedores | ListBase",
+    "seo_description": "Download Prémio Literário José Saramago — vencedores — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Prémio_Literário_José_Saramago"
+    ]
+  }
+}
