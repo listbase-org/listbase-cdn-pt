@@ -1,0 +1,219 @@
+{
+  "id": "pt-br-copa-do-brasil-titulos-por-clube",
+  "name": "Copa do Brasil – títulos e vice-campeonatos por clube",
+  "title": "Copa do Brasil – títulos e vice-campeonatos por clube",
+  "description": "Clubes campeões e vice-campeões da Copa do Brasil de Futebol, com número de títulos, vice-colocações e respectivos anos.",
+  "category": "sports",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_campeões_da_Copa_do_Brasil_de_Futebol",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_campeões_da_Copa_do_Brasil_de_Futebol",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "clube",
+      "label": "Clube",
+      "type": "string"
+    },
+    {
+      "key": "titulos",
+      "label": "Titulos",
+      "type": "number"
+    },
+    {
+      "key": "vices",
+      "label": "Vices",
+      "type": "number"
+    },
+    {
+      "key": "anos_campeao",
+      "label": "Anos Campeao",
+      "type": "string"
+    },
+    {
+      "key": "anos_vice",
+      "label": "Anos Vice",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "clube": "Cruzeiro",
+      "titulos": 6,
+      "vices": 2,
+      "anos_campeao": "1993, 1996, 2000, 2003, 2017, 2018",
+      "anos_vice": "1998, 2014"
+    },
+    {
+      "clube": "Flamengo",
+      "titulos": 5,
+      "vices": 5,
+      "anos_campeao": "1990, 2006, 2013, 2022, 2024",
+      "anos_vice": "1997, 2003, 2004, 2017, 2023"
+    },
+    {
+      "clube": "Grêmio",
+      "titulos": 5,
+      "vices": 4,
+      "anos_campeao": "1989, 1994, 1997, 2001, 2016",
+      "anos_vice": "1991, 1993, 1995, 2020"
+    },
+    {
+      "clube": "Corinthians",
+      "titulos": 4,
+      "vices": 4,
+      "anos_campeao": "1995, 2002, 2009, 2025",
+      "anos_vice": "2001, 2008, 2018, 2022"
+    },
+    {
+      "clube": "Palmeiras",
+      "titulos": 4,
+      "vices": 1,
+      "anos_campeao": "1998, 2012, 2015, 2020",
+      "anos_vice": "1996"
+    },
+    {
+      "clube": "Atlético Mineiro",
+      "titulos": 2,
+      "vices": 2,
+      "anos_campeao": "2014, 2021",
+      "anos_vice": "2016, 2024"
+    },
+    {
+      "clube": "Internacional",
+      "titulos": 1,
+      "vices": 2,
+      "anos_campeao": "1992",
+      "anos_vice": "2009, 2019"
+    },
+    {
+      "clube": "Fluminense",
+      "titulos": 1,
+      "vices": 2,
+      "anos_campeao": "2007",
+      "anos_vice": "1992, 2005"
+    },
+    {
+      "clube": "Athletico Paranaense",
+      "titulos": 1,
+      "vices": 2,
+      "anos_campeao": "2019",
+      "anos_vice": "2013, 2021"
+    },
+    {
+      "clube": "Vasco",
+      "titulos": 1,
+      "vices": 2,
+      "anos_campeao": "2011",
+      "anos_vice": "2006, 2025"
+    },
+    {
+      "clube": "Sport",
+      "titulos": 1,
+      "vices": 1,
+      "anos_campeao": "2008",
+      "anos_vice": "1989"
+    },
+    {
+      "clube": "Santos",
+      "titulos": 1,
+      "vices": 1,
+      "anos_campeao": "2010",
+      "anos_vice": "2015"
+    },
+    {
+      "clube": "São Paulo",
+      "titulos": 1,
+      "vices": 1,
+      "anos_campeao": "2023",
+      "anos_vice": "2000"
+    },
+    {
+      "clube": "Criciúma",
+      "titulos": 1,
+      "vices": 0,
+      "anos_campeao": "1991",
+      "anos_vice": "–"
+    },
+    {
+      "clube": "Juventude",
+      "titulos": 1,
+      "vices": 0,
+      "anos_campeao": "1999",
+      "anos_vice": "–"
+    },
+    {
+      "clube": "Santo André",
+      "titulos": 1,
+      "vices": 0,
+      "anos_campeao": "2004",
+      "anos_vice": "–"
+    },
+    {
+      "clube": "Paulista",
+      "titulos": 1,
+      "vices": 0,
+      "anos_campeao": "2005",
+      "anos_vice": "–"
+    },
+    {
+      "clube": "Coritiba",
+      "titulos": 0,
+      "vices": 2,
+      "anos_campeao": "–",
+      "anos_vice": "2011, 2012"
+    },
+    {
+      "clube": "Goiás",
+      "titulos": 0,
+      "vices": 1,
+      "anos_campeao": "–",
+      "anos_vice": "1990"
+    },
+    {
+      "clube": "Ceará",
+      "titulos": 0,
+      "vices": 1,
+      "anos_campeao": "–",
+      "anos_vice": "1994"
+    },
+    {
+      "clube": "Botafogo",
+      "titulos": 0,
+      "vices": 1,
+      "anos_campeao": "–",
+      "anos_vice": "1999"
+    },
+    {
+      "clube": "Brasiliense",
+      "titulos": 0,
+      "vices": 1,
+      "anos_campeao": "–",
+      "anos_vice": "2002"
+    },
+    {
+      "clube": "Figueirense",
+      "titulos": 0,
+      "vices": 1,
+      "anos_campeao": "–",
+      "anos_vice": "2007"
+    },
+    {
+      "clube": "Vitória",
+      "titulos": 0,
+      "vices": 1,
+      "anos_campeao": "–",
+      "anos_vice": "2010"
+    }
+  ],
+  "meta": {
+    "title": "Copa do Brasil – títulos e vice-campeonatos por clube - Free Download",
+    "description": "Clubes campeões e vice-campeões da Copa do Brasil de Futebol, com número de títulos, vice-colocações e respectivos anos. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Copa do Brasil – títulos e vice-campeonatos por clube | ListBase",
+    "seo_description": "Download Copa do Brasil – títulos e vice-campeonatos por clube — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_campeões_da_Copa_do_Brasil_de_Futebol"
+    ]
+  }
+}
