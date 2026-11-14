@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-14T02:16:00.342Z",
-  "total_datasets": 562,
-  "total_records": 745110,
+  "generated": "2026-11-14T02:16:09.750Z",
+  "total_datasets": 563,
+  "total_records": 745160,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -4291,6 +4291,34 @@
         "xlsx": {
           "name": "pt-ministros-justica-portugal_PT.xlsx",
           "size": 20116
+        }
+      }
+    },
+    {
+      "id": "pt-presidentes-supremo-tribunal-justica",
+      "name": "Presidentes do Supremo Tribunal de Justiça (Portugal)",
+      "category": "law",
+      "record_count": 50,
+      "columns": [
+        "numero",
+        "presidente",
+        "nascimento",
+        "morte",
+        "inicio_mandato",
+        "fim_mandato",
+        "periodo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Supremo_Tribunal_de_Justiça_(Portugal)",
+      "updated": "2026-11",
+      "size": 15216,
+      "files": {
+        "csv": {
+          "name": "pt-presidentes-supremo-tribunal-justica_PT.csv",
+          "size": 5778
+        },
+        "xlsx": {
+          "name": "pt-presidentes-supremo-tribunal-justica_PT.xlsx",
+          "size": 9618
         }
       }
     },

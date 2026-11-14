@@ -1,0 +1,511 @@
+{
+  "id": "pt-presidentes-supremo-tribunal-justica",
+  "name": "Presidentes do Supremo Tribunal de Justiça (Portugal)",
+  "title": "Presidentes do Supremo Tribunal de Justiça (Portugal)",
+  "description": "Lista dos presidentes do Supremo Tribunal de Justiça de Portugal desde 1833, com anos de nascimento e morte, início e fim do mandato e período político.",
+  "category": "law",
+  "source": "https://pt.wikipedia.org/wiki/Supremo_Tribunal_de_Justiça_(Portugal)",
+  "source_url": "https://pt.wikipedia.org/wiki/Supremo_Tribunal_de_Justiça_(Portugal)",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "nascimento",
+      "label": "Nascimento",
+      "type": "number"
+    },
+    {
+      "key": "morte",
+      "label": "Morte",
+      "type": "number"
+    },
+    {
+      "key": "inicio_mandato",
+      "label": "Inicio Mandato",
+      "type": "number"
+    },
+    {
+      "key": "fim_mandato",
+      "label": "Fim Mandato",
+      "type": "number"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1",
+      "presidente": "José da Silva Carvalho",
+      "nascimento": 1782,
+      "morte": 1856,
+      "inicio_mandato": "1833",
+      "fim_mandato": "1836",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "2",
+      "presidente": "Manuel Duarte Leitão",
+      "nascimento": 1784,
+      "morte": 1856,
+      "inicio_mandato": "1836",
+      "fim_mandato": "1840",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "3",
+      "presidente": "José da Silva Carvalho (2.ª vez)",
+      "nascimento": 1782,
+      "morte": 1856,
+      "inicio_mandato": "1840",
+      "fim_mandato": "1844",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "4",
+      "presidente": "José Joaquim Gerardo de Sampaio Visconde de Laborim",
+      "nascimento": 1781,
+      "morte": 1864,
+      "inicio_mandato": "1844",
+      "fim_mandato": "1847",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "5",
+      "presidente": "José da Silva Carvalho (3.ª vez)",
+      "nascimento": 1782,
+      "morte": 1856,
+      "inicio_mandato": "1847",
+      "fim_mandato": "1856",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "6",
+      "presidente": "José Joaquim Gerardo de Sampaio, Conde de Laborim (2.ª vez)",
+      "nascimento": 1781,
+      "morte": 1864,
+      "inicio_mandato": "1856",
+      "fim_mandato": "1864",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "7",
+      "presidente": "Manuel António Velez Caldeira de Pina Castelo Branco",
+      "nascimento": 1791,
+      "morte": 1868,
+      "inicio_mandato": "1864",
+      "fim_mandato": "1868",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "8",
+      "presidente": "Basílio Cabral Teixeira de Queirós",
+      "nascimento": 1794,
+      "morte": 1878,
+      "inicio_mandato": "1868",
+      "fim_mandato": "1878",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "9",
+      "presidente": "João Maria Alves de Sá, Visconde de Alves de Sá",
+      "nascimento": 1803,
+      "morte": 1890,
+      "inicio_mandato": "1878",
+      "fim_mandato": "1890",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "10",
+      "presidente": "António Emílio Correia de Sá Brandão",
+      "nascimento": 1821,
+      "morte": 1909,
+      "inicio_mandato": "1890",
+      "fim_mandato": "1909",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "11",
+      "presidente": "José Pereira",
+      "nascimento": 1825,
+      "morte": 1910,
+      "inicio_mandato": "1909",
+      "fim_mandato": "1909",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "12",
+      "presidente": "Tomás Nunes de Serra e Moura",
+      "nascimento": 1824,
+      "morte": 1917,
+      "inicio_mandato": "1909",
+      "fim_mandato": "1910",
+      "periodo": "Segundo Liberalismo: Monarquia constitucional (1834–1910)"
+    },
+    {
+      "numero": "13",
+      "presidente": "Augusto Carlos Cardoso Pinto Osório",
+      "nascimento": 1842,
+      "morte": 1920,
+      "inicio_mandato": "1910",
+      "fim_mandato": "1912",
+      "periodo": "Primeira República (1910–1926)"
+    },
+    {
+      "numero": "14",
+      "presidente": "Francisco José de Medeiros",
+      "nascimento": 1845,
+      "morte": 1912,
+      "inicio_mandato": "1912",
+      "fim_mandato": "1912",
+      "periodo": "Primeira República (1910–1926)"
+    },
+    {
+      "numero": "15",
+      "presidente": "Luís Fisher Berquó Poças Falcão",
+      "nascimento": 1852,
+      "morte": 1913,
+      "inicio_mandato": "1912",
+      "fim_mandato": "1913",
+      "periodo": "Primeira República (1910–1926)"
+    },
+    {
+      "numero": "16",
+      "presidente": "Abel Augusto Correia de Pinho",
+      "nascimento": 1856,
+      "morte": 1924,
+      "inicio_mandato": "1913",
+      "fim_mandato": "1921",
+      "periodo": "Primeira República (1910–1926)"
+    },
+    {
+      "numero": "17",
+      "presidente": "António Maria Vieira Lisboa",
+      "nascimento": 1857,
+      "morte": 1924,
+      "inicio_mandato": "1921",
+      "fim_mandato": "1924",
+      "periodo": "Primeira República (1910–1926)"
+    },
+    {
+      "numero": "18",
+      "presidente": "José Maria de Sousa Andrade",
+      "nascimento": 1858,
+      "morte": 1940,
+      "inicio_mandato": "1924",
+      "fim_mandato": "1929",
+      "periodo": "Primeira República (1910–1926)"
+    },
+    {
+      "numero": "18",
+      "presidente": "José Maria de Sousa Andrade",
+      "nascimento": 1858,
+      "morte": 1940,
+      "inicio_mandato": "1924",
+      "fim_mandato": "1929",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "19",
+      "presidente": "Eduardo Augusto de Sousa Monteiro",
+      "nascimento": 1858,
+      "morte": 1965,
+      "inicio_mandato": "1929",
+      "fim_mandato": "1934",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "20",
+      "presidente": "Américo Guilherme Botelho de Sousa (1877–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1934",
+      "fim_mandato": "1947",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "21",
+      "presidente": "Afonso de Melo Pinto Veloso",
+      "nascimento": 1878,
+      "morte": 1968,
+      "inicio_mandato": "1947",
+      "fim_mandato": "1948",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "22",
+      "presidente": "José Joaquim Coimbra",
+      "nascimento": 1882,
+      "morte": 1950,
+      "inicio_mandato": "1948",
+      "fim_mandato": "1950",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "23",
+      "presidente": "Miguel Homem de Azevedo Queirós Sampaio e Melo",
+      "nascimento": 1884,
+      "morte": 1968,
+      "inicio_mandato": "1951",
+      "fim_mandato": "1954",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "24",
+      "presidente": "António Cândido da Cruz Alvura",
+      "nascimento": 1893,
+      "morte": 1971,
+      "inicio_mandato": "1954",
+      "fim_mandato": "1963",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "25",
+      "presidente": "António Lopes Vaz Pereira (?–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1963",
+      "fim_mandato": "1966",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "26",
+      "presidente": "José Osório de Gama e Castro Saraiva de Albuquerque (?–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1966",
+      "fim_mandato": "1974",
+      "periodo": "Ditadura militar e Estado Novo (1926–1974)"
+    },
+    {
+      "numero": "26",
+      "presidente": "José Osório de Gama e Castro Saraiva de Albuquerque (?–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1974",
+      "fim_mandato": "1975",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "27",
+      "presidente": "José Joaquim de Almeida Borges",
+      "nascimento": 1910,
+      "morte": 2006,
+      "inicio_mandato": "1975",
+      "fim_mandato": "1978",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "27",
+      "presidente": "José Joaquim de Almeida Borges",
+      "nascimento": 1910,
+      "morte": 2006,
+      "inicio_mandato": "1978",
+      "fim_mandato": "1980",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "28",
+      "presidente": "António Acácio de Oliveira Carvalho (?–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1980",
+      "fim_mandato": "1983",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "29",
+      "presidente": "Jacinto Fernandes Rodrigues Bastos (?–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1983",
+      "fim_mandato": "1994",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "30",
+      "presidente": "Jacinto Fernandes Rodrigues Bastos (?–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1983",
+      "fim_mandato": "1984",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "31",
+      "presidente": "Octávio Dias Garcia",
+      "nascimento": 1918,
+      "morte": 2007,
+      "inicio_mandato": "1984",
+      "fim_mandato": "1987",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "31",
+      "presidente": "Octávio Dias Garcia",
+      "nascimento": 1918,
+      "morte": 2007,
+      "inicio_mandato": "1987",
+      "fim_mandato": "1988",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "32",
+      "presidente": "Augusto Vítor Coelho",
+      "nascimento": 1920,
+      "morte": 2013,
+      "inicio_mandato": "1988",
+      "fim_mandato": "1990",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "33",
+      "presidente": "Abel Pereira Delgado",
+      "nascimento": 1922,
+      "morte": "",
+      "inicio_mandato": "1990",
+      "fim_mandato": "1992",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "34",
+      "presidente": "José Alfredo Soares Manso Preto",
+      "nascimento": 1924,
+      "morte": 1993,
+      "inicio_mandato": "1992",
+      "fim_mandato": "1993",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "35",
+      "presidente": "Joaquim de Carvalho",
+      "nascimento": 1925,
+      "morte": 2016,
+      "inicio_mandato": "1993",
+      "fim_mandato": "1995",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "36",
+      "presidente": "Pedro de Lemos e Sousa Macedo (1928–?)",
+      "nascimento": "",
+      "morte": "",
+      "inicio_mandato": "1995",
+      "fim_mandato": "1998",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "37",
+      "presidente": "Jaime Octávio Cardona Ferreira",
+      "nascimento": 1937,
+      "morte": 2019,
+      "inicio_mandato": "1998",
+      "fim_mandato": "2001",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "38",
+      "presidente": "Jorge Alberto Aragão Seia",
+      "nascimento": 1936,
+      "morte": 2005,
+      "inicio_mandato": "2001",
+      "fim_mandato": "2004",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "38",
+      "presidente": "Jorge Alberto Aragão Seia",
+      "nascimento": 1936,
+      "morte": 2005,
+      "inicio_mandato": "2004",
+      "fim_mandato": "2005",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "39",
+      "presidente": "José Moura Nunes da Cruz",
+      "nascimento": 1936,
+      "morte": 2019,
+      "inicio_mandato": "2005",
+      "fim_mandato": "2006",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "40",
+      "presidente": "Luís António Noronha do Nascimento",
+      "nascimento": 1943,
+      "morte": "",
+      "inicio_mandato": "2006",
+      "fim_mandato": "2009",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "40",
+      "presidente": "Luís António Noronha do Nascimento",
+      "nascimento": 1943,
+      "morte": "",
+      "inicio_mandato": "2009",
+      "fim_mandato": "2013",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "41",
+      "presidente": "António Silva Henriques Gaspar",
+      "nascimento": 1949,
+      "morte": "",
+      "inicio_mandato": "2013",
+      "fim_mandato": "2018",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "42",
+      "presidente": "António Joaquim Piçarra",
+      "nascimento": 1951,
+      "morte": "",
+      "inicio_mandato": "2018",
+      "fim_mandato": "2021",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "43",
+      "presidente": "Henrique Luís de Brito de Araújo",
+      "nascimento": 1954,
+      "morte": "",
+      "inicio_mandato": "2021",
+      "fim_mandato": "2024",
+      "periodo": "Terceira República (1974–presente)"
+    },
+    {
+      "numero": "44",
+      "presidente": "João Eduardo Cura Mariano Esteves",
+      "nascimento": 1957,
+      "morte": "",
+      "inicio_mandato": "2024",
+      "fim_mandato": "presente",
+      "periodo": "Terceira República (1974–presente)"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes do Supremo Tribunal de Justiça (Portugal) - Free Download",
+    "description": "Lista dos presidentes do Supremo Tribunal de Justiça de Portugal desde 1833, com anos de nascimento e morte, início e fim do mandato e período político. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes do Supremo Tribunal de Justiça (Portugal) | ListBase",
+    "seo_description": "Download Presidentes do Supremo Tribunal de Justiça (Portugal) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Supremo_Tribunal_de_Justiça_(Portugal)"
+    ]
+  }
+}
