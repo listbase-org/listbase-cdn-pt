@@ -1,0 +1,2906 @@
+{
+  "id": "pt-ministros-negocios-estrangeiros",
+  "name": "Ministros dos Negócios Estrangeiros de Portugal",
+  "title": "Ministros dos Negócios Estrangeiros de Portugal",
+  "description": "Ministros dos Negócios Estrangeiros de Portugal desde 1828, com datas de nascimento/morte, designação do cargo, início e fim do mandato, governos e regime político.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_dos_Negócios_Estrangeiros_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_dos_Negócios_Estrangeiros_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 284,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "governments",
+      "label": "Governments",
+      "type": "string"
+    },
+    {
+      "key": "regime",
+      "label": "Regime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "minister": "D. José Luís de Sousa Botelho Mourão e Vasconcelos, Conde de Vila Real (interino até 3 de março)",
+      "lifespan": "1785–1855",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "26 de fevereiro de 1828",
+      "end": "13 de março de 1828",
+      "governments": "I Cadaval",
+      "regime": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "no": "2",
+      "minister": "Manuel Francisco de Barros e Sousa de Mesquita de Macedo Leitão e Carvalhosa, Visconde de Santarém",
+      "lifespan": "1791–1856",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "13 de março de 1828",
+      "end": "5 de setembro de 1828",
+      "governments": "I Cadaval, II, III",
+      "regime": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António José de Melo Silva César e Meneses, Conde de São Lourenço (interino)",
+      "lifespan": "1794–1863",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "5 de setembro de 1828",
+      "end": "Outubro de 1833",
+      "governments": "III",
+      "regime": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Francisco José Vieira (interino) (n/d–n/d)",
+      "lifespan": "",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "Outubro de 1833",
+      "end": "Março de 1834",
+      "governments": "III",
+      "regime": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António José Guião (interino) (n/d–1836)",
+      "lifespan": "",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "Março de 1834",
+      "end": "Abril de 1834",
+      "governments": "III",
+      "regime": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "no": "3",
+      "minister": "Francisco José Vieira (n/d–n/d)",
+      "lifespan": "",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "Abril de 1834",
+      "end": "26 de maio de 1834",
+      "governments": "III",
+      "regime": "Governo de D. Miguel (1828–1834)"
+    },
+    {
+      "no": "1",
+      "minister": "Luís da Silva Mouzinho de Albuquerque",
+      "lifespan": "1792–1846",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "15 de março de 1830",
+      "end": "14 de janeiro de 1831",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António José de Melo Breyner Teles da Silva, Conde de Ficalho (interino)",
+      "lifespan": "1806–1893",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "14 de janeiro de 1831",
+      "end": "2 de julho de 1831",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "2",
+      "minister": "José António Ferreira Brak-Lamy",
+      "lifespan": "1780–1847",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "2 de julho de 1831",
+      "end": "10 de outubro de 1831",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "3",
+      "minister": "Joaquim de Sousa Quevedo Pizarro",
+      "lifespan": "1777–1838",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "10 de outubro de 1831",
+      "end": "3 de março de 1832",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "4",
+      "minister": "D. Pedro de Sousa Holstein, Marquês de Palmela",
+      "lifespan": "1781–1850",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "3 de março de 1832",
+      "end": "29 de julho de 1832",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Agostinho José Freire (interino)",
+      "lifespan": "1780–1836",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "29 de julho de 1832",
+      "end": "25 de setembro de 1832",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. Pedro de Sousa Holstein, Marquês de Palmela (continuação)",
+      "lifespan": "1781–1850",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "25 de setembro de 1832",
+      "end": "18 de novembro de 1832",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Agostinho José Freire (interino)",
+      "lifespan": "1780–1836",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "18 de novembro de 1832",
+      "end": "12 de janeiro de 1833",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "5",
+      "minister": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Marquês de Loulé e Conde de Vale de Reis",
+      "lifespan": "1804–1875",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "12 de janeiro de 1833",
+      "end": "26 de julho de 1833",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "6",
+      "minister": "Cândido José Xavier Dias da Silva (interino)",
+      "lifespan": "1769–1833",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "26 de julho de 1833",
+      "end": "15 de outubro de 1833",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "7",
+      "minister": "Agostinho José Freire (interino)",
+      "lifespan": "1780–1836",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "15 de outubro de 1833",
+      "end": "24 de setembro de 1834",
+      "governments": "Gov. Reg.",
+      "regime": "Regência de D. Pedro (1830–1834)"
+    },
+    {
+      "no": "8",
+      "minister": "D. José Luís de Sousa Botelho Mourão e Vasconcelos, Conde de Vila Real",
+      "lifespan": "1815–1858",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "24 de setembro de 1834",
+      "end": "16 de fevereiro de 1835",
+      "governments": "I Palmela (até 28 abr. 1835) Linhares (desde 4 mai. 1835)",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "9",
+      "minister": "D. Pedro de Sousa Holstein, Duque de Palmela (2.ª vez)",
+      "lifespan": "1781–1850",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "16 de fevereiro de 1835",
+      "end": "28 de abril de 1835",
+      "governments": "I Palmela (até 28 abr. 1835) Linhares (desde 4 mai. 1835)",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "10",
+      "minister": "D. José Luís de Sousa Botelho Mourão e Vasconcelos, Conde de Vila Real (2.ª vez)",
+      "lifespan": "1815–1858",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "28 de abril de 1835",
+      "end": "27 de maio de 1835",
+      "governments": "I Palmela (até 28 abr. 1835) Linhares (desde 4 mai. 1835)",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "11",
+      "minister": "D. Pedro de Sousa Holstein, Duque de Palmela (3.ª vez)",
+      "lifespan": "1781–1850",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "27 de maio de 1835",
+      "end": "18 de novembro de 1835",
+      "governments": "II Saldanha, III Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "12",
+      "minister": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Marquês de Loulé e Conde de Vale de Reis (2.ª vez)",
+      "lifespan": "1804–1875",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "18 de novembro de 1835",
+      "end": "20 de abril de 1836",
+      "governments": "IV Loureiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "13",
+      "minister": "D. José Luís de Sousa Botelho Mourão e Vasconcelos, Conde de Vila Real (3.ª vez)",
+      "lifespan": "1815–1858",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de abril de 1836",
+      "end": "10 de setembro de 1836",
+      "governments": "V Terceira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "14",
+      "minister": "Bernardo de Sá Nogueira de Figueiredo, Visconde de Sá da Bandeira (interino)",
+      "lifespan": "1795–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "10 de setembro de 1836",
+      "end": "4 de novembro de 1836",
+      "governments": "VI Lumiares",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. José Bernardino de Portugal e Castro, Marquês de Valença e Conde de Vimioso (não empossado)",
+      "lifespan": "1780–1840",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de novembro de 1836",
+      "end": "5 de novembro de 1836",
+      "governments": "G. M. Valença (não empossado)",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Bernardo de Sá Nogueira de Figueiredo, Visconde de Sá da Bandeira (continuação)",
+      "lifespan": "1795–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "5 de novembro de 1836",
+      "end": "1 de junho de 1837",
+      "governments": "VII Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "15",
+      "minister": "Manuel de Castro Pereira de Mesquita Pimentel Cardoso e Sousa",
+      "lifespan": "1778–1863",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de junho de 1837",
+      "end": "9 de novembro de 1837",
+      "governments": "VIII Dias de Oliveira, IX Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "16",
+      "minister": "Bernardo de Sá Nogueira de Figueiredo, Visconde de Sá da Bandeira (2.ª vez)",
+      "lifespan": "1795–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "9 de novembro de 1837",
+      "end": "18 de abril de 1839",
+      "governments": "IX Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "17",
+      "minister": "Rodrigo Pinto Pizarro de Almeida Carvalhais, Barão da Ribeira de Sabrosa (interino)",
+      "lifespan": "1788–1841",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "18 de abril de 1839",
+      "end": "26 de novembro de 1839",
+      "governments": "X Sabrosa",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Luís António de Abreu e Lima, Visconde da Carreira (não empossado)",
+      "lifespan": "1787–1871",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "26 de novembro de 1839",
+      "end": "28 de dezembro de 1839",
+      "governments": "XI Bonfim",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "18",
+      "minister": "José Lúcio Travassos Valdez, Conde do Bonfim (interino)",
+      "lifespan": "1787–1862",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "26 de novembro de 1839",
+      "end": "28 de dezembro de 1839",
+      "governments": "XI Bonfim",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "19",
+      "minister": "D. José Luís de Sousa Botelho Mourão e Vasconcelos, Conde de Vila Real (4.ª vez)",
+      "lifespan": "1815–1858",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "28 de dezembro de 1839",
+      "end": "23 de junho de 1840",
+      "governments": "XI Bonfim",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "20",
+      "minister": "Rodrigo da Fonseca Magalhães (interino)",
+      "lifespan": "1787–1858",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "23 de junho de 1840",
+      "end": "12 de março de 1841",
+      "governments": "XI Bonfim",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Cristóvão Pedro de Morais Sarmento, Visconde de Torre de Moncorvo (não empossado)",
+      "lifespan": "1788–1851",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "12 de março de 1841",
+      "end": "21 de abril de 1841",
+      "governments": "XI Bonfim",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Rodrigo da Fonseca Magalhães (continuação; interino até 9 de junho de 1841)",
+      "lifespan": "1787–1858",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "12 de março de 1841",
+      "end": "7 de fevereiro de 1842",
+      "governments": "XI Bonfim, XII Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "21",
+      "minister": "D. Pedro de Sousa Holstein, Duque de Palmela (4.ª vez)",
+      "lifespan": "1781–1850",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "7 de fevereiro de 1842",
+      "end": "8 de fevereiro de 1842",
+      "governments": "XIII (G.E.) Palmela",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Junta Provisória de Governo composta por: António Bernardo da Costa Cabral António Vicente de Queirós, Barão da Ponte de Santa Maria Marcelino Máximo de Azevedo e Melo António Pereira dos Reis",
+      "lifespan": "",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "8 de fevereiro de 1842",
+      "end": "9 de fevereiro de 1842",
+      "governments": "——",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "22",
+      "minister": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e Marquês de Vila Flor (interino)",
+      "lifespan": "1792–1860",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "9 de fevereiro de 1842",
+      "end": "23 de setembro de 1842",
+      "governments": "XIV Terceira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "23",
+      "minister": "José Joaquim Gomes de Castro",
+      "lifespan": "1794–1878",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "23 de setembro de 1842",
+      "end": "20 de maio de 1846",
+      "governments": "XIV Terceira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Marquês de Saldanha (não empossado)",
+      "lifespan": "1790–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de maio de 1846",
+      "end": "26 de maio de 1846",
+      "governments": "XV Palmela",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "24",
+      "minister": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e Marquês de Vila Flor (2.ª vez; interino)",
+      "lifespan": "1792–1860",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de maio de 1846",
+      "end": "26 de maio de 1846",
+      "governments": "XV Palmela",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "25",
+      "minister": "D. Francisco de Almeida Portugal, Conde do Lavradio",
+      "lifespan": "1796–1870",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "26 de maio de 1846",
+      "end": "6 de outubro de 1846",
+      "governments": "XV Palmela",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Luís António de Abreu e Lima, Visconde da Carreira (não empossado)",
+      "lifespan": "1787–1871",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "6 de outubro de 1846",
+      "end": "4 de novembro de 1846",
+      "governments": "XVI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "26",
+      "minister": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Marquês de Saldanha (interino)",
+      "lifespan": "1790–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "6 de outubro de 1846",
+      "end": "4 de novembro de 1846",
+      "governments": "XVI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. Manuel Francisco Zacarias de Portugal e Castro (interino)",
+      "lifespan": "1787–1854",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de novembro de 1846",
+      "end": "28 de abril de 1847",
+      "governments": "XVI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "27",
+      "minister": "Ildefonso Leopoldo Bayard",
+      "lifespan": "1785–1856",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "28 de abril de 1847",
+      "end": "22 de agosto de 1847",
+      "governments": "XVI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "28",
+      "minister": "Joaquim António Velez Barreiros, Barão de Nossa Senhora da Luz",
+      "lifespan": "1802–1865",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "22 de agosto de 1847",
+      "end": "18 de dezembro de 1847",
+      "governments": "XVI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "29",
+      "minister": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (2.ª vez)",
+      "lifespan": "1790–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "18 de dezembro de 1847",
+      "end": "29 de março de 1848",
+      "governments": "XVII Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "30",
+      "minister": "José Joaquim Gomes de Castro, Visconde de Castro (título a partir de 23 de dezembro de 1848) (2.ª vez)",
+      "lifespan": "1794–1878",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "29 de março de 1848",
+      "end": "3 de maio de 1849",
+      "governments": "XVII Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (interino)",
+      "lifespan": "1790–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "3 de maio de 1849",
+      "end": "1 de junho de 1849",
+      "governments": "XVII Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "José Joaquim Gomes de Castro, Visconde de Castro (2.ª vez continuação)",
+      "lifespan": "1794–1878",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de junho de 1849",
+      "end": "18 de junho de 1849",
+      "governments": "XVII Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "31",
+      "minister": "João Gualberto de Oliveira, Conde do Tojal",
+      "lifespan": "1788–1852",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "18 de junho de 1849",
+      "end": "1 de maio de 1851",
+      "governments": "XVIII Tomar, XIX Terceira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "32",
+      "minister": "Joaquim António Velez Barreiros, Barão de Nossa Senhora da Luz (2.ª vez; interino)",
+      "lifespan": "1802–1865",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de maio de 1851",
+      "end": "22 de maio de 1851",
+      "governments": "XX Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "33",
+      "minister": "António Aloísio Jervis de Atouguia",
+      "lifespan": "1797–1861",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "22 de maio de 1851",
+      "end": "4 de março de 1852",
+      "governments": "XXI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "34",
+      "minister": "João Baptista da Silva Leitão de Almeida Garrett, Visconde de Almeida Garrett",
+      "lifespan": "1799–1854",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de março de 1852",
+      "end": "17 de agosto de 1852",
+      "governments": "XXI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "35",
+      "minister": "António Aloísio Jervis de Atouguia, Visconde de Atouguia (interino até 31 de dezembro de 1852) (título a partir de 15 de março de 1853)",
+      "lifespan": "1797–1861",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "17 de agosto de 1852",
+      "end": "6 de junho de 1856",
+      "governments": "XXI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "36",
+      "minister": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Marquês de Loulé e Conde de Vale de Reis (3.ª vez)",
+      "lifespan": "1804–1875",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "6 de junho de 1856",
+      "end": "16 de março de 1859",
+      "governments": "XXII Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "37",
+      "minister": "D. António José de Sousa Manuel de Meneses Severim de Noronha, Duque da Terceira e Marquês de Vila Flor (3.ª vez)",
+      "lifespan": "1792–1860",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "16 de março de 1859",
+      "end": "24 de abril de 1860",
+      "governments": "XXIII Terceira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "38",
+      "minister": "José Maria Caldeira do Casal Ribeiro (interino até 1 de maio)",
+      "lifespan": "1825–1896",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "24 de abril de 1860",
+      "end": "4 de julho de 1860",
+      "governments": "XXIII Terceira, XXIV Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "39",
+      "minister": "António José de Ávila",
+      "lifespan": "1807–1881",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de julho de 1860",
+      "end": "21 de fevereiro de 1862",
+      "governments": "XXV Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "40",
+      "minister": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Marquês de Loulé e Conde de Vale de Reis (4.ª vez)",
+      "lifespan": "1804–1875",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "21 de fevereiro de 1862",
+      "end": "12 de setembro de 1862",
+      "governments": "XXV Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Bernardo de Sá Nogueira de Figueiredo, Visconde de Sá da Bandeira (interino)",
+      "lifespan": "1795–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "12 de setembro de 1862",
+      "end": "6 de outubro de 1862",
+      "governments": "XXV Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Duque de Loulé e Conde de Vale de Reis (4.ª vez continuação)",
+      "lifespan": "1804–1875",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "6 de outubro de 1862",
+      "end": "17 de abril de 1865",
+      "governments": "XXV Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "41",
+      "minister": "António José de Ávila, Conde de Ávila (2.ª vez)",
+      "lifespan": "1807–1881",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "17 de abril de 1865",
+      "end": "4 de setembro de 1865",
+      "governments": "XXVI Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "42",
+      "minister": "José Joaquim Gomes de Castro, Conde de Castro (3.ª vez)",
+      "lifespan": "1794–1878",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de setembro de 1865",
+      "end": "9 de maio de 1866",
+      "governments": "XXVII Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "43",
+      "minister": "José Maria Caldeira do Casal Ribeiro (2.ª vez)",
+      "lifespan": "1825–1896",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "9 de maio de 1866",
+      "end": "14 de dezembro de 1866",
+      "governments": "XXVII Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "João de Andrade Corvo (interino)",
+      "lifespan": "1824–1890",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "14 de dezembro de 1866",
+      "end": "24 de dezembro de 1866",
+      "governments": "XXVII Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "José Maria Caldeira do Casal Ribeiro (2.ª vez continuação)",
+      "lifespan": "1825–1896",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "24 de dezembro de 1866",
+      "end": "19 de julho de 1867",
+      "governments": "XXVII Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "João de Andrade Corvo (interino)",
+      "lifespan": "1824–1890",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "19 de julho de 1867",
+      "end": "20 de agosto de 1867",
+      "governments": "XXVII Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "José Maria Caldeira do Casal Ribeiro (2.ª vez continuação)",
+      "lifespan": "1825–1896",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de agosto de 1867",
+      "end": "4 de janeiro de 1868",
+      "governments": "XXVII Aguiar",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "44",
+      "minister": "António José de Ávila, Conde de Ávila (3.ª vez)",
+      "lifespan": "1807–1881",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de janeiro de 1868",
+      "end": "22 de julho de 1868",
+      "governments": "XXVIII Ávila",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "45",
+      "minister": "Carlos Bento da Silva (interino)",
+      "lifespan": "1812–1891",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "22 de julho de 1868",
+      "end": "18 de novembro de 1868",
+      "governments": "XXIX Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Bernardo de Sá Nogueira de Figueiredo, Marquês de Sá da Bandeira (interino)",
+      "lifespan": "1795–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "18 de novembro de 1868",
+      "end": "9 de dezembro de 1868",
+      "governments": "XXIX Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Carlos Bento da Silva (interino; continuação)",
+      "lifespan": "1812–1891",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "9 de dezembro de 1868",
+      "end": "17 de dezembro de 1868",
+      "governments": "XXIX Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "46",
+      "minister": "Bernardo de Sá Nogueira de Figueiredo, Marquês de Sá da Bandeira (3.ª vez; interino)",
+      "lifespan": "1795–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "17 de dezembro de 1868",
+      "end": "11 de agosto de 1869",
+      "governments": "XXIX Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "47",
+      "minister": "José da Silva Mendes Leal Júnior",
+      "lifespan": "1820–1886",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "11 de agosto de 1869",
+      "end": "14 de setembro de 1869",
+      "governments": "XXX Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. Nuno José Severo de Mendoça Rolim de Moura Barreto, Duque de Loulé e Conde de Vale de Reis (interino)",
+      "lifespan": "1804–1875",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "14 de setembro de 1869",
+      "end": "28 de outubro de 1869",
+      "governments": "XXX Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "José da Silva Mendes Leal Júnior (continuação)",
+      "lifespan": "1820–1886",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "28 de outubro de 1869",
+      "end": "20 de maio de 1870",
+      "governments": "XXX Loulé",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "48",
+      "minister": "D. João Carlos Gregório Domingos Vicente Francisco de Saldanha Oliveira e Daun, Duque de Saldanha (3.ª vez; interino)",
+      "lifespan": "1790–1876",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de maio de 1870",
+      "end": "29 de agosto de 1870",
+      "governments": "XXXI Saldanha",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "49",
+      "minister": "António José de Ávila, Marquês de Ávila e Bolama (4.ª vez; interino)",
+      "lifespan": "1807–1881",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "29 de agosto de 1870",
+      "end": "12 de setembro de 1870",
+      "governments": "XXXII Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "50",
+      "minister": "Carlos Bento da Silva (2.ª vez; interino)",
+      "lifespan": "1812–1891",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "12 de setembro de 1870",
+      "end": "29 de outubro de 1870",
+      "governments": "XXXII Sá da Bandeira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "51",
+      "minister": "António José de Ávila, Marquês de Ávila e Bolama (5.ª vez; interino a partir de 9 de janeiro de 1871)",
+      "lifespan": "1807–1881",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "29 de setembro de 1870",
+      "end": "13 de setembro de 1871",
+      "governments": "XXXIII Ávila",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "52",
+      "minister": "João de Andrade Corvo",
+      "lifespan": "1824–1890",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "13 de setembro de 1871",
+      "end": "20 de agosto de 1875",
+      "governments": "XXXIV Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António de Serpa Pimentel (interino)",
+      "lifespan": "1825–1900",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de agosto de 1875",
+      "end": "6 de setembro de 1875",
+      "governments": "XXXIV Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "João de Andrade Corvo (continuação)",
+      "lifespan": "1824–1890",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "6 de setembro de 1875",
+      "end": "7 de agosto de 1876",
+      "governments": "XXXIV Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António de Serpa Pimentel (interino)",
+      "lifespan": "1825–1900",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "7 de agosto de 1876",
+      "end": "1 de setembro de 1876",
+      "governments": "XXXIV Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "João de Andrade Corvo (continuação)",
+      "lifespan": "1824–1890",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de setembro de 1876",
+      "end": "5 de março de 1877",
+      "governments": "XXXIV Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "53",
+      "minister": "António José de Ávila, Marquês de Ávila e Bolama (6.ª vez; interino)",
+      "lifespan": "1807–1881",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "5 de março de 1877",
+      "end": "29 de janeiro de 1878",
+      "governments": "XXXV Ávila",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "54",
+      "minister": "João de Andrade Corvo (2.ª vez)",
+      "lifespan": "1824–1890",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "29 de janeiro de 1878",
+      "end": "1 de junho de 1879",
+      "governments": "XXXVI Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "55",
+      "minister": "Anselmo José Braamcamp de Almeida Castelo Branco",
+      "lifespan": "1817–1885",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de junho de 1879",
+      "end": "25 de março de 1881",
+      "governments": "XXXVII Braamcamp",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António Rodrigues Sampaio (interino",
+      "lifespan": "1806–1882",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "25 de março de 1881",
+      "end": "5 de abril de 1881",
+      "governments": "XXXVIII Rodrigues Sampaio",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "56",
+      "minister": "Miguel José Martins Dantas (interino)",
+      "lifespan": "1821–1910",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "5 de abril de 1881",
+      "end": "29 de abril de 1881",
+      "governments": "XXXVIII Rodrigues Sampaio",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "57",
+      "minister": "Ernesto Rodolfo Hintze Ribeiro (interino)",
+      "lifespan": "1849–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "29 de abril de 1881",
+      "end": "24 de dezembro de 1881",
+      "governments": "XXXVIII Rodrigues Sampaio, XXXIX Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "58",
+      "minister": "António de Serpa Pimentel",
+      "lifespan": "1825–1900",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "24 de dezembro de 1881",
+      "end": "21 de maio de 1883",
+      "governments": "XXXIX Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Ernesto Rodolfo Hintze Ribeiro (interino)",
+      "lifespan": "1849–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "21 de maio de 1883",
+      "end": "31 de maio de 1883",
+      "governments": "XXXIX Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António de Serpa Pimentel (continuação)",
+      "lifespan": "1825–1900",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "31 de maio de 1883",
+      "end": "1 de setembro de 1883",
+      "governments": "XXXIX Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Ernesto Rodolfo Hintze Ribeiro (interino)",
+      "lifespan": "1849–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de setembro de 1883",
+      "end": "25 de setembro de 1883",
+      "governments": "XXXIX Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "António de Serpa Pimentel (continuação)",
+      "lifespan": "1825–1900",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "25 de setembro de 1883",
+      "end": "24 de outubro de 1883",
+      "governments": "XXXIX Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "59",
+      "minister": "José Vicente Barbosa du Bocage",
+      "lifespan": "1823–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "24 de outubro de 1883",
+      "end": "20 de fevereiro de 1886",
+      "governments": "XL Fontes Pereira de Melo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "60",
+      "minister": "Henrique de Barros Gomes",
+      "lifespan": "1843–1898",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de fevereiro de 1886",
+      "end": "14 de janeiro de 1890",
+      "governments": "XLI J. L. Castro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "61",
+      "minister": "Ernesto Rodolfo Hintze Ribeiro (2.ª vez)",
+      "lifespan": "1849–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "14 de janeiro de 1890",
+      "end": "13 de outubro de 1890",
+      "governments": "XLII Serpa",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "62",
+      "minister": "José Vicente Barbosa du Bocage (2.ª vez)",
+      "lifespan": "1823–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "13 de outubro de 1890",
+      "end": "21 de maio de 1891",
+      "governments": "XLIII Crisóstomo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "63",
+      "minister": "Joaquim Tomás Lobo de Ávila, Conde de Valbom",
+      "lifespan": "1822–1901",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "21 de maio de 1891",
+      "end": "17 de janeiro de 1892",
+      "governments": "XLIV Crisóstomo",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "64",
+      "minister": "António de Sousa Silva Costa Lobo",
+      "lifespan": "1840–1913",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "17 de janeiro de 1892",
+      "end": "27 de maio de 1892",
+      "governments": "XLV Dias Ferreira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "65",
+      "minister": "D. António Frutuoso Aires de Gouveia Osório, bispo de Betsaida",
+      "lifespan": "1828–1916",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "27 de maio de 1892",
+      "end": "6 de julho de 1892",
+      "governments": "XLVI Dias Ferreira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Francisco Joaquim Ferreira do Amaral (interino)",
+      "lifespan": "1844–1923",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "6 de julho de 1892",
+      "end": "23 de julho de 1892",
+      "governments": "XLVI Dias Ferreira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. António Frutuoso Aires de Gouveia Osório, bispo de Betsaida (continuação)",
+      "lifespan": "1828–1916",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "23 de julho de 1892",
+      "end": "9 de novembro de 1892",
+      "governments": "XLVI Dias Ferreira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Francisco Joaquim Ferreira do Amaral (interino)",
+      "lifespan": "1844–1923",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "9 de novembro de 1892",
+      "end": "18 de novembro de 1892",
+      "governments": "XLVI Dias Ferreira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "D. António Frutuoso Aires de Gouveia Osório, bispo de Betsaida (continuação)",
+      "lifespan": "1828–1916",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "18 de novembro de 1892",
+      "end": "23 de dezembro de 1892",
+      "governments": "XLVI Dias Ferreira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "66",
+      "minister": "Francisco Joaquim Ferreira do Amaral (interino)",
+      "lifespan": "1844–1923",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "23 de dezembro de 1892",
+      "end": "22 de fevereiro de 1893",
+      "governments": "XLVI Dias Ferreira",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "67",
+      "minister": "Ernesto Rodolfo Hintze Ribeiro (3.ª vez)",
+      "lifespan": "1849–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "22 de fevereiro de 1893",
+      "end": "20 de dezembro de 1893",
+      "governments": "XLVII Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "68",
+      "minister": "Frederico de Gusmão Correia Arouca",
+      "lifespan": "1846–1902",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de dezembro de 1893",
+      "end": "14 de março de 1894",
+      "governments": "XLVII Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "69",
+      "minister": "Ernesto Rodolfo Hintze Ribeiro (4.ª vez; interino)",
+      "lifespan": "1849–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "14 de março de 1894",
+      "end": "1 de setembro de 1894",
+      "governments": "XLVII Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "70",
+      "minister": "Carlos Orta Lobo de Ávila",
+      "lifespan": "1860–1895",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de setembro de 1894",
+      "end": "9 de setembro de 1895",
+      "governments": "XLVII Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Cargo vago",
+      "lifespan": "",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "9 de setembro de 1895",
+      "end": "10 de setembro de 1895",
+      "governments": "XLVII Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "71",
+      "minister": "Ernesto Rodolfo Hintze Ribeiro (5.ª vez; interino)",
+      "lifespan": "1849–1907",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "10 de setembro de 1895",
+      "end": "20 de setembro de 1895",
+      "governments": "XLVII Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "72",
+      "minister": "Luís Maria Augusto Pinto de Soveral",
+      "lifespan": "1851–1922",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de setembro de 1895",
+      "end": "7 de fevereiro de 1897",
+      "governments": "XLVII Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "–",
+      "minister": "Henrique de Barros Gomes (interino)",
+      "lifespan": "1843–1898",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "7 de fevereiro de 1897",
+      "end": "10 de março de 1897",
+      "governments": "XLVIII J. L. Castro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "73",
+      "minister": "Matias de Carvalho e Vasconcelos",
+      "lifespan": "1832–1910",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "10 de março de 1897",
+      "end": "8 de novembro de 1897",
+      "governments": "XLVIII J. L. Castro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "74",
+      "minister": "Henrique de Barros Gomes (2.ª vez)",
+      "lifespan": "1843–1898",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "8 de novembro de 1897",
+      "end": "30 de abril de 1898",
+      "governments": "XLVIII J. L. Castro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "75",
+      "minister": "Francisco António da Veiga Beirão (interino até 18 de agosto de 1898)",
+      "lifespan": "1841–1916",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "30 de abril de 1898",
+      "end": "25 de junho de 1900",
+      "governments": "XLVIII J. L. Castro, XLIX J. L. Castro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "76",
+      "minister": "João Marcelino Arroio",
+      "lifespan": "1861–1930",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "25 de junho de 1900",
+      "end": "1 de junho de 1901",
+      "governments": "L Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "77",
+      "minister": "Fernando Matoso dos Santos (interino)",
+      "lifespan": "1849–1921",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "1 de junho de 1901",
+      "end": "28 de fevereiro de 1903",
+      "governments": "L Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "78",
+      "minister": "Venceslau de Sousa Pereira de Lima",
+      "lifespan": "1858–1919",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "28 de fevereiro de 1903",
+      "end": "20 de outubro de 1904",
+      "governments": "LI Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "79",
+      "minister": "António Eduardo Vilaça",
+      "lifespan": "1852–1914",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de outubro de 1904",
+      "end": "20 de março de 1906",
+      "governments": "LII J. L. Castro, LIII J. L. Castro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "80",
+      "minister": "Venceslau de Sousa Pereira de Lima (2.ª vez)",
+      "lifespan": "1858–1919",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "20 de março de 1906",
+      "end": "19 de maio de 1906",
+      "governments": "LIV Hintze Ribeiro",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "81",
+      "minister": "Luís Cipriano Coelho de Magalhães",
+      "lifespan": "1859–1935",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "19 de maio de 1906",
+      "end": "2 de maio de 1907",
+      "governments": "LV Franco",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "82",
+      "minister": "Luciano Afonso da Silva Monteiro Aillaud",
+      "lifespan": "1849–1937",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "2 de maio de 1907",
+      "end": "4 de fevereiro de 1908",
+      "governments": "LV Franco",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "83",
+      "minister": "Venceslau de Sousa Pereira de Lima (3.ª vez)",
+      "lifespan": "1858–1919",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de fevereiro de 1908",
+      "end": "11 de abril de 1909",
+      "governments": "LVI Ferreira do Amaral, LVII Campos Henriques",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "84",
+      "minister": "João de Alarcão Velasques Sarmento Osório",
+      "lifespan": "1854–1918",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "11 de abril de 1909",
+      "end": "14 de maio de 1909",
+      "governments": "LVIII Teles",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "85",
+      "minister": "Carlos Roma du Bocage",
+      "lifespan": "1853–1918",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "14 de maio de 1909",
+      "end": "22 de dezembro de 1909",
+      "governments": "LIX Lima",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "86",
+      "minister": "António Eduardo Vilaça (2.ª vez)",
+      "lifespan": "1852–1914",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "22 de dezembro de 1909",
+      "end": "26 de junho de 1910",
+      "governments": "LX Veiga Beirão",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "87",
+      "minister": "José de Azevedo Castelo Branco",
+      "lifespan": "1852–1923",
+      "title": "Ministro e secretário de Estado dos Negócios Estrangeiros",
+      "start": "26 de junho de 1910",
+      "end": "5 de outubro de 1910",
+      "governments": "LXI Teixeira de Sousa",
+      "regime": "Monarquia Constitucional (1830–1834)"
+    },
+    {
+      "no": "88",
+      "minister": "Bernardino Luís Machado Guimarães",
+      "lifespan": "1851–1944",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "5 de outubro de 1910",
+      "end": "3 de setembro de 1911",
+      "governments": "Gov. Prov. (I) Braga",
+      "regime": "Governo Provisório (1910–1911)"
+    },
+    {
+      "no": "89",
+      "minister": "João Pinheiro Chagas (interino)",
+      "lifespan": "1863–1925",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "4 de setembro de 1911",
+      "end": "12 de outubro de 1911",
+      "governments": "II Chagas",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "90",
+      "minister": "Augusto César de Almeida de Vasconcelos Correia",
+      "lifespan": "1867–1951",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de outubro de 1911",
+      "end": "23 de outubro de 1912",
+      "governments": "II Chagas, III Vasconcelos, IV Leite",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "António Vicente Ferreira (interino)",
+      "lifespan": "1874–1953",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "23 de outubro de 1912",
+      "end": "6 de novembro de 1912",
+      "governments": "IV Leite",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Augusto César de Almeida de Vasconcelos Correia (continuação)",
+      "lifespan": "1867–1951",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de novembro de 1912",
+      "end": "9 de janeiro de 1913",
+      "governments": "IV Leite",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "91",
+      "minister": "António Caetano Macieira Júnior",
+      "lifespan": "1875–1918",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de janeiro de 1913",
+      "end": "11 de outubro de 1913",
+      "governments": "V Costa",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Afonso Augusto da Costa (interino)",
+      "lifespan": "1871–1937",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de outubro de 1913",
+      "end": "6 de novembro de 1913",
+      "governments": "V Costa",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "António Caetano Macieira Júnior (continuação)",
+      "lifespan": "1875–1918",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de novembro de 1913",
+      "end": "9 de fevereiro de 1914",
+      "governments": "V Costa",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "92",
+      "minister": "Bernardino Luís Machado Guimarães (2.ª vez; interino)",
+      "lifespan": "1851–1944",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de fevereiro de 1914",
+      "end": "23 de maio de 1914",
+      "governments": "VI Machado",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "93",
+      "minister": "Alfredo Augusto Freire de Andrade",
+      "lifespan": "1859–1929",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "23 de maio de 1914",
+      "end": "12 de dezembro de 1914",
+      "governments": "VI Machado, VII Machado",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "94",
+      "minister": "Augusto Luís Vieira Soares",
+      "lifespan": "1873–1954",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de dezembro de 1914",
+      "end": "25 de janeiro de 1915",
+      "governments": "VIII Azevedo Coutinho",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "95",
+      "minister": "José Joaquim Pereira Pimenta de Castro (interino)",
+      "lifespan": "1846–1918",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "25 de janeiro de 1915",
+      "end": "4 de fevereiro de 1915",
+      "governments": "IX Pimenta de Castro",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "96",
+      "minister": "José Jerónimo Rodrigues Monteiro",
+      "lifespan": "1855–1931",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "4 de fevereiro de 1915",
+      "end": "10 de março de 1915",
+      "governments": "IX Pimenta de Castro",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "97",
+      "minister": "Teófilo José da Trindade",
+      "lifespan": "1856–1936",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "10 de março de 1915",
+      "end": "29 de abril de 1915",
+      "governments": "IX Pimenta de Castro",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "José Joaquim Xavier de Brito (interino)",
+      "lifespan": "1850–1945",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "29 de abril de 1915",
+      "end": "12 de maio de 1915",
+      "governments": "IX Pimenta de Castro",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Teófilo José da Trindade (continuação)",
+      "lifespan": "1856–1936",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de maio de 1915",
+      "end": "14 de maio de 1915",
+      "governments": "IX Pimenta de Castro",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Junta Constitucional composta por: José Maria Mendes Ribeiro Norton de Matos António Maria da Silva José de Freitas Ribeiro Alfredo Ernesto de Sá Cardoso Álvaro Xavier de Castro Paulo José Falcão",
+      "lifespan": "",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "14 de maio de 1915",
+      "end": "15 de maio de 1915",
+      "governments": "——",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Augusto Manuel Alves da Veiga (não empossado)",
+      "lifespan": "1849–1924",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de maio de 1915",
+      "end": "17 de maio de 1915",
+      "governments": "X Chagas (até 29 mai. 1915) (não empossado) J. Castro (desde 17 mai. 1915) (interino)",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "98",
+      "minister": "Francisco Teixeira de Queirós",
+      "lifespan": "1848–1919",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "17 de maio de 1915",
+      "end": "19 de junho de 1915",
+      "governments": "X Chagas (até 29 mai. 1915) (não empossado) J. Castro (desde 17 mai. 1915) (interino)",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "99",
+      "minister": "Augusto Luís Vieira Soares (2.ª vez)",
+      "lifespan": "1873–1954",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "19 de junho de 1915",
+      "end": "26 de outubro de 1915",
+      "governments": "XI J. Castro",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "José Maria Mendes Ribeiro Norton de Matos (interino)",
+      "lifespan": "1867–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "26 de outubro de 1915",
+      "end": "29 de novembro de 1915",
+      "governments": "XI J. Castro",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Augusto Luís Vieira Soares (2.ª vez continuação)",
+      "lifespan": "1873–1954",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "29 de novembro de 1915",
+      "end": "12 de junho de 1916",
+      "governments": "XII Costa, XIII Almeida",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "José Maria Mendes Ribeiro Norton de Matos (interino)",
+      "lifespan": "1867–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de junho de 1916",
+      "end": "N/d",
+      "governments": "XIII Almeida",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Augusto Luís Vieira Soares (2.ª vez continuação)",
+      "lifespan": "1873–1954",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "N/d",
+      "end": "25 de outubro de 1917",
+      "governments": "XIII Almeida, XIV Costa",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Alexandre Braga, filho (interino)",
+      "lifespan": "1871–1921",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "7 de outubro de 1917",
+      "end": "25 de outubro de 1917",
+      "governments": "XIV Costa",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Augusto Luís Vieira Soares (2.ª vez continuação)",
+      "lifespan": "1873–1954",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "25 de outubro de 1917",
+      "end": "19 de novembro de 1917",
+      "governments": "XIV Costa",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Ernesto Jardim de Vilhena (interino)",
+      "lifespan": "1876–1967",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "19 de novembro de 1917",
+      "end": "8 de dezembro de 1917",
+      "governments": "XIV Costa",
+      "regime": "Governos Constitucionais (1911–1917)"
+    },
+    {
+      "no": "–",
+      "minister": "Junta Revolucionária composta por: Sidónio Bernardino Cardoso da Silva Pais (Presidente) António Maria de Azevedo Machado Santos (Vogal) José Feliciano da Costa Júnior (Vogal)",
+      "lifespan": "",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "8 de dezembro de 1917",
+      "end": "11 de dezembro de 1917",
+      "governments": "——",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "100",
+      "minister": "Sidónio Bernardino Cardoso da Silva Pais",
+      "lifespan": "1872–1918",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de dezembro de 1917",
+      "end": "9 de maio de 1918",
+      "governments": "XV Pais",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "101",
+      "minister": "Francisco Xavier Esteves (interino)",
+      "lifespan": "1864–1944",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de maio de 1918",
+      "end": "15 de maio de 1918",
+      "governments": "XV Pais",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "102",
+      "minister": "Joaquim do Espírito Santo Lima",
+      "lifespan": "1858–1928",
+      "title": "Secretário de Estado dos Negócios Estrangeiros",
+      "start": "15 de maio de 1918",
+      "end": "8 de outubro de 1918",
+      "governments": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "103",
+      "minister": "António Caetano de Abreu Freire Egas Moniz",
+      "lifespan": "1874–1955",
+      "title": "Secretário de Estado dos Negócios Estrangeiros",
+      "start": "8 de outubro de 1918",
+      "end": "4 de dezembro de 1918",
+      "governments": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "–",
+      "minister": "João do Canto e Castro da Silva Antunes Júnior (interino)",
+      "lifespan": "1862–1934",
+      "title": "Secretário de Estado dos Negócios Estrangeiros",
+      "start": "4 de dezembro de 1918",
+      "end": "15 de dezembro de 1918",
+      "governments": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "–",
+      "minister": "António Caetano de Abreu Freire Egas Moniz (continuação)",
+      "lifespan": "1874–1955",
+      "title": "Secretário de Estado dos Negócios Estrangeiros",
+      "start": "15 de dezembro de 1918",
+      "end": "16 de dezembro de 1918",
+      "governments": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "–",
+      "minister": "António Caetano de Abreu Freire Egas Moniz (continuação)",
+      "lifespan": "1874–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "16 de dezembro de 1918",
+      "end": "23 de dezembro de 1918",
+      "governments": "XVI Pais (até 14 dez. 1918) Canto e Castro (desde 15 dez. 1918)",
+      "regime": "República Nova (1917–1918)"
+    },
+    {
+      "no": "–",
+      "minister": "João Alberto Pereira de Azevedo Neves (interino)",
+      "lifespan": "1877–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "23 de dezembro de 1918",
+      "end": "27 de janeiro de 1919",
+      "governments": "XVII Tamagnini Barbosa, XVIII Tamagnini Barbosa",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Francisco Manuel Couceiro da Costa (interino)",
+      "lifespan": "1870–1925",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "27 de janeiro de 1919",
+      "end": "15 de fevereiro de 1919",
+      "governments": "XIX Relvas",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "José Carlos de Azevedo Mascarenhas Relvas (interino)",
+      "lifespan": "1858–1929",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de fevereiro de 1919",
+      "end": "data indeterminada (antes de 22 de fevereiro de 1919)",
+      "governments": "XIX Relvas",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Francisco Manuel Couceiro da Costa (interino; continuação)",
+      "lifespan": "1870–1925",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "data indeterminada (antes de 22 de fevereiro de 1919)",
+      "end": "30 de março de 1919",
+      "governments": "XIX Relvas",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "104",
+      "minister": "Rodolfo Xavier da Silva Júnior",
+      "lifespan": "1877–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "30 de março de 1919",
+      "end": "29 de junho de 1919",
+      "governments": "XX Pereira",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "105",
+      "minister": "Alfredo Ernesto de Sá Cardoso (interino)",
+      "lifespan": "1864–1950",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "29 de junho de 1919",
+      "end": "12 de julho de 1919",
+      "governments": "XXI Sá Cardoso",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "106",
+      "minister": "João Carlos de Melo Barreto",
+      "lifespan": "1873–1935",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de julho de 1919",
+      "end": "15 de janeiro de 1920",
+      "governments": "XXI Sá Cardoso",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Francisco José de Meneses Fernandes Costa (interino; não empossado)",
+      "lifespan": "1857–1925",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de janeiro de 1920",
+      "end": "15 de janeiro de 1920",
+      "governments": "XXII Fernandes Costa (não empossado)",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "João Carlos de Melo Barreto (reconduzido)",
+      "lifespan": "1873–1935",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de janeiro de 1920",
+      "end": "8 de março de 1920",
+      "governments": "XXI Sá Cardoso, XXIII Pereira",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "107",
+      "minister": "Rodolfo Xavier da Silva Júnior (2.ª vez)",
+      "lifespan": "1877–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "8 de março de 1920",
+      "end": "30 de abril de 1920",
+      "governments": "XXIV Baptista (até 6 jun. 1920) Ramos Preto (desde 6 jun. 1920)",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Vasco Borges (interino)",
+      "lifespan": "1882–1942",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "30 de abril de 1920",
+      "end": "11 de junho de 1920",
+      "governments": "XXIV Baptista (até 6 jun. 1920) Ramos Preto (desde 6 jun. 1920)",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Rodolfo Xavier da Silva Júnior (2.ª vez continuação)",
+      "lifespan": "1877–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de junho de 1920",
+      "end": "26 de junho de 1920",
+      "governments": "XXIV Baptista (até 6 jun. 1920) Ramos Preto (desde 6 jun. 1920)",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "108",
+      "minister": "Francisco António de Sampaio e Melo Correia",
+      "lifespan": "1877–1938",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "26 de junho de 1920",
+      "end": "19 de julho de 1920",
+      "governments": "XXV Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "109",
+      "minister": "João Carlos de Melo Barreto (2.ª vez)",
+      "lifespan": "1873–1935",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "19 de julho de 1920",
+      "end": "14 de setembro de 1920",
+      "governments": "XXVI Granjo",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Hélder Armando dos Santos Ribeiro (interino)",
+      "lifespan": "1883–1973",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "14 de setembro de 1920",
+      "end": "14 de outubro de 1920",
+      "governments": "XXVI Granjo",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "João Carlos de Melo Barreto (2.ª vez continuação)",
+      "lifespan": "1873–1935",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "14 de outubro de 1920",
+      "end": "20 de novembro de 1920",
+      "governments": "XXVI Granjo",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "110",
+      "minister": "Domingos Leite Pereira",
+      "lifespan": "1882–1956",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "20 de novembro de 1920",
+      "end": "23 de maio de 1921",
+      "governments": "XXVII A. Castro, XXVIII Pinto, XXIX Machado",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "111",
+      "minister": "João Carlos de Melo Barreto (3.ª vez)",
+      "lifespan": "1873–1935",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "23 de maio de 1921",
+      "end": "8 de outubro de 1921",
+      "governments": "XXX Barros Queirós, XXXI Granjo",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "António Ginestal Machado (interino)",
+      "lifespan": "1874–1940",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "8 de outubro de 1921",
+      "end": "19 de outubro de 1921",
+      "governments": "XXXI Granjo",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "112",
+      "minister": "Alberto da Veiga Simões",
+      "lifespan": "1888–1954",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "19 de outubro de 1921",
+      "end": "16 de dezembro de 1921",
+      "governments": "XXXII Coelho, XXXIII Maia Pinto",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "113",
+      "minister": "Júlio Dantas",
+      "lifespan": "1876–1962",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "16 de dezembro de 1921",
+      "end": "6 de fevereiro de 1922",
+      "governments": "XXXIV Cunha Leal",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "114",
+      "minister": "José Maria de Vilhena Barbosa de Magalhães",
+      "lifespan": "1879–1959",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de fevereiro de 1922",
+      "end": "2 de março de 1922",
+      "governments": "XXXV Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Vítor Hugo de Azevedo Coutinho (interino)",
+      "lifespan": "1871–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "2 de março de 1922",
+      "end": "28 de março de 1922",
+      "governments": "XXXV Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "José Maria de Vilhena Barbosa de Magalhães (continuação)",
+      "lifespan": "1879–1959",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "28 de março de 1922",
+      "end": "26 de agosto de 1922",
+      "governments": "XXXV Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Vítor Hugo de Azevedo Coutinho (interino)",
+      "lifespan": "1871–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "26 de agosto de 1922",
+      "end": "12 de outubro de 1922",
+      "governments": "XXXV Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "José Maria de Vilhena Barbosa de Magalhães (continuação)",
+      "lifespan": "1879–1959",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de outubro de 1922",
+      "end": "30 de novembro de 1922",
+      "governments": "XXXV Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "115",
+      "minister": "Domingos Leite Pereira (2.ª vez)",
+      "lifespan": "1882–1956",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "30 de novembro de 1922",
+      "end": "15 de novembro de 1923",
+      "governments": "XXXVI Silva, XXXVII Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "116",
+      "minister": "Júlio Dantas (2.ª vez)",
+      "lifespan": "1876–1962",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de novembro de 1923",
+      "end": "18 de dezembro de 1923",
+      "governments": "XXXVIII Ginestal Machado",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "117",
+      "minister": "Domingos Leite Pereira (3.ª vez)",
+      "lifespan": "1882–1956",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "18 de dezembro de 1923",
+      "end": "6 de julho de 1924",
+      "governments": "XXXIX A. Castro",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "118",
+      "minister": "Vitorino Henriques Godinho",
+      "lifespan": "1878–1962",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de julho de 1924",
+      "end": "22 de novembro de 1924",
+      "governments": "XL Rodrigues Gaspar",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "119",
+      "minister": "João de Barros",
+      "lifespan": "1881–1960",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "22 de novembro de 1924",
+      "end": "15 de fevereiro de 1925",
+      "governments": "XLI Domingues dos Santos",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "120",
+      "minister": "Joaquim Pedro Martins",
+      "lifespan": "1875–1939",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de fevereiro de 1925",
+      "end": "1 de julho de 1925",
+      "governments": "XLII Guimarães",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Albano Augusto de Portugal Durão (não empossado)",
+      "lifespan": "1871–1925",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "1 de julho de 1925",
+      "end": "2 de julho de 1925",
+      "governments": "XLIII Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "121",
+      "minister": "António Joaquim Machado do Lago Cerqueira (interino)",
+      "lifespan": "1880–1945",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "2 de julho de 1925",
+      "end": "1 de agosto de 1925",
+      "governments": "XLIII Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "122",
+      "minister": "Vasco Borges",
+      "lifespan": "1882–1942",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "1 de agosto de 1925",
+      "end": "29 de maio de 1926",
+      "governments": "XLIV Pereira, XLV Silva",
+      "regime": "Governos Constitucionais (1918–1926)"
+    },
+    {
+      "no": "–",
+      "minister": "Junta de Salvação Pública composta por: José Mendes Cabeçadas Júnior (Presidente) Armando Humberto da Gama Ochoa Jaime Pereira Rodrigues Baptista Carlos de Jesus Vilhena",
+      "lifespan": "",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "29 de maio de 1926",
+      "end": "30 de maio de 1926",
+      "governments": "——",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "–",
+      "minister": "José Mendes Cabeçadas Júnior (interino; não empossado)",
+      "lifespan": "1883–1965",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "30 de maio de 1926",
+      "end": "1 de junho de 1926",
+      "governments": "I Mendes Cabeçadas",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "–",
+      "minister": "Armando Humberto da Gama Ochoa (não empossado)",
+      "lifespan": "1877–1941",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "1 de junho de 1926",
+      "end": "3 de junho de 1926",
+      "governments": "I Mendes Cabeçadas",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "123",
+      "minister": "António Óscar Fragoso Carmona",
+      "lifespan": "1869–1951",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "3 de junho de 1926",
+      "end": "6 de julho de 1926",
+      "governments": "I Mendes Cabeçadas, II Gomes da Costa",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "124",
+      "minister": "Martinho Nobre de Melo",
+      "lifespan": "1891–1985",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de julho de 1926",
+      "end": "9 de julho de 1926",
+      "governments": "II Gomes da Costa",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "125",
+      "minister": "António Maria de Bettencourt Rodrigues",
+      "lifespan": "1854–1933",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de julho de 1926",
+      "end": "4 de setembro de 1926",
+      "governments": "III Carmona",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "–",
+      "minister": "António Óscar Fragoso Carmona (interino)",
+      "lifespan": "1869–1951",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "4 de setembro de 1926",
+      "end": "24 de setembro de 1926",
+      "governments": "III Carmona",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "–",
+      "minister": "António Maria de Bettencourt Rodrigues (continuação)",
+      "lifespan": "1854–1933",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "24 de setembro de 1926",
+      "end": "18 de abril de 1928",
+      "governments": "III Carmona",
+      "regime": "Ditadura Militar (1926–1928)"
+    },
+    {
+      "no": "–",
+      "minister": "António Maria de Bettencourt Rodrigues (continuação)",
+      "lifespan": "1854–1933",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "18 de abril de 1928",
+      "end": "13 de outubro de 1928",
+      "governments": "IV Freitas",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "José Vicente de Freitas (interino)",
+      "lifespan": "1869–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "13 de outubro de 1928",
+      "end": "15 de outubro de 1928",
+      "governments": "IV Freitas",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "António Maria de Bettencourt Rodrigues (continuação)",
+      "lifespan": "1854–1933",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de outubro de 1928",
+      "end": "10 de novembro de 1928",
+      "governments": "IV Freitas",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "126",
+      "minister": "Aníbal de Mesquita Guimarães (interino)",
+      "lifespan": "1882–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "10 de novembro de 1928",
+      "end": "19 de dezembro de 1928",
+      "governments": "V Freitas",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "127",
+      "minister": "Manuel Carlos Quintão Meireles",
+      "lifespan": "1880–1962",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "19 de dezembro de 1928",
+      "end": "6 de maio de 1929",
+      "governments": "V Freitas",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Aníbal de Mesquita Guimarães (interino)",
+      "lifespan": "1882–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de maio de 1929",
+      "end": "28 de maio de 1929",
+      "governments": "V Freitas",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Manuel Carlos Quintão Meireles (continuação)",
+      "lifespan": "1880–1962",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "28 de maio de 1929",
+      "end": "8 de julho de 1929",
+      "governments": "V Freitas",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "128",
+      "minister": "Artur Ivens Ferraz (interino)",
+      "lifespan": "1870–1933",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "8 de julho de 1929",
+      "end": "27 de julho de 1929",
+      "governments": "VI Ivens Ferraz",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "129",
+      "minister": "Henrique Trindade Coelho",
+      "lifespan": "1885–1934",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "27 de julho de 1929",
+      "end": "16 de agosto de 1929",
+      "governments": "VI Ivens Ferraz",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "130",
+      "minister": "Artur Ivens Ferraz (2.ª vez; interino)",
+      "lifespan": "1870–1933",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "16 de agosto de 1929",
+      "end": "11 de setembro de 1929",
+      "governments": "VI Ivens Ferraz",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "131",
+      "minister": "Jaime da Fonseca Monteiro",
+      "lifespan": "1870–1938",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de setembro de 1929",
+      "end": "16 de outubro de 1929",
+      "governments": "VI Ivens Ferraz",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Luís António de Magalhães Correia (interino)",
+      "lifespan": "1873–1960",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "16 de outubro de 1929",
+      "end": "26 de outubro de 1929",
+      "governments": "VI Ivens Ferraz",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Jaime da Fonseca Monteiro (continuação)",
+      "lifespan": "1870–1938",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "26 de outubro de 1929",
+      "end": "21 de janeiro de 1930",
+      "governments": "VI Ivens Ferraz",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "132",
+      "minister": "Fernando Augusto Branco",
+      "lifespan": "1880–1940",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "21 de janeiro de 1930",
+      "end": "9 de setembro de 1930",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Luís António de Magalhães Correia (interino)",
+      "lifespan": "1873–1960",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de setembro de 1930",
+      "end": "4 de outubro de 1930",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Fernando Augusto Branco (continuação)",
+      "lifespan": "1880–1940",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "4 de outubro de 1930",
+      "end": "19 de maio de 1931",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Luís António de Magalhães Correia (interino)",
+      "lifespan": "1873–1960",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "19 de maio de 1931",
+      "end": "15 de junho de 1931",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Fernando Augusto Branco (continuação)",
+      "lifespan": "1880–1940",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de junho de 1931",
+      "end": "22 de janeiro de 1932",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Luís António de Magalhães Correia (interino)",
+      "lifespan": "1873–1960",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "22 de janeiro de 1932",
+      "end": "22 de março de 1932",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Fernando Augusto Branco (continuação)",
+      "lifespan": "1880–1940",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "22 de março de 1932",
+      "end": "11 de junho de 1932",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Luís António de Magalhães Correia (interino)",
+      "lifespan": "1873–1960",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de junho de 1932",
+      "end": "5 de julho de 1932",
+      "governments": "VII Oliveira",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "–",
+      "minister": "Aníbal de Mesquita Guimarães (interino)",
+      "lifespan": "1882–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "5 de julho de 1932",
+      "end": "28 de julho de 1932",
+      "governments": "VIII Oliveira Salazar",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "133",
+      "minister": "César de Sousa Mendes do Amaral e Abranches",
+      "lifespan": "1885–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "28 de julho de 1932",
+      "end": "11 de abril de 1933",
+      "governments": "VIII Oliveira Salazar",
+      "regime": "Ditadura Nacional (1928–1933)"
+    },
+    {
+      "no": "134",
+      "minister": "José Caeiro da Mata",
+      "lifespan": "1877–1963",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de abril de 1933",
+      "end": "7 de junho de 1933",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Aníbal de Mesquita Guimarães (interino)",
+      "lifespan": "1882–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "7 de junho de 1933",
+      "end": "14 de julho de 1933",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "José Caeiro da Mata (continuação)",
+      "lifespan": "1877–1963",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "14 de julho de 1933",
+      "end": "20 de fevereiro de 1934",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Aníbal de Mesquita Guimarães (interino)",
+      "lifespan": "1882–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "20 de fevereiro de 1934",
+      "end": "8 de março de 1934",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "José Caeiro da Mata (continuação)",
+      "lifespan": "1877–1963",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "8 de março de 1934",
+      "end": "5 de setembro de 1934",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Aníbal de Mesquita Guimarães (interino)",
+      "lifespan": "1882–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "5 de setembro de 1934",
+      "end": "4 de outubro de 1934",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "José Caeiro da Mata (continuação)",
+      "lifespan": "1877–1963",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "4 de outubro de 1934",
+      "end": "27 de março de 1935",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "135",
+      "minister": "Aníbal de Mesquita Guimarães (2.ª vez; interino)",
+      "lifespan": "1882–1952",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "27 de março de 1935",
+      "end": "11 de maio de 1935",
+      "governments": "I Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "136",
+      "minister": "Armindo Rodrigues de Sttau Monteiro",
+      "lifespan": "1896–1955",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de maio de 1935",
+      "end": "24 de novembro de 1936",
+      "governments": "I Oliveira Salazar, II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "137",
+      "minister": "António de Oliveira Salazar (interino)",
+      "lifespan": "1889–1970",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de novembro de 1936",
+      "end": "4 de fevereiro de 1947",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "138",
+      "minister": "José Caeiro da Mata (2.ª vez)",
+      "lifespan": "1877–1963",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "4 de fevereiro de 1947",
+      "end": "2 de agosto de 1950",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "139",
+      "minister": "Paulo Arsénio Veríssimo da Cunha",
+      "lifespan": "1908–1986",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "2 de agosto de 1950",
+      "end": "26 de dezembro de 1956",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Marcelo José das Neves Alves Caetano (interino)",
+      "lifespan": "1906–1980",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "26 de dezembro de 1956",
+      "end": "11 de fevereiro de 1957",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Paulo Arsénio Veríssimo da Cunha (continuação)",
+      "lifespan": "1908–1986",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "11 de fevereiro de 1957",
+      "end": "29 de maio de 1957",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Marcelo José das Neves Alves Caetano (interino)",
+      "lifespan": "1906–1980",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "29 de maio de 1957",
+      "end": "27 de junho de 1957",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Paulo Arsénio Veríssimo da Cunha (continuação)",
+      "lifespan": "1908–1986",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "27 de junho de 1957",
+      "end": "14 de agosto de 1958",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "140",
+      "minister": "Marcelo Gonçalves Nunes Duarte Matias",
+      "lifespan": "1903–1999",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "14 de agosto de 1958",
+      "end": "4 de maio de 1961",
+      "governments": "II Oliveira Salazar",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "141",
+      "minister": "Alberto Marciano Gorjão Franco Nogueira",
+      "lifespan": "1918–1993",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "4 de maio de 1961",
+      "end": "6 de outubro de 1969",
+      "governments": "II Oliveira Salazar, III Caetano",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "142",
+      "minister": "Marcelo José das Neves Alves Caetano (interino)",
+      "lifespan": "1906–1980",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de outubro de 1969",
+      "end": "15 de janeiro de 1970",
+      "governments": "III Caetano",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "143",
+      "minister": "Rui Manuel de Medeiros d'Espinay Patrício",
+      "lifespan": "1932–2024",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de janeiro de 1970",
+      "end": "25 de abril de 1974",
+      "governments": "III Caetano",
+      "regime": "Estado Novo (1933–1974)"
+    },
+    {
+      "no": "–",
+      "minister": "Junta de Salvação Nacional composta por: António Sebastião Ribeiro de Spínola (Presidente) Francisco da Costa Gomes Jaime Silvério Marques Manuel Diogo Neto Carlos Galvão de Melo José Baptista Pinheiro de Azevedo António Alva Rosa Coutinho",
+      "lifespan": "",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "25 de abril de 1974",
+      "end": "16 de maio de 1974",
+      "governments": "——",
+      "regime": "Junta de Salvação Nacional (1974)"
+    },
+    {
+      "no": "144",
+      "minister": "Mário Alberto Nobre Lopes Soares",
+      "lifespan": "1924–2017",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "15 de maio de 1974",
+      "end": "26 de março de 1975",
+      "governments": "I Prov. Palma Carlos, II Prov. Gonçalves, III Prov. Gonçalves",
+      "regime": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "no": "145",
+      "minister": "Ernesto Augusto de Melo Antunes",
+      "lifespan": "1933–1999",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "26 de março de 1975",
+      "end": "8 de agosto de 1975",
+      "governments": "IV Prov. Gonçalves",
+      "regime": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "no": "146",
+      "minister": "Mário João de Oliveira Ruivo",
+      "lifespan": "1927–2017",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "8 de agosto de 1975",
+      "end": "19 de setembro de 1975",
+      "governments": "V Prov. Gonçalves",
+      "regime": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "no": "147",
+      "minister": "Ernesto Augusto de Melo Antunes (2.ª vez)",
+      "lifespan": "1933–1999",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "19 de setembro de 1975",
+      "end": "23 de julho de 1976",
+      "governments": "VI Prov. Pinheiro de Azevedo",
+      "regime": "Governos Provisórios (1974–1976)"
+    },
+    {
+      "no": "148",
+      "minister": "José Manuel de Medeiros Ferreira",
+      "lifespan": "1942–2014",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "23 de julho de 1976",
+      "end": "12 de outubro de 1977",
+      "governments": "I Soares",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "149",
+      "minister": "Mário Alberto Nobre Lopes Soares (2.ª vez)",
+      "lifespan": "1924–2017",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de outubro de 1977",
+      "end": "30 de janeiro de 1978",
+      "governments": "I Soares",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "150",
+      "minister": "Victor António Augusto Nunes de Sá Machado",
+      "lifespan": "1933–2002",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "30 de janeiro de 1978",
+      "end": "29 de agosto de 1978",
+      "governments": "II Soares",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "151",
+      "minister": "Carlos Jorge Mendes Corrêa Gago",
+      "lifespan": "1934–2015",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "29 de agosto de 1978",
+      "end": "22 de novembro de 1978",
+      "governments": "III Nobre da Costa",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "152",
+      "minister": "João Carlos Lopes Cardoso de Freitas Cruz",
+      "lifespan": "1925–1984",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "22 de novembro de 1978",
+      "end": "3 de janeiro de 1980",
+      "governments": "IV Mota Pinto, V Pintasilgo",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "153",
+      "minister": "Diogo Pinto de Freitas do Amaral",
+      "lifespan": "1941–2019",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "3 de janeiro de 1980",
+      "end": "9 de janeiro de 1981",
+      "governments": "VI Sá Carneiro (até 4 dez. 1980) Freitas do Amaral (desde 4 dez. 1980) (interino)",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "154",
+      "minister": "André Roberto Delaunay Gonçalves Pereira",
+      "lifespan": "1936–2019",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de janeiro de 1981",
+      "end": "9 de junho de 1982",
+      "governments": "VII Pinto Balsemão, VIII Pinto Balsemão",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "155",
+      "minister": "Vasco Luís Caldeira Coelho Futscher Pereira",
+      "lifespan": "1922–1984",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de junho de 1982",
+      "end": "9 de junho de 1983",
+      "governments": "VIII Pinto Balsemão",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "156",
+      "minister": "Jaime José de Matos da Gama",
+      "lifespan": "1947–",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "9 de junho de 1983",
+      "end": "6 de novembro de 1985",
+      "governments": "IX Soares",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "157",
+      "minister": "Pedro José Rodrigues Pires de Miranda",
+      "lifespan": "1928–2015",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "6 de novembro de 1985",
+      "end": "17 de agosto de 1987",
+      "governments": "X Cavaco Silva",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "158",
+      "minister": "João de Deus Rogado Salvador Pinheiro",
+      "lifespan": "1945–",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "17 de agosto de 1987",
+      "end": "12 de novembro de 1992",
+      "governments": "XI Cavaco Silva, XII Cavaco Silva",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "159",
+      "minister": "José Manuel Durão Barroso",
+      "lifespan": "1956–",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "12 de novembro de 1992",
+      "end": "28 de outubro de 1995",
+      "governments": "XII Cavaco Silva",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "160",
+      "minister": "Jaime José de Matos da Gama (2.ª vez)",
+      "lifespan": "1947–",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "28 de outubro de 1995",
+      "end": "6 de abril de 2002",
+      "governments": "XIII Guterres, XIV Guterres",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "161",
+      "minister": "António Manuel de Mendonça Martins da Cruz",
+      "lifespan": "1946–",
+      "title": "Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas",
+      "start": "6 de abril de 2002",
+      "end": "9 de outubro de 2003",
+      "governments": "XV Durão Barroso",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "162",
+      "minister": "Maria Teresa Pinto Basto [Patrício] [de] Gouveia",
+      "lifespan": "1946–",
+      "title": "Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas",
+      "start": "9 de outubro de 2003",
+      "end": "17 de julho de 2004",
+      "governments": "XV Durão Barroso",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "163",
+      "minister": "António Vítor Martins Monteiro",
+      "lifespan": "1944–",
+      "title": "Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas",
+      "start": "17 de julho de 2004",
+      "end": "12 de março de 2005",
+      "governments": "XVI Santana Lopes",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "164",
+      "minister": "Diogo Pinto de Freitas do Amaral (2.ª vez)",
+      "lifespan": "1941–2019",
+      "title": "Ministro de Estado e dos Negócios Estrangeiros",
+      "start": "12 de março de 2005",
+      "end": "3 de julho de 2006",
+      "governments": "XVII Sócrates",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "165",
+      "minister": "Luís Filipe Marques Amado",
+      "lifespan": "1953–",
+      "title": "Ministro de Estado e dos Negócios Estrangeiros",
+      "start": "3 de julho de 2006",
+      "end": "21 de junho de 2011",
+      "governments": "XVII Sócrates, XVIII Sócrates",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "166",
+      "minister": "Paulo de Sacadura Cabral Portas",
+      "lifespan": "1962–",
+      "title": "Ministro de Estado e dos Negócios Estrangeiros",
+      "start": "21 de junho de 2011",
+      "end": "24 de julho de 2013",
+      "governments": "XIX Passos Coelho",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "167",
+      "minister": "Rui Manuel Parente Chancerelle de Machete",
+      "lifespan": "1940–",
+      "title": "Ministro de Estado e dos Negócios Estrangeiros",
+      "start": "24 de julho de 2013",
+      "end": "26 de novembro de 2015",
+      "governments": "XIX Passos Coelho, XX Passos Coelho",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "168",
+      "minister": "Augusto Ernesto dos Santos Silva",
+      "lifespan": "1956–",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "26 de novembro de 2015",
+      "end": "26 de outubro de 2019",
+      "governments": "XXI Costa",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "–",
+      "minister": "Augusto Ernesto dos Santos Silva (continuação)",
+      "lifespan": "1956–",
+      "title": "Ministro de Estado e dos Negócios Estrangeiros",
+      "start": "26 de outubro de 2019",
+      "end": "28 de março de 2022",
+      "governments": "XXII Costa",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "169",
+      "minister": "António Luís Santos da Costa",
+      "lifespan": "1961–",
+      "title": "Ministro de Estado e dos Negócios Estrangeiros",
+      "start": "28 de março de 2022",
+      "end": "30 de março de 2022",
+      "governments": "XXII Costa",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "170",
+      "minister": "João Titterington Gomes Cravinho",
+      "lifespan": "1964–",
+      "title": "Ministro dos Negócios Estrangeiros",
+      "start": "30 de março de 2022",
+      "end": "2 de abril de 2024",
+      "governments": "XXIII Costa",
+      "regime": "Governos Constitucionais (1976-presente)"
+    },
+    {
+      "no": "171",
+      "minister": "Paulo Artur dos Santos de Castro de Campos Rangel",
+      "lifespan": "1968–",
+      "title": "Ministro de Estado e dos Negócios Estrangeiros",
+      "start": "2 de abril de 2024",
+      "end": "presente",
+      "governments": "XXIV Montenegro, XXV Montenegro",
+      "regime": "Governos Constitucionais (1976-presente)"
+    }
+  ],
+  "meta": {
+    "title": "Ministros dos Negócios Estrangeiros de Portugal - Free Download",
+    "description": "Ministros dos Negócios Estrangeiros de Portugal desde 1828, com datas de nascimento/morte, designação do cargo, início e fim do mandato, governos e regime político. Contains 284 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros dos Negócios Estrangeiros de Portugal | ListBase",
+    "seo_description": "Download Ministros dos Negócios Estrangeiros de Portugal — 284 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 284 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_dos_Negócios_Estrangeiros_de_Portugal"
+    ]
+  }
+}

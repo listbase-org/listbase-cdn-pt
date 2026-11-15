@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-15T02:18:36.048Z",
-  "total_datasets": 566,
-  "total_records": 745370,
+  "generated": "2026-11-15T02:19:11.628Z",
+  "total_datasets": 567,
+  "total_records": 745654,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -4643,6 +4643,35 @@
         "xlsx": {
           "name": "pt-br-presidentes-senado-federal_PT.xlsx",
           "size": 9718
+        }
+      }
+    },
+    {
+      "id": "pt-ministros-negocios-estrangeiros",
+      "name": "Ministros dos Negócios Estrangeiros de Portugal",
+      "category": "politics",
+      "record_count": 284,
+      "columns": [
+        "no",
+        "minister",
+        "lifespan",
+        "title",
+        "start",
+        "end",
+        "governments",
+        "regime"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_dos_Negócios_Estrangeiros_de_Portugal",
+      "updated": "2026-11",
+      "size": 109774,
+      "files": {
+        "csv": {
+          "name": "pt-ministros-negocios-estrangeiros_PT.csv",
+          "size": 65642
+        },
+        "xlsx": {
+          "name": "pt-ministros-negocios-estrangeiros_PT.xlsx",
+          "size": 24068
         }
       }
     },
