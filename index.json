@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-15T02:18:27.485Z",
-  "total_datasets": 565,
-  "total_records": 745203,
+  "generated": "2026-11-15T02:18:36.048Z",
+  "total_datasets": 566,
+  "total_records": 745370,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -4534,6 +4534,32 @@
         "xlsx": {
           "name": "pt-vencedores-festival-rtp-cancao_PT.xlsx",
           "size": 12121
+        }
+      }
+    },
+    {
+      "id": "pt-br-ministros-relacoes-exteriores",
+      "name": "Ministros das Relações Exteriores do Brasil",
+      "category": "politics",
+      "record_count": 167,
+      "columns": [
+        "minister",
+        "start",
+        "end",
+        "head_of_government",
+        "period"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_das_Relações_Exteriores_do_Brasil",
+      "updated": "2026-11",
+      "size": 42954,
+      "files": {
+        "csv": {
+          "name": "pt-br-ministros-relacoes-exteriores_PT.csv",
+          "size": 23187
+        },
+        "xlsx": {
+          "name": "pt-br-ministros-relacoes-exteriores_PT.xlsx",
+          "size": 14168
         }
       }
     },

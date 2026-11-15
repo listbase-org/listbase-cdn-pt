@@ -1,0 +1,1220 @@
+{
+  "id": "pt-br-ministros-relacoes-exteriores",
+  "name": "Ministros das Relações Exteriores do Brasil",
+  "title": "Ministros das Relações Exteriores do Brasil",
+  "description": "Ministros das Relações Exteriores (chanceleres) do Brasil desde 1822, com início e fim do mandato, chefe de governo e período histórico (Império, República Velha, Era Vargas etc.).",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_das_Relações_Exteriores_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_das_Relações_Exteriores_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "head_of_government",
+      "label": "Head Of Government",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "minister": "José Bonifácio de Andrada e Silva",
+      "start": "16 de janeiro de 1822",
+      "end": "16 de julho de 1823",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "José Joaquim Carneiro de Campos (marquês de Caravelas)",
+      "start": "16 de julho de 1823",
+      "end": "10 de novembro de 1823",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Francisco Vilela Barbosa (marquês de Paranaguá)",
+      "start": "10 de novembro de 1823",
+      "end": "14 de novembro de 1823",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Luís José de Carvalho e Melo (visconde da Cachoeira)",
+      "start": "14 de novembro de 1823",
+      "end": "4 de outubro de 1825",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Francisco Vilela Barbosa (marquês de Paranaguá)",
+      "start": "4 de outubro de 1825",
+      "end": "21 de novembro de 1825",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "José Egídio Álvares de Almeida (marquês de Santo Amaro)",
+      "start": "21 de novembro de 1825",
+      "end": "20 de janeiro de 1826",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Antônio Luís Pereira da Cunha (marquês de Inhambupe)",
+      "start": "20 de janeiro de 1826",
+      "end": "15 de janeiro de 1827",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "João Severiano Maciel da Costa (marquês de Queluz)",
+      "start": "15 de janeiro de 1827",
+      "end": "20 de novembro de 1827",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "João Carlos Augusto de Oyenhausen-Gravenburg (marquês de Aracati)",
+      "start": "20 de novembro de 1827",
+      "end": "4 de dezembro de 1829",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Miguel Calmon du Pin e Almeida (marquês de Abrantes)",
+      "start": "4 de dezembro de 1829",
+      "end": "23 de setembro de 1830",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Francisco Vilela Barbosa (marquês de Paranaguá)",
+      "start": "23 de setembro de 1830",
+      "end": "9 de dezembro de 1830",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Francisco Carneiro de Campos",
+      "start": "9 de dezembro de 1830",
+      "end": "19 de março de 1831",
+      "head_of_government": "Dom Pedro I",
+      "period": "Primeiro reinado"
+    },
+    {
+      "minister": "Francisco Carneiro de Campos",
+      "start": "7 de abril de 1831",
+      "end": "16 de julho de 1831",
+      "head_of_government": "Regência Trina Provisória",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Francisco Carneiro de Campos",
+      "start": "16 de julho de 1831",
+      "end": "3 de agosto de 1832",
+      "head_of_government": "Regência Trina Permanente",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Pedro de Araújo Lima (marquês de Olinda)",
+      "start": "3 de agosto de 1832",
+      "end": "13 de setembro de 1832",
+      "head_of_government": "Regência Trina Permanente",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Bento da Silva Lisboa (barão de Cairu)",
+      "start": "13 de setembro de 1832",
+      "end": "21 de fevereiro de 1834",
+      "head_of_government": "Regência Trina Permanente",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Aureliano de Sousa e Oliveira Coutinho (visconde de Sepetiba)",
+      "start": "21 de fevereiro de 1834",
+      "end": "16 de janeiro de 1835",
+      "head_of_government": "Regência Trina Permanente",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Manuel Alves Branco (2.º visconde de Caravelas)",
+      "start": "16 de janeiro de 1835",
+      "end": "5 de fevereiro de 1836",
+      "head_of_government": "Diogo Antônio Feijó",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "José Inácio Borges",
+      "start": "5 de fevereiro de 1836",
+      "end": "3 de junho de 1836",
+      "head_of_government": "Diogo Antônio Feijó",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "start": "3 de junho de 1836",
+      "end": "1 de novembro de 1836",
+      "head_of_government": "Diogo Antônio Feijó",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Gustavo Adolfo de Aguilar Pantoja",
+      "start": "1 de novembro de 1836",
+      "end": "20 de fevereiro de 1837",
+      "head_of_government": "Diogo Antônio Feijó",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "start": "20 de fevereiro de 1837",
+      "end": "16 de maio de 1837",
+      "head_of_government": "Diogo Antônio Feijó",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Francisco Jê Acaiaba de Montezuma (visconde de Jequitinhonha)",
+      "start": "16 de maio de 1837",
+      "end": "19 de setembro de 1837",
+      "head_of_government": "Diogo Antônio Feijó",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Antônio Peregrino Maciel Monteiro (2.º barão de Itamaracá)",
+      "start": "19 de setembro de 1837",
+      "end": "16 de abril de 1839",
+      "head_of_government": "Pedro de Araújo Lima (marquês de Olinda)",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Cândido Batista de Oliveira",
+      "start": "16 de abril de 1839",
+      "end": "1 de setembro de 1839",
+      "head_of_government": "Pedro de Araújo Lima (marquês de Olinda)",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Caetano Maria Lopes Gama (visconde de Maranguape)",
+      "start": "1 de setembro de 1839",
+      "end": "24 de julho de 1840",
+      "head_of_government": "Pedro de Araújo Lima (marquês de Olinda)",
+      "period": "Período regencial"
+    },
+    {
+      "minister": "Aureliano de Sousa e Oliveira Coutinho (visconde de Sepetiba",
+      "start": "24 de julho de 1840",
+      "end": "23 de janeiro de 1843",
+      "head_of_government": "Dom Pedro II",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Honório Hermeto Carneiro Leão (marquês de Paraná)",
+      "start": "23 de janeiro de 1843",
+      "end": "8 de junho de 1843",
+      "head_of_government": "Dom Pedro II",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Paulino José Soares de Sousa (visconde de Uruguai)",
+      "start": "8 de junho de 1843",
+      "end": "2 de fevereiro de 1844",
+      "head_of_government": "Dom Pedro II",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Ernesto Ferreira França",
+      "start": "2 de fevereiro de 1844",
+      "end": "26 de maio de 1845",
+      "head_of_government": "Dom Pedro II",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "start": "26 de maio de 1845",
+      "end": "2 de maio de 1846",
+      "head_of_government": "Dom Pedro II",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Bento da Silva Lisboa (barão de Cairu)",
+      "start": "2 de maio de 1846",
+      "end": "22 de maio de 1847",
+      "head_of_government": "Dom Pedro II",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Saturnino de Sousa e Oliveira Coutinho",
+      "start": "22 de maio de 1847",
+      "end": "29 de janeiro de 1848",
+      "head_of_government": "Manuel Alves Branco (2.º visconde de Caravelas)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Antônio Pimenta Bueno (marquês de São Vicente)",
+      "start": "29 de janeiro de 1848",
+      "end": "8 de março de 1848",
+      "head_of_government": "Manuel Alves Branco (2.º visconde de Caravelas)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "start": "8 de março de 1848",
+      "end": "31 de maio de 1848",
+      "head_of_government": "José Carlos Pereira de Almeida Torres (visconde de Macaé)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Bernardo de Sousa Franco (visconde de Sousa Franco)",
+      "start": "31 de maio de 1848",
+      "end": "29 de setembro de 1848",
+      "head_of_government": "Francisco de Paula Sousa e Melo",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Pedro de Araújo Lima (marquês de Olinda)",
+      "start": "29 de setembro de 1848",
+      "end": "8 de outubro de 1849",
+      "head_of_government": "Pedro de Araújo Lima (marquês de Olinda)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Paulino José Soares de Sousa (visconde de Uruguai)",
+      "start": "8 de outubro de 1849",
+      "end": "11 de maio de 1852",
+      "head_of_government": "José da Costa Carvalho (marquês de Monte Alegre)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Paulino José Soares de Sousa (visconde de Uruguai)",
+      "start": "11 de maio de 1852",
+      "end": "6 de setembro de 1853",
+      "head_of_government": "Joaquim José Rodrigues Torres (visconde de Itaboraí)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "start": "6 de setembro de 1853",
+      "end": "14 de junho de 1855",
+      "head_of_government": "Honório Hermeto Carneiro Leão (marquês do Paraná)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "start": "14 de junho de 1855",
+      "end": "3 de setembro de 1856",
+      "head_of_government": "Honório Hermeto Carneiro Leão (marquês do Paraná)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "start": "3 de setembro de 1856",
+      "end": "4 de maio de 1857",
+      "head_of_government": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Caetano Maria Lopes Gama (visconde de Maranguape)",
+      "start": "4 de maio de 1857",
+      "end": "12 de dezembro de 1858",
+      "head_of_government": "Pedro de Araújo Lima (marquês de Olinda)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "start": "12 de dezembro de 1858",
+      "end": "10 de agosto de 1859",
+      "head_of_government": "Antônio Paulino Limpo de Abreu (visconde de Abaeté)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "start": "10 de agosto de 1859",
+      "end": "2 de março de 1861",
+      "head_of_government": "Ângelo Moniz da Silva Ferraz (barão de Uruguaiana)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "start": "2 de março de 1861",
+      "end": "21 de abril de 1861",
+      "head_of_government": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Antônio Coelho de Sá e Albuquerque",
+      "start": "21 de abril de 1861",
+      "end": "10 de julho de 1861",
+      "head_of_government": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Benevenuto Augusto Magalhães Taques",
+      "start": "10 de julho de 1861",
+      "end": "24 de maio de 1862",
+      "head_of_government": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Carlos Carneiro de Campos (3.º visconde de Caravelas)",
+      "start": "24 de maio de 1862",
+      "end": "30 de maio de 1862",
+      "head_of_government": "Zacarias de Góis e Vasconcelos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Miguel Calmon du Pin e Almeida (marquês de Abrantes)",
+      "start": "30 de maio de 1862",
+      "end": "15 de janeiro de 1864",
+      "head_of_government": "Pedro de Araújo Lima (marquês de Olinda)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Francisco Xavier Pais Barreto",
+      "start": "15 de janeiro de 1864",
+      "end": "9 de março de 1864",
+      "head_of_government": "Zacarias de Góis e Vasconcelos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Pedro Dias Vieira",
+      "start": "9 de março de 1864",
+      "end": "31 de agosto de 1864",
+      "head_of_government": "Zacarias de Góis e Vasconcelos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Carlos Carneiro de Campos (3.º visconde de Caravelas)",
+      "start": "31 de agosto de 1864",
+      "end": "4 de outubro de 1864",
+      "head_of_government": "Francisco José Furtado",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Pedro Dias Vieira",
+      "start": "4 de outubro de 1864",
+      "end": "12 de maio de 1865",
+      "head_of_government": "Francisco José Furtado",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Antônio Saraiva",
+      "start": "12 de maio de 1865",
+      "end": "3 de agosto de 1866",
+      "head_of_government": "Pedro de Araújo Lima (marquês de Olinda)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Martim Francisco Ribeiro de Andrada",
+      "start": "3 de agosto de 1866",
+      "end": "27 de outubro de 1866",
+      "head_of_government": "Zacarias de Góis e Vasconcelos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Antônio Coelho de Sá e Albuquerque",
+      "start": "27 de outubro de 1866",
+      "end": "9 de dezembro de 1867",
+      "head_of_government": "Zacarias de Góis e Vasconcelos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Lustosa da Cunha Paranaguá (2.º marquês de Paranaguá)",
+      "start": "9 de dezembro de 1867",
+      "end": "14 de abril de 1868",
+      "head_of_government": "Zacarias de Góis e Vasconcelos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Silveira de Sousa",
+      "start": "14 de abril de 1868",
+      "end": "16 de julho de 1868",
+      "head_of_government": "Zacarias de Góis e Vasconcelos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "start": "16 de julho de 1868",
+      "end": "29 de setembro de 1870",
+      "head_of_government": "Joaquim José Rodrigues Torres (visconde de Itaboraí)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Antônio Pimenta Bueno (marquês de São Vicente)",
+      "start": "29 de setembro de 1870",
+      "end": "7 de março de 1871",
+      "head_of_government": "José Antônio Pimenta Bueno (marquês de São Vicente)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Manuel Francisco Correia",
+      "start": "7 de março de 1871",
+      "end": "28 de janeiro de 1873",
+      "head_of_government": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Carlos Carneiro de Campos (visconde de Caravelas)",
+      "start": "28 de janeiro de 1873",
+      "end": "25 de junho de 1875",
+      "head_of_government": "José Maria da Silva Paranhos (visconde do Rio Branco)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Maurício Wanderley (barão de Cotegipe)",
+      "start": "25 de junho de 1875",
+      "end": "15 de fevereiro de 1877",
+      "head_of_government": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Diogo Velho Cavalcanti de Albuquerque (visconde de Cavalcanti)",
+      "start": "15 de fevereiro de 1877",
+      "end": "5 de janeiro de 1878",
+      "head_of_government": "Luís Alves de Lima e Silva (duque de Caxias)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Domingos de Sousa Leão (barão de Vila Bela)",
+      "start": "5 de janeiro de 1878",
+      "end": "8 de fevereiro de 1879",
+      "head_of_government": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "start": "8 de fevereiro de 1879",
+      "end": "4 de junho de 1879",
+      "head_of_government": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Antônio Moreira de Barros",
+      "start": "4 de junho de 1879",
+      "end": "28 de março de 1880",
+      "head_of_government": "João Lins Vieira Cansanção de Sinimbu (visconde de Sinimbu)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Pedro Luís Pereira de Sousa",
+      "start": "28 de março de 1880",
+      "end": "3 de novembro de 1881",
+      "head_of_government": "José Antônio Saraiva",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Franklin Dória (barão de Loreto)",
+      "start": "3 de novembro de 1881",
+      "end": "21 de janeiro de 1882",
+      "head_of_government": "José Antônio Saraiva",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Filipe Franco de Sá",
+      "start": "21 de janeiro de 1882",
+      "end": "3 de julho de 1882",
+      "head_of_government": "Martinho Álvares da Silva Campos",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Lourenço Cavalcanti de Albuquerque",
+      "start": "3 de julho de 1882",
+      "end": "24 de maio de 1883",
+      "head_of_government": "João Lustosa da Cunha Paranaguá (2.º marquês de Paranaguá)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Francisco de Carvalho Soares Brandão",
+      "start": "24 de maio de 1883",
+      "end": "6 de junho de 1884",
+      "head_of_government": "Lafayette Rodrigues Pereira",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João da Mata Machado",
+      "start": "6 de junho de 1884",
+      "end": "22 de dezembro de 1884",
+      "head_of_government": "Sousa Dantas",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Sousa Dantas",
+      "start": "22 de dezembro de 1884",
+      "end": "6 de maio de 1885",
+      "head_of_government": "Sousa Dantas",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Lustosa da Cunha Paranaguá (2.º marquês de Paranaguá)",
+      "start": "6 de maio de 1885",
+      "end": "20 de agosto de 1885",
+      "head_of_government": "José Antônio Saraiva",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "João Maurício Wanderley (barão de Cotegipe)",
+      "start": "20 de agosto de 1885",
+      "end": "10 de março de 1888",
+      "head_of_government": "João Maurício Wanderley (barão de Cotegipe)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Antônio da Silva Prado",
+      "start": "10 de março de 1888",
+      "end": "27 de junho de 1888",
+      "head_of_government": "João Alfredo Correia de Oliveira",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Rodrigo Augusto da Silva",
+      "start": "27 de junho de 1888",
+      "end": "7 de junho de 1889",
+      "head_of_government": "João Alfredo Correia de Oliveira",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "José Francisco Diana",
+      "start": "7 de junho de 1889",
+      "end": "15 de novembro de 1889",
+      "head_of_government": "Afonso Celso de Assis Figueiredo (visconde de Ouro preto)",
+      "period": "Segundo reinado"
+    },
+    {
+      "minister": "Quintino Bocaiuva",
+      "start": "15 de novembro de 1889",
+      "end": "23 de janeiro de 1891",
+      "head_of_government": "Deodoro da Fonseca",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Justo Chermont",
+      "start": "26 de fevereiro de 1891",
+      "end": "23 de novembro de 1891",
+      "head_of_government": "Deodoro da Fonseca",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Fernando Lobo Leite Pereira",
+      "start": "30 de novembro de 1891",
+      "end": "12 de fevereiro de 1892",
+      "head_of_government": "Floriano Peixoto",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Serzedelo Correia",
+      "start": "12 de fevereiro de 1892",
+      "end": "22 de junho de 1892",
+      "head_of_government": "Floriano Peixoto",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Custódio de Melo (interino)",
+      "start": "22 de junho de 1892",
+      "end": "11 de dezembro de 1892",
+      "head_of_government": "Floriano Peixoto",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Antônio Francisco de Paula Sousa",
+      "start": "11 de dezembro de 1892",
+      "end": "22 de abril de 1893",
+      "head_of_government": "Floriano Peixoto",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Felisbelo Firmo de Oliveira Freire",
+      "start": "22 de abril de 1893",
+      "end": "30 de junho de 1893",
+      "head_of_government": "Floriano Peixoto",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "João Filipe Pereira",
+      "start": "30 de junho de 1893",
+      "end": "7 de outubro de 1893",
+      "head_of_government": "Floriano Peixoto",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Alexandre Cassiano do Nascimento",
+      "start": "27 de outubro de 1893",
+      "end": "15 de novembro de 1894",
+      "head_of_government": "Floriano Peixoto",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Carlos Augusto de Carvalho",
+      "start": "15 de novembro de 1894",
+      "end": "1 de setembro de 1896",
+      "head_of_government": "Prudente de Morais",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Dionísio Cerqueira",
+      "start": "1 de setembro de 1896",
+      "end": "15 de novembro de 1898",
+      "head_of_government": "Prudente de Morais",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Olinto de Magalhães",
+      "start": "15 de novembro de 1898",
+      "end": "15 de novembro de 1902",
+      "head_of_government": "Campos Sales",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "J. J. Seabra (interino)",
+      "start": "15 de novembro de 1902",
+      "end": "3 de dezembro de 1902",
+      "head_of_government": "Rodrigues Alves",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos Júnior (barão do Rio Branco)",
+      "start": "3 de dezembro de 1902",
+      "end": "15 de novembro de 1906",
+      "head_of_government": "Rodrigues Alves",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos Júnior (barão do Rio Branco)",
+      "start": "15 de novembro de 1906",
+      "end": "14 de junho de 1909",
+      "head_of_government": "Afonso Pena",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos Júnior (barão do Rio Branco)",
+      "start": "14 de junho de 1909",
+      "end": "15 de novembro de 1910",
+      "head_of_government": "Nilo Peçanha",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "José Maria da Silva Paranhos Júnior (barão do Rio Branco)",
+      "start": "15 de novembro de 1910",
+      "end": "10 de fevereiro de 1912",
+      "head_of_government": "Hermes da Fonseca",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Eneias Martins (interino)",
+      "start": "10 de fevereiro de 1912",
+      "end": "14 de fevereiro de 1912",
+      "head_of_government": "Hermes da Fonseca",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Lauro Müller",
+      "start": "14 de fevereiro de 1912",
+      "end": "15 de novembro de 1914",
+      "head_of_government": "Hermes da Fonseca",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Lauro Müller",
+      "start": "15 de novembro de 1914",
+      "end": "7 de maio de 1917",
+      "head_of_government": "Venceslau Brás",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Nilo Peçanha",
+      "start": "7 de maio de 1917",
+      "end": "15 de novembro de 1918",
+      "head_of_government": "Venceslau Brás",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Domício da Gama",
+      "start": "15 de novembro de 1918",
+      "end": "28 de julho de 1919",
+      "head_of_government": "Delfim Moreira",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Augusto Cochrane de Alencar (interino)",
+      "start": "28 de julho de 1919",
+      "end": "29 de julho de 1919",
+      "head_of_government": "Epitácio Pessoa",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "José Manuel de Azevedo Marques",
+      "start": "29 de julho de 1919",
+      "end": "15 de novembro de 1922",
+      "head_of_government": "Epitácio Pessoa",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Félix Pacheco",
+      "start": "15 de novembro de 1922",
+      "end": "15 de novembro de 1926",
+      "head_of_government": "Artur Bernardes",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Otávio Mangabeira",
+      "start": "15 de novembro de 1926",
+      "end": "24 de outubro de 1930",
+      "head_of_government": "Washington Luís",
+      "period": "República Velha (1.ª República)"
+    },
+    {
+      "minister": "Afrânio de Melo Franco",
+      "start": "24 de outubro de 1930",
+      "end": "3 de novembro de 1930",
+      "head_of_government": "Junta Governativa Provisória de 1930",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Afrânio de Melo Franco",
+      "start": "3 de novembro de 1930",
+      "end": "28 de dezembro de 1933",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Félix de Barros Cavalcanti de Lacerda",
+      "start": "28 de dezembro de 1933",
+      "end": "26 de julho de 1934",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "José Carlos de Macedo Soares",
+      "start": "26 de julho de 1934",
+      "end": "1 de novembro de 1936",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Mário de Pimentel Brandão",
+      "start": "1 de novembro de 1936",
+      "end": "10 de novembro de 1937",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Mário de Pimentel Brandão",
+      "start": "10 de novembro de 1937",
+      "end": "15 de março de 1938",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Osvaldo Aranha",
+      "start": "15 de março de 1938",
+      "end": "23 de agosto de 1944",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Pedro Leão Veloso (interino)",
+      "start": "24 de agosto de 1944",
+      "end": "20 de fevereiro de 1945",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "José Carlos de Macedo Soares (interino)",
+      "start": "20 de fevereiro de 1945",
+      "end": "19 de março de 1945",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Pedro Leão Veloso (interino)",
+      "start": "19 de março de 1945",
+      "end": "15 de abril de 1945",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "José Carlos de Macedo Soares (interino)",
+      "start": "15 de abril de 1945",
+      "end": "6 de julho de 1945",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Pedro Leão Veloso (interino)",
+      "start": "6 de julho de 1945",
+      "end": "30 de outubro de 1945",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "Pedro Leão Veloso",
+      "start": "31 de outubro de 1945",
+      "end": "30 de janeiro de 1946",
+      "head_of_government": "José Linhares",
+      "period": "Era Vargas (2.ª e 3.ª Repúblicas)"
+    },
+    {
+      "minister": "João Neves da Fontoura",
+      "start": "31 de janeiro de 1946",
+      "end": "24 de julho de 1946",
+      "head_of_government": "Eurico Gaspar Dutra",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Samuel de Sousa Leão Gracie (interino)",
+      "start": "25 de julho de 1946",
+      "end": "12 de dezembro de 1946",
+      "head_of_government": "Eurico Gaspar Dutra",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Raul Fernandes",
+      "start": "12 de dezembro de 1946",
+      "end": "31 de janeiro de 1951",
+      "head_of_government": "Eurico Gaspar Dutra",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "João Neves da Fontoura",
+      "start": "31 de janeiro de 1951",
+      "end": "19 de junho de 1953",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Mário de Pimentel Brandão (interino)",
+      "start": "19 de junho de 1953",
+      "end": "2 de julho de 1953",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Vicente Rao",
+      "start": "3 de julho de 1953",
+      "end": "24 de agosto de 1954",
+      "head_of_government": "Getúlio Vargas",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Raul Fernandes",
+      "start": "26 de agosto de 1954",
+      "end": "11 de novembro de 1955",
+      "head_of_government": "Café Filho",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "José Carlos de Macedo Soares",
+      "start": "12 de novembro de 1955",
+      "end": "31 de janeiro de 1956",
+      "head_of_government": "Nereu Ramos",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "José Carlos de Macedo Soares",
+      "start": "31 de janeiro de 1956",
+      "end": "4 de julho de 1958",
+      "head_of_government": "Juscelino Kubitschek",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Negrão de Lima",
+      "start": "4 de julho de 1958",
+      "end": "30 de agosto de 1959",
+      "head_of_government": "Juscelino Kubitschek",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Horácio Lafer",
+      "start": "30 de agosto de 1959",
+      "end": "31 de janeiro de 1961",
+      "head_of_government": "Juscelino Kubitschek",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Afonso Arinos de Melo Franco",
+      "start": "31 de janeiro de 1961",
+      "end": "25 de agosto de 1961",
+      "head_of_government": "Jânio Quadros",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Não houve nomeação para o cargo no período",
+      "start": "25 de agosto de 1961",
+      "end": "7 de setembro de 1961",
+      "head_of_government": "Ranieri Mazzilli",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "San Tiago Dantas",
+      "start": "8 de setembro de 1961",
+      "end": "12 de julho de 1962",
+      "head_of_government": "João Goulart (parlamentarismo)",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Afonso Arinos de Melo Franco",
+      "start": "12 de julho de 1962",
+      "end": "18 de setembro de 1962",
+      "head_of_government": "João Goulart (parlamentarismo)",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Hermes Lima",
+      "start": "18 de setembro de 1962",
+      "end": "24 de janeiro de 1963",
+      "head_of_government": "João Goulart (parlamentarismo)",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Hermes Lima",
+      "start": "24 de janeiro de 1963",
+      "end": "18 de junho de 1963",
+      "head_of_government": "João Goulart (presidencialismo)",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Evandro Lins e Silva",
+      "start": "18 de junho de 1963",
+      "end": "22 de agosto de 1963",
+      "head_of_government": "João Goulart (presidencialismo)",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "João Augusto de Araújo Castro",
+      "start": "22 de agosto de 1963",
+      "end": "31 de março de 1964",
+      "head_of_government": "João Goulart (presidencialismo)",
+      "period": "Período Populista (4.ª República)"
+    },
+    {
+      "minister": "Vasco Leitão da Cunha",
+      "start": "4 de abril de 1964",
+      "end": "15 de abril de 1964",
+      "head_of_government": "Ranieri Mazzilli",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Vasco Leitão da Cunha",
+      "start": "15 de abril de 1964",
+      "end": "17 de janeiro de 1966",
+      "head_of_government": "Castelo Branco",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Juracy Magalhães",
+      "start": "17 de janeiro de 1966",
+      "end": "15 de março de 1967",
+      "head_of_government": "Castelo Branco",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Magalhães Pinto",
+      "start": "15 de março de 1967",
+      "end": "31 de agosto de 1969",
+      "head_of_government": "Costa e Silva",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Magalhães Pinto",
+      "start": "31 de agosto de 1969",
+      "end": "30 de outubro de 1969",
+      "head_of_government": "Junta militar brasileira de 1969",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Mário Gibson Barbosa",
+      "start": "31 de outubro de 1969",
+      "end": "15 de março de 1974",
+      "head_of_government": "Emílio Médici",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Azeredo da Silveira",
+      "start": "15 de março de 1974",
+      "end": "15 de março de 1979",
+      "head_of_government": "Ernesto Geisel",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Ramiro Saraiva Guerreiro",
+      "start": "15 de março de 1979",
+      "end": "15 de março de 1985",
+      "head_of_government": "João Figueiredo",
+      "period": "Ditadura militar (5.ª República)"
+    },
+    {
+      "minister": "Olavo Setúbal",
+      "start": "15 de março de 1985",
+      "end": "14 de fevereiro de 1986",
+      "head_of_government": "José Sarney",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Abreu Sodré",
+      "start": "14 de fevereiro de 1986",
+      "end": "15 de março de 1990",
+      "head_of_government": "José Sarney",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Francisco Rezek",
+      "start": "15 de março de 1990",
+      "end": "13 de abril de 1992",
+      "head_of_government": "Fernando Collor",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Celso Lafer",
+      "start": "13 de abril de 1992",
+      "end": "2 de outubro de 1992",
+      "head_of_government": "Fernando Collor",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Fernando Henrique Cardoso",
+      "start": "5 de outubro de 1992",
+      "end": "20 de maio de 1993",
+      "head_of_government": "Itamar Franco",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Luiz Felipe Lampreia (interino)",
+      "start": "20 de maio de 1993",
+      "end": "20 de julho de 1993",
+      "head_of_government": "Itamar Franco",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Celso Amorim",
+      "start": "20 de julho de 1993",
+      "end": "1 de janeiro de 1995",
+      "head_of_government": "Itamar Franco",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Luiz Felipe Lampreia",
+      "start": "1 de janeiro de 1995",
+      "end": "12 de janeiro de 2001",
+      "head_of_government": "Fernando Henrique Cardoso",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Luiz Felipe de Seixas Corrêa (interino)",
+      "start": "12 de janeiro de 2001",
+      "end": "29 de janeiro de 2001",
+      "head_of_government": "Fernando Henrique Cardoso",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Celso Lafer",
+      "start": "29 de janeiro de 2001",
+      "end": "1 de janeiro de 2003",
+      "head_of_government": "Fernando Henrique Cardoso",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Celso Amorim",
+      "start": "1 de janeiro de 2003",
+      "end": "31 de dezembro de 2010",
+      "head_of_government": "Luiz Inácio Lula da Silva",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Antonio Patriota",
+      "start": "1 de janeiro de 2011",
+      "end": "26 de agosto de 2013",
+      "head_of_government": "Dilma Rousseff",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Eduardo dos Santos (interino)",
+      "start": "26 de agosto de 2013",
+      "end": "28 de agosto de 2013",
+      "head_of_government": "Dilma Rousseff",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Luiz Alberto Figueiredo",
+      "start": "28 de agosto de 2013",
+      "end": "1º de janeiro de 2015",
+      "head_of_government": "Dilma Rousseff",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Mauro Vieira",
+      "start": "1º de janeiro de 2015",
+      "end": "12 de maio de 2016",
+      "head_of_government": "Dilma Rousseff",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "José Serra",
+      "start": "12 de maio de 2016",
+      "end": "22 de fevereiro de 2017",
+      "head_of_government": "Michel Temer",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Marcos Bezerra Abbott Galvão (interino)",
+      "start": "22 de fevereiro de 2017",
+      "end": "7 de março de 2017",
+      "head_of_government": "Michel Temer",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Aloysio Nunes",
+      "start": "7 de março de 2017",
+      "end": "31 de dezembro de 2018",
+      "head_of_government": "Michel Temer",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Ernesto Araújo",
+      "start": "1 de janeiro de 2019",
+      "end": "29 de março de 2021",
+      "head_of_government": "Jair Bolsonaro",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Carlos França",
+      "start": "6 de abril de 2021",
+      "end": "31 de dezembro de 2022",
+      "head_of_government": "Jair Bolsonaro",
+      "period": "Nova República (6ª República)"
+    },
+    {
+      "minister": "Mauro Vieira",
+      "start": "1 de janeiro de 2023",
+      "end": "—",
+      "head_of_government": "Luiz Inácio Lula da Silva",
+      "period": "Nova República (6ª República)"
+    }
+  ],
+  "meta": {
+    "title": "Ministros das Relações Exteriores do Brasil - Free Download",
+    "description": "Ministros das Relações Exteriores (chanceleres) do Brasil desde 1822, com início e fim do mandato, chefe de governo e período histórico (Império, República Velha, Era Vargas etc.). Contains 167 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros das Relações Exteriores do Brasil | ListBase",
+    "seo_description": "Download Ministros das Relações Exteriores do Brasil — 167 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 167 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_das_Relações_Exteriores_do_Brasil"
+    ]
+  }
+}
