@@ -1,0 +1,296 @@
+{
+  "id": "pt-br-ministros-meio-ambiente",
+  "name": "Ministros do Meio Ambiente do Brasil",
+  "title": "Ministros do Meio Ambiente do Brasil",
+  "description": "Titulares da pasta do meio ambiente no Brasil desde a Secretaria Especial do Meio Ambiente (1974) até o Ministério do Meio Ambiente e Mudança do Clima, com órgão, mandato e presidente.",
+  "category": "environment",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_do_Meio_Ambiente_e_Mudança_do_Clima_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_ministros_do_Meio_Ambiente_e_Mudança_do_Clima_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "body",
+      "label": "Body",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "president",
+      "label": "President",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "minister": "Paulo Nogueira Neto",
+      "body": "Secretaria Especial do Meio Ambiente (Ministério do Interior)",
+      "start": "14 de janeiro de 1974",
+      "end": "15 de março de 1974",
+      "president": "Emílio Garrastazu Médici"
+    },
+    {
+      "no": 1,
+      "minister": "Paulo Nogueira Neto",
+      "body": "Secretaria Especial do Meio Ambiente (Ministério do Interior)",
+      "start": "15 de março de 1974",
+      "end": "15 de março de 1979",
+      "president": "Ernesto Geisel"
+    },
+    {
+      "no": 1,
+      "minister": "Paulo Nogueira Neto",
+      "body": "Secretaria Especial do Meio Ambiente (Ministério do Interior)",
+      "start": "15 de março de 1979",
+      "end": "15 de março de 1985",
+      "president": "João Figueiredo"
+    },
+    {
+      "no": 2,
+      "minister": "Flávio Rios Peixoto da Silveira",
+      "body": "Ministério do Desenvolvimento Urbano e Meio Ambiente",
+      "start": "15 de março de 1985",
+      "end": "14 de fevereiro de 1986",
+      "president": "José Sarney"
+    },
+    {
+      "no": 3,
+      "minister": "Deni Lineu Schwartz",
+      "body": "Ministério do Desenvolvimento Urbano e Meio Ambiente",
+      "start": "14 de fevereiro de 1986",
+      "end": "23 de outubro de 1987",
+      "president": "José Sarney"
+    },
+    {
+      "no": 4,
+      "minister": "Prisco Viana",
+      "body": "Ministério da Habitação, Urbanismo e Meio Ambiente",
+      "start": "23 de outubro de 1987",
+      "end": "5 de setembro de 1988",
+      "president": "José Sarney"
+    },
+    {
+      "no": "—",
+      "minister": "Paulo Nogueira Neto",
+      "body": "Secretaria Especial do Meio Ambiente",
+      "start": "15 de março de 1985",
+      "end": "16 de julho de 1986",
+      "president": "José Sarney"
+    },
+    {
+      "no": "—",
+      "minister": "Roberto Messias Franco",
+      "body": "Secretaria Especial do Meio Ambiente",
+      "start": "16 de julho de 1986",
+      "end": "22 de setembro de 1988",
+      "president": "José Sarney"
+    },
+    {
+      "no": "—",
+      "minister": "Ben-hur Luttembarck Batalha (interino)",
+      "body": "Secretaria Especial do Meio Ambiente",
+      "start": "22 de setembro de 1988",
+      "end": "14 de fevereiro de 1989",
+      "president": "José Sarney"
+    },
+    {
+      "no": 5,
+      "minister": "José Lutzenberger",
+      "body": "Secretaria do Meio Ambiente da Presidência da República",
+      "start": "15 de março de 1990",
+      "end": "23 de março de 1992",
+      "president": "Fernando Collor"
+    },
+    {
+      "no": "—",
+      "minister": "José Goldemberg (interino)",
+      "body": "Secretaria do Meio Ambiente da Presidência da República",
+      "start": "23 de março de 1992",
+      "end": "14 de julho de 1992",
+      "president": "Fernando Collor"
+    },
+    {
+      "no": 6,
+      "minister": "Flávio Miragaia Perri",
+      "body": "Secretaria do Meio Ambiente da Presidência da República",
+      "start": "14 de julho de 1992",
+      "end": "2 de outubro de 1992",
+      "president": "Fernando Collor"
+    },
+    {
+      "no": 7,
+      "minister": "Fernando Coutinho Jorge",
+      "body": "Ministério do Meio Ambiente",
+      "start": "19 de outubro de 1992",
+      "end": "16 de setembro de 1993",
+      "president": "Itamar Franco"
+    },
+    {
+      "no": 8,
+      "minister": "Rubens Ricupero",
+      "body": "Ministério do Meio Ambiente e da Amazônia Legal",
+      "start": "16 de setembro de 1993",
+      "end": "5 de abril de 1994",
+      "president": "Itamar Franco"
+    },
+    {
+      "no": "—",
+      "minister": "Henrique Brandão Cavalcanti (interino)",
+      "body": "Ministério do Meio Ambiente e da Amazônia Legal",
+      "start": "5 de abril de 1994",
+      "end": "1 de janeiro de 1995",
+      "president": "Itamar Franco"
+    },
+    {
+      "no": 9,
+      "minister": "Gustavo Krause",
+      "body": "Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal",
+      "start": "1 de janeiro de 1995",
+      "end": "1 de janeiro de 1999",
+      "president": "Fernando Henrique Cardoso"
+    },
+    {
+      "no": 10,
+      "minister": "Sarney Filho",
+      "body": "Ministério do Meio Ambiente",
+      "start": "1 de janeiro de 1999",
+      "end": "5 de março de 2002",
+      "president": "Fernando Henrique Cardoso"
+    },
+    {
+      "no": 11,
+      "minister": "José Carlos Carvalho",
+      "body": "Ministério do Meio Ambiente",
+      "start": "5 de março de 2002",
+      "end": "1 de janeiro de 2003",
+      "president": "Fernando Henrique Cardoso"
+    },
+    {
+      "no": 12,
+      "minister": "Marina Silva",
+      "body": "Ministério do Meio Ambiente",
+      "start": "1 de janeiro de 2003",
+      "end": "1 de fevereiro de 2003",
+      "president": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "no": "—",
+      "minister": "Cláudio Roberto Bertoldo Langone (interino)",
+      "body": "Ministério do Meio Ambiente",
+      "start": "1 de fevereiro de 2003",
+      "end": "2 de fevereiro de 2003",
+      "president": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "no": 13,
+      "minister": "Marina Silva",
+      "body": "Ministério do Meio Ambiente",
+      "start": "2 de fevereiro de 2003",
+      "end": "15 de maio de 2008",
+      "president": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "no": 14,
+      "minister": "Carlos Minc",
+      "body": "Ministério do Meio Ambiente",
+      "start": "27 de maio de 2008",
+      "end": "1 de abril de 2010",
+      "president": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "no": 15,
+      "minister": "Izabella Teixeira",
+      "body": "Ministério do Meio Ambiente",
+      "start": "1 de abril de 2010",
+      "end": "1 de janeiro de 2011",
+      "president": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "no": 15,
+      "minister": "Izabella Teixeira",
+      "body": "Ministério do Meio Ambiente",
+      "start": "1 de janeiro de 2011",
+      "end": "12 de maio de 2016",
+      "president": "Dilma Rousseff"
+    },
+    {
+      "no": 16,
+      "minister": "Sarney Filho",
+      "body": "Ministério do Meio Ambiente",
+      "start": "12 de maio de 2016",
+      "end": "6 de abril de 2018",
+      "president": "Michel Temer"
+    },
+    {
+      "no": "—",
+      "minister": "Edson Duarte (interino)",
+      "body": "Ministério do Meio Ambiente",
+      "start": "6 de abril de 2018",
+      "end": "1 de janeiro de 2019",
+      "president": "Michel Temer"
+    },
+    {
+      "no": 17,
+      "minister": "Ricardo Salles",
+      "body": "Ministério do Meio Ambiente",
+      "start": "1 de janeiro de 2019",
+      "end": "23 de junho de 2021",
+      "president": "Jair Bolsonaro"
+    },
+    {
+      "no": 18,
+      "minister": "Joaquim Alvaro Pereira Leite",
+      "body": "Ministério do Meio Ambiente",
+      "start": "23 de junho de 2021",
+      "end": "31 de dezembro de 2022",
+      "president": "Jair Bolsonaro"
+    },
+    {
+      "no": 19,
+      "minister": "Marina Silva",
+      "body": "Ministério do Meio Ambiente e Mudança do Clima",
+      "start": "1 de janeiro de 2023",
+      "end": "31 de março de 2026",
+      "president": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "no": 20,
+      "minister": "João Paulo Capobianco",
+      "body": "Ministério do Meio Ambiente e Mudança do Clima",
+      "start": "1 de abril de 2026",
+      "end": "—",
+      "president": "Luiz Inácio Lula da Silva"
+    }
+  ],
+  "meta": {
+    "title": "Ministros do Meio Ambiente do Brasil - Free Download",
+    "description": "Titulares da pasta do meio ambiente no Brasil desde a Secretaria Especial do Meio Ambiente (1974) até o Ministério do Meio Ambiente e Mudança do Clima, com órgão, mandato e presidente. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros do Meio Ambiente do Brasil | ListBase",
+    "seo_description": "Download Ministros do Meio Ambiente do Brasil — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_ministros_do_Meio_Ambiente_e_Mudança_do_Clima_do_Brasil"
+    ]
+  }
+}

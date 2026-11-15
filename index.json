@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-14T02:16:46.406Z",
-  "total_datasets": 564,
-  "total_records": 745173,
+  "generated": "2026-11-15T02:18:27.485Z",
+  "total_datasets": 565,
+  "total_records": 745203,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1771,6 +1771,33 @@
         "xlsx": {
           "name": "pt-areas-protegidas-portugal_PT.xlsx",
           "size": 18372
+        }
+      }
+    },
+    {
+      "id": "pt-br-ministros-meio-ambiente",
+      "name": "Ministros do Meio Ambiente do Brasil",
+      "category": "environment",
+      "record_count": 30,
+      "columns": [
+        "no",
+        "minister",
+        "body",
+        "start",
+        "end",
+        "president"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_ministros_do_Meio_Ambiente_e_Mudança_do_Clima_do_Brasil",
+      "updated": "2026-11",
+      "size": 9403,
+      "files": {
+        "csv": {
+          "name": "pt-br-ministros-meio-ambiente_PT.csv",
+          "size": 4236
+        },
+        "xlsx": {
+          "name": "pt-br-ministros-meio-ambiente_PT.xlsx",
+          "size": 8451
         }
       }
     },
