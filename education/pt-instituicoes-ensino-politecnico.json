@@ -1,0 +1,772 @@
+{
+  "id": "pt-instituicoes-ensino-politecnico",
+  "name": "Instituições de ensino superior politécnico em Portugal",
+  "title": "Instituições de ensino superior politécnico em Portugal",
+  "description": "Universidades e institutos politécnicos, escolas politécnicas não integradas e escolas politécnicas integradas em universidades em Portugal, com sede, região, ano de fundação e titularidade.",
+  "category": "education",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_instituições_politécnicas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_instituições_politécnicas_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "parent_university",
+      "label": "Parent University",
+      "type": "string"
+    },
+    {
+      "key": "seat",
+      "label": "Seat",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "ownership",
+      "label": "Ownership",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Universidade Politécnica de Beja",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Beja",
+      "region": "Baixo Alentejo",
+      "founded": 1979,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Bragança",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Bragança e Mirandela",
+      "region": "Trás-os-Montes",
+      "founded": 1983,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Castelo Branco",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Castelo Branco",
+      "region": "Beira Baixa",
+      "founded": 1982,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica do Cávado e do Ave",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Barcelos",
+      "region": "Minho",
+      "founded": 1994,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Coimbra",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Coimbra",
+      "region": "Beira Litoral",
+      "founded": 1979,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica da Guarda",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Guarda",
+      "region": "Beira Alta",
+      "founded": 1980,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Lisboa",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 1985,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Portalegre",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Portalegre",
+      "region": "Alto Alentejo",
+      "founded": 1980,
+      "ownership": ""
+    },
+    {
+      "name": "Universidade Politécnica de Santarém",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Santarém",
+      "region": "Ribatejo",
+      "founded": 1979,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Setúbal",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Setúbal",
+      "region": "Estremadura",
+      "founded": 1979,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Tomar",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Tomar",
+      "region": "Ribatejo",
+      "founded": 1996,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Viana do Castelo",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Viana do Castelo",
+      "region": "Minho",
+      "founded": 1980,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Universidade Politécnica de Viseu",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Viseu",
+      "region": "Beira Alta",
+      "founded": 1979,
+      "ownership": "Pública"
+    },
+    {
+      "name": "CESPU - Instituto Politécnico de Saúde do Norte",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Paredes",
+      "region": "Douro Litoral",
+      "founded": 1999,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Politécnico da Lusofonia",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 2019,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Politécnico da Maia",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Maia",
+      "region": "Douro Litoral",
+      "founded": 2015,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Politécnico Jean Piaget do Norte",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Vila Nova de Gaia",
+      "region": "Douro Litoral",
+      "founded": 2021,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Politécnico Jean Piaget do Sul",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Almada",
+      "region": "Estremadura",
+      "founded": 2019,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior Politécnico Gaya",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Vila Nova de Gaia",
+      "region": "Douro Litoral",
+      "founded": 1990,
+      "ownership": "Privada"
+    },
+    {
+      "name": "ISLA - Instituto Politécnico de Gestão e Tecnologia",
+      "type": "Universidade/Instituto politécnico",
+      "parent_university": "",
+      "seat": "Vila Nova de Gaia",
+      "region": "Douro Litoral",
+      "founded": 1989,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Enfermagem de Coimbra",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Coimbra",
+      "region": "Beira Litoral",
+      "founded": "",
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Enfermagem de Lisboa",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 1901,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Enfermagem do Porto",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 1991,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Hotelaria e Turismo do Estoril",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Cascais",
+      "region": "Estremadura",
+      "founded": "",
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior Náutica Infante D. Henrique",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Oeiras",
+      "region": "Estremadura",
+      "founded": "",
+      "ownership": "Pública"
+    },
+    {
+      "name": "Academia Nacional Superior de Orquestra",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 1993,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Artes e Design",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Matosinhos",
+      "region": "Douro Litoral",
+      "founded": 1989,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Educação de Fafe",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Fafe",
+      "region": "Minho",
+      "founded": 1988,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Educação de João de Deus",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 1988,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Educação de Paula Frassinetti",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 1963,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Educadores de Infância Maria Ulrich",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 1954,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Enfermagem Cruz Vermelha Portuguesa - Alto Tâmega",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Chaves",
+      "region": "Trás-os-Montes",
+      "founded": 1993,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Enfermagem S. Francisco das Misericórdias",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 1950,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Enfermagem São José de Cluny",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Funchal",
+      "region": "Madeira",
+      "founded": 1940,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Negócios Atlântico",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Vila Nova de Gaia",
+      "region": "Douro Litoral",
+      "founded": 1990,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde Atlântica",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Oeiras",
+      "region": "Estremadura",
+      "founded": 2001,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde da Fundação «Fernando Pessoa»",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 2020,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde do Alcoitão",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Cascais",
+      "region": "Estremadura",
+      "founded": 1966,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 1917,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde de Santa Maria",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 1991,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde Egas Moniz",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Almada",
+      "region": "Estremadura",
+      "founded": "",
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Vila Nova de Gaia",
+      "region": "Douro Litoral",
+      "founded": "",
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde Jean Piaget de Viseu",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Viseu",
+      "region": "Beira Alta",
+      "founded": "",
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Oliveira de Azeméis",
+      "region": "Beira Litoral",
+      "founded": "",
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Tecnologias de Fafe",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Fafe",
+      "region": "Minho",
+      "founded": 1993,
+      "ownership": "Privada"
+    },
+    {
+      "name": "ISAVE - Instituto Superior de Saúde",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Póvoa de Lanhoso",
+      "region": "Minho",
+      "founded": 1999,
+      "ownership": "Privada"
+    },
+    {
+      "name": "ISCE - Instituto Superior de Lisboa e Vale do Tejo",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Odivelas",
+      "region": "Estremadura",
+      "founded": 1984,
+      "ownership": "Privada"
+    },
+    {
+      "name": "ISEC Lisboa - Instituto Superior de Educação e Ciências",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": "",
+      "ownership": "Privada"
+    },
+    {
+      "name": "ISLA - Instituto Superior de Gestão e Administração de Santarém",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Santarém",
+      "region": "Ribatejo",
+      "founded": 2013,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Português de Administração de Marketing de Lisboa",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": "",
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Português de Administração de Marketing do Porto",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 1990,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Administração e Gestão",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 2007,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Ciências Educativas do Douro",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Penafiel",
+      "region": "Douro Litoral",
+      "founded": 2015,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Ciências Empresariais e do Turismo",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 2009,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Ciências da Informação e da Administração",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Aveiro",
+      "region": "Beira Litoral",
+      "founded": 1990,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior D. Dinis",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Marinha Grande",
+      "region": "Beira Litoral",
+      "founded": 2005,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Entre Douro e Vouga",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Santa Maria da Feira",
+      "region": "Douro Litoral",
+      "founded": 2009,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Paços de Brandão",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Santa Maria da Feira",
+      "region": "Douro Litoral",
+      "founded": 1990,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Tecnologias Avançadas de Lisboa",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 2009,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Instituto Superior de Tecnologias Avançadas do Porto",
+      "type": "Escola politécnica não integrada",
+      "parent_university": "",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 2021,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Educação e Comunicação",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade do Algarve",
+      "seat": "Faro",
+      "region": "Algarve",
+      "founded": 1979,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Gestão, Hotelaria e Turismo",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade do Algarve",
+      "seat": "Faro e Portimão",
+      "region": "Algarve",
+      "founded": 1988,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Saúde",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade do Algarve",
+      "seat": "Faro",
+      "region": "Algarve",
+      "founded": 2003,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Instituto Superior de Engenharia",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade do Algarve",
+      "seat": "Faro",
+      "region": "Algarve",
+      "founded": "",
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Enfermagem de São João de Deus",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade de Évora",
+      "seat": "Évora",
+      "region": "Alto Alentejo",
+      "founded": "",
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Saúde",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade dos Açores",
+      "seat": "Ponta Delgada e Angra do Heroísmo",
+      "region": "Açores",
+      "founded": 2015,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Tecnologias",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade dos Açores",
+      "seat": "Ponta Delgada e Angra do Heroísmo",
+      "region": "Açores",
+      "founded": 2015,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Saúde de Aveiro",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade de Aveiro",
+      "seat": "Aveiro",
+      "region": "Beira Litoral",
+      "founded": "",
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro-Norte",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade de Aveiro",
+      "seat": "Oliveira de Azeméis",
+      "region": "Beira Litoral",
+      "founded": 2004,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Tecnologia e Gestão de Águeda",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade de Aveiro",
+      "seat": "Águeda",
+      "region": "Beira Litoral",
+      "founded": 1977,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Instituto Superior de Contabilidade e Administração de Aveiro",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade de Aveiro",
+      "seat": "Aveiro",
+      "region": "Beira Litoral",
+      "founded": 1965,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Saúde",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade Fernando Pessoa",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": "",
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior de Saúde",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade da Madeira",
+      "seat": "Funchal",
+      "region": "Madeira",
+      "founded": 2015,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Tecnologias e Gestão",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade da Madeira",
+      "seat": "Funchal",
+      "region": "Madeira",
+      "founded": 2015,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Enfermagem",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade do Minho",
+      "seat": "Braga",
+      "region": "Minho",
+      "founded": 1912,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior de Saúde",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade de Trás-os-Montes e Alto Douro",
+      "seat": "Vila Real",
+      "region": "Trás-os-Montes e Alto Douro",
+      "founded": 1973,
+      "ownership": "Pública"
+    },
+    {
+      "name": "Escola Superior Politécnica de Saúde (Lisboa)",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade Católica Portuguesa",
+      "seat": "Lisboa",
+      "region": "Estremadura",
+      "founded": 2015,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Escola Superior Politécnica de Saúde (Porto)",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade Católica Portuguesa",
+      "seat": "Porto",
+      "region": "Douro Litoral",
+      "founded": 2015,
+      "ownership": "Privada"
+    },
+    {
+      "name": "Universidade Fernando Pessoa (unidade de Ponte de Lima - ensino politécnico) (estatuto de instituição autónoma para efeitos legais)",
+      "type": "Escola politécnica integrada em universidade",
+      "parent_university": "Universidade Fernando Pessoa",
+      "seat": "Ponte de Lima",
+      "region": "Minho",
+      "founded": 1996,
+      "ownership": "Privada"
+    }
+  ],
+  "meta": {
+    "title": "Instituições de ensino superior politécnico em Portugal - Free Download",
+    "description": "Universidades e institutos politécnicos, escolas politécnicas não integradas e escolas politécnicas integradas em universidades em Portugal, com sede, região, ano de fundação e titularidade. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Instituições de ensino superior politécnico em Portugal | ListBase",
+    "seo_description": "Download Instituições de ensino superior politécnico em Portugal — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_instituições_politécnicas_de_Portugal"
+    ]
+  }
+}

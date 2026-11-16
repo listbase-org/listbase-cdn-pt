@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-16T02:23:18.794Z",
-  "total_datasets": 571,
-  "total_records": 745954,
+  "generated": "2026-11-16T02:23:27.231Z",
+  "total_datasets": 572,
+  "total_records": 746033,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -709,6 +709,34 @@
         "xlsx": {
           "name": "pt-br-universidades-federais_PT.xlsx",
           "size": 10913
+        }
+      }
+    },
+    {
+      "id": "pt-instituicoes-ensino-politecnico",
+      "name": "Instituições de ensino superior politécnico em Portugal",
+      "category": "education",
+      "record_count": 79,
+      "columns": [
+        "name",
+        "type",
+        "parent_university",
+        "seat",
+        "region",
+        "founded",
+        "ownership"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_instituições_politécnicas_de_Portugal",
+      "updated": "2026-11",
+      "size": 24165,
+      "files": {
+        "csv": {
+          "name": "pt-instituicoes-ensino-politecnico_PT.csv",
+          "size": 11124
+        },
+        "xlsx": {
+          "name": "pt-instituicoes-ensino-politecnico_PT.xlsx",
+          "size": 10612
         }
       }
     },
