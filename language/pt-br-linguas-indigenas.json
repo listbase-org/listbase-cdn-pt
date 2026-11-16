@@ -1,0 +1,1703 @@
+{
+  "id": "pt-br-linguas-indigenas",
+  "name": "Línguas indígenas do Brasil",
+  "title": "Línguas indígenas do Brasil",
+  "description": "Classificação das línguas indígenas faladas (ou extintas) no Brasil por família e grupo linguístico, com o território onde são ou eram faladas.",
+  "category": "language",
+  "source": "https://pt.wikipedia.org/wiki/Línguas_indígenas_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Línguas_indígenas_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 236,
+  "columns": [
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "territory",
+      "label": "Territory",
+      "type": "string"
+    },
+    {
+      "key": "extinct",
+      "label": "Extinct",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "language": "Arauá",
+      "family": "línguas arauanas",
+      "group": "Arauá",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Culina",
+      "family": "línguas arauanas",
+      "group": "Deni-culina",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Deni",
+      "family": "línguas arauanas",
+      "group": "Deni-culina",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Banauá",
+      "family": "línguas arauanas",
+      "group": "Madi",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Jamamadi",
+      "family": "línguas arauanas",
+      "group": "Madi",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Jaráuara",
+      "family": "línguas arauanas",
+      "group": "Madi",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Paumari",
+      "family": "línguas arauanas",
+      "group": "Paumari",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Sorouahá",
+      "family": "línguas arauanas",
+      "group": "Sorouahá",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Bahwana (Chiriana)",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Baníua (de Guiana)",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Baré",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Caixana",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Curripaco",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Iabaana",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Marauiá",
+      "extinct": "sim"
+    },
+    {
+      "language": "Jumana",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Puré (Amazonas)",
+      "extinct": "sim"
+    },
+    {
+      "language": "Manao",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Mariaté",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Mariaté",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Iça (Amazonas)",
+      "extinct": "sim"
+    },
+    {
+      "language": "Pasé",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Iça (Amazonas)",
+      "extinct": "sim"
+    },
+    {
+      "language": "Tariana",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Uaupés",
+      "extinct": "não"
+    },
+    {
+      "language": "Uainumá",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Iça (Amazonas)",
+      "extinct": "sim"
+    },
+    {
+      "language": "Uaraicu",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Juraí (Amazonas)",
+      "extinct": "sim"
+    },
+    {
+      "language": "Uirina",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Rio Branco (Amazonas)",
+      "extinct": "sim"
+    },
+    {
+      "language": "Mapidiano",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Uapixana",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Aroã (Aruano)",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Pará",
+      "extinct": "sim"
+    },
+    {
+      "language": "Maraua",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amapá",
+      "extinct": "sim"
+    },
+    {
+      "language": "Palicure",
+      "family": "línguas aruaques",
+      "group": "Setentrional",
+      "territory": "Amapá",
+      "extinct": "não"
+    },
+    {
+      "language": "Enáuenê-nauê",
+      "family": "línguas aruaques",
+      "group": "Central",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Custenau (Kustenaú)",
+      "family": "línguas aruaques",
+      "group": "Central",
+      "territory": "Mato Grosso",
+      "extinct": "sim"
+    },
+    {
+      "language": "Iaualapiti (Yaualapiti)",
+      "family": "línguas aruaques",
+      "group": "Central",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Meinaco (Mehinaku)",
+      "family": "línguas aruaques",
+      "group": "Central",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Pareci (Haltiti)",
+      "family": "línguas aruaques",
+      "group": "Central",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Uaurá",
+      "family": "línguas aruaques",
+      "group": "Central",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Apuriná",
+      "family": "línguas aruaques",
+      "group": "Meridional",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Chontaquiro",
+      "family": "línguas aruaques",
+      "group": "Meridional",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Piro",
+      "family": "línguas aruaques",
+      "group": "Meridional",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Acauaio-capong",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Macuxi",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Pemom",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Atroari",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Salumá",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Siquiana",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Uaiuai",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Apalaí",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Tirió",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Arara",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Ikpeng",
+      "family": "línguas caribes",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Caxuîna",
+      "family": "línguas caribes",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Hixkaryana",
+      "family": "línguas caribes",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Bacairi",
+      "family": "línguas caribes",
+      "group": "Meridional",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Cuicuro-Calapalo",
+      "family": "línguas caribes",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Matipuí",
+      "family": "línguas caribes",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Canamari",
+      "family": "línguas catuquinas",
+      "group": "Canamari",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Catuquina",
+      "family": "línguas catuquinas",
+      "group": "Canamari",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "catauixi",
+      "family": "línguas catuquinas",
+      "group": "Catauixi",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Oro Uin",
+      "family": "línguas chapacura-wanham",
+      "group": "Madeira",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Uari",
+      "family": "línguas chapacura-wanham",
+      "group": "Madeira",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Urupá",
+      "family": "línguas chapacura-wanham",
+      "group": "Madeira",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Torá, Toraz",
+      "family": "línguas chapacura-wanham",
+      "group": "Madeira",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Cabixi",
+      "family": "línguas chapacura-wanham",
+      "group": "Uaporé",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Ianam-Ninam",
+      "family": "línguas ianomâmis",
+      "group": "Yanam",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Sanumá",
+      "family": "línguas ianomâmis",
+      "group": "Tsanumá",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Ianomâmi",
+      "family": "línguas ianomâmis",
+      "group": "Yanomâmi",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Yanomamö",
+      "family": "línguas ianomâmis",
+      "group": "Yanomâmi",
+      "territory": "Roraima",
+      "extinct": "não"
+    },
+    {
+      "language": "Bororo ocidental",
+      "family": "línguas macro-jês",
+      "group": "Bororo",
+      "territory": "Mato Grosso",
+      "extinct": "sim"
+    },
+    {
+      "language": "Bororo oriental",
+      "family": "línguas macro-jês",
+      "group": "Bororo",
+      "territory": "Mato Grosso do Sul",
+      "extinct": "não"
+    },
+    {
+      "language": "Umotina",
+      "family": "línguas macro-jês",
+      "group": "Bororo",
+      "territory": "Mato Grosso",
+      "extinct": "sim"
+    },
+    {
+      "language": "camacã",
+      "family": "línguas macro-jês",
+      "group": "camacã",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Cotoxó",
+      "family": "línguas macro-jês",
+      "group": "camacã",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Masacará",
+      "family": "línguas macro-jês",
+      "group": "camacã",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Meniém",
+      "family": "línguas macro-jês",
+      "group": "camacã",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Mongojó",
+      "family": "línguas macro-jês",
+      "group": "camacã",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Camuru",
+      "family": "línguas macro-jês",
+      "group": "Cariri",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "Dzubucuá",
+      "family": "línguas macro-jês",
+      "group": "Cariri",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "Quipeá, cariri",
+      "family": "línguas macro-jês",
+      "group": "Cariri",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "Sabujá",
+      "family": "línguas macro-jês",
+      "group": "Cariri",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "iatê",
+      "family": "línguas macro-jês",
+      "group": "Fulniô",
+      "territory": "Pernambuco",
+      "extinct": "não"
+    },
+    {
+      "language": "Guató",
+      "family": "línguas macro-jês",
+      "group": "Guató",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Aricapu",
+      "family": "línguas macro-jês",
+      "group": "Jabuti",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Jabuti (Djeoromitxi)",
+      "family": "línguas macro-jês",
+      "group": "Jabuti",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Acroá",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "Apinajé",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Jaicó",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "Mebengôkre-caiapó",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Panará",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Sujá",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Timbira",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "Maranhão, Tocantins, Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Xavante",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Xakriabá",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Xerente",
+      "family": "línguas macro-jês",
+      "group": "Jê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Maxacali",
+      "family": "línguas macro-jês",
+      "group": "Maxacali",
+      "territory": "Minas Gerais",
+      "extinct": "não"
+    },
+    {
+      "language": "Capoxo",
+      "family": "línguas macro-jês",
+      "group": "Maxacali",
+      "territory": "Minas Gerais",
+      "extinct": "sim"
+    },
+    {
+      "language": "Monoxó",
+      "family": "línguas macro-jês",
+      "group": "Maxacali",
+      "territory": "Minas Gerais",
+      "extinct": "sim"
+    },
+    {
+      "language": "Maconi",
+      "family": "línguas macro-jês",
+      "group": "Maxacali",
+      "territory": "Minas Gerais",
+      "extinct": "sim"
+    },
+    {
+      "language": "Malali",
+      "family": "línguas macro-jês",
+      "group": "Maxacali",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Pataxó hã hã hãe",
+      "family": "línguas macro-jês",
+      "group": "Maxacali",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Puri",
+      "family": "línguas macro-jês",
+      "group": "Puri",
+      "territory": "Espírito Santo, Rio de Janeiro, São Paulo, Minas Gerais",
+      "extinct": "sim"
+    },
+    {
+      "language": "Coroado",
+      "family": "línguas macro-jês",
+      "group": "Puri",
+      "territory": "Espírito Santo",
+      "extinct": "sim"
+    },
+    {
+      "language": "Coropó",
+      "family": "línguas macro-jês",
+      "group": "Puri",
+      "territory": "Espírito Santo",
+      "extinct": "sim"
+    },
+    {
+      "language": "Rikbaktsá",
+      "family": "línguas macro-jês",
+      "group": "Rikbaktsá",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Nadëb",
+      "family": "línguas macus",
+      "group": "Nadahup",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Dâw",
+      "family": "línguas macus",
+      "group": "Nadahup",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Juhup",
+      "family": "línguas macus",
+      "group": "Nadahup",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Cadiuéu",
+      "family": "línguas mataco-guaicurus",
+      "group": "Guaicuru",
+      "territory": "Mato Grosso do Sul",
+      "extinct": "não"
+    },
+    {
+      "language": "Mura-Bohurá",
+      "family": "línguas mura-pirahã",
+      "group": "",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Pirahã",
+      "family": "línguas mura-pirahã",
+      "group": "",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Jahahí",
+      "family": "línguas mura-pirahã",
+      "group": "",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Lacondê",
+      "family": "línguas nambicuaras",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Latundê",
+      "family": "línguas nambicuaras",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Mamaindê",
+      "family": "línguas nambicuaras",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Nagarotê",
+      "family": "línguas nambicuaras",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Tauandê",
+      "family": "línguas nambicuaras",
+      "group": "Setentrional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Norte de Campo",
+      "family": "línguas nambicuaras",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Manduca",
+      "family": "línguas nambicuaras",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Galera",
+      "family": "línguas nambicuaras",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Norte do Uaporé",
+      "family": "línguas nambicuaras",
+      "group": "Meridional",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Sabanê",
+      "family": "línguas nambicuaras",
+      "group": "Sabanê",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Caxinauá",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Moronaua",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Iaminaua",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Iauanaua",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Camanaua",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Canamari",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Marubo",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Remo",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Culino",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "sim"
+    },
+    {
+      "language": "Caripuná",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "sim"
+    },
+    {
+      "language": "Caxauiri",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "não"
+    },
+    {
+      "language": "Matsés, Maioruna",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Nocamán",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "sim"
+    },
+    {
+      "language": "Nocamán",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "sim"
+    },
+    {
+      "language": "Poianaua",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "sim"
+    },
+    {
+      "language": "Tuxinauá",
+      "family": "línguas pano-tacanas Uma das famílias com mais línguas diferentes no Peru.",
+      "group": "Pano",
+      "territory": "Acre",
+      "extinct": "sim"
+    },
+    {
+      "language": "Cubeo",
+      "family": "línguas tucanas Esta família está formada por um grande número de línguas localizadas no sul da Colômbia e em parte do Brasil.",
+      "group": "Central",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Piratapuia",
+      "family": "línguas tucanas Esta família está formada por um grande número de línguas localizadas no sul da Colômbia e em parte do Brasil.",
+      "group": "Oriental",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Tucano",
+      "family": "línguas tucanas Esta família está formada por um grande número de línguas localizadas no sul da Colômbia e em parte do Brasil.",
+      "group": "Oriental",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Tuiuca",
+      "family": "línguas tucanas Esta família está formada por um grande número de línguas localizadas no sul da Colômbia e em parte do Brasil.",
+      "group": "Oriental",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Uanano",
+      "family": "línguas tucanas Esta família está formada por um grande número de línguas localizadas no sul da Colômbia e em parte do Brasil.",
+      "group": "Oriental",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Ariqueme",
+      "family": "línguas tupis",
+      "group": "Ariqueme",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Caritiana",
+      "family": "línguas tupis",
+      "group": "Ariqueme",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Aueti (auetö)",
+      "family": "línguas tupis",
+      "group": "Aueti",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Maué-Sateré",
+      "family": "línguas tupis",
+      "group": "Maué",
+      "territory": "Pará, Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Aruá, Aruáxi",
+      "family": "línguas tupis",
+      "group": "Mondé",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Cinta-larga",
+      "family": "línguas tupis",
+      "group": "Mondé",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Gavião do Jiparaná",
+      "family": "línguas tupis",
+      "group": "Mondé",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Canoé",
+      "family": "línguas tupis",
+      "group": "Mondé",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Mondé",
+      "family": "línguas tupis",
+      "group": "Mondé",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Suruí",
+      "family": "línguas tupis",
+      "group": "Mondé",
+      "territory": "Mato Grosso, Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Curuaia",
+      "family": "línguas tupis",
+      "group": "Mundurucu",
+      "territory": "Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Mundurucu",
+      "family": "línguas tupis",
+      "group": "Mundurucu",
+      "territory": "Amazonas, Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Puruborá",
+      "family": "línguas tupis",
+      "group": "Puruborá",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Arara, Caro",
+      "family": "línguas tupis",
+      "group": "Ramarrama",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Ramarrama",
+      "family": "línguas tupis",
+      "group": "Ramarrama",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Ntogapide",
+      "family": "línguas tupis",
+      "group": "Ramarrama",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Urumi",
+      "family": "línguas tupis",
+      "group": "Ramarrama",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Urucu",
+      "family": "línguas tupis",
+      "group": "Ramarrama",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Kepkiriwát",
+      "family": "línguas tupis",
+      "group": "Tupari",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Macurape",
+      "family": "línguas tupis",
+      "group": "Tupari",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Saquirabiá",
+      "family": "línguas tupis",
+      "group": "Tupari",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Tupari",
+      "family": "línguas tupis",
+      "group": "Tupari",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Uaioró",
+      "family": "línguas tupis",
+      "group": "Tupari",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Juruná",
+      "family": "línguas tupis",
+      "group": "Juruna (Juruná)",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Maritsauá",
+      "family": "línguas tupis",
+      "group": "Juruna (Juruná)",
+      "territory": "Parque do Xingu, no Mato Grosso",
+      "extinct": "sim"
+    },
+    {
+      "language": "Xipaia",
+      "family": "línguas tupis",
+      "group": "Juruna (Juruná)",
+      "territory": "Parque do Xingu, no Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Caiuá",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Embiá",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "guarani",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "guarani antigo",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "Nhandeva (Chiripá)",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Xetá",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Paraná",
+      "extinct": "sim"
+    },
+    {
+      "language": "Cocama-cocamilla",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Língua geral (Brasil)",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Brasil",
+      "extinct": "sim"
+    },
+    {
+      "language": "Nheengatu",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Alto Rio Negro",
+      "extinct": "não"
+    },
+    {
+      "language": "Omágua",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "tupi antigo",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Brasil",
+      "extinct": "sim"
+    },
+    {
+      "language": "Assurini",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Avá-canoeiro",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Goiás",
+      "extinct": "não"
+    },
+    {
+      "language": "Guajajara",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Maranhão",
+      "extinct": "não"
+    },
+    {
+      "language": "Suruí do Pará",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Paracanã",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Tapirapé",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Tembé",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Maranhão",
+      "extinct": "não"
+    },
+    {
+      "language": "Assurini xingu",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Araueté",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Caiabi",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Mato Grosso, Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Amundava",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Apiacá",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Juma",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Caripuna",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Amapá",
+      "extinct": "sim"
+    },
+    {
+      "language": "Caripuná",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Rondônia, Acre",
+      "extinct": "sim"
+    },
+    {
+      "language": "Paranauate",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Tenharim",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Amazonas, Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Tucumanfede",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Uru-ew-wau-wau",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Uirafede",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Morerebi",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Camaiurá",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Anambé",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "sim"
+    },
+    {
+      "language": "Amanaié",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "sim"
+    },
+    {
+      "language": "Emerillon",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Guajá",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Maranhão, Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Oiampi",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "",
+      "extinct": "não"
+    },
+    {
+      "language": "Zoé",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "não"
+    },
+    {
+      "language": "Turiuara",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Pará",
+      "extinct": "sim"
+    },
+    {
+      "language": "Urubu-caapor",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Maranhão",
+      "extinct": "não"
+    },
+    {
+      "language": "Aurá",
+      "family": "línguas tupis",
+      "group": "tupi-guarani",
+      "territory": "Maranhão",
+      "extinct": "sim"
+    },
+    {
+      "language": "Aicanã",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Irantxe (Mynky)",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Alto Jurena, no Mato Grosso",
+      "extinct": "não"
+    },
+    {
+      "language": "Canoê (Capixanã)",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Kwazá (coiá)",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Sapé",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Rondônia",
+      "extinct": "não"
+    },
+    {
+      "language": "Ticuna",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Trumaí",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Alto Xingu",
+      "extinct": "não"
+    },
+    {
+      "language": "Tuxá",
+      "family": "línguas isoladas",
+      "group": "",
+      "territory": "Bahia, Pernambuco",
+      "extinct": "sim"
+    },
+    {
+      "language": "Arara",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Rondônia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Aticum (Uamué)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Pernambuco, Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Baenã",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Gamella (Curinsi)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Maranhão",
+      "extinct": "sim"
+    },
+    {
+      "language": "Cambiuá (cambioá)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Pernambuco",
+      "extinct": "sim"
+    },
+    {
+      "language": "Karahawyana",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Amazonas",
+      "extinct": "não"
+    },
+    {
+      "language": "Catembri (Mirandela)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Bahia",
+      "extinct": "sim"
+    },
+    {
+      "language": "Corubo",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Amazonas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Cucurá (Cocura)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Mato Grosso",
+      "extinct": "sim"
+    },
+    {
+      "language": "Macu",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Roraima",
+      "extinct": "sim"
+    },
+    {
+      "language": "Matanauí",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "",
+      "extinct": "sim"
+    },
+    {
+      "language": "Natu",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Bahia, Pernambuco",
+      "extinct": "sim"
+    },
+    {
+      "language": "Oti (xavante)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Mato Grosso, Tocantins, Minas Gerais",
+      "extinct": "sim"
+    },
+    {
+      "language": "Pancararu",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Pernambuco, Alagoas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Tarairiú",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Pernambuco, Paraíba, Rio Grande do Norte",
+      "extinct": "sim"
+    },
+    {
+      "language": "Taruma",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Pará",
+      "extinct": "sim"
+    },
+    {
+      "language": "Tingui-botó (Carapató)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Alagoas",
+      "extinct": "sim"
+    },
+    {
+      "language": "Tremembé",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Itarema, no Ceará",
+      "extinct": "sim"
+    },
+    {
+      "language": "Trucá",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Pernambuco",
+      "extinct": "não"
+    },
+    {
+      "language": "Xucuru (xocó)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Pernambuco",
+      "extinct": "sim"
+    },
+    {
+      "language": "Iuri (Carabaio)",
+      "family": "línguas não classificadas",
+      "group": "",
+      "territory": "Rio Caquetá",
+      "extinct": "não"
+    }
+  ],
+  "meta": {
+    "title": "Línguas indígenas do Brasil - Free Download",
+    "description": "Classificação das línguas indígenas faladas (ou extintas) no Brasil por família e grupo linguístico, com o território onde são ou eram faladas. Contains 236 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Línguas indígenas do Brasil | ListBase",
+    "seo_description": "Download Línguas indígenas do Brasil — 236 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 236 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Línguas_indígenas_do_Brasil"
+    ]
+  }
+}

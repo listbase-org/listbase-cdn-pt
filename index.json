@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-16T02:22:59.949Z",
-  "total_datasets": 569,
-  "total_records": 745699,
+  "generated": "2026-11-16T02:23:08.615Z",
+  "total_datasets": 570,
+  "total_records": 745935,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -4138,6 +4138,32 @@
         "xlsx": {
           "name": "pt-br-linguas-ameacadas_PT.xlsx",
           "size": 11754
+        }
+      }
+    },
+    {
+      "id": "pt-br-linguas-indigenas",
+      "name": "Línguas indígenas do Brasil",
+      "category": "language",
+      "record_count": 236,
+      "columns": [
+        "language",
+        "family",
+        "group",
+        "territory",
+        "extinct"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Línguas_indígenas_do_Brasil",
+      "updated": "2026-11",
+      "size": 41719,
+      "files": {
+        "csv": {
+          "name": "pt-br-linguas-indigenas_PT.csv",
+          "size": 15993
+        },
+        "xlsx": {
+          "name": "pt-br-linguas-indigenas_PT.xlsx",
+          "size": 14174
         }
       }
     },
