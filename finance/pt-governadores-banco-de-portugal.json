@@ -1,0 +1,184 @@
+{
+  "id": "pt-governadores-banco-de-portugal",
+  "name": "Governadores do Banco de Portugal",
+  "title": "Governadores do Banco de Portugal",
+  "description": "Lista dos governadores do Banco de Portugal desde 1887, com período de mandato.",
+  "category": "finance",
+  "source": "https://pt.wikipedia.org/wiki/Banco_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Banco_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "governor",
+      "label": "Governor",
+      "type": "string"
+    },
+    {
+      "key": "start_year",
+      "label": "Start Year",
+      "type": "number"
+    },
+    {
+      "key": "end_year",
+      "label": "End Year",
+      "type": "number"
+    },
+    {
+      "key": "interim",
+      "label": "Interim",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "governor": "António Augusto Pereira de Miranda",
+      "start_year": 1887,
+      "end_year": 1891,
+      "interim": "não"
+    },
+    {
+      "no": 2,
+      "governor": "Pedro Augusto de Carvalho",
+      "start_year": 1891,
+      "end_year": 1894,
+      "interim": "não"
+    },
+    {
+      "no": 3,
+      "governor": "Júlio Marques de Vilhena",
+      "start_year": 1895,
+      "end_year": 1907,
+      "interim": "não"
+    },
+    {
+      "no": 4,
+      "governor": "José Adolfo de Melo e Sousa",
+      "start_year": 1907,
+      "end_year": 1910,
+      "interim": "não"
+    },
+    {
+      "no": 5,
+      "governor": "Inocêncio Camacho Rodrigues",
+      "start_year": 1911,
+      "end_year": 1936,
+      "interim": "não"
+    },
+    {
+      "no": 6,
+      "governor": "Rafael da Silva Duque",
+      "start_year": 1957,
+      "end_year": 1963,
+      "interim": "não"
+    },
+    {
+      "no": 7,
+      "governor": "Manuel Jacinto Nunes",
+      "start_year": 1963,
+      "end_year": 1966,
+      "interim": "sim"
+    },
+    {
+      "no": 8,
+      "governor": "António Pinto Barbosa",
+      "start_year": 1966,
+      "end_year": 1974,
+      "interim": "não"
+    },
+    {
+      "no": 9,
+      "governor": "Manuel Jacinto Nunes",
+      "start_year": 1974,
+      "end_year": 1975,
+      "interim": "não"
+    },
+    {
+      "no": 10,
+      "governor": "José da Silva Lopes",
+      "start_year": 1975,
+      "end_year": 1980,
+      "interim": "não"
+    },
+    {
+      "no": 11,
+      "governor": "Manuel Jacinto Nunes",
+      "start_year": 1980,
+      "end_year": 1985,
+      "interim": "não"
+    },
+    {
+      "no": 12,
+      "governor": "Vítor Constâncio",
+      "start_year": 1985,
+      "end_year": 1986,
+      "interim": "não"
+    },
+    {
+      "no": 13,
+      "governor": "José Alberto Tavares Moreira",
+      "start_year": 1986,
+      "end_year": 1992,
+      "interim": "não"
+    },
+    {
+      "no": 14,
+      "governor": "Miguel Beleza",
+      "start_year": 1992,
+      "end_year": 1994,
+      "interim": "não"
+    },
+    {
+      "no": 15,
+      "governor": "António de Sousa",
+      "start_year": 1994,
+      "end_year": 2000,
+      "interim": "não"
+    },
+    {
+      "no": 16,
+      "governor": "Vítor Constâncio",
+      "start_year": 2000,
+      "end_year": 2010,
+      "interim": "não"
+    },
+    {
+      "no": 17,
+      "governor": "Carlos da Silva Costa",
+      "start_year": 2010,
+      "end_year": 2020,
+      "interim": "não"
+    },
+    {
+      "no": 18,
+      "governor": "Mário Centeno",
+      "start_year": 2020,
+      "end_year": 2025,
+      "interim": "não"
+    },
+    {
+      "no": 19,
+      "governor": "Álvaro Santos Pereira",
+      "start_year": 2025,
+      "end_year": "presente",
+      "interim": "não"
+    }
+  ],
+  "meta": {
+    "title": "Governadores do Banco de Portugal - Free Download",
+    "description": "Lista dos governadores do Banco de Portugal desde 1887, com período de mandato. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Governadores do Banco de Portugal | ListBase",
+    "seo_description": "Download Governadores do Banco de Portugal — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Banco_de_Portugal"
+    ]
+  }
+}
