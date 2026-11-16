@@ -1,0 +1,149 @@
+{
+  "id": "pt-br-cedulas-do-real",
+  "name": "Cédulas do real brasileiro",
+  "title": "Cédulas do real brasileiro",
+  "description": "Cédulas da primeira e da segunda família do real brasileiro, com valor, animal da fauna brasileira representado no verso (a frente traz a Efígie da República), dimensões e período de circulação.",
+  "category": "finance",
+  "source": "https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)",
+  "source_url": "https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "value",
+      "label": "Value",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "back",
+      "label": "Back",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "value": "1 real",
+      "family": "1ª família",
+      "back": "Beija-flor",
+      "dimensions": "140 x 65 mm",
+      "period": "1994-2005"
+    },
+    {
+      "value": "2 reais",
+      "family": "1ª família",
+      "back": "Tartaruga-de-pente",
+      "dimensions": "140 x 65 mm",
+      "period": "2001-2013"
+    },
+    {
+      "value": "5 reais",
+      "family": "1ª família",
+      "back": "Garça",
+      "dimensions": "140 x 65 mm",
+      "period": "1994-2013"
+    },
+    {
+      "value": "10 reais",
+      "family": "1ª família",
+      "back": "Arara",
+      "dimensions": "140 x 65 mm",
+      "period": "1994-2012"
+    },
+    {
+      "value": "20 reais",
+      "family": "1ª família",
+      "back": "Mico-leão-dourado",
+      "dimensions": "140 x 65 mm",
+      "period": "2002-2012"
+    },
+    {
+      "value": "50 reais",
+      "family": "1ª família",
+      "back": "Onça-pintada",
+      "dimensions": "140 x 65 mm",
+      "period": "1994-2010"
+    },
+    {
+      "value": "100 reais",
+      "family": "1ª família",
+      "back": "Garoupa",
+      "dimensions": "140 x 65 mm",
+      "period": "1994-2010"
+    },
+    {
+      "value": "2 reais",
+      "family": "2ª família",
+      "back": "Tartaruga-de-pente",
+      "dimensions": "121 x 65 mm",
+      "period": "2013–atual"
+    },
+    {
+      "value": "5 reais",
+      "family": "2ª família",
+      "back": "Garça",
+      "dimensions": "128 x 65 mm",
+      "period": "2013–atual"
+    },
+    {
+      "value": "10 reais",
+      "family": "2ª família",
+      "back": "Arara",
+      "dimensions": "135 x 65 mm",
+      "period": "2012–atual"
+    },
+    {
+      "value": "20 reais",
+      "family": "2ª família",
+      "back": "Mico-leão-dourado",
+      "dimensions": "142 x 65 mm",
+      "period": "2012–atual"
+    },
+    {
+      "value": "50 reais",
+      "family": "2ª família",
+      "back": "Onça-pintada",
+      "dimensions": "149 x 70 mm",
+      "period": "2010–atual"
+    },
+    {
+      "value": "100 reais",
+      "family": "2ª família",
+      "back": "Garoupa-verdadeira",
+      "dimensions": "156 x 70 mm",
+      "period": "2010–atual"
+    },
+    {
+      "value": "200 reais",
+      "family": "2ª família",
+      "back": "Lobo-guará",
+      "dimensions": "142 x 65 mm",
+      "period": "2020–atual"
+    }
+  ],
+  "meta": {
+    "title": "Cédulas do real brasileiro - Free Download",
+    "description": "Cédulas da primeira e da segunda família do real brasileiro, com valor, animal da fauna brasileira representado no verso (a frente traz a Efígie da República), dimensões e período de circulação. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cédulas do real brasileiro | ListBase",
+    "seo_description": "Download Cédulas do real brasileiro — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)"
+    ]
+  }
+}

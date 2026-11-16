@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-15T02:19:11.628Z",
-  "total_datasets": 567,
-  "total_records": 745654,
+  "generated": "2026-11-16T02:22:48.033Z",
+  "total_datasets": 568,
+  "total_records": 745668,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -1955,6 +1955,32 @@
         "xlsx": {
           "name": "pt-usinas-nucleares_PT.xlsx",
           "size": 7141
+        }
+      }
+    },
+    {
+      "id": "pt-br-cedulas-do-real",
+      "name": "Cédulas do real brasileiro",
+      "category": "finance",
+      "record_count": 14,
+      "columns": [
+        "value",
+        "family",
+        "back",
+        "dimensions",
+        "period"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)",
+      "updated": "2026-11",
+      "size": 4091,
+      "files": {
+        "csv": {
+          "name": "pt-br-cedulas-do-real_PT.csv",
+          "size": 1002
+        },
+        "xlsx": {
+          "name": "pt-br-cedulas-do-real_PT.xlsx",
+          "size": 7287
         }
       }
     },
