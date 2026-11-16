@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-16T02:22:48.033Z",
-  "total_datasets": 568,
-  "total_records": 745668,
+  "generated": "2026-11-16T02:22:59.949Z",
+  "total_datasets": 569,
+  "total_records": 745699,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -1981,6 +1981,33 @@
         "xlsx": {
           "name": "pt-br-cedulas-do-real_PT.xlsx",
           "size": 7287
+        }
+      }
+    },
+    {
+      "id": "pt-br-cotacao-dolar-real-por-ano",
+      "name": "Cotação do dólar em reais por ano (1994–2024)",
+      "category": "finance",
+      "record_count": 31,
+      "columns": [
+        "year",
+        "min_date",
+        "min_rate",
+        "max_date",
+        "max_rate",
+        "avg_rate"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)",
+      "updated": "2026-11",
+      "size": 7256,
+      "files": {
+        "csv": {
+          "name": "pt-br-cotacao-dolar-real-por-ano_PT.csv",
+          "size": 1953
+        },
+        "xlsx": {
+          "name": "pt-br-cotacao-dolar-real-por-ano_PT.xlsx",
+          "size": 8095
         }
       }
     },

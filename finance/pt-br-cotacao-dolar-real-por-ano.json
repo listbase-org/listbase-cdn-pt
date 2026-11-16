@@ -1,0 +1,304 @@
+{
+  "id": "pt-br-cotacao-dolar-real-por-ano",
+  "name": "Cotação do dólar em reais por ano (1994–2024)",
+  "title": "Cotação do dólar em reais por ano (1994–2024)",
+  "description": "Cotação mínima, máxima e média anual do dólar americano em reais (R$ por US$) desde a criação do Plano Real em 1994.",
+  "category": "finance",
+  "source": "https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)",
+  "source_url": "https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "min_date",
+      "label": "Min Date",
+      "type": "string"
+    },
+    {
+      "key": "min_rate",
+      "label": "Min Rate",
+      "type": "number"
+    },
+    {
+      "key": "max_date",
+      "label": "Max Date",
+      "type": "string"
+    },
+    {
+      "key": "max_rate",
+      "label": "Max Rate",
+      "type": "number"
+    },
+    {
+      "key": "avg_rate",
+      "label": "Avg Rate",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1994,
+      "min_date": "outubro",
+      "min_rate": 0.835,
+      "max_date": "julho",
+      "max_rate": 0.925,
+      "avg_rate": 0.8683
+    },
+    {
+      "year": 1995,
+      "min_date": "fevereiro",
+      "min_rate": 0.837,
+      "max_date": "dezembro",
+      "max_rate": 0.9677,
+      "avg_rate": 0.9152
+    },
+    {
+      "year": 1996,
+      "min_date": "janeiro",
+      "min_rate": 0.97827,
+      "max_date": "dezembro",
+      "max_rate": 1.0389,
+      "avg_rate": 1.006
+    },
+    {
+      "year": 1997,
+      "min_date": "janeiro",
+      "min_rate": 1.0426,
+      "max_date": "dezembro",
+      "max_rate": 1.1143,
+      "avg_rate": 1.0778
+    },
+    {
+      "year": 1998,
+      "min_date": "janeiro",
+      "min_rate": 1.1206,
+      "max_date": "dezembro",
+      "max_rate": 1.2052,
+      "avg_rate": 1.1602
+    },
+    {
+      "year": 1999,
+      "min_date": "12 de janeiro",
+      "min_rate": 1.2114,
+      "max_date": "3 de março",
+      "max_rate": 2.1647,
+      "avg_rate": 1.8085
+    },
+    {
+      "year": 2000,
+      "min_date": "24 de março",
+      "min_rate": 1.7234,
+      "max_date": "4 de dezembro",
+      "max_rate": 1.9847,
+      "avg_rate": 1.8331
+    },
+    {
+      "year": 2001,
+      "min_date": "janeiro",
+      "min_rate": 1.9475,
+      "max_date": "11 de setembro",
+      "max_rate": 2.677,
+      "avg_rate": 2.3637
+    },
+    {
+      "year": 2002,
+      "min_date": "11 de abril",
+      "min_rate": 2.264,
+      "max_date": "10 de outubro",
+      "max_rate": 4.005,
+      "avg_rate": 2.9221
+    },
+    {
+      "year": 2003,
+      "min_date": "2 de julho",
+      "min_rate": 2.818,
+      "max_date": "14 de fevereiro",
+      "max_rate": 3.7,
+      "avg_rate": 3.078
+    },
+    {
+      "year": 2004,
+      "min_date": "30 de dezembro",
+      "min_rate": 2.654,
+      "max_date": "22 de maio",
+      "max_rate": 3.242,
+      "avg_rate": 2.926
+    },
+    {
+      "year": 2005,
+      "min_date": "11 de novembro",
+      "min_rate": 2.163,
+      "max_date": "15 de março",
+      "max_rate": 2.766,
+      "avg_rate": 2.4349
+    },
+    {
+      "year": 2006,
+      "min_date": "5 de maio",
+      "min_rate": 2.056,
+      "max_date": "24 de maio",
+      "max_rate": 2.405,
+      "avg_rate": 2.1782
+    },
+    {
+      "year": 2007,
+      "min_date": "14 de novembro",
+      "min_rate": 1.732,
+      "max_date": "5 de janeiro",
+      "max_rate": 2.153,
+      "avg_rate": 1.948
+    },
+    {
+      "year": 2008,
+      "min_date": "31 de julho",
+      "min_rate": 1.562,
+      "max_date": "5 de dezembro",
+      "max_rate": 2.621,
+      "avg_rate": 1.8349
+    },
+    {
+      "year": 2009,
+      "min_date": "15 de outubro",
+      "min_rate": 1.698,
+      "max_date": "2 de março",
+      "max_rate": 2.451,
+      "avg_rate": 1.9974
+    },
+    {
+      "year": 2010,
+      "min_date": "13 de outubro",
+      "min_rate": 1.655,
+      "max_date": "5 de fevereiro",
+      "max_rate": 1.891,
+      "avg_rate": 1.7603
+    },
+    {
+      "year": 2011,
+      "min_date": "26 de julho",
+      "min_rate": 1.5284,
+      "max_date": "22 de setembro",
+      "max_rate": 1.952,
+      "avg_rate": 1.675
+    },
+    {
+      "year": 2012,
+      "min_date": "29 de fevereiro",
+      "min_rate": 1.692,
+      "max_date": "3 de dezembro",
+      "max_rate": 2.1395,
+      "avg_rate": 1.9546
+    },
+    {
+      "year": 2013,
+      "min_date": "11 de março",
+      "min_rate": 1.943,
+      "max_date": "21 de agosto",
+      "max_rate": 2.4523,
+      "avg_rate": 2.1576
+    },
+    {
+      "year": 2014,
+      "min_date": "10 de abril",
+      "min_rate": 2.1825,
+      "max_date": "16 de dezembro",
+      "max_rate": 2.7614,
+      "avg_rate": 2.3531
+    },
+    {
+      "year": 2015,
+      "min_date": "22 de janeiro",
+      "min_rate": 2.5554,
+      "max_date": "23 de setembro",
+      "max_rate": 4.2491,
+      "avg_rate": 3.391
+    },
+    {
+      "year": 2016,
+      "min_date": "25 de outubro",
+      "min_rate": 3.1023,
+      "max_date": "22 de janeiro",
+      "max_rate": 4.1737,
+      "avg_rate": 3.43
+    },
+    {
+      "year": 2017,
+      "min_date": "16 de fevereiro",
+      "min_rate": 3.039,
+      "max_date": "19 de maio",
+      "max_rate": 3.3703,
+      "avg_rate": 3.1855
+    },
+    {
+      "year": 2018,
+      "min_date": "25 de janeiro",
+      "min_rate": 3.1463,
+      "max_date": "14 de setembro",
+      "max_rate": 4.2066,
+      "avg_rate": 3.6644
+    },
+    {
+      "year": 2019,
+      "min_date": "1 de fevereiro",
+      "min_rate": 3.6447,
+      "max_date": "28 de novembro",
+      "max_rate": 4.264,
+      "avg_rate": 3.9437
+    },
+    {
+      "year": 2020,
+      "min_date": "2 de janeiro",
+      "min_rate": 4.0195,
+      "max_date": "14 de maio",
+      "max_rate": 5.8887,
+      "avg_rate": 5.242
+    },
+    {
+      "year": 2021,
+      "min_date": "25 de junho",
+      "min_rate": 4.9142,
+      "max_date": "14 de setembro",
+      "max_rate": 5.8757,
+      "avg_rate": 5.3975
+    },
+    {
+      "year": 2022,
+      "min_date": "maio",
+      "min_rate": 4.7158,
+      "max_date": "janeiro",
+      "max_rate": 5.7127,
+      "avg_rate": 5.2334
+    },
+    {
+      "year": 2023,
+      "min_date": "agosto",
+      "min_rate": 4.7957,
+      "max_date": "janeiro",
+      "max_rate": 5.3183,
+      "avg_rate": 5.0175
+    },
+    {
+      "year": 2024,
+      "min_date": "fevereiro",
+      "min_rate": 4.8765,
+      "max_date": "dezembro",
+      "max_rate": 5.7885,
+      "avg_rate": 5.2817
+    }
+  ],
+  "meta": {
+    "title": "Cotação do dólar em reais por ano (1994–2024) - Free Download",
+    "description": "Cotação mínima, máxima e média anual do dólar americano em reais (R$ por US$) desde a criação do Plano Real em 1994. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cotação do dólar em reais por ano (1994–2024) | ListBase",
+    "seo_description": "Download Cotação do dólar em reais por ano (1994–2024) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Real_(moeda_brasileira)"
+    ]
+  }
+}
