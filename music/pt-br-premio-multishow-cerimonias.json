@@ -1,0 +1,282 @@
+{
+  "id": "pt-br-premio-multishow-cerimonias",
+  "name": "Prêmio Multishow de Música Brasileira — cerimônias",
+  "title": "Prêmio Multishow de Música Brasileira — cerimônias",
+  "description": "Edições do Prêmio Multishow de Música Brasileira desde 1994, realizadas no Rio de Janeiro, com data, local, apresentadores e artista homenageado (inclui a edição de 2026, prevista para dezembro).",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Prêmio_Multishow_de_Música_Brasileira",
+  "source_url": "https://pt.wikipedia.org/wiki/Prêmio_Multishow_de_Música_Brasileira",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    },
+    {
+      "key": "hosts",
+      "label": "Hosts",
+      "type": "string"
+    },
+    {
+      "key": "honoree",
+      "label": "Honoree",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1994,
+      "date": "25 de maio",
+      "venue": "JazzMania",
+      "hosts": "Cissa Guimarães",
+      "honoree": ""
+    },
+    {
+      "year": 1995,
+      "date": "31 de maio",
+      "venue": "Ballroom",
+      "hosts": "Mylena Ciribelli",
+      "honoree": ""
+    },
+    {
+      "year": 1996,
+      "date": "29 de maio",
+      "venue": "Ballroom",
+      "hosts": "Cissa Guimarães",
+      "honoree": ""
+    },
+    {
+      "year": 1997,
+      "date": "21 de maio",
+      "venue": "Ballroom",
+      "hosts": "Cissa Guimarães",
+      "honoree": ""
+    },
+    {
+      "year": 1998,
+      "date": "27 de maio",
+      "venue": "Canecão",
+      "hosts": "Toni Garrido, Alessandra Calor",
+      "honoree": ""
+    },
+    {
+      "year": 1999,
+      "date": "25 de maio",
+      "venue": "Canecão",
+      "hosts": "João Marcello Bôscoli, Alessandra Calor",
+      "honoree": ""
+    },
+    {
+      "year": 2000,
+      "date": "16 de maio",
+      "venue": "Theatro Municipal",
+      "hosts": "Nelson Motta, Fernanda Torres",
+      "honoree": ""
+    },
+    {
+      "year": 2001,
+      "date": "22 de maio",
+      "venue": "Theatro Municipal",
+      "hosts": "Nelson Motta, Fernanda Torres",
+      "honoree": "Tim Maia"
+    },
+    {
+      "year": 2002,
+      "date": "4 de junho",
+      "venue": "Theatro Municipal",
+      "hosts": "Nelson Motta, Fernanda Torres",
+      "honoree": "Cássia Eller"
+    },
+    {
+      "year": 2003,
+      "date": "3 de junho",
+      "venue": "Theatro Municipal",
+      "hosts": "Nelson Motta, Fernanda Torres",
+      "honoree": "Erasmo Carlos"
+    },
+    {
+      "year": 2004,
+      "date": "1 de junho",
+      "venue": "Theatro Municipal",
+      "hosts": "Nelson Motta, Regina Casé",
+      "honoree": "Herbert Vianna"
+    },
+    {
+      "year": 2005,
+      "date": "5 de julho",
+      "venue": "Theatro Municipal",
+      "hosts": "Nelson Motta, Regina Casé",
+      "honoree": "Raul Seixas"
+    },
+    {
+      "year": 2006,
+      "date": "16 de maio",
+      "venue": "Theatro Municipal",
+      "hosts": "Fernanda Torres",
+      "honoree": "Zeca Pagodinho"
+    },
+    {
+      "year": 2007,
+      "date": "3 de julho",
+      "venue": "Theatro Municipal",
+      "hosts": "Fernanda Torres",
+      "honoree": "Chico Science"
+    },
+    {
+      "year": 2008,
+      "date": "1 de julho",
+      "venue": "Theatro Municipal",
+      "hosts": "Lázaro Ramos",
+      "honoree": "Lulu Santos"
+    },
+    {
+      "year": 2009,
+      "date": "18 de agosto",
+      "venue": "Citibank Hall",
+      "hosts": "Fernanda Torres",
+      "honoree": "Rita Lee"
+    },
+    {
+      "year": 2010,
+      "date": "24 de agosto",
+      "venue": "Jeunesse Arena",
+      "hosts": "Fernanda Torres, Bruno Mazzeo",
+      "honoree": "Titãs"
+    },
+    {
+      "year": 2011,
+      "date": "6 de setembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Bruno Mazzeo",
+      "honoree": "Jorge Ben Jor"
+    },
+    {
+      "year": 2012,
+      "date": "18 de setembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Ivete Sangalo, Paulo Gustavo",
+      "honoree": ""
+    },
+    {
+      "year": 2013,
+      "date": "3 de setembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Ivete Sangalo, Paulo Gustavo",
+      "honoree": ""
+    },
+    {
+      "year": 2014,
+      "date": "28 de outubro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Ivete Sangalo, Paulo Gustavo, Tatá Werneck, Didi Wagner",
+      "honoree": ""
+    },
+    {
+      "year": 2015,
+      "date": "1 de setembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Ivete Sangalo, Paulo Gustavo",
+      "honoree": ""
+    },
+    {
+      "year": 2016,
+      "date": "25 de outubro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Fábio Porchat, Tatá Werneck",
+      "honoree": "Ney Matogrosso"
+    },
+    {
+      "year": 2017,
+      "date": "24 de outubro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Fábio Porchat, Tatá Werneck",
+      "honoree": ""
+    },
+    {
+      "year": 2018,
+      "date": "25 de setembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Tatá Werneck, Anitta",
+      "honoree": "Ivete Sangalo"
+    },
+    {
+      "year": 2019,
+      "date": "29 de outubro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Paulo Gustavo, Anitta",
+      "honoree": ""
+    },
+    {
+      "year": 2020,
+      "date": "11 de novembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Iza, Paulo Gustavo, Tatá Werneck",
+      "honoree": ""
+    },
+    {
+      "year": 2021,
+      "date": "8 de dezembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Iza, Tatá Werneck",
+      "honoree": "Paulo Gustavo e Marília Mendonça"
+    },
+    {
+      "year": 2022,
+      "date": "18 de outubro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Gloria Groove, Linn da Quebrada, Marcos Mion",
+      "honoree": ""
+    },
+    {
+      "year": 2023,
+      "date": "7 de novembro",
+      "venue": "Jeunesse Arena",
+      "hosts": "Tatá Werneck, Ludmilla, Tadeu Schmidt",
+      "honoree": ""
+    },
+    {
+      "year": 2024,
+      "date": "3 de dezembro",
+      "venue": "Riocentro",
+      "hosts": "Tatá Werneck, Tadeu Schmidt, Kenya Sade",
+      "honoree": "Anitta"
+    },
+    {
+      "year": 2025,
+      "date": "9 de dezembro",
+      "venue": "Farmasi Arena",
+      "hosts": "Tadeu Schmidt, Kenya Sade",
+      "honoree": "Gilberto Gil"
+    },
+    {
+      "year": 2026,
+      "date": "9 de dezembro",
+      "venue": "Farmasi Arena",
+      "hosts": "Gaby Amarantos, Tadeu Schmidt, Kenya Sade",
+      "honoree": "Alceu Valença"
+    }
+  ],
+  "meta": {
+    "title": "Prêmio Multishow de Música Brasileira — cerimônias - Free Download",
+    "description": "Edições do Prêmio Multishow de Música Brasileira desde 1994, realizadas no Rio de Janeiro, com data, local, apresentadores e artista homenageado (inclui a edição de 2026, prevista para dezembro). Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prêmio Multishow de Música Brasileira — cerimônias | ListBase",
+    "seo_description": "Download Prêmio Multishow de Música Brasileira — cerimônias — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Prêmio_Multishow_de_Música_Brasileira"
+    ]
+  }
+}

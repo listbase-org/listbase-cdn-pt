@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-17T02:20:25.782Z",
-  "total_datasets": 574,
-  "total_records": 751832,
+  "generated": "2026-11-17T02:20:35.017Z",
+  "total_datasets": 575,
+  "total_records": 751865,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -4556,6 +4556,32 @@
         "xlsx": {
           "name": "pt-br-artistas-recordistas-vendas_PT.xlsx",
           "size": 10292
+        }
+      }
+    },
+    {
+      "id": "pt-br-premio-multishow-cerimonias",
+      "name": "Prêmio Multishow de Música Brasileira — cerimônias",
+      "category": "music",
+      "record_count": 33,
+      "columns": [
+        "year",
+        "date",
+        "venue",
+        "hosts",
+        "honoree"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Prêmio_Multishow_de_Música_Brasileira",
+      "updated": "2026-11",
+      "size": 7475,
+      "files": {
+        "csv": {
+          "name": "pt-br-premio-multishow-cerimonias_PT.csv",
+          "size": 2598
+        },
+        "xlsx": {
+          "name": "pt-br-premio-multishow-cerimonias_PT.xlsx",
+          "size": 8223
         }
       }
     },
