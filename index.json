@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-17T02:20:16.149Z",
-  "total_datasets": 573,
-  "total_records": 751603,
+  "generated": "2026-11-17T02:20:25.782Z",
+  "total_datasets": 574,
+  "total_records": 751832,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -16042,6 +16042,33 @@
         "xlsx": {
           "name": "pt-br-municipios-por-populacao-2022_PT.xlsx",
           "size": 172520
+        }
+      }
+    },
+    {
+      "id": "pt-br-povos-indigenas",
+      "name": "Povos indígenas do Brasil",
+      "category": "society",
+      "record_count": 229,
+      "columns": [
+        "people",
+        "other_names",
+        "language_family",
+        "states_or_countries",
+        "population",
+        "population_as_listed"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_povos_indígenas_do_Brasil",
+      "updated": "2026-11",
+      "size": 53035,
+      "files": {
+        "csv": {
+          "name": "pt-br-povos-indigenas_PT.csv",
+          "size": 15177
+        },
+        "xlsx": {
+          "name": "pt-br-povos-indigenas_PT.xlsx",
+          "size": 18232
         }
       }
     },

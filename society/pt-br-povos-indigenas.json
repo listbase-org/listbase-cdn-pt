@@ -1,0 +1,1888 @@
+{
+  "id": "pt-br-povos-indigenas",
+  "name": "Povos indígenas do Brasil",
+  "title": "Povos indígenas do Brasil",
+  "description": "Lista dos povos indígenas do Brasil com outros nomes, família linguística, unidades federativas onde vivem e população (censo ou estimativa, tal como listada).",
+  "category": "society",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_povos_indígenas_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_povos_indígenas_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 229,
+  "columns": [
+    {
+      "key": "people",
+      "label": "People",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "language_family",
+      "label": "Language Family",
+      "type": "string"
+    },
+    {
+      "key": "states_or_countries",
+      "label": "States Or Countries",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "population_as_listed",
+      "label": "Population As Listed",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "people": "Aicanãs",
+      "other_names": "Aikaná, Massacá, Tubarão, Columbiara, Mundé, Mondé, Huarí",
+      "language_family": "Aicanã",
+      "states_or_countries": "Rondônia",
+      "population": 350,
+      "population_as_listed": "350"
+    },
+    {
+      "people": "Aikewaras",
+      "other_names": "Suruí, Sororós",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 383,
+      "population_as_listed": "383"
+    },
+    {
+      "people": "Ajurus",
+      "other_names": "Xauayaunaeukaa",
+      "language_family": "Tupari",
+      "states_or_countries": "Rondônia",
+      "population": 77,
+      "population_as_listed": "77"
+    },
+    {
+      "people": "Akuntsu",
+      "other_names": "Akunt'su",
+      "language_family": "Tupari",
+      "states_or_countries": "Rondônia",
+      "population": 4,
+      "population_as_listed": "4"
+    },
+    {
+      "people": "Amanaiés",
+      "other_names": "Amanayé, Araredeua",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 178,
+      "population_as_listed": "178"
+    },
+    {
+      "people": "Amondauas",
+      "other_names": "Amondawa, Uru-eu-uau-uau",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Rondônia",
+      "population": 126,
+      "population_as_listed": "126"
+    },
+    {
+      "people": "Anacés",
+      "other_names": "",
+      "language_family": "",
+      "states_or_countries": "Ceará",
+      "population": 2018,
+      "population_as_listed": "2018"
+    },
+    {
+      "people": "Anambés",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 161,
+      "population_as_listed": "161"
+    },
+    {
+      "people": "Aparaís",
+      "other_names": "Apalai, Apalay, Appiroís, Aparathy, Apareilles",
+      "language_family": "Caribe",
+      "states_or_countries": "Pará",
+      "population": 514,
+      "population_as_listed": "514"
+    },
+    {
+      "people": "Apiacás",
+      "other_names": "Apiaká",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Mato Grosso e Pará",
+      "population": 850,
+      "population_as_listed": "850"
+    },
+    {
+      "people": "Apinajés",
+      "other_names": "Apinayé, Apinaié",
+      "language_family": "Jê",
+      "states_or_countries": "Tocantins",
+      "population": 1262,
+      "population_as_listed": "1262"
+    },
+    {
+      "people": "Apolimas-araras",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Acre",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Apurinãs",
+      "other_names": "",
+      "language_family": "Aruaque",
+      "states_or_countries": "Amazonas",
+      "population": 2779,
+      "population_as_listed": "2779"
+    },
+    {
+      "people": "Aranãs",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Minas Gerais",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Arapaços",
+      "other_names": "Arapaso",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas",
+      "population": 328,
+      "population_as_listed": "328"
+    },
+    {
+      "people": "Araras-do-pará",
+      "other_names": "",
+      "language_family": "Caribe",
+      "states_or_countries": "Pará",
+      "population": 195,
+      "population_as_listed": "195"
+    },
+    {
+      "people": "Araras-chauanauá",
+      "other_names": "",
+      "language_family": "Pano",
+      "states_or_countries": "Acre",
+      "population": 200,
+      "population_as_listed": "200"
+    },
+    {
+      "people": "Araras-do-aripuanã",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Mato Grosso",
+      "population": 150,
+      "population_as_listed": "150"
+    },
+    {
+      "people": "Arauetés",
+      "other_names": "Araweté",
+      "language_family": "Araueté",
+      "states_or_countries": "Pará",
+      "population": 278,
+      "population_as_listed": "278"
+    },
+    {
+      "people": "Aricapus",
+      "other_names": "Arikapu",
+      "language_family": "Jabuti",
+      "states_or_countries": "Rondônia",
+      "population": 19,
+      "population_as_listed": "19"
+    },
+    {
+      "people": "Aruás",
+      "other_names": "",
+      "language_family": "Aruá",
+      "states_or_countries": "Rondônia",
+      "population": 58,
+      "population_as_listed": "58"
+    },
+    {
+      "people": "Aquáuas",
+      "other_names": "Assuriní, Akwáwa (subgrupos: Assurinis-do-tocantis e do-xingu)",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 303,
+      "population_as_listed": "303"
+    },
+    {
+      "people": "Aticuns-umãs",
+      "other_names": "Aticum, Atikim-uman",
+      "language_family": "Português",
+      "states_or_countries": "Pernambuco",
+      "population": 2743,
+      "population_as_listed": "2743"
+    },
+    {
+      "people": "Avás-canoeiros",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Tocantins e Goiás",
+      "population": 16,
+      "population_as_listed": "16"
+    },
+    {
+      "people": "Auetis",
+      "other_names": "Aweti",
+      "language_family": "Aueti",
+      "states_or_countries": "Mato Grosso",
+      "population": 138,
+      "population_as_listed": "138"
+    },
+    {
+      "people": "Bacairis",
+      "other_names": "Bakairi",
+      "language_family": "Caribe",
+      "states_or_countries": "Mato Grosso",
+      "population": 950,
+      "population_as_listed": "950"
+    },
+    {
+      "people": "Banauás",
+      "other_names": "Banawa",
+      "language_family": "Aruá",
+      "states_or_countries": "Amazonas",
+      "population": 100,
+      "population_as_listed": "100"
+    },
+    {
+      "people": "Baniuas",
+      "other_names": "Baniwa",
+      "language_family": "",
+      "states_or_countries": "Amazonas, Colômbia e Venezuela",
+      "population": "",
+      "population_as_listed": "5141 (6790) (3236)"
+    },
+    {
+      "people": "Barás",
+      "other_names": "",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "39 (296)"
+    },
+    {
+      "people": "Barasanas",
+      "other_names": "",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "61 (939)"
+    },
+    {
+      "people": "Barés",
+      "other_names": "",
+      "language_family": "Nheengatu",
+      "states_or_countries": "Amazonas e Venezuela",
+      "population": "",
+      "population_as_listed": "2790 (1210)"
+    },
+    {
+      "people": "Bororos",
+      "other_names": "",
+      "language_family": "Bororo",
+      "states_or_countries": "Mato Grosso",
+      "population": 1024,
+      "population_as_listed": "1024"
+    },
+    {
+      "people": "Caetés",
+      "other_names": "Kaa-ete",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pernambuco/Alagoas",
+      "population": "",
+      "population_as_listed": "Exterminados"
+    },
+    {
+      "people": "Caapores",
+      "other_names": "Kaapor",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Maranhão",
+      "population": 800,
+      "population_as_listed": "800"
+    },
+    {
+      "people": "Cadiuéus",
+      "other_names": "Kadiwéu",
+      "language_family": "Guaicuru",
+      "states_or_countries": "Mato Grosso do Sul",
+      "population": 1592,
+      "population_as_listed": "1592"
+    },
+    {
+      "people": "Caiabis",
+      "other_names": "Kaiabis",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Mato Grosso e Pará",
+      "population": 1000,
+      "population_as_listed": "1000"
+    },
+    {
+      "people": "Caimbés",
+      "other_names": "Kaimbé",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 1270,
+      "population_as_listed": "1270"
+    },
+    {
+      "people": "Caingangues",
+      "other_names": "Kaingangue",
+      "language_family": "Jê",
+      "states_or_countries": "SP/PR/SC/RS",
+      "population": 25000,
+      "population_as_listed": "25000"
+    },
+    {
+      "people": "Caixanas",
+      "other_names": "Kaixana",
+      "language_family": "Português",
+      "states_or_countries": "Amazonas",
+      "population": 224,
+      "population_as_listed": "224"
+    },
+    {
+      "people": "Calabaças",
+      "other_names": "Calabassa",
+      "language_family": "?",
+      "states_or_countries": "Ceará",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Calancós",
+      "other_names": "Kalankó",
+      "language_family": "?",
+      "states_or_countries": "Alagoas",
+      "population": 230,
+      "population_as_listed": "230"
+    },
+    {
+      "people": "Calapalos",
+      "other_names": "Kalapalo",
+      "language_family": "Caribe",
+      "states_or_countries": "Mato Grosso",
+      "population": 417,
+      "population_as_listed": "417"
+    },
+    {
+      "people": "Camaiurás",
+      "other_names": "Kamaiurá",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Mato Grosso",
+      "population": 355,
+      "population_as_listed": "355"
+    },
+    {
+      "people": "Cambas",
+      "other_names": "Kamba",
+      "language_family": "?",
+      "states_or_countries": "Mato Grosso do Sul",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Cambebas",
+      "other_names": "Kambeba",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Amazonas",
+      "population": 156,
+      "population_as_listed": "156"
+    },
+    {
+      "people": "Cambiuás",
+      "other_names": "Kambiwá",
+      "language_family": "Português",
+      "states_or_countries": "Pernambuco",
+      "population": 1578,
+      "population_as_listed": "1578"
+    },
+    {
+      "people": "Campas",
+      "other_names": "Kampa, Achaninca, Ashaninka",
+      "language_family": "Aruaque",
+      "states_or_countries": "Acre e Peru",
+      "population": "",
+      "population_as_listed": "813 (55000 em 1993)"
+    },
+    {
+      "people": "Canamaris",
+      "other_names": "Kanamari",
+      "language_family": "Catuquino",
+      "states_or_countries": "Amazonas",
+      "population": 1327,
+      "population_as_listed": "1327"
+    },
+    {
+      "people": "Apaniecras-canelas",
+      "other_names": "Kanela-Apaniekra",
+      "language_family": "Jê",
+      "states_or_countries": "Maranhão",
+      "population": 458,
+      "population_as_listed": "458"
+    },
+    {
+      "people": "Canindés",
+      "other_names": "Kanindé",
+      "language_family": "Português",
+      "states_or_countries": "Ceará",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Canoês",
+      "other_names": "Kanoê",
+      "language_family": "Canoê",
+      "states_or_countries": "Rondônia",
+      "population": 95,
+      "population_as_listed": "95"
+    },
+    {
+      "people": "Cantarurés",
+      "other_names": "Kantaruré",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 353,
+      "population_as_listed": "353"
+    },
+    {
+      "people": "Capinauás",
+      "other_names": "Kapinawá",
+      "language_family": "Português",
+      "states_or_countries": "Pernambuco",
+      "population": 422,
+      "population_as_listed": "422"
+    },
+    {
+      "people": "Carajás",
+      "other_names": "Karajá",
+      "language_family": "Carajá",
+      "states_or_countries": "Mato Grosso, Tocantins e Pará",
+      "population": 2500,
+      "population_as_listed": "2500"
+    },
+    {
+      "people": "Carapanãs",
+      "other_names": "Karapanã",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "42 (412)"
+    },
+    {
+      "people": "Carapotós",
+      "other_names": "Karapotó",
+      "language_family": "Português",
+      "states_or_countries": "Alagoas",
+      "population": 796,
+      "population_as_listed": "796"
+    },
+    {
+      "people": "Caripunas",
+      "other_names": "Karipuna",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Rondônia",
+      "population": 21,
+      "population_as_listed": "21"
+    },
+    {
+      "people": "Caripunas-do-amapá",
+      "other_names": "Karipuna-do-Amapá",
+      "language_family": "crioulo (patois francês)",
+      "states_or_countries": "Amapá",
+      "population": 1708,
+      "population_as_listed": "1708"
+    },
+    {
+      "people": "Cariris",
+      "other_names": "Kariri",
+      "language_family": "Português",
+      "states_or_countries": "Ceará",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Cariris-xocós",
+      "other_names": "Kariri-Xocó",
+      "language_family": "Português",
+      "states_or_countries": "Alagoas",
+      "population": 1500,
+      "population_as_listed": "1500"
+    },
+    {
+      "people": "Caritianas",
+      "other_names": "Karitiana",
+      "language_family": "Ariquem",
+      "states_or_countries": "Rondônia",
+      "population": 206,
+      "population_as_listed": "206"
+    },
+    {
+      "people": "Araras-de-rondônia",
+      "other_names": "Karo",
+      "language_family": "Ramarama",
+      "states_or_countries": "Rondônia",
+      "population": 184,
+      "population_as_listed": "184"
+    },
+    {
+      "people": "Caruazus",
+      "other_names": "Karuazu",
+      "language_family": "Português",
+      "states_or_countries": "Alagoas",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Catuquinas",
+      "other_names": "Katukina",
+      "language_family": "Catuquino",
+      "states_or_countries": "Amazonas",
+      "population": 289,
+      "population_as_listed": "289"
+    },
+    {
+      "people": "Catuquinas-pano",
+      "other_names": "Katukina-Pano",
+      "language_family": "Pano",
+      "states_or_countries": "Acre e Amazonas",
+      "population": 318,
+      "population_as_listed": "318"
+    },
+    {
+      "people": "Catxuianas",
+      "other_names": "Katxuyana",
+      "language_family": "Caribe",
+      "states_or_countries": "Pará",
+      "population": 69,
+      "population_as_listed": "69"
+    },
+    {
+      "people": "Caxararis",
+      "other_names": "Kaxarari",
+      "language_family": "Pano",
+      "states_or_countries": "Amazonas e Rondônia",
+      "population": 269,
+      "population_as_listed": "269"
+    },
+    {
+      "people": "Caxinauás",
+      "other_names": "Kaxinawá",
+      "language_family": "Pano",
+      "states_or_countries": "Acre e Peru",
+      "population": "",
+      "population_as_listed": "3964 (1400)"
+    },
+    {
+      "people": "Caxixós",
+      "other_names": "Kaxixó",
+      "language_family": "Português",
+      "states_or_countries": "Minas Gerais",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Caiapós",
+      "other_names": "Kayapó (subgrupos: Gorotire, A'ucre, Quicretun, Mecrãnoti, Cuben-cran-quen, Cocraimoro, Mentuctire, Xicrin e Cararaô)",
+      "language_family": "Caiapó (Jê)",
+      "states_or_countries": "Mato Grosso e Pará",
+      "population": 7096,
+      "population_as_listed": "7096"
+    },
+    {
+      "people": "Chamacocos",
+      "other_names": "",
+      "language_family": "Samuco",
+      "states_or_countries": "Mato Grosso do Sul e Paraguai",
+      "population": "",
+      "population_as_listed": "40 (908)"
+    },
+    {
+      "people": "Cintas-largas",
+      "other_names": "",
+      "language_family": "Tupi-mondé",
+      "states_or_countries": "Rondônia e Mato Grosso",
+      "population": 1300,
+      "population_as_listed": "1300"
+    },
+    {
+      "people": "Cocamas",
+      "other_names": "Kocama",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Amazonas, Peru e Colômbia",
+      "population": "",
+      "population_as_listed": "622 (10705) (236)"
+    },
+    {
+      "people": "Corubos",
+      "other_names": "Korubo",
+      "language_family": "Pano",
+      "states_or_countries": "Amazonas",
+      "population": 250,
+      "population_as_listed": "250"
+    },
+    {
+      "people": "Craós",
+      "other_names": "Krahó",
+      "language_family": "Timbira oriental",
+      "states_or_countries": "Tocantins",
+      "population": 1900,
+      "population_as_listed": "1900"
+    },
+    {
+      "people": "Crenaques",
+      "other_names": "Krenak",
+      "language_family": "Crenaque",
+      "states_or_countries": "Minas Gerais",
+      "population": 150,
+      "population_as_listed": "150"
+    },
+    {
+      "people": "Cricatis",
+      "other_names": "Krikati",
+      "language_family": "Jê",
+      "states_or_countries": "Maranhão",
+      "population": 620,
+      "population_as_listed": "620"
+    },
+    {
+      "people": "Cubeos",
+      "other_names": "Kubeo",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "287 (4238)"
+    },
+    {
+      "people": "Cuicuros",
+      "other_names": "Kuikuro",
+      "language_family": "Caribe",
+      "states_or_countries": "Mato Grosso",
+      "population": 450,
+      "population_as_listed": "450"
+    },
+    {
+      "people": "Cujubins",
+      "other_names": "Kujubim",
+      "language_family": "Txapacura",
+      "states_or_countries": "Rondônia",
+      "population": 27,
+      "population_as_listed": "27"
+    },
+    {
+      "people": "Culinas-madirrás",
+      "other_names": "Kulina-Madihá",
+      "language_family": "Arauá Culina",
+      "states_or_countries": "Acre, Amazonas e Peru",
+      "population": "",
+      "population_as_listed": "2318 (300)"
+    },
+    {
+      "people": "Culinas-pano",
+      "other_names": "Kulina Pano",
+      "language_family": "Pano",
+      "states_or_countries": "Amazonas",
+      "population": 20,
+      "population_as_listed": "20"
+    },
+    {
+      "people": "Curipacos",
+      "other_names": "Kuripako",
+      "language_family": "Aruaque",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "1115 (?)"
+    },
+    {
+      "people": "Curuaias",
+      "other_names": "Kuruaya",
+      "language_family": "Família linguística mundurucu Curuaia",
+      "states_or_countries": "Pará",
+      "population": 115,
+      "population_as_listed": "115"
+    },
+    {
+      "people": "Cuazás",
+      "other_names": "Kwazá",
+      "language_family": "Cuazá",
+      "states_or_countries": "Rondônia",
+      "population": 25,
+      "population_as_listed": "25"
+    },
+    {
+      "people": "Denis",
+      "other_names": "",
+      "language_family": "Arauá",
+      "states_or_countries": "Amazonas",
+      "population": 736,
+      "population_as_listed": "736"
+    },
+    {
+      "people": "Desanos",
+      "other_names": "",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "1531 (2036)"
+    },
+    {
+      "people": "Dous",
+      "other_names": "Dow, Dow Maku",
+      "language_family": "Macu",
+      "states_or_countries": "Amazonas",
+      "population": 100,
+      "population_as_listed": "100"
+    },
+    {
+      "people": "Euaruianas",
+      "other_names": "Ewarhuyana",
+      "language_family": "?",
+      "states_or_countries": "Pará",
+      "population": 12,
+      "population_as_listed": "12"
+    },
+    {
+      "people": "Fulniôs",
+      "other_names": "Fulni-ô",
+      "language_family": "Iatê",
+      "states_or_countries": "Pernambuco",
+      "population": 2930,
+      "population_as_listed": "2930"
+    },
+    {
+      "people": "Galibis",
+      "other_names": "",
+      "language_family": "Caribe e crioulo (patois)",
+      "states_or_countries": "Amapá e Guiana Francesa",
+      "population": "",
+      "population_as_listed": "28 (2000)"
+    },
+    {
+      "people": "Galibis-maruornos",
+      "other_names": "Galibi-Marworno",
+      "language_family": "Crioulo (patois)",
+      "states_or_countries": "Amapá",
+      "population": 1764,
+      "population_as_listed": "1764"
+    },
+    {
+      "people": "Gaviões-mondés",
+      "other_names": "",
+      "language_family": "Mondé",
+      "states_or_countries": "Rondônia",
+      "population": 436,
+      "population_as_listed": "436"
+    },
+    {
+      "people": "Guajás",
+      "other_names": "Awá",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Maranhão",
+      "population": 280,
+      "population_as_listed": "280"
+    },
+    {
+      "people": "Paracatejês-gaviões",
+      "other_names": "Gavião-Rorokateyê",
+      "language_family": "Timbira oriental",
+      "states_or_countries": "Pará",
+      "population": 420,
+      "population_as_listed": "420"
+    },
+    {
+      "people": "Pucobiés-gaviões",
+      "other_names": "Gavião-pykopjê",
+      "language_family": "Timbira oriental",
+      "states_or_countries": "Maranhão",
+      "population": 250,
+      "population_as_listed": "250"
+    },
+    {
+      "people": "Kyikatejês-gaviões",
+      "other_names": "Gavião-Koykateyê",
+      "language_family": "Timbira oriental",
+      "states_or_countries": "Pará",
+      "population": 381,
+      "population_as_listed": "381"
+    },
+    {
+      "people": "Guajajaras",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Maranhão",
+      "population": 13100,
+      "population_as_listed": "13100"
+    },
+    {
+      "people": "Goitacás",
+      "other_names": "Goytacaz",
+      "language_family": "?",
+      "states_or_countries": "Rio de Janeiro",
+      "population": "",
+      "population_as_listed": "Exterminados"
+    },
+    {
+      "people": "Guaranis",
+      "other_names": "Subgrupos: Ñandeva, Caiouá e Mbia",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Argentina, Bolívia, Paraguai, Uruguai e Brasil (RS/SC/PR, SP/RJ/MS)",
+      "population": "",
+      "population_as_listed": "34000 (Brasil)"
+    },
+    {
+      "people": "Guatós",
+      "other_names": "",
+      "language_family": "Guató",
+      "states_or_countries": "Mato Grosso do Sul",
+      "population": 372,
+      "population_as_listed": "372"
+    },
+    {
+      "people": "Hupdás",
+      "other_names": "",
+      "language_family": "Macu",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Hixkaryanas",
+      "other_names": "Hiskariana, Hexkaryana",
+      "language_family": "Caribe",
+      "states_or_countries": "Pará e Roraima",
+      "population": 1242,
+      "population_as_listed": "1242"
+    },
+    {
+      "people": "Icpengues",
+      "other_names": "Txicão, Ikpeng, Txikão",
+      "language_family": "Caribe",
+      "states_or_countries": "Mato Grosso",
+      "population": 319,
+      "population_as_listed": "319"
+    },
+    {
+      "people": "Ingaricós",
+      "other_names": "Ingarikó",
+      "language_family": "Caribe",
+      "states_or_countries": "Roraima, Guiana e Venezuela",
+      "population": "",
+      "population_as_listed": "675 (4000) (728)"
+    },
+    {
+      "people": "Iranxes",
+      "other_names": "",
+      "language_family": "Iranxe",
+      "states_or_countries": "Mato Grosso",
+      "population": 326,
+      "population_as_listed": "326"
+    },
+    {
+      "people": "Jabutis",
+      "other_names": "",
+      "language_family": "Jabuti",
+      "states_or_countries": "Rondônia",
+      "population": 123,
+      "population_as_listed": "123"
+    },
+    {
+      "people": "Jamamadis",
+      "other_names": "Yamamadi, Kanamanti",
+      "language_family": "Arauá, Jamamadi",
+      "states_or_countries": "Amazonas",
+      "population": 800,
+      "population_as_listed": "800"
+    },
+    {
+      "people": "Jarauaras",
+      "other_names": "Jarawara, Jarauara, Yarawara, Jaruára, Yokana",
+      "language_family": "Arauá, jarawara",
+      "states_or_countries": "Amazonas",
+      "population": 160,
+      "population_as_listed": "160"
+    },
+    {
+      "people": "Javaés",
+      "other_names": "",
+      "language_family": "Carajá",
+      "states_or_countries": "Tocantins",
+      "population": 919,
+      "population_as_listed": "919"
+    },
+    {
+      "people": "Jenipapos-canindés",
+      "other_names": "Jenipapo-Kanindé",
+      "language_family": "Português",
+      "states_or_countries": "Ceará",
+      "population": 220,
+      "population_as_listed": "220"
+    },
+    {
+      "people": "Jiahuis",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Amazonas",
+      "population": 50,
+      "population_as_listed": "50"
+    },
+    {
+      "people": "Jiripancós",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Alagoas",
+      "population": 1500,
+      "population_as_listed": "1500"
+    },
+    {
+      "people": "Jumas",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Amazonas",
+      "population": 7,
+      "population_as_listed": "7"
+    },
+    {
+      "people": "Quiriris",
+      "other_names": "Kiriri",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 1401,
+      "population_as_listed": "1401"
+    },
+    {
+      "people": "Machineris",
+      "other_names": "",
+      "language_family": "Aruaque",
+      "states_or_countries": "Acre",
+      "population": 459,
+      "population_as_listed": "459"
+    },
+    {
+      "people": "Macurapes",
+      "other_names": "Macurap",
+      "language_family": "Tupari",
+      "states_or_countries": "Rondônia",
+      "population": 267,
+      "population_as_listed": "267"
+    },
+    {
+      "people": "Macunas",
+      "other_names": "Makuna",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "168 (528)"
+    },
+    {
+      "people": "Macuxis",
+      "other_names": "Makuxi",
+      "language_family": "Caribe",
+      "states_or_countries": "Roraima e Guiana",
+      "population": "",
+      "population_as_listed": "16500 (7500)"
+    },
+    {
+      "people": "Marubos",
+      "other_names": "",
+      "language_family": "Pano",
+      "states_or_countries": "Amazonas",
+      "population": 1043,
+      "population_as_listed": "1043"
+    },
+    {
+      "people": "Matipus",
+      "other_names": "",
+      "language_family": "Caribe",
+      "states_or_countries": "Mato Grosso",
+      "population": 119,
+      "population_as_listed": "119"
+    },
+    {
+      "people": "Matises",
+      "other_names": "",
+      "language_family": "Matis",
+      "states_or_countries": "Amazonas",
+      "population": 239,
+      "population_as_listed": "239"
+    },
+    {
+      "people": "Matsés",
+      "other_names": "",
+      "language_family": "Pano",
+      "states_or_countries": "Amazonas e Peru",
+      "population": "",
+      "population_as_listed": "829 (1000)"
+    },
+    {
+      "people": "Maxacalis",
+      "other_names": "Tikmû'ûn, Mãxakani",
+      "language_family": "Maxakalí",
+      "states_or_countries": "Minas Gerais",
+      "population": 1400,
+      "population_as_listed": "1400"
+    },
+    {
+      "people": "Meinacos",
+      "other_names": "Mehinako",
+      "language_family": "Aruaque",
+      "states_or_countries": "Mato Grosso",
+      "population": 199,
+      "population_as_listed": "199"
+    },
+    {
+      "people": "Menquis",
+      "other_names": "Menki",
+      "language_family": "Iranxe",
+      "states_or_countries": "Mato Grosso",
+      "population": 78,
+      "population_as_listed": "78"
+    },
+    {
+      "people": "Miranhas",
+      "other_names": "",
+      "language_family": "Bora",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "613 (445)"
+    },
+    {
+      "people": "Miritis-tapuias",
+      "other_names": "Mirity-Tapúya, Miriti, Buriti",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas",
+      "population": 95,
+      "population_as_listed": "95"
+    },
+    {
+      "people": "Mundurucus",
+      "other_names": "Munduruku",
+      "language_family": "Mundurucu",
+      "states_or_countries": "Pará",
+      "population": 7500,
+      "population_as_listed": "7500"
+    },
+    {
+      "people": "Muras",
+      "other_names": "",
+      "language_family": "Mura",
+      "states_or_countries": "Amazonas",
+      "population": 5540,
+      "population_as_listed": "5540"
+    },
+    {
+      "people": "Nadobes",
+      "other_names": "",
+      "language_family": "Macu",
+      "states_or_countries": "Amazonas",
+      "population": 300,
+      "population_as_listed": "300"
+    },
+    {
+      "people": "Nauquás",
+      "other_names": "Nahukuá",
+      "language_family": "Caribe",
+      "states_or_countries": "Mato Grosso",
+      "population": 105,
+      "population_as_listed": "105"
+    },
+    {
+      "people": "Nambiquaras",
+      "other_names": "Nambikwara (subgrupos: Nambiquara-do-campo, Nambiquara-do-norte, Nambiquara-do-sul)",
+      "language_family": "Nambiquara",
+      "states_or_countries": "Mato Grosso e Rondônia",
+      "population": 1145,
+      "population_as_listed": "1145"
+    },
+    {
+      "people": "Naruvotos",
+      "other_names": "",
+      "language_family": "Caribe",
+      "states_or_countries": "Mato Grosso",
+      "population": 78,
+      "population_as_listed": "78"
+    },
+    {
+      "people": "Nauas",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Acre",
+      "population": 458,
+      "population_as_listed": "458"
+    },
+    {
+      "people": "Nuquinis",
+      "other_names": "Nukini",
+      "language_family": "Pano",
+      "states_or_countries": "Acre",
+      "population": 458,
+      "population_as_listed": "458"
+    },
+    {
+      "people": "Ofaiés",
+      "other_names": "Ofayé",
+      "language_family": "Ofaié",
+      "states_or_countries": "Mato Grosso do Sul",
+      "population": 56,
+      "population_as_listed": "56"
+    },
+    {
+      "people": "Oro-uins",
+      "other_names": "Oro Win",
+      "language_family": "Txapacura",
+      "states_or_countries": "Rondônia",
+      "population": 50,
+      "population_as_listed": "50"
+    },
+    {
+      "people": "Paiteres",
+      "other_names": "",
+      "language_family": "Mondé",
+      "states_or_countries": "Rondônia",
+      "population": 920,
+      "population_as_listed": "920"
+    },
+    {
+      "people": "Uaris",
+      "other_names": "Pakaa-Nova",
+      "language_family": "Txapacura",
+      "states_or_countries": "Rondônia",
+      "population": 1930,
+      "population_as_listed": "1930"
+    },
+    {
+      "people": "Palicures",
+      "other_names": "Palikur",
+      "language_family": "Aruaque",
+      "states_or_countries": "Amapá e Guiana Francesa",
+      "population": "",
+      "population_as_listed": "918 (470)"
+    },
+    {
+      "people": "Panarás",
+      "other_names": "Kenhacarore, Kreen Acarore, Krenacore, Índios Gigantes da Amazônia",
+      "language_family": "Crenhacarore",
+      "states_or_countries": "Mato Grosso e Pará",
+      "population": 202,
+      "population_as_listed": "202"
+    },
+    {
+      "people": "Pancararés",
+      "other_names": "Pankararé",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 1500,
+      "population_as_listed": "1500"
+    },
+    {
+      "people": "Pancararus",
+      "other_names": "Pankararu",
+      "language_family": "Português",
+      "states_or_countries": "Pernambuco",
+      "population": 4146,
+      "population_as_listed": "4146"
+    },
+    {
+      "people": "Pancarus",
+      "other_names": "Pankaru",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 84,
+      "population_as_listed": "84"
+    },
+    {
+      "people": "Paracanãs",
+      "other_names": "Parakanã",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 800,
+      "population_as_listed": "800"
+    },
+    {
+      "people": "Parecis",
+      "other_names": "",
+      "language_family": "Aruaque",
+      "states_or_countries": "Mato Grosso",
+      "population": 1293,
+      "population_as_listed": "1293"
+    },
+    {
+      "people": "Parintintins",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Amazonas",
+      "population": 156,
+      "population_as_listed": "156"
+    },
+    {
+      "people": "Patamonas",
+      "other_names": "",
+      "language_family": "Caribe",
+      "states_or_countries": "Roraima e Guiana",
+      "population": "",
+      "population_as_listed": "50 (5500)"
+    },
+    {
+      "people": "Pataxós",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 2790,
+      "population_as_listed": "2790"
+    },
+    {
+      "people": "Pataxós-hã-hã-hães",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 2219,
+      "population_as_listed": "2219"
+    },
+    {
+      "people": "Paumaris",
+      "other_names": "",
+      "language_family": "Aruaque",
+      "states_or_countries": "Amazonas",
+      "population": 870,
+      "population_as_listed": "870"
+    },
+    {
+      "people": "Pipipãs",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Pernambuco",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Pirarrãs",
+      "other_names": "Mura-pirarrã, Mura-Pirahã, Pirahã",
+      "language_family": "Mura",
+      "states_or_countries": "Amazonas",
+      "population": 360,
+      "population_as_listed": "360"
+    },
+    {
+      "people": "Piratapuias",
+      "other_names": "",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "1004 (400)"
+    },
+    {
+      "people": "Pitaguaris",
+      "other_names": "Pitaguary",
+      "language_family": "Português",
+      "states_or_countries": "Ceará",
+      "population": 871,
+      "population_as_listed": "871"
+    },
+    {
+      "people": "Potiguaras",
+      "other_names": "Subgrupos: Potiguaras-da-lagoa-dos-néris, da-serra-das-matas, da-viração e de-monte-nebo",
+      "language_family": "Potiguara e português",
+      "states_or_countries": "Paraíba",
+      "population": 7575,
+      "population_as_listed": "7575"
+    },
+    {
+      "people": "Poianauas",
+      "other_names": "Poyanawa",
+      "language_family": "Pano",
+      "states_or_countries": "Acre",
+      "population": 403,
+      "population_as_listed": "403"
+    },
+    {
+      "people": "Puris",
+      "other_names": "",
+      "language_family": "Macro-jê",
+      "states_or_countries": "ES/MG/RJ",
+      "population": "",
+      "population_as_listed": "Exterminados"
+    },
+    {
+      "people": "Rikbaktsas",
+      "other_names": "Ricbactas",
+      "language_family": "Ricbacsa",
+      "states_or_countries": "Mato Grosso",
+      "population": 909,
+      "population_as_listed": "909"
+    },
+    {
+      "people": "Sacurabiates",
+      "other_names": "Sakurabiate",
+      "language_family": "Tupari",
+      "states_or_countries": "Rondônia",
+      "population": 66,
+      "population_as_listed": "66"
+    },
+    {
+      "people": "Saterés-maués",
+      "other_names": "Sateré-Mawé",
+      "language_family": "Maué",
+      "states_or_countries": "Amazonas e Pará",
+      "population": 7134,
+      "population_as_listed": "7134"
+    },
+    {
+      "people": "Chanenauas",
+      "other_names": "Shanenawa",
+      "language_family": "Pano",
+      "states_or_countries": "Acre",
+      "population": 178,
+      "population_as_listed": "178"
+    },
+    {
+      "people": "Sirianos",
+      "other_names": "",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "17 (665)"
+    },
+    {
+      "people": "Suruís",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 185,
+      "population_as_listed": "185"
+    },
+    {
+      "people": "Suiás",
+      "other_names": "Suyá",
+      "language_family": "Jê",
+      "states_or_countries": "Mato Grosso",
+      "population": 334,
+      "population_as_listed": "334"
+    },
+    {
+      "people": "Tabajaras",
+      "other_names": "Subgrupos: Tabajaras-da-maratoã, da-serra-das-melancias, de-ipueiras, de-poranga, de-quiterianópolis, do-olho-d’água-dos-canutos e da-grota-verde",
+      "language_family": "Português",
+      "states_or_countries": "Ceará",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Tabajaras",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Paraíba",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Tapaiunas",
+      "other_names": "Tapayuna",
+      "language_family": "Jê",
+      "states_or_countries": "Mato Grosso",
+      "population": 58,
+      "population_as_listed": "58"
+    },
+    {
+      "people": "Tapuracus",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Maranhão",
+      "population": 471,
+      "population_as_listed": "471"
+    },
+    {
+      "people": "Tapaxanas",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Maranhão",
+      "population": 691,
+      "population_as_listed": "691"
+    },
+    {
+      "people": "Tapebas",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Ceará",
+      "population": 2491,
+      "population_as_listed": "2491"
+    },
+    {
+      "people": "Tapirapés",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Mato Grosso",
+      "population": 438,
+      "population_as_listed": "438"
+    },
+    {
+      "people": "Tapuias",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Goiás",
+      "population": 235,
+      "population_as_listed": "235"
+    },
+    {
+      "people": "Tarianas",
+      "other_names": "",
+      "language_family": "Aruaque",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "1914 (205)"
+    },
+    {
+      "people": "Taurepangues",
+      "other_names": "Pemon, Kapon",
+      "language_family": "Caribe",
+      "states_or_countries": "Roraima e Venezuela",
+      "population": "",
+      "population_as_listed": "532 (21000)"
+    },
+    {
+      "people": "Tembés",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará e Maranhão",
+      "population": 820,
+      "population_as_listed": "820"
+    },
+    {
+      "people": "Tenharins",
+      "other_names": "",
+      "language_family": "Caguaíva",
+      "states_or_countries": "Amazonas",
+      "population": 585,
+      "population_as_listed": "585"
+    },
+    {
+      "people": "Terenas",
+      "other_names": "",
+      "language_family": "Aruaque",
+      "states_or_countries": "Mato Grosso do Sul",
+      "population": 15795,
+      "population_as_listed": "15795"
+    },
+    {
+      "people": "Ticunas",
+      "other_names": "",
+      "language_family": "Ticuna",
+      "states_or_countries": "Amazonas, Peru e Colômbia",
+      "population": "",
+      "population_as_listed": "32613 (4200) (4535)"
+    },
+    {
+      "people": "Tingui-botós",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Alagoas",
+      "population": 350,
+      "population_as_listed": "350"
+    },
+    {
+      "people": "Tiriós",
+      "other_names": "Tiriyó (subgrupos: Tsicuiana e Caiana)",
+      "language_family": "Caribe",
+      "states_or_countries": "Pará e Suriname",
+      "population": "",
+      "population_as_listed": "735 (376)"
+    },
+    {
+      "people": "Torás",
+      "other_names": "",
+      "language_family": "Txapacura",
+      "states_or_countries": "Amazonas",
+      "population": 51,
+      "population_as_listed": "51"
+    },
+    {
+      "people": "Tremembés",
+      "other_names": "Subgrupos: Tremembés-de-almofala, de-são-josé-e-buriti, do-córrego-joão-pereira e de-queimadas",
+      "language_family": "Português",
+      "states_or_countries": "Ceará",
+      "population": 5000,
+      "population_as_listed": "5000"
+    },
+    {
+      "people": "Trucás",
+      "other_names": "Truká",
+      "language_family": "Português",
+      "states_or_countries": "Pernambuco",
+      "population": 1333,
+      "population_as_listed": "1333"
+    },
+    {
+      "people": "Trumais",
+      "other_names": "",
+      "language_family": "Trumai",
+      "states_or_countries": "Mato Grosso",
+      "population": 120,
+      "population_as_listed": "120"
+    },
+    {
+      "people": "Tsunhuns-djapás",
+      "other_names": "Tsohom Djapá, Tyonhwak Dyapa, Tucano",
+      "language_family": "Catuquino",
+      "states_or_countries": "Amazonas",
+      "population": 100,
+      "population_as_listed": "100"
+    },
+    {
+      "people": "Tucanos",
+      "other_names": "Tukano",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "4604 (6330)"
+    },
+    {
+      "people": "Tumbalalás",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Bahia",
+      "population": 900,
+      "population_as_listed": "900"
+    },
+    {
+      "people": "Tuparis",
+      "other_names": "",
+      "language_family": "Tupari",
+      "states_or_countries": "Rondônia",
+      "population": 338,
+      "population_as_listed": "338"
+    },
+    {
+      "people": "Tupinambás",
+      "other_names": "Subgrupos: Tamoios, Tupinambás-de-belmonte, de-crateús e de-olivença",
+      "language_family": "Português",
+      "states_or_countries": "SP/RJ/BA",
+      "population": "",
+      "population_as_listed": "?"
+    },
+    {
+      "people": "Tupiniquins",
+      "other_names": "Temiminós",
+      "language_family": "Português",
+      "states_or_countries": "Espírito Santo",
+      "population": 1386,
+      "population_as_listed": "1386"
+    },
+    {
+      "people": "Turiuaras",
+      "other_names": "Turiwara",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 60,
+      "population_as_listed": "60"
+    },
+    {
+      "people": "Tuxás",
+      "other_names": "",
+      "language_family": "Português",
+      "states_or_countries": "Bahia e Pernambuco",
+      "population": 1630,
+      "population_as_listed": "1630"
+    },
+    {
+      "people": "Tuiúcas",
+      "other_names": "Tuyuka",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "593 (570)"
+    },
+    {
+      "people": "Umutinas",
+      "other_names": "",
+      "language_family": "Bororo",
+      "states_or_countries": "Mato Grosso",
+      "population": 124,
+      "population_as_listed": "124"
+    },
+    {
+      "people": "Uaiuais",
+      "other_names": "Waiwai (subgrupos: Carafauiana, Xereu, Catuena e Mauaiana)",
+      "language_family": "Caribe",
+      "states_or_countries": "Roraima, Amazonas, Pará e Guiana",
+      "population": "",
+      "population_as_listed": "2020 (130)"
+    },
+    {
+      "people": "Uaimiris-atroaris",
+      "other_names": "Waimiri-Atroari",
+      "language_family": "Caribe",
+      "states_or_countries": "Roraima e Amazonas",
+      "population": 930,
+      "population_as_listed": "930"
+    },
+    {
+      "people": "Oiampis",
+      "other_names": "Wajãpi",
+      "language_family": "Oiampi",
+      "states_or_countries": "Amapá e Guiana Francesa",
+      "population": "",
+      "population_as_listed": "525 (412)"
+    },
+    {
+      "people": "Uananos",
+      "other_names": "Wanana",
+      "language_family": "Tucano",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": "",
+      "population_as_listed": "447 (1113)"
+    },
+    {
+      "people": "Uapixanas",
+      "other_names": "Wapixana",
+      "language_family": "Aruaque",
+      "states_or_countries": "Roraima e Guiana",
+      "population": "",
+      "population_as_listed": "6500 (4000)"
+    },
+    {
+      "people": "Uarequenas",
+      "other_names": "Warekena",
+      "language_family": "Aruaque",
+      "states_or_countries": "Amazonas e Venezuela",
+      "population": "",
+      "population_as_listed": "491 (409)"
+    },
+    {
+      "people": "Uassus",
+      "other_names": "Wassu",
+      "language_family": "Português",
+      "states_or_countries": "Alagoas",
+      "population": 1447,
+      "population_as_listed": "1447"
+    },
+    {
+      "people": "Uaurás",
+      "other_names": "Wauja",
+      "language_family": "Aruaque",
+      "states_or_countries": "Mato Grosso",
+      "population": 321,
+      "population_as_listed": "321"
+    },
+    {
+      "people": "Uaianas",
+      "other_names": "Wayana",
+      "language_family": "Caribe",
+      "states_or_countries": "Pará, Suriname e Guiana Francesa",
+      "population": "",
+      "population_as_listed": "415 (400) (800)"
+    },
+    {
+      "people": "Uitotos",
+      "other_names": "Witoto",
+      "language_family": "Uitoto",
+      "states_or_countries": "Amazonas, Colômbia e Peru",
+      "population": "",
+      "population_as_listed": "? (5 939) (2775)"
+    },
+    {
+      "people": "Xacriabás",
+      "other_names": "Xakriabá",
+      "language_family": "(Jê), Akwen",
+      "states_or_countries": "Minas Gerais",
+      "population": 7665,
+      "population_as_listed": "7665"
+    },
+    {
+      "people": "Xambioás",
+      "other_names": "",
+      "language_family": "Carajá",
+      "states_or_countries": "Tocantins",
+      "population": 185,
+      "population_as_listed": "185"
+    },
+    {
+      "people": "Xavantes",
+      "other_names": "",
+      "language_family": "(Jê), Akwen",
+      "states_or_countries": "Mato Grosso",
+      "population": 9602,
+      "population_as_listed": "9602"
+    },
+    {
+      "people": "Xerentes",
+      "other_names": "",
+      "language_family": "(Jê), Akwen",
+      "states_or_countries": "Tocantins",
+      "population": 1814,
+      "population_as_listed": "1814"
+    },
+    {
+      "people": "Xetás",
+      "other_names": "",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Paraná",
+      "population": 8,
+      "population_as_listed": "8"
+    },
+    {
+      "people": "Caiapós-xicrins",
+      "other_names": "Xikrim, Mebegnokre, Kayapó, Put Karot",
+      "language_family": "(Jê), Caiapó,",
+      "states_or_countries": "Pará",
+      "population": 1052,
+      "population_as_listed": "1052"
+    },
+    {
+      "people": "Xipaias",
+      "other_names": "Xipayas",
+      "language_family": "Juruna",
+      "states_or_countries": "Pará",
+      "population": 595,
+      "population_as_listed": "595"
+    },
+    {
+      "people": "Xoclengues",
+      "other_names": "Xokleng",
+      "language_family": "Xoclengue",
+      "states_or_countries": "Santa Catarina",
+      "population": 757,
+      "population_as_listed": "757"
+    },
+    {
+      "people": "Xocós",
+      "other_names": "Xokó",
+      "language_family": "Português",
+      "states_or_countries": "Sergipe",
+      "population": 250,
+      "population_as_listed": "250"
+    },
+    {
+      "people": "Xucurus",
+      "other_names": "Xukurú, Xucurus do Ororubá",
+      "language_family": "Português",
+      "states_or_countries": "Pernambuco",
+      "population": 6363,
+      "population_as_listed": "6363"
+    },
+    {
+      "people": "Xucurus-cariris",
+      "other_names": "Xukurú-Karirí",
+      "language_family": "Português",
+      "states_or_countries": "Alagoas",
+      "population": 1820,
+      "population_as_listed": "1820"
+    },
+    {
+      "people": "Jaminauás",
+      "other_names": "Yaminawa, Iaminauá",
+      "language_family": "Pano",
+      "states_or_countries": "Acre, Peru e Bolívia",
+      "population": "",
+      "population_as_listed": "618 (324) (630)"
+    },
+    {
+      "people": "Ianomâmis",
+      "other_names": "Subgrupos: Ianomam, Ianomamo, Sanumá e Ninam (ou Ianan)",
+      "language_family": "Família linguística Ianomami Ianomami Ninan ou Ianan Sanumá Ianomamo",
+      "states_or_countries": "Roraima, Amazonas e Venezuela",
+      "population": 32000,
+      "population_as_listed": "32000"
+    },
+    {
+      "people": "Iaualapitis",
+      "other_names": "Yawalapiti",
+      "language_family": "Aruaque",
+      "states_or_countries": "Mato Grosso",
+      "population": 208,
+      "population_as_listed": "208"
+    },
+    {
+      "people": "Iauanauás",
+      "other_names": "Yawanawá",
+      "language_family": "Pano",
+      "states_or_countries": "Acre",
+      "population": 450,
+      "population_as_listed": "450"
+    },
+    {
+      "people": "Iecuanas",
+      "other_names": "Yekuana, Ye´kwana, Maquiritare e Maiongong",
+      "language_family": "Caribe",
+      "states_or_countries": "Roraima e Venezuela",
+      "population": "",
+      "population_as_listed": "426 (3632)"
+    },
+    {
+      "people": "Jurunas",
+      "other_names": "Yudjá",
+      "language_family": "Juruna",
+      "states_or_countries": "Pará e Mato Grosso",
+      "population": 278,
+      "population_as_listed": "278"
+    },
+    {
+      "people": "Hupdah",
+      "other_names": "Hupd'äh, Hupda",
+      "language_family": "Macu",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": 1200,
+      "population_as_listed": "1200"
+    },
+    {
+      "people": "Rancocamecras-canelas",
+      "other_names": "Kanela-Rankokamekra",
+      "language_family": "Jê",
+      "states_or_countries": "Maranhão",
+      "population": 1330,
+      "population_as_listed": "1330"
+    },
+    {
+      "people": "Yuhupdeh",
+      "other_names": "Yuhup, Yuhupde",
+      "language_family": "Macu",
+      "states_or_countries": "Amazonas e Colômbia",
+      "population": 600,
+      "population_as_listed": "600"
+    },
+    {
+      "people": "Zoés",
+      "other_names": "Zo'é",
+      "language_family": "Tupi-guarani",
+      "states_or_countries": "Pará",
+      "population": 152,
+      "population_as_listed": "152"
+    },
+    {
+      "people": "Zorós",
+      "other_names": "",
+      "language_family": "Mondé",
+      "states_or_countries": "amazonas",
+      "population": 414,
+      "population_as_listed": "414"
+    },
+    {
+      "people": "Suruuarrás",
+      "other_names": "Zuruahã, Suruwahá",
+      "language_family": "Aruaque",
+      "states_or_countries": "Amazonas",
+      "population": 143,
+      "population_as_listed": "143"
+    }
+  ],
+  "meta": {
+    "title": "Povos indígenas do Brasil - Free Download",
+    "description": "Lista dos povos indígenas do Brasil com outros nomes, família linguística, unidades federativas onde vivem e população (censo ou estimativa, tal como listada). Contains 229 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Povos indígenas do Brasil | ListBase",
+    "seo_description": "Download Povos indígenas do Brasil — 229 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 229 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_povos_indígenas_do_Brasil"
+    ]
+  }
+}
