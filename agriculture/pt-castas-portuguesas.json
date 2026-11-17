@@ -1,0 +1,1441 @@
+{
+  "id": "pt-castas-portuguesas",
+  "name": "Castas de uva portuguesas",
+  "title": "Castas de uva portuguesas",
+  "description": "Castas (variedades de videira) tintas e brancas cultivadas em Portugal, com os seus sinónimos regionais.",
+  "category": "agriculture",
+  "source": "https://pt.wikipedia.org/wiki/Castas_portuguesas",
+  "source_url": "https://pt.wikipedia.org/wiki/Castas_portuguesas",
+  "updated": "2026-11",
+  "record_count": 280,
+  "columns": [
+    {
+      "key": "grape",
+      "label": "Grape",
+      "type": "string"
+    },
+    {
+      "key": "synonyms",
+      "label": "Synonyms",
+      "type": "string"
+    },
+    {
+      "key": "color",
+      "label": "Color",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "grape": "Alcoa",
+      "synonyms": "Tinta de Alcobaça",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Alfrocheiro",
+      "synonyms": "Alfrocheiro Preto",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Alicante Bouschet",
+      "synonyms": "Alicante Tinto, Tinta Fina, Tinta de Escrever",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Alvarelhão",
+      "synonyms": "Brancelho, Brancelhão, Pirraúvo",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Alvarelhão Ceitão",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Amaral",
+      "synonyms": "Azal Tinto",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Amor-Não-Me-Deixes",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Amostrinha",
+      "synonyms": "Preto Martinho (Oeste)",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Aragonez",
+      "synonyms": "Tinta Roriz, Tinta de Santiago",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Aramon",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Arjunção",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Baga",
+      "synonyms": "Tinta da Bairrada, Poeirinho, Baga de Louro",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Barca",
+      "synonyms": "Tinta da Barca",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Barreto",
+      "synonyms": "Barreto de Semente",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Bastardo",
+      "synonyms": "Bastardinho",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Bastardo Tinto",
+      "synonyms": "Bastardo Espanhol",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Bonvedro",
+      "synonyms": "Monvedro Tinto, Monvedro de Sines",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Borraçal",
+      "synonyms": "Bogalhal, Caínho Grosso, Olho de Sapo, Esfarrapa, Murraçal",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Bragão",
+      "synonyms": "Tinta Bragão",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Branjo",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Cabinda",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Caladoc",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Calrão",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Camarate",
+      "synonyms": "Castelão, Castelão Nacional, Moreto, Moreto de Soure, Negro Mouro",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Campanário",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Carrega Burros",
+      "synonyms": "Esgana Raposas, Malvasias",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Carrega Tinto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Casculho",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Castelã",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Castelão",
+      "synonyms": "João de Santarém, Castelão Francês, Periquita",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Castelino",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Cidadelhe",
+      "synonyms": "Tinta de Cidadelhe",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Cidreiro",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Complexa",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Concieira",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Coração de Galo",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Cornifesto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Corropio",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Corvo",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Deliciosa",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Doçal",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Doce",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Donzelinho Tinto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Engomada",
+      "synonyms": "Tinta Engomada",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Esgana Cão Tinto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Espadeiro",
+      "synonyms": "Espadeiro Tinto, Padeiro, Cinza, Espadal",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Espadeiro Mole",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Farinheira",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Fepiro",
+      "synonyms": "Alentejana",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Ferral",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Galego",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Gonçalo Pires",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Gorda",
+      "synonyms": "Tinta Gorda",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Gouveio Preto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Graciosa",
+      "synonyms": "Tinta da Graciosa",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Grangeal",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Grossa",
+      "synonyms": "Tinta Grossa",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Jaen",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Lourela",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Lusitano",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Malandra",
+      "synonyms": "Tinta Malandra",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Malvarisco",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Malvasia Preta",
+      "synonyms": "Moreto",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Manteúdo Preto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Mário Feld",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Marufo",
+      "synonyms": "Mourisco Tinto, Moroco, Uva de Rei, Olho de Rei, Tinto Martinho",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Melhorio",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Melra",
+      "synonyms": "Tinta Melra",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Mindelo",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Molar",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Monvedro",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Moreto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Moscargo",
+      "synonyms": "Portalegre",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Moscatel Galego Tinto",
+      "synonyms": "Moscatel Tinto",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Mourisco",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Mourisco de Semente",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Mourisco de Trevões",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Mulata",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Negra Mole",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Nevoeira",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Padeiro",
+      "synonyms": "Padeiro de Basto",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Parreira Matias",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Patorra",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Pau Ferro",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Pedral",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Pero Pinhão",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Péxem",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Pical",
+      "synonyms": "Pical Polho, Pic Pul",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Pilongo",
+      "synonyms": "Tourigo",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Português Azul",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Preto Cardana",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Preto Martinho",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Primavera",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Rabo de Anho",
+      "synonyms": "Rabo de Ovelha",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Rabo de Lobo",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Rabo de Ovelha Tinto",
+      "synonyms": "Rabo de Ovelha Tinto",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Ramisco",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Ramisco Tinto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Ricoca",
+      "synonyms": "Tinta Ricoca",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Rodo",
+      "synonyms": "Tinta Rodo",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Roseira",
+      "synonyms": "Tinta Roseira",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Rufete",
+      "synonyms": "Tinta Pinheira, Penamacor",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Saborinho",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Santareno",
+      "synonyms": "Santarém",
+      "color": "Tinta"
+    },
+    {
+      "grape": "São Saul",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Sevilhão",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Sousão",
+      "synonyms": "Sousão Forte, Sousão de Comer, Sousão Vermelho",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Aguiar",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Aurélio",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Barroca",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Bastardinha",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Caiada",
+      "synonyms": "Monvedro",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Carvalha",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Fontes",
+      "synonyms": "Tinta Miuda de Fontes",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Francisca",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Lameira",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Lisboa",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Martins",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Mesquita",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Miúda",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Negra",
+      "synonyms": "Negra Mole",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Penajóia",
+      "synonyms": "Tinta Roriz de Penajóia",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Pereira",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Pomar",
+      "synonyms": "Tinta Mole",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Porto Santo",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinta Tabuaço",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tintem",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tintinha",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinto-cão",
+      "synonyms": "Padeiro, Tinto Mata",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinto Pegões",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Tinto Sem Nome",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Touriga Fêmea",
+      "synonyms": "Touriga Brasileira",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Touriga Franca",
+      "synonyms": "Touriga Francesa",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Touriga Nacional",
+      "synonyms": "Preto Mortágua, Azal Espanhol",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Transâncora",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Trincadeira",
+      "synonyms": "Tinta Amarela, Crato Preto, Folha de Abóbora, Mortágua, Espadeiro, Espadeiro, Torneiro, Negreda, Castelão",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Triunfo",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Valbom",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Valdosa",
+      "synonyms": "Tinta Valdosa",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Varejoa",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Verdelho Tinto",
+      "synonyms": "Verdelho, Verdelho Feijão, Feijão, Mindeço",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Verdial Tinto",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Vinhão",
+      "synonyms": "Tinto, Tinto Nacional, Negrão, Pé de Perdiz, Espadeiro Preto, Tinta Antiga, Tinta de Parada, Sousão",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Xara",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Zé do Telheiro",
+      "synonyms": "",
+      "color": "Tinta"
+    },
+    {
+      "grape": "Alicante Branco",
+      "synonyms": "Uva Rei, Boal de Alicante, Boal Cachudo (Douro) Branco Conceição, Pérola",
+      "color": "Branca"
+    },
+    {
+      "grape": "Almafra",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Almenhaca",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Antão Vaz",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Alvadurão",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Alvarinho",
+      "synonyms": "Galego, Galeguinho",
+      "color": "Branca"
+    },
+    {
+      "grape": "Alvar",
+      "synonyms": "Alvar Branco",
+      "color": "Branca"
+    },
+    {
+      "grape": "Alvarelhão Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Arinto",
+      "synonyms": "Pedernã, Pé de Perdiz Branco, Chapeludo, Cerceal, Azal Espanhol, Azal Galego, Branco Espanhol",
+      "color": "Branca"
+    },
+    {
+      "grape": "Arinto do Interior",
+      "synonyms": "Arinto do Douro, Arinto de Trás-os-Montes",
+      "color": "Branca"
+    },
+    {
+      "grape": "Avesso",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Azal",
+      "synonyms": "Gadelhudo, Carvalhal, Pinheira",
+      "color": "Branca"
+    },
+    {
+      "grape": "Babosa",
+      "synonyms": "Malvasia Babosa",
+      "color": "Branca"
+    },
+    {
+      "grape": "Barcelo",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Bastardo Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Batoca",
+      "synonyms": "Alvaraça, Alvaroça, Sedouro",
+      "color": "Branca"
+    },
+    {
+      "grape": "Beba",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Bical",
+      "synonyms": "Borrado das Moscas, Arinto (Alcobaça), Fernão Pires do Galego, Pedro",
+      "color": "Branca"
+    },
+    {
+      "grape": "Boal Barreiro",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Boal Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Boal Espinho",
+      "synonyms": "Batalhinha",
+      "color": "Branca"
+    },
+    {
+      "grape": "Branca de Anadia",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Branco Desconhecido",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Branco Especial",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Branco Gouvães",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Branco Guimarães",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Branco João",
+      "synonyms": "Branco Sr. João",
+      "color": "Branca"
+    },
+    {
+      "grape": "Branda",
+      "synonyms": "D. Branca, Dona Branca",
+      "color": "Branca"
+    },
+    {
+      "grape": "Budelho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Caínho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Caracol",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Caramela",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Carão de Moça",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Carrasquenho",
+      "synonyms": "Boal Carrasquenho",
+      "color": "Branca"
+    },
+    {
+      "grape": "Carrega Branco",
+      "synonyms": "Malvasia Polta, Barranquesa",
+      "color": "Branca"
+    },
+    {
+      "grape": "Cascal",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Castália",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Castelão Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Castelo Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Casteloa, também chamada Labrusca ou Labrusco, Tinta-amarela e Trincadeira",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Cerceal Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Cercial",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Côdega de Larinho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Corval",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Crato Espanhol",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Dedo-de-Dama",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Diagalves",
+      "synonyms": "Formosa, Carnal",
+      "color": "Branca"
+    },
+    {
+      "grape": "Dona-branca",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Dona-joaquina",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Donzelinho Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Dorinto",
+      "synonyms": "Arinto Branco",
+      "color": "Branca"
+    },
+    {
+      "grape": "Encruzado",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Esganinho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Esganoso",
+      "synonyms": "Esganoso de Lima, Esganinho, Esgana-Cão, Furnicoso",
+      "color": "Branca"
+    },
+    {
+      "grape": "Estreito Macio",
+      "synonyms": "Estreito, Rabigato",
+      "color": "Branca"
+    },
+    {
+      "grape": "Fernão Pires",
+      "synonyms": "Maria Gomes",
+      "color": "Branca"
+    },
+    {
+      "grape": "Folgasão",
+      "synonyms": "Terrantês",
+      "color": "Branca"
+    },
+    {
+      "grape": "Folha de Figueira",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Fonte Cal",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Galego Dourado",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Generosa",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Gigante",
+      "synonyms": "Branco Gigante",
+      "color": "Branca"
+    },
+    {
+      "grape": "Godelho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Gouveio",
+      "synonyms": "Verdelho",
+      "color": "Branca"
+    },
+    {
+      "grape": "Gouveio Estimado",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Gouveio Real",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Granho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Lameiro",
+      "synonyms": "Branco Lameiro, Lameirinho, Luzidio",
+      "color": "Branca"
+    },
+    {
+      "grape": "Larião",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Leira",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Lilás",
+      "synonyms": "Alvarinho Lilás",
+      "color": "Branca"
+    },
+    {
+      "grape": "Loureiro",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Luzidio",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Bianca",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Branca",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Branca de S. Jorge",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Cândida",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Fina/Boal",
+      "synonyms": "Boal Branco, Arinto-do -Dão, Assario Branco, Arinto Galego, Boal Cachudo",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Parda",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Rei",
+      "synonyms": "Seminário, Assario, Listrão, Pérola, Moscatel Carré, Grés, Olho de Lebre",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvasia Romana",
+      "synonyms": "Malvasia Cândida Romana, Malvasia Cândida Branca",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvia",
+      "synonyms": "Malvasia de Setúbal",
+      "color": "Branca"
+    },
+    {
+      "grape": "Malvoeira",
+      "synonyms": "Malvasia de Oeiras",
+      "color": "Branca"
+    },
+    {
+      "grape": "Manteúdo",
+      "synonyms": "Manteúdo B., Vale Grosso, Manteúdo Branco",
+      "color": "Branca"
+    },
+    {
+      "grape": "Marquinhas",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Molinha",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Moscatel Galego Branco",
+      "synonyms": "Moscatel, Moscatel de Bago Miúdo",
+      "color": "Branca"
+    },
+    {
+      "grape": "Moscatel Graúdo",
+      "synonyms": "Moscatel de Setúbal",
+      "color": "Branca"
+    },
+    {
+      "grape": "Moscatel Nunes",
+      "synonyms": "Moscatel Branco",
+      "color": "Branca"
+    },
+    {
+      "grape": "Mourisco Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Naia",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Pé Comprido",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Perigo",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Perrum",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Pinheira Branca",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Pintosa",
+      "synonyms": "Branco Escola, Branco de Asa, Azal de São Tirso",
+      "color": "Branca"
+    },
+    {
+      "grape": "Praça",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Promissão",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Rabigato",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Rabigato Franco",
+      "synonyms": "Rabigato Francês, Rabigato Branco",
+      "color": "Branca"
+    },
+    {
+      "grape": "Rabigato Moreno",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Rabo de Ovelha",
+      "synonyms": "Medock, Rabigato, Rabo de Gato, Rabisgato, Rabo de Carneiro",
+      "color": "Branca"
+    },
+    {
+      "grape": "Ratinho",
+      "synonyms": "Boal Ratinho, Branco sem Nome, Malvasia de Tomar, Boal Doce",
+      "color": "Branca"
+    },
+    {
+      "grape": "Roupeiro Branco",
+      "synonyms": "Roupeiro",
+      "color": "Branca"
+    },
+    {
+      "grape": "Sabro",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Samarrinho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Santoal",
+      "synonyms": "Boal de Santarém",
+      "color": "Branca"
+    },
+    {
+      "grape": "São Mamede",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Sarigo",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Seara Nova",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Semilão",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Sercial ou Cercial, também chamada Esgana-Cão e Esganinho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Sercialinho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Síria",
+      "synonyms": "Roupeiro, Crato Branco, Alva, Malvasia, Posto Branco, Côdega, Alvadurão do Dão",
+      "color": "Branca"
+    },
+    {
+      "grape": "Tália",
+      "synonyms": "Branquinha, Douradinha (Vinho Verde), Pêra de Bode, Douradinha, Ugni Blanc, Esgana Rapazes, *Espadeiro Branco; Malvasia Fina, Trebiano, Alfrocheiro Branco",
+      "color": "Branca"
+    },
+    {
+      "grape": "Tamarez, também chamado tamarês, Trincadeira-das-pratas, Arinto Gordo, Boal Prior e Trincadeira-do-Douro.",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Terrantês",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Terrantez da Terceira",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Terrantez do Pico",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Touriga Branca",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Trajadura",
+      "synonyms": "Trincadeira, Mourisco",
+      "color": "Branca"
+    },
+    {
+      "grape": "Trincadeira Branca",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Trincadeira-das-pratas",
+      "synonyms": "Tamarês",
+      "color": "Branca"
+    },
+    {
+      "grape": "Uva Cão",
+      "synonyms": "Cachorrinho",
+      "color": "Branca"
+    },
+    {
+      "grape": "Uva Cavaco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Uva Salsa",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Valente",
+      "synonyms": "Branco Valente",
+      "color": "Branca"
+    },
+    {
+      "grape": "Valveirinho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Vencedor",
+      "synonyms": "Boal Vencedor",
+      "color": "Branca"
+    },
+    {
+      "grape": "Verdelho",
+      "synonyms": "Verdelho Branco, Verdelho dos Açores",
+      "color": "Branca"
+    },
+    {
+      "grape": "Verdial Branco",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Viosinho",
+      "synonyms": "",
+      "color": "Branca"
+    },
+    {
+      "grape": "Vital",
+      "synonyms": "Boal Bonifácio, Malvasia Corada",
+      "color": "Branca"
+    }
+  ],
+  "meta": {
+    "title": "Castas de uva portuguesas - Free Download",
+    "description": "Castas (variedades de videira) tintas e brancas cultivadas em Portugal, com os seus sinónimos regionais. Contains 280 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Castas de uva portuguesas | ListBase",
+    "seo_description": "Download Castas de uva portuguesas — 280 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 280 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Castas_portuguesas"
+    ]
+  }
+}

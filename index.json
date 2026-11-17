@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-11-17T02:20:35.017Z",
-  "total_datasets": 575,
-  "total_records": 751865,
+  "generated": "2026-11-17T02:20:43.991Z",
+  "total_datasets": 576,
+  "total_records": 752145,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -177,6 +177,30 @@
         "xlsx": {
           "name": "pt-br-producao-cafe-por-estado_PT.xlsx",
           "size": 7022
+        }
+      }
+    },
+    {
+      "id": "pt-castas-portuguesas",
+      "name": "Castas de uva portuguesas",
+      "category": "agriculture",
+      "record_count": 280,
+      "columns": [
+        "grape",
+        "synonyms",
+        "color"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Castas_portuguesas",
+      "updated": "2026-11",
+      "size": 29194,
+      "files": {
+        "csv": {
+          "name": "pt-castas-portuguesas_PT.csv",
+          "size": 10199
+        },
+        "xlsx": {
+          "name": "pt-castas-portuguesas_PT.xlsx",
+          "size": 13935
         }
       }
     },
