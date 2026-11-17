@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-16T02:23:27.231Z",
-  "total_datasets": 572,
-  "total_records": 746033,
+  "generated": "2026-11-17T02:20:16.149Z",
+  "total_datasets": 573,
+  "total_records": 751603,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -16017,6 +16017,31 @@
         "xlsx": {
           "name": "pt-br-estados-taxa-homicidios_PT.xlsx",
           "size": 7761
+        }
+      }
+    },
+    {
+      "id": "pt-br-municipios-por-populacao-2022",
+      "name": "Municípios do Brasil por população (Censo 2022)",
+      "category": "society",
+      "record_count": 5570,
+      "columns": [
+        "rank",
+        "municipality",
+        "state",
+        "population_2022"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_municípios_do_Brasil_por_população_(2022)",
+      "updated": "2026-11",
+      "size": 684294,
+      "files": {
+        "csv": {
+          "name": "pt-br-municipios-por-populacao-2022_PT.csv",
+          "size": 192382
+        },
+        "xlsx": {
+          "name": "pt-br-municipios-por-populacao-2022_PT.xlsx",
+          "size": 172520
         }
       }
     },
