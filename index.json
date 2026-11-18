@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-18T02:27:21.235Z",
-  "total_datasets": 577,
-  "total_records": 752309,
+  "generated": "2026-11-18T02:27:29.675Z",
+  "total_datasets": 578,
+  "total_records": 752359,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -624,6 +624,35 @@
         "xlsx": {
           "name": "pt-br-presidentes-banco-central_PT.xlsx",
           "size": 8333
+        }
+      }
+    },
+    {
+      "id": "pt-maiores-empresas-portugal-2022",
+      "name": "As 50 maiores empresas de Portugal (2022)",
+      "category": "economy",
+      "record_count": 50,
+      "columns": [
+        "rank",
+        "company",
+        "sector",
+        "revenue_eur",
+        "profit_eur",
+        "assets_eur",
+        "hq_municipality",
+        "hq_subregion"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_de_Portugal",
+      "updated": "2026-11",
+      "size": 15234,
+      "files": {
+        "csv": {
+          "name": "pt-maiores-empresas-portugal-2022_PT.csv",
+          "size": 4933
+        },
+        "xlsx": {
+          "name": "pt-maiores-empresas-portugal-2022_PT.xlsx",
+          "size": 10177
         }
       }
     },

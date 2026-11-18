@@ -1,0 +1,566 @@
+{
+  "id": "pt-maiores-empresas-portugal-2022",
+  "name": "As 50 maiores empresas de Portugal (2022)",
+  "title": "As 50 maiores empresas de Portugal (2022)",
+  "description": "As 50 maiores empresas de Portugal ordenadas por faturação em 2022, com setor, lucros, ativos e sede (município e sub-região).",
+  "category": "economy",
+  "source": "https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "string"
+    },
+    {
+      "key": "revenue_eur",
+      "label": "Revenue Eur",
+      "type": "number"
+    },
+    {
+      "key": "profit_eur",
+      "label": "Profit Eur",
+      "type": "number"
+    },
+    {
+      "key": "assets_eur",
+      "label": "Assets Eur",
+      "type": "number"
+    },
+    {
+      "key": "hq_municipality",
+      "label": "Hq Municipality",
+      "type": "string"
+    },
+    {
+      "key": "hq_subregion",
+      "label": "Hq Subregion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "company": "Petrogal",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 9035242460,
+      "profit_eur": 52330158,
+      "assets_eur": 4646899768,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 2,
+      "company": "EDP",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 5201964000,
+      "profit_eur": 824070000,
+      "assets_eur": 29752741000,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 3,
+      "company": "Modelo Continente",
+      "sector": "Consumo e Serviços Associados",
+      "revenue_eur": 4569313564,
+      "profit_eur": 25583045,
+      "assets_eur": 3735955747,
+      "hq_municipality": "Matosinhos",
+      "hq_subregion": "AMP"
+    },
+    {
+      "rank": 4,
+      "company": "Pingo Doce",
+      "sector": "Consumo e Serviços Associados",
+      "revenue_eur": 4363256974,
+      "profit_eur": 29443910,
+      "assets_eur": 1923673205,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 5,
+      "company": "Grupo Salvador Caetano",
+      "sector": "Industrial e automóvel",
+      "revenue_eur": 3700000000,
+      "profit_eur": 269700000,
+      "assets_eur": 1600000000,
+      "hq_municipality": "Vila Nova de Gaia",
+      "hq_subregion": "AMP"
+    },
+    {
+      "rank": 6,
+      "company": "EDP Comercial",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 3265547000,
+      "profit_eur": 65258000,
+      "assets_eur": 991697000,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 7,
+      "company": "Volkswagen Autoeuropa",
+      "sector": "Automóvel",
+      "revenue_eur": 3111905240,
+      "profit_eur": 43356465,
+      "assets_eur": 774701299,
+      "hq_municipality": "Palmela",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 8,
+      "company": "The Navigator Company",
+      "sector": "Materiais de Base",
+      "revenue_eur": 2366947621,
+      "profit_eur": 171411455,
+      "assets_eur": 3171135995,
+      "hq_municipality": "Setúbal",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 9,
+      "company": "Galp",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 2127047908,
+      "profit_eur": -647482069,
+      "assets_eur": 1754138799,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 10,
+      "company": "Su Eletricidade",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 2047623000,
+      "profit_eur": -16423000,
+      "assets_eur": 2299746000,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 11,
+      "company": "Repsol Portuguesa",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 1907424291,
+      "profit_eur": 74402787,
+      "assets_eur": 597103218,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 12,
+      "company": "BP Portugal",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 1399056293,
+      "profit_eur": 17999106,
+      "assets_eur": 412862813,
+      "hq_municipality": "Oeiras",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 13,
+      "company": "TAP Air Portugal",
+      "sector": "Transportes e Logística",
+      "revenue_eur": 1364678565,
+      "profit_eur": -1430551041,
+      "assets_eur": 2655123060,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 14,
+      "company": "NOS",
+      "sector": "Tecnologia, Media e Telecomunicações",
+      "revenue_eur": 1316630409,
+      "profit_eur": 61111311,
+      "assets_eur": 3324889789,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 15,
+      "company": "E-Redes",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 1316375000,
+      "profit_eur": 144927000,
+      "assets_eur": 4095070000,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 16,
+      "company": "Endesa",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 1284686724,
+      "profit_eur": 12805764,
+      "assets_eur": 520709122,
+      "hq_municipality": "Oeiras",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 17,
+      "company": "Auchan",
+      "sector": "Consumo e Serviços Associados",
+      "revenue_eur": 1154759125,
+      "profit_eur": 16157041,
+      "assets_eur": 752681029,
+      "hq_municipality": "Oeiras",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 18,
+      "company": "Vodafone",
+      "sector": "Tecnologia, Media e Telecomunicações",
+      "revenue_eur": 1084086522,
+      "profit_eur": 60709540,
+      "assets_eur": 1682520116,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 19,
+      "company": "EDP Gestão da Produção",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 1076607000,
+      "profit_eur": -67378000,
+      "assets_eur": 7634720000,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 20,
+      "company": "Worten",
+      "sector": "Consumo e Serviços Associados",
+      "revenue_eur": 1047277278,
+      "profit_eur": 3796786,
+      "assets_eur": 763061062,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 21,
+      "company": "BOSCH",
+      "sector": "Automóvel",
+      "revenue_eur": 1039688264,
+      "profit_eur": 13498776,
+      "assets_eur": 468723168,
+      "hq_municipality": "Braga",
+      "hq_subregion": "CA"
+    },
+    {
+      "rank": 22,
+      "company": "Continental",
+      "sector": "Automóvel",
+      "revenue_eur": 999933986,
+      "profit_eur": 184468154,
+      "assets_eur": 670134728,
+      "hq_municipality": "Famalicão",
+      "hq_subregion": "AV"
+    },
+    {
+      "rank": 23,
+      "company": "Prio",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 917766722,
+      "profit_eur": 15366366,
+      "assets_eur": 163421105,
+      "hq_municipality": "Aveiro",
+      "hq_subregion": "RA"
+    },
+    {
+      "rank": 24,
+      "company": "Reagro",
+      "sector": "Alimentação, Bebidas e Tabaco",
+      "revenue_eur": 898053766,
+      "profit_eur": 16353501,
+      "assets_eur": 111006432,
+      "hq_municipality": "Salvaterra de Magos",
+      "hq_subregion": "LT"
+    },
+    {
+      "rank": 25,
+      "company": "Cepsa",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 877831584,
+      "profit_eur": 21543836,
+      "assets_eur": 289630752,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 26,
+      "company": "ITMP Alimentar",
+      "sector": "Consumo e Serviços Associados",
+      "revenue_eur": 847220072,
+      "profit_eur": 7815953,
+      "assets_eur": 194413572,
+      "hq_municipality": "Alcanena",
+      "hq_subregion": "MT"
+    },
+    {
+      "rank": 27,
+      "company": "Continente Hipermercados",
+      "sector": "Consumo e Serviços Associados",
+      "revenue_eur": 842346434,
+      "profit_eur": 27751371,
+      "assets_eur": 568380213,
+      "hq_municipality": "Matosinhos",
+      "hq_subregion": "AMP"
+    },
+    {
+      "rank": 28,
+      "company": "Recheio",
+      "sector": "Alimentação, Bebidas e Tabaco",
+      "revenue_eur": 826490404,
+      "profit_eur": 13556714,
+      "assets_eur": 437544031,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 29,
+      "company": "Repsol Polímeros",
+      "sector": "Materiais de Base",
+      "revenue_eur": 808730219,
+      "profit_eur": 62539058,
+      "assets_eur": 518422199,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 30,
+      "company": "ITX Portugal",
+      "sector": "Têxteis, Vestuário e Couro",
+      "revenue_eur": 787813704,
+      "profit_eur": 744772,
+      "assets_eur": 631549721,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 31,
+      "company": "EDP Gás",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 732362000,
+      "profit_eur": -3271000,
+      "assets_eur": 506184000,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 32,
+      "company": "Prio Energy",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 722234967,
+      "profit_eur": 1739083,
+      "assets_eur": 196365180,
+      "hq_municipality": "Aveiro",
+      "hq_subregion": "RA"
+    },
+    {
+      "rank": 33,
+      "company": "Peugeot Citroën Automóveis Portugal",
+      "sector": "Automóvel",
+      "revenue_eur": 672730797,
+      "profit_eur": 8928684,
+      "assets_eur": 200897276,
+      "hq_municipality": "Mangualde",
+      "hq_subregion": "VL"
+    },
+    {
+      "rank": 34,
+      "company": "Purem Tondela",
+      "sector": "Automóvel",
+      "revenue_eur": 646641452,
+      "profit_eur": 18020610,
+      "assets_eur": 178249747,
+      "hq_municipality": "Tondela",
+      "hq_subregion": "VL"
+    },
+    {
+      "rank": 35,
+      "company": "Alliance Healthcare",
+      "sector": "Saúde",
+      "revenue_eur": 620591404,
+      "profit_eur": 8749776,
+      "assets_eur": 174141552,
+      "hq_municipality": "Porto",
+      "hq_subregion": "AMP"
+    },
+    {
+      "rank": 36,
+      "company": "Lactogal",
+      "sector": "Alimentação, Bebidas e Tabaco",
+      "revenue_eur": 620027914,
+      "profit_eur": 8415856,
+      "assets_eur": 482213466,
+      "hq_municipality": "Porto",
+      "hq_subregion": "AMP"
+    },
+    {
+      "rank": 37,
+      "company": "Nestlé Portugal",
+      "sector": "Alimentação, Bebidas e Tabaco",
+      "revenue_eur": 617384103,
+      "profit_eur": 20523579,
+      "assets_eur": 285239388,
+      "hq_municipality": "Oeiras",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 38,
+      "company": "Mota-Engil",
+      "sector": "Construção e Imobiliário",
+      "revenue_eur": 608440223,
+      "profit_eur": 44527286,
+      "assets_eur": 1947048263,
+      "hq_municipality": "Porto",
+      "hq_subregion": "AMP"
+    },
+    {
+      "rank": 39,
+      "company": "MIDSID",
+      "sector": "Alimentação, Bebidas e Tabaco",
+      "revenue_eur": 604513674,
+      "profit_eur": 3293905,
+      "assets_eur": 60623508,
+      "hq_municipality": "Alcochete",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 40,
+      "company": "Dia",
+      "sector": "Consumo e Serviços Associados",
+      "revenue_eur": 582784059,
+      "profit_eur": -14730186,
+      "assets_eur": 252455189,
+      "hq_municipality": "Oeiras",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 41,
+      "company": "Brisa",
+      "sector": "Transportes e Logística",
+      "revenue_eur": 572570821,
+      "profit_eur": 183177676,
+      "assets_eur": 2359866132,
+      "hq_municipality": "Cascais",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 42,
+      "company": "Alcapetro",
+      "sector": "Energia e Recursos",
+      "revenue_eur": 540326304,
+      "profit_eur": 903870,
+      "assets_eur": 62733267,
+      "hq_municipality": "Alcanena",
+      "hq_subregion": "MT"
+    },
+    {
+      "rank": 43,
+      "company": "OCP Portugal",
+      "sector": "Saúde",
+      "revenue_eur": 536564534,
+      "profit_eur": 8010673,
+      "assets_eur": 153094359,
+      "hq_municipality": "Maia",
+      "hq_subregion": "AMP"
+    },
+    {
+      "rank": 44,
+      "company": "Navigator Para Setúbal",
+      "sector": "Materiais de Base",
+      "revenue_eur": 525047506,
+      "profit_eur": 18926248,
+      "assets_eur": 515355553,
+      "hq_municipality": "Setúbal",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 45,
+      "company": "Celbi",
+      "sector": "Materiais de Base",
+      "revenue_eur": 509334540,
+      "profit_eur": 86742014,
+      "assets_eur": 714007165,
+      "hq_municipality": "Figueira da Foz",
+      "hq_subregion": "RC"
+    },
+    {
+      "rank": 46,
+      "company": "Mercedes-Benz Portugal",
+      "sector": "Automóvel",
+      "revenue_eur": 508436979,
+      "profit_eur": 13955563,
+      "assets_eur": 212084404,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 47,
+      "company": "TD Tech Data Portugal",
+      "sector": "Tecnologia, Media e Telecomunicações",
+      "revenue_eur": 495813787,
+      "profit_eur": 2130063,
+      "assets_eur": 101148930,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 48,
+      "company": "Cenibra",
+      "sector": "Materiais de Base",
+      "revenue_eur": 489286901,
+      "profit_eur": -3780390,
+      "assets_eur": 237965743,
+      "hq_municipality": "Funchal",
+      "hq_subregion": "MA"
+    },
+    {
+      "rank": 49,
+      "company": "CTT Correios de Portugal",
+      "sector": "Transportes e Logística",
+      "revenue_eur": 475056506,
+      "profit_eur": 37680272,
+      "assets_eur": 1036085335,
+      "hq_municipality": "Lisboa",
+      "hq_subregion": "AML"
+    },
+    {
+      "rank": 50,
+      "company": "Navigator Paper Figueira",
+      "sector": "Materiais de Base",
+      "revenue_eur": 472518214,
+      "profit_eur": 15842142,
+      "assets_eur": 183255475,
+      "hq_municipality": "Figueira da Foz",
+      "hq_subregion": "RC"
+    }
+  ],
+  "meta": {
+    "title": "As 50 maiores empresas de Portugal (2022) - Free Download",
+    "description": "As 50 maiores empresas de Portugal ordenadas por faturação em 2022, com setor, lucros, ativos e sede (município e sub-região). Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "As 50 maiores empresas de Portugal (2022) | ListBase",
+    "seo_description": "Download As 50 maiores empresas de Portugal (2022) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_das_maiores_empresas_de_Portugal"
+    ]
+  }
+}
