@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-18T02:27:29.675Z",
-  "total_datasets": 578,
-  "total_records": 752359,
+  "generated": "2026-11-18T02:27:39.002Z",
+  "total_datasets": 579,
+  "total_records": 752446,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -16408,6 +16408,36 @@
         "xlsx": {
           "name": "pt-taca-de-portugal-vencedores_PT.xlsx",
           "size": 11498
+        }
+      }
+    },
+    {
+      "id": "pt-volta-a-portugal-vencedores",
+      "name": "Vencedores da Volta a Portugal em bicicleta",
+      "category": "sports",
+      "record_count": 87,
+      "columns": [
+        "edition",
+        "year",
+        "winner",
+        "winner_country",
+        "winner_team",
+        "second",
+        "second_country",
+        "third",
+        "third_country"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Volta_a_Portugal",
+      "updated": "2026-11",
+      "size": 28409,
+      "files": {
+        "csv": {
+          "name": "pt-volta-a-portugal-vencedores_PT.csv",
+          "size": 10009
+        },
+        "xlsx": {
+          "name": "pt-volta-a-portugal-vencedores_PT.xlsx",
+          "size": 12490
         }
       }
     },
