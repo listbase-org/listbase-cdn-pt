@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-17T02:20:43.991Z",
-  "total_datasets": 576,
-  "total_records": 752145,
+  "generated": "2026-11-18T02:27:21.235Z",
+  "total_datasets": 577,
+  "total_records": 752309,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -2259,6 +2259,30 @@
         "xlsx": {
           "name": "pt-swift-codigos_PT.xlsx",
           "size": 15640
+        }
+      }
+    },
+    {
+      "id": "pt-br-frutas-comestiveis-amazonia",
+      "name": "Frutas comestíveis da Amazônia",
+      "category": "food",
+      "record_count": 164,
+      "columns": [
+        "common_name",
+        "scientific_name",
+        "family"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_frutas_comestíveis_da_Amazônia",
+      "updated": "2026-11",
+      "size": 21980,
+      "files": {
+        "csv": {
+          "name": "pt-br-frutas-comestiveis-amazonia_PT.csv",
+          "size": 7868
+        },
+        "xlsx": {
+          "name": "pt-br-frutas-comestiveis-amazonia_PT.xlsx",
+          "size": 12018
         }
       }
     },

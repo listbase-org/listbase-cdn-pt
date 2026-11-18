@@ -1,0 +1,861 @@
+{
+  "id": "pt-br-frutas-comestiveis-amazonia",
+  "name": "Frutas comestíveis da Amazônia",
+  "title": "Frutas comestíveis da Amazônia",
+  "description": "Frutas nativas comestíveis da Amazônia brasileira com nome popular, nome científico e família botânica.",
+  "category": "food",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_frutas_comestíveis_da_Amazônia",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_frutas_comestíveis_da_Amazônia",
+  "updated": "2026-11",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "common_name",
+      "label": "Common Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "common_name": "cajuí",
+      "scientific_name": "Anacardium giganteum",
+      "family": "Anacardiaceae"
+    },
+    {
+      "common_name": "caju-do-campo",
+      "scientific_name": "Anacardium microcarpum",
+      "family": "Anacardiaceae"
+    },
+    {
+      "common_name": "cajutim",
+      "scientific_name": "Anacardium negrense",
+      "family": "Anacardiaceae"
+    },
+    {
+      "common_name": "caju",
+      "scientific_name": "Anacardium occidentale",
+      "family": "Anacardiaceae"
+    },
+    {
+      "common_name": "jacaiacá",
+      "scientific_name": "Poupartia amazonica",
+      "family": "Anacardiaceae"
+    },
+    {
+      "common_name": "manga",
+      "scientific_name": "Mangifera indica",
+      "family": "Anacardiaceae"
+    },
+    {
+      "common_name": "taperebá",
+      "scientific_name": "Spondias dulcis, Spondias mombin",
+      "family": "Anacardiaceae"
+    },
+    {
+      "common_name": "araticum-do-mato",
+      "scientific_name": "Annona densicoma",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "araticum",
+      "scientific_name": "Annona montana",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "graviola",
+      "scientific_name": "Annona muricata",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "ata",
+      "scientific_name": "Annona squamosa",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "pindaeua",
+      "scientific_name": "Duguetia marcgraviana",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "jaboti",
+      "scientific_name": "Duguetia stenantha",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "fusaia",
+      "scientific_name": "Fusaea longifolia",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "biribá",
+      "scientific_name": "Rollinia mucosa",
+      "family": "Annonaceae"
+    },
+    {
+      "common_name": "amapá",
+      "scientific_name": "Parahancornia amapa",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "pepino-do-mato",
+      "scientific_name": "Ambelania acida",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "paiuetu",
+      "scientific_name": "Bonafousia longituba",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "sorva",
+      "scientific_name": "Couma guianensis",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "sorva-grande",
+      "scientific_name": "Couma macrocarpa",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "sorvinha",
+      "scientific_name": "Couma utilis",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "tucujá",
+      "scientific_name": "Lacmellea arborescens",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "mangaba",
+      "scientific_name": "Hancornia speciosa",
+      "family": "Apocynaceae"
+    },
+    {
+      "common_name": "açaí",
+      "scientific_name": "Euterpe oleracea",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "mucajá",
+      "scientific_name": "Acrocomia sclerocarpa",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "tucumã-do-amazonas",
+      "scientific_name": "Astrocaryum aculeatum",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "tucumã",
+      "scientific_name": "Astrocaryum vulgare",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "bacaba",
+      "scientific_name": "Oenocarpus bacaba",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "bacaba-de-leque",
+      "scientific_name": "Oenocarpus distichus",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "bacabi",
+      "scientific_name": "Oenocarpus minor",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "bacabinha",
+      "scientific_name": "Oenocarpus mapora",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "pupunha",
+      "scientific_name": "Bactris gasipaes",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "marajá",
+      "scientific_name": "Bactris maraja",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "caraná",
+      "scientific_name": "Mauritiella armata",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "dendê-do-pará",
+      "scientific_name": "Elaeis oleifera",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "miriti",
+      "scientific_name": "Mauritia flexuosa",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "inajá",
+      "scientific_name": "Maximiliana maripa",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "patauá",
+      "scientific_name": "Oenocarpus bataua",
+      "family": "Arecaceae"
+    },
+    {
+      "common_name": "mamorana",
+      "scientific_name": "Pachira aquatica",
+      "family": "Bombacaceae"
+    },
+    {
+      "common_name": "sapota-do-solimões",
+      "scientific_name": "Quararibea cordata",
+      "family": "Bombacaceae"
+    },
+    {
+      "common_name": "abacaxi",
+      "scientific_name": "Ananas comosus",
+      "family": "Bromeliaceae"
+    },
+    {
+      "common_name": "mamão",
+      "scientific_name": "Carica papaya",
+      "family": "Caricaceae"
+    },
+    {
+      "common_name": "jaracatiá",
+      "scientific_name": "Jacaratia spinosa",
+      "family": "Caricaceae"
+    },
+    {
+      "common_name": "piquiá",
+      "scientific_name": "Caryocar villosum",
+      "family": "Caryocaraceae"
+    },
+    {
+      "common_name": "mapati",
+      "scientific_name": "Pourouma cecropiifolia",
+      "family": "Cecropiaceae"
+    },
+    {
+      "common_name": "uarutama",
+      "scientific_name": "Cheiloclinium cognatum",
+      "family": "Celastraceae; Hippocrateaceae"
+    },
+    {
+      "common_name": "gulosa",
+      "scientific_name": "Peritassa laevigata, Peritassa campestris",
+      "family": "Celastraceae"
+    },
+    {
+      "common_name": "ajuru",
+      "scientific_name": "Chrysobalanus icaco",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "castanha-de-cutia",
+      "scientific_name": "Couepia edulis",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "castanha-de-galinha",
+      "scientific_name": "Couepia longipendula",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "pajurá",
+      "scientific_name": "Couepia bracteosa",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "pirauxi",
+      "scientific_name": "Couepia paraensis",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "umari-rana",
+      "scientific_name": "Couepia subcordata",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "oiti",
+      "scientific_name": "Licania tomentosa",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "pajurá-da-mata",
+      "scientific_name": "Parinari montana",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "uará",
+      "scientific_name": "Parinari sprucei",
+      "family": "Chrysobalanaceae"
+    },
+    {
+      "common_name": "melancia",
+      "scientific_name": "Citrullus lanatus",
+      "family": "Cucurbitaceae"
+    },
+    {
+      "common_name": "melão",
+      "scientific_name": "Cucumis melo",
+      "family": "Cucurbitaceae"
+    },
+    {
+      "common_name": "castanha-de-porco",
+      "scientific_name": "Caryodendron amazonicum",
+      "family": "Euphorbiaceae"
+    },
+    {
+      "common_name": "ameixa-de-madagascar",
+      "scientific_name": "Flacourtia jangomas",
+      "family": "Flacourtiaceae"
+    },
+    {
+      "common_name": "ituá",
+      "scientific_name": "Gnetum spp.",
+      "family": "Gnetaceae"
+    },
+    {
+      "common_name": "bacurizinho",
+      "scientific_name": "Rheedia acuminata",
+      "family": "Guttiferae"
+    },
+    {
+      "common_name": "abricó",
+      "scientific_name": "Mammea americana",
+      "family": "Guttiferae"
+    },
+    {
+      "common_name": "bacuri",
+      "scientific_name": "Platonia insignis",
+      "family": "Guttiferae"
+    },
+    {
+      "common_name": "bacuripari-liso",
+      "scientific_name": "Rheedia brasiliensis",
+      "family": "Guttiferae"
+    },
+    {
+      "common_name": "bacuri-mirim",
+      "scientific_name": "Rheedia gardneriana",
+      "family": "Guttiferae"
+    },
+    {
+      "common_name": "bacuripari",
+      "scientific_name": "Rheedia macrophylla",
+      "family": "Guttiferae"
+    },
+    {
+      "common_name": "uaimiratipi",
+      "scientific_name": "Salacia impressifolia",
+      "family": "Hippocrateaceae"
+    },
+    {
+      "common_name": "achuá",
+      "scientific_name": "Sacoglottis guianensis",
+      "family": "Humiriaceae"
+    },
+    {
+      "common_name": "uxi-curuá",
+      "scientific_name": "Duckesia verrucosa",
+      "family": "Humiriaceae"
+    },
+    {
+      "common_name": "uxi",
+      "scientific_name": "Endopleura uchi",
+      "family": "Humiriaceae"
+    },
+    {
+      "common_name": "umiri",
+      "scientific_name": "Humiria balsamifera",
+      "family": "Humiriaceae"
+    },
+    {
+      "common_name": "umari",
+      "scientific_name": "Poraqueiba paraensis",
+      "family": "Icacinaceae"
+    },
+    {
+      "common_name": "abacate",
+      "scientific_name": "Persea americana",
+      "family": "Lauraceae"
+    },
+    {
+      "common_name": "ceru",
+      "scientific_name": "Allantoma lineata",
+      "family": "Lecythidaceae"
+    },
+    {
+      "common_name": "castanha-do-pará",
+      "scientific_name": "Bertholletia excelsa",
+      "family": "Lecythidaceae"
+    },
+    {
+      "common_name": "sapucaia",
+      "scientific_name": "Lecythis pisonis",
+      "family": "Lecythidaceae"
+    },
+    {
+      "common_name": "jutaí",
+      "scientific_name": "Hymenaea courbaril",
+      "family": "Caesalpinioideae"
+    },
+    {
+      "common_name": "marimari, mari-mari",
+      "scientific_name": "Cassia leiandra",
+      "family": "Caesalpinioideae"
+    },
+    {
+      "common_name": "tamarindo",
+      "scientific_name": "Tamarindus indica",
+      "family": "Caesalpinioideae"
+    },
+    {
+      "common_name": "ingá-açú",
+      "scientific_name": "Inga cinnamomea",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingá-turi",
+      "scientific_name": "Inga alba",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingá-costela",
+      "scientific_name": "Inga capitata",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingá-açu",
+      "scientific_name": "Inga cinnamomea",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingá-cipó",
+      "scientific_name": "Inga edulis",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingá-cururu",
+      "scientific_name": "Inga fagifolia",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingá-de-fogo",
+      "scientific_name": "Inga velutina",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingá-xixica",
+      "scientific_name": "Inga heterophylla",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "ingapéua",
+      "scientific_name": "Inga macrophylla",
+      "family": "Mimosoideae"
+    },
+    {
+      "common_name": "amendoim",
+      "scientific_name": "Arachis hypogaea",
+      "family": "Papilionoideae"
+    },
+    {
+      "common_name": "acerola",
+      "scientific_name": "Malpighia glabra",
+      "family": "Malpighiaceae"
+    },
+    {
+      "common_name": "caferana",
+      "scientific_name": "Bunchosia armeniaca",
+      "family": "Malpighiaceae"
+    },
+    {
+      "common_name": "muruci-vermelho",
+      "scientific_name": "Byrsonima amazonica",
+      "family": "Malpighiaceae"
+    },
+    {
+      "common_name": "muruci",
+      "scientific_name": "Byrsonima crassifolia",
+      "family": "Malpighiaceae"
+    },
+    {
+      "common_name": "muruci-da-mata",
+      "scientific_name": "Byrsonima crispa",
+      "family": "Malpighiaceae"
+    },
+    {
+      "common_name": "muruci-da-capoeira",
+      "scientific_name": "Byrsonima lancifolia",
+      "family": "Malpighiaceae"
+    },
+    {
+      "common_name": "muruci-rasteiro",
+      "scientific_name": "Byrsonima verbascifolia",
+      "family": "Malpighiaceae"
+    },
+    {
+      "common_name": "apiranga",
+      "scientific_name": "Mouriri apiranga",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "araçá-de-anta",
+      "scientific_name": "Bellucia grossularioides",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "camutim",
+      "scientific_name": "Mouriri grandiflora",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "dauicu",
+      "scientific_name": "Mouriri eugeniifolia",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "gurguri",
+      "scientific_name": "Mouriri guianensis",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "mirauba",
+      "scientific_name": "Mouriri trunciflora",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "muriri, mururi",
+      "scientific_name": "Mouriri ficoides",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "puçá",
+      "scientific_name": "Mouriri pusa",
+      "family": "Melastomataceae"
+    },
+    {
+      "common_name": "fruta-pão",
+      "scientific_name": "Artocarpus altilis",
+      "family": "Moraceae"
+    },
+    {
+      "common_name": "jaca",
+      "scientific_name": "Artocarpus heterophyllus",
+      "family": "Moraceae"
+    },
+    {
+      "common_name": "tatajuba",
+      "scientific_name": "Bagassa guianensis",
+      "family": "Moraceae"
+    },
+    {
+      "common_name": "inharé",
+      "scientific_name": "Helicostylis tomentosa",
+      "family": "Moraceae"
+    },
+    {
+      "common_name": "banana",
+      "scientific_name": "Musa × paradisiaca",
+      "family": "Musaceae"
+    },
+    {
+      "common_name": "cururureçá",
+      "scientific_name": "Ardisia panurensis",
+      "family": "Myrsinaceae"
+    },
+    {
+      "common_name": "ameixa-do-pará",
+      "scientific_name": "Syzygium cumini",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "araçá",
+      "scientific_name": "Psidium guineense",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "araçá-boi",
+      "scientific_name": "Eugenia stipitata",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "araçá-pera",
+      "scientific_name": "Psidium acutangulum",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "caçari",
+      "scientific_name": "Myrciaria dubia",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "guabiraba",
+      "scientific_name": "Campomanesia lineatifolia",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "grumixama",
+      "scientific_name": "Eugenia brasiliensis",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "ubaia",
+      "scientific_name": "Eugenia patrisii",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "ginja",
+      "scientific_name": "Eugenia uniflora",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "frutinheira",
+      "scientific_name": "Myrcia fallax",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "goiaba",
+      "scientific_name": "Psidium guajava",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "jambo",
+      "scientific_name": "Syzygium malaccense",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "jambo-rosa",
+      "scientific_name": "Syzygium jambos, Syzygium samarangense",
+      "family": "Myrtaceae"
+    },
+    {
+      "common_name": "limão-de-caiena",
+      "scientific_name": "Averrhoa bilimbi",
+      "family": "Oxalidaceae"
+    },
+    {
+      "common_name": "carambola",
+      "scientific_name": "Averrhoa carambola",
+      "family": "Oxalidaceae"
+    },
+    {
+      "common_name": "maracujá",
+      "scientific_name": "Passiflora edulis",
+      "family": "Passifloraceae"
+    },
+    {
+      "common_name": "maracujá-açu",
+      "scientific_name": "Passiflora quadrangularis",
+      "family": "Passifloraceae"
+    },
+    {
+      "common_name": "maracujá-suspiro",
+      "scientific_name": "Passiflora nitida",
+      "family": "Passifloraceae"
+    },
+    {
+      "common_name": "gogó-de-guariba",
+      "scientific_name": "Moutabea chodatiana",
+      "family": "Polygalaceae"
+    },
+    {
+      "common_name": "moela-de-mutum",
+      "scientific_name": "Lacunaria jenmani",
+      "family": "Quiinaceae"
+    },
+    {
+      "common_name": "pama",
+      "scientific_name": "Quiina florida",
+      "family": "Quiinaceae"
+    },
+    {
+      "common_name": "dão",
+      "scientific_name": "Ziziphus mauritiana",
+      "family": "Rhamnaceae"
+    },
+    {
+      "common_name": "puruí",
+      "scientific_name": "Alibertia edulis",
+      "family": "Rubiaceae"
+    },
+    {
+      "common_name": "puruí-grande",
+      "scientific_name": "Borojoa sorbilis",
+      "family": "Rubiaceae"
+    },
+    {
+      "common_name": "cabeça-de-urubu",
+      "scientific_name": "Duroia macrophylla",
+      "family": "Rubiaceae"
+    },
+    {
+      "common_name": "puruí-da-mata",
+      "scientific_name": "Duroia saccifera",
+      "family": "Rubiaceae"
+    },
+    {
+      "common_name": "jenipapo",
+      "scientific_name": "Genipa americana",
+      "family": "Rubiaceae"
+    },
+    {
+      "common_name": "guaraná",
+      "scientific_name": "Paullinia cupana",
+      "family": "Sapindaceae"
+    },
+    {
+      "common_name": "pitomba-das-guianas",
+      "scientific_name": "Melicoccus bijugatus",
+      "family": "Sapindaceae"
+    },
+    {
+      "common_name": "pitomba",
+      "scientific_name": "Talisia esculenta",
+      "family": "Sapindaceae"
+    },
+    {
+      "common_name": "abiu",
+      "scientific_name": "Pouteria caimito, Neoxythece caimito",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "abiu-carambola",
+      "scientific_name": "Micropholis acutangula",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "abiurana",
+      "scientific_name": "Pouteria sp.",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "camitié",
+      "scientific_name": "Chrysophyllum cainito",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "caramuri",
+      "scientific_name": "Neoxythece elegans",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "cutite",
+      "scientific_name": "Pouteria macrophylla",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "cutite-grande",
+      "scientific_name": "Pouteria macrocarpa",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "cabeça-de-macaco",
+      "scientific_name": "Labatia macrocarpa",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "guajaraí",
+      "scientific_name": "Ecclinusa guianensis",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "maçaranduba",
+      "scientific_name": "Manilkara huberi",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "sapoti",
+      "scientific_name": "Manilkara zapota",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "pajurá-de-óbidos",
+      "scientific_name": "Pouteria speciosa",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "pariri",
+      "scientific_name": "Pouteria pariry",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "ucuqui",
+      "scientific_name": "Pouteria ucuqui",
+      "family": "Sapotaceae"
+    },
+    {
+      "common_name": "camapu",
+      "scientific_name": "Physalis angulata",
+      "family": "Solanaceae"
+    },
+    {
+      "common_name": "cacau",
+      "scientific_name": "Theobroma cacao",
+      "family": "Sterculiaceae"
+    },
+    {
+      "common_name": "cacau-do-peru",
+      "scientific_name": "Theobroma bicolor",
+      "family": "Sterculiaceae"
+    },
+    {
+      "common_name": "cupuaçu",
+      "scientific_name": "Theobroma grandiflorum",
+      "family": "Sterculiaceae"
+    },
+    {
+      "common_name": "cupuaçu-do-mato",
+      "scientific_name": "Theobroma canumanense",
+      "family": "Sterculiaceae"
+    },
+    {
+      "common_name": "cupuí",
+      "scientific_name": "Theobroma subincanum",
+      "family": "Sterculiaceae"
+    },
+    {
+      "common_name": "cacau-jacar",
+      "scientific_name": "Theobroma mariae",
+      "family": "Sterculiaceae"
+    },
+    {
+      "common_name": "cacauí",
+      "scientific_name": "Theobroma speciosum",
+      "family": "Sterculiaceae"
+    },
+    {
+      "common_name": "japurá",
+      "scientific_name": "Erisma japura",
+      "family": "Vochysiaceae"
+    }
+  ],
+  "meta": {
+    "title": "Frutas comestíveis da Amazônia - Free Download",
+    "description": "Frutas nativas comestíveis da Amazônia brasileira com nome popular, nome científico e família botânica. Contains 164 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Frutas comestíveis da Amazônia | ListBase",
+    "seo_description": "Download Frutas comestíveis da Amazônia — 164 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 164 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_frutas_comestíveis_da_Amazônia"
+    ]
+  }
+}
