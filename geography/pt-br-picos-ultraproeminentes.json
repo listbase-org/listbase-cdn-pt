@@ -1,0 +1,619 @@
+{
+  "id": "pt-br-picos-ultraproeminentes",
+  "name": "Picos ultraproeminentes do Brasil",
+  "title": "Picos ultraproeminentes do Brasil",
+  "description": "Picos mais proeminentes do Brasil com altitude, serra, localização, coordenadas, proeminência topográfica, cume pai e primeira ascensão.",
+  "category": "geography",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_picos_ultraproeminentes_do_Brasil",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_picos_ultraproeminentes_do_Brasil",
+  "updated": "2026-11",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "number"
+    },
+    {
+      "key": "range",
+      "label": "Range",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "prominence_m",
+      "label": "Prominence M",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Pico da Neblina",
+      "altitude_m": 2995,
+      "range": "Serra do Imeri",
+      "location": "Amazonas",
+      "coordinates": "0° 48' 24\" N 66° 0' 18\" O",
+      "prominence_m": 2887
+    },
+    {
+      "rank": 2,
+      "name": "Pico 31 de Março",
+      "altitude_m": 2974,
+      "range": "Serra do Imeri",
+      "location": "Amazonas Brasil/ Venezuela)",
+      "coordinates": "0° 48' 22\" N 66° 0' 17\" O",
+      "prominence_m": 116
+    },
+    {
+      "rank": 3,
+      "name": "Pico da Bandeira",
+      "altitude_m": 2891,
+      "range": "Serra do Caparaó",
+      "location": "Minas Gerais / Espirito Santo",
+      "coordinates": "20° 26' 04\" S 41° 47' 44\" O",
+      "prominence_m": 2640
+    },
+    {
+      "rank": 4,
+      "name": "Pico do Calçado",
+      "altitude_m": 2849,
+      "range": "Serra do Caparaó",
+      "location": "Minas Gerais / Espirito Santo",
+      "coordinates": "20° 26' 04\" S 41° 47' 44\" O",
+      "prominence_m": 46
+    },
+    {
+      "rank": 5,
+      "name": "Pedra da Mina",
+      "altitude_m": 2798,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais / São Paulo",
+      "coordinates": "22° 25' 40\" S 44° 50' 33\" O",
+      "prominence_m": 2068
+    },
+    {
+      "rank": 6,
+      "name": "Pico das Agulhas Negras",
+      "altitude_m": 2791,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais / Rio de Janeiro",
+      "coordinates": "22° 22' 47\" S 44° 39' 40\" O",
+      "prominence_m": 1121
+    },
+    {
+      "rank": 7,
+      "name": "Pico do Cristal",
+      "altitude_m": 2769,
+      "range": "Serra do Caparaó",
+      "location": "Minas Gerais",
+      "coordinates": "20° 26' 37\" S 41° 48' 40\" O",
+      "prominence_m": 142
+    },
+    {
+      "rank": 8,
+      "name": "Monte Roraima",
+      "altitude_m": 2734,
+      "range": "Serra de Pacaraima",
+      "location": "Roraima (fronteira entre Brasil, Venezuela e Guiana)",
+      "coordinates": "5° 12' 07\" N 60° 44' 16\" O",
+      "prominence_m": 2251
+    },
+    {
+      "rank": 9,
+      "name": "Morro do Couto",
+      "altitude_m": 2680,
+      "range": "Serra da Mantiqueira",
+      "location": "Rio de Janeiro",
+      "coordinates": "22° 23' 04\" S 44° 41' 49\" O",
+      "prominence_m": 330
+    },
+    {
+      "rank": 10,
+      "name": "Pedra do Sino de Itatiaia",
+      "altitude_m": 2670,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais",
+      "coordinates": "22° 22' 13\" S 44° 39' 42\" O",
+      "prominence_m": 75
+    },
+    {
+      "rank": 11,
+      "name": "Pico dos Três Estados",
+      "altitude_m": 2665,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais / Rio de Janeiro / São Paulo",
+      "coordinates": "22° 25' 24\" S 44° 48' 48\" O",
+      "prominence_m": 266
+    },
+    {
+      "rank": 12,
+      "name": "Pedra do Altar",
+      "altitude_m": 2665,
+      "range": "Serra da Mantiqueira",
+      "location": "Rio de Janeiro",
+      "coordinates": "22° 22' 24\" S 44° 40' 22\" O",
+      "prominence_m": 100
+    },
+    {
+      "rank": 13,
+      "name": "Morro da Cruz do Negro",
+      "altitude_m": 2658,
+      "range": "Serra do Caparaó",
+      "location": "Espirito Santo",
+      "coordinates": "20° 24' 52\" S 41° 48' 10\" O",
+      "prominence_m": 150
+    },
+    {
+      "rank": 14,
+      "name": "Pico do Tesouro",
+      "altitude_m": 2620,
+      "range": "Serra do Caparaó",
+      "location": "Minas Gerais / Espirito Santo",
+      "coordinates": "20° 23' 05\" S 41° 47' 21\" O",
+      "prominence_m": 238
+    },
+    {
+      "rank": 15,
+      "name": "Pico do Garrafão",
+      "altitude_m": 2425,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais / Espirito Santo",
+      "coordinates": "22° 11' 51\" S 44° 47' 29\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 16,
+      "name": "Pico dos Marins",
+      "altitude_m": 2421,
+      "range": "Serra da Mantiqueira",
+      "location": "São Paulo",
+      "coordinates": "22° 30' 09\" S 45° 07' 16\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 17,
+      "name": "Pico Maior de Friburgo",
+      "altitude_m": 2316,
+      "range": "Serra do Mar",
+      "location": "Rio de Janeiro",
+      "coordinates": "22° 21' 06\" S 42° 35' 11\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 18,
+      "name": "Pico do Itaguaré",
+      "altitude_m": 2316,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais / São Paulo",
+      "coordinates": "22° 29' 18\" S 45° 05' 04\" O",
+      "prominence_m": 216
+    },
+    {
+      "rank": 19,
+      "name": "Pedra do Sino",
+      "altitude_m": 2275,
+      "range": "Serra dos Órgãos",
+      "location": "Rio de Janeiro",
+      "coordinates": "22º 29' 35\" S 43º 04' 24\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 20,
+      "name": "Pico da Caledônia",
+      "altitude_m": 2257,
+      "range": "Serra do Mar",
+      "location": "Rio de Janeiro",
+      "coordinates": "22° 21' 12\" S 42° 35' 12\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 21,
+      "name": "Morro do Açu",
+      "altitude_m": 2180,
+      "range": "Serra dos Orgaos",
+      "location": "Rio de Janeiro",
+      "coordinates": "22° 29' 35\" S 43° 04' 24\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 22,
+      "name": "Cara do Cão",
+      "altitude_m": 2180,
+      "range": "Serra dos Órgãos",
+      "location": "Rio de Janeiro",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 23,
+      "name": "Pedra de São Pedro",
+      "altitude_m": 2134,
+      "range": "Serra dos Órgãos",
+      "location": "Rio de Janeiro",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 24,
+      "name": "Pedra da Cruz",
+      "altitude_m": 2130,
+      "range": "Serra dos Órgãos",
+      "location": "Rio de Janeiro",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 25,
+      "name": "Pedra de São João",
+      "altitude_m": 2100,
+      "range": "Serra dos Órgãos",
+      "location": "Rio de Janeiro",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 26,
+      "name": "Pico do Tira Chapéu",
+      "altitude_m": 2088,
+      "range": "Serra da Bocaina",
+      "location": "São Paulo",
+      "coordinates": "S 22°46 '12.3'' W 44°39'33.5’'",
+      "prominence_m": ""
+    },
+    {
+      "rank": 27,
+      "name": "Pico do Selado",
+      "altitude_m": 2083,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais / São Paulo",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 28,
+      "name": "Pico do Sol",
+      "altitude_m": 2072,
+      "range": "Serra do Caraça",
+      "location": "Minas Gerais",
+      "coordinates": "-20.114373, -43.444234",
+      "prominence_m": ""
+    },
+    {
+      "rank": 29,
+      "name": "Pico do Inficionado",
+      "altitude_m": 2069,
+      "range": "Serra do Caraça",
+      "location": "Minas Gerais",
+      "coordinates": "-20.134453, -43.451945",
+      "prominence_m": ""
+    },
+    {
+      "rank": 30,
+      "name": "Pico do Itambé",
+      "altitude_m": 2052,
+      "range": "Serra do Espinhaço",
+      "location": "Minas Gerais",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 31,
+      "name": "Pedra de São Domingos",
+      "altitude_m": 2050,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 32,
+      "name": "Pico do Forno Grande",
+      "altitude_m": 2039,
+      "range": "Castelo",
+      "location": "Espirito Santo",
+      "coordinates": "S 20º 32'29\" W41º 07'17\"",
+      "prominence_m": ""
+    },
+    {
+      "rank": 33,
+      "name": "Pico do Barbado",
+      "altitude_m": 2033,
+      "range": "Chapada Diamantina",
+      "location": "Bahia",
+      "coordinates": "13° 17' 41\" S 41° 54' 28.6\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 34,
+      "name": "Pico do Rachado",
+      "altitude_m": 2020,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais",
+      "coordinates": "22°11'34\"S, 44°49'03\"W",
+      "prominence_m": ""
+    },
+    {
+      "rank": 35,
+      "name": "Pico do Itapeva",
+      "altitude_m": 2010,
+      "range": "Serra da Mantiqueira",
+      "location": "São Paulo",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 36,
+      "name": "Garrafão",
+      "altitude_m": 1980,
+      "range": "Serra dos Órgãos",
+      "location": "Rio de Janeiro",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 37,
+      "name": "Pico das Almas",
+      "altitude_m": 1958,
+      "range": "Chapada Diamantina",
+      "location": "Bahia",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 38,
+      "name": "Pico da Carapuça",
+      "altitude_m": 1955,
+      "range": "Serra do Caraça",
+      "location": "Minas Gerais",
+      "coordinates": "-20.088929, -43.472622",
+      "prominence_m": ""
+    },
+    {
+      "rank": 39,
+      "name": "Pedra do Baú",
+      "altitude_m": 1950,
+      "range": "Serra da Mantiqueira",
+      "location": "São Paulo",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 40,
+      "name": "Pico da Cangerana",
+      "altitude_m": 1890,
+      "range": "Serra do Caraça",
+      "location": "Minas Gerais",
+      "coordinates": "-20.135602, -43.513497",
+      "prominence_m": ""
+    },
+    {
+      "rank": 41,
+      "name": "Pico Paraná",
+      "altitude_m": 1877,
+      "range": "Serra do Ibitiraquire",
+      "location": "Paraná",
+      "coordinates": "25° 14' 59\" S 48° 48' 47\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 42,
+      "name": "Pico dos Dias",
+      "altitude_m": 1864,
+      "range": "Serra da Mantiqueira",
+      "location": "Minas Gerais",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 43,
+      "name": "Pico Caratuva",
+      "altitude_m": 1860,
+      "range": "Serra do Ibitiraquire",
+      "location": "Paraná",
+      "coordinates": "25° 14' 26\" S 48° 49' 41\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 44,
+      "name": "Pedra da Macela",
+      "altitude_m": 1840,
+      "range": "Serra do Mar",
+      "location": "Rio de Janeiro / São Paulo",
+      "coordinates": "23°8'23\"S 44°48'49\"W",
+      "prominence_m": ""
+    },
+    {
+      "rank": 45,
+      "name": "Pico Formosa",
+      "altitude_m": 1825,
+      "range": "Serra do Espinhaço",
+      "location": "Minas Gerais",
+      "coordinates": "15° 14' 17\" S 42° 49' 22\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 46,
+      "name": "Morro da Boa Vista",
+      "altitude_m": 1824,
+      "range": "Serra Geral (sul do Brasil)",
+      "location": "Santa Catarina",
+      "coordinates": "27° 54' 31\" S 49° 19' 12\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 47,
+      "name": "Morro da Igreja",
+      "altitude_m": 1822,
+      "range": "Serra Geral (sul do Brasil)",
+      "location": "Santa Catarina",
+      "coordinates": "28° 7' 33\" S 49° 28' 28\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 48,
+      "name": "Pico Itapiroca",
+      "altitude_m": 1805,
+      "range": "Serra do Ibitiraquire",
+      "location": "Paraná",
+      "coordinates": "25° 14' 51\" S 48° 50' 10\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 49,
+      "name": "Pedra Grande do Gomeral",
+      "altitude_m": 1788,
+      "range": "Serra da Mantiqueira",
+      "location": "São Paulo",
+      "coordinates": "-22.733195737, -45.413086270",
+      "prominence_m": ""
+    },
+    {
+      "rank": 50,
+      "name": "Pico do Itacolomi",
+      "altitude_m": 1772,
+      "range": "Serra do Espinhaço",
+      "location": "Minas Gerais",
+      "coordinates": "20° 25' 46\" S 43° 28' 29\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 51,
+      "name": "Pico Ferraria",
+      "altitude_m": 1759,
+      "range": "Serra do Ibitiraquire",
+      "location": "Paraná",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 52,
+      "name": "Taipabacu",
+      "altitude_m": 1772,
+      "range": "Serra do Ibitiraquire",
+      "location": "Paraná",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 53,
+      "name": "Pedra do Cume",
+      "altitude_m": 1750,
+      "range": "Serra do Lopo",
+      "location": "Minas Gerais / São Paulo",
+      "coordinates": "-22.90481, -46.34449",
+      "prominence_m": ""
+    },
+    {
+      "rank": 54,
+      "name": "Pico Agudo",
+      "altitude_m": 1703,
+      "range": "Serra da Mantiqueira",
+      "location": "São Paulo",
+      "coordinates": "22° 51′ 48″ S 45° 39′ 3″ W",
+      "prominence_m": ""
+    },
+    {
+      "rank": 55,
+      "name": "Dedo de Deus",
+      "altitude_m": 1692,
+      "range": "Serra dos Órgãos",
+      "location": "Rio de Janeiro",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 56,
+      "name": "Pico Araçatuba",
+      "altitude_m": 1680,
+      "range": "Serra do Papanduva",
+      "location": "Paraná / Santa Catarina",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 57,
+      "name": "Pico do Pouso Alto",
+      "altitude_m": 1676,
+      "range": "Chapada dos Veadeiros",
+      "location": "Goiás",
+      "coordinates": "14° 3' 13\"S47° 31' 34\"O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 58,
+      "name": "Pico do Gavião",
+      "altitude_m": 1663,
+      "range": "Serra do Caracol",
+      "location": "Minas Gerais",
+      "coordinates": "25° 27' 7\" S 48° 55' 7\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 59,
+      "name": "Pico do Jabre",
+      "altitude_m": 1208,
+      "range": "Serra do Teixeira",
+      "location": "Paraíba",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 60,
+      "name": "Pico da Serra Branca",
+      "altitude_m": 1154,
+      "range": "Serra das Matas",
+      "location": "Ceará",
+      "coordinates": "",
+      "prominence_m": ""
+    },
+    {
+      "rank": 61,
+      "name": "Pico da Ibituruna",
+      "altitude_m": 1123,
+      "range": "Serra da Ibituruna",
+      "location": "Minas Gerais",
+      "coordinates": "18° 53' 11\" S 41° 55' 07\" O",
+      "prominence_m": ""
+    },
+    {
+      "rank": 62,
+      "name": "Pico Alto",
+      "altitude_m": 1114,
+      "range": "Maciço de Baturité",
+      "location": "Ceará",
+      "coordinates": "4°14′S 38°54′W",
+      "prominence_m": ""
+    }
+  ],
+  "meta": {
+    "title": "Picos ultraproeminentes do Brasil - Free Download",
+    "description": "Picos mais proeminentes do Brasil com altitude, serra, localização, coordenadas, proeminência topográfica, cume pai e primeira ascensão. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Picos ultraproeminentes do Brasil | ListBase",
+    "seo_description": "Download Picos ultraproeminentes do Brasil — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_picos_ultraproeminentes_do_Brasil"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-19T02:21:40.798Z",
-  "total_datasets": 580,
-  "total_records": 752621,
+  "generated": "2026-11-19T02:21:49.480Z",
+  "total_datasets": 581,
+  "total_records": 752683,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "health",
@@ -2531,6 +2531,34 @@
         "xlsx": {
           "name": "pt-apelidos-portugal_PT.xlsx",
           "size": 8825
+        }
+      }
+    },
+    {
+      "id": "pt-br-picos-ultraproeminentes",
+      "name": "Picos ultraproeminentes do Brasil",
+      "category": "geography",
+      "record_count": 62,
+      "columns": [
+        "rank",
+        "name",
+        "altitude_m",
+        "range",
+        "location",
+        "coordinates",
+        "prominence_m"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_picos_ultraproeminentes_do_Brasil",
+      "updated": "2026-11",
+      "size": 16561,
+      "files": {
+        "csv": {
+          "name": "pt-br-picos-ultraproeminentes_PT.csv",
+          "size": 6120
+        },
+        "xlsx": {
+          "name": "pt-br-picos-ultraproeminentes_PT.xlsx",
+          "size": 10469
         }
       }
     },
