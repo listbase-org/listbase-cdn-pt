@@ -1,0 +1,612 @@
+{
+  "id": "pt-docaria-conventual-por-regiao",
+  "name": "Doces conventuais portugueses por região",
+  "title": "Doces conventuais portugueses por região",
+  "description": "Seleção de doces da doçaria conventual portuguesa organizados pela região de origem (Minho, Douro Litoral, Beiras, Alentejo, Algarve, etc.).",
+  "category": "food",
+  "source": "https://pt.wikipedia.org/wiki/Doçaria_conventual",
+  "source_url": "https://pt.wikipedia.org/wiki/Doçaria_conventual",
+  "updated": "2026-11",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Charutos de Ovos",
+      "region": "Minho"
+    },
+    {
+      "name": "Meias Luas",
+      "region": "Minho"
+    },
+    {
+      "name": "Papas doces de carolo",
+      "region": "Minho"
+    },
+    {
+      "name": "Fidalguinhos",
+      "region": "Minho"
+    },
+    {
+      "name": "Fataunços",
+      "region": "Minho"
+    },
+    {
+      "name": "Pasteis de São Francisco",
+      "region": "Minho"
+    },
+    {
+      "name": "Bolachas do Bom Jesus",
+      "region": "Minho"
+    },
+    {
+      "name": "Suspiros de Braga",
+      "region": "Minho"
+    },
+    {
+      "name": "Clarinhas de Fão",
+      "region": "Minho"
+    },
+    {
+      "name": "Barrigas-de-Freira",
+      "region": "Minho"
+    },
+    {
+      "name": "Viúvas",
+      "region": "Minho"
+    },
+    {
+      "name": "Fartens",
+      "region": "Minho"
+    },
+    {
+      "name": "Pudim Abade de Priscos",
+      "region": "Minho"
+    },
+    {
+      "name": "Toucinho do Céu",
+      "region": "Minho"
+    },
+    {
+      "name": "Maçapães",
+      "region": "Minho"
+    },
+    {
+      "name": "Broinhas de Amêndoa",
+      "region": "Minho"
+    },
+    {
+      "name": "Fatias de Braga",
+      "region": "Minho"
+    },
+    {
+      "name": "Ovos Celestes",
+      "region": "Minho"
+    },
+    {
+      "name": "Doce Fino",
+      "region": "Minho"
+    },
+    {
+      "name": "Sapatetas",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Perronilhas",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Lérias de Amarante",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Tabafe",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Pescoços de freira",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Cavacas de Santa Clara",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Amarantinos",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Pão podre",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Foguetes de Amarante",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Fatias do Freixo",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "S. Gonçalos",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Brisas do Tâmega",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Papos de Anjo",
+      "region": "Douro Litoral"
+    },
+    {
+      "name": "Bola-doce de Miranda do Douro",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Morcelas",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Jerimús",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Madalenas do Convento",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Doce de viúvas",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Bolos de nozes de Bragança",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Sestas",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Pitos de Santa Luzia",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Creme da madre Joaquina",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Velharocos",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Toucinho do Céu",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Queijadas de Chilas",
+      "region": "Trás-os-Montes e Alto Douro"
+    },
+    {
+      "name": "Pastéis de Lorvão",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Nabada de Semide",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Morcelas de Arouca",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Nevadas de Penacova",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Arrufadas de Coimbra",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Nógado de Semide",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Lampreia de ovos das Clarissas de Coimbra",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Melícias",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Trouxas de ovos moles",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Manjar Branco",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Pastéis de Tentúgal",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Brisas do Lis (Leiria)",
+      "region": "Beira Litoral"
+    },
+    {
+      "name": "Cartuchos de Amêndoa de Cernache do Bonjardim",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Lâminas",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Gargantas de Freira, Covilhã",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Grades",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Bolo de São Vicente",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Argolinhas do Loreto",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Taroucos de Salzedas",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Ais",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Esquecidos",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Cavacas de Santa Clara",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Bicas",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Bolo Paraíso",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Bolo São Francisco",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Sardinhas Doces de Trancoso",
+      "region": "Beira Alta e Beira Baixa"
+    },
+    {
+      "name": "Sonhos da Esperança",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Sopapo do Convento",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Palha de Abrantes",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Celestes de Santarém",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Fatias de Tomar",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Tigeladas de Abrantes",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Broas das Donas",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Pampilhos",
+      "region": "Ribatejo"
+    },
+    {
+      "name": "Bom bocado",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Pão-de-ló do Mosteiro de Alcobaça",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Argolas",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Travesseiros",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Tibornas",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Bolos de Abóbora",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Delícias de Frei João",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Fitas de Páscoa",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Castanhas de Ovos",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Marmelada Branca de Odivelas",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Toucinho do Céu de Odivelas",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Pão-de-Ló de Alfeizerão",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Nozes de Cascais",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Pastéis de Belém",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Fradinhos (Mafra)",
+      "region": "Estremadura"
+    },
+    {
+      "name": "Almendrados",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Biscoitos do Cardeal",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Boleima de Portalegre",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Bolo podre conventual",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Bolo de mel de Santa Helena",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Bolo de chavão",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Bolo Fidalgo",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Bolo Finto",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Bom bocado",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Coalhada do Convento",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Encharcada",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Fartes",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Fatias reais",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Formigos",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Lampreia de Amêndoa de Portalegre",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Orelhas de Abade",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Padinhas",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Presunto Doce",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Queijo Dourado",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Rebuçados de ouro (Portalegre)",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Sopa dourada de Santa Clara",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Toucinho do Céu de Santa Clara de Portalegre",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Sericaia",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Pão de rala",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Tiborna de Ovos",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Torrão Real de Ovos",
+      "region": "Alentejo"
+    },
+    {
+      "name": "Biscoita",
+      "region": "Algarve"
+    },
+    {
+      "name": "Bolo de alfarroba",
+      "region": "Algarve"
+    },
+    {
+      "name": "Bolo de chila e amêndoa",
+      "region": "Algarve"
+    },
+    {
+      "name": "Bolo de amêndoas e nozes",
+      "region": "Algarve"
+    },
+    {
+      "name": "Bolo de figo e amêndoa",
+      "region": "Algarve"
+    },
+    {
+      "name": "Doce fino",
+      "region": "Algarve"
+    },
+    {
+      "name": "Folar algarvio",
+      "region": "Algarve"
+    },
+    {
+      "name": "Filhós algarvias das freiras de Tavira",
+      "region": "Algarve"
+    },
+    {
+      "name": "Morgado",
+      "region": "Algarve"
+    },
+    {
+      "name": "Queijo de figo",
+      "region": "Algarve"
+    },
+    {
+      "name": "Queijinhos",
+      "region": "Algarve"
+    },
+    {
+      "name": "Dom Rodrigos",
+      "region": "Algarve"
+    },
+    {
+      "name": "Massapão",
+      "region": "Algarve"
+    },
+    {
+      "name": "Pudim da Serra",
+      "region": "Algarve"
+    },
+    {
+      "name": "Torta de alfarroba",
+      "region": "Algarve"
+    },
+    {
+      "name": "Torta de amêndoa",
+      "region": "Algarve"
+    },
+    {
+      "name": "Torta de laranja",
+      "region": "Algarve"
+    },
+    {
+      "name": "Bolo preto",
+      "region": "Madeira"
+    },
+    {
+      "name": "Bolos de mel da Madeira",
+      "region": "Madeira"
+    },
+    {
+      "name": "Bolinhos de azeite",
+      "region": "Madeira"
+    },
+    {
+      "name": "Mexericos de freiras",
+      "region": "Madeira"
+    },
+    {
+      "name": "Rabanadas de Vinho da Madeira",
+      "region": "Madeira"
+    },
+    {
+      "name": "Frangolho",
+      "region": "Madeira"
+    },
+    {
+      "name": "Creme de chocolate madeirense",
+      "region": "Madeira"
+    },
+    {
+      "name": "Malassada",
+      "region": "Açores"
+    }
+  ],
+  "meta": {
+    "title": "Doces conventuais portugueses por região - Free Download",
+    "description": "Seleção de doces da doçaria conventual portuguesa organizados pela região de origem (Minho, Douro Litoral, Beiras, Alentejo, Algarve, etc.). Contains 144 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Doces conventuais portugueses por região | ListBase",
+    "seo_description": "Download Doces conventuais portugueses por região — 144 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 144 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Doçaria_conventual"
+    ]
+  }
+}

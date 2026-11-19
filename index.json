@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-19T02:21:49.480Z",
-  "total_datasets": 581,
-  "total_records": 752683,
+  "generated": "2026-11-19T02:21:58.079Z",
+  "total_datasets": 582,
+  "total_records": 752827,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -2361,6 +2361,29 @@
         "xlsx": {
           "name": "pt-br-pratos-tipicos-parana_PT.xlsx",
           "size": 7787
+        }
+      }
+    },
+    {
+      "id": "pt-docaria-conventual-por-regiao",
+      "name": "Doces conventuais portugueses por região",
+      "category": "food",
+      "record_count": 144,
+      "columns": [
+        "name",
+        "region"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Doçaria_conventual",
+      "updated": "2026-11",
+      "size": 12806,
+      "files": {
+        "csv": {
+          "name": "pt-docaria-conventual-por-regiao_PT.csv",
+          "size": 5027
+        },
+        "xlsx": {
+          "name": "pt-docaria-conventual-por-regiao_PT.xlsx",
+          "size": 9767
         }
       }
     },
