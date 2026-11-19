@@ -1,0 +1,1276 @@
+{
+  "id": "pt-barragens-de-portugal",
+  "name": "Barragens de Portugal por bacia hidrográfica",
+  "title": "Barragens de Portugal por bacia hidrográfica",
+  "description": "Barragens de Portugal agrupadas por bacia hidrográfica, com distrito, ano de conclusão e tipo de barragem.",
+  "category": "environment",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_barragens_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_barragens_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 175,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "basin",
+      "label": "Basin",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "completed",
+      "label": "Completed",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Barragem de covas",
+      "basin": "Rio Coura",
+      "district": "Viana do Castelo",
+      "completed": 1976,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Pagade",
+      "basin": "Rio Coura",
+      "district": "Viana do Castelo",
+      "completed": 1994,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem do Alto Lindoso",
+      "basin": "Rio Lima",
+      "district": "Viana do Castelo",
+      "completed": 1992,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Touvedo",
+      "basin": "Rio Lima",
+      "district": "Viana do Castelo",
+      "completed": 1993,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem do Alto Cávado",
+      "basin": "Rio Cávado",
+      "district": "Vila Real",
+      "completed": 1964,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem do Alto Rabagão",
+      "basin": "Rio Cávado",
+      "district": "Vila Real",
+      "completed": 1964,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Caniçada",
+      "basin": "Rio Cávado",
+      "district": "Braga",
+      "completed": 1955,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem da Paradela",
+      "basin": "Rio Cávado",
+      "district": "Vila Real",
+      "completed": 1956,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem de Penide",
+      "basin": "Rio Cávado",
+      "district": "Braga",
+      "completed": 1951,
+      "type": "Barragem de alvenaria"
+    },
+    {
+      "name": "Barragem de Salamonde",
+      "basin": "Rio Cávado",
+      "district": "Braga",
+      "completed": 1953,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem da Venda Nova",
+      "basin": "Rio Cávado",
+      "district": "Vila Real",
+      "completed": 1951,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem Vilarinho das Furnas",
+      "basin": "Rio Cávado",
+      "district": "Braga",
+      "completed": 1972,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Andorinhas",
+      "basin": "Rio Ave",
+      "district": "Braga",
+      "completed": 1945,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Guilhofrei",
+      "basin": "Rio Ave",
+      "district": "Braga",
+      "completed": 1938,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Queimadela",
+      "basin": "Rio Ave",
+      "district": "Braga",
+      "completed": 1993,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Alfaiates",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1999,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Alfândega da Fé",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1970,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Alijó",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 1991,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Arcossó",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 1999,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem de Armamar",
+      "basin": "Rio Douro",
+      "district": "Viseu",
+      "completed": 2004,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Azibo",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1982,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Bastelos",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1993,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem de Bemposta",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1964,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Bouçoais-Sonim",
+      "basin": "Rio Douro",
+      "district": "Vila Real e Bragança",
+      "completed": 2004,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Burga",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1978,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Camba",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1993,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Carrapatelo",
+      "basin": "Rio Douro",
+      "district": "Porto",
+      "completed": 1972,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Carviçais",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1984,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Catapereiro",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1999,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Crestuma-Lever",
+      "basin": "Rio Douro",
+      "district": "Porto",
+      "completed": 1985,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Curalha",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 1985,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Fonte Longa",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1984,
+      "type": "Barragem de terra"
+    },
+    {
+      "name": "Barragem de Freigil",
+      "basin": "Rio Douro",
+      "district": "Viseu",
+      "completed": 1955,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Gostei",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1993,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Mairos",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 1995,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Miranda do Douro",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1961,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Mirandela",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1992,
+      "type": "Açude móvel"
+    },
+    {
+      "name": "Barragem de Nunes",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 1995,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem do Palameiro",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": "????",
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem do Peneireiro",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1973,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Picote",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1958,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem do Pocinho",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1982,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Prada",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1995,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Ranhados",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1986,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Rebordelo",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 2004,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Régua",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 1973,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Rego do Milho",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 2005,
+      "type": "Barragem de terra-enrocamento"
+    },
+    {
+      "name": "Barragem de Sabugal",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 2000,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Salgueiro",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1977,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Santa Justa",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 2005,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Santa Maria de Aguiar",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1981,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Senhora de Monforte",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1993,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Serra Serrada",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1989,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Sordo",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 1997,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Teja",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1995,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Torrão",
+      "basin": "Rio Douro",
+      "district": "Porto",
+      "completed": 1988,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Valeira",
+      "basin": "Rio Douro",
+      "district": "Viseu",
+      "completed": 1975,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Vale Covo",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": "????",
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Vale Madeiro",
+      "basin": "Rio Douro",
+      "district": "Bragança",
+      "completed": 1994,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Vale Soeiro",
+      "basin": "Rio Douro",
+      "district": "Viseu",
+      "completed": 2004,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Varosa",
+      "basin": "Rio Douro",
+      "district": "Viseu",
+      "completed": 1976,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Vascoveiro",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 2000,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Vermiosa",
+      "basin": "Rio Douro",
+      "district": "Guarda",
+      "completed": 1999,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Vilar",
+      "basin": "Rio Douro",
+      "district": "Viseu",
+      "completed": 1965,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem de Daivões",
+      "basin": "Rio Douro",
+      "district": "Vila Real e Braga",
+      "completed": 2022,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem do Alto Tâmega",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 2024,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Gouvães",
+      "basin": "Rio Douro",
+      "district": "Vila Real",
+      "completed": 2022,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Burgães",
+      "basin": "Rio Vouga",
+      "district": "Aveiro",
+      "completed": 1940,
+      "type": "Barragem de alvenaria"
+    },
+    {
+      "name": "Barragem de Cercosa",
+      "basin": "Rio Vouga",
+      "district": "Viseu",
+      "completed": 1994,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Ribeiradio-Ermida",
+      "basin": "Rio Vouga",
+      "district": "Viseu",
+      "completed": 2014,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Várzea de Calde",
+      "basin": "Rio Vouga",
+      "district": "Viseu",
+      "completed": 2000,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem da Aguieira",
+      "basin": "Rio Mondego",
+      "district": "Coimbra",
+      "completed": 1981,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem do Alto Ceira",
+      "basin": "Rio Mondego",
+      "district": "Coimbra",
+      "completed": 1949,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem do Caldeirão",
+      "basin": "Rio Mondego",
+      "district": "Guarda",
+      "completed": 1993,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Coimbra",
+      "basin": "Rio Mondego",
+      "district": "Coimbra",
+      "completed": 1981,
+      "type": "Açude móvel"
+    },
+    {
+      "name": "Barragem de Covão do Meio",
+      "basin": "Rio Mondego",
+      "district": "Guarda",
+      "completed": 1953,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Fagilde",
+      "basin": "Rio Mondego",
+      "district": "Viseu",
+      "completed": 1984,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem das Fronhas",
+      "basin": "Rio Mondego",
+      "district": "Coimbra",
+      "completed": 1985,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Lagoa Comprida",
+      "basin": "Rio Mondego",
+      "district": "Guarda",
+      "completed": 1966,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Lagoacho",
+      "basin": "Rio Mondego",
+      "district": "Guarda",
+      "completed": 1993,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem da Raiva",
+      "basin": "Rio Mondego",
+      "district": "Coimbra",
+      "completed": 1981,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Ribeira do Paúl",
+      "basin": "Rio Mondego",
+      "district": "Viseu",
+      "completed": 2004,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Vale do Rossim",
+      "basin": "Rio Mondego",
+      "district": "Guarda",
+      "completed": 1956,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Alvorninha",
+      "basin": "Ribeiras do Oeste",
+      "district": "Leiria",
+      "completed": 2004,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Óbidos",
+      "basin": "Ribeiras do Oeste",
+      "district": "Leiria",
+      "completed": 2005,
+      "type": "Barragem de terra-enrocamento"
+    },
+    {
+      "name": "Barragem do Rio da Mula",
+      "basin": "Ribeiras do Oeste",
+      "district": "Lisboa",
+      "completed": 1969,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de São Domingos",
+      "basin": "Ribeiras do Oeste",
+      "district": "Leiria",
+      "completed": 1993,
+      "type": "Barragem de terra-enrocamento"
+    },
+    {
+      "name": "Barragem do Açafal",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 2004,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem da Apartadura",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1993,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem de Belver",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1952,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Bouçã",
+      "basin": "Rio Tejo",
+      "district": "Leiria",
+      "completed": 1955,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem do Cabril",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1954,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem da Capinha",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1981,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Castelo de Bode",
+      "basin": "Rio Tejo",
+      "district": "Santarém",
+      "completed": 1951,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Corgas",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1991,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Cova do Viriato",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1982,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Covão do Ferro",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1956,
+      "type": "Barragem de alvenaria"
+    },
+    {
+      "name": "Barragem do Divor",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 1965,
+      "type": "Barragem de aterro"
+    },
+    {
+      "name": "Barragem de Fratel",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1973,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Freixeirinha",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 1995,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Furadouro",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 1959,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem do Gameiro",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 1960,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem Marechal Carmona",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1947,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Magos",
+      "basin": "Rio Tejo",
+      "district": "Santarém",
+      "completed": 1938,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Maranhão",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1957,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem da Marateca",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1991,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem da Meimoa",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1985,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Michões",
+      "basin": "Rio Tejo",
+      "district": "Santarém",
+      "completed": 1996,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem dos Minutos",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 2003,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Montargil",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1958,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Penedo Redondo",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1935,
+      "type": "Barragem de alvenaria"
+    },
+    {
+      "name": "Barragem de Penha Garcia",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1979,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem do Pisco",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1968,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem do Poio",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1932,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Póvoa",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1928,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Pracana",
+      "basin": "Rio Tejo",
+      "district": "Santarém",
+      "completed": 1950,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Santa Luzia",
+      "basin": "Rio Tejo",
+      "district": "Coimbra",
+      "completed": 1942,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Sobrena",
+      "basin": "Rio Tejo",
+      "district": "Lisboa",
+      "completed": 1968,
+      "type": "Barragem de Terra homogénea"
+    },
+    {
+      "name": "Barragem de Tabueira",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 1976,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Toulica",
+      "basin": "Rio Tejo",
+      "district": "Castelo Branco",
+      "completed": 1979,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Vale das Bicas",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 1939,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Vale do Cobrão",
+      "basin": "Rio Tejo",
+      "district": "Santarém",
+      "completed": 1982,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Vale de Figueira",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 1955,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Veiros",
+      "basin": "Rio Tejo",
+      "district": "Évora",
+      "completed": 2012,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Venda Velha",
+      "basin": "Rio Tejo",
+      "district": "Setúbal",
+      "completed": 1957,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Zambujo",
+      "basin": "Rio Tejo",
+      "district": "Portalegre",
+      "completed": 1994,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Água Industrial",
+      "basin": "Rio Sado",
+      "district": "Beja",
+      "completed": 1990,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Águas Claras",
+      "basin": "Rio Sado",
+      "district": "Beja",
+      "completed": 1990,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Alvito",
+      "basin": "Rio Sado",
+      "district": "Beja",
+      "completed": 1977,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Campilhas",
+      "basin": "Rio Sado",
+      "district": "Setúbal",
+      "completed": 1954,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem da Daroeira",
+      "basin": "Rio Sado",
+      "district": "Setúbal",
+      "completed": 1953,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Fonte Serne",
+      "basin": "Rio Sado",
+      "district": "Setúbal",
+      "completed": 1976,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Monte da Rocha",
+      "basin": "Rio Sado",
+      "district": "Beja",
+      "completed": 1972,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Odivelas",
+      "basin": "Rio Sado",
+      "district": "Beja",
+      "completed": 1972,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Pego do Altar",
+      "basin": "Rio Sado",
+      "district": "Setúbal",
+      "completed": 1949,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem de Porches",
+      "basin": "Rio Sado",
+      "district": "Setúbal",
+      "completed": 1991,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Rejeitados",
+      "basin": "Rio Sado",
+      "district": "Beja",
+      "completed": 1990,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Roxo",
+      "basin": "Rio Sado",
+      "district": "Beja",
+      "completed": 1967,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem da Tapada",
+      "basin": "Rio Sado",
+      "district": "Setúbal",
+      "completed": 1913,
+      "type": "Barragem de alvenaria"
+    },
+    {
+      "name": "Barragem de Vale do Gaio",
+      "basin": "Rio Sado",
+      "district": "Setúbal",
+      "completed": 1949,
+      "type": "Barragem de terra-enrocamento"
+    },
+    {
+      "name": "Barragem de Morgavel",
+      "basin": "Ribeiras do Alentejo",
+      "district": "Setúbal",
+      "completed": 1980,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Santa Clara",
+      "basin": "Rio Mira",
+      "district": "Beja",
+      "completed": 1968,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Corte Brique",
+      "basin": "Rio Mira",
+      "district": "Beja",
+      "completed": 1993,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem do Arade",
+      "basin": "Ribeiras do Algarve",
+      "district": "Faro",
+      "completed": 1956,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Funcho",
+      "basin": "Ribeiras do Algarve",
+      "district": "Faro",
+      "completed": 1993,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem da Malhada do Peres",
+      "basin": "Ribeiras do Algarve",
+      "district": "Faro",
+      "completed": 2004,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Morgado de Arge",
+      "basin": "Ribeiras do Algarve",
+      "district": "Faro",
+      "completed": 1974,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Odeáxere",
+      "basin": "Ribeiras do Algarve",
+      "district": "Faro",
+      "completed": 1958,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Vale da Telha",
+      "basin": "Ribeiras do Algarve",
+      "district": "Faro",
+      "completed": 1983,
+      "type": "Barragem de terra"
+    },
+    {
+      "name": "Barragem de Odelouca",
+      "basin": "Ribeiras do Algarve",
+      "district": "Faro",
+      "completed": 2009,
+      "type": "Barragem de aterro"
+    },
+    {
+      "name": "Barragem de Abrilongo",
+      "basin": "Rio Guadiana",
+      "district": "Portalegre",
+      "completed": 2000,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Alcoutim",
+      "basin": "Rio Guadiana",
+      "district": "Faro",
+      "completed": 1995,
+      "type": "Barragem de terra-enrocamento"
+    },
+    {
+      "name": "Barragem de Alqueva",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 2002,
+      "type": "Barragem em arco"
+    },
+    {
+      "name": "Barragem de Beliche",
+      "basin": "Rio Guadiana",
+      "district": "Faro",
+      "completed": 1986,
+      "type": "Barragem de terra-enrocamento"
+    },
+    {
+      "name": "Barragem do Caia",
+      "basin": "Rio Guadiana",
+      "district": "Portalegre",
+      "completed": 1967,
+      "type": "Barragem mista de aterro / betão"
+    },
+    {
+      "name": "Barragem da Caroucha",
+      "basin": "Rio Guadiana",
+      "district": "Faro",
+      "completed": 1999,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Cerro do Lobo",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1993,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Enxoé",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1998,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem do Facho I",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1954,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem do Facho II",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1955,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Fincas Rodilhas",
+      "basin": "Rio Guadiana",
+      "district": "Faro",
+      "completed": 1996,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Garfanes",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1996,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem dos Grous",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1965,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Lucefécit",
+      "basin": "Rio Guadiana",
+      "district": "Évora",
+      "completed": 1982,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Margalha",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": "????",
+      "type": "Barragem de alvenaria"
+    },
+    {
+      "name": "Barragem das Mercês",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": "????",
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem de Monte Novo",
+      "basin": "Rio Guadiana",
+      "district": "Évora",
+      "completed": 1982,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Namorada",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1996,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem de Odeleite",
+      "basin": "Rio Guadiana",
+      "district": "Faro",
+      "completed": 1997,
+      "type": "Barragem de enrocamento"
+    },
+    {
+      "name": "Barragem de Pedrógão",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 2005,
+      "type": "Barragem de gravidade"
+    },
+    {
+      "name": "Barragem de Roucanito",
+      "basin": "Rio Guadiana",
+      "district": "Évora",
+      "completed": 1975,
+      "type": "Barragem de terra homogénea"
+    },
+    {
+      "name": "Barragem da Tapada Grande",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1882,
+      "type": "Barragem de terra-alvenaria"
+    },
+    {
+      "name": "Barragem da Tapada Pequena",
+      "basin": "Rio Guadiana",
+      "district": "Beja",
+      "completed": 1913,
+      "type": "Barragem de alvenaria"
+    },
+    {
+      "name": "Barragem de Vaqueiros",
+      "basin": "Rio Guadiana",
+      "district": "Faro",
+      "completed": 1995,
+      "type": "Barragem de terra zonada"
+    },
+    {
+      "name": "Barragem da Vigia",
+      "basin": "Rio Guadiana",
+      "district": "Évora",
+      "completed": 1981,
+      "type": "Barragem de terra zonada"
+    }
+  ],
+  "meta": {
+    "title": "Barragens de Portugal por bacia hidrográfica - Free Download",
+    "description": "Barragens de Portugal agrupadas por bacia hidrográfica, com distrito, ano de conclusão e tipo de barragem. Contains 175 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Barragens de Portugal por bacia hidrográfica | ListBase",
+    "seo_description": "Download Barragens de Portugal por bacia hidrográfica — 175 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 175 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_barragens_em_Portugal"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-18T02:27:39.002Z",
-  "total_datasets": 579,
-  "total_records": 752446,
+  "generated": "2026-11-19T02:21:40.798Z",
+  "total_datasets": 580,
+  "total_records": 752621,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1852,6 +1852,32 @@
         "xlsx": {
           "name": "pt-areas-protegidas-portugal_PT.xlsx",
           "size": 18372
+        }
+      }
+    },
+    {
+      "id": "pt-barragens-de-portugal",
+      "name": "Barragens de Portugal por bacia hidrográfica",
+      "category": "environment",
+      "record_count": 175,
+      "columns": [
+        "name",
+        "basin",
+        "district",
+        "completed",
+        "type"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_barragens_em_Portugal",
+      "updated": "2026-11",
+      "size": 32420,
+      "files": {
+        "csv": {
+          "name": "pt-barragens-de-portugal_PT.csv",
+          "size": 14137
+        },
+        "xlsx": {
+          "name": "pt-barragens-de-portugal_PT.xlsx",
+          "size": 12627
         }
       }
     },
