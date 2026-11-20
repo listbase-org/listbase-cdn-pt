@@ -1,0 +1,432 @@
+{
+  "id": "pt-br-producao-agricola-por-estado-2025",
+  "name": "Produção agrícola por estado do Brasil (2025)",
+  "title": "Produção agrícola por estado do Brasil (2025)",
+  "description": "Quantidade produzida (toneladas) de soja, milho, cana-de-açúcar, arroz, feijão, mandioca, laranja, algodão herbáceo e banana em cada unidade da federação em 2025, e valor total da produção das lavouras (IBGE, Produção Agrícola Municipal, tabela 5457).",
+  "category": "agriculture",
+  "source": "https://sidra.ibge.gov.br/tabela/5457",
+  "source_url": "https://sidra.ibge.gov.br/tabela/5457",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "soja_t",
+      "label": "Soja T",
+      "type": "number"
+    },
+    {
+      "key": "milho_t",
+      "label": "Milho T",
+      "type": "number"
+    },
+    {
+      "key": "cana_de_acucar_t",
+      "label": "Cana De Acucar T",
+      "type": "number"
+    },
+    {
+      "key": "arroz_t",
+      "label": "Arroz T",
+      "type": "number"
+    },
+    {
+      "key": "feijao_t",
+      "label": "Feijao T",
+      "type": "number"
+    },
+    {
+      "key": "mandioca_t",
+      "label": "Mandioca T",
+      "type": "number"
+    },
+    {
+      "key": "laranja_t",
+      "label": "Laranja T",
+      "type": "number"
+    },
+    {
+      "key": "algodao_herbaceo_t",
+      "label": "Algodao Herbaceo T",
+      "type": "number"
+    },
+    {
+      "key": "banana_t",
+      "label": "Banana T",
+      "type": "number"
+    },
+    {
+      "key": "valor_total_producao_mil_reais",
+      "label": "Valor Total Producao Mil Reais",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "estado": "Mato Grosso",
+      "soja_t": 50175032,
+      "milho_t": 54298518,
+      "cana_de_acucar_t": 20508039,
+      "arroz_t": 600869,
+      "feijao_t": 365059,
+      "mandioca_t": 183562,
+      "laranja_t": 5057,
+      "algodao_herbaceo_t": 7169637,
+      "banana_t": 83662,
+      "valor_total_producao_mil_reais": 165621998
+    },
+    {
+      "estado": "São Paulo",
+      "soja_t": 4731554,
+      "milho_t": 4231182,
+      "cana_de_acucar_t": 418986000,
+      "arroz_t": 52914,
+      "feijao_t": 159635,
+      "mandioca_t": 1645690,
+      "laranja_t": 12269593,
+      "algodao_herbaceo_t": 32444,
+      "banana_t": 969666,
+      "valor_total_producao_mil_reais": 124024556
+    },
+    {
+      "estado": "Minas Gerais",
+      "soja_t": 9183919,
+      "milho_t": 7137769,
+      "cana_de_acucar_t": 82089898,
+      "arroz_t": 88669,
+      "feijao_t": 479623,
+      "mandioca_t": 625353,
+      "laranja_t": 1171343,
+      "algodao_herbaceo_t": 186771,
+      "banana_t": 872089,
+      "valor_total_producao_mil_reais": 109373446
+    },
+    {
+      "estado": "Paraná",
+      "soja_t": 21292721,
+      "milho_t": 20415302,
+      "cana_de_acucar_t": 36204786,
+      "arroz_t": 138762,
+      "feijao_t": 865664,
+      "mandioca_t": 3960047,
+      "laranja_t": 729258,
+      "algodao_herbaceo_t": 360,
+      "banana_t": 163028,
+      "valor_total_producao_mil_reais": 87713471
+    },
+    {
+      "estado": "Goiás",
+      "soja_t": 20303385,
+      "milho_t": 15946046,
+      "cana_de_acucar_t": 85464994,
+      "arroz_t": 145279,
+      "feijao_t": 371136,
+      "mandioca_t": 198629,
+      "laranja_t": 182042,
+      "algodao_herbaceo_t": 148560,
+      "banana_t": 165522,
+      "valor_total_producao_mil_reais": 72746328
+    },
+    {
+      "estado": "Rio Grande do Sul",
+      "soja_t": 13659443,
+      "milho_t": 5288087,
+      "cana_de_acucar_t": 473796,
+      "arroz_t": 8760106,
+      "feijao_t": 78161,
+      "mandioca_t": 710508,
+      "laranja_t": 382323,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 147616,
+      "valor_total_producao_mil_reais": 71284591
+    },
+    {
+      "estado": "Bahia",
+      "soja_t": 8603104,
+      "milho_t": 2997288,
+      "cana_de_acucar_t": 5635664,
+      "arroz_t": 698,
+      "feijao_t": 127283,
+      "mandioca_t": 951170,
+      "laranja_t": 698116,
+      "algodao_herbaceo_t": 1830972,
+      "banana_t": 911996,
+      "valor_total_producao_mil_reais": 56234180
+    },
+    {
+      "estado": "Mato Grosso do Sul",
+      "soja_t": 13119833,
+      "milho_t": 13934927,
+      "cana_de_acucar_t": 55264060,
+      "arroz_t": 83511,
+      "feijao_t": 12143,
+      "mandioca_t": 1507693,
+      "laranja_t": 29945,
+      "algodao_herbaceo_t": 167720,
+      "banana_t": 16471,
+      "valor_total_producao_mil_reais": 47799267
+    },
+    {
+      "estado": "Pará",
+      "soja_t": 4372363,
+      "milho_t": 2702159,
+      "cana_de_acucar_t": 1200956,
+      "arroz_t": 129519,
+      "feijao_t": 12489,
+      "mandioca_t": 3986680,
+      "laranja_t": 310369,
+      "algodao_herbaceo_t": 1260,
+      "banana_t": 417608,
+      "valor_total_producao_mil_reais": 38377457
+    },
+    {
+      "estado": "Espírito Santo",
+      "soja_t": 1509,
+      "milho_t": 59633,
+      "cana_de_acucar_t": 3357577,
+      "arroz_t": 352,
+      "feijao_t": 9725,
+      "mandioca_t": 128117,
+      "laranja_t": 20743,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 427543,
+      "valor_total_producao_mil_reais": 33665372
+    },
+    {
+      "estado": "Santa Catarina",
+      "soja_t": 3146797,
+      "milho_t": 2391051,
+      "cana_de_acucar_t": 181868,
+      "arroz_t": 1267003,
+      "feijao_t": 119987,
+      "mandioca_t": 285832,
+      "laranja_t": 34552,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 745977,
+      "valor_total_producao_mil_reais": 22069297
+    },
+    {
+      "estado": "Tocantins",
+      "soja_t": 5089615,
+      "milho_t": 2649322,
+      "cana_de_acucar_t": 4088308,
+      "arroz_t": 730029,
+      "feijao_t": 98344,
+      "mandioca_t": 220249,
+      "laranja_t": 1063,
+      "algodao_herbaceo_t": 53309,
+      "banana_t": 38791,
+      "valor_total_producao_mil_reais": 15076038
+    },
+    {
+      "estado": "Maranhão",
+      "soja_t": 4423088,
+      "milho_t": 2712134,
+      "cana_de_acucar_t": 2583724,
+      "arroz_t": 180334,
+      "feijao_t": 29310,
+      "mandioca_t": 370376,
+      "laranja_t": 185,
+      "algodao_herbaceo_t": 135690,
+      "banana_t": 78718,
+      "valor_total_producao_mil_reais": 13936879
+    },
+    {
+      "estado": "Rondônia",
+      "soja_t": 2592885,
+      "milho_t": 2401298,
+      "cana_de_acucar_t": 15265,
+      "arroz_t": 197234,
+      "feijao_t": 2112,
+      "mandioca_t": 290409,
+      "laranja_t": 3520,
+      "algodao_herbaceo_t": 33877,
+      "banana_t": 101852,
+      "valor_total_producao_mil_reais": 12935673
+    },
+    {
+      "estado": "Pernambuco",
+      "soja_t": 0,
+      "milho_t": 34076,
+      "cana_de_acucar_t": 13902158,
+      "arroz_t": 4,
+      "feijao_t": 34051,
+      "mandioca_t": 482030,
+      "laranja_t": 5450,
+      "algodao_herbaceo_t": 10,
+      "banana_t": 649265,
+      "valor_total_producao_mil_reais": 11634452
+    },
+    {
+      "estado": "Piauí",
+      "soja_t": 3582881,
+      "milho_t": 1636236,
+      "cana_de_acucar_t": 1158092,
+      "arroz_t": 63375,
+      "feijao_t": 36477,
+      "mandioca_t": 385314,
+      "laranja_t": 1266,
+      "algodao_herbaceo_t": 153912,
+      "banana_t": 49413,
+      "valor_total_producao_mil_reais": 10626517
+    },
+    {
+      "estado": "Ceará",
+      "soja_t": 14542,
+      "milho_t": 277278,
+      "cana_de_acucar_t": 565559,
+      "arroz_t": 20170,
+      "feijao_t": 59711,
+      "mandioca_t": 962700,
+      "laranja_t": 8971,
+      "algodao_herbaceo_t": 3487,
+      "banana_t": 495641,
+      "valor_total_producao_mil_reais": 6644069
+    },
+    {
+      "estado": "Alagoas",
+      "soja_t": 7987,
+      "milho_t": 115621,
+      "cana_de_acucar_t": 16332258,
+      "arroz_t": 13874,
+      "feijao_t": 13497,
+      "mandioca_t": 526517,
+      "laranja_t": 94041,
+      "algodao_herbaceo_t": 21,
+      "banana_t": 110012,
+      "valor_total_producao_mil_reais": 4711376
+    },
+    {
+      "estado": "Rio de Janeiro",
+      "soja_t": 4377,
+      "milho_t": 8455,
+      "cana_de_acucar_t": 3105017,
+      "arroz_t": 209,
+      "feijao_t": 2318,
+      "mandioca_t": 174291,
+      "laranja_t": 60385,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 70708,
+      "valor_total_producao_mil_reais": 3976270
+    },
+    {
+      "estado": "Rio Grande do Norte",
+      "soja_t": 240,
+      "milho_t": 11876,
+      "cana_de_acucar_t": 5118668,
+      "arroz_t": 987,
+      "feijao_t": 4732,
+      "mandioca_t": 492395,
+      "laranja_t": 277,
+      "algodao_herbaceo_t": 1363,
+      "banana_t": 250981,
+      "valor_total_producao_mil_reais": 3929403
+    },
+    {
+      "estado": "Amazonas",
+      "soja_t": 47382,
+      "milho_t": 31021,
+      "cana_de_acucar_t": 181909,
+      "arroz_t": 15775,
+      "feijao_t": 1373,
+      "mandioca_t": 817928,
+      "laranja_t": 54713,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 167628,
+      "valor_total_producao_mil_reais": 3840945
+    },
+    {
+      "estado": "Paraíba",
+      "soja_t": 0,
+      "milho_t": 18304,
+      "cana_de_acucar_t": 7355143,
+      "arroz_t": 2752,
+      "feijao_t": 7877,
+      "mandioca_t": 165058,
+      "laranja_t": 4260,
+      "algodao_herbaceo_t": 685,
+      "banana_t": 148077,
+      "valor_total_producao_mil_reais": 3592538
+    },
+    {
+      "estado": "Sergipe",
+      "soja_t": 0,
+      "milho_t": 1246909,
+      "cana_de_acucar_t": 2307907,
+      "arroz_t": 49937,
+      "feijao_t": 1681,
+      "mandioca_t": 165544,
+      "laranja_t": 477629,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 31746,
+      "valor_total_producao_mil_reais": 3119411
+    },
+    {
+      "estado": "Roraima",
+      "soja_t": 494656,
+      "milho_t": 116558,
+      "cana_de_acucar_t": 2221,
+      "arroz_t": 111680,
+      "feijao_t": 1938,
+      "mandioca_t": 102891,
+      "laranja_t": 7617,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 64202,
+      "valor_total_producao_mil_reais": 1953466
+    },
+    {
+      "estado": "Distrito Federal",
+      "soja_t": 328860,
+      "milho_t": 423480,
+      "cana_de_acucar_t": 17425,
+      "arroz_t": 960,
+      "feijao_t": 41940,
+      "mandioca_t": 17868,
+      "laranja_t": 1608,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 6038,
+      "valor_total_producao_mil_reais": 1880752
+    },
+    {
+      "estado": "Acre",
+      "soja_t": 56659,
+      "milho_t": 123578,
+      "cana_de_acucar_t": 10169,
+      "arroz_t": 4218,
+      "feijao_t": 2828,
+      "mandioca_t": 493882,
+      "laranja_t": 5267,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 89568,
+      "valor_total_producao_mil_reais": 984547
+    },
+    {
+      "estado": "Amapá",
+      "soja_t": 26182,
+      "milho_t": 1890,
+      "cana_de_acucar_t": 5204,
+      "arroz_t": 450,
+      "feijao_t": 733,
+      "mandioca_t": 111114,
+      "laranja_t": 3182,
+      "algodao_herbaceo_t": 0,
+      "banana_t": 15142,
+      "valor_total_producao_mil_reais": 251004
+    }
+  ],
+  "meta": {
+    "title": "Produção agrícola por estado do Brasil (2025) - Free Download",
+    "description": "Quantidade produzida (toneladas) de soja, milho, cana-de-açúcar, arroz, feijão, mandioca, laranja, algodão herbáceo e banana em cada unidade da federação em 2025, e valor total da produção das lavouras (IBGE, Produção Agrícola Municipal, tabela 5457). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produção agrícola por estado do Brasil (2025) | ListBase",
+    "seo_description": "Download Produção agrícola por estado do Brasil (2025) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sidra.ibge.gov.br/tabela/5457"
+    ]
+  }
+}

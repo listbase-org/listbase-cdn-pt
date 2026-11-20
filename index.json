@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-11-20T02:25:28.551Z",
-  "total_datasets": 583,
-  "total_records": 752911,
+  "generated": "2026-11-20T02:25:38.304Z",
+  "total_datasets": 584,
+  "total_records": 752938,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -153,6 +153,38 @@
         "xlsx": {
           "name": "pt-br-municipios-maior-pib-agropecuario_PT.xlsx",
           "size": 10930
+        }
+      }
+    },
+    {
+      "id": "pt-br-producao-agricola-por-estado-2025",
+      "name": "Produção agrícola por estado do Brasil (2025)",
+      "category": "agriculture",
+      "record_count": 27,
+      "columns": [
+        "estado",
+        "soja_t",
+        "milho_t",
+        "cana_de_acucar_t",
+        "arroz_t",
+        "feijao_t",
+        "mandioca_t",
+        "laranja_t",
+        "algodao_herbaceo_t",
+        "banana_t",
+        "valor_total_producao_mil_reais"
+      ],
+      "source": "https://sidra.ibge.gov.br/tabela/5457",
+      "updated": "2026-11",
+      "size": 11679,
+      "files": {
+        "csv": {
+          "name": "pt-br-producao-agricola-por-estado-2025_PT.csv",
+          "size": 2826
+        },
+        "xlsx": {
+          "name": "pt-br-producao-agricola-por-estado-2025_PT.xlsx",
+          "size": 9164
         }
       }
     },
