@@ -1,0 +1,4146 @@
+{
+  "id": "pt-pelourinhos-de-portugal",
+  "name": "Pelourinhos de Portugal",
+  "title": "Pelourinhos de Portugal",
+  "description": "Lista de pelourinhos em Portugal com localidade, município, coordenadas geográficas, classificação patrimonial e números de processo IGESPAR e SIPA.",
+  "category": "history",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_pelourinhos_localizados_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_pelourinhos_localizados_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 408,
+  "columns": [
+    {
+      "key": "designacao",
+      "label": "Designacao",
+      "type": "string"
+    },
+    {
+      "key": "localizacao",
+      "label": "Localizacao",
+      "type": "string"
+    },
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "classificacao",
+      "label": "Classificacao",
+      "type": "string"
+    },
+    {
+      "key": "igespar",
+      "label": "Igespar",
+      "type": "number"
+    },
+    {
+      "key": "sipa",
+      "label": "Sipa",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "designacao": "Pelourinho da Aguieira",
+      "localizacao": "Carvalhal Redondo e Aguieira",
+      "municipio": "Nelas",
+      "latitude": 40.52778,
+      "longitude": -7.92333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72877",
+      "sipa": "4200"
+    },
+    {
+      "designacao": "Pelourinho da Azambuja",
+      "localizacao": "Azambuja",
+      "municipio": "Azambuja",
+      "latitude": 39.06917,
+      "longitude": -8.86472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74628",
+      "sipa": "3070"
+    },
+    {
+      "designacao": "Pelourinho da Batalha",
+      "localizacao": "Batalha",
+      "municipio": "Batalha",
+      "latitude": 39.65861,
+      "longitude": -8.82389,
+      "classificacao": "sem protecção legal",
+      "igespar": "71167",
+      "sipa": "325"
+    },
+    {
+      "designacao": "Pelourinho da Bemposta",
+      "localizacao": "Pedrógão de São Pedro e Bemposta",
+      "municipio": "Penamacor",
+      "latitude": 40.06722,
+      "longitude": -7.21139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73517",
+      "sipa": "570"
+    },
+    {
+      "designacao": "Pelourinho da Covilhã",
+      "localizacao": "Covilhã e Canhoso",
+      "municipio": "Covilhã",
+      "latitude": 40.28028,
+      "longitude": -7.50472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74249",
+      "sipa": "2778"
+    },
+    {
+      "designacao": "Pelourinho da Ega",
+      "localizacao": "Ega",
+      "municipio": "Condeixa-a-Nova",
+      "latitude": 40.0975,
+      "longitude": -8.53861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73667",
+      "sipa": "969"
+    },
+    {
+      "designacao": "Pelourinho da Ericeira",
+      "localizacao": "Ericeira",
+      "municipio": "Mafra",
+      "latitude": 38.96639,
+      "longitude": -9.41861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72848",
+      "sipa": "6368"
+    },
+    {
+      "designacao": "Pelourinho da Figueira da Foz",
+      "localizacao": "Buarcos e São Julião",
+      "municipio": "Figueira da Foz",
+      "latitude": 40.14972,
+      "longitude": -8.85806,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70507",
+      "sipa": "1602"
+    },
+    {
+      "designacao": "Pelourinho da Golegã",
+      "localizacao": "Golegã",
+      "municipio": "Golegã",
+      "latitude": 39.40167,
+      "longitude": -8.48722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74448",
+      "sipa": "2019"
+    },
+    {
+      "designacao": "Pelourinho da Guarda",
+      "localizacao": "Guarda",
+      "municipio": "Guarda",
+      "latitude": 40.54028,
+      "longitude": -7.26667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74994",
+      "sipa": "3087"
+    },
+    {
+      "designacao": "Pelourinho da Lapa",
+      "localizacao": "Quintela",
+      "municipio": "Sernancelhe",
+      "latitude": 40.87028,
+      "longitude": -7.57667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73988",
+      "sipa": "3794"
+    },
+    {
+      "designacao": "Pelourinho da Lousã",
+      "localizacao": "Lousã e Vilarinho",
+      "municipio": "Lousã",
+      "latitude": 40.11083,
+      "longitude": -8.24583,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70739",
+      "sipa": "1603"
+    },
+    {
+      "designacao": "Pelourinho da Mesquitela",
+      "localizacao": "Mesquitela",
+      "municipio": "Celorico da Beira",
+      "latitude": 40.58833,
+      "longitude": -7.49,
+      "classificacao": "sem protecção legal",
+      "igespar": "31302949",
+      "sipa": "1363"
+    },
+    {
+      "designacao": "Pelourinho da Pederneira",
+      "localizacao": "Nazaré",
+      "municipio": "Nazaré",
+      "latitude": 39.5925,
+      "longitude": -9.06444,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73951",
+      "sipa": "1774"
+    },
+    {
+      "designacao": "Pelourinho da Póvoa de Varzim",
+      "localizacao": "Póvoa de Varzim, Beiriz e Argivai",
+      "municipio": "Póvoa de Varzim",
+      "latitude": 41.37889,
+      "longitude": -8.76083,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70621",
+      "sipa": "5237"
+    },
+    {
+      "designacao": "Pelourinho da Sertã",
+      "localizacao": "Sertã",
+      "municipio": "Sertã",
+      "latitude": 39.8075,
+      "longitude": -8.09778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74936",
+      "sipa": "572"
+    },
+    {
+      "designacao": "Pelourinho da Ucanha",
+      "localizacao": "Gouviães e Ucanha",
+      "municipio": "Tarouca",
+      "latitude": 41.04611,
+      "longitude": -7.745,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "7168802",
+      "sipa": "2580"
+    },
+    {
+      "designacao": "Pelourinho de Abadim",
+      "localizacao": "Abadim",
+      "municipio": "Cabeceiras de Basto",
+      "latitude": 41.53972,
+      "longitude": -7.99333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "341971",
+      "sipa": "322"
+    },
+    {
+      "designacao": "Pelourinho de Abreiro",
+      "localizacao": "Abreiro",
+      "municipio": "Mirandela",
+      "latitude": 41.35111,
+      "longitude": -7.295,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72969",
+      "sipa": "823"
+    },
+    {
+      "designacao": "Pelourinho de Abrunhosa-a-Velha",
+      "localizacao": "Abrunhosa-a-Velha",
+      "municipio": "Mangualde",
+      "latitude": 40.57889,
+      "longitude": -7.64306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72329",
+      "sipa": "3678"
+    },
+    {
+      "designacao": "Pelourinho de Aguada de Cima",
+      "localizacao": "Aguada de Cima",
+      "municipio": "Águeda",
+      "latitude": 40.63944,
+      "longitude": -8.65083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74966",
+      "sipa": "671"
+    },
+    {
+      "designacao": "Pelourinho de Aguda",
+      "localizacao": "Aguda",
+      "municipio": "Figueiró dos Vinhos",
+      "latitude": 39.90778,
+      "longitude": -8.33139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73322",
+      "sipa": "1792"
+    },
+    {
+      "designacao": "Pelourinho de Aguiar da Beira",
+      "localizacao": "Aguiar da Beira e Coruche",
+      "municipio": "Aguiar da Beira",
+      "latitude": 40.81639,
+      "longitude": -7.54528,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70357",
+      "sipa": "1372"
+    },
+    {
+      "designacao": "Pelourinho de Alandroal",
+      "localizacao": "Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto)",
+      "municipio": "Alandroal",
+      "latitude": 38.70222,
+      "longitude": -7.40472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74743",
+      "sipa": "1165"
+    },
+    {
+      "designacao": "Pelourinho de Alcanede",
+      "localizacao": "Alcanede",
+      "municipio": "Santarém",
+      "latitude": 39.41611,
+      "longitude": -8.82056,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71108",
+      "sipa": "2008"
+    },
+    {
+      "designacao": "Pelourinho de Alcácer do Sal",
+      "localizacao": "Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana",
+      "municipio": "Alcácer do Sal",
+      "latitude": 38.37083,
+      "longitude": -8.51306,
+      "classificacao": "sem protecção legal",
+      "igespar": "74669",
+      "sipa": "2003"
+    },
+    {
+      "designacao": "Pelourinho de Aldeia Galega da Merceana",
+      "localizacao": "Aldeia Galega da Merceana e Aldeia Gavinha",
+      "municipio": "Alenquer",
+      "latitude": 39.08194,
+      "longitude": -9.11222,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70505",
+      "sipa": "6243"
+    },
+    {
+      "designacao": "Pelourinho de Alfaiates",
+      "localizacao": "Alfaiates",
+      "municipio": "Sabugal",
+      "latitude": 40.39333,
+      "longitude": -6.91389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73469",
+      "sipa": "1508"
+    },
+    {
+      "designacao": "Pelourinho de Alfarela de Jales",
+      "localizacao": "Alfarela de Jales",
+      "municipio": "Vila Pouca de Aguiar",
+      "latitude": 41.44389,
+      "longitude": -7.57139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72381",
+      "sipa": "5724"
+    },
+    {
+      "designacao": "Pelourinho de Alfeizerão",
+      "localizacao": "Alfeizerão",
+      "municipio": "Alcobaça",
+      "latitude": 39.5,
+      "longitude": -9.1075,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73362",
+      "sipa": "1776"
+    },
+    {
+      "designacao": "Pelourinho de Algodres",
+      "localizacao": "Algodres",
+      "municipio": "Fornos de Algodres",
+      "latitude": 40.64556,
+      "longitude": -7.51667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73473",
+      "sipa": "1460"
+    },
+    {
+      "designacao": "Pelourinho de Algoso",
+      "localizacao": "Algoso, Campo de Víboras e Uva",
+      "municipio": "Vimioso",
+      "latitude": 41.46917,
+      "longitude": -6.57694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72316",
+      "sipa": "193"
+    },
+    {
+      "designacao": "Pelourinho de Alhais",
+      "localizacao": "Vila Nova de Paiva, Alhais e Fráguas",
+      "municipio": "Vila Nova de Paiva",
+      "latitude": 40.86361,
+      "longitude": -7.725,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73397",
+      "sipa": "4203"
+    },
+    {
+      "designacao": "Pelourinho de Alhandra",
+      "localizacao": "Alhandra, São João dos Montes e Calhandriz",
+      "municipio": "Vila Franca de Xira",
+      "latitude": 38.925,
+      "longitude": -9.01056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "11067434",
+      "sipa": "6403"
+    },
+    {
+      "designacao": "Pelourinho de Alhos Vedros",
+      "localizacao": "Alhos Vedros",
+      "municipio": "Moita",
+      "latitude": 38.65472,
+      "longitude": -9.02778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74755",
+      "sipa": "2004"
+    },
+    {
+      "designacao": "Pelourinho de Alijó",
+      "localizacao": "Alijó",
+      "municipio": "Alijó",
+      "latitude": 41.27639,
+      "longitude": -7.475,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72388",
+      "sipa": "6010"
+    },
+    {
+      "designacao": "Pelourinho de Aljezur",
+      "localizacao": "Aljezur",
+      "municipio": "Aljezur",
+      "latitude": 37.31944,
+      "longitude": -8.80306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "30113"
+    },
+    {
+      "designacao": "Pelourinho de Aljubarrota",
+      "localizacao": "Aljubarrota",
+      "municipio": "Alcobaça",
+      "latitude": 39.56639,
+      "longitude": -8.92972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74417",
+      "sipa": "1786"
+    },
+    {
+      "designacao": "Pelourinho de Almada",
+      "localizacao": "Costa da Caparica",
+      "municipio": "Almada",
+      "latitude": 38.64556,
+      "longitude": -9.22222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74831",
+      "sipa": "3413"
+    },
+    {
+      "designacao": "Pelourinho de Almendra",
+      "localizacao": "Almendra",
+      "municipio": "Vila Nova de Foz Côa",
+      "latitude": 41,
+      "longitude": -7.055,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73326",
+      "sipa": "1526"
+    },
+    {
+      "designacao": "Pelourinho de Alpedrinha",
+      "localizacao": "Alpedrinha",
+      "municipio": "Fundão",
+      "latitude": 40.09944,
+      "longitude": -7.46778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74939",
+      "sipa": "840"
+    },
+    {
+      "designacao": "Pelourinho de Alpedriz",
+      "localizacao": "Coz, Alpedriz e Montes",
+      "municipio": "Alcobaça",
+      "latitude": 39.62667,
+      "longitude": -8.94944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74786",
+      "sipa": "1848"
+    },
+    {
+      "designacao": "Pelourinho de Alter do Chão",
+      "localizacao": "Alter do Chão",
+      "municipio": "Alter do Chão",
+      "latitude": 39.20028,
+      "longitude": -7.65889,
+      "classificacao": "sem protecção legal",
+      "igespar": "70688",
+      "sipa": "1840"
+    },
+    {
+      "designacao": "Pelourinho de Alva",
+      "localizacao": "Mamouros, Alva e Ribolhos",
+      "municipio": "Castro Daire",
+      "latitude": 40.85139,
+      "longitude": -7.95417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73409",
+      "sipa": "4213"
+    },
+    {
+      "designacao": "Pelourinho de Alvaiázere",
+      "localizacao": "Pussos São Pedro",
+      "municipio": "Alvaiázere",
+      "latitude": 39.805,
+      "longitude": -8.35972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73713",
+      "sipa": "1773"
+    },
+    {
+      "designacao": "Pelourinho de Alvalade",
+      "localizacao": "Alvalade",
+      "municipio": "Santiago do Cacém",
+      "latitude": 37.94056,
+      "longitude": -8.39389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73004",
+      "sipa": "2005"
+    },
+    {
+      "designacao": "Pelourinho de Alvares",
+      "localizacao": "Alvares",
+      "municipio": "Góis",
+      "latitude": 40.01833,
+      "longitude": -8.10111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "19210284",
+      "sipa": "20864"
+    },
+    {
+      "designacao": "Pelourinho de Alverca da Beira",
+      "localizacao": "Alverca da Beira/Bouça Cova",
+      "municipio": "Pinhel",
+      "latitude": 40.70028,
+      "longitude": -7.22194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71812",
+      "sipa": "1496"
+    },
+    {
+      "designacao": "Pelourinho de Alverca do Ribatejo",
+      "localizacao": "Alverca do Ribatejo e Sobralinho",
+      "municipio": "Vila Franca de Xira",
+      "latitude": 38.89944,
+      "longitude": -9.03833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "11067279",
+      "sipa": "6400"
+    },
+    {
+      "designacao": "Pelourinho de Alvito",
+      "localizacao": "Alvito",
+      "municipio": "Alvito",
+      "latitude": 38.2575,
+      "longitude": -7.99194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73142",
+      "sipa": "279"
+    },
+    {
+      "designacao": "Pelourinho de Amares",
+      "localizacao": "Amares e Figueiredo",
+      "municipio": "Amares",
+      "latitude": 41.63083,
+      "longitude": -8.35083,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70393",
+      "sipa": "206"
+    },
+    {
+      "designacao": "Pelourinho de Angeja",
+      "localizacao": "Angeja",
+      "municipio": "Albergaria-a-Velha",
+      "latitude": 40.67833,
+      "longitude": -8.55694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73766",
+      "sipa": "220"
+    },
+    {
+      "designacao": "Pelourinho de Ansiães",
+      "localizacao": "Lavandeira, Beira Grande e Selores",
+      "municipio": "Carrazeda de Ansiães",
+      "latitude": 41.2025,
+      "longitude": -7.305,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70613",
+      "sipa": "817"
+    },
+    {
+      "designacao": "Pelourinho de Ansião",
+      "localizacao": "Ansião",
+      "municipio": "Ansião",
+      "latitude": 39.91278,
+      "longitude": -8.43528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72954",
+      "sipa": "1818"
+    },
+    {
+      "designacao": "Pelourinho de Ançã",
+      "localizacao": "Ançã",
+      "municipio": "Cantanhede",
+      "latitude": 40.27306,
+      "longitude": -8.5225,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "31632316",
+      "sipa": "2670"
+    },
+    {
+      "designacao": "Pelourinho de Arcos",
+      "localizacao": "Arcos",
+      "municipio": "Tabuaço",
+      "latitude": 41.04833,
+      "longitude": -7.57083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74157",
+      "sipa": "2392"
+    },
+    {
+      "designacao": "Pelourinho de Arcos de Valdevez",
+      "localizacao": "Arcos de Valdevez (Salvador), Vila Fonche e Parada",
+      "municipio": "Arcos de Valdevez",
+      "latitude": 41.84639,
+      "longitude": -8.41806,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70210",
+      "sipa": "2221"
+    },
+    {
+      "designacao": "Pelourinho de Arganil",
+      "localizacao": "Arganil",
+      "municipio": "Arganil",
+      "latitude": 40.2175,
+      "longitude": -8.05472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72907",
+      "sipa": "1010"
+    },
+    {
+      "designacao": "Pelourinho de Arouca",
+      "localizacao": "Arouca e Burgo",
+      "municipio": "Arouca",
+      "latitude": 40.92833,
+      "longitude": -8.24583,
+      "classificacao": "Imóvel de Interesse Público Incluído em sítio classificado",
+      "igespar": "73212",
+      "sipa": "5614"
+    },
+    {
+      "designacao": "Pelourinho de Arraiolos",
+      "localizacao": "Arraiolos",
+      "municipio": "Arraiolos",
+      "latitude": 38.72528,
+      "longitude": -7.98472,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70188",
+      "sipa": "1174"
+    },
+    {
+      "designacao": "Pelourinho de Assequins",
+      "localizacao": "Águeda e Borralha",
+      "municipio": "Águeda",
+      "latitude": 40.57139,
+      "longitude": -8.43361,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73891",
+      "sipa": "5616"
+    },
+    {
+      "designacao": "Pelourinho de Atalaia do Campo",
+      "localizacao": "Póvoa de Atalaia e Atalaia do Campo",
+      "municipio": "Fundão",
+      "latitude": 40.05417,
+      "longitude": -7.435,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74128",
+      "sipa": "841"
+    },
+    {
+      "designacao": "Pelourinho de Atouguia da Baleia",
+      "localizacao": "Atouguia da Baleia",
+      "municipio": "Peniche",
+      "latitude": 39.33917,
+      "longitude": -9.32556,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "75036",
+      "sipa": "1783"
+    },
+    {
+      "designacao": "Pelourinho de Avelar",
+      "localizacao": "Avelar",
+      "municipio": "Ansião",
+      "latitude": 39.92167,
+      "longitude": -8.36028,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73914",
+      "sipa": "1817"
+    },
+    {
+      "designacao": "Pelourinho de Aveloso",
+      "localizacao": "Aveloso",
+      "municipio": "Mêda",
+      "latitude": 40.93333,
+      "longitude": -7.31639,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74195",
+      "sipa": "1490"
+    },
+    {
+      "designacao": "Pelourinho de Avis",
+      "localizacao": "Avis",
+      "municipio": "Avis",
+      "latitude": 39.05667,
+      "longitude": -7.89083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73456",
+      "sipa": "1755"
+    },
+    {
+      "designacao": "Pelourinho de Avô",
+      "localizacao": "Avô",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.29306,
+      "longitude": -7.90583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74997",
+      "sipa": "1008"
+    },
+    {
+      "designacao": "Pelourinho de Azambujeira",
+      "localizacao": "Azambujeira e Malaqueijo",
+      "municipio": "Rio Maior",
+      "latitude": 39.26972,
+      "longitude": -8.79306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73496",
+      "sipa": "1964"
+    },
+    {
+      "designacao": "Pelourinho de Azaruja",
+      "localizacao": "São Bento do Mato",
+      "municipio": "Évora",
+      "latitude": 38.70333,
+      "longitude": -7.78028,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72965",
+      "sipa": "3828"
+    },
+    {
+      "designacao": "Pelourinho de Azinhoso",
+      "localizacao": "Azinhoso",
+      "municipio": "Mogadouro",
+      "latitude": 41.38417,
+      "longitude": -6.68444,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74236",
+      "sipa": "702"
+    },
+    {
+      "designacao": "Pelourinho de Azurara",
+      "localizacao": "Azurara",
+      "municipio": "Vila do Conde",
+      "latitude": 41.34694,
+      "longitude": -8.73889,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74377",
+      "sipa": "491"
+    },
+    {
+      "designacao": "Pelourinho de Açores",
+      "localizacao": "Açores e Velosa",
+      "municipio": "Celorico da Beira",
+      "latitude": 40.63806,
+      "longitude": -7.315,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74420",
+      "sipa": "1436"
+    },
+    {
+      "designacao": "Pelourinho de Baraçal",
+      "localizacao": "Baraçal",
+      "municipio": "Celorico da Beira",
+      "latitude": 40.68111,
+      "longitude": -7.32861,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "1396"
+    },
+    {
+      "designacao": "Pelourinho de Barbacena",
+      "localizacao": "Barbacena e Vila Fernando",
+      "municipio": "Elvas",
+      "latitude": 38.95361,
+      "longitude": -7.3025,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73454",
+      "sipa": "1680"
+    },
+    {
+      "designacao": "Pelourinho de Barcelos",
+      "localizacao": "Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro)",
+      "municipio": "Barcelos",
+      "latitude": 41.52806,
+      "longitude": -8.6225,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73206",
+      "sipa": "221"
+    },
+    {
+      "designacao": "Pelourinho de Barreiros",
+      "localizacao": "Barreiros e Cepões",
+      "municipio": "Viseu",
+      "latitude": 40.66111,
+      "longitude": -7.90833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "9327651",
+      "sipa": "2552"
+    },
+    {
+      "designacao": "Pelourinho de Beja",
+      "localizacao": "Beja (Santiago Maior e São João Baptista)",
+      "municipio": "Beja",
+      "latitude": 38.01528,
+      "longitude": -7.86472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74239",
+      "sipa": "316"
+    },
+    {
+      "designacao": "Pelourinho de Belmonte",
+      "localizacao": "Belmonte e Colmeal da Torre",
+      "municipio": "Belmonte",
+      "latitude": 40.35861,
+      "longitude": -7.34972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74264",
+      "sipa": "837"
+    },
+    {
+      "designacao": "Pelourinho de Bemposta",
+      "localizacao": "Bemposta",
+      "municipio": "Mogadouro",
+      "latitude": 41.31111,
+      "longitude": -6.50306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73349",
+      "sipa": "829"
+    },
+    {
+      "designacao": "Pelourinho de Benavente",
+      "localizacao": "Benavente",
+      "municipio": "Benavente",
+      "latitude": 38.98361,
+      "longitude": -8.80972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73475",
+      "sipa": "3371"
+    },
+    {
+      "designacao": "Pelourinho de Beringel",
+      "localizacao": "Beringel",
+      "municipio": "Beja",
+      "latitude": 38.05694,
+      "longitude": -7.98694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73880",
+      "sipa": "314"
+    },
+    {
+      "designacao": "Pelourinho de Bertiandos",
+      "localizacao": "Bertiandos",
+      "municipio": "Ponte de Lima",
+      "latitude": 41.76528,
+      "longitude": -8.62611,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73839",
+      "sipa": "3529"
+    },
+    {
+      "designacao": "Pelourinho de Bobadela",
+      "localizacao": "Bobadela",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.36056,
+      "longitude": -7.89278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73332",
+      "sipa": "1009"
+    },
+    {
+      "designacao": "Pelourinho de Borba",
+      "localizacao": "Borba (São Bartolomeu)",
+      "municipio": "Borba",
+      "latitude": 38.80639,
+      "longitude": -7.45778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74155",
+      "sipa": "2735"
+    },
+    {
+      "designacao": "Pelourinho de Braga",
+      "localizacao": "Braga (Maximinos, Sé e Cividade)",
+      "municipio": "Braga",
+      "latitude": 41.55028,
+      "longitude": -8.42667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73931",
+      "sipa": "207"
+    },
+    {
+      "designacao": "Pelourinho de Bragança",
+      "localizacao": "Sé, Santa Maria e Meixedo",
+      "municipio": "Bragança",
+      "latitude": 41.80417,
+      "longitude": -6.74944,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71126",
+      "sipa": "711"
+    },
+    {
+      "designacao": "Pelourinho de Britiande",
+      "localizacao": "Britiande",
+      "municipio": "Lamego",
+      "latitude": 41.06361,
+      "longitude": -7.79056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "7169514",
+      "sipa": "3746"
+    },
+    {
+      "designacao": "Pelourinho de Buarcos",
+      "localizacao": "Buarcos e São Julião",
+      "municipio": "Figueira da Foz",
+      "latitude": 40.16472,
+      "longitude": -8.87806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73663",
+      "sipa": "1001"
+    },
+    {
+      "designacao": "Pelourinho de Cabeceiras de Basto",
+      "localizacao": "Refojos de Basto, Outeiro e Painzela",
+      "municipio": "Cabeceiras de Basto",
+      "latitude": 41.51083,
+      "longitude": -7.99861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74947",
+      "sipa": "1251"
+    },
+    {
+      "designacao": "Pelourinho de Cabeçais",
+      "localizacao": "Fermedo",
+      "municipio": "Arouca",
+      "latitude": 40.95028,
+      "longitude": -8.425,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74241",
+      "sipa": "225"
+    },
+    {
+      "designacao": "Pelourinho de Cabeço de Vide",
+      "localizacao": "Cabeço de Vide",
+      "municipio": "Fronteira",
+      "latitude": 39.12667,
+      "longitude": -7.59889,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71157",
+      "sipa": "3208"
+    },
+    {
+      "designacao": "Pelourinho de Cabeção",
+      "localizacao": "Cabeção",
+      "municipio": "Mora",
+      "latitude": 38.95167,
+      "longitude": -8.07167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "7402679",
+      "sipa": "1226"
+    },
+    {
+      "designacao": "Pelourinho de Campo Benfeito",
+      "localizacao": "Gosende",
+      "municipio": "Castro Daire",
+      "latitude": 40.99722,
+      "longitude": -7.9275,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74853",
+      "sipa": "4298"
+    },
+    {
+      "designacao": "Pelourinho de Campo Maior",
+      "localizacao": "Nossa Senhora da Expectação",
+      "municipio": "Campo Maior",
+      "latitude": 39.0125,
+      "longitude": -7.06889,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71212",
+      "sipa": "1857"
+    },
+    {
+      "designacao": "Pelourinho de Canas de Santa Maria",
+      "localizacao": "Canas de Santa Maria",
+      "municipio": "Tondela",
+      "latitude": 40.55167,
+      "longitude": -8.03361,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73406",
+      "sipa": "4264"
+    },
+    {
+      "designacao": "Pelourinho de Canas de Senhorim",
+      "localizacao": "Canas de Senhorim",
+      "municipio": "Nelas",
+      "latitude": 40.50361,
+      "longitude": -7.90306,
+      "classificacao": "sem protecção legal",
+      "igespar": "72156",
+      "sipa": "2479"
+    },
+    {
+      "designacao": "Pelourinho de Candosa",
+      "localizacao": "Candosa",
+      "municipio": "Tábua",
+      "latitude": 40.3475,
+      "longitude": -7.96806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74199",
+      "sipa": "2594"
+    },
+    {
+      "designacao": "Pelourinho de Caniçada",
+      "localizacao": "Caniçada e Soengas",
+      "municipio": "Vieira do Minho",
+      "latitude": 41.65889,
+      "longitude": -8.18139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74954",
+      "sipa": "1724"
+    },
+    {
+      "designacao": "Pelourinho de Carapito",
+      "localizacao": "Carapito",
+      "municipio": "Aguiar da Beira",
+      "latitude": 40.765,
+      "longitude": -7.46389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72956",
+      "sipa": "1371"
+    },
+    {
+      "designacao": "Pelourinho de Carrazeda de Ansiães",
+      "localizacao": "Carrazeda de Ansiães",
+      "municipio": "Carrazeda de Ansiães",
+      "latitude": 41.245,
+      "longitude": -7.30111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72365",
+      "sipa": "816"
+    },
+    {
+      "designacao": "Pelourinho de Carvalhal",
+      "localizacao": "Paranhos da Beira",
+      "municipio": "Seia",
+      "latitude": 40.49722,
+      "longitude": -7.82167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "75040",
+      "sipa": "2973"
+    },
+    {
+      "designacao": "Pelourinho de Carvalho",
+      "localizacao": "Carvalho",
+      "municipio": "Penacova",
+      "latitude": 40.32944,
+      "longitude": -8.31333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74425",
+      "sipa": "973"
+    },
+    {
+      "designacao": "Pelourinho de Casal",
+      "localizacao": "Travancinha",
+      "municipio": "Seia",
+      "latitude": 40.41167,
+      "longitude": -7.81861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73327",
+      "sipa": "2972"
+    },
+    {
+      "designacao": "Pelourinho de Casal do Meio",
+      "localizacao": "Rio de Moinhos",
+      "municipio": "Sátão",
+      "latitude": 40.41417,
+      "longitude": -7.81806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72874",
+      "sipa": "2553"
+    },
+    {
+      "designacao": "Pelourinho de Casal do Monte",
+      "localizacao": "Queiriz",
+      "municipio": "Fornos de Algodres",
+      "latitude": 40.72889,
+      "longitude": -7.45833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73656",
+      "sipa": "1458"
+    },
+    {
+      "designacao": "Pelourinho de Castelo",
+      "localizacao": "Arnoia",
+      "municipio": "Celorico de Basto",
+      "latitude": 41.36389,
+      "longitude": -8.05444,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73633",
+      "sipa": "201"
+    },
+    {
+      "designacao": "Pelourinho de Castelo",
+      "localizacao": "Castelo",
+      "municipio": "Moimenta da Beira",
+      "latitude": 41.03694,
+      "longitude": -7.62194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "75011",
+      "sipa": "3680"
+    },
+    {
+      "designacao": "Pelourinho de Castelo",
+      "localizacao": "Ferreira de Aves",
+      "municipio": "Sátão",
+      "latitude": 40.81,
+      "longitude": -7.66528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74522",
+      "sipa": "2554"
+    },
+    {
+      "designacao": "Pelourinho de Castelo Bom",
+      "localizacao": "Castelo Bom",
+      "municipio": "Almeida",
+      "latitude": 40.62139,
+      "longitude": -6.90139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "1364"
+    },
+    {
+      "designacao": "Pelourinho de Castelo de Vide",
+      "localizacao": "Santa Maria da Devesa",
+      "municipio": "Castelo de Vide",
+      "latitude": 39.41556,
+      "longitude": -7.45528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "1795"
+    },
+    {
+      "designacao": "Pelourinho de Castelo Mendo",
+      "localizacao": "Castelo Mendo, Ade, Monteperobolso e Mesquitela",
+      "municipio": "Almeida",
+      "latitude": 40.59417,
+      "longitude": -6.95139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73024",
+      "sipa": "1379"
+    },
+    {
+      "designacao": "Pelourinho de Castelo Novo",
+      "localizacao": "Castelo Novo",
+      "municipio": "Fundão",
+      "latitude": 40.07778,
+      "longitude": -7.49583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72312",
+      "sipa": "842"
+    },
+    {
+      "designacao": "Pelourinho de Castelo Rodrigo",
+      "localizacao": "Castelo Rodrigo",
+      "municipio": "Figueira de Castelo Rodrigo",
+      "latitude": 40.87667,
+      "longitude": -6.96389,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71118",
+      "sipa": "1445"
+    },
+    {
+      "designacao": "Pelourinho de Castro Daire",
+      "localizacao": "Castro Daire",
+      "municipio": "Castro Daire",
+      "latitude": 40.89639,
+      "longitude": -7.93583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73777",
+      "sipa": "4952"
+    },
+    {
+      "designacao": "Pelourinho de Castro Laboreiro",
+      "localizacao": "Castro Laboreiro e Lamas de Mouro",
+      "municipio": "Melgaço",
+      "latitude": 42.03,
+      "longitude": -8.15833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72929",
+      "sipa": "2228"
+    },
+    {
+      "designacao": "Pelourinho de Castro Marim",
+      "localizacao": "Castro Marim",
+      "municipio": "Castro Marim",
+      "latitude": 37.21889,
+      "longitude": -7.44167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73961",
+      "sipa": "1317"
+    },
+    {
+      "designacao": "Pelourinho de Castro Vicente",
+      "localizacao": "Castro Vicente",
+      "municipio": "Mogadouro",
+      "latitude": 41.38,
+      "longitude": -6.83917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73372",
+      "sipa": "830"
+    },
+    {
+      "designacao": "Pelourinho de Cedovim",
+      "localizacao": "Cedovim",
+      "municipio": "Vila Nova de Foz Côa",
+      "latitude": 41.02861,
+      "longitude": -7.3125,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74988",
+      "sipa": "1525"
+    },
+    {
+      "designacao": "Pelourinho de Cela",
+      "localizacao": "Cela",
+      "municipio": "Alcobaça",
+      "latitude": 39.54,
+      "longitude": -9.03444,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73431",
+      "sipa": "1784"
+    },
+    {
+      "designacao": "Pelourinho de Celorico de Basto",
+      "localizacao": "Britelo, Gémeos e Ourilhe",
+      "municipio": "Celorico de Basto",
+      "latitude": 41.3875,
+      "longitude": -8.00028,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "321"
+    },
+    {
+      "designacao": "Pelourinho de Cerva",
+      "localizacao": "Cerva e Limões",
+      "municipio": "Ribeira de Pena",
+      "latitude": 41.47222,
+      "longitude": -7.8475,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73446",
+      "sipa": "5884"
+    },
+    {
+      "designacao": "Pelourinho de Chacim",
+      "localizacao": "Chacim",
+      "municipio": "Macedo de Cavaleiros",
+      "latitude": 41.46944,
+      "longitude": -6.9025,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74654",
+      "sipa": "820"
+    },
+    {
+      "designacao": "Pelourinho de Chaves",
+      "localizacao": "Santa Maria Maior",
+      "municipio": "Chaves",
+      "latitude": 41.74,
+      "longitude": -7.47056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74667",
+      "sipa": "5843"
+    },
+    {
+      "designacao": "Pelourinho de Chavães",
+      "localizacao": "Chavães",
+      "municipio": "Tabuaço",
+      "latitude": 41.08806,
+      "longitude": -7.56861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72872",
+      "sipa": "4207"
+    },
+    {
+      "designacao": "Pelourinho de Cheleiros",
+      "localizacao": "Igreja Nova e Cheleiros",
+      "municipio": "Mafra",
+      "latitude": 38.88889,
+      "longitude": -9.32944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74469",
+      "sipa": "3022"
+    },
+    {
+      "designacao": "Pelourinho de Chão de Couce",
+      "localizacao": "Chão de Couce",
+      "municipio": "Ansião",
+      "latitude": 39.89278,
+      "longitude": -8.36972,
+      "classificacao": "Em vias de classificação",
+      "igespar": "13315935",
+      "sipa": "27128"
+    },
+    {
+      "designacao": "Pelourinho de Chãs de Tavares",
+      "localizacao": "Tavares (Chãs, Várzea e Travanca)",
+      "municipio": "Mangualde",
+      "latitude": 40.62194,
+      "longitude": -7.61111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74253",
+      "sipa": "2560"
+    },
+    {
+      "designacao": "Pelourinho de Cinfães",
+      "localizacao": "Cinfães",
+      "municipio": "Cinfães",
+      "latitude": 41.07472,
+      "longitude": -8.095,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74254",
+      "sipa": "4209"
+    },
+    {
+      "designacao": "Pelourinho de Coimbra",
+      "localizacao": "Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu)",
+      "municipio": "Coimbra",
+      "latitude": 40.20944,
+      "longitude": -8.41583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73253",
+      "sipa": "1268"
+    },
+    {
+      "designacao": "Pelourinho de Coja",
+      "localizacao": "Côja e Barril de Alva",
+      "municipio": "Arganil",
+      "latitude": 40.26833,
+      "longitude": -7.98917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "875"
+    },
+    {
+      "designacao": "Pelourinho de Colares",
+      "localizacao": "Colares",
+      "municipio": "Sintra",
+      "latitude": 38.79917,
+      "longitude": -9.44611,
+      "classificacao": "Monumento Nacional",
+      "igespar": "69858",
+      "sipa": "2430"
+    },
+    {
+      "designacao": "Pelourinho de Constância",
+      "localizacao": "Constância",
+      "municipio": "Constância",
+      "latitude": 39.47472,
+      "longitude": -8.33889,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74452",
+      "sipa": "1974"
+    },
+    {
+      "designacao": "Pelourinho de Coruche",
+      "localizacao": "Coruche, Fajarda e Erra",
+      "municipio": "Coruche",
+      "latitude": 38.95833,
+      "longitude": -8.52667,
+      "classificacao": "sem protecção legal",
+      "igespar": "71047",
+      "sipa": "3374"
+    },
+    {
+      "designacao": "Pelourinho de Couto de Baixo",
+      "localizacao": "Coutos de Viseu",
+      "municipio": "Viseu",
+      "latitude": 40.65806,
+      "longitude": -8.00667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "9327510",
+      "sipa": "4247"
+    },
+    {
+      "designacao": "Pelourinho de Couto de Esteves",
+      "localizacao": "Couto de Esteves",
+      "municipio": "Sever do Vouga",
+      "latitude": 40.7575,
+      "longitude": -8.30722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73881",
+      "sipa": "229"
+    },
+    {
+      "designacao": "Pelourinho de Couto do Mosteiro",
+      "localizacao": "Santa Comba Dão e Couto do Mosteiro",
+      "municipio": "Santa Comba Dão",
+      "latitude": 40.41139,
+      "longitude": -8.14472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73689",
+      "sipa": "2559"
+    },
+    {
+      "designacao": "Pelourinho de Currelos",
+      "localizacao": "Carregal do Sal",
+      "municipio": "Carregal do Sal",
+      "latitude": 40.42278,
+      "longitude": -7.99722,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "3690"
+    },
+    {
+      "designacao": "Pelourinho de Dornelas",
+      "localizacao": "Dornelas",
+      "municipio": "Boticas",
+      "latitude": 41.63972,
+      "longitude": -7.84194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73401",
+      "sipa": "6011"
+    },
+    {
+      "designacao": "Pelourinho de Douro Calvo",
+      "localizacao": "Romãs, Decermilo e Vila Longa",
+      "municipio": "Sátão",
+      "latitude": 40.75806,
+      "longitude": -7.64611,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "155864",
+      "sipa": "2555"
+    },
+    {
+      "designacao": "Pelourinho de Elvas",
+      "localizacao": "Caia, São Pedro e Alcáçova",
+      "municipio": "Elvas",
+      "latitude": 38.88194,
+      "longitude": -7.16417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73683",
+      "sipa": "1813"
+    },
+    {
+      "designacao": "Pelourinho de Entradas",
+      "localizacao": "Freguesia de Entradas",
+      "municipio": "Castro Verde",
+      "latitude": 37.7775,
+      "longitude": -8.01167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "983"
+    },
+    {
+      "designacao": "Pelourinho de Enxara dos Cavaleiros",
+      "localizacao": "Enxara do Bispo, Gradil e Vila Franca do Rosário",
+      "municipio": "Mafra",
+      "latitude": 38.98361,
+      "longitude": -9.21667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74292",
+      "sipa": "3048"
+    },
+    {
+      "designacao": "Pelourinho de Ermelo",
+      "localizacao": "Ermelo e Pardelhas",
+      "municipio": "Mondim de Basto",
+      "latitude": 41.35917,
+      "longitude": -7.88861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74971",
+      "sipa": "5883"
+    },
+    {
+      "designacao": "Pelourinho de Ervededo",
+      "localizacao": "Ervededo",
+      "municipio": "Chaves",
+      "latitude": 41.81611,
+      "longitude": -7.4925,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74903",
+      "sipa": "5844"
+    },
+    {
+      "designacao": "Pelourinho de Ervedosa",
+      "localizacao": "Ervedosa",
+      "municipio": "Vinhais",
+      "latitude": 41.71111,
+      "longitude": -7.07972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73392",
+      "sipa": "189"
+    },
+    {
+      "designacao": "Pelourinho de Esgueira",
+      "localizacao": "Esgueira",
+      "municipio": "Aveiro",
+      "latitude": 40.64861,
+      "longitude": -8.62806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74240",
+      "sipa": "227"
+    },
+    {
+      "designacao": "Pelourinho de Esposende",
+      "localizacao": "Esposende, Marinhas e Gandra",
+      "municipio": "Esposende",
+      "latitude": 41.52944,
+      "longitude": -8.77972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74945",
+      "sipa": "208"
+    },
+    {
+      "designacao": "Pelourinho de Estremoz",
+      "localizacao": "Estremoz (Santa Maria e Santo André)",
+      "municipio": "Estremoz",
+      "latitude": 38.84167,
+      "longitude": -7.58833,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70539",
+      "sipa": "2737"
+    },
+    {
+      "designacao": "Pelourinho de Faílde e Carocedo",
+      "localizacao": "Parada e Faílde",
+      "municipio": "Bragança",
+      "latitude": 41.72389,
+      "longitude": -6.75306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73671",
+      "sipa": "712"
+    },
+    {
+      "designacao": "Pelourinho de Feira",
+      "localizacao": "Lanheses",
+      "municipio": "Viana do Castelo",
+      "latitude": 41.73472,
+      "longitude": -8.67833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72732",
+      "sipa": "2231"
+    },
+    {
+      "designacao": "Pelourinho de Figueiró da Granja",
+      "localizacao": "Figueiró da Granja",
+      "municipio": "Fornos de Algodres",
+      "latitude": 40.6275,
+      "longitude": -7.515,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73752",
+      "sipa": "1454"
+    },
+    {
+      "designacao": "Pelourinho de Fonte Arcada",
+      "localizacao": "Fonte Arcada e Escurquela",
+      "municipio": "Sernancelhe",
+      "latitude": 40.96444,
+      "longitude": -7.52167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "7168972",
+      "sipa": "4290"
+    },
+    {
+      "designacao": "Pelourinho de Forno Telheiro",
+      "localizacao": "Forno Telheiro",
+      "municipio": "Celorico da Beira",
+      "latitude": 40.67444,
+      "longitude": -7.39861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73328",
+      "sipa": "1392"
+    },
+    {
+      "designacao": "Pelourinho de Fornos de Algodres",
+      "localizacao": "Fornos de Algodres",
+      "municipio": "Fornos de Algodres",
+      "latitude": 40.6225,
+      "longitude": -7.53861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73959",
+      "sipa": "1455"
+    },
+    {
+      "designacao": "Pelourinho de Foz Côa",
+      "localizacao": "Vila Nova de Foz Côa",
+      "municipio": "Vila Nova de Foz Côa",
+      "latitude": 41.08333,
+      "longitude": -7.13639,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70617",
+      "sipa": "1530"
+    },
+    {
+      "designacao": "Pelourinho de Frechas",
+      "localizacao": "Frechas",
+      "municipio": "Mirandela",
+      "latitude": 41.41167,
+      "longitude": -7.16389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73030",
+      "sipa": "824"
+    },
+    {
+      "designacao": "Pelourinho de Freixiel",
+      "localizacao": "Freixiel",
+      "municipio": "Vila Flor",
+      "latitude": 41.31611,
+      "longitude": -7.24778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73669",
+      "sipa": "184"
+    },
+    {
+      "designacao": "Pelourinho de Freixo de Espada à Cinta",
+      "localizacao": "Freixo de Espada à Cinta e Mazouco",
+      "municipio": "Freixo de Espada à Cinta",
+      "latitude": 41.08972,
+      "longitude": -6.80806,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70359",
+      "sipa": "819"
+    },
+    {
+      "designacao": "Pelourinho de Freixo de Numão",
+      "localizacao": "Freixo de Numão",
+      "municipio": "Vila Nova de Foz Côa",
+      "latitude": 41.0675,
+      "longitude": -7.22278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74479",
+      "sipa": "1524"
+    },
+    {
+      "designacao": "Pelourinho de Frieira",
+      "localizacao": "Macedo do Mato",
+      "municipio": "Bragança",
+      "latitude": 41.57556,
+      "longitude": -6.76,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74535",
+      "sipa": "713"
+    },
+    {
+      "designacao": "Pelourinho de Fronteira",
+      "localizacao": "Fronteira",
+      "municipio": "Fronteira",
+      "latitude": 39.05306,
+      "longitude": -7.64778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74215",
+      "sipa": "1838"
+    },
+    {
+      "designacao": "Pelourinho de Frossos",
+      "localizacao": "São João de Loure e Frossos",
+      "municipio": "Albergaria-a-Velha",
+      "latitude": 40.65917,
+      "longitude": -8.53611,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73443",
+      "sipa": "651"
+    },
+    {
+      "designacao": "Pelourinho de Fráguas",
+      "localizacao": "Vila Nova de Paiva, Alhais e Fráguas",
+      "municipio": "Vila Nova de Paiva",
+      "latitude": 40.83778,
+      "longitude": -7.77056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74388",
+      "sipa": "4215"
+    },
+    {
+      "designacao": "Pelourinho de Galegos",
+      "localizacao": "Constantim e Vale de Nogueiras",
+      "municipio": "Vila Real",
+      "latitude": 41.28389,
+      "longitude": -7.66583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "75012",
+      "sipa": "6012"
+    },
+    {
+      "designacao": "Pelourinho de Gavião",
+      "localizacao": "Gavião e Atalaia",
+      "municipio": "Gavião",
+      "latitude": 39.46083,
+      "longitude": -7.93556,
+      "classificacao": "sem protecção legal",
+      "igespar": "74466",
+      "sipa": "1679"
+    },
+    {
+      "designacao": "Pelourinho de Gostei",
+      "localizacao": "Gostei",
+      "municipio": "Bragança",
+      "latitude": 41.79139,
+      "longitude": -6.82,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74026",
+      "sipa": "714"
+    },
+    {
+      "designacao": "Pelourinho de Goujoim",
+      "localizacao": "Aricera e Goujoim",
+      "municipio": "Armamar",
+      "latitude": 41.08972,
+      "longitude": -7.63278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "7169615",
+      "sipa": "3704"
+    },
+    {
+      "designacao": "Pelourinho de Gouveia",
+      "localizacao": "Gouveia",
+      "municipio": "Gouveia",
+      "latitude": 40.49528,
+      "longitude": -7.59167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "1471"
+    },
+    {
+      "designacao": "Pelourinho de Gouvães do Douro",
+      "localizacao": "Provesende, Gouvães do Douro e São Cristóvão do Douro",
+      "municipio": "Sabrosa",
+      "latitude": 41.19667,
+      "longitude": -7.57333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72332",
+      "sipa": "5886"
+    },
+    {
+      "designacao": "Pelourinho de Granja do Tedo",
+      "localizacao": "Granja do Tedo",
+      "municipio": "Tabuaço",
+      "latitude": 41.06778,
+      "longitude": -7.61278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73687",
+      "sipa": "3755"
+    },
+    {
+      "designacao": "Pelourinho de Guilheiro",
+      "localizacao": "Guilheiro",
+      "municipio": "Trancoso",
+      "latitude": 40.89806,
+      "longitude": -7.42333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74870",
+      "sipa": "2979"
+    },
+    {
+      "designacao": "Pelourinho de Horta",
+      "localizacao": "Horta",
+      "municipio": "Vila Nova de Foz Côa",
+      "latitude": 41.06528,
+      "longitude": -7.31083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73323",
+      "sipa": "1529"
+    },
+    {
+      "designacao": "Pelourinho de Idanha-a-Velha",
+      "localizacao": "Monsanto e Idanha-a-Velha",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 39.99639,
+      "longitude": -7.14361,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73341",
+      "sipa": "565"
+    },
+    {
+      "designacao": "Pelourinho de Janardo",
+      "localizacao": "Guardão",
+      "municipio": "Tondela",
+      "latitude": 40.56639,
+      "longitude": -8.15722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "155898",
+      "sipa": "2411"
+    },
+    {
+      "designacao": "Pelourinho de Lagos",
+      "localizacao": "São Gonçalo de Lagos",
+      "municipio": "Lagos",
+      "latitude": 37.09972,
+      "longitude": -8.67111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "1314"
+    },
+    {
+      "designacao": "Pelourinho de Lagos da Beira",
+      "localizacao": "Lagos da Beira e Lajeosa",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.37361,
+      "longitude": -7.82917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "182"
+    },
+    {
+      "designacao": "Pelourinho de Lalim",
+      "localizacao": "Lalim",
+      "municipio": "Lamego",
+      "latitude": 41.03917,
+      "longitude": -7.81556,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74603",
+      "sipa": "4210"
+    },
+    {
+      "designacao": "Pelourinho de Lamas de Orelhão",
+      "localizacao": "Lamas de Orelhão",
+      "municipio": "Mirandela",
+      "latitude": 41.44,
+      "longitude": -7.28944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72864",
+      "sipa": "825"
+    },
+    {
+      "designacao": "Pelourinho de Lamegal",
+      "localizacao": "Lamegal",
+      "municipio": "Pinhel",
+      "latitude": 40.66306,
+      "longitude": -7.08056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71811",
+      "sipa": "1499"
+    },
+    {
+      "designacao": "Pelourinho de Lanhoso",
+      "localizacao": "Póvoa de Lanhoso",
+      "municipio": "Póvoa de Lanhoso",
+      "latitude": "",
+      "longitude": "",
+      "classificacao": "sem protecção legal",
+      "igespar": "70594",
+      "sipa": "194"
+    },
+    {
+      "designacao": "Pelourinho de Larim",
+      "localizacao": "Soutelo",
+      "municipio": "Vila Verde",
+      "latitude": 41.60972,
+      "longitude": -8.43833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "70764",
+      "sipa": "344"
+    },
+    {
+      "designacao": "Pelourinho de Leomil",
+      "localizacao": "Leomil",
+      "municipio": "Moimenta da Beira",
+      "latitude": 40.98389,
+      "longitude": -7.65361,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73774",
+      "sipa": "2376"
+    },
+    {
+      "designacao": "Pelourinho de Linhares",
+      "localizacao": "Linhares",
+      "municipio": "Carrazeda de Ansiães",
+      "latitude": 41.20639,
+      "longitude": -7.36278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "6518968",
+      "sipa": "551"
+    },
+    {
+      "designacao": "Pelourinho de Linhares",
+      "localizacao": "Linhares",
+      "municipio": "Celorico da Beira",
+      "latitude": 40.54,
+      "longitude": -7.4625,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73242",
+      "sipa": "1393"
+    },
+    {
+      "designacao": "Pelourinho de Lisboa",
+      "localizacao": "Santa Maria Maior",
+      "municipio": "Lisboa",
+      "latitude": 38.70806,
+      "longitude": -9.13917,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70709",
+      "sipa": "3023"
+    },
+    {
+      "designacao": "Pelourinho de Longroiva",
+      "localizacao": "Longroiva",
+      "municipio": "Mêda",
+      "latitude": 40.96417,
+      "longitude": -7.20972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73471",
+      "sipa": "1494"
+    },
+    {
+      "designacao": "Pelourinho de Lordelo",
+      "localizacao": "Lordelo",
+      "municipio": "Vila Real",
+      "latitude": 41.3175,
+      "longitude": -7.76639,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73691",
+      "sipa": "2471"
+    },
+    {
+      "designacao": "Pelourinho de Loulé, fragmentos",
+      "localizacao": "Loulé (São Clemente)",
+      "municipio": "Loulé",
+      "latitude": 37.13583,
+      "longitude": -8.03167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74542",
+      "sipa": "1219"
+    },
+    {
+      "designacao": "Pelourinho de Louredo",
+      "localizacao": "Louredo",
+      "municipio": "Paredes",
+      "latitude": 41.24167,
+      "longitude": -8.335,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74565",
+      "sipa": "534"
+    },
+    {
+      "designacao": "Pelourinho de Lourosa",
+      "localizacao": "Lourosa",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.31778,
+      "longitude": -7.93083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72860",
+      "sipa": "971"
+    },
+    {
+      "designacao": "Pelourinho de Lousada",
+      "localizacao": "Cernadelo e Lousada (São Miguel e Santa Margarida)",
+      "municipio": "Lousada",
+      "latitude": 41.3025,
+      "longitude": -8.24444,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70657",
+      "sipa": "506"
+    },
+    {
+      "designacao": "Pelourinho de Macieira",
+      "localizacao": "Macieira de Cambra",
+      "municipio": "Vale de Cambra",
+      "latitude": 40.85556,
+      "longitude": -8.3775,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73764",
+      "sipa": "660"
+    },
+    {
+      "designacao": "Pelourinho de Mafra",
+      "localizacao": "Mafra",
+      "municipio": "Mafra",
+      "latitude": 38.93778,
+      "longitude": -9.33333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73229",
+      "sipa": "2341"
+    },
+    {
+      "designacao": "Pelourinho de Magueijinha",
+      "localizacao": "Bigorne, Magueija e Pretarouca",
+      "municipio": "Lamego",
+      "latitude": 41.05194,
+      "longitude": -7.87139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74554",
+      "sipa": "4263"
+    },
+    {
+      "designacao": "Pelourinho de Maiorga",
+      "localizacao": "Maiorga",
+      "municipio": "Alcobaça",
+      "latitude": 39.58056,
+      "longitude": -8.97944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72360",
+      "sipa": "1789"
+    },
+    {
+      "designacao": "Pelourinho de Manique do Intendente",
+      "localizacao": "Manique do Intendente, Vila Nova de São Pedro e Maçussa",
+      "municipio": "Azambuja",
+      "latitude": 39.22056,
+      "longitude": -8.89111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74739",
+      "sipa": "5849"
+    },
+    {
+      "designacao": "Pelourinho de Marialva",
+      "localizacao": "Marialva",
+      "municipio": "Mêda",
+      "latitude": 40.91389,
+      "longitude": -7.23167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74223",
+      "sipa": "1492"
+    },
+    {
+      "designacao": "Pelourinho de Marvão",
+      "localizacao": "Santa Maria de Marvão",
+      "municipio": "Marvão",
+      "latitude": 39.39361,
+      "longitude": -7.37639,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71820",
+      "sipa": "3238"
+    },
+    {
+      "designacao": "Pelourinho de Matança",
+      "localizacao": "Matança",
+      "municipio": "Fornos de Algodres",
+      "latitude": 40.68194,
+      "longitude": -7.52917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73867",
+      "sipa": "1456"
+    },
+    {
+      "designacao": "Pelourinho de Matosinhos",
+      "localizacao": "Matosinhos e Leça da Palmeira",
+      "municipio": "Matosinhos",
+      "latitude": 41.18667,
+      "longitude": -8.68917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "509"
+    },
+    {
+      "designacao": "Pelourinho de Mação",
+      "localizacao": "Mação, Penhascoso e Aboboreira",
+      "municipio": "Mação",
+      "latitude": 39.55111,
+      "longitude": -7.99806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73509",
+      "sipa": "3367"
+    },
+    {
+      "designacao": "Pelourinho de Maçãs de Dona Maria",
+      "localizacao": "Maçãs de Dona Maria",
+      "municipio": "Alvaiázere",
+      "latitude": 39.87417,
+      "longitude": -8.33417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72901",
+      "sipa": "1793"
+    },
+    {
+      "designacao": "Pelourinho de Melo",
+      "localizacao": "Melo e Nabais",
+      "municipio": "Gouveia",
+      "latitude": 40.52028,
+      "longitude": -7.53528,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70289",
+      "sipa": "1475"
+    },
+    {
+      "designacao": "Pelourinho de Messejana",
+      "localizacao": "Messejana",
+      "municipio": "Aljustrel",
+      "latitude": 37.83444,
+      "longitude": -8.245,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73680",
+      "sipa": "963"
+    },
+    {
+      "designacao": "Pelourinho de Mesão Frio",
+      "localizacao": "Mesão Frio (Santo André)",
+      "municipio": "Mesão Frio",
+      "latitude": 41.16111,
+      "longitude": -7.8875,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73984",
+      "sipa": "5885"
+    },
+    {
+      "designacao": "Pelourinho de Midões",
+      "localizacao": "Midões",
+      "municipio": "Tábua",
+      "latitude": 40.38417,
+      "longitude": -7.94861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73515",
+      "sipa": "897"
+    },
+    {
+      "designacao": "Pelourinho de Mira",
+      "localizacao": "Mira",
+      "municipio": "Mira",
+      "latitude": 40.42806,
+      "longitude": -8.73667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74802",
+      "sipa": "4218"
+    },
+    {
+      "designacao": "Pelourinho de Miranda do Corvo",
+      "localizacao": "Miranda do Corvo",
+      "municipio": "Miranda do Corvo",
+      "latitude": 40.09278,
+      "longitude": -8.33278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74884",
+      "sipa": "2669"
+    },
+    {
+      "designacao": "Pelourinho de Miranda do Douro",
+      "localizacao": "Miranda do Douro",
+      "municipio": "Miranda do Douro",
+      "latitude": 41.49611,
+      "longitude": -6.27611,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "21658"
+    },
+    {
+      "designacao": "Pelourinho de Mirandela",
+      "localizacao": "Mirandela",
+      "municipio": "Mirandela",
+      "latitude": 41.48889,
+      "longitude": -7.18944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74266",
+      "sipa": "807"
+    },
+    {
+      "designacao": "Pelourinho de Mogadouro",
+      "localizacao": "Mogadouro, Valverde, Vale de Porco e Vilar de Rei",
+      "municipio": "Mogadouro",
+      "latitude": 41.33778,
+      "longitude": -6.72028,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74653",
+      "sipa": "196"
+    },
+    {
+      "designacao": "Pelourinho de Monchique",
+      "localizacao": "Monchique",
+      "municipio": "Monchique",
+      "latitude": 37.32028,
+      "longitude": -8.55583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74673",
+      "sipa": "1324"
+    },
+    {
+      "designacao": "Pelourinho de Mondim de Cima",
+      "localizacao": "Mondim da Beira",
+      "municipio": "Tarouca",
+      "latitude": 41.01444,
+      "longitude": -7.74056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72374",
+      "sipa": "4219"
+    },
+    {
+      "designacao": "Pelourinho de Monsanto",
+      "localizacao": "Monsanto e Idanha-a-Velha",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 40.03917,
+      "longitude": -7.11528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "336311",
+      "sipa": "5125"
+    },
+    {
+      "designacao": "Pelourinho de Monsaraz",
+      "localizacao": "Monsaraz",
+      "municipio": "Reguengos de Monsaraz",
+      "latitude": 38.44306,
+      "longitude": -7.38083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73379",
+      "sipa": "2728"
+    },
+    {
+      "designacao": "Pelourinho de Monsul",
+      "localizacao": "Monsul",
+      "municipio": "Póvoa de Lanhoso",
+      "latitude": 41.62389,
+      "longitude": -8.31167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74237",
+      "sipa": "98"
+    },
+    {
+      "designacao": "Pelourinho de Montalegre",
+      "localizacao": "Montalegre e Padroso",
+      "municipio": "Montalegre",
+      "latitude": 41.82472,
+      "longitude": -7.79139,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "20883"
+    },
+    {
+      "designacao": "Pelourinho de Monte Real",
+      "localizacao": "Monte Real e Carvide",
+      "municipio": "Leiria",
+      "latitude": 39.85,
+      "longitude": -8.85722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74785",
+      "sipa": "1781"
+    },
+    {
+      "designacao": "Pelourinho de Moreira de Rei",
+      "localizacao": "Moreira de Rei",
+      "municipio": "Trancoso",
+      "latitude": 40.82889,
+      "longitude": -7.31639,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70419",
+      "sipa": "1518"
+    },
+    {
+      "designacao": "Pelourinho de Mortágua",
+      "localizacao": "Mortágua, Vale de Remígio, Cortegaça e Almaça",
+      "municipio": "Mortágua",
+      "latitude": 40.39667,
+      "longitude": -8.22944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73444",
+      "sipa": "4225"
+    },
+    {
+      "designacao": "Pelourinho de Moura",
+      "localizacao": "Moura (Santo Agostinho e São João Baptista) e Santo Amador",
+      "municipio": "Moura",
+      "latitude": 38.14333,
+      "longitude": -7.44944,
+      "classificacao": "Em estudo",
+      "igespar": "",
+      "sipa": "323"
+    },
+    {
+      "designacao": "Pelourinho de Moure",
+      "localizacao": "Moure",
+      "municipio": "Vila Verde",
+      "latitude": 41.64111,
+      "longitude": -8.47194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "70728",
+      "sipa": "366"
+    },
+    {
+      "designacao": "Pelourinho de Murça",
+      "localizacao": "Murça",
+      "municipio": "Murça",
+      "latitude": 41.40806,
+      "longitude": -7.45389,
+      "classificacao": "Monumento Nacional",
+      "igespar": "69847",
+      "sipa": "5889"
+    },
+    {
+      "designacao": "Pelourinho de Muxagata",
+      "localizacao": "Muxagata",
+      "municipio": "Vila Nova de Foz Côa",
+      "latitude": 41.0375,
+      "longitude": -7.16861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72851",
+      "sipa": "1523"
+    },
+    {
+      "designacao": "Pelourinho de Mêda",
+      "localizacao": "Mêda, Outeiro de Gatos e Fonte Longa",
+      "municipio": "Mêda",
+      "latitude": 40.96278,
+      "longitude": -7.26333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74636",
+      "sipa": "1594"
+    },
+    {
+      "designacao": "Pelourinho de Mós",
+      "localizacao": "Mós",
+      "municipio": "Torre de Moncorvo",
+      "latitude": 41.15944,
+      "longitude": -6.90806,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "460"
+    },
+    {
+      "designacao": "Pelourinho de Mões",
+      "localizacao": "Mões",
+      "municipio": "Castro Daire",
+      "latitude": 40.8675,
+      "longitude": -7.88528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74678",
+      "sipa": "4228"
+    },
+    {
+      "designacao": "Pelourinho de Nespereira",
+      "localizacao": "Nespereira",
+      "municipio": "Cinfães",
+      "latitude": 41.00278,
+      "longitude": -8.15972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "69913",
+      "sipa": "4223"
+    },
+    {
+      "designacao": "Pelourinho de Nisa",
+      "localizacao": "Espírito Santo, Nossa Senhora da Graça e São Simão",
+      "municipio": "Nisa",
+      "latitude": 39.51694,
+      "longitude": -7.66556,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71796",
+      "sipa": "1677"
+    },
+    {
+      "designacao": "Pelourinho de Nogueira do Cravo",
+      "localizacao": "Nogueira do Cravo",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.33722,
+      "longitude": -7.88028,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73717",
+      "sipa": "2651"
+    },
+    {
+      "designacao": "Pelourinho de Nozelos",
+      "localizacao": "Arcas",
+      "municipio": "Macedo de Cavaleiros",
+      "latitude": 41.64528,
+      "longitude": -7.07278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74428",
+      "sipa": "2416"
+    },
+    {
+      "designacao": "Pelourinho de Oeiras",
+      "localizacao": "Oeiras e São Julião da Barra, Paço de Arcos e Caxias",
+      "municipio": "Oeiras",
+      "latitude": 38.69333,
+      "longitude": -9.31389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74624",
+      "sipa": "3029"
+    },
+    {
+      "designacao": "Pelourinho de Oliveira de Frades",
+      "localizacao": "Oliveira de Frades, Souto de Lafões e Sejães",
+      "municipio": "Oliveira de Frades",
+      "latitude": 40.73222,
+      "longitude": -8.175,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73407",
+      "sipa": "2475"
+    },
+    {
+      "designacao": "Pelourinho de Oliveira do Conde",
+      "localizacao": "Oliveira do Conde",
+      "municipio": "Carregal do Sal",
+      "latitude": 40.43944,
+      "longitude": -7.96861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72379",
+      "sipa": "4205"
+    },
+    {
+      "designacao": "Pelourinho de Oliveira do Hospital",
+      "localizacao": "Oliveira do Hospital e São Paio de Gramaços",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.35917,
+      "longitude": -7.86222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73755",
+      "sipa": "972"
+    },
+    {
+      "designacao": "Pelourinho de Ourém",
+      "localizacao": "Nossa Senhora das Misericórdias",
+      "municipio": "Ourém",
+      "latitude": 39.64278,
+      "longitude": -8.59111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74243",
+      "sipa": "1951"
+    },
+    {
+      "designacao": "Pelourinho de Ovelha",
+      "localizacao": "Aboadela, Sanche e Várzea",
+      "municipio": "Amarante",
+      "latitude": 41.27722,
+      "longitude": -7.99528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73644",
+      "sipa": "4821"
+    },
+    {
+      "designacao": "Pelourinho de Ovoa",
+      "localizacao": "Óvoa e Vimieiro",
+      "municipio": "Santa Comba Dão",
+      "latitude": 40.38167,
+      "longitude": -8.13139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74389",
+      "sipa": "4235"
+    },
+    {
+      "designacao": "Pelourinho de Paialvo",
+      "localizacao": "Paialvo",
+      "municipio": "Tomar",
+      "latitude": 39.56306,
+      "longitude": -8.46806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74612",
+      "sipa": "1985"
+    },
+    {
+      "designacao": "Pelourinho de Palmela",
+      "localizacao": "Palmela",
+      "municipio": "Palmela",
+      "latitude": 38.56778,
+      "longitude": -8.89972,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71224",
+      "sipa": "3422"
+    },
+    {
+      "designacao": "Pelourinho de Parada de Bouro",
+      "localizacao": "Parada de Bouro",
+      "municipio": "Vieira do Minho",
+      "latitude": 41.64889,
+      "longitude": -8.24583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74027",
+      "sipa": "2630"
+    },
+    {
+      "designacao": "Pelourinho de Paredes",
+      "localizacao": "Paredes",
+      "municipio": "Paredes",
+      "latitude": 41.205,
+      "longitude": -8.32861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73852",
+      "sipa": "5112"
+    },
+    {
+      "designacao": "Pelourinho de Paredes de Coura",
+      "localizacao": "Paredes de Coura e Resende",
+      "municipio": "Paredes de Coura",
+      "latitude": 41.90972,
+      "longitude": -8.56694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73003",
+      "sipa": "2232"
+    },
+    {
+      "designacao": "Pelourinho de Paços de Ferreira",
+      "localizacao": "Paços de Ferreira",
+      "municipio": "Paços de Ferreira",
+      "latitude": 41.27806,
+      "longitude": -8.37056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74168",
+      "sipa": "493"
+    },
+    {
+      "designacao": "Pelourinho de Paçó",
+      "localizacao": "Paçó",
+      "municipio": "Vinhais",
+      "latitude": 41.86972,
+      "longitude": -6.95222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74427",
+      "sipa": "190"
+    },
+    {
+      "designacao": "Pelourinho de Pedrógão Grande",
+      "localizacao": "Pedrógão Grande",
+      "municipio": "Pedrógão Grande",
+      "latitude": 39.91667,
+      "longitude": -8.14528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71841",
+      "sipa": "1832"
+    },
+    {
+      "designacao": "Pelourinho de Pedrógão Pequeno",
+      "localizacao": "Pedrógão Pequeno",
+      "municipio": "Sertã",
+      "latitude": 39.90361,
+      "longitude": -8.1325,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73756",
+      "sipa": "573"
+    },
+    {
+      "designacao": "Pelourinho de Pena Verde",
+      "localizacao": "Pena Verde",
+      "municipio": "Aguiar da Beira",
+      "latitude": 40.72028,
+      "longitude": -7.51778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "155588",
+      "sipa": "1370"
+    },
+    {
+      "designacao": "Pelourinho de Penacova",
+      "localizacao": "Penacova",
+      "municipio": "Penacova",
+      "latitude": 40.27056,
+      "longitude": -8.27917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72904",
+      "sipa": "894"
+    },
+    {
+      "designacao": "Pelourinho de Penafiel",
+      "localizacao": "Penafiel",
+      "municipio": "Penafiel",
+      "latitude": 41.20639,
+      "longitude": -8.28389,
+      "classificacao": "Monumento Nacional",
+      "igespar": "69852",
+      "sipa": "507"
+    },
+    {
+      "designacao": "Pelourinho de Penalva de Alva",
+      "localizacao": "Penalva de Alva e São Sebastião da Feira",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.335,
+      "longitude": -7.83028,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73432",
+      "sipa": "1269"
+    },
+    {
+      "designacao": "Pelourinho de Penalva do Castelo",
+      "localizacao": "Ínsua",
+      "municipio": "Penalva do Castelo",
+      "latitude": 40.67417,
+      "longitude": -7.70083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74676",
+      "sipa": "4202"
+    },
+    {
+      "designacao": "Pelourinho de Penamacor",
+      "localizacao": "Penamacor",
+      "municipio": "Penamacor",
+      "latitude": 40.16778,
+      "longitude": -7.16778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73805",
+      "sipa": "571"
+    },
+    {
+      "designacao": "Pelourinho de Penas Róias",
+      "localizacao": "Penas Róias",
+      "municipio": "Mogadouro",
+      "latitude": 41.39306,
+      "longitude": -6.65278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74940",
+      "sipa": "777"
+    },
+    {
+      "designacao": "Pelourinho de Penedono",
+      "localizacao": "Penedono e Granja",
+      "municipio": "Penedono",
+      "latitude": 40.98944,
+      "longitude": -7.39389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73773",
+      "sipa": "4222"
+    },
+    {
+      "designacao": "Pelourinho de Penela",
+      "localizacao": "São Miguel, Santa Eufémia e Rabaçal",
+      "municipio": "Penela",
+      "latitude": 40.03028,
+      "longitude": -8.39111,
+      "classificacao": "Monumento Nacional",
+      "igespar": "69809",
+      "sipa": "1604"
+    },
+    {
+      "designacao": "Pelourinho de Penha Garcia",
+      "localizacao": "Penha Garcia",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 40.04222,
+      "longitude": -7.01667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74952",
+      "sipa": "566"
+    },
+    {
+      "designacao": "Pelourinho de Peniche",
+      "localizacao": "Peniche",
+      "municipio": "Peniche",
+      "latitude": 39.35694,
+      "longitude": -9.37833,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "30135"
+    },
+    {
+      "designacao": "Pelourinho de Percelada",
+      "localizacao": "Covas e Vila Nova de Oliveirinha",
+      "municipio": "Tábua",
+      "latitude": 40.34972,
+      "longitude": -7.92778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73754",
+      "sipa": "2595"
+    },
+    {
+      "designacao": "Pelourinho de Pias",
+      "localizacao": "Areias e Pias",
+      "municipio": "Ferreira do Zêzere",
+      "latitude": 39.71611,
+      "longitude": -8.33167,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73738",
+      "sipa": "3388"
+    },
+    {
+      "designacao": "Pelourinho de Pinheiro da Bemposta",
+      "localizacao": "Pinheiro da Bemposta, Travanca e Palmaz",
+      "municipio": "Oliveira de Azeméis",
+      "latitude": 40.79667,
+      "longitude": -8.47806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74891",
+      "sipa": "228"
+    },
+    {
+      "designacao": "Pelourinho de Pinheiro de Ázere",
+      "localizacao": "Pinheiro de Ázere",
+      "municipio": "Santa Comba Dão",
+      "latitude": 40.36194,
+      "longitude": -8.11417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73495",
+      "sipa": "2561"
+    },
+    {
+      "designacao": "Pelourinho de Pinhel",
+      "localizacao": "Pinhel",
+      "municipio": "Pinhel",
+      "latitude": 40.77556,
+      "longitude": -7.06278,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70410",
+      "sipa": "1497"
+    },
+    {
+      "designacao": "Pelourinho de Pinhovelo",
+      "localizacao": "Amendoeira",
+      "municipio": "Macedo de Cavaleiros",
+      "latitude": 41.54167,
+      "longitude": -6.99306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74757",
+      "sipa": "821"
+    },
+    {
+      "designacao": "Pelourinho de Podentes",
+      "localizacao": "Podentes",
+      "municipio": "Penela",
+      "latitude": 40.05972,
+      "longitude": -8.40139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74883",
+      "sipa": "4221"
+    },
+    {
+      "designacao": "Pelourinho de Pombal (encontra-se actualmente em fragmentos)",
+      "localizacao": "Pombal",
+      "municipio": "Pombal",
+      "latitude": 39.91556,
+      "longitude": -8.62917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73461",
+      "sipa": "3283"
+    },
+    {
+      "designacao": "Pelourinho de Pombalinho",
+      "localizacao": "Degracias e Pombalinho",
+      "municipio": "Soure",
+      "latitude": 40.0125,
+      "longitude": -8.46861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "32811442",
+      "sipa": "2646"
+    },
+    {
+      "designacao": "Pelourinho de Pombeiro da Beira / Capela de Santo António",
+      "localizacao": "Pombeiro da Beira",
+      "municipio": "Arganil",
+      "latitude": 40.22556,
+      "longitude": -8.13667,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "873"
+    },
+    {
+      "designacao": "Pelourinho de Ponte da Barca",
+      "localizacao": "Ponte da Barca, Vila Nova de Muía e Paço Vedro de Magalhães",
+      "municipio": "Ponte da Barca",
+      "latitude": 41.80861,
+      "longitude": -8.42056,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70600",
+      "sipa": "2230"
+    },
+    {
+      "designacao": "Pelourinho de Ponte de Lima",
+      "localizacao": "Arca e Ponte de Lima",
+      "municipio": "Ponte de Lima",
+      "latitude": 41.76778,
+      "longitude": -8.58333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74695",
+      "sipa": "2229"
+    },
+    {
+      "designacao": "Pelourinho de Porto de Mós",
+      "localizacao": "Porto de Mós - São João Baptista e São Pedro",
+      "municipio": "Porto de Mós",
+      "latitude": 39.6,
+      "longitude": -8.82,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72899",
+      "sipa": "3270"
+    },
+    {
+      "designacao": "Pelourinho de Pousaflores",
+      "localizacao": "Pousaflores",
+      "municipio": "Ansião",
+      "latitude": 39.86722,
+      "longitude": -8.39528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73863",
+      "sipa": "3096"
+    },
+    {
+      "designacao": "Pelourinho de Povolide",
+      "localizacao": "Povolide",
+      "municipio": "Viseu",
+      "latitude": 40.65917,
+      "longitude": -7.795,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73396",
+      "sipa": "4224"
+    },
+    {
+      "designacao": "Pelourinho de Povos",
+      "localizacao": "Vila Franca de Xira",
+      "municipio": "Vila Franca de Xira",
+      "latitude": 38.96806,
+      "longitude": -8.98472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "75022",
+      "sipa": "6395"
+    },
+    {
+      "designacao": "Pelourinho de Proença-a-Velha",
+      "localizacao": "Proença-a-Velha",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 40.02472,
+      "longitude": -7.24056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73433",
+      "sipa": "581"
+    },
+    {
+      "designacao": "Pelourinho de Provesende",
+      "localizacao": "Provesende, Gouvães do Douro e São Cristóvão do Douro",
+      "municipio": "Sabrosa",
+      "latitude": 41.21778,
+      "longitude": -7.56722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72999",
+      "sipa": "5887"
+    },
+    {
+      "designacao": "Pelourinho de Póvoa de Santa Cristina",
+      "localizacao": "Tentúgal",
+      "municipio": "Montemor-o-Velho",
+      "latitude": 40.22861,
+      "longitude": -8.6,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74009",
+      "sipa": "1007"
+    },
+    {
+      "designacao": "Pelourinho de Raiva",
+      "localizacao": "Raiva, Pedorido e Paraíso",
+      "municipio": "Castelo de Paiva",
+      "latitude": 41.03444,
+      "longitude": -8.34139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74433",
+      "sipa": "6448"
+    },
+    {
+      "designacao": "Pelourinho de Ranhados",
+      "localizacao": "Ranhados",
+      "municipio": "Mêda",
+      "latitude": 40.99361,
+      "longitude": -7.32972,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71116",
+      "sipa": "2927"
+    },
+    {
+      "designacao": "Pelourinho de Rates",
+      "localizacao": "Rates",
+      "municipio": "Póvoa de Varzim",
+      "latitude": 41.42389,
+      "longitude": -8.67222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73704",
+      "sipa": "5127"
+    },
+    {
+      "designacao": "Pelourinho de Rebordainhos",
+      "localizacao": "Rebordainhos e Pombares",
+      "municipio": "Bragança",
+      "latitude": 41.72361,
+      "longitude": -6.75083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71815",
+      "sipa": "812"
+    },
+    {
+      "designacao": "Pelourinho de Rebordãos",
+      "localizacao": "Rebordãos",
+      "municipio": "Bragança",
+      "latitude": 41.74,
+      "longitude": -6.82389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73807",
+      "sipa": "813"
+    },
+    {
+      "designacao": "Pelourinho de Redinha",
+      "localizacao": "Redinha",
+      "municipio": "Pombal",
+      "latitude": 40.00333,
+      "longitude": -8.58056,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74220",
+      "sipa": "1849"
+    },
+    {
+      "designacao": "Pelourinho de Redondo",
+      "localizacao": "Redondo",
+      "municipio": "Redondo",
+      "latitude": 38.64889,
+      "longitude": -7.54361,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73963",
+      "sipa": "1171"
+    },
+    {
+      "designacao": "Pelourinho de Redondos",
+      "localizacao": "Buarcos e São Julião",
+      "municipio": "Figueira da Foz",
+      "latitude": 40.16583,
+      "longitude": -8.87722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73664",
+      "sipa": "1295"
+    },
+    {
+      "designacao": "Pelourinho de Rosmaninhal",
+      "localizacao": "Rosmaninhal",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 39.72889,
+      "longitude": -7.08944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74230",
+      "sipa": "567"
+    },
+    {
+      "designacao": "Pelourinho de Rossas",
+      "localizacao": "Rossas",
+      "municipio": "Vieira do Minho",
+      "latitude": 41.58472,
+      "longitude": -8.09306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72971",
+      "sipa": "209"
+    },
+    {
+      "designacao": "Pelourinho de Rossão",
+      "localizacao": "Gosende",
+      "municipio": "Castro Daire",
+      "latitude": 40.98611,
+      "longitude": -7.93528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74854",
+      "sipa": "4285"
+    },
+    {
+      "designacao": "Pelourinho de Rua",
+      "localizacao": "Teixeira e Teixeiró",
+      "municipio": "Baião",
+      "latitude": 41.19194,
+      "longitude": -7.92444,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71818",
+      "sipa": "4839"
+    },
+    {
+      "designacao": "Pelourinho de Rua",
+      "localizacao": "Vila da Rua",
+      "municipio": "Moimenta da Beira",
+      "latitude": 40.94444,
+      "longitude": -7.57167,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71218",
+      "sipa": "2563"
+    },
+    {
+      "designacao": "Pelourinho de Ruivães",
+      "localizacao": "Ruivães e Campos",
+      "municipio": "Vieira do Minho",
+      "latitude": 41.67917,
+      "longitude": -8.04861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73394",
+      "sipa": "211"
+    },
+    {
+      "designacao": "Pelourinho de Sabugosa",
+      "localizacao": "São Miguel do Outeiro e Sabugosa",
+      "municipio": "Tondela",
+      "latitude": 40.57278,
+      "longitude": -8.02972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74551",
+      "sipa": "4262"
+    },
+    {
+      "designacao": "Pelourinho de Salvaterra do Extremo",
+      "localizacao": "Monfortinho e Salvaterra do Extremo",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 39.8825,
+      "longitude": -6.91417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74950",
+      "sipa": "568"
+    },
+    {
+      "designacao": "Pelourinho de Sanceriz",
+      "localizacao": "Macedo do Mato",
+      "municipio": "Bragança",
+      "latitude": 41.58611,
+      "longitude": -6.75694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74536",
+      "sipa": "814"
+    },
+    {
+      "designacao": "Pelourinho de Sanguinheda",
+      "localizacao": "São Martinho da Cortiça",
+      "municipio": "Arganil",
+      "latitude": 40.28139,
+      "longitude": -8.1225,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "30176"
+    },
+    {
+      "designacao": "Pelourinho de Santa Catarina",
+      "localizacao": "Santa Catarina",
+      "municipio": "Caldas da Rainha",
+      "latitude": 39.44722,
+      "longitude": -9.01583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74924",
+      "sipa": "1788"
+    },
+    {
+      "designacao": "Pelourinho de Santa Comba da Vilariça",
+      "localizacao": "Santa Comba de Vilariça",
+      "municipio": "Vila Flor",
+      "latitude": 41.36056,
+      "longitude": -7.06611,
+      "classificacao": "sem protecção legal",
+      "igespar": "74136",
+      "sipa": "185"
+    },
+    {
+      "designacao": "Pelourinho de Santa Comba Dão",
+      "localizacao": "Santa Comba Dão e Couto do Mosteiro",
+      "municipio": "Santa Comba Dão",
+      "latitude": 40.39667,
+      "longitude": -8.13222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72875",
+      "sipa": "4236"
+    },
+    {
+      "designacao": "Pelourinho de Santa Cruz de Riba Tâmega",
+      "localizacao": "Amarante (São Gonçalo), Madalena, Cepelos e Gatão",
+      "municipio": "Amarante",
+      "latitude": 41.25167,
+      "longitude": -8.18611,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73860",
+      "sipa": "4826"
+    },
+    {
+      "designacao": "Pelourinho de Santa Marinha",
+      "localizacao": "Santa Marinha e São Martinho",
+      "municipio": "Seia",
+      "latitude": 40.45056,
+      "longitude": -7.66361,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73916",
+      "sipa": "1515"
+    },
+    {
+      "designacao": "Pelourinho de Santa Marinha",
+      "localizacao": "Santa Marinha e São Martinho",
+      "municipio": "Seia",
+      "latitude": 40.4525,
+      "longitude": -7.66778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "2977"
+    },
+    {
+      "designacao": "Pelourinho de Santa Marta de Penaguião",
+      "localizacao": "Lobrigos (São Miguel e São João Baptista) e Sanhoane",
+      "municipio": "Santa Marta de Penaguião",
+      "latitude": 41.21028,
+      "longitude": -7.78722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73912",
+      "sipa": "5888"
+    },
+    {
+      "designacao": "Pelourinho de Santarém",
+      "localizacao": "União de Freguesias da Cidade de Santarém",
+      "municipio": "Santarém",
+      "latitude": 39.23556,
+      "longitude": -8.68,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73492",
+      "sipa": "2066"
+    },
+    {
+      "designacao": "Pelourinho de Santiago do Cacém",
+      "localizacao": "Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra",
+      "municipio": "Santiago do Cacém",
+      "latitude": 38.01528,
+      "longitude": -8.69722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73449",
+      "sipa": "2006"
+    },
+    {
+      "designacao": "Pelourinho de Sarzedas",
+      "localizacao": "Sarzedas",
+      "municipio": "Castelo Branco",
+      "latitude": 39.85028,
+      "longitude": -7.68528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73968",
+      "sipa": "838"
+    },
+    {
+      "designacao": "Pelourinho de Segura",
+      "localizacao": "Zebreira e Segura",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 39.82694,
+      "longitude": -6.97833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73368",
+      "sipa": "836"
+    },
+    {
+      "designacao": "Pelourinho de Seia",
+      "localizacao": "",
+      "municipio": "",
+      "latitude": "",
+      "longitude": "",
+      "classificacao": "",
+      "igespar": "",
+      "sipa": ""
+    },
+    {
+      "designacao": "Pelourinho de Seixo da Beira",
+      "localizacao": "Seixo da Beira",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.45806,
+      "longitude": -7.84611,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73250",
+      "sipa": "997"
+    },
+    {
+      "designacao": "Pelourinho de Sendim",
+      "localizacao": "Sendim",
+      "municipio": "Tabuaço",
+      "latitude": 41.05028,
+      "longitude": -7.53944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73985",
+      "sipa": "4208"
+    },
+    {
+      "designacao": "Pelourinho de Sernancelhe",
+      "localizacao": "Sernancelhe e Sarzeda",
+      "municipio": "Sernancelhe",
+      "latitude": 40.9,
+      "longitude": -7.49417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74898",
+      "sipa": "4982"
+    },
+    {
+      "designacao": "Pelourinho de Serpins",
+      "localizacao": "Serpins",
+      "municipio": "Lousã",
+      "latitude": 40.15833,
+      "longitude": -8.19694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72309",
+      "sipa": "970"
+    },
+    {
+      "designacao": "Pelourinho de Serém",
+      "localizacao": "Macinhata do Vouga",
+      "municipio": "Águeda",
+      "latitude": 40.65778,
+      "longitude": -8.47222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "12712556",
+      "sipa": "21600"
+    },
+    {
+      "designacao": "Pelourinho de Sesimbra",
+      "localizacao": "Santiago",
+      "municipio": "Sesimbra",
+      "latitude": 38.445,
+      "longitude": -9.09806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74809",
+      "sipa": "3446"
+    },
+    {
+      "designacao": "Pelourinho de Setúbal",
+      "localizacao": "Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",
+      "municipio": "Setúbal",
+      "latitude": 38.52361,
+      "longitude": -8.89833,
+      "classificacao": "Monumento Nacional",
+      "igespar": "69877",
+      "sipa": "3919"
+    },
+    {
+      "designacao": "Pelourinho de Sever",
+      "localizacao": "Sever",
+      "municipio": "Moimenta da Beira",
+      "latitude": 41.0075,
+      "longitude": -7.70194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "7169265",
+      "sipa": "3679"
+    },
+    {
+      "designacao": "Pelourinho de Sever do Vouga",
+      "localizacao": "Sever do Vouga",
+      "municipio": "Sever do Vouga",
+      "latitude": 40.73333,
+      "longitude": -8.37111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73765",
+      "sipa": "230"
+    },
+    {
+      "designacao": "Pelourinho de Silves",
+      "localizacao": "Silves",
+      "municipio": "Silves",
+      "latitude": 37.18861,
+      "longitude": -8.43944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74928",
+      "sipa": "2815"
+    },
+    {
+      "designacao": "Pelourinho de Silvã de Cima",
+      "localizacao": "Silvã de Cima",
+      "municipio": "Sátão",
+      "latitude": 40.72361,
+      "longitude": -7.67444,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74279",
+      "sipa": "2557"
+    },
+    {
+      "designacao": "Pelourinho de Sintra",
+      "localizacao": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
+      "municipio": "Sintra",
+      "latitude": 38.79722,
+      "longitude": -9.39028,
+      "classificacao": "Incluído em sítio classificado",
+      "igespar": "72841",
+      "sipa": "6095"
+    },
+    {
+      "designacao": "Pelourinho de Soajo",
+      "localizacao": "Soajo",
+      "municipio": "Arcos de Valdevez",
+      "latitude": 41.87389,
+      "longitude": -8.26444,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71221",
+      "sipa": "2220"
+    },
+    {
+      "designacao": "Pelourinho de Soalhães",
+      "localizacao": "Soalhães",
+      "municipio": "Marco de Canaveses",
+      "latitude": 41.1625,
+      "longitude": -8.09583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74864",
+      "sipa": "508"
+    },
+    {
+      "designacao": "Pelourinho de Sortelha",
+      "localizacao": "Sortelha",
+      "municipio": "Sabugal",
+      "latitude": 40.32861,
+      "longitude": -7.21583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72955",
+      "sipa": "2941"
+    },
+    {
+      "designacao": "Pelourinho de Sousel",
+      "localizacao": "Sousel",
+      "municipio": "Sousel",
+      "latitude": 38.95278,
+      "longitude": -7.67556,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74776",
+      "sipa": "3220"
+    },
+    {
+      "designacao": "Pelourinho de Soutelo do Douro",
+      "localizacao": "Soutelo do Douro",
+      "municipio": "São João da Pesqueira",
+      "latitude": 41.18667,
+      "longitude": -7.43306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73909",
+      "sipa": "3713"
+    },
+    {
+      "designacao": "Pelourinho de Souto",
+      "localizacao": "Souto",
+      "municipio": "Penedono",
+      "latitude": 41.01972,
+      "longitude": -7.35417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74439",
+      "sipa": "4217"
+    },
+    {
+      "designacao": "Pelourinho de Sul",
+      "localizacao": "Sul",
+      "municipio": "São Pedro do Sul",
+      "latitude": 40.83472,
+      "longitude": -8.04194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "4998"
+    },
+    {
+      "designacao": "Pelourinho de São João de Areias",
+      "localizacao": "São João de Areias",
+      "municipio": "Santa Comba Dão",
+      "latitude": 40.39361,
+      "longitude": -8.07611,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73991",
+      "sipa": "2558"
+    },
+    {
+      "designacao": "Pelourinho de São João do Monte",
+      "localizacao": "São João do Monte e Mosteirinho",
+      "municipio": "Tondela",
+      "latitude": 40.59806,
+      "longitude": -8.23528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73772",
+      "sipa": "4265"
+    },
+    {
+      "designacao": "Pelourinho de São Lourenço do Bairro",
+      "localizacao": "São Lourenço do Bairro",
+      "municipio": "Anadia",
+      "latitude": 40.43806,
+      "longitude": -8.4975,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74895",
+      "sipa": "2386"
+    },
+    {
+      "designacao": "Pelourinho de São Mamede de Ribatua",
+      "localizacao": "São Mamede de Ribatua",
+      "municipio": "Alijó",
+      "latitude": 41.25028,
+      "longitude": -7.43194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74904",
+      "sipa": "5842"
+    },
+    {
+      "designacao": "Pelourinho de São Martinho de Mouros",
+      "localizacao": "São Martinho de Mouros",
+      "municipio": "Resende",
+      "latitude": 41.10278,
+      "longitude": -7.89722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72920",
+      "sipa": "4206"
+    },
+    {
+      "designacao": "Pelourinho de São Miguel do Outeiro",
+      "localizacao": "São Miguel do Outeiro e Sabugosa",
+      "municipio": "Tondela",
+      "latitude": 40.58833,
+      "longitude": -8.02694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74042",
+      "sipa": "4216"
+    },
+    {
+      "designacao": "Pelourinho de São Nicolau",
+      "localizacao": "Marco",
+      "municipio": "Marco de Canaveses",
+      "latitude": 41.19333,
+      "longitude": -8.15944,
+      "classificacao": "Monumento Nacional",
+      "igespar": "72766",
+      "sipa": "3812"
+    },
+    {
+      "designacao": "Pelourinho de São Vicente da Beira",
+      "localizacao": "São Vicente da Beira",
+      "municipio": "Castelo Branco",
+      "latitude": 40.0375,
+      "longitude": -7.56028,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73969",
+      "sipa": "839"
+    },
+    {
+      "designacao": "Pelourinho de Tabuaço",
+      "localizacao": "Tabuaço",
+      "municipio": "Tabuaço",
+      "latitude": 41.11639,
+      "longitude": -7.56778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74518",
+      "sipa": "4214"
+    },
+    {
+      "designacao": "Pelourinho de Tarouca",
+      "localizacao": "Tarouca e Dálvares",
+      "municipio": "Tarouca",
+      "latitude": 41.0175,
+      "longitude": -7.775,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "342041",
+      "sipa": "2393"
+    },
+    {
+      "designacao": "Pelourinho de Telheira",
+      "localizacao": "Verdoejo",
+      "municipio": "Valença",
+      "latitude": 42.03556,
+      "longitude": -8.60417,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72884",
+      "sipa": "2224"
+    },
+    {
+      "designacao": "Pelourinho de Terena",
+      "localizacao": "Terena",
+      "municipio": "Alandroal",
+      "latitude": 38.62083,
+      "longitude": -7.40778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73659",
+      "sipa": "1166"
+    },
+    {
+      "designacao": "Pelourinho de Tomar",
+      "localizacao": "Tomar (São João Baptista) e Santa Maria dos Olivais",
+      "municipio": "Tomar",
+      "latitude": 39.60583,
+      "longitude": -8.41528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73892",
+      "sipa": "1971"
+    },
+    {
+      "designacao": "Pelourinho de Tondela",
+      "localizacao": "Tondela e Nandufe",
+      "municipio": "Tondela",
+      "latitude": 40.51611,
+      "longitude": -8.07944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72325",
+      "sipa": "4212"
+    },
+    {
+      "designacao": "Pelourinho de Torre de Dona Chama",
+      "localizacao": "Torre de Dona Chama",
+      "municipio": "Mirandela",
+      "latitude": 41.65222,
+      "longitude": -7.1275,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72862",
+      "sipa": "826"
+    },
+    {
+      "designacao": "Pelourinho de Torre de Moncorvo",
+      "localizacao": "Torre de Moncorvo",
+      "municipio": "Torre de Moncorvo",
+      "latitude": 41.17528,
+      "longitude": -7.05222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73348",
+      "sipa": "381"
+    },
+    {
+      "designacao": "Pelourinho de Touça",
+      "localizacao": "Touça",
+      "municipio": "Vila Nova de Foz Côa",
+      "latitude": 41.04722,
+      "longitude": -7.23389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71810",
+      "sipa": "1527"
+    },
+    {
+      "designacao": "Pelourinho de Trancoso",
+      "localizacao": "Alvarenga",
+      "municipio": "Arouca",
+      "latitude": 40.96583,
+      "longitude": -8.15694,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72373",
+      "sipa": "226"
+    },
+    {
+      "designacao": "Pelourinho de Trancoso (Trancoso)",
+      "localizacao": "Trancoso (São Pedro e Santa Maria) e Souto Maior",
+      "municipio": "Trancoso",
+      "latitude": 40.77861,
+      "longitude": -7.34889,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70500",
+      "sipa": "1520"
+    },
+    {
+      "designacao": "Pelourinho de Treixedo",
+      "localizacao": "Treixedo e Nagozela",
+      "municipio": "Santa Comba Dão",
+      "latitude": 40.43306,
+      "longitude": -8.09389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73832",
+      "sipa": "2562"
+    },
+    {
+      "designacao": "Pelourinho de Trofa",
+      "localizacao": "Trofa, Segadães e Lamas do Vouga",
+      "municipio": "Águeda",
+      "latitude": 40.61083,
+      "longitude": -8.47972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74435",
+      "sipa": "235"
+    },
+    {
+      "designacao": "Pelourinho de Turquel",
+      "localizacao": "Turquel",
+      "municipio": "Alcobaça",
+      "latitude": 39.46333,
+      "longitude": -8.97806,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "75038",
+      "sipa": "1785"
+    },
+    {
+      "designacao": "Pelourinho de Vale de Coelha",
+      "localizacao": "Malpartida e Vale de Coelha",
+      "municipio": "Almeida",
+      "latitude": 40.72361,
+      "longitude": -6.83111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73868",
+      "sipa": "1377"
+    },
+    {
+      "designacao": "Pelourinho de Vale de Prados",
+      "localizacao": "Vale de Prados",
+      "municipio": "Macedo de Cavaleiros",
+      "latitude": 41.60472,
+      "longitude": -7.14139,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73350",
+      "sipa": "822"
+    },
+    {
+      "designacao": "Pelourinho de Valença",
+      "localizacao": "Valença, Cristelo Covo e Arão",
+      "municipio": "Valença",
+      "latitude": 42.03167,
+      "longitude": -8.64472,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "70234",
+      "sipa": "413"
+    },
+    {
+      "designacao": "Pelourinho de Valença do Douro",
+      "localizacao": "Valença do Douro",
+      "municipio": "Tabuaço",
+      "latitude": 41.15944,
+      "longitude": -7.55861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74552",
+      "sipa": "4220"
+    },
+    {
+      "designacao": "Pelourinho de Valezim",
+      "localizacao": "Valezim",
+      "municipio": "Seia",
+      "latitude": 40.3575,
+      "longitude": -7.71528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73915",
+      "sipa": "2975"
+    },
+    {
+      "designacao": "Pelourinho de Valhelhas",
+      "localizacao": "Valhelhas",
+      "municipio": "Guarda",
+      "latitude": 40.40667,
+      "longitude": -7.40194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74989",
+      "sipa": "2916"
+    },
+    {
+      "designacao": "Pelourinho de Veiros",
+      "localizacao": "Veiros",
+      "municipio": "Estremoz",
+      "latitude": 38.95361,
+      "longitude": -7.50639,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73331",
+      "sipa": "3832"
+    },
+    {
+      "designacao": "Pelourinho de Viana do Alentejo",
+      "localizacao": "Viana do Alentejo",
+      "municipio": "Viana do Alentejo",
+      "latitude": 38.33278,
+      "longitude": -8.00194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73962",
+      "sipa": "1172"
+    },
+    {
+      "designacao": "Pelourinho de Vila Cova de Alva",
+      "localizacao": "Vila Cova de Alva e Anseriz",
+      "municipio": "Arganil",
+      "latitude": 40.28306,
+      "longitude": -7.94222,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "15264305",
+      "sipa": "1005"
+    },
+    {
+      "designacao": "Pelourinho de Vila Cova à Coelheira",
+      "localizacao": "Vila Cova à Coelheira",
+      "municipio": "Vila Nova de Paiva",
+      "latitude": 40.87972,
+      "longitude": -7.80389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73905",
+      "sipa": "3688"
+    },
+    {
+      "designacao": "Pelourinho de Vila da Ponte",
+      "localizacao": "Vila da Ponte",
+      "municipio": "Sernancelhe",
+      "latitude": 40.91722,
+      "longitude": -7.50972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72994",
+      "sipa": "4293"
+    },
+    {
+      "designacao": "Pelourinho de Vila do Conde",
+      "localizacao": "Vila do Conde",
+      "municipio": "Vila do Conde",
+      "latitude": 41.35389,
+      "longitude": -8.74333,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71208",
+      "sipa": "481"
+    },
+    {
+      "designacao": "Pelourinho de Vila do Touro",
+      "localizacao": "Vila do Touro",
+      "municipio": "Sabugal",
+      "latitude": 40.41639,
+      "longitude": -7.105,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73714",
+      "sipa": "1510"
+    },
+    {
+      "designacao": "Pelourinho de Vila Flor",
+      "localizacao": "Vila Flor e Nabo",
+      "municipio": "Vila Flor",
+      "latitude": 41.30694,
+      "longitude": -7.1525,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74582",
+      "sipa": "186"
+    },
+    {
+      "designacao": "Pelourinho de Vila Franca de Lampaças",
+      "localizacao": "Sendas",
+      "municipio": "Bragança",
+      "latitude": 41.6025,
+      "longitude": -6.83667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74585",
+      "sipa": "775"
+    },
+    {
+      "designacao": "Pelourinho de Vila Franca de Xira",
+      "localizacao": "Vila Franca de Xira",
+      "municipio": "Vila Franca de Xira",
+      "latitude": 38.95417,
+      "longitude": -8.98972,
+      "classificacao": "Monumento Nacional",
+      "igespar": "71112",
+      "sipa": "6396"
+    },
+    {
+      "designacao": "Pelourinho de Vila Nogueira de Azeitão",
+      "localizacao": "Azeitão (São Lourenço e São Simão)",
+      "municipio": "Setúbal",
+      "latitude": 38.51861,
+      "longitude": -9.01361,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74295",
+      "sipa": "3436"
+    },
+    {
+      "designacao": "Pelourinho de Vila Nova da Baronia",
+      "localizacao": "Vila Nova da Baronia",
+      "municipio": "Alvito",
+      "latitude": 38.28833,
+      "longitude": -8.03667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73354",
+      "sipa": "962"
+    },
+    {
+      "designacao": "Pelourinho de Vila Nova de Anços",
+      "localizacao": "Vila Nova de Anços",
+      "municipio": "Soure",
+      "latitude": 40.10972,
+      "longitude": -8.63611,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73922",
+      "sipa": "2668"
+    },
+    {
+      "designacao": "Pelourinho de Vila Nova de Cerveira",
+      "localizacao": "Vila Nova de Cerveira e Lovelhe",
+      "municipio": "Vila Nova de Cerveira",
+      "latitude": 41.94056,
+      "longitude": -8.745,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70701",
+      "sipa": "2222"
+    },
+    {
+      "designacao": "Pelourinho de Vila Nova de Gaia",
+      "localizacao": "Santa Marinha e São Pedro da Afurada",
+      "municipio": "Vila Nova de Gaia",
+      "latitude": 41.1375,
+      "longitude": -8.61972,
+      "classificacao": "sem protecção legal",
+      "igespar": "69954",
+      "sipa": "5348"
+    },
+    {
+      "designacao": "Pelourinho de Vila Nova de Souto d'El Rei",
+      "localizacao": "Vila Nova de Souto d'El-Rei",
+      "municipio": "Lamego",
+      "latitude": 41.08306,
+      "longitude": -7.82333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73833",
+      "sipa": "4278"
+    },
+    {
+      "designacao": "Pelourinho de Vila Pouca da Beira",
+      "localizacao": "Santa Ovaia e Vila Pouca da Beira",
+      "municipio": "Oliveira do Hospital",
+      "latitude": 40.30833,
+      "longitude": -7.92167,
+      "classificacao": "sem protecção legal",
+      "igespar": "",
+      "sipa": "30340"
+    },
+    {
+      "designacao": "Pelourinho de Vila Pouca de Aguiar",
+      "localizacao": "Vila Pouca de Aguiar",
+      "municipio": "Vila Pouca de Aguiar",
+      "latitude": 41.49611,
+      "longitude": -7.64333,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74442",
+      "sipa": "6013"
+    },
+    {
+      "designacao": "Pelourinho de Vila Real",
+      "localizacao": "Vila Real",
+      "municipio": "Vila Real",
+      "latitude": 41.29611,
+      "longitude": -7.74583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74846",
+      "sipa": "2472"
+    },
+    {
+      "designacao": "Pelourinho de Vila Velha de Ródão",
+      "localizacao": "Vila Velha de Ródão",
+      "municipio": "Vila Velha de Ródão",
+      "latitude": 39.65306,
+      "longitude": -7.67278,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72987",
+      "sipa": "574"
+    },
+    {
+      "designacao": "Pelourinho de Vila Viçosa",
+      "localizacao": "Nossa Senhora da Conceição e São Bartolomeu",
+      "municipio": "Vila Viçosa",
+      "latitude": 38.78056,
+      "longitude": -7.41694,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70206",
+      "sipa": "1173"
+    },
+    {
+      "designacao": "Pelourinho de Vilar Maior",
+      "localizacao": "Aldeia da Ribeira, Vilar Maior e Badamalos",
+      "municipio": "Sabugal",
+      "latitude": 40.47333,
+      "longitude": -6.93833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72852",
+      "sipa": "1509"
+    },
+    {
+      "designacao": "Pelourinho de Vilar Seco",
+      "localizacao": "Vilar Seco",
+      "municipio": "Nelas",
+      "latitude": 40.56028,
+      "longitude": -7.86528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73637",
+      "sipa": "4249"
+    },
+    {
+      "designacao": "Pelourinho de Vilar Seco",
+      "localizacao": "Vilar Seco de Lomba",
+      "municipio": "Vinhais",
+      "latitude": 41.87972,
+      "longitude": -7.17306,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73028",
+      "sipa": "2114"
+    },
+    {
+      "designacao": "Pelourinho de Vilarinho da Castanheira",
+      "localizacao": "Vilarinho da Castanheira",
+      "municipio": "Carrazeda de Ansiães",
+      "latitude": 41.20528,
+      "longitude": -7.21444,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73724",
+      "sipa": "818"
+    },
+    {
+      "designacao": "Pelourinho de Vilas Boas",
+      "localizacao": "Vilas Boas e Vilarinho das Azenhas",
+      "municipio": "Vila Flor",
+      "latitude": 41.34667,
+      "longitude": -7.19528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73668",
+      "sipa": "187"
+    },
+    {
+      "designacao": "Pelourinho de Vimioso",
+      "localizacao": "Vimioso",
+      "municipio": "Vimioso",
+      "latitude": 41.58333,
+      "longitude": -6.52917,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74746",
+      "sipa": "188"
+    },
+    {
+      "designacao": "Pelourinho de Vinhais",
+      "localizacao": "Vinhais",
+      "municipio": "Vinhais",
+      "latitude": 41.835,
+      "longitude": -7,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72315",
+      "sipa": "191"
+    },
+    {
+      "designacao": "Pelourinho de Vouzela",
+      "localizacao": "Vouzela e Paços de Vilharigues",
+      "municipio": "Vouzela",
+      "latitude": 40.72333,
+      "longitude": -8.11083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74481",
+      "sipa": "3773"
+    },
+    {
+      "designacao": "Pelourinho de Várzea da Serra",
+      "localizacao": "Várzea da Serra",
+      "municipio": "Tarouca",
+      "latitude": 40.99722,
+      "longitude": -7.82778,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73686",
+      "sipa": "4227"
+    },
+    {
+      "designacao": "Pelourinho de Zebreira",
+      "localizacao": "Zebreira e Segura",
+      "municipio": "Idanha-a-Nova",
+      "latitude": 39.845,
+      "longitude": -7.07111,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72310",
+      "sipa": "569"
+    },
+    {
+      "designacao": "Pelourinho de Água de Peixes",
+      "localizacao": "Alvito",
+      "municipio": "Alvito",
+      "latitude": 38.29861,
+      "longitude": -7.95972,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74803",
+      "sipa": "961"
+    },
+    {
+      "designacao": "Pelourinho de Águas Belas",
+      "localizacao": "Águas Belas",
+      "municipio": "Ferreira do Zêzere",
+      "latitude": 39.71194,
+      "longitude": -8.3025,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74259",
+      "sipa": "1968"
+    },
+    {
+      "designacao": "Pelourinho de Águas Revés",
+      "localizacao": "Água Revés e Crasto",
+      "municipio": "Valpaços",
+      "latitude": 41.55833,
+      "longitude": -7.34833,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72880",
+      "sipa": "5726"
+    },
+    {
+      "designacao": "Pelourinho de Ázere",
+      "localizacao": "Ázere e Covelo",
+      "municipio": "Tábua",
+      "latitude": 40.34972,
+      "longitude": -8.0925,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74949",
+      "sipa": "902"
+    },
+    {
+      "designacao": "Pelourinho de Ínfias",
+      "localizacao": "Infias",
+      "municipio": "Fornos de Algodres",
+      "latitude": 40.62944,
+      "longitude": -7.54556,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73240",
+      "sipa": "1457"
+    },
+    {
+      "designacao": "Pelourinho de Óbidos",
+      "localizacao": "Santa Maria, São Pedro e Sobral da Lagoa",
+      "municipio": "Óbidos",
+      "latitude": 39.36194,
+      "longitude": -9.15722,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70666",
+      "sipa": "4915"
+    },
+    {
+      "designacao": "Pelourinho do Burgo",
+      "localizacao": "Arouca e Burgo",
+      "municipio": "Arouca",
+      "latitude": 40.9275,
+      "longitude": -8.2675,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73085",
+      "sipa": "2387"
+    },
+    {
+      "designacao": "Pelourinho do Canal",
+      "localizacao": "Glória",
+      "municipio": "Estremoz",
+      "latitude": 38.76944,
+      "longitude": -7.60528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74198",
+      "sipa": "3936"
+    },
+    {
+      "designacao": "Pelourinho do Cartaxo",
+      "localizacao": "Cartaxo e Vale da Pinta",
+      "municipio": "Cartaxo",
+      "latitude": 39.15972,
+      "longitude": -8.78722,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74762",
+      "sipa": "1969"
+    },
+    {
+      "designacao": "Pelourinho do Couto",
+      "localizacao": "Midões",
+      "municipio": "Tábua",
+      "latitude": 40.38444,
+      "longitude": -7.94861,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "18331358",
+      "sipa": "2805"
+    },
+    {
+      "designacao": "Pelourinho do Crato",
+      "localizacao": "Crato e Mártires, Flor da Rosa e Vale do Peso",
+      "municipio": "Crato",
+      "latitude": 39.28528,
+      "longitude": -7.64556,
+      "classificacao": "Incluído em sítio classificado",
+      "igespar": "",
+      "sipa": "7365"
+    },
+    {
+      "designacao": "Pelourinho do Folhadal",
+      "localizacao": "Nelas",
+      "municipio": "Nelas",
+      "latitude": 40.51333,
+      "longitude": -7.8525,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73398",
+      "sipa": "2375"
+    },
+    {
+      "designacao": "Pelourinho do Funchal",
+      "localizacao": "Sé",
+      "municipio": "Funchal",
+      "latitude": 32.64806,
+      "longitude": -16.90528,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "30112"
+    },
+    {
+      "designacao": "Pelourinho do Fundão",
+      "localizacao": "Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",
+      "municipio": "Fundão",
+      "latitude": 40.13778,
+      "longitude": -7.50028,
+      "classificacao": "Monumento Nacional",
+      "igespar": "69816",
+      "sipa": "3915"
+    },
+    {
+      "designacao": "Pelourinho do Ladário",
+      "localizacao": "São Miguel de Vila Boa",
+      "municipio": "Sátão",
+      "latitude": 40.69778,
+      "longitude": -7.73667,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73989",
+      "sipa": "3674"
+    },
+    {
+      "designacao": "Pelourinho do Louriçal",
+      "localizacao": "Louriçal",
+      "municipio": "Pombal",
+      "latitude": 40.00333,
+      "longitude": -8.73583,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "71838",
+      "sipa": "3095"
+    },
+    {
+      "designacao": "Pelourinho do Outeiro",
+      "localizacao": "Outeiro",
+      "municipio": "Bragança",
+      "latitude": 41.68417,
+      "longitude": -6.59889,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73760",
+      "sipa": "815"
+    },
+    {
+      "designacao": "Pelourinho do Passô",
+      "localizacao": "Passô",
+      "municipio": "Moimenta da Beira",
+      "latitude": 41.01972,
+      "longitude": -7.70944,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "72328",
+      "sipa": "2372"
+    },
+    {
+      "designacao": "Pelourinho do Porto",
+      "localizacao": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "municipio": "Porto",
+      "latitude": 41.1425,
+      "longitude": -8.61194,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "",
+      "sipa": "5552"
+    },
+    {
+      "designacao": "Pelourinho do Prado",
+      "localizacao": "Vila de Prado",
+      "municipio": "Vila Verde",
+      "latitude": 41.59722,
+      "longitude": -8.46389,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74548",
+      "sipa": "212"
+    },
+    {
+      "designacao": "Pelourinho do Sabugal",
+      "localizacao": "Sabugal e Aldeia de Santo António",
+      "municipio": "Sabugal",
+      "latitude": 40.35167,
+      "longitude": -7.0925,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "73364",
+      "sipa": "1507"
+    },
+    {
+      "designacao": "Pelourinho do Sardoal",
+      "localizacao": "Sardoal",
+      "municipio": "Sardoal",
+      "latitude": 39.53306,
+      "longitude": -8.16083,
+      "classificacao": "Imóvel de Interesse Público",
+      "igespar": "74824",
+      "sipa": "2078"
+    },
+    {
+      "designacao": "Pilori de Moreira de Rei",
+      "localizacao": "Moreira de Rei",
+      "municipio": "Trancoso",
+      "latitude": 40.82889,
+      "longitude": -7.31639,
+      "classificacao": "Monumento Nacional",
+      "igespar": "70419",
+      "sipa": ""
+    }
+  ],
+  "meta": {
+    "title": "Pelourinhos de Portugal - Free Download",
+    "description": "Lista de pelourinhos em Portugal com localidade, município, coordenadas geográficas, classificação patrimonial e números de processo IGESPAR e SIPA. Contains 408 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pelourinhos de Portugal | ListBase",
+    "seo_description": "Download Pelourinhos de Portugal — 408 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 408 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_pelourinhos_localizados_em_Portugal"
+    ]
+  }
+}

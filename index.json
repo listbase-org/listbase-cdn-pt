@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-20T02:25:38.304Z",
-  "total_datasets": 584,
-  "total_records": 752938,
+  "generated": "2026-11-20T02:25:46.804Z",
+  "total_datasets": 585,
+  "total_records": 753346,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -4305,6 +4305,35 @@
         "xlsx": {
           "name": "pt-castros-portugal_PT.xlsx",
           "size": 15552
+        }
+      }
+    },
+    {
+      "id": "pt-pelourinhos-de-portugal",
+      "name": "Pelourinhos de Portugal",
+      "category": "history",
+      "record_count": 408,
+      "columns": [
+        "designacao",
+        "localizacao",
+        "municipio",
+        "latitude",
+        "longitude",
+        "classificacao",
+        "igespar",
+        "sipa"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_pelourinhos_localizados_em_Portugal",
+      "updated": "2026-11",
+      "size": 123034,
+      "files": {
+        "csv": {
+          "name": "pt-pelourinhos-de-portugal_PT.csv",
+          "size": 52972
+        },
+        "xlsx": {
+          "name": "pt-pelourinhos-de-portugal_PT.xlsx",
+          "size": 33754
         }
       }
     },
