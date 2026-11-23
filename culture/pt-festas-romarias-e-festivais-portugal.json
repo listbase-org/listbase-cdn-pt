@@ -1,0 +1,940 @@
+{
+  "id": "pt-festas-romarias-e-festivais-portugal",
+  "name": "Festas, romarias e festivais tradicionais de Portugal",
+  "title": "Festas, romarias e festivais tradicionais de Portugal",
+  "description": "Lista de festas populares, romarias, feiras e festivais realizados em Portugal, com a data aproximada, o local, o distrito ou região e uma breve descrição.",
+  "category": "culture",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_festivais,_festas_e_romarias_realizados_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_festivais,_festas_e_romarias_realizados_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "data_aproximada",
+      "label": "Data Aproximada",
+      "type": "string"
+    },
+    {
+      "key": "local",
+      "label": "Local",
+      "type": "string"
+    },
+    {
+      "key": "distrito_regiao",
+      "label": "Distrito Regiao",
+      "type": "string"
+    },
+    {
+      "key": "descricao",
+      "label": "Descricao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Feira das Colheitas",
+      "data_aproximada": "Final de setembro",
+      "local": "Arouca",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Feira e festa fundada por agricultores"
+    },
+    {
+      "nome": "Festa de Santa Joana Princesa",
+      "data_aproximada": "12 de maio",
+      "local": "Aveiro",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa em honra de Joana, Princesa de Portugal, padroeira da cidade"
+    },
+    {
+      "nome": "Festas dos Rojões",
+      "data_aproximada": "3º fim-de-semana de outubro",
+      "local": "Espinho",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa popular em honra de Nossa Senhora dos Altos-Céus e São Mamede"
+    },
+    {
+      "nome": "Romaria de Santa Eufémia",
+      "data_aproximada": "Meados de setembro",
+      "local": "Castelo de Paiva",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Romaria em honra de Santa Eufémia"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Piedade",
+      "data_aproximada": "Meados de agosto",
+      "local": "Canedo, Vale e Vila Maior",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa religiosa e pagã em honra de Nossa Senhora da Piedade"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Saúde",
+      "data_aproximada": "15 de agosto",
+      "local": "Fermedo",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa em honra de Nossa Senhora da Saúde"
+    },
+    {
+      "nome": "Festa das Fogaceiras",
+      "data_aproximada": "20 de janeiro",
+      "local": "Santa Maria da Feira",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa em honra ao mártir Sebastião de Narbona"
+    },
+    {
+      "nome": "Festa de Nossa Senhora dos Milagres",
+      "data_aproximada": "15 de agosto",
+      "local": "Cedrim",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa em honra de Nossa Senhora dos Milagres"
+    },
+    {
+      "nome": "Festa de Santa Marinha",
+      "data_aproximada": "Meados de julho",
+      "local": "Pampilhosa",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa em honra de Santa Margarida de Antioquia"
+    },
+    {
+      "nome": "Festa de Nossa Senhora de La Salette",
+      "data_aproximada": "Agosto",
+      "local": "Oliveira de Azeméis",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa em honra de Nossa Senhora de La Salette"
+    },
+    {
+      "nome": "Festas de Santo António",
+      "data_aproximada": "Junho",
+      "local": "Vale de Cambra",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Festa em honra de Santo António de Lisboa"
+    },
+    {
+      "nome": "Romaria ao Milagre de Urgueira",
+      "data_aproximada": "Meados de agosto",
+      "local": "Serra do Caramulo",
+      "distrito_regiao": "Distrito de Aveiro",
+      "descricao": "Romaria de Nossa Senhora da Guia"
+    },
+    {
+      "nome": "Festa das Santas Cruzes",
+      "data_aproximada": "Final de abril e início de maio",
+      "local": "Vila Nova de São Bento",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "Festa em honra de São Bento, padroeiro da vila"
+    },
+    {
+      "nome": "Festa de Nossa Senhora de Guadalupe",
+      "data_aproximada": "Inicia na Sexta-Feira Santa",
+      "local": "Serpa",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "Festa em honra de Nossa Senhora de Guadalupe"
+    },
+    {
+      "nome": "Festa de Nossa Senhora do Carmo",
+      "data_aproximada": "Fim-de-semana mais próximo de 16 de Julho",
+      "local": "Moura",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "Festa em honra de Nossa Senhora do Carmo"
+    },
+    {
+      "nome": "Festival Sudoeste",
+      "data_aproximada": "1ª quinzena de Agosto",
+      "local": "Zambujeira do Mar",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "É o maior festival de Verão do país"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Encarnação",
+      "data_aproximada": "2º fim-de-semana de Agosto",
+      "local": "Vila Ruiva",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "Festa em honra de Nossa Senhora da Encarnação"
+    },
+    {
+      "nome": "Festa de Pias",
+      "data_aproximada": "Último fim de semana de Agosto",
+      "local": "Serpa",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "Festa em honra de São Luís e ao Santíssimo Sacramento"
+    },
+    {
+      "nome": "Feira de Castro",
+      "data_aproximada": "3º fim-de-semana de Outubro",
+      "local": "Vila de Castro Verde",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "Fundada em 1620, é considerada como a maior feira na região Sul do país."
+    },
+    {
+      "nome": "Festa de São Sisenando",
+      "data_aproximada": "24 de Outubro",
+      "local": "Beja",
+      "distrito_regiao": "Distrito de Beja",
+      "descricao": "Festa solene em honra de São Sisenando"
+    },
+    {
+      "nome": "Semana Santa de Braga",
+      "data_aproximada": "Semana Santa",
+      "local": "Braga",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Eventos em comemoração à Semana Santa, um dos primeiros do género na Europa"
+    },
+    {
+      "nome": "Festa de São João",
+      "data_aproximada": "A partir de meados de junho",
+      "local": "Braga",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Festa em honra de São João Baptista, é o maior evento festivo do distrito"
+    },
+    {
+      "nome": "Feiras francas",
+      "data_aproximada": "16 e 17 de Maio",
+      "local": "Fafe",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Realizam-se desde os finais do século XVIII"
+    },
+    {
+      "nome": "Festa de Nossa Senhora do Sameiro",
+      "data_aproximada": "12 de junho",
+      "local": "Santuário do Sameiro, Braga",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Festa em honra de Nossa Senhora do Sameiro"
+    },
+    {
+      "nome": "Festas do Concelho",
+      "data_aproximada": "2º domingo de Julho",
+      "local": "Fafe",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Festa em honra de Nossa Senhora de Antime"
+    },
+    {
+      "nome": "Festas Gualterianas",
+      "data_aproximada": "1º fim-de-semana de Agosto",
+      "local": "Guimarães",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Festa em honra de São Gualter"
+    },
+    {
+      "nome": "Feira de Artesanato e Gastronomia de Celorico de Basto",
+      "data_aproximada": "14 a 18 de Agosto",
+      "local": "Celorico de Basto",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Evento dedicado ao artesanato e gastronomia"
+    },
+    {
+      "nome": "Romaria a São Bartolomeu do Mar",
+      "data_aproximada": "24 de Agosto",
+      "local": "Esposende",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Romaria em honra de São Bartolomeu-do-Mar com o tradicional \"Banho Santo\""
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Ajuda",
+      "data_aproximada": "2º fim-de-semana de Setembro",
+      "local": "Gilmonde (Barcelos)",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Festa em honra de Nossa Senhora da Ajuda"
+    },
+    {
+      "nome": "Romaria ao Santuário de Nossa Senhora do Alívio",
+      "data_aproximada": "2º e 3º fins-de-semana de Setembro",
+      "local": "Soutelo (Vila Verde)",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Festa e Romaria em honra de Nossa Senhora do Alívio"
+    },
+    {
+      "nome": "Agro-Basto",
+      "data_aproximada": "Setembro",
+      "local": "Cabeceiras de Basto",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Evento dedicado aos principais produtos da região, tais como: as carnes barrosãs, maronesa, cabrito das Terras altas do Minho, o vinho, o mel, os fumeiros, os produtos da quinta, o milho e a doçaria local."
+    },
+    {
+      "nome": "Festa litúrgica em honra da Beata Alexandrina",
+      "data_aproximada": "13 de Outubro",
+      "local": "Balazar",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Festa em honra de Alexandrina de Balazar"
+    },
+    {
+      "nome": "Festas Nicolinas",
+      "data_aproximada": "29 de Novembro a 7 de Dezembro",
+      "local": "Guimarães",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Tradição estudantil de Guimarães em honra de São Nicolau de Mira"
+    },
+    {
+      "nome": "Feira do Mel, das Maçãs e das Pinhas",
+      "data_aproximada": "Dezembro",
+      "local": "Vila Verde",
+      "distrito_regiao": "Distrito de Braga",
+      "descricao": "Os produtores do concelho de Vila Verde vendem os seus artigos junto à Capela de Santa Luzia"
+    },
+    {
+      "nome": "Festas de Nossa Senhora do Amparo",
+      "data_aproximada": "25 de julho-1º domingo de agosto",
+      "local": "Mirandela",
+      "distrito_regiao": "Distrito de Bragança",
+      "descricao": "Festa em honra de Nossa Senhora do Amparo criada em 1794"
+    },
+    {
+      "nome": "Festas de Nossa Senhora das Graças",
+      "data_aproximada": "11-22 de agosto",
+      "local": "Bragança",
+      "distrito_regiao": "Distrito de Bragança",
+      "descricao": "Festa em honra de Nossa Senhora das Graças"
+    },
+    {
+      "nome": "Caretos de Podence",
+      "data_aproximada": "Final do inverno e à chegada da primavera",
+      "local": "Bragança",
+      "distrito_regiao": "Distrito de Bragança",
+      "descricao": "Festival em homenagem aos Careto. É considerado Patrimônio Cultural Imaterial da Humanidade"
+    },
+    {
+      "nome": "Rural Castanea - Festa da Castanha de Vinhais",
+      "data_aproximada": "23-15 de Outubro",
+      "local": "Vinhais",
+      "distrito_regiao": "Distrito de Bragança",
+      "descricao": "Evento composto por conferências temáticas, concursos da castanha e do mel, fim-de-semana gastronómico, demonstrações culinárias e venda de produtos endógenos"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora do Incenso",
+      "data_aproximada": "Segunda-feira de Páscoa",
+      "local": "Penamacor",
+      "distrito_regiao": "Distrito de Castelo Branco",
+      "descricao": "O santuário localiza-se a cerca de 2 km da vila de Penamacor, a poente, junto à estrada Fundão / Covilhã"
+    },
+    {
+      "nome": "Festa de Nossa Senhora do Fastio e Nossa Senhora do Bom Parto",
+      "data_aproximada": "Domingo de Pascoela",
+      "local": "Enxames",
+      "distrito_regiao": "Distrito de Castelo Branco",
+      "descricao": "Grande romaria celebrada no Domingo de Pascoela e na Segunda-feira seguinte e que atrai muitos romeiros da região da Cova da Beira"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora do Bom Sucesso",
+      "data_aproximada": "2º Domingo depois da Páscoa",
+      "local": "Penamacor",
+      "distrito_regiao": "Distrito de Castelo Branco",
+      "descricao": "Também conhecida como romaria da Senhora da Ribeira da Bazágueda, o seu santuário situa-se a cerca de 12 km de Penamacor, seguindo pela estrada que liga a povoação penamacorense a Espanha"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora da Quebrada",
+      "data_aproximada": "6º Domingo depois da Páscoa",
+      "local": "Benquerença",
+      "distrito_regiao": "Distrito de Castelo Branco",
+      "descricao": "Celebrada primitivamente na Quinta Feira da Ascenção, a sua ermida está situada num outeiro a 1,5 km da povoação, junto à estrada do Anascer"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora da Póvoa",
+      "data_aproximada": "Segunda Feira do Espírito Santo (50 dias após a da Páscoa)",
+      "local": "Vale da Senhora da Póvoa",
+      "distrito_regiao": "Distrito de Castelo Branco",
+      "descricao": "É a mais conhecida romaria do concelho de Penamacor e uma das mais maiores da Beira Baixa. O santuário situa-se no sopé da serra d'Opa, a cerca de 1,5 km da aldeia do Vale da Senhora da Póvoa. O arraial decorre de Sábado a Segunda-feira"
+    },
+    {
+      "nome": "Romaria de Santa Luzia",
+      "data_aproximada": "15 de setembro",
+      "local": "Castelejo",
+      "distrito_regiao": "Distrito de Castelo Branco",
+      "descricao": "É considerada a maior manifestação religiosa da Cova da Beira e o ponto alto da cultura religiosa e popular no concelho do Fundão"
+    },
+    {
+      "nome": "Festa do Queijo Serra da Estrela de Oliveira do Hospital",
+      "data_aproximada": "Março",
+      "local": "Oliveira do Hospital",
+      "distrito_regiao": "Distrito de Coimbra",
+      "descricao": "Festa dedicada aos queijos Serra da Estrela e produtos regionais"
+    },
+    {
+      "nome": "Festas de São Mateus",
+      "data_aproximada": "Setembro",
+      "local": "Soure",
+      "distrito_regiao": "Distrito de Coimbra",
+      "descricao": "Feira franca, uma das mais antigas e tradicionais do país"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora de Aires",
+      "data_aproximada": "4º fim-de-semana de Abril",
+      "local": "Viana do Alentejo",
+      "distrito_regiao": "Distrito de Évora",
+      "descricao": "Romaria a cavalo até ao Santuário de Nossa Senhora de Aires seguida de grandiosa procissão"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora da Boa Nova",
+      "data_aproximada": "Domingo e Segunda-Feira de Pascoela",
+      "local": "Terena (Alandroal)",
+      "distrito_regiao": "Distrito de Évora",
+      "descricao": "Romaria anual ao Santuário de Nossa Senhora da Boa Nova"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Bondade",
+      "data_aproximada": "16 de Fevereiro",
+      "local": "São Marcos da Serra",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa anual em honra de Nossa Senhora Mãe da Bondade com encontro de oração e procissão"
+    },
+    {
+      "nome": "Feira dos Enchidos Tradicionais",
+      "data_aproximada": "1º fim-de-semana de Março",
+      "local": "Monchique",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Feira de salsicharia artesanal serrana derivada de carne de porco preto e produzida segundo os métodos tradicionais da região"
+    },
+    {
+      "nome": "Feira do Folar",
+      "data_aproximada": "Páscoa",
+      "local": "São Marcos da Serra",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Feira de promoção do \"Folar da Páscoa\": um doce e perfumado bolo, com canela e erva-doce, decorado com ovos inteiros"
+    },
+    {
+      "nome": "Feira do Folar e da Doçaria de Odeceixe",
+      "data_aproximada": "Páscoa",
+      "local": "Odeceixe",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Feira que apresenta as tradições e os sabores da Páscoa na região do Algarve"
+    },
+    {
+      "nome": "Festa das Tochas Floridas",
+      "data_aproximada": "Domingo de Páscoa",
+      "local": "São Brás de Alportel",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Procissão da Ressurreição de Cristo com desfile de tochas floridas"
+    },
+    {
+      "nome": "Festa dos Folares",
+      "data_aproximada": "Segunda-feira de Páscoa",
+      "local": "Querença",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Graça"
+    },
+    {
+      "nome": "Festa da Mãe Soberana",
+      "data_aproximada": "2º Domingo depois da Páscoa",
+      "local": "Loulé",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Piedade"
+    },
+    {
+      "nome": "Festa do 1º de Maio",
+      "data_aproximada": "Dia 1 de Maio",
+      "local": "Alte",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa na Fonte Grande com cortejo de oferendas, designado por cavalhada"
+    },
+    {
+      "nome": "Festa da Espiga",
+      "data_aproximada": "Quinta-Feira da Ascensão (40 dias após a Páscoa)",
+      "local": "Salir",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra da Ascensão de Jesus ao Céu. Cortejo etnográfico e actuação de grupos folclóricos"
+    },
+    {
+      "nome": "Festival da Caldeirada e do Mar",
+      "data_aproximada": "Final de Maio ou início de Junho",
+      "local": "Armação de Pêra",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festival da gastronomia armacenense com destaque para a caldeirada"
+    },
+    {
+      "nome": "Festa de Santo António",
+      "data_aproximada": "13 de Junho (ou data próxima à festa litúrgica do santo)",
+      "local": "Mexilhoeira da Carregação",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Santo António de Lisboa"
+    },
+    {
+      "nome": "Festa de Nossa Senhora do Carmo",
+      "data_aproximada": "16 de Julho (e no Domingo mais próximo)",
+      "local": "Fuzeta",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora do Carmo"
+    },
+    {
+      "nome": "Festa de Santo António",
+      "data_aproximada": "Meados do mês de Julho",
+      "local": "Marmelete",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Santo António de Lisboa"
+    },
+    {
+      "nome": "Festa dos Pescadores da Arrifana",
+      "data_aproximada": "Último fim-de-semana de Julho",
+      "local": "Portinho da Arrifana",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa tradicional, organizada pelos pescadores da Arrifana, que conta com cerimónias religiosas, comes e bebes e muita animação"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Rocha",
+      "data_aproximada": "1º Domingo de Agosto",
+      "local": "Alporchinhos (Porches)",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Rocha"
+    },
+    {
+      "nome": "Feira Medieval de Silves",
+      "data_aproximada": "1ª Quinzena de Agosto",
+      "local": "Silves",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Feira em Silves que recria como viviam os mouros e os cristãos na Idade Média"
+    },
+    {
+      "nome": "Festa de São Romão",
+      "data_aproximada": "1º Domingo de Agosto",
+      "local": "Alferce",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de São Romão"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Orada",
+      "data_aproximada": "2º Domingo de Agosto",
+      "local": "Albufeira",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Orada"
+    },
+    {
+      "nome": "Festa de Nossa Senhora dos Navegantes",
+      "data_aproximada": "2º Domingo de Agosto",
+      "local": "Armação de Pêra",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora dos Navegantes"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Assunção",
+      "data_aproximada": "15 de Agosto",
+      "local": "Alte",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Assunção"
+    },
+    {
+      "nome": "Festa de Nossa Senhora dos Mártires",
+      "data_aproximada": "15 de Agosto",
+      "local": "Castro Marim",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora dos Mártires"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Conceição",
+      "data_aproximada": "15 de Agosto",
+      "local": "Ferragudo",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Conceição"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Piedade",
+      "data_aproximada": "15 de Agosto",
+      "local": "Odeceixe",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Piedade"
+    },
+    {
+      "nome": "Festa de Nossa Senhora das Dores",
+      "data_aproximada": "3º Domingo de Agosto",
+      "local": "Pêra",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora das Dores"
+    },
+    {
+      "nome": "Festa de Nossa Senhora d'Alva",
+      "data_aproximada": "29 de Agosto",
+      "local": "Aljezur",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Alva, em Aljezur, e Banho 29 (tradição centenária de ir a banhos de \"água benta\", leia-se mar, na praia de Monte Clérigos)"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Encarnação",
+      "data_aproximada": "Último Domingo de Agosto",
+      "local": "Praia do Carvoeiro",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Encarnação"
+    },
+    {
+      "nome": "Festa de São Tiago e de Nossa Senhora das Dores",
+      "data_aproximada": "1º Domingo de Setembro",
+      "local": "Estômbar",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de São Tiago e de Nossa Senhora das Dores"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Encarnação",
+      "data_aproximada": "1º Domingo de Setembro",
+      "local": "Porches",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Encarnação"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Luz",
+      "data_aproximada": "8 de Setembro",
+      "local": "Lagoa",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Luz"
+    },
+    {
+      "nome": "Festa de Nossa Senhora dos Aflitos",
+      "data_aproximada": "2º Domingo de Setembro",
+      "local": "Armação de Pêra",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora dos Aflitos e de Santo António das Areias"
+    },
+    {
+      "nome": "Festa de Nossa Senhora das Dores",
+      "data_aproximada": "15 de Setembro (ou próxima desta data)",
+      "local": "Monte Gordo",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora das Dores"
+    },
+    {
+      "nome": "Festa de Nossa Senhora das Dores e São Luís",
+      "data_aproximada": "17 de Setembro (ou no Domingo mais próximo)",
+      "local": "Alte",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora das Dores e de São Luís"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Saúde",
+      "data_aproximada": "19 de Setembro (ou data próxima)",
+      "local": "São Bartolomeu de Messines",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Saúde"
+    },
+    {
+      "nome": "Festa de São Francisco de Assis",
+      "data_aproximada": "4 de Outubro (ou data próxima à festa litúrgica do santo)",
+      "local": "Parchal",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de São Francisco de Assis"
+    },
+    {
+      "nome": "Festa de São Gonçalo de Lagos",
+      "data_aproximada": "Último domingo de Outubro",
+      "local": "Lagos",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de São Gonçalo de Lagos"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Conceição",
+      "data_aproximada": "7 e 8 de Dezembro",
+      "local": "Quarteira",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Conceição"
+    },
+    {
+      "nome": "Feira de São Martinho",
+      "data_aproximada": "11 de Novembro (e outros dias próximos a esta data)",
+      "local": "Portimão",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Evento popular com as tradicionais castanhas assadas"
+    },
+    {
+      "nome": "Festival da Batata-Doce de Aljezur",
+      "data_aproximada": "Último fim-de-semana de novembro",
+      "local": "Aljezur",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Celebração da comunidade e uma homenagem aos agricultores e produtores locais de batata-doce"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Conceição",
+      "data_aproximada": "7 e 8 de Dezembro",
+      "local": "Quarteira",
+      "distrito_regiao": "Distrito de Faro",
+      "descricao": "Festa em honra de Nossa Senhora da Conceição"
+    },
+    {
+      "nome": "Festa da Castanha",
+      "data_aproximada": "Outubro",
+      "local": "Folgosinho, Gouveia",
+      "distrito_regiao": "Distrito da Guarda",
+      "descricao": "Festa dedicada à castanha e soutos"
+    },
+    {
+      "nome": "Feira do Queijo",
+      "data_aproximada": "Fevereiro",
+      "local": "Seia",
+      "distrito_regiao": "Distrito da Guarda",
+      "descricao": "Festa dedicada à promoção do Queijo Serra da Estrela"
+    },
+    {
+      "nome": "Feira do Queijo",
+      "data_aproximada": "Fevereiro-Março",
+      "local": "Celorico da Beira",
+      "distrito_regiao": "Distrito da Guarda",
+      "descricao": "Festa dedicada à promoção do Queijo Serra da Estrela"
+    },
+    {
+      "nome": "Feira do Queijo Serra da Estrela",
+      "data_aproximada": "Março",
+      "local": "Fornos de Algodres",
+      "distrito_regiao": "Distrito da Guarda",
+      "descricao": "Festa dedicada à promoção do Queijo Serra da Estrela"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Ajuda",
+      "data_aproximada": "De 5 a 9 de Setembro",
+      "local": "Malhada Sorda",
+      "distrito_regiao": "Distrito da Guarda",
+      "descricao": "Romaria ao Santuário de Nossa Senhora da Ajuda"
+    },
+    {
+      "nome": "Festa de São Vicente",
+      "data_aproximada": "3º Domingo de Janeiro",
+      "local": "Campo (Caldas da Rainha)",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de São Vicente"
+    },
+    {
+      "nome": "Festa de São Vicente",
+      "data_aproximada": "Final de Janeiro",
+      "local": "Montes (Alcobaça)",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de São Vicente"
+    },
+    {
+      "nome": "Festa de Santo Antão",
+      "data_aproximada": "Final de Janeiro",
+      "local": "Bufarda (Atouguia da Baleia)",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de Santo Antão"
+    },
+    {
+      "nome": "Feira dos Pinhões",
+      "data_aproximada": "Último fim-de-semana de Janeiro",
+      "local": "Ansião",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Feira centenária dedicada aos produtores e vendedores de pinhões, a qual inclui bastante animação e concertos de música portuguesa"
+    },
+    {
+      "nome": "Festa de Santa Maria",
+      "data_aproximada": "Domingo mais próximo ao dia 2 de fevereiro",
+      "local": "Arrimal",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de Santa Maria"
+    },
+    {
+      "nome": "Festa de São Brás",
+      "data_aproximada": "Domingo mais próximo ao dia 2 de fevereiro",
+      "local": "Outeiro do Louriçal",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de São Brás e de Nossa Senhora das Candeias"
+    },
+    {
+      "nome": "Festa de Nossa Senhora da Luz e São Brás",
+      "data_aproximada": "1º Domingo de Fevereiro",
+      "local": "Casal Fernão João",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de Nossa Senhora da Luz e São Brás"
+    },
+    {
+      "nome": "Festa de Nossa Senhora de Fátima",
+      "data_aproximada": "1º Domingo de Maio",
+      "local": "Casal Fernão João",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de Nossa Senhora de Fátima"
+    },
+    {
+      "nome": "Festa de Nossa Senhora das Dores",
+      "data_aproximada": "Domingo anterior ao dia 8 de Setembro",
+      "local": "Casal Fernão João",
+      "distrito_regiao": "Distrito de Leiria",
+      "descricao": "Festa em honra de Nossa Senhora das Dores"
+    },
+    {
+      "nome": "Procissão do Senhor dos Passos da Graça",
+      "data_aproximada": "2º Domingo da Quaresma",
+      "local": "Lisboa",
+      "distrito_regiao": "Distrito de Lisboa",
+      "descricao": "É uma das mais antigas e importantes procissões religiosas que se realiza anualmente na cidade de Lisboa"
+    },
+    {
+      "nome": "Procissão de Nossa Senhora da Saúde",
+      "data_aproximada": "1º Domingo de Maio",
+      "local": "Lisboa",
+      "distrito_regiao": "Distrito de Lisboa",
+      "descricao": "É a mais antiga procissão religiosa que se realiza anualmente na cidade de Lisboa"
+    },
+    {
+      "nome": "Festas Populares de Santo António de Lisboa",
+      "data_aproximada": "12 e 13 de Junho",
+      "local": "Lisboa",
+      "distrito_regiao": "Distrito de Lisboa",
+      "descricao": "Festa dedicada ao santo popular português, Santo António de Lisboa. Existem celebrações religiosas na Igreja de Santo António, desfiles de marchas na Avenida da Liberdade e grandes arraiais noturnos pelos bairros da cidade"
+    },
+    {
+      "nome": "Festa das Adiafas",
+      "data_aproximada": "Outubro",
+      "local": "Cadaval",
+      "distrito_regiao": "Distrito de Lisboa",
+      "descricao": "Festa dedicada à gastronomia, exposições, espetáculos e atividades equestres"
+    },
+    {
+      "nome": "Festas do Povo",
+      "data_aproximada": "Agosto-Setembro de 4 em 4 anos",
+      "local": "Campo Maior",
+      "distrito_regiao": "Distrito de Portalegre",
+      "descricao": "Festa em que a vila é decorada com flores de papel"
+    },
+    {
+      "nome": "Feira de Doçaria Conventual",
+      "data_aproximada": "Maio",
+      "local": "Amarante",
+      "distrito_regiao": "Distrito do Porto",
+      "descricao": "Feira com o objetivo de fazer reviver as tradições, promover e vender os doces produzidos nesta região"
+    },
+    {
+      "nome": "Festa da Beata Irmã Maria do Divino Coração",
+      "data_aproximada": "8 de Junho",
+      "local": "Ermesinde",
+      "distrito_regiao": "Distrito do Porto",
+      "descricao": "Peregrinação anual à Igreja do Sagrado Coração de Jesus (ou Igreja das Irmãs do Bom Pastor)"
+    },
+    {
+      "nome": "Feira dos Capões de Freamunde",
+      "data_aproximada": "13 de Dezembro (Dia de Santa Luzia)",
+      "local": "Freamunde",
+      "distrito_regiao": "Distrito do Porto",
+      "descricao": "Festa dedicada ao capão"
+    },
+    {
+      "nome": "Festas em Honra do Divino Salvador",
+      "data_aproximada": "3º Domingo de Julho",
+      "local": "Paredes",
+      "distrito_regiao": "Distrito do Porto",
+      "descricao": "Festa com a participação de 32 andores que atrai milhares de fiéis"
+    },
+    {
+      "nome": "Feira Tradicional de São Brás",
+      "data_aproximada": "9 de Fevereiro",
+      "local": "Ferreira do Zêzere",
+      "distrito_regiao": "Distrito de Santarém",
+      "descricao": "Feira anual com recriação das feiras dos anos 30. Inclui a Mostra da Tigelada"
+    },
+    {
+      "nome": "Corrida e Caminhada pela Paz",
+      "data_aproximada": "Mês de Março",
+      "local": "Fátima",
+      "distrito_regiao": "Distrito de Santarém",
+      "descricao": "Corrida e caminhada solidária anual que percorre a distância de 10 km e de 5 km, respetivamente, e atravessa os lugares da Cova da Iria, dos Valinhos e da aldeia de Aljustrel"
+    },
+    {
+      "nome": "Peregrinação anual ao Santuário de Fátima",
+      "data_aproximada": "12 e 13 de Maio (e a 12 e 13 de Outubro)",
+      "local": "Cova da Iria, Fátima",
+      "distrito_regiao": "Distrito de Santarém",
+      "descricao": "Peregrinação internacional (inclui peregrinos a pé) até à Capelinha das Aparições de Nossa Senhora de Fátima. Dia 12, procissão de velas à noite; Dia 13, procissão do adeus à Virgem Maria"
+    },
+    {
+      "nome": "Festa dos tabuleiros",
+      "data_aproximada": "Primeira semana de Julho (de 4 em 4 anos)",
+      "local": "Tomar",
+      "distrito_regiao": "Distrito de Santarém",
+      "descricao": "Festa em honra do Espírito Santo e que inclui um desfile ou procissão com tabuleiros ornamentados"
+    },
+    {
+      "nome": "Festa da Aleluia",
+      "data_aproximada": "12 a 15 de Agosto",
+      "local": "Cem soldos, Tomar",
+      "distrito_regiao": "Distrito de Santarém",
+      "descricao": "Festival Bons Sons"
+    },
+    {
+      "nome": "Feira dos Frutos Secos e Passados",
+      "data_aproximada": "Outubro",
+      "local": "Torres Novas",
+      "distrito_regiao": "Distrito de Santarém",
+      "descricao": "Festa dedicada aos frutos secos"
+    },
+    {
+      "nome": "Feira de Santa Iria",
+      "data_aproximada": "16 a 25 de Outubro",
+      "local": "Tomar",
+      "distrito_regiao": "Distrito de Santarém",
+      "descricao": "Feira anual, que inclui a Feira das Passas"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora da Agonia",
+      "data_aproximada": "20 de Agosto (e dias em torno desta data)",
+      "local": "Viana do Castelo",
+      "distrito_regiao": "Distrito de Viana do Castelo",
+      "descricao": "Uma das maiores romarias de Portugal. Festas em honra de Nossa Senhora da Agonia"
+    },
+    {
+      "nome": "Romaria de Nossa Senhora da Peneda",
+      "data_aproximada": "Entre 31 de Agosto e 8 de Setembro",
+      "local": "Gavieira (Arcos de Valdevez)",
+      "distrito_regiao": "Distrito de Viana do Castelo",
+      "descricao": "Em honra de Nossa Senhora da Peneda, é considerada uma das mais concorridas romarias de Portugal, e envolve peregrinos portugueses e galegos"
+    },
+    {
+      "nome": "Feiras Novas",
+      "data_aproximada": "Setembro",
+      "local": "Ponte de Lima",
+      "distrito_regiao": "Distrito de Viana do Castelo",
+      "descricao": "Em honra de Nossa Senhora das Dores."
+    },
+    {
+      "nome": "Feira do Linho",
+      "data_aproximada": "1 a 4 de agosto",
+      "local": "Ribeira de Pena",
+      "distrito_regiao": "Distrito de Vila Real",
+      "descricao": "Mostra de produtos locais"
+    },
+    {
+      "nome": "Feira da Terra",
+      "data_aproximada": "4 a 7 de Agosto",
+      "local": "Mondim de Basto",
+      "distrito_regiao": "Distrito de Vila Real",
+      "descricao": "Festa dedicada promoção dos recursos e potencialidades do concelho"
+    },
+    {
+      "nome": "Peregrinação ao Santuário de Nossa Senhora da Graça",
+      "data_aproximada": "1º Domingo de Setembro",
+      "local": "Monte Farinha, Mondim de Basto",
+      "distrito_regiao": "Distrito de Vila Real",
+      "descricao": "Festa anual em honra e louvor de Nossa Senhora da Graça"
+    },
+    {
+      "nome": "Romaria ao Santuário do Senhor dos Caminhos",
+      "data_aproximada": "8º Domingo depois da Páscoa (coincidindo com o Domingo da Santíssima Trindade)",
+      "local": "Romãs (Sátão)",
+      "distrito_regiao": "Distrito de Viseu",
+      "descricao": "Grandiosa festa em honra de Jesus Cristo sob o título de \"Senhor dos Caminhos\""
+    },
+    {
+      "nome": "Peregrinações ao Santuário de Nossa Senhora da Lapa",
+      "data_aproximada": "A 10 de Junho, a 15 de Agosto e no 1º Domingo de Setembro",
+      "local": "Quintela (Sernancelhe)",
+      "distrito_regiao": "Distrito de Viseu",
+      "descricao": "Peregrinações em honra de Nossa Senhora da Lapa que são precedidas de novenas, funcionam como retiro aberto e são muito concorridas"
+    },
+    {
+      "nome": "Feira de São Mateus",
+      "data_aproximada": "Data variável (no período de Verão)",
+      "local": "Viseu",
+      "distrito_regiao": "Distrito de Viseu",
+      "descricao": "É considerada a maior e mais antiga feira do País"
+    },
+    {
+      "nome": "Festa da Castanha de Sernancelhe",
+      "data_aproximada": "Outubro",
+      "local": "Sernancelhe",
+      "distrito_regiao": "Distrito de Viseu",
+      "descricao": "Festa dedicada à marca Terra da Castanha"
+    }
+  ],
+  "meta": {
+    "title": "Festas, romarias e festivais tradicionais de Portugal - Free Download",
+    "description": "Lista de festas populares, romarias, feiras e festivais realizados em Portugal, com a data aproximada, o local, o distrito ou região e uma breve descrição. Contains 127 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Festas, romarias e festivais tradicionais de Portugal | ListBase",
+    "seo_description": "Download Festas, romarias e festivais tradicionais de Portugal — 127 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 127 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_festivais,_festas_e_romarias_realizados_em_Portugal"
+    ]
+  }
+}

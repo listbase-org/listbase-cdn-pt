@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-23T02:41:59.522Z",
-  "total_datasets": 586,
-  "total_records": 754010,
+  "generated": "2026-11-23T02:42:08.489Z",
+  "total_datasets": 587,
+  "total_records": 754137,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -415,6 +415,32 @@
         "xlsx": {
           "name": "pt-br-santos-beatos-veneraveis_PT.xlsx",
           "size": 19847
+        }
+      }
+    },
+    {
+      "id": "pt-festas-romarias-e-festivais-portugal",
+      "name": "Festas, romarias e festivais tradicionais de Portugal",
+      "category": "culture",
+      "record_count": 127,
+      "columns": [
+        "nome",
+        "data_aproximada",
+        "local",
+        "distrito_regiao",
+        "descricao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_festivais,_festas_e_romarias_realizados_em_Portugal",
+      "updated": "2026-11",
+      "size": 37801,
+      "files": {
+        "csv": {
+          "name": "pt-festas-romarias-e-festivais-portugal_PT.csv",
+          "size": 21287
+        },
+        "xlsx": {
+          "name": "pt-festas-romarias-e-festivais-portugal_PT.xlsx",
+          "size": 15761
         }
       }
     },
