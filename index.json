@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-20T02:25:46.804Z",
-  "total_datasets": 585,
-  "total_records": 753346,
+  "generated": "2026-11-23T02:41:59.522Z",
+  "total_datasets": 586,
+  "total_records": 754010,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -4752,6 +4752,30 @@
         "xlsx": {
           "name": "pt-presidentes-supremo-tribunal-justica_PT.xlsx",
           "size": 9618
+        }
+      }
+    },
+    {
+      "id": "pt-bandas-filarmonicas-e-orquestras-portugal",
+      "name": "Bandas filarmónicas e orquestras de Portugal",
+      "category": "music",
+      "record_count": 664,
+      "columns": [
+        "designacao",
+        "ano_fundacao",
+        "localizacao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_orquestras_em_Portugal",
+      "updated": "2026-11",
+      "size": 99248,
+      "files": {
+        "csv": {
+          "name": "pt-bandas-filarmonicas-e-orquestras-portugal_PT.csv",
+          "size": 47166
+        },
+        "xlsx": {
+          "name": "pt-bandas-filarmonicas-e-orquestras-portugal_PT.xlsx",
+          "size": 29483
         }
       }
     },

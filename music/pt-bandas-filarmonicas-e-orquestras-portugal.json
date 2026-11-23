@@ -1,0 +1,3361 @@
+{
+  "id": "pt-bandas-filarmonicas-e-orquestras-portugal",
+  "name": "Bandas filarmónicas e orquestras de Portugal",
+  "title": "Bandas filarmónicas e orquestras de Portugal",
+  "description": "Lista de bandas de música, filarmónicas e orquestras portuguesas com o ano de fundação e a localidade (freguesia ou concelho) onde estão sediadas.",
+  "category": "music",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_orquestras_em_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_orquestras_em_Portugal",
+  "updated": "2026-11",
+  "record_count": 664,
+  "columns": [
+    {
+      "key": "designacao",
+      "label": "Designacao",
+      "type": "string"
+    },
+    {
+      "key": "ano_fundacao",
+      "label": "Ano Fundacao",
+      "type": "number"
+    },
+    {
+      "key": "localizacao",
+      "label": "Localizacao",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "designacao": "Banda de Música de Santiago de Riba-Ul",
+      "ano_fundacao": 1722,
+      "localizacao": "Freguesia de Santiago de Riba-Ul"
+    },
+    {
+      "designacao": "Banda de Música de Aboím da Nóbrega",
+      "ano_fundacao": 1735,
+      "localizacao": "Aboim da Nóbrega e Gondomar"
+    },
+    {
+      "designacao": "Banda Musical de Figueiredo",
+      "ano_fundacao": 1741,
+      "localizacao": "Arouca e Burgo"
+    },
+    {
+      "designacao": "Banda Musical do Pontido",
+      "ano_fundacao": 1765,
+      "localizacao": "Telões Vila Pouca de Aguiar"
+    },
+    {
+      "designacao": "Sociedade Artística Musical Fafense",
+      "ano_fundacao": 1770,
+      "localizacao": "Cepães e Fareja"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Mões",
+      "ano_fundacao": 1771,
+      "localizacao": "Mões"
+    },
+    {
+      "designacao": "Banda Musical de Oliveira",
+      "ano_fundacao": 1782,
+      "localizacao": "Oliveira"
+    },
+    {
+      "designacao": "Banda Musical de Monção",
+      "ano_fundacao": 1792,
+      "localizacao": "Monção"
+    },
+    {
+      "designacao": "Banda Filarmónica de S. Mamede de Ribatua",
+      "ano_fundacao": 1799,
+      "localizacao": "São Mamede de Ribatua"
+    },
+    {
+      "designacao": "Banda Musical de Parafita",
+      "ano_fundacao": 1800,
+      "localizacao": "Parafita"
+    },
+    {
+      "designacao": "Banda de Música de Arrifana",
+      "ano_fundacao": 1803,
+      "localizacao": "Arrifana"
+    },
+    {
+      "designacao": "Banda de Música da Lixa",
+      "ano_fundacao": 1807,
+      "localizacao": "Lixa"
+    },
+    {
+      "designacao": "Associação Filarmónica União Verridense",
+      "ano_fundacao": 1808,
+      "localizacao": "Freguesia de Verride"
+    },
+    {
+      "designacao": "Banda Recreativa Portomosense",
+      "ano_fundacao": 1808,
+      "localizacao": "Porto de Mós - São João Baptista e São Pedro Porto de Mós"
+    },
+    {
+      "designacao": "Filarmónica União Santa Cruz",
+      "ano_fundacao": 1809,
+      "localizacao": "Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo"
+    },
+    {
+      "designacao": "Banda de Música de Mateus",
+      "ano_fundacao": 1810,
+      "localizacao": "Mateus Vila Real"
+    },
+    {
+      "designacao": "Banda Marcial de Bairros",
+      "ano_fundacao": 1810,
+      "localizacao": "Freguesia de Bairros"
+    },
+    {
+      "designacao": "Associação Cultural Desportiva Paulense",
+      "ano_fundacao": 1815,
+      "localizacao": "Paul"
+    },
+    {
+      "designacao": "Associação Cultural Banda de Música de Riba de Ave",
+      "ano_fundacao": 1816,
+      "localizacao": "Riba de Ave"
+    },
+    {
+      "designacao": "Banda de Música da Associação Humanitária de Bombeiros Voluntários de Torres Vedras",
+      "ano_fundacao": 1818,
+      "localizacao": "Santa Maria, São Pedro e Matacães"
+    },
+    {
+      "designacao": "Banda Cabeceirense",
+      "ano_fundacao": 1820,
+      "localizacao": "Cabeceiras de Basto"
+    },
+    {
+      "designacao": "Associação Filarmónica e Banda Juvenil de Magueija (AFBJM)",
+      "ano_fundacao": 1820,
+      "localizacao": "Freguesia de Magueija"
+    },
+    {
+      "designacao": "Filarmónica de Santa Comba Dão",
+      "ano_fundacao": 1820,
+      "localizacao": "Freguesia de Santa Comba Dão Santa Comba Dão"
+    },
+    {
+      "designacao": "Associação Musical de Freamunde",
+      "ano_fundacao": 1822,
+      "localizacao": "Freamunde"
+    },
+    {
+      "designacao": "Banda Musical de Arouca",
+      "ano_fundacao": 1825,
+      "localizacao": "Freguesia de Arouca Arouca"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Louriçalense",
+      "ano_fundacao": 1825,
+      "localizacao": "Louriçal"
+    },
+    {
+      "designacao": "Banda Velha União Sanjoanense",
+      "ano_fundacao": 1826,
+      "localizacao": "Freguesia de São João de Loure Albergaria-a-Velha"
+    },
+    {
+      "designacao": "Banda Musical de Loivos",
+      "ano_fundacao": 1826,
+      "localizacao": "Loivos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Tinalhas",
+      "ano_fundacao": 1828,
+      "localizacao": "Tinalhas"
+    },
+    {
+      "designacao": "Filarmónica União Sertaginense",
+      "ano_fundacao": 1830,
+      "localizacao": "Sertã Sertã"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Amizade Visconde de Alcácer",
+      "ano_fundacao": 1830,
+      "localizacao": "Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana"
+    },
+    {
+      "designacao": "Banda Musical da Casa do Povo de Vilarandelo",
+      "ano_fundacao": 1830,
+      "localizacao": "Vilarandelo"
+    },
+    {
+      "designacao": "Associação Filarmónica de Tarouca",
+      "ano_fundacao": 1830,
+      "localizacao": "Freguesia de Tarouca"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Salzedas",
+      "ano_fundacao": 1830,
+      "localizacao": "Salzedas"
+    },
+    {
+      "designacao": "Banda Musical Leverense",
+      "ano_fundacao": 1832,
+      "localizacao": "Freguesia de Lever"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa da Cidade de Espinho",
+      "ano_fundacao": 1834,
+      "localizacao": "Espinho"
+    },
+    {
+      "designacao": "Banda Amizade",
+      "ano_fundacao": 1834,
+      "localizacao": "Aveiro"
+    },
+    {
+      "designacao": "Banda Musical de Caldas das Taipas",
+      "ano_fundacao": 1834,
+      "localizacao": "Caldelas"
+    },
+    {
+      "designacao": "Banda de Música Bombeiros Voluntários Castro Daire",
+      "ano_fundacao": 1834,
+      "localizacao": "Castro Daire"
+    },
+    {
+      "designacao": "Associação de Cultura Musical Cetense",
+      "ano_fundacao": 1835,
+      "localizacao": "Cete"
+    },
+    {
+      "designacao": "Filarmónica Gafanhense",
+      "ano_fundacao": 1836,
+      "localizacao": "Gafanha da Nazaré Gafanha da Nazaré"
+    },
+    {
+      "designacao": "Banda Musical de São Martinho da Gandra",
+      "ano_fundacao": 1836,
+      "localizacao": "Gandra"
+    },
+    {
+      "designacao": "Banda Musical Velha de Barroselas",
+      "ano_fundacao": 1837,
+      "localizacao": "Freguesia de Barroselas"
+    },
+    {
+      "designacao": "Banda Marcial de Gueifães da Maia",
+      "ano_fundacao": 1837,
+      "localizacao": "Freguesia da Maia"
+    },
+    {
+      "designacao": "Banda Musical da Casa do Povo de Tangil",
+      "ano_fundacao": 1838,
+      "localizacao": "Tangil"
+    },
+    {
+      "designacao": "Banda Musical de Carvalheira",
+      "ano_fundacao": 1839,
+      "localizacao": "Carvalheira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica 1º de Dezembro da Encarnação",
+      "ano_fundacao": 1840,
+      "localizacao": "Encarnação"
+    },
+    {
+      "designacao": "Sociedade Cubense 1º de Dezembro",
+      "ano_fundacao": 1840,
+      "localizacao": "Cuba"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Luzitana",
+      "ano_fundacao": 1840,
+      "localizacao": "Estremoz (Santa Maria e Santo André)"
+    },
+    {
+      "designacao": "Banda de Música da Portela",
+      "ano_fundacao": 1840,
+      "localizacao": "Folhadela"
+    },
+    {
+      "designacao": "Associação da Banda de Música da Casa Povo São Cipriano",
+      "ano_fundacao": 1840,
+      "localizacao": "São Cipriano"
+    },
+    {
+      "designacao": "Filarmónica Sangianense",
+      "ano_fundacao": 1842,
+      "localizacao": "São Gião"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Figueirense",
+      "ano_fundacao": 1842,
+      "localizacao": "Figueira da Foz"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Ferreirense",
+      "ano_fundacao": 1842,
+      "localizacao": "Ferreira do Zêzere"
+    },
+    {
+      "designacao": "ACMA - Associação Cultural Musical de Avintes",
+      "ano_fundacao": 1842,
+      "localizacao": "Avintes"
+    },
+    {
+      "designacao": "Banda Musical de Cabreiros",
+      "ano_fundacao": 1843,
+      "localizacao": "Cabreiros e Passos (São Julião)"
+    },
+    {
+      "designacao": "Filarmónica do Crato",
+      "ano_fundacao": 1844,
+      "localizacao": "Crato"
+    },
+    {
+      "designacao": "Sociedade Musical Nisense",
+      "ano_fundacao": 1844,
+      "localizacao": "Nisa"
+    },
+    {
+      "designacao": "Banda Marcial de Ancede",
+      "ano_fundacao": 1845,
+      "localizacao": "Ancede"
+    },
+    {
+      "designacao": "Sociedade Musical Estrela da Beira",
+      "ano_fundacao": 1846,
+      "localizacao": "Santa Marinha e São Martinho"
+    },
+    {
+      "designacao": "Banda Triunfo",
+      "ano_fundacao": 1846,
+      "localizacao": "Ribeira Grande (Matriz)"
+    },
+    {
+      "designacao": "Banda Aliança de Pinho - Vila Maior",
+      "ano_fundacao": 1846,
+      "localizacao": "Vila Maior"
+    },
+    {
+      "designacao": "Associação Banda de Música de Moreira da Maia",
+      "ano_fundacao": 1847,
+      "localizacao": "Moreira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Incrível Almadense",
+      "ano_fundacao": 1848,
+      "localizacao": "Almada, Cova da Piedade, Pragal e Cacilhas"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Democrática Timbre Seixalense",
+      "ano_fundacao": 1848,
+      "localizacao": "Seixal, Arrentela e Aldeia de Paio Pires"
+    },
+    {
+      "designacao": "Sociedade da Banda Musical de Souto",
+      "ano_fundacao": 1849,
+      "localizacao": "Freguesia de São Miguel de Souto"
+    },
+    {
+      "designacao": "Associação Filarmónica Cultural Ericeira",
+      "ano_fundacao": 1849,
+      "localizacao": "Ericeira"
+    },
+    {
+      "designacao": "Sociedade Musical Banda Lanhelense",
+      "ano_fundacao": 1850,
+      "localizacao": "Lanhelas"
+    },
+    {
+      "designacao": "Sociedade Musical Instrução e Recreio Figueiroense - Filarmónica Figueiroense",
+      "ano_fundacao": 1850,
+      "localizacao": "Figueiró dos Vinhos e Bairradas"
+    },
+    {
+      "designacao": "Banda Musical de Calvos",
+      "ano_fundacao": 1850,
+      "localizacao": "Calvos e Frades"
+    },
+    {
+      "designacao": "Banda Municipal do Funchal",
+      "ano_fundacao": 1850,
+      "localizacao": "Funchal"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Cartaxense",
+      "ano_fundacao": 1850,
+      "localizacao": "Freguesia de Cartaxo"
+    },
+    {
+      "designacao": "Associação da Banda de Música de Nogueira",
+      "ano_fundacao": 1850,
+      "localizacao": "Freguesia de Nogueira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Palmelense \"Loureiros\"",
+      "ano_fundacao": 1852,
+      "localizacao": "Palmela Palmela"
+    },
+    {
+      "designacao": "Banda Filarmónica de Amares",
+      "ano_fundacao": 1853,
+      "localizacao": "Amares e Figueiredo"
+    },
+    {
+      "designacao": "Banda Marcial de Nespereira",
+      "ano_fundacao": 1853,
+      "localizacao": "Nespereira"
+    },
+    {
+      "designacao": "Banda Musical Progressiva de Vila Cova à Coelheira",
+      "ano_fundacao": 1853,
+      "localizacao": "Vila Cova à Coelheira"
+    },
+    {
+      "designacao": "Banda Musical de Amarante",
+      "ano_fundacao": 1854,
+      "localizacao": "Amarante"
+    },
+    {
+      "designacao": "Sociedade Boa União Alhadense",
+      "ano_fundacao": 1854,
+      "localizacao": "Alhadas"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Fafense",
+      "ano_fundacao": 1854,
+      "localizacao": "Fafe"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Popular da Ribeira Seca",
+      "ano_fundacao": 1854,
+      "localizacao": "Ribeira Seca"
+    },
+    {
+      "designacao": "Sociedade Filarmónica 1º de Dezembro",
+      "ano_fundacao": 1854,
+      "localizacao": "Montijo e Afonsoeiro"
+    },
+    {
+      "designacao": "Associação de Cultura Musical de Lousada",
+      "ano_fundacao": 1855,
+      "localizacao": "Silvares, Pias, Nogueira e Alvarenga"
+    },
+    {
+      "designacao": "Associação Filarmónica Fidelidade de Aldeia das Dez",
+      "ano_fundacao": 1856,
+      "localizacao": "Aldeia das Dez"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União e Progresso de Abrigada",
+      "ano_fundacao": 1856,
+      "localizacao": "Freguesia de Abrigada"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Perpétua Azeitonense",
+      "ano_fundacao": 1856,
+      "localizacao": "Azeitão (São Lourenço e São Simão)"
+    },
+    {
+      "designacao": "Banda Música de Seia",
+      "ano_fundacao": 1857,
+      "localizacao": "Seia, São Romão e Lapa dos Dinheiros"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Paionense",
+      "ano_fundacao": 1858,
+      "localizacao": "Paião"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Penelense",
+      "ano_fundacao": 1858,
+      "localizacao": "Penela"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Artista Faialense",
+      "ano_fundacao": 1858,
+      "localizacao": "Horta"
+    },
+    {
+      "designacao": "Sociedade Musical e Recreio Popular de Paderne",
+      "ano_fundacao": 1859,
+      "localizacao": "Paderne"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Carvalhense",
+      "ano_fundacao": 1859,
+      "localizacao": "Carvalhal"
+    },
+    {
+      "designacao": "Banda Musical de Paços de Ferreira",
+      "ano_fundacao": 1859,
+      "localizacao": "Paços de Ferreira"
+    },
+    {
+      "designacao": "Filarmónica Vaguense",
+      "ano_fundacao": 1860,
+      "localizacao": "Freguesia de Vagos Vagos"
+    },
+    {
+      "designacao": "Centro Popular dos Trabalhadores da Ribaldeira",
+      "ano_fundacao": 1860,
+      "localizacao": "Dois Portos e Runa"
+    },
+    {
+      "designacao": "Associação Recreativa e Musical de Vilela",
+      "ano_fundacao": 1860,
+      "localizacao": "Vilela"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Montemorense \"Carlista\"",
+      "ano_fundacao": 1861,
+      "localizacao": "Montemor-o-Novo"
+    },
+    {
+      "designacao": "Filarmónica Eco Edificante",
+      "ano_fundacao": 1861,
+      "localizacao": "Nordeste"
+    },
+    {
+      "designacao": "Associação Recreativa-Cultural e Musical do Concelho de Sabrosa",
+      "ano_fundacao": 1861,
+      "localizacao": "Sabrosa"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa de Vila Flor",
+      "ano_fundacao": 1862,
+      "localizacao": "Vila Flor"
+    },
+    {
+      "designacao": "Sociedade Euterpe Alhandrense",
+      "ano_fundacao": 1862,
+      "localizacao": "Alhandra"
+    },
+    {
+      "designacao": "Filarmónica União Sardoalense",
+      "ano_fundacao": 1862,
+      "localizacao": "Sardoal"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Maçaense",
+      "ano_fundacao": 1862,
+      "localizacao": "Freguesia de Mação"
+    },
+    {
+      "designacao": "Sociedade Musical Odivelense",
+      "ano_fundacao": 1863,
+      "localizacao": "Odivelas Odivelas"
+    },
+    {
+      "designacao": "Banda de Música de São João da Madeira",
+      "ano_fundacao": 1863,
+      "localizacao": "São João da Madeira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Pedroguense",
+      "ano_fundacao": 1863,
+      "localizacao": "Pedrógão Grande"
+    },
+    {
+      "designacao": "Banda de Música da Associação Humanitária dos Bombeiros Voluntários do Zambujal",
+      "ano_fundacao": 1863,
+      "localizacao": "Loures"
+    },
+    {
+      "designacao": "Banda Recreativa de Bucelas",
+      "ano_fundacao": 1863,
+      "localizacao": "Bucelas"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Fraternidade Rural",
+      "ano_fundacao": 1863,
+      "localizacao": "Água de Pau"
+    },
+    {
+      "designacao": "Sociedade Recreativa Filarmónica Fundação Brasileira",
+      "ano_fundacao": 1863,
+      "localizacao": "Mosteiros"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lobelhense",
+      "ano_fundacao": 1863,
+      "localizacao": "Freguesia de Lobelhe do Mato"
+    },
+    {
+      "designacao": "Banda Musical de Gondomar",
+      "ano_fundacao": 1863,
+      "localizacao": "Gondomar"
+    },
+    {
+      "designacao": "Banda Filarmónica de Mogadouro",
+      "ano_fundacao": 1864,
+      "localizacao": "Mogadouro"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Liberdade Lajense",
+      "ano_fundacao": 1864,
+      "localizacao": "Lajes do Pico"
+    },
+    {
+      "designacao": "Sociedade Musical Harmónica Furnense",
+      "ano_fundacao": 1864,
+      "localizacao": "Furnas"
+    },
+    {
+      "designacao": "Centro Recreativo e Musical de Outeiro Grande",
+      "ano_fundacao": 1864,
+      "localizacao": "Outeiro Grande"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Humanitária",
+      "ano_fundacao": 1864,
+      "localizacao": "Palmela Palmela"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical Bingre Canelense",
+      "ano_fundacao": 1865,
+      "localizacao": "Canelas"
+    },
+    {
+      "designacao": "Banda Boa União – Música Velha",
+      "ano_fundacao": 1865,
+      "localizacao": "Manteigas (Santa Maria) Manteigas"
+    },
+    {
+      "designacao": "Banda Musical de Freixo de Numão",
+      "ano_fundacao": 1865,
+      "localizacao": "Freixo de Numão"
+    },
+    {
+      "designacao": "Sociedade Musical Euterpe",
+      "ano_fundacao": 1866,
+      "localizacao": "Portalegre"
+    },
+    {
+      "designacao": "Banda União Musical Pessegueirense",
+      "ano_fundacao": 1866,
+      "localizacao": "Pessegueiro do Vouga"
+    },
+    {
+      "designacao": "Sociedade de Recreio Filarmónica Avoense",
+      "ano_fundacao": 1866,
+      "localizacao": "Avô"
+    },
+    {
+      "designacao": "SFFC - Sociedade Filarmónica Fraternidade de Carnaxide",
+      "ano_fundacao": 1866,
+      "localizacao": "Carnaxide"
+    },
+    {
+      "designacao": "Filarmónica Nossa Senhora das Neves",
+      "ano_fundacao": 1866,
+      "localizacao": "Relva"
+    },
+    {
+      "designacao": "Associação de Instrução e Recreio Angejense",
+      "ano_fundacao": 1867,
+      "localizacao": "Angeja"
+    },
+    {
+      "designacao": "Banda Lealdade",
+      "ano_fundacao": 1867,
+      "localizacao": "Vila Franca do Campo (São Miguel)"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lira do Norte",
+      "ano_fundacao": 1867,
+      "localizacao": "Rabo de Peixe"
+    },
+    {
+      "designacao": "Sociedade Musical Alegretense",
+      "ano_fundacao": 1867,
+      "localizacao": "Alegrete"
+    },
+    {
+      "designacao": "Conservatório Artes e Comunicação - Filarmónica União de Oliveira do Bairro",
+      "ano_fundacao": 1867,
+      "localizacao": "Oliveira do Bairro"
+    },
+    {
+      "designacao": "Associação Filarmónica Artística Pombalense",
+      "ano_fundacao": 1867,
+      "localizacao": "Pombal Pombal"
+    },
+    {
+      "designacao": "Sociedade Musical Capricho Setubalense",
+      "ano_fundacao": 1867,
+      "localizacao": "Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)"
+    },
+    {
+      "designacao": "Banda Marcial de Fermentelos",
+      "ano_fundacao": 1868,
+      "localizacao": "Fermentelos"
+    },
+    {
+      "designacao": "Associação Filarmónica Progresso Pátria Nova de Coja",
+      "ano_fundacao": 1868,
+      "localizacao": "Freguesia de Coja"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Covões",
+      "ano_fundacao": 1868,
+      "localizacao": "Freguesia de Covões"
+    },
+    {
+      "designacao": "Filarmónica União Taveirense",
+      "ano_fundacao": 1869,
+      "localizacao": "Taveiro"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Quiaiense",
+      "ano_fundacao": 1869,
+      "localizacao": "Quiaios"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Clube União",
+      "ano_fundacao": 1869,
+      "localizacao": "Topo (Nossa Senhora do Rosário)"
+    },
+    {
+      "designacao": "Filarmónica Ressureição de Mira",
+      "ano_fundacao": 1870,
+      "localizacao": "Mira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Calipolense",
+      "ano_fundacao": 1870,
+      "localizacao": "Vila Viçosa"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Veirense",
+      "ano_fundacao": 1870,
+      "localizacao": "Veiros"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Bendadense",
+      "ano_fundacao": 1870,
+      "localizacao": "Bendada"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Estrela do Norte",
+      "ano_fundacao": 1870,
+      "localizacao": "Fenais da Ajuda"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Matense",
+      "ano_fundacao": 1870,
+      "localizacao": "Chancelaria"
+    },
+    {
+      "designacao": "Banda Marcial de Murça",
+      "ano_fundacao": 1870,
+      "localizacao": "Murça"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Seixalense",
+      "ano_fundacao": 1871,
+      "localizacao": "Freguesia de Seixal Seixal"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Artística Estremocense",
+      "ano_fundacao": 1871,
+      "localizacao": "Estremoz (Santa Maria e Santo André)"
+    },
+    {
+      "designacao": "Banda dos Bombeiros Voluntários de Esposende, São Paio de Antas",
+      "ano_fundacao": 1871,
+      "localizacao": "Antas"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Benaventense",
+      "ano_fundacao": 1871,
+      "localizacao": "Benavente"
+    },
+    {
+      "designacao": "Banda Filarmónica 1º de Janeiro Carragozela",
+      "ano_fundacao": 1872,
+      "localizacao": "Carragozela e Várzea de Meruge"
+    },
+    {
+      "designacao": "Filarmónica de Monte Redondo \"Senhora da Piedade\"",
+      "ano_fundacao": 1872,
+      "localizacao": "Freguesia de Monte Redondo"
+    },
+    {
+      "designacao": "Banda Distrital do Funchal \"Os Guerrilhas\"",
+      "ano_fundacao": 1872,
+      "localizacao": "Funchal"
+    },
+    {
+      "designacao": "Banda Municipal de Câmara de Lobos",
+      "ano_fundacao": 1872,
+      "localizacao": "Freguesia de Câmara de Lobos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Arrentelense",
+      "ano_fundacao": 1872,
+      "localizacao": "Freguesia de Arrentela Seixal"
+    },
+    {
+      "designacao": "Associação Humanitária e Cultural de Abrunhosa-a-Velha",
+      "ano_fundacao": 1872,
+      "localizacao": "Abrunhosa-a-Velha"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Cabanas de Viriato",
+      "ano_fundacao": 1872,
+      "localizacao": "Cabanas de Viriato"
+    },
+    {
+      "designacao": "Associação Cultural, Artística Desportiva de Vila Boa de Quires",
+      "ano_fundacao": 1872,
+      "localizacao": "Freguesia de Vila Boa de Quires"
+    },
+    {
+      "designacao": "Filarmónica Recreativa de Aveiras de Cima",
+      "ano_fundacao": 1873,
+      "localizacao": "Aveiras de Cima"
+    },
+    {
+      "designacao": "Banda Filarmónica de Fornos de Algodres",
+      "ano_fundacao": 1873,
+      "localizacao": "Fornos de Algodres"
+    },
+    {
+      "designacao": "Sociedade Artística Musical dos Pousos – SAMP",
+      "ano_fundacao": 1873,
+      "localizacao": "Pousos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio Serretense",
+      "ano_fundacao": 1873,
+      "localizacao": "Serreta"
+    },
+    {
+      "designacao": "Banda Operária Torrejana",
+      "ano_fundacao": 1873,
+      "localizacao": "Torres Novas (Santa Maria, Salvador e Santiago) Torres Novas"
+    },
+    {
+      "designacao": "Banda Clube Pardilhoense",
+      "ano_fundacao": 1874,
+      "localizacao": "Pardilhó"
+    },
+    {
+      "designacao": "Filarmónica Fraternidade Poiarense",
+      "ano_fundacao": 1874,
+      "localizacao": "Vila Nova de Poiares"
+    },
+    {
+      "designacao": "Banda Municipal Paulense",
+      "ano_fundacao": 1874,
+      "localizacao": "Paul do Mar"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio Alverquense",
+      "ano_fundacao": 1874,
+      "localizacao": "Alverca do Ribatejo"
+    },
+    {
+      "designacao": "Sociedade Banda Republicana Marcial Nabantina",
+      "ano_fundacao": 1874,
+      "localizacao": "Tomar (São João Baptista) e Santa Maria dos Olivais"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Pedroguense",
+      "ano_fundacao": 1874,
+      "localizacao": "Pedrógão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Fraternidade de São João de Areias",
+      "ano_fundacao": 1875,
+      "localizacao": "São João de Areias"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Maceirense",
+      "ano_fundacao": 1875,
+      "localizacao": "Maceira"
+    },
+    {
+      "designacao": "Sociedade Musical de Moçâmedes",
+      "ano_fundacao": 1875,
+      "localizacao": "Freguesia de São Miguel do Mato"
+    },
+    {
+      "designacao": "Filarmónica Gratidão Riotortense",
+      "ano_fundacao": 1875,
+      "localizacao": "Rio Torto e Lagarinhos"
+    },
+    {
+      "designacao": "Sociedade de Instrução Recreativa Musical Argense",
+      "ano_fundacao": 1875,
+      "localizacao": "Olaia e Paço"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Artistas de Minerva",
+      "ano_fundacao": 1876,
+      "localizacao": "Loulé (São Sebastião)"
+    },
+    {
+      "designacao": "Sociedade Artística e Musical de Cinfães",
+      "ano_fundacao": 1876,
+      "localizacao": "Cinfães Cinfães"
+    },
+    {
+      "designacao": "Associação BMR - Banda Musical Rerizense",
+      "ano_fundacao": 1876,
+      "localizacao": "Reriz"
+    },
+    {
+      "designacao": "Associação Recreativa Filarmónica Popular Manteiguense – Música Nova",
+      "ano_fundacao": 1877,
+      "localizacao": "Manteigas (São Pedro)"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreativa Pataiense",
+      "ano_fundacao": 1877,
+      "localizacao": "Pataias e Martingança"
+    },
+    {
+      "designacao": "Banda Municipal da Ribeira Brava",
+      "ano_fundacao": 1877,
+      "localizacao": "Ribeira Brava Ribeira Brava"
+    },
+    {
+      "designacao": "Sociedade Recreativa Filarmónica Santíssimo Salvador do Mundo",
+      "ano_fundacao": 1877,
+      "localizacao": "Ribeirinha"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Instrução e Recreio dos Artistas",
+      "ano_fundacao": 1877,
+      "localizacao": "Angra do Heroísmo"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Instrução e Recreio de Santa Bárbara",
+      "ano_fundacao": 1877,
+      "localizacao": "Santa Bárbara"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Gualdim Pais",
+      "ano_fundacao": 1877,
+      "localizacao": "Tomar (São João Baptista) e Santa Maria dos Olivais Tomar"
+    },
+    {
+      "designacao": "Associação da Banda Musical de Gouviães",
+      "ano_fundacao": 1877,
+      "localizacao": "Freguesia de Gouviães"
+    },
+    {
+      "designacao": "Sociedade Filarmónica, Recreativa e Beneficente Vilanovense",
+      "ano_fundacao": 1878,
+      "localizacao": "Vila Nova de Anços"
+    },
+    {
+      "designacao": "Sociedade Artística e Musical Cortesense",
+      "ano_fundacao": 1878,
+      "localizacao": "Cortes"
+    },
+    {
+      "designacao": "Sociedade Recreativa Filarmónica Estrela do Oriente",
+      "ano_fundacao": 1878,
+      "localizacao": "Algarvia"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical Vilanovense",
+      "ano_fundacao": 1878,
+      "localizacao": "Vila Nova de Anços"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Progresso Matos Galamba",
+      "ano_fundacao": 1879,
+      "localizacao": "Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana"
+    },
+    {
+      "designacao": "Banda Filarmónica Caseguense",
+      "ano_fundacao": 1879,
+      "localizacao": "Casegas e Ourondo"
+    },
+    {
+      "designacao": "Phylarmonica Ançanense - Associação Musical",
+      "ano_fundacao": 1879,
+      "localizacao": "Ançã"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical de Moimenta da Serra",
+      "ano_fundacao": 1879,
+      "localizacao": "Moimenta da Serra e Vinhó"
+    },
+    {
+      "designacao": "Banda União dos Amigos",
+      "ano_fundacao": 1879,
+      "localizacao": "Capelas"
+    },
+    {
+      "designacao": "Sociedade Altarense do Sagrado Coração de Jesus",
+      "ano_fundacao": 1879,
+      "localizacao": "Altares"
+    },
+    {
+      "designacao": "Sociedade Filarmónica 10 de Agosto",
+      "ano_fundacao": 1880,
+      "localizacao": "Figueira da Foz"
+    },
+    {
+      "designacao": "Filarmónica Amizade de Arcozelo da Serra",
+      "ano_fundacao": 1880,
+      "localizacao": "Arcozelo"
+    },
+    {
+      "designacao": "Filarmónica de Santiago de Marrazes",
+      "ano_fundacao": 1880,
+      "localizacao": "Marrazes e Barosa"
+    },
+    {
+      "designacao": "Banda de Música da Associação dos Bombeiros Voluntários \"Progresso Barcarenense\"",
+      "ano_fundacao": 1880,
+      "localizacao": "Barcarena"
+    },
+    {
+      "designacao": "Sociedade Instrução Musical Escolar Cruz Quebradense",
+      "ano_fundacao": 1880,
+      "localizacao": "Cruz Quebrada - Dafundo"
+    },
+    {
+      "designacao": "Sociedade Musical e Desportiva de Caneças",
+      "ano_fundacao": 1880,
+      "localizacao": "Caneças"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Providência",
+      "ano_fundacao": 1880,
+      "localizacao": "Azeitão (São Lourenço e São Simão)"
+    },
+    {
+      "designacao": "Banda de Música da Casa do Povo de Moreira do Lima",
+      "ano_fundacao": 1880,
+      "localizacao": "Freguesia de Moreira do Lima"
+    },
+    {
+      "designacao": "Sociedade Musical de Arcos de Valdevez",
+      "ano_fundacao": 1880,
+      "localizacao": "Arcos de Valdevez"
+    },
+    {
+      "designacao": "Sociedade Musical Vouzelense",
+      "ano_fundacao": 1880,
+      "localizacao": "Freguesia de Vouzela"
+    },
+    {
+      "designacao": "Sociedade Musical Harmonia Pinheirense",
+      "ano_fundacao": 1881,
+      "localizacao": "Freguesia de Pinheiro da Bemposta"
+    },
+    {
+      "designacao": "Filarmónica Intrução e Recreio de Abrunheira",
+      "ano_fundacao": 1881,
+      "localizacao": "Freguesia de Abrunheira"
+    },
+    {
+      "designacao": "Banda da Escola de Música de Montargil",
+      "ano_fundacao": 1881,
+      "localizacao": "Montargil"
+    },
+    {
+      "designacao": "Banda União Artística de Castelo de Vide",
+      "ano_fundacao": 1881,
+      "localizacao": "Castelo de Vide"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Nova Artista Flamenguense",
+      "ano_fundacao": 1881,
+      "localizacao": "Flamengos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Unânime Praiense",
+      "ano_fundacao": 1881,
+      "localizacao": "Praia do Almoxarife"
+    },
+    {
+      "designacao": "Sociedade Musical 5 de outubro",
+      "ano_fundacao": 1881,
+      "localizacao": "Freguesia de Aldeia de Paio Pires"
+    },
+    {
+      "designacao": "Banda Marcial de Cambres",
+      "ano_fundacao": 1881,
+      "localizacao": "Cambres"
+    },
+    {
+      "designacao": "Banda Musical de São Cipriano \"A Nova\"",
+      "ano_fundacao": 1881,
+      "localizacao": "São Cipriano"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Ermegeirense",
+      "ano_fundacao": 1882,
+      "localizacao": "Maxial e Monte Redondo"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Vizelense",
+      "ano_fundacao": 1882,
+      "localizacao": "Caldas de Vizela (São Miguel e São João)"
+    },
+    {
+      "designacao": "Banda Municipal da Ponta do Sol",
+      "ano_fundacao": 1882,
+      "localizacao": "Ponta do Sol"
+    },
+    {
+      "designacao": "Associação Sociedade Filarmónica 1º Dezembro 1882 de Pragança",
+      "ano_fundacao": 1882,
+      "localizacao": "Pragança"
+    },
+    {
+      "designacao": "Banda de Música de Vila do Conde",
+      "ano_fundacao": 1882,
+      "localizacao": "Vila do Conde"
+    },
+    {
+      "designacao": "Filarmónica Severense",
+      "ano_fundacao": 1883,
+      "localizacao": "Sever do Vouga Sever do Vouga"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Moncorvense",
+      "ano_fundacao": 1883,
+      "localizacao": "Torre de Moncorvo"
+    },
+    {
+      "designacao": "Banda Harmonia Mosteirense",
+      "ano_fundacao": 1883,
+      "localizacao": "Mosteiros"
+    },
+    {
+      "designacao": "Filarmónica Verdi Cambrense",
+      "ano_fundacao": 1883,
+      "localizacao": "Cambra"
+    },
+    {
+      "designacao": "Banda de Música de Belmonte",
+      "ano_fundacao": 1884,
+      "localizacao": "Belmonte e Colmeal da Torre"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Maiorguense",
+      "ano_fundacao": 1884,
+      "localizacao": "Maiorga"
+    },
+    {
+      "designacao": "Sociedade União Musical das Fontinhas",
+      "ano_fundacao": 1884,
+      "localizacao": "Fontinhas"
+    },
+    {
+      "designacao": "Sociedade Velha Filarmónica Riachense",
+      "ano_fundacao": 1884,
+      "localizacao": "Riachos"
+    },
+    {
+      "designacao": "Banda Filarmónica de Ribafeita",
+      "ano_fundacao": 1884,
+      "localizacao": "Ribafeita"
+    },
+    {
+      "designacao": "Associação Recreativa e Cultural de Sambade",
+      "ano_fundacao": 1885,
+      "localizacao": "Sambade"
+    },
+    {
+      "designacao": "Sociedade União Alcaçovense",
+      "ano_fundacao": 1885,
+      "localizacao": "Alcáçovas"
+    },
+    {
+      "designacao": "Sociedade Musical e Recreativa Obidense",
+      "ano_fundacao": 1885,
+      "localizacao": "Óbidos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Harmonia de São Pedro do Sul",
+      "ano_fundacao": 1885,
+      "localizacao": "Freguesia de São Pedro do Sul"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União e Capricho Olivalense",
+      "ano_fundacao": 1886,
+      "localizacao": "Olivais Lisboa"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Harmonia Reguenguense",
+      "ano_fundacao": 1886,
+      "localizacao": "Reguengos de Monsaraz"
+    },
+    {
+      "designacao": "Banda da Associação Humanitária dos Bombeiros Voluntários de Alcoentre",
+      "ano_fundacao": 1886,
+      "localizacao": "Alcoentre"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreativa e Musical União Sebastianense",
+      "ano_fundacao": 1886,
+      "localizacao": "Vila de São Sebastião"
+    },
+    {
+      "designacao": "Sociedade Artística e Musical Carvalhense",
+      "ano_fundacao": 1887,
+      "localizacao": "Lavos"
+    },
+    {
+      "designacao": "Banda Municipal de Santa Cruz",
+      "ano_fundacao": 1887,
+      "localizacao": "Santa Cruz"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Estrela D'Alva",
+      "ano_fundacao": 1887,
+      "localizacao": "Santa Cruz"
+    },
+    {
+      "designacao": "Filarmónica Idanhense",
+      "ano_fundacao": 1888,
+      "localizacao": "Idanha-a-Nova e Alcafozes"
+    },
+    {
+      "designacao": "Associação Social, Cultural, Recreativa e Desportiva de Pínzio",
+      "ano_fundacao": 1888,
+      "localizacao": "Pínzio"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Progresso do Norte",
+      "ano_fundacao": 1888,
+      "localizacao": "Rabo de Peixe"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lira Fraternidade Calhetense",
+      "ano_fundacao": 1888,
+      "localizacao": "Calheta de Nesquim"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Samorense",
+      "ano_fundacao": 1888,
+      "localizacao": "Samora Correia"
+    },
+    {
+      "designacao": "Banda de Música de Carregosa",
+      "ano_fundacao": 1889,
+      "localizacao": "Carregosa"
+    },
+    {
+      "designacao": "Banda Filarmónica Simão da Veiga da Casa do Povo de Lavre",
+      "ano_fundacao": 1889,
+      "localizacao": "Freguesia de Lavre"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Praiense",
+      "ano_fundacao": 1889,
+      "localizacao": "Praia da Vitória"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio dos Lavradores",
+      "ano_fundacao": 1889,
+      "localizacao": "Santo Antão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Artística Piedense",
+      "ano_fundacao": 1889,
+      "localizacao": "Freguesia da Cova da Piedade"
+    },
+    {
+      "designacao": "Banda Filarmónica de Caria",
+      "ano_fundacao": 1890,
+      "localizacao": "Caria"
+    },
+    {
+      "designacao": "Filarmónica Perovisense",
+      "ano_fundacao": 1890,
+      "localizacao": "Pêro Viseu"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Boa União Montelavarense",
+      "ano_fundacao": 1890,
+      "localizacao": "Freguesia de Montelavar"
+    },
+    {
+      "designacao": "Associação Recreativa da Banda Marcial Ribeiradiense",
+      "ano_fundacao": 1890,
+      "localizacao": "Ribeiradio"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Aurora Pedroguense",
+      "ano_fundacao": 1891,
+      "localizacao": "Pedrógão Pequeno"
+    },
+    {
+      "designacao": "Ateneu Artístico Vilafranquense",
+      "ano_fundacao": 1891,
+      "localizacao": "Vila Franca de Xira Vila Franca de Xira"
+    },
+    {
+      "designacao": "Banda da Associação Humanitária de Bombeiros Voluntários de Fanhões",
+      "ano_fundacao": 1891,
+      "localizacao": "Fanhões"
+    },
+    {
+      "designacao": "Banda dos Bombeiros Voluntários de Colares",
+      "ano_fundacao": 1891,
+      "localizacao": "Colares"
+    },
+    {
+      "designacao": "Sociedade Musical Simpatia e Gratidão",
+      "ano_fundacao": 1891,
+      "localizacao": "Carnaxide"
+    },
+    {
+      "designacao": "Associação Filarmónica 25 de Setembro",
+      "ano_fundacao": 1892,
+      "localizacao": "Montemor-o-Velho e Gatões"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Catarinense",
+      "ano_fundacao": 1892,
+      "localizacao": "Santa Catarina"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical de Almoçageme",
+      "ano_fundacao": 1892,
+      "localizacao": "Almoçageme"
+    },
+    {
+      "designacao": "Sociedade Musical 2 de Fevereiro",
+      "ano_fundacao": 1892,
+      "localizacao": "Freguesia de Santar"
+    },
+    {
+      "designacao": "Associação Filarmónica Mirandesa",
+      "ano_fundacao": 1893,
+      "localizacao": "Miranda do Douro"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Vermoilense",
+      "ano_fundacao": 1893,
+      "localizacao": "Vermoil"
+    },
+    {
+      "designacao": "Sociedade Recreativa Musical 1º de Agosto Santa Iriense",
+      "ano_fundacao": 1893,
+      "localizacao": "Santa Iria de Azoia"
+    },
+    {
+      "designacao": "Filarmónica da Imaculada Conceição",
+      "ano_fundacao": 1893,
+      "localizacao": "Lomba da Fazenda"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Oleirense",
+      "ano_fundacao": 1894,
+      "localizacao": "Oleiros-Amieira"
+    },
+    {
+      "designacao": "Sociedade Musical, Recreativa Instrutiva e Beneficente Santanense",
+      "ano_fundacao": 1894,
+      "localizacao": "Freguesia de Santana"
+    },
+    {
+      "designacao": "Sociedade Musical de Pevidém",
+      "ano_fundacao": 1894,
+      "localizacao": "Selho (São Jorge)"
+    },
+    {
+      "designacao": "Sociedade Musical Sagrado Coração de Jesus",
+      "ano_fundacao": 1894,
+      "localizacao": "Faial da Terra"
+    },
+    {
+      "designacao": "Banda Filarmónica do Faial",
+      "ano_fundacao": 1895,
+      "localizacao": "Faial"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Incrível Aldeiagrandense",
+      "ano_fundacao": 1895,
+      "localizacao": "Maxial e Monte Redondo"
+    },
+    {
+      "designacao": "Sociedade Estímulo",
+      "ano_fundacao": 1895,
+      "localizacao": "Calheta"
+    },
+    {
+      "designacao": "Filarmónica 15 de Agosto Alfarelense",
+      "ano_fundacao": 1896,
+      "localizacao": "Alfarelos"
+    },
+    {
+      "designacao": "Associação Musical e Recreativa Castanheirense",
+      "ano_fundacao": 1896,
+      "localizacao": "Freguesia de Castanheira do Vouga"
+    },
+    {
+      "designacao": "Filarmónica de Chãs",
+      "ano_fundacao": 1896,
+      "localizacao": "Regueira de Pontes"
+    },
+    {
+      "designacao": "Banda de Música de Belinho",
+      "ano_fundacao": 1896,
+      "localizacao": "Belinho e Mar"
+    },
+    {
+      "designacao": "Banda Municipal de Machico",
+      "ano_fundacao": 1896,
+      "localizacao": "Machico"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical de Vila Franca do Rosário",
+      "ano_fundacao": 1896,
+      "localizacao": "Freguesia de Vila Franca do Rosário"
+    },
+    {
+      "designacao": "Filarmónica Lira do Sul",
+      "ano_fundacao": 1896,
+      "localizacao": "Ponta Garça"
+    },
+    {
+      "designacao": "Sociedade de Instrução Coruchense",
+      "ano_fundacao": 1896,
+      "localizacao": "Coruche, Fajarda e Erra"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Euterpe Meiaviense",
+      "ano_fundacao": 1896,
+      "localizacao": "Meia Via"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Payalvense \"Manoel de Mattos”",
+      "ano_fundacao": 1896,
+      "localizacao": "Paialvo"
+    },
+    {
+      "designacao": "Sociedade Recreio Musical Azinhaguense 1º de Dezembro",
+      "ano_fundacao": 1896,
+      "localizacao": "Azinhaga"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Agrícola",
+      "ano_fundacao": 1896,
+      "localizacao": "Pinhal Novo"
+    },
+    {
+      "designacao": "Filarmónica de Mortágua",
+      "ano_fundacao": 1896,
+      "localizacao": "Freguesia de Mortágua"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lousanense",
+      "ano_fundacao": 1897,
+      "localizacao": "Freguesia de Lousã Lousã"
+    },
+    {
+      "designacao": "Banda da Associação Humanitária dos Bombeiros Voluntários de Loures",
+      "ano_fundacao": 1897,
+      "localizacao": "Loures"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lira Madalense",
+      "ano_fundacao": 1897,
+      "localizacao": "Madalena"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Faialense",
+      "ano_fundacao": 1897,
+      "localizacao": "Angústias"
+    },
+    {
+      "designacao": "Banda Filarmónica Juvenil do Lar Escola de Santo António",
+      "ano_fundacao": 1897,
+      "localizacao": "Viseu"
+    },
+    {
+      "designacao": "Banda Musical Flor da Mocidade Junqueirense",
+      "ano_fundacao": 1898,
+      "localizacao": "Junqueira"
+    },
+    {
+      "designacao": "Associação Cultural, Desportiva e Recreativa de Carviçais",
+      "ano_fundacao": 1898,
+      "localizacao": "Carviçais"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Vieira do Minho",
+      "ano_fundacao": 1898,
+      "localizacao": "Vieira do Minho"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Alcanedense",
+      "ano_fundacao": 1898,
+      "localizacao": "Alcanede"
+    },
+    {
+      "designacao": "Academia Musical União e Trabalho",
+      "ano_fundacao": 1898,
+      "localizacao": "Sarilhos Grandes"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Operária Amorense",
+      "ano_fundacao": 1898,
+      "localizacao": "Amora"
+    },
+    {
+      "designacao": "Sociedade Imparcial 15 de Janeiro de 1898",
+      "ano_fundacao": 1898,
+      "localizacao": "Alcochete"
+    },
+    {
+      "designacao": "Sociedade Musical União, Recreio e Sport Sineeense",
+      "ano_fundacao": 1898,
+      "localizacao": "Sines"
+    },
+    {
+      "designacao": "Banda de Música de Loureiro",
+      "ano_fundacao": 1899,
+      "localizacao": "Loureiro"
+    },
+    {
+      "designacao": "Filarmónica Recreativa Cortense",
+      "ano_fundacao": 1899,
+      "localizacao": "Cortes do Meio"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Barranquense",
+      "ano_fundacao": 1899,
+      "localizacao": "Barrancos"
+    },
+    {
+      "designacao": "Sociedade Artística Musical 20 de Julho de Santa Margarida do Arrabal",
+      "ano_fundacao": 1899,
+      "localizacao": "Arrabal"
+    },
+    {
+      "designacao": "Sociedade Musical União Paredense",
+      "ano_fundacao": 1899,
+      "localizacao": "Parede"
+    },
+    {
+      "designacao": "Sociedade Recreativa Musical Trafariense",
+      "ano_fundacao": 1900,
+      "localizacao": "Trafaria"
+    },
+    {
+      "designacao": "Banda de Música dos Bombeiros Voluntários de Ílhavo",
+      "ano_fundacao": 1900,
+      "localizacao": "Ílhavo"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Instrução e Recreio Nova Aliança",
+      "ano_fundacao": 1900,
+      "localizacao": "Velas"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lealdade União Ribeirense",
+      "ano_fundacao": 1900,
+      "localizacao": "Ribeira Branca"
+    },
+    {
+      "designacao": "Banda Musical de São Pedro da Cova",
+      "ano_fundacao": 1900,
+      "localizacao": "São Pedro da Cova"
+    },
+    {
+      "designacao": "Centro Cultural Azambujense",
+      "ano_fundacao": 1901,
+      "localizacao": "Azambuja Azambuja"
+    },
+    {
+      "designacao": "Sociedade Recreativa Musical de Carcavelos",
+      "ano_fundacao": 1901,
+      "localizacao": "Freguesia de Carcavelos"
+    },
+    {
+      "designacao": "Filarmónica Minerva dos Ginetes",
+      "ano_fundacao": 1901,
+      "localizacao": "Ginetes"
+    },
+    {
+      "designacao": "Sociedade Artística Tramagalense",
+      "ano_fundacao": 1901,
+      "localizacao": "Tramagal"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Tibaldinho",
+      "ano_fundacao": 1901,
+      "localizacao": "Alcafache"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Santa Cruz de Alvarenga",
+      "ano_fundacao": 1902,
+      "localizacao": "Alvarenga"
+    },
+    {
+      "designacao": "Banda Musical 1º de Maio da Associação de Socorros Mútuos dos Artistas Mirandelenses",
+      "ano_fundacao": 1902,
+      "localizacao": "Mirandela"
+    },
+    {
+      "designacao": "Associação Desportiva Recreativa e Cultural Filarmónica Varzeense (FILVAR)",
+      "ano_fundacao": 1902,
+      "localizacao": "Vila Nova do Ceira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União 1º de Dezembro de 1902",
+      "ano_fundacao": 1902,
+      "localizacao": "Atouguia da Baleia"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Muge",
+      "ano_fundacao": 1902,
+      "localizacao": "Muge"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Tondelense",
+      "ano_fundacao": 1902,
+      "localizacao": "Tondela"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Educação e Beneficência Fratelense",
+      "ano_fundacao": 1903,
+      "localizacao": "Fratel Vila Velha de Ródão"
+    },
+    {
+      "designacao": "Sociedade Musical de Santa Cecília",
+      "ano_fundacao": 1903,
+      "localizacao": "Aveiro"
+    },
+    {
+      "designacao": "Banda do Cercal",
+      "ano_fundacao": 1903,
+      "localizacao": "Gesteira e Brunhós"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Ansianense de Santa Cecília",
+      "ano_fundacao": 1903,
+      "localizacao": "Ansião"
+    },
+    {
+      "designacao": "Círculo Católico de Operários de Barcelos",
+      "ano_fundacao": 1903,
+      "localizacao": "Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro) Barcelos"
+    },
+    {
+      "designacao": "Associação Filarmónica de Vilar Seco",
+      "ano_fundacao": 1903,
+      "localizacao": "Vilar Seco"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lealdade Pinheirense",
+      "ano_fundacao": 1903,
+      "localizacao": "Pinheiro de Ázere"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Católica da Serra da Ribeirinha",
+      "ano_fundacao": 1904,
+      "localizacao": "Ribeirinha"
+    },
+    {
+      "designacao": "Filarmónica Recreativa Estrela de Unhais da Serra",
+      "ano_fundacao": 1904,
+      "localizacao": "Unhais da Serra"
+    },
+    {
+      "designacao": "Associação Cultural Recreativa de Pinela",
+      "ano_fundacao": 1904,
+      "localizacao": "Pinela"
+    },
+    {
+      "designacao": "Banda Filarmónica do Grupo União e Recreio Azarujense",
+      "ano_fundacao": 1904,
+      "localizacao": "São Bento do Mato"
+    },
+    {
+      "designacao": "Banda de Música dos Bombeiros Voluntários da Póvoa de Lanhoso",
+      "ano_fundacao": 1904,
+      "localizacao": "Póvoa de Lanhoso"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Incrível Pontevelense",
+      "ano_fundacao": 1904,
+      "localizacao": "Pontével"
+    },
+    {
+      "designacao": "Sociedade Musical Alvarense",
+      "ano_fundacao": 1905,
+      "localizacao": "Casal de Álvaro"
+    },
+    {
+      "designacao": "Filarmónica do Espirito Santo da Casa do Povo de São Bartolomeu",
+      "ano_fundacao": 1905,
+      "localizacao": "São Bartolomeu de Regatos"
+    },
+    {
+      "designacao": "Banda Filarmónica de Vinhais",
+      "ano_fundacao": 1906,
+      "localizacao": "Vinhais"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical Loriguense",
+      "ano_fundacao": 1906,
+      "localizacao": "Loriga"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Vestiarense \"Monsenhor José Cacella\"",
+      "ano_fundacao": 1906,
+      "localizacao": "Vestiaria"
+    },
+    {
+      "designacao": "Sociedade Instrução Musical, Cultura e Recreio de A-dos-Francos",
+      "ano_fundacao": 1906,
+      "localizacao": "A-dos-Francos"
+    },
+    {
+      "designacao": "Banda Municipal Alterense",
+      "ano_fundacao": 1906,
+      "localizacao": "Alter do Chão Alter do Chão"
+    },
+    {
+      "designacao": "Fanfarra Operária Gago Coutinho e Sacadura Cabral",
+      "ano_fundacao": 1906,
+      "localizacao": "Angra do Heroísmo"
+    },
+    {
+      "designacao": "Banda Musical e Cultural de Rio de Moinhos",
+      "ano_fundacao": 1907,
+      "localizacao": "Rio de Moinhos"
+    },
+    {
+      "designacao": "Grupo Musical Fraternidade Pampilhosense",
+      "ano_fundacao": 1907,
+      "localizacao": "Freguesia de Pampilhosa da Serra"
+    },
+    {
+      "designacao": "Banda Filarmónica da Casa do Povo de Nossa Senhora de Machede",
+      "ano_fundacao": 1907,
+      "localizacao": "Nossa Senhora de Machede"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Montoitense",
+      "ano_fundacao": 1907,
+      "localizacao": "Montoito"
+    },
+    {
+      "designacao": "Banda União Progressista",
+      "ano_fundacao": 1907,
+      "localizacao": "Vila Franca do Campo"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio dos Pastores",
+      "ano_fundacao": 1907,
+      "localizacao": "São João"
+    },
+    {
+      "designacao": "Filarmónica Recreativa Carvalhense",
+      "ano_fundacao": 1908,
+      "localizacao": "Cantar-Galo e Vila do Carvalho"
+    },
+    {
+      "designacao": "A União de Aldeia de João Pires Sociedade Recreativa e Musical",
+      "ano_fundacao": 1908,
+      "localizacao": "Freguesia de Aldeia de João Pires"
+    },
+    {
+      "designacao": "Banda Torroselense Estrela de Alva",
+      "ano_fundacao": 1908,
+      "localizacao": "Torrozelo e Folhadosa"
+    },
+    {
+      "designacao": "Banda Musical de Fornos - Centro de Cultura e Desporto",
+      "ano_fundacao": 1909,
+      "localizacao": "Fornos"
+    },
+    {
+      "designacao": "Serrana - Associação Desportiva Cultural e Recreativa de Serra D´El Rei",
+      "ano_fundacao": 1909,
+      "localizacao": "Serra d'El-Rei"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Pinheirense - SFUP",
+      "ano_fundacao": 1909,
+      "localizacao": "Loures"
+    },
+    {
+      "designacao": "Associação Filarmónica União Lapense",
+      "ano_fundacao": 1909,
+      "localizacao": "Freguesia da Lapa"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Vicentina",
+      "ano_fundacao": 1910,
+      "localizacao": "São Vicente da Beira"
+    },
+    {
+      "designacao": "Banda Recreio Camponês",
+      "ano_fundacao": 1910,
+      "localizacao": "Freguesia de Câmara de Lobos Câmara de Lobos"
+    },
+    {
+      "designacao": "Filarmónica Lira Nossa Senhora Oliveira",
+      "ano_fundacao": 1910,
+      "localizacao": "Fajã de Cima"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Liberdade Cais do Pico",
+      "ano_fundacao": 1910,
+      "localizacao": "São Roque do Pico"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Musical Nossa Senhora da Saúde",
+      "ano_fundacao": 1910,
+      "localizacao": "Arrifes"
+    },
+    {
+      "designacao": "Associação Banda 25 de Março",
+      "ano_fundacao": 1911,
+      "localizacao": "Lamas"
+    },
+    {
+      "designacao": "Associação Filarmónica de Arganil",
+      "ano_fundacao": 1911,
+      "localizacao": "Arganil Arganil"
+    },
+    {
+      "designacao": "Sociedade Musical Gouveense \"Pedro Amaral Botto Machado\"",
+      "ano_fundacao": 1911,
+      "localizacao": "Gouveia"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Instrução e Recreio Familiar de Lameiras",
+      "ano_fundacao": 1912,
+      "localizacao": "Lameiras (Terrugem)"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Marcial Troféu",
+      "ano_fundacao": 1912,
+      "localizacao": "Povoação"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Euterpe",
+      "ano_fundacao": 1912,
+      "localizacao": "Castelo Branco"
+    },
+    {
+      "designacao": "Sociedade Musical Fraternidade Operária Grandolense",
+      "ano_fundacao": 1912,
+      "localizacao": "Grândola e Santa Margarida da Serra"
+    },
+    {
+      "designacao": "Associação de Cultura e Recreio da Banda Marcial do Vale – Santa Maria da Feira",
+      "ano_fundacao": 1913,
+      "localizacao": "Freguesia de Vale"
+    },
+    {
+      "designacao": "Associação Filarmónica Rebordelense",
+      "ano_fundacao": 1913,
+      "localizacao": "Rebordelo"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Turquelense",
+      "ano_fundacao": 1913,
+      "localizacao": "Turquel"
+    },
+    {
+      "designacao": "Filarmónica Recreio dos Artistas",
+      "ano_fundacao": 1913,
+      "localizacao": "Santa Cruz da Graciosa"
+    },
+    {
+      "designacao": "Sociedade Artística Banda de Vale de Cambra",
+      "ano_fundacao": 1914,
+      "localizacao": "Vale de Cambra"
+    },
+    {
+      "designacao": "Associação Musical de Pocariça",
+      "ano_fundacao": 1914,
+      "localizacao": "Freguesia de Pocariça"
+    },
+    {
+      "designacao": "Sociedade de Instrução Musical de Porto Salvo",
+      "ano_fundacao": 1914,
+      "localizacao": "Porto Salvo Oeiras"
+    },
+    {
+      "designacao": "Associação Filarmónica 1º Dezembro Cultural Artística Vilarense Reis Prazeres",
+      "ano_fundacao": 1914,
+      "localizacao": "Nossa Senhora das Misericórdias"
+    },
+    {
+      "designacao": "Sociedade Musical Sesimbrense",
+      "ano_fundacao": 1914,
+      "localizacao": "Santiago"
+    },
+    {
+      "designacao": "Banda Filarmónica de Famalicão da Serra",
+      "ano_fundacao": 1915,
+      "localizacao": "Famalicão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Avelarense",
+      "ano_fundacao": 1915,
+      "localizacao": "Avelar"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Musical e Cultural Doutor Armas Silveira",
+      "ano_fundacao": 1915,
+      "localizacao": "Santa Cruz das Flores"
+    },
+    {
+      "designacao": "Sociedade Instrução Musical Rossiense",
+      "ano_fundacao": 1915,
+      "localizacao": "Freguesia de Rossio ao Sul do Tejo"
+    },
+    {
+      "designacao": "Sociedade Musical Mindense",
+      "ano_fundacao": 1915,
+      "localizacao": "Minde"
+    },
+    {
+      "designacao": "Associação Beneficente, Cultura e Recreio da Mamarrosa",
+      "ano_fundacao": 1916,
+      "localizacao": "Mamarrosa"
+    },
+    {
+      "designacao": "Banda Musical de S. Tiago de Lobão",
+      "ano_fundacao": 1916,
+      "localizacao": "Freguesia de Lobão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Capricho Bejense",
+      "ano_fundacao": 1916,
+      "localizacao": "Beja"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lira Corvense",
+      "ano_fundacao": 1916,
+      "localizacao": "Município do Corvo"
+    },
+    {
+      "designacao": "Sociedade Musical 1º de Agosto",
+      "ano_fundacao": 1916,
+      "localizacao": "Vila Nova de Gaia"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União e Progresso Madalense",
+      "ano_fundacao": 1917,
+      "localizacao": "Madalena"
+    },
+    {
+      "designacao": "Banda de Música de Sanguinhedo",
+      "ano_fundacao": 1917,
+      "localizacao": "Mouçós e Lamares"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Flor do Alva",
+      "ano_fundacao": 1918,
+      "localizacao": "Freguesia de Vila Cova de Alva"
+    },
+    {
+      "designacao": "Associação Filarmónica da Boa Educação de Vila Cova de Tavares",
+      "ano_fundacao": 1918,
+      "localizacao": "Freguesia de Várzea de Tavares"
+    },
+    {
+      "designacao": "Associação Filarmónica Lyra Barcoucence 10 de Agosto",
+      "ano_fundacao": 1919,
+      "localizacao": "Barcouço"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreativa de Pêro Pinheiro",
+      "ano_fundacao": 1919,
+      "localizacao": "Freguesia de Pero Pinheiro"
+    },
+    {
+      "designacao": "Sociedade Musical Sportiva Alvidense",
+      "ano_fundacao": 1919,
+      "localizacao": "Alcabideche"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Progresso e Labor Samouquense",
+      "ano_fundacao": 1919,
+      "localizacao": "Samouco"
+    },
+    {
+      "designacao": "Sociedade Musical União e Trabalho",
+      "ano_fundacao": 1920,
+      "localizacao": "Freguesia de Lapas"
+    },
+    {
+      "designacao": "Associação Banda Musical de Rio Mau",
+      "ano_fundacao": 1920,
+      "localizacao": "Rio Mau"
+    },
+    {
+      "designacao": "Filarmónica Pampilhosense",
+      "ano_fundacao": 1920,
+      "localizacao": "Pampilhosa Mealhada"
+    },
+    {
+      "designacao": "Banda do Círculo Artístico Musical Safarense",
+      "ano_fundacao": 1920,
+      "localizacao": "Freguesia de Safara"
+    },
+    {
+      "designacao": "Filarmónica Boa Vontade Lorvanense",
+      "ano_fundacao": 1920,
+      "localizacao": "Lorvão"
+    },
+    {
+      "designacao": "Associação Filarmónica Bidoeirense",
+      "ano_fundacao": 1920,
+      "localizacao": "Bidoeira de Cima"
+    },
+    {
+      "designacao": "Banda de Alcobaça",
+      "ano_fundacao": 1920,
+      "localizacao": "Alcobaça"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lira Do Rosário",
+      "ano_fundacao": 1920,
+      "localizacao": "Lagoa"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Ereirense",
+      "ano_fundacao": 1920,
+      "localizacao": "Freguesia de Ereira"
+    },
+    {
+      "designacao": "Sociedade Cultural e Recreativa de Vale da Pinta",
+      "ano_fundacao": 1920,
+      "localizacao": "Cartaxo e Vale da Pinta"
+    },
+    {
+      "designacao": "Banda Musical Casa Povo Santa Marinha do Zêzere",
+      "ano_fundacao": 1920,
+      "localizacao": "Santa Marinha do Zêzere"
+    },
+    {
+      "designacao": "Associação Filarmónica Retaxense",
+      "ano_fundacao": 1921,
+      "localizacao": "Freguesia de Retaxo"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Silvarense",
+      "ano_fundacao": 1921,
+      "localizacao": "Silvares"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa Banda Nova de Fermentelos",
+      "ano_fundacao": 1921,
+      "localizacao": "Fermentelos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Mourense",
+      "ano_fundacao": 1921,
+      "localizacao": "Moura"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lira e Progresso Feteirense",
+      "ano_fundacao": 1921,
+      "localizacao": "Feteira"
+    },
+    {
+      "designacao": "Banda Filarmónica da Casa do Povo da Vila da Marmeleira",
+      "ano_fundacao": 1921,
+      "localizacao": "Freguesia de Marmeleira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Crestuma",
+      "ano_fundacao": 1921,
+      "localizacao": "Freguesia de Crestuma"
+    },
+    {
+      "designacao": "Filarmónica Recreativa Eradense",
+      "ano_fundacao": 1922,
+      "localizacao": "Erada"
+    },
+    {
+      "designacao": "S.I.R - Sociedade de Instrução e Recreio de Paços da Serra",
+      "ano_fundacao": 1922,
+      "localizacao": "Paços da Serra"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Espírito Santo da Agualva",
+      "ano_fundacao": 1922,
+      "localizacao": "Agualva"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Alvaiazerense de Santa Cecília",
+      "ano_fundacao": 1923,
+      "localizacao": "Alvaiázere"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Os Aliados",
+      "ano_fundacao": 1923,
+      "localizacao": "Sintra"
+    },
+    {
+      "designacao": "Sociedade Lírica Moitense",
+      "ano_fundacao": 1923,
+      "localizacao": "Moita dos Ferreiros"
+    },
+    {
+      "designacao": "Banda Recreio Espirituense",
+      "ano_fundacao": 1923,
+      "localizacao": "Santo Espírito"
+    },
+    {
+      "designacao": "Lusitânia Club Recreio Velense – Filarmónica Liberdade",
+      "ano_fundacao": 1923,
+      "localizacao": "Velas"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa Tuna Musical de Anta",
+      "ano_fundacao": 1924,
+      "localizacao": "Freguesia de Anta"
+    },
+    {
+      "designacao": "Sociedade Musical União Vimieirense",
+      "ano_fundacao": 1924,
+      "localizacao": "Vimieiro"
+    },
+    {
+      "designacao": "Sociedade Filarmónica 1º de Abril Vimieirense",
+      "ano_fundacao": 1924,
+      "localizacao": "Vimieiro"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Popular - Banda Musical Castromarinense",
+      "ano_fundacao": 1924,
+      "localizacao": "Castro Marim"
+    },
+    {
+      "designacao": "Sociedade Cultural Desportiva e Recreativa Filarmónica Ilhense",
+      "ano_fundacao": 1924,
+      "localizacao": "Freguesia de Ilha"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio Musical Ribeirinhense",
+      "ano_fundacao": 1924,
+      "localizacao": "Ribeirinha"
+    },
+    {
+      "designacao": "Banda Musical de Melres",
+      "ano_fundacao": 1924,
+      "localizacao": "Melres Gondomar"
+    },
+    {
+      "designacao": "Banda Visconde de Salreu",
+      "ano_fundacao": 1925,
+      "localizacao": "Salreu"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical 12 de Abril",
+      "ano_fundacao": 1925,
+      "localizacao": "Travassô"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreativa de Ferreira do Alentejo",
+      "ano_fundacao": 1925,
+      "localizacao": "Ferreira do Alentejo"
+    },
+    {
+      "designacao": "Sociedade da Banda Musical de Tavira",
+      "ano_fundacao": 1925,
+      "localizacao": "Tavira (Santa Maria e Santiago)"
+    },
+    {
+      "designacao": "Sociedade Filarmónica e Recreativa Gaeirense",
+      "ano_fundacao": 1925,
+      "localizacao": "Gaeiras"
+    },
+    {
+      "designacao": "Sociedade União Urzelinense",
+      "ano_fundacao": 1925,
+      "localizacao": "Urzelina"
+    },
+    {
+      "designacao": "Banda de Música da Associação dos Bombeiros Voluntários de Vila Nova da Barquinha",
+      "ano_fundacao": 1925,
+      "localizacao": "Freguesia de Vila Nova da Barquinha"
+    },
+    {
+      "designacao": "Banda Municipal Flaviense “Os Pardais”",
+      "ano_fundacao": 1925,
+      "localizacao": "Santa Maria Maior"
+    },
+    {
+      "designacao": "Associação Recreativa Eixense",
+      "ano_fundacao": 1926,
+      "localizacao": "Freguesia de Eixo"
+    },
+    {
+      "designacao": "Centro Recreativo Amadores de Música Os Leões",
+      "ano_fundacao": 1926,
+      "localizacao": "Moura"
+    },
+    {
+      "designacao": "Banda Municipal de Santana",
+      "ano_fundacao": 1926,
+      "localizacao": "Santana"
+    },
+    {
+      "designacao": "Banda Filarmónica do Couto de Dornelas",
+      "ano_fundacao": 1926,
+      "localizacao": "Dornelas"
+    },
+    {
+      "designacao": "Academia Recreativa e Musical de Sacavém",
+      "ano_fundacao": 1927,
+      "localizacao": "Sacavém e Prior Velho Sacavém"
+    },
+    {
+      "designacao": "Sociedade Musical Recreativa de Alqueidão",
+      "ano_fundacao": 1927,
+      "localizacao": "Alqueidão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Monfortense",
+      "ano_fundacao": 1927,
+      "localizacao": "Monforte"
+    },
+    {
+      "designacao": "Filarmónica Lira Campesina Cedrense",
+      "ano_fundacao": 1927,
+      "localizacao": "Cedros"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Filarmónica 1º de Janeiro",
+      "ano_fundacao": 1928,
+      "localizacao": "Castro Verde"
+    },
+    {
+      "designacao": "Sociedade Recreativa e Musical de Póvoa e Meadas",
+      "ano_fundacao": 1928,
+      "localizacao": "Nossa Senhora da Graça de Póvoa e Meadas"
+    },
+    {
+      "designacao": "Sociedade Musical, Cultura e Recreio de Paços de Vilharigues",
+      "ano_fundacao": 1928,
+      "localizacao": "Freguesia de Paços de Vilharigues"
+    },
+    {
+      "designacao": "Banda de Música dos Empregados da Companhia Carris de Ferro de Lisboa",
+      "ano_fundacao": 1929,
+      "localizacao": "Linda-a-Velha"
+    },
+    {
+      "designacao": "Banda Musical de S. Martinho do Campo",
+      "ano_fundacao": 1929,
+      "localizacao": "Freguesia de Campo"
+    },
+    {
+      "designacao": "Banda Filarmónica da Casa do Povo de Penacova",
+      "ano_fundacao": 1930,
+      "localizacao": "Penacova"
+    },
+    {
+      "designacao": "Banda Filarmónica da Casa do Povo de Cabrela",
+      "ano_fundacao": 1930,
+      "localizacao": "Freguesia de Cabrela"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Alpalhoense",
+      "ano_fundacao": 1930,
+      "localizacao": "Alpalhão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Galveense",
+      "ano_fundacao": 1930,
+      "localizacao": "Galveias"
+    },
+    {
+      "designacao": "Grupo de Solidariedade Musical e Desportiva de Talaíde",
+      "ano_fundacao": 1930,
+      "localizacao": "Talaíde"
+    },
+    {
+      "designacao": "Academia de Música Banda de Ourém (AMBO)",
+      "ano_fundacao": 1930,
+      "localizacao": "Nossa Senhora da Piedade"
+    },
+    {
+      "designacao": "Associação Desenvolvimento Sócio-Cultural Desportivo \"Vitória-Unidos\" (AVUCA)",
+      "ano_fundacao": 1930,
+      "localizacao": "Freguesia de Carregueira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Instrução e Recreio Carregueirense Vitória",
+      "ano_fundacao": 1930,
+      "localizacao": "Freguesia de Carregueira"
+    },
+    {
+      "designacao": "Associação Filarmónica Cultural, Recreativa e Desportiva de Tarouquela",
+      "ano_fundacao": 1930,
+      "localizacao": "Tarouquela"
+    },
+    {
+      "designacao": "Grupo Recreativo Mirandense",
+      "ano_fundacao": 1931,
+      "localizacao": "Miranda do Corvo"
+    },
+    {
+      "designacao": "Associação Musical União Filarmónica Maiorquense - U.F.M.",
+      "ano_fundacao": 1931,
+      "localizacao": "Maiorca"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lacobrigense 1º de Maio",
+      "ano_fundacao": 1931,
+      "localizacao": "São Gonçalo de Lagos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Alvorninha",
+      "ano_fundacao": 1931,
+      "localizacao": "Alvorninha"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio Nortense",
+      "ano_fundacao": 1931,
+      "localizacao": "Norte Grande"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio Terreirense",
+      "ano_fundacao": 1931,
+      "localizacao": "Manadas"
+    },
+    {
+      "designacao": "Sociedade Recreio Lajense",
+      "ano_fundacao": 1931,
+      "localizacao": "Lajes"
+    },
+    {
+      "designacao": "Banda Marcial de Almeirim",
+      "ano_fundacao": 1931,
+      "localizacao": "Almeirim"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Alpiarcence 1º. de Dezembro",
+      "ano_fundacao": 1931,
+      "localizacao": "Alpiarça"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Musical Amarelejense",
+      "ano_fundacao": 1932,
+      "localizacao": "Amareleja"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Goleganense 1º de Janeiro",
+      "ano_fundacao": 1932,
+      "localizacao": "Golegã"
+    },
+    {
+      "designacao": "Banda de Música de Oliveira de Frades",
+      "ano_fundacao": 1932,
+      "localizacao": "Freguesia de Oliveira de Frades"
+    },
+    {
+      "designacao": "Clube de Instrução e Recreio Musical de Eira Queimada",
+      "ano_fundacao": 1932,
+      "localizacao": "Freguesia de Gouviães"
+    },
+    {
+      "designacao": "Associação Cultural do Couto Mineiro do Pejão",
+      "ano_fundacao": 1933,
+      "localizacao": "Freguesia de Pedorido"
+    },
+    {
+      "designacao": "Banda União Musical Paramense",
+      "ano_fundacao": 1933,
+      "localizacao": "Paramos"
+    },
+    {
+      "designacao": "Associação Filarmónica Barrilense",
+      "ano_fundacao": 1933,
+      "localizacao": "Freguesia de Barril de Alva"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Silvense",
+      "ano_fundacao": 1933,
+      "localizacao": "Silves Silves"
+    },
+    {
+      "designacao": "Associação Recreativa de Nossa Senhora de Fátima do Arco de São Jorge",
+      "ano_fundacao": 1933,
+      "localizacao": "Arco de São Jorge"
+    },
+    {
+      "designacao": "Banda Municipal Mouranense",
+      "ano_fundacao": 1934,
+      "localizacao": "Mourão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Municipal Redondense",
+      "ano_fundacao": 1934,
+      "localizacao": "Redondo Redondo"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio União Praínhense",
+      "ano_fundacao": 1934,
+      "localizacao": "Prainha"
+    },
+    {
+      "designacao": "Sociedade de Recreio União e Progresso Mouronhense",
+      "ano_fundacao": 1935,
+      "localizacao": "Mouronho"
+    },
+    {
+      "designacao": "Filarmónica Municipal Portelense",
+      "ano_fundacao": 1935,
+      "localizacao": "Portel"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Rosalense",
+      "ano_fundacao": 1935,
+      "localizacao": "Rosais"
+    },
+    {
+      "designacao": "Associação de Cultura e Recreio Musical 1º de Dezembro",
+      "ano_fundacao": 1936,
+      "localizacao": "São João Baptista"
+    },
+    {
+      "designacao": "Sociedade de Educação e Recreativa de Vila Verde",
+      "ano_fundacao": 1936,
+      "localizacao": "Vila Verde e Barbudo"
+    },
+    {
+      "designacao": "Associação Musical Lira do Espírito Santo",
+      "ano_fundacao": 1936,
+      "localizacao": "Maia"
+    },
+    {
+      "designacao": "Grupo Recreativo e Musical – Banda Famalicão",
+      "ano_fundacao": 1937,
+      "localizacao": "Vila Nova de Famalicão e Calendário"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Louriçal do Campo",
+      "ano_fundacao": 1938,
+      "localizacao": "Louriçal do Campo"
+    },
+    {
+      "designacao": "Banda de Soure",
+      "ano_fundacao": 1938,
+      "localizacao": "Soure"
+    },
+    {
+      "designacao": "Sociedade de Instrução e Recreio de Janes e Malveira",
+      "ano_fundacao": 1938,
+      "localizacao": "Janes Malveira da Serra"
+    },
+    {
+      "designacao": "Filarmónica União Popular Luzense",
+      "ano_fundacao": 1938,
+      "localizacao": "Luz"
+    },
+    {
+      "designacao": "Banda Filarmónica Alveguense",
+      "ano_fundacao": 1938,
+      "localizacao": "Alvega"
+    },
+    {
+      "designacao": "Associação Educativa e Recreativa de Góis",
+      "ano_fundacao": 1939,
+      "localizacao": "Góis"
+    },
+    {
+      "designacao": "Associação Recreativa e Musical \"Amigos da Branca\"",
+      "ano_fundacao": 1940,
+      "localizacao": "Branca"
+    },
+    {
+      "designacao": "Banda Musical São Vicente de Alfena",
+      "ano_fundacao": 1940,
+      "localizacao": "Alfena"
+    },
+    {
+      "designacao": "Sociedade Familiar Recreativa de Malveira da Serra",
+      "ano_fundacao": 1941,
+      "localizacao": "Malveira da Serra"
+    },
+    {
+      "designacao": "Banda Musical de Paço de Sousa",
+      "ano_fundacao": 1941,
+      "localizacao": "Paço de Sousa"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Sanjorgense",
+      "ano_fundacao": 1942,
+      "localizacao": "São Jorge da Beira"
+    },
+    {
+      "designacao": "Sociedade Musical de Instrução e Recreio Aljustrelense",
+      "ano_fundacao": 1942,
+      "localizacao": "Aljustrel"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Assaforense",
+      "ano_fundacao": 1942,
+      "localizacao": "São João das Lampas e Terrugem"
+    },
+    {
+      "designacao": "Banda de Música da Casa do Povo de Ferreiros",
+      "ano_fundacao": 1943,
+      "localizacao": "Ferreiros de Tendais"
+    },
+    {
+      "designacao": "Associação Recreativa Musical Covilhanense",
+      "ano_fundacao": 1944,
+      "localizacao": "Covilhã e Canhoso"
+    },
+    {
+      "designacao": "Grupo Musical Gesteirense",
+      "ano_fundacao": 1944,
+      "localizacao": "Gesteira"
+    },
+    {
+      "designacao": "Sociedade Musical e Recreativa do Xartinho",
+      "ano_fundacao": 1944,
+      "localizacao": "Alcanede"
+    },
+    {
+      "designacao": "Banda Filarmónica da Associação Humanitária de Bombeiros Voluntários de Vimioso",
+      "ano_fundacao": 1945,
+      "localizacao": "Vimioso"
+    },
+    {
+      "designacao": "Sociedade Filarmónica São Cristóvão da Caranguejeira",
+      "ano_fundacao": 1945,
+      "localizacao": "Caranguejeira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica do Espinhal",
+      "ano_fundacao": 1946,
+      "localizacao": "Espinhal"
+    },
+    {
+      "designacao": "Sociedade Filarmónica do Senhor dos Aflitos de Soutocico",
+      "ano_fundacao": 1946,
+      "localizacao": "Arrabal"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio Santamarense",
+      "ano_fundacao": 1946,
+      "localizacao": "Santo Amaro"
+    },
+    {
+      "designacao": "Banda Comércio e Indústria das Caldas da Rainha",
+      "ano_fundacao": 1947,
+      "localizacao": "Caldas da Rainha - Santo Onofre e Serra do Bouro"
+    },
+    {
+      "designacao": "Sociedade Progresso Lajense",
+      "ano_fundacao": 1947,
+      "localizacao": "Lajes"
+    },
+    {
+      "designacao": "Associação da Banda Musical da Póvoa de Varzim",
+      "ano_fundacao": 1947,
+      "localizacao": "Freguesia de Póvoa de Varzim"
+    },
+    {
+      "designacao": "Banda Recreativa União Pinheirense",
+      "ano_fundacao": 1948,
+      "localizacao": "Freguesia de São João de Loure Albergaria-a-Velha"
+    },
+    {
+      "designacao": "Banda Lira das Sete Cidades",
+      "ano_fundacao": 1948,
+      "localizacao": "Sete Cidades"
+    },
+    {
+      "designacao": "Banda de Música de Anadia",
+      "ano_fundacao": 1949,
+      "localizacao": "Anadia"
+    },
+    {
+      "designacao": "União Filarmónica de A-da-Gorda",
+      "ano_fundacao": 1949,
+      "localizacao": "A-da-Gorda"
+    },
+    {
+      "designacao": "Sociedade Musical de Santo António",
+      "ano_fundacao": 1949,
+      "localizacao": "Carvalhal Redondo"
+    },
+    {
+      "designacao": "Academia Musical Arazedense",
+      "ano_fundacao": 1950,
+      "localizacao": "Arazede"
+    },
+    {
+      "designacao": "Banda de Música da Trofa",
+      "ano_fundacao": 1951,
+      "localizacao": "Trofa"
+    },
+    {
+      "designacao": "Banda Academia de Santa Cecília de São Romão",
+      "ano_fundacao": 1951,
+      "localizacao": "Freguesia de São Romão"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Educação Recreio e Beneficência União Ribeirense",
+      "ano_fundacao": 1952,
+      "localizacao": "Ribeiras"
+    },
+    {
+      "designacao": "Filarmónica União Operária Musical de Nossa Senhora dos Remédios",
+      "ano_fundacao": 1953,
+      "localizacao": "Fajãzinha"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Ouriense",
+      "ano_fundacao": 1953,
+      "localizacao": "Nossa Senhora das Misericórdias Ourém"
+    },
+    {
+      "designacao": "Clube Recreativo da Cruz de Pau",
+      "ano_fundacao": 1954,
+      "localizacao": "Cruz de Pau"
+    },
+    {
+      "designacao": "Banda 14 de Janeiro",
+      "ano_fundacao": 1955,
+      "localizacao": "Elvas"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Recreio Topense",
+      "ano_fundacao": 1955,
+      "localizacao": "Topo (Nossa Senhora do Rosário)"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Comércio e Indústria da Amadora",
+      "ano_fundacao": 1959,
+      "localizacao": "Mina de Água"
+    },
+    {
+      "designacao": "Banda Musical de São Tiago de Silvalde",
+      "ano_fundacao": 1960,
+      "localizacao": "Silvalde"
+    },
+    {
+      "designacao": "Orquestra Gulbenkian",
+      "ano_fundacao": 1962,
+      "localizacao": "Avenidas Novas"
+    },
+    {
+      "designacao": "Banda Filarmónica 1º de Dezembro de Moncarapacho",
+      "ano_fundacao": 1962,
+      "localizacao": "Moncarapacho e Fuseta"
+    },
+    {
+      "designacao": "Banda Marcial de Arnoso",
+      "ano_fundacao": 1963,
+      "localizacao": "Freguesia de Santa Maria de Arnoso"
+    },
+    {
+      "designacao": "Associação de Desportos e Recreio \"O Paraíso\"",
+      "ano_fundacao": 1963,
+      "localizacao": "Azambuja"
+    },
+    {
+      "designacao": "Filarmónica União Progresso de Guadalupe",
+      "ano_fundacao": 1963,
+      "localizacao": "Guadalupe"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Felgarense",
+      "ano_fundacao": 1964,
+      "localizacao": "Freguesia de Felgar"
+    },
+    {
+      "designacao": "Sociedade Recreativa União Castelejense",
+      "ano_fundacao": 1965,
+      "localizacao": "Castelejo"
+    },
+    {
+      "designacao": "Filarmónica da Casa do Povo de São Pedro de Alva",
+      "ano_fundacao": 1965,
+      "localizacao": "São Pedro de Alva"
+    },
+    {
+      "designacao": "Sociedade Filarmónica União Arraiolense",
+      "ano_fundacao": 1965,
+      "localizacao": "Arraiolos"
+    },
+    {
+      "designacao": "Grupo Filarmónico de Nossa Senhora das Mercês da Casa do Povo de Feteira",
+      "ano_fundacao": 1966,
+      "localizacao": "Feteira"
+    },
+    {
+      "designacao": "Sociedade Recreativa Biscoitense",
+      "ano_fundacao": 1967,
+      "localizacao": "Biscoitos"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Serpa",
+      "ano_fundacao": 1970,
+      "localizacao": "Serpa"
+    },
+    {
+      "designacao": "Banda Musical de Santa Tecla",
+      "ano_fundacao": 1970,
+      "localizacao": "Veade, Gagos e Molares"
+    },
+    {
+      "designacao": "União Recreativa de Cultura e Desporto de Coina",
+      "ano_fundacao": 1971,
+      "localizacao": "Freguesia de Coina"
+    },
+    {
+      "designacao": "União Recreativa Musical Pomarense",
+      "ano_fundacao": 1972,
+      "localizacao": "Pomares"
+    },
+    {
+      "designacao": "Sociedade de Recreio e Cultura dos Povos de Galizes e Vendas de Galizes",
+      "ano_fundacao": 1972,
+      "localizacao": "Nogueira do Cravo Galizes"
+    },
+    {
+      "designacao": "Banda Municipal do Barreiro",
+      "ano_fundacao": 1972,
+      "localizacao": "Barreiro e Lavradio"
+    },
+    {
+      "designacao": "Banda Paroquial de São Lourenço da Camacha",
+      "ano_fundacao": 1973,
+      "localizacao": "Camacha"
+    },
+    {
+      "designacao": "Escola de Música da Quinta do Picado",
+      "ano_fundacao": 1974,
+      "localizacao": "Aveiro"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Santo Estêvão",
+      "ano_fundacao": 1974,
+      "localizacao": "Santo Estêvão"
+    },
+    {
+      "designacao": "Zé Pedro Associação Musical",
+      "ano_fundacao": 1975,
+      "localizacao": "Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela"
+    },
+    {
+      "designacao": "Banda Municipal de Valpaços",
+      "ano_fundacao": 1975,
+      "localizacao": "Freguesia de Valpaços"
+    },
+    {
+      "designacao": "Associação Musical e Cultural de São Bernardo",
+      "ano_fundacao": 1976,
+      "localizacao": "São Bernardo"
+    },
+    {
+      "designacao": "Banda de Música da Casa do Povo de Campelos",
+      "ano_fundacao": 1976,
+      "localizacao": "Campelos e Outeiro da Cabeça"
+    },
+    {
+      "designacao": "Banda Nossa Senhora da Luz",
+      "ano_fundacao": 1976,
+      "localizacao": "Ponta Delgada"
+    },
+    {
+      "designacao": "Banda Filarmónica de Bragança",
+      "ano_fundacao": 1977,
+      "localizacao": "Bragança"
+    },
+    {
+      "designacao": "Banda Filarmónica da Casa do Povo de Alcantarilha, Pêra e Armação de Pêra",
+      "ano_fundacao": 1977,
+      "localizacao": "Alcantarilha e Pêra"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Mira-Sintra",
+      "ano_fundacao": 1977,
+      "localizacao": "Freguesia de Mira-Sintra"
+    },
+    {
+      "designacao": "Banda de Música da Liga dos Amigos de Castelo Novo",
+      "ano_fundacao": 1977,
+      "localizacao": "Algés"
+    },
+    {
+      "designacao": "Banda Musical e Recreativa de Penalva do Castelo",
+      "ano_fundacao": 1977,
+      "localizacao": "Penalva do Castelo"
+    },
+    {
+      "designacao": "Banda da Associação dos Bombeiros Voluntários de Alvito",
+      "ano_fundacao": 1978,
+      "localizacao": "Alvito"
+    },
+    {
+      "designacao": "Associação Recreativa e Cultural da Banda de Música de Freixo de Espada à Cinta",
+      "ano_fundacao": 1978,
+      "localizacao": "Freguesia de Freixo de Espada à Cinta"
+    },
+    {
+      "designacao": "Associação Filarmónica Vilarinhense",
+      "ano_fundacao": 1978,
+      "localizacao": "Vilarinho da Castanheira"
+    },
+    {
+      "designacao": "Associação Musical de S. Pedro da Torre",
+      "ano_fundacao": 1978,
+      "localizacao": "Freguesia de Valença"
+    },
+    {
+      "designacao": "Banda Filarmónica de Caminha",
+      "ano_fundacao": 1978,
+      "localizacao": "Caminha"
+    },
+    {
+      "designacao": "Círculo de Cultura Musical Bombarralense",
+      "ano_fundacao": 1979,
+      "localizacao": "Bombarral e Vale Covo Bombarral"
+    },
+    {
+      "designacao": "Filarmónica da Guia – Associação Artístico-Cultural",
+      "ano_fundacao": 1980,
+      "localizacao": "Guia, Ilha e Mata Mourisca"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Instrução e Cultura Musical de Gançaria",
+      "ano_fundacao": 1980,
+      "localizacao": "Gançaria"
+    },
+    {
+      "designacao": "Banda Filarmónica de Sendim",
+      "ano_fundacao": 1980,
+      "localizacao": "Sendim"
+    },
+    {
+      "designacao": "Associação Musical de Pedroso",
+      "ano_fundacao": 1980,
+      "localizacao": "Freguesia de Pedroso"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa de Lousa",
+      "ano_fundacao": 1981,
+      "localizacao": "Lousa"
+    },
+    {
+      "designacao": "Associação Cultural, Recreativa e Desportiva da Gândara",
+      "ano_fundacao": 1981,
+      "localizacao": "Alhadas"
+    },
+    {
+      "designacao": "Associação Filarmónica 24 de Junho",
+      "ano_fundacao": 1981,
+      "localizacao": "Freguesia de São Miguel de Machede"
+    },
+    {
+      "designacao": "Filarmónica do Centro Cultural de Borba",
+      "ano_fundacao": 1981,
+      "localizacao": "Borba (Matriz)"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Corvalense",
+      "ano_fundacao": 1981,
+      "localizacao": "Corval"
+    },
+    {
+      "designacao": "Orquestra Juvenil Câmara Municipal Ponte de Sôr",
+      "ano_fundacao": 1981,
+      "localizacao": "Ponte de Sor"
+    },
+    {
+      "designacao": "Escola de Música da Juventude de Mafra",
+      "ano_fundacao": 1981,
+      "localizacao": "Mafra"
+    },
+    {
+      "designacao": "Banda Musical e Artística da Charneca",
+      "ano_fundacao": 1981,
+      "localizacao": "Freguesia da Charneca"
+    },
+    {
+      "designacao": "Filarmónica Recreio de São Lázaro",
+      "ano_fundacao": 1981,
+      "localizacao": "Norte Pequeno"
+    },
+    {
+      "designacao": "Banda Musical 81 de Ferreirim",
+      "ano_fundacao": 1981,
+      "localizacao": "Ferreirim"
+    },
+    {
+      "designacao": "Sociedade Filarmónica de Lalim",
+      "ano_fundacao": 1981,
+      "localizacao": "Lalim"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa de Carapinheira",
+      "ano_fundacao": 1982,
+      "localizacao": "Carapinheira"
+    },
+    {
+      "designacao": "Banda de Música do Centro Cultural do Alandroal",
+      "ano_fundacao": 1982,
+      "localizacao": "Alandroal"
+    },
+    {
+      "designacao": "Associação Filarmónica de Faro",
+      "ano_fundacao": 1982,
+      "localizacao": "Faro"
+    },
+    {
+      "designacao": "Associação Cultural Recreativa e Desportiva do Pico da Pedra",
+      "ano_fundacao": 1982,
+      "localizacao": "Pico da Pedra"
+    },
+    {
+      "designacao": "Associação Cultural Recreativa de Sernancelhe",
+      "ano_fundacao": 1982,
+      "localizacao": "Sernancelhe"
+    },
+    {
+      "designacao": "Associação Filarmónica, Recreativa e Cultural do Brinço",
+      "ano_fundacao": 1983,
+      "localizacao": "Freguesia de Ala"
+    },
+    {
+      "designacao": "Associação Cultural, Recreativa e Desportiva de Seixo de Manhoses",
+      "ano_fundacao": 1983,
+      "localizacao": "Seixo de Manhoses"
+    },
+    {
+      "designacao": "Associação Recreativa e Musical 1º de Maio do Catujal",
+      "ano_fundacao": 1983,
+      "localizacao": "Camarate, Unhos e Apelação"
+    },
+    {
+      "designacao": "Filarmónica Lira Nossa Senhora da Estrela",
+      "ano_fundacao": 1983,
+      "localizacao": "Candelária"
+    },
+    {
+      "designacao": "Banda da União Mucifalense",
+      "ano_fundacao": 1984,
+      "localizacao": "Colares"
+    },
+    {
+      "designacao": "Associação Social, Recreativa, Cultural e Desportiva de Sobreiro Curvo",
+      "ano_fundacao": 1984,
+      "localizacao": "A-dos-Cunhados e Maceira"
+    },
+    {
+      "designacao": "Sociedade Recreativa Filarmónica União de São Brás",
+      "ano_fundacao": 1984,
+      "localizacao": "São Brás"
+    },
+    {
+      "designacao": "Associação Filarmónica e Cultural do Entroncamento",
+      "ano_fundacao": 1984,
+      "localizacao": "Nossa Senhora de Fátima"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Instrução, Recreio e Cultura Musical de São Sebastião",
+      "ano_fundacao": 1984,
+      "localizacao": "São Sebastião"
+    },
+    {
+      "designacao": "Associação Filarmónica, Cultural, Recreativa e Humanitária de Nagoselo do Douro",
+      "ano_fundacao": 1984,
+      "localizacao": "Nagozelo do Douro"
+    },
+    {
+      "designacao": "Associação Musical e Recreativa de Lagares",
+      "ano_fundacao": 1984,
+      "localizacao": "Freguesia de Lagares"
+    },
+    {
+      "designacao": "Filarmónica Popular de Verdelhos",
+      "ano_fundacao": 1985,
+      "localizacao": "Verdelhos"
+    },
+    {
+      "designacao": "Banda de Música de Izeda",
+      "ano_fundacao": 1985,
+      "localizacao": "Izeda"
+    },
+    {
+      "designacao": "Associação Filarmónica Cultural e Recreativa de Santa Bárbara da Fonte do Bastardo",
+      "ano_fundacao": 1985,
+      "localizacao": "Fonte do Bastardo"
+    },
+    {
+      "designacao": "Conservatório de Música de Santarém",
+      "ano_fundacao": 1985,
+      "localizacao": "União de Freguesias da Cidade de Santarém"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa de Santiago de Piães",
+      "ano_fundacao": 1985,
+      "localizacao": "Santiago de Piães"
+    },
+    {
+      "designacao": "Associação Musical, Cultural e Desportiva Malhadense",
+      "ano_fundacao": 1986,
+      "localizacao": "Malhada Sorda"
+    },
+    {
+      "designacao": "Banda Filarmónica de Pinhel",
+      "ano_fundacao": 1986,
+      "localizacao": "Pinhel"
+    },
+    {
+      "designacao": "Banda Musical da Casa do Povo de Nossa Senhora da Piedade do Porto Santo",
+      "ano_fundacao": 1986,
+      "localizacao": "Porto Santo"
+    },
+    {
+      "designacao": "Banda Orquestral de Câmara de Lobos “Os Infantes”",
+      "ano_fundacao": 1986,
+      "localizacao": "Freguesia de Câmara de Lobos"
+    },
+    {
+      "designacao": "Sociedade Recreativa Filarmónica Nossa Senhora das Vitórias",
+      "ano_fundacao": 1986,
+      "localizacao": "Santa Bárbara"
+    },
+    {
+      "designacao": "Associação Filarmónica Montalvense 24 de Janeiro",
+      "ano_fundacao": 1986,
+      "localizacao": "Montalvo"
+    },
+    {
+      "designacao": "Associação da Banda de Música de Felgueiras",
+      "ano_fundacao": 1986,
+      "localizacao": "Felgueiras"
+    },
+    {
+      "designacao": "Associação Musical Nossa Senhora do Livramento",
+      "ano_fundacao": 1987,
+      "localizacao": "Azueira e Sobral da Abelheira"
+    },
+    {
+      "designacao": "Associação Recreativa Filarmónica Nossa Senhora dos Remédios",
+      "ano_fundacao": 1987,
+      "localizacao": "Remédios"
+    },
+    {
+      "designacao": "Filarmónica de Nossa Senhora do Pilar",
+      "ano_fundacao": 1987,
+      "localizacao": "Cinco Ribeiras"
+    },
+    {
+      "designacao": "Sociedade Recreativa Filarmónica União Artística - SRFUA",
+      "ano_fundacao": 1987,
+      "localizacao": "Freguesia de Santiago do Cacém"
+    },
+    {
+      "designacao": "Associação Cultural e Recreativa da Torre de Ervededo",
+      "ano_fundacao": 1987,
+      "localizacao": "Ervededo"
+    },
+    {
+      "designacao": "Banda Musical de Carrazedo de Montenegro",
+      "ano_fundacao": 1987,
+      "localizacao": "Freguesia de Carrazedo de Montenegro"
+    },
+    {
+      "designacao": "Associação Recreativa e Musical de Ceira",
+      "ano_fundacao": 1988,
+      "localizacao": "Ceira"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Portimonense",
+      "ano_fundacao": 1988,
+      "localizacao": "Portimão"
+    },
+    {
+      "designacao": "Associação Musical e Artística Lourinhanense",
+      "ano_fundacao": 1988,
+      "localizacao": "Lourinhã e Atalaia"
+    },
+    {
+      "designacao": "Banda de Música dos Bombeiros Voluntários da Póvoa de Santa Iria",
+      "ano_fundacao": 1988,
+      "localizacao": "Póvoa de Santa Iria e Forte da Casa"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Rainha Santa Isabel",
+      "ano_fundacao": 1988,
+      "localizacao": "Doze Ribeiras"
+    },
+    {
+      "designacao": "União Filarmónica do Troviscal",
+      "ano_fundacao": 1989,
+      "localizacao": "Troviscal"
+    },
+    {
+      "designacao": "Banda Filarmónica de Odemira",
+      "ano_fundacao": 1989,
+      "localizacao": "Odemira"
+    },
+    {
+      "designacao": "Centro de Cultura e Desporto da Banda Juvenil de Gavião",
+      "ano_fundacao": 1989,
+      "localizacao": "Gavião e Atalaia"
+    },
+    {
+      "designacao": "Associação Musical dos Amigos da Banda Filarmónica Lira Cercalense",
+      "ano_fundacao": 1989,
+      "localizacao": "Freguesia de Cercal do Alentejo"
+    },
+    {
+      "designacao": "Orquesta do Clube Cultural e Desportivo de Veiros",
+      "ano_fundacao": 1990,
+      "localizacao": "Freguesia de Veiros"
+    },
+    {
+      "designacao": "Filarmónica de Ervedal da Beira",
+      "ano_fundacao": 1990,
+      "localizacao": "Freguesia de Ervedal"
+    },
+    {
+      "designacao": "Banda Filarmónica dos Bombeiros Voluntários de Aljezur",
+      "ano_fundacao": 1990,
+      "localizacao": "Aljezur"
+    },
+    {
+      "designacao": "Banda Filarmónica da Casa do Povo de São Vicente",
+      "ano_fundacao": 1990,
+      "localizacao": "São Vicente"
+    },
+    {
+      "designacao": "Banda Filarmónica dos Recreios da Venda Seca",
+      "ano_fundacao": 1990,
+      "localizacao": "Queluz e Belas"
+    },
+    {
+      "designacao": "Associação Cultural Recreativa e Musical da Banda de Música de Carlão (ACRM-BMC)",
+      "ano_fundacao": 1990,
+      "localizacao": "Freguesia de Carlão"
+    },
+    {
+      "designacao": "Banda Musical de Vila Verde da Raia",
+      "ano_fundacao": 1991,
+      "localizacao": "Vila Verde da Raia"
+    },
+    {
+      "designacao": "Orquestra Metropolitana de Lisboa",
+      "ano_fundacao": 1992,
+      "localizacao": "Alcântara"
+    },
+    {
+      "designacao": "Associação Filarmónica Adriano Soares",
+      "ano_fundacao": 1992,
+      "localizacao": "Torre de Vilela"
+    },
+    {
+      "designacao": "Banda Musical de Rebordondo",
+      "ano_fundacao": 1992,
+      "localizacao": "Anelhe"
+    },
+    {
+      "designacao": "Associação Protectora Amigos do Maçãs (APAM)",
+      "ano_fundacao": 1993,
+      "localizacao": "Quintanilha"
+    },
+    {
+      "designacao": "Associação Filarmónica e Cultural do Cadaval",
+      "ano_fundacao": 1993,
+      "localizacao": "Cadaval"
+    },
+    {
+      "designacao": "Banda Municipal de Oeiras",
+      "ano_fundacao": 1993,
+      "localizacao": "Oeiras e São Julião da Barra, Paço de Arcos e Caxias"
+    },
+    {
+      "designacao": "Banda Juvenil da Câmara Municipal de Nelas",
+      "ano_fundacao": 1993,
+      "localizacao": "Nelas"
+    },
+    {
+      "designacao": "Banda Filarmónica dos Bombeiros Voluntários de Vidigueira",
+      "ano_fundacao": 1995,
+      "localizacao": "Vidigueira"
+    },
+    {
+      "designacao": "Associação Filarmónica Serpinense",
+      "ano_fundacao": 1995,
+      "localizacao": "Serpins"
+    },
+    {
+      "designacao": "Banda Filarmónica da Casa do Povo de Vendas Novas",
+      "ano_fundacao": 1995,
+      "localizacao": "Vendas Novas"
+    },
+    {
+      "designacao": "Banda Filarmónica Cultural e Recreativa de São Caetano",
+      "ano_fundacao": 1995,
+      "localizacao": "Chãs"
+    },
+    {
+      "designacao": "Banda Filarmónica Mourisquense",
+      "ano_fundacao": 1995,
+      "localizacao": "Mouriscas"
+    },
+    {
+      "designacao": "Banda Filarmónica de Brinches",
+      "ano_fundacao": 1997,
+      "localizacao": "Freguesia de Brinches"
+    },
+    {
+      "designacao": "Orquestra Juvenil da Serra da Estrela",
+      "ano_fundacao": 1997,
+      "localizacao": "Seia, São Romão e Lapa dos Dinheiros"
+    },
+    {
+      "designacao": "Orquestra Juvenil da Marinha Grande",
+      "ano_fundacao": 1997,
+      "localizacao": "Marinha Grande"
+    },
+    {
+      "designacao": "Filarmónica Padroeiro Santo Estevão de Espinhoso",
+      "ano_fundacao": 1998,
+      "localizacao": "Candedo"
+    },
+    {
+      "designacao": "Associação da Juventude Activa da Castanheira",
+      "ano_fundacao": 1998,
+      "localizacao": "Castanheira"
+    },
+    {
+      "designacao": "Associação Cultural da Orquestra de Clarinetes de Almada",
+      "ano_fundacao": 1998,
+      "localizacao": "Freguesia da Cova da Piedade"
+    },
+    {
+      "designacao": "Big Band do Municipio da Nazaré",
+      "ano_fundacao": 1999,
+      "localizacao": "Nazaré"
+    },
+    {
+      "designacao": "Banda de Música da Casa do Povo da Enxara do Bispo",
+      "ano_fundacao": 1999,
+      "localizacao": "Enxara do Bispo, Gradil e Vila Franca do Rosário"
+    },
+    {
+      "designacao": "Casa de Cultura Popular de Outeiro Seco",
+      "ano_fundacao": 1999,
+      "localizacao": "Outeiro Seco"
+    },
+    {
+      "designacao": "União Musical Juventude e Amizade da Sobreira",
+      "ano_fundacao": 1999,
+      "localizacao": "Freguesia de Oliveira de Frades"
+    },
+    {
+      "designacao": "Associação Cultural Sons do Lena",
+      "ano_fundacao": 2000,
+      "localizacao": "Batalha"
+    },
+    {
+      "designacao": "Juventude Musical Ponterrolense - Associação BJMP",
+      "ano_fundacao": 2000,
+      "localizacao": "Ponte do Rol"
+    },
+    {
+      "designacao": "Sociedade Filarmónica Lira de São Mateus",
+      "ano_fundacao": 2000,
+      "localizacao": "São Mateus"
+    },
+    {
+      "designacao": "Associação Musical e Juvenil de Tourais",
+      "ano_fundacao": 2001,
+      "localizacao": "Tourais e Lajes"
+    },
+    {
+      "designacao": "Associação Cultural Banda Filarmónica de Riodades",
+      "ano_fundacao": 2001,
+      "localizacao": "Riodades"
+    },
+    {
+      "designacao": "Orquestra Clássica do Sul",
+      "ano_fundacao": 2002,
+      "localizacao": "Faro (Sé e São Pedro)"
+    },
+    {
+      "designacao": "Banda Municipal de Alfandega da Fé",
+      "ano_fundacao": 2002,
+      "localizacao": "Alfândega da Fé"
+    },
+    {
+      "designacao": "Sociedade Artística e Musical da Bajouca",
+      "ano_fundacao": 2003,
+      "localizacao": "Bajouca"
+    },
+    {
+      "designacao": "Banda Filarmónica do Caniço e Eiras",
+      "ano_fundacao": 2003,
+      "localizacao": "Caniço"
+    },
+    {
+      "designacao": "Banda Sinfónica Portuguesa",
+      "ano_fundacao": 2005,
+      "localizacao": "Porto"
+    },
+    {
+      "designacao": "Banda Filarmónica de São Brás de Alportel",
+      "ano_fundacao": 2006,
+      "localizacao": "São Brás de Alportel"
+    },
+    {
+      "designacao": "Associação Musical de Atalaia",
+      "ano_fundacao": 2007,
+      "localizacao": "Lourinhã e Atalaia"
+    },
+    {
+      "designacao": "Banda Filarmónica de Estorãos",
+      "ano_fundacao": 2007,
+      "localizacao": "Estorãos"
+    },
+    {
+      "designacao": "Associação Cultural e Musical de Salvaterra de Magos",
+      "ano_fundacao": 2009,
+      "localizacao": "Freguesia de Salvaterra de Magos"
+    },
+    {
+      "designacao": "Orquestra Filarmónica de Braga",
+      "ano_fundacao": 2015,
+      "localizacao": "Braga"
+    },
+    {
+      "designacao": "Portuguese Philharmonic Orchestra",
+      "ano_fundacao": 2016,
+      "localizacao": "Santa Maria da Feira"
+    },
+    {
+      "designacao": "AOCA - Associação Orquestra Clássica de Almodôvar",
+      "ano_fundacao": 2019,
+      "localizacao": "Almodôvar"
+    }
+  ],
+  "meta": {
+    "title": "Bandas filarmónicas e orquestras de Portugal - Free Download",
+    "description": "Lista de bandas de música, filarmónicas e orquestras portuguesas com o ano de fundação e a localidade (freguesia ou concelho) onde estão sediadas. Contains 664 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bandas filarmónicas e orquestras de Portugal | ListBase",
+    "seo_description": "Download Bandas filarmónicas e orquestras de Portugal — 664 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 664 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_orquestras_em_Portugal"
+    ]
+  }
+}
