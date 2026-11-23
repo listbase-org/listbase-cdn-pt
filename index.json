@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-23T02:42:08.489Z",
-  "total_datasets": 587,
-  "total_records": 754137,
+  "generated": "2026-11-23T02:42:17.960Z",
+  "total_datasets": 588,
+  "total_records": 754310,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -4331,6 +4331,30 @@
         "xlsx": {
           "name": "pt-castros-portugal_PT.xlsx",
           "size": 15552
+        }
+      }
+    },
+    {
+      "id": "pt-palacios-de-portugal",
+      "name": "Palácios, paços e solares de Portugal por distrito",
+      "category": "history",
+      "record_count": 173,
+      "columns": [
+        "nome",
+        "distrito_regiao",
+        "descricao"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_palácios_de_Portugal",
+      "updated": "2026-11",
+      "size": 62120,
+      "files": {
+        "csv": {
+          "name": "pt-palacios-de-portugal_PT.csv",
+          "size": 47763
+        },
+        "xlsx": {
+          "name": "pt-palacios-de-portugal_PT.xlsx",
+          "size": 23265
         }
       }
     },
