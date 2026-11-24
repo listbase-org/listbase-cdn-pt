@@ -1,0 +1,796 @@
+{
+  "id": "pt-farois-de-portugal",
+  "name": "Faróis de Portugal",
+  "title": "Faróis de Portugal",
+  "description": "Faróis de Portugal continental, Açores e Madeira com o município, ano de construção, altura da torre, alcance luminoso em milhas náuticas e coordenadas geográficas (dados do Wikidata).",
+  "category": "tourism",
+  "source": "https://www.wikidata.org/wiki/Q39715",
+  "source_url": "https://www.wikidata.org/wiki/Q39715",
+  "updated": "2026-11",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "municipio",
+      "label": "Municipio",
+      "type": "string"
+    },
+    {
+      "key": "ano_construcao",
+      "label": "Ano Construcao",
+      "type": "number"
+    },
+    {
+      "key": "altura_m",
+      "label": "Altura M",
+      "type": "number"
+    },
+    {
+      "key": "alcance_milhas_nauticas",
+      "label": "Alcance Milhas Nauticas",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Farol Cabo Mondego",
+      "municipio": "Figueira da Foz",
+      "ano_construcao": 1858,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 28,
+      "latitude": 40.191,
+      "longitude": -8.90517,
+      "wikidata": "Q11784"
+    },
+    {
+      "nome": "Farol da Azeda",
+      "municipio": "Setúbal",
+      "ano_construcao": 1940,
+      "altura_m": 31,
+      "alcance_milhas_nauticas": 22,
+      "latitude": 38.53866,
+      "longitude": -8.87846,
+      "wikidata": "Q10280106"
+    },
+    {
+      "nome": "Farol da Boa Nova",
+      "municipio": "Matosinhos",
+      "ano_construcao": 1926,
+      "altura_m": 46,
+      "alcance_milhas_nauticas": 28,
+      "latitude": 41.20132,
+      "longitude": -8.71212,
+      "wikidata": "Q10280159"
+    },
+    {
+      "nome": "Farol da Cantareira",
+      "municipio": "Porto",
+      "ano_construcao": 1800,
+      "altura_m": 6,
+      "alcance_milhas_nauticas": 9,
+      "latitude": 41.14717,
+      "longitude": -8.667,
+      "wikidata": "Q10280204"
+    },
+    {
+      "nome": "Farol da Chibata",
+      "municipio": "Almada",
+      "ano_construcao": 2000,
+      "altura_m": 23,
+      "alcance_milhas_nauticas": 15,
+      "latitude": 38.64417,
+      "longitude": -9.21792,
+      "wikidata": "Q10280109"
+    },
+    {
+      "nome": "Farol da Gibalta",
+      "municipio": "Oeiras",
+      "ano_construcao": 1914,
+      "altura_m": 21,
+      "alcance_milhas_nauticas": 21,
+      "latitude": 38.69911,
+      "longitude": -9.26631,
+      "wikidata": "Q10280112"
+    },
+    {
+      "nome": "Farol da Guia",
+      "municipio": "Cascais",
+      "ano_construcao": 1761,
+      "altura_m": 28,
+      "alcance_milhas_nauticas": 19,
+      "latitude": 38.69562,
+      "longitude": -9.44645,
+      "wikidata": "Q10280113"
+    },
+    {
+      "nome": "Farol da Ilha da Berlenga",
+      "municipio": "Peniche",
+      "ano_construcao": 1842,
+      "altura_m": 29,
+      "alcance_milhas_nauticas": 27,
+      "latitude": 39.41524,
+      "longitude": -9.50983,
+      "wikidata": "Q8960874"
+    },
+    {
+      "nome": "Farol da Mama",
+      "municipio": "Oeiras",
+      "ano_construcao": 1857,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 21,
+      "latitude": 38.72756,
+      "longitude": -9.22725,
+      "wikidata": "Q10280117"
+    },
+    {
+      "nome": "Farol da Nazaré",
+      "municipio": "Nazaré",
+      "ano_construcao": 1903,
+      "altura_m": 8,
+      "alcance_milhas_nauticas": 14,
+      "latitude": 39.60451,
+      "longitude": -9.08538,
+      "wikidata": "Q10280118"
+    },
+    {
+      "nome": "Farol da Ponta da Barca",
+      "municipio": "Santa Cruz da Graciosa",
+      "ano_construcao": 1930,
+      "altura_m": 23,
+      "alcance_milhas_nauticas": 20,
+      "latitude": 39.09361,
+      "longitude": -28.04944,
+      "wikidata": "Q6546363"
+    },
+    {
+      "nome": "Farol da Ponta da Ferraria",
+      "municipio": "Ponta Delgada",
+      "ano_construcao": 1901,
+      "altura_m": 18,
+      "alcance_milhas_nauticas": 27,
+      "latitude": 37.85349,
+      "longitude": -25.8503,
+      "wikidata": "Q10280122"
+    },
+    {
+      "nome": "Farol da Ponta da Ilha",
+      "municipio": "Lajes do Pico",
+      "ano_construcao": 1946,
+      "altura_m": 19,
+      "alcance_milhas_nauticas": 24,
+      "latitude": 38.41224,
+      "longitude": -28.03039,
+      "wikidata": "Q10280123"
+    },
+    {
+      "nome": "Farol da Ponta da Piedade",
+      "municipio": "Lagos",
+      "ano_construcao": 1913,
+      "altura_m": 5,
+      "alcance_milhas_nauticas": 20,
+      "latitude": 37.08058,
+      "longitude": -8.66944,
+      "wikidata": "Q10280124"
+    },
+    {
+      "nome": "Farol da Ponta da Ribeirinha",
+      "municipio": "Horta",
+      "ano_construcao": 1999,
+      "altura_m": 6,
+      "alcance_milhas_nauticas": 12,
+      "latitude": 38.59556,
+      "longitude": -28.60247,
+      "wikidata": "Q10280126"
+    },
+    {
+      "nome": "Farol da Ponta da Serreta",
+      "municipio": "Angra do Heroísmo",
+      "ano_construcao": 1908,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 12,
+      "latitude": 38.76583,
+      "longitude": -27.37389,
+      "wikidata": "Q10280125"
+    },
+    {
+      "nome": "Farol da Ponta das Contendas",
+      "municipio": "Angra do Heroísmo",
+      "ano_construcao": 1882,
+      "altura_m": 13,
+      "alcance_milhas_nauticas": 23,
+      "latitude": 38.6436,
+      "longitude": -27.08438,
+      "wikidata": "Q6546365"
+    },
+    {
+      "nome": "Farol da Ponta de São Jorge",
+      "municipio": "Santana",
+      "ano_construcao": 1959,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 15,
+      "latitude": 32.83452,
+      "longitude": -16.9062,
+      "wikidata": "Q5436123"
+    },
+    {
+      "nome": "Farol da Ponta de São Lourenço",
+      "municipio": "Machico",
+      "ano_construcao": 1870,
+      "altura_m": 10,
+      "alcance_milhas_nauticas": 20,
+      "latitude": 32.73042,
+      "longitude": -16.65661,
+      "wikidata": "Q5436124"
+    },
+    {
+      "nome": "Farol da Ponta do Albernaz",
+      "municipio": "Santa Cruz das Flores",
+      "ano_construcao": 1925,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 22,
+      "latitude": 39.51992,
+      "longitude": -31.23584,
+      "wikidata": "Q10280128"
+    },
+    {
+      "nome": "Farol da Ponta do Altar",
+      "municipio": "Lagoa",
+      "ano_construcao": 1893,
+      "altura_m": 10,
+      "alcance_milhas_nauticas": 16,
+      "latitude": 37.10578,
+      "longitude": -8.51958,
+      "wikidata": "Q10280130"
+    },
+    {
+      "nome": "Farol da Ponta do Arnel",
+      "municipio": "Nordeste",
+      "ano_construcao": 1876,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 19,
+      "latitude": 37.82417,
+      "longitude": -25.13556,
+      "wikidata": "Q10280132"
+    },
+    {
+      "nome": "Farol da Ponta do Cintrão",
+      "municipio": "Ribeira Grande",
+      "ano_construcao": 1957,
+      "altura_m": 14,
+      "alcance_milhas_nauticas": 14,
+      "latitude": 37.84567,
+      "longitude": -25.48908,
+      "wikidata": "Q10280134"
+    },
+    {
+      "nome": "Farol da Ponta do Pargo",
+      "municipio": "Calheta",
+      "ano_construcao": 1922,
+      "altura_m": 14,
+      "alcance_milhas_nauticas": 26,
+      "latitude": 32.81389,
+      "longitude": -17.26308,
+      "wikidata": "Q10280133"
+    },
+    {
+      "nome": "Farol da Ponta do Topo",
+      "municipio": "Calheta",
+      "ano_construcao": 1927,
+      "altura_m": 16,
+      "alcance_milhas_nauticas": 20,
+      "latitude": 38.54908,
+      "longitude": -27.75487,
+      "wikidata": "Q10280135"
+    },
+    {
+      "nome": "Farol da Ponta dos Rosais",
+      "municipio": "Velas",
+      "ano_construcao": 1958,
+      "altura_m": 27,
+      "alcance_milhas_nauticas": 8,
+      "latitude": 38.75367,
+      "longitude": -28.31155,
+      "wikidata": "Q6546366"
+    },
+    {
+      "nome": "Farol da Senhora da Agonia",
+      "municipio": "Viana do Castelo",
+      "ano_construcao": 1888,
+      "altura_m": 9,
+      "alcance_milhas_nauticas": 5,
+      "latitude": 41.69322,
+      "longitude": -8.83769,
+      "wikidata": "Q10280139"
+    },
+    {
+      "nome": "Farol da Senhora da Luz",
+      "municipio": "Porto",
+      "ano_construcao": 1761,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 38,
+      "latitude": 41.15444,
+      "longitude": -8.67748,
+      "wikidata": "Q10280141"
+    },
+    {
+      "nome": "Farol da Ínsua",
+      "municipio": "Caminha",
+      "ano_construcao": 1886,
+      "altura_m": 7,
+      "alcance_milhas_nauticas": 8,
+      "latitude": 41.85923,
+      "longitude": -8.8752,
+      "wikidata": "Q10280140"
+    },
+    {
+      "nome": "Farol das Lajes",
+      "municipio": "Lajes das Flores",
+      "ano_construcao": 1910,
+      "altura_m": 16,
+      "alcance_milhas_nauticas": 26,
+      "latitude": 39.37561,
+      "longitude": -31.17682,
+      "wikidata": "Q10280142"
+    },
+    {
+      "nome": "Farol de Alfanzina",
+      "municipio": "Lagoa",
+      "ano_construcao": 1920,
+      "altura_m": 23,
+      "alcance_milhas_nauticas": 29,
+      "latitude": 37.08686,
+      "longitude": -8.44264,
+      "wikidata": "Q3499472"
+    },
+    {
+      "nome": "Farol de Aveiro",
+      "municipio": "Ílhavo",
+      "ano_construcao": 1893,
+      "altura_m": 62,
+      "alcance_milhas_nauticas": 23,
+      "latitude": 40.64287,
+      "longitude": -8.74797,
+      "wikidata": "Q3134299"
+    },
+    {
+      "nome": "Farol de Azurara (posterior)",
+      "municipio": "Vila do Conde",
+      "ano_construcao": 1700,
+      "altura_m": 6,
+      "alcance_milhas_nauticas": 6,
+      "latitude": 41.33774,
+      "longitude": -8.73694,
+      "wikidata": "Q10280146"
+    },
+    {
+      "nome": "Farol de Belém (Lisboa)",
+      "municipio": "Lisboa",
+      "ano_construcao": 1940,
+      "altura_m": 20,
+      "alcance_milhas_nauticas": "",
+      "latitude": 38.69305,
+      "longitude": -9.20899,
+      "wikidata": "Q28375667"
+    },
+    {
+      "nome": "Farol de Cacilhas",
+      "municipio": "Almada",
+      "ano_construcao": 1886,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 11.5,
+      "latitude": 38.68814,
+      "longitude": -9.14636,
+      "wikidata": "Q1292515"
+    },
+    {
+      "nome": "Farol de Esposende",
+      "municipio": "Esposende",
+      "ano_construcao": 1866,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 24,
+      "latitude": 41.54297,
+      "longitude": -8.79061,
+      "wikidata": "Q10280153"
+    },
+    {
+      "nome": "Farol de Felgueiras",
+      "municipio": "Porto",
+      "ano_construcao": 1886,
+      "altura_m": 10,
+      "alcance_milhas_nauticas": 9,
+      "latitude": 41.14674,
+      "longitude": -8.67729,
+      "wikidata": "Q10280208"
+    },
+    {
+      "nome": "Farol de Gonçalo Velho",
+      "municipio": "Vila do Porto",
+      "ano_construcao": 1927,
+      "altura_m": 14,
+      "alcance_milhas_nauticas": 25,
+      "latitude": 36.9296,
+      "longitude": -25.01615,
+      "wikidata": "Q10280155"
+    },
+    {
+      "nome": "Farol de Montedor",
+      "municipio": "Viana do Castelo",
+      "ano_construcao": 1910,
+      "altura_m": 28,
+      "alcance_milhas_nauticas": 22,
+      "latitude": 41.75,
+      "longitude": -8.875,
+      "wikidata": "Q8960902"
+    },
+    {
+      "nome": "Farol de Ponta Garça",
+      "municipio": "Vila Franca do Campo",
+      "ano_construcao": 1957,
+      "altura_m": 14,
+      "alcance_milhas_nauticas": 13,
+      "latitude": 37.71425,
+      "longitude": -25.36964,
+      "wikidata": "Q10280164"
+    },
+    {
+      "nome": "Farol de Regufe",
+      "municipio": "Póvoa de Varzim",
+      "ano_construcao": 1892,
+      "altura_m": 22,
+      "alcance_milhas_nauticas": 15,
+      "latitude": 41.37442,
+      "longitude": -8.75476,
+      "wikidata": "Q5436130"
+    },
+    {
+      "nome": "Farol de Sagres",
+      "municipio": "Vila do Bispo",
+      "ano_construcao": 1894,
+      "altura_m": 13,
+      "alcance_milhas_nauticas": 11,
+      "latitude": 36.99451,
+      "longitude": -8.94929,
+      "wikidata": "Q8960909"
+    },
+    {
+      "nome": "Farol de Santa Catarina",
+      "municipio": "Figueira da Foz",
+      "ano_construcao": 1888,
+      "altura_m": 10,
+      "alcance_milhas_nauticas": "",
+      "latitude": 40.14789,
+      "longitude": -8.8666,
+      "wikidata": "Q10280169"
+    },
+    {
+      "nome": "Farol de Santa Clara",
+      "municipio": "Ponta Delgada",
+      "ano_construcao": 1945,
+      "altura_m": 8,
+      "alcance_milhas_nauticas": 15,
+      "latitude": 37.73333,
+      "longitude": -25.68586,
+      "wikidata": "Q8960913"
+    },
+    {
+      "nome": "Farol de Santa Marta",
+      "municipio": "Cascais",
+      "ano_construcao": 1868,
+      "altura_m": 20,
+      "alcance_milhas_nauticas": 14,
+      "latitude": 38.69042,
+      "longitude": -9.42103,
+      "wikidata": "Q10280171"
+    },
+    {
+      "nome": "Farol de São Julião",
+      "municipio": "Oeiras",
+      "ano_construcao": 1775,
+      "altura_m": 24,
+      "alcance_milhas_nauticas": 14,
+      "latitude": 38.67452,
+      "longitude": -9.32528,
+      "wikidata": "Q10280173"
+    },
+    {
+      "nome": "Farol de São Miguel-o-Anjo",
+      "municipio": "Porto",
+      "ano_construcao": 1527,
+      "altura_m": 8,
+      "alcance_milhas_nauticas": "",
+      "latitude": 41.147,
+      "longitude": -8.66667,
+      "wikidata": "Q10280175"
+    },
+    {
+      "nome": "Farol de Vila Real de Santo António",
+      "municipio": "Vila Real de Santo António",
+      "ano_construcao": 1923,
+      "altura_m": 46,
+      "alcance_milhas_nauticas": 26,
+      "latitude": 37.18695,
+      "longitude": -7.41635,
+      "wikidata": "Q10280176"
+    },
+    {
+      "nome": "Farol de Vilamoura",
+      "municipio": "Loulé",
+      "ano_construcao": 1981,
+      "altura_m": 16,
+      "alcance_milhas_nauticas": 19,
+      "latitude": 37.07453,
+      "longitude": -8.12297,
+      "wikidata": "Q10280178"
+    },
+    {
+      "nome": "Farol do Bugio",
+      "municipio": "Oeiras",
+      "ano_construcao": 1658,
+      "altura_m": 14,
+      "alcance_milhas_nauticas": 15,
+      "latitude": 38.66047,
+      "longitude": -9.29897,
+      "wikidata": "Q8960876"
+    },
+    {
+      "nome": "Farol do Cabo Carvoeiro",
+      "municipio": "Peniche",
+      "ano_construcao": 1790,
+      "altura_m": 27,
+      "alcance_milhas_nauticas": 15,
+      "latitude": 39.36067,
+      "longitude": -9.40781,
+      "wikidata": "Q8960880"
+    },
+    {
+      "nome": "Farol do Cabo Espichel",
+      "municipio": "Sesimbra",
+      "ano_construcao": 1790,
+      "altura_m": 32,
+      "alcance_milhas_nauticas": 26,
+      "latitude": 38.41561,
+      "longitude": -9.21644,
+      "wikidata": "Q11681789"
+    },
+    {
+      "nome": "Farol do Cabo Raso",
+      "municipio": "Cascais",
+      "ano_construcao": 1894,
+      "altura_m": 13,
+      "alcance_milhas_nauticas": 20,
+      "latitude": 38.70951,
+      "longitude": -9.48582,
+      "wikidata": "Q10280181"
+    },
+    {
+      "nome": "Farol do Cabo Sardão",
+      "municipio": "Odemira",
+      "ano_construcao": 1915,
+      "altura_m": 17,
+      "alcance_milhas_nauticas": 23,
+      "latitude": 37.59863,
+      "longitude": -8.81606,
+      "wikidata": "Q10280184"
+    },
+    {
+      "nome": "Farol do Cabo da Roca",
+      "municipio": "Sintra",
+      "ano_construcao": 1758,
+      "altura_m": 22,
+      "alcance_milhas_nauticas": 26,
+      "latitude": 38.78193,
+      "longitude": -9.4973,
+      "wikidata": "Q5015743"
+    },
+    {
+      "nome": "Farol do Cabo de Santa Maria",
+      "municipio": "Faro",
+      "ano_construcao": 1851,
+      "altura_m": 46,
+      "alcance_milhas_nauticas": 25,
+      "latitude": 36.97463,
+      "longitude": -7.86466,
+      "wikidata": "Q8960892"
+    },
+    {
+      "nome": "Farol do Cabo de Sines",
+      "municipio": "Sines",
+      "ano_construcao": 1880,
+      "altura_m": 28,
+      "alcance_milhas_nauticas": 26,
+      "latitude": 37.95948,
+      "longitude": -8.88025,
+      "wikidata": "Q1024908"
+    },
+    {
+      "nome": "Farol do Cabo de São Vicente",
+      "municipio": "Vila do Bispo",
+      "ano_construcao": 1846,
+      "altura_m": 28,
+      "alcance_milhas_nauticas": 32,
+      "latitude": 37.02306,
+      "longitude": -8.99614,
+      "wikidata": "Q9300521"
+    },
+    {
+      "nome": "Farol do Carapacho",
+      "municipio": "Santa Cruz da Graciosa",
+      "ano_construcao": 1956,
+      "altura_m": 14,
+      "alcance_milhas_nauticas": 15,
+      "latitude": 39.01403,
+      "longitude": -27.95494,
+      "wikidata": "Q10280131"
+    },
+    {
+      "nome": "Farol do Esteiro",
+      "municipio": "Oeiras",
+      "ano_construcao": 1914,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 21,
+      "latitude": 38.70381,
+      "longitude": -9.25983,
+      "wikidata": "Q10280185"
+    },
+    {
+      "nome": "Farol do Forte da Barra",
+      "municipio": "Ílhavo",
+      "ano_construcao": 1900,
+      "altura_m": 19,
+      "alcance_milhas_nauticas": 6,
+      "latitude": 40.64505,
+      "longitude": -8.73297,
+      "wikidata": "Q10280188"
+    },
+    {
+      "nome": "Farol do Forte do Cavalo",
+      "municipio": "Sesimbra",
+      "ano_construcao": 1896,
+      "altura_m": 7,
+      "alcance_milhas_nauticas": 14,
+      "latitude": 38.43456,
+      "longitude": -9.11647,
+      "wikidata": "Q10280187"
+    },
+    {
+      "nome": "Farol do Ilhéu de Cima",
+      "municipio": "Porto Santo",
+      "ano_construcao": 1901,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 21,
+      "latitude": 33.05472,
+      "longitude": -16.27889,
+      "wikidata": "Q10280190"
+    },
+    {
+      "nome": "Farol do Ilhéu de Ferro",
+      "municipio": "Porto Santo",
+      "ano_construcao": 1959,
+      "altura_m": 14,
+      "alcance_milhas_nauticas": 13,
+      "latitude": 33.03889,
+      "longitude": -16.40583,
+      "wikidata": "Q10280191"
+    },
+    {
+      "nome": "Farol do Outão",
+      "municipio": "Setúbal",
+      "ano_construcao": 1775,
+      "altura_m": 11,
+      "alcance_milhas_nauticas": 12,
+      "latitude": 38.4885,
+      "longitude": -8.93433,
+      "wikidata": "Q10280193"
+    },
+    {
+      "nome": "Farol do Penedo da Saudade",
+      "municipio": "Marinha Grande",
+      "ano_construcao": 1912,
+      "altura_m": 32,
+      "alcance_milhas_nauticas": 30,
+      "latitude": 39.76406,
+      "longitude": -9.03119,
+      "wikidata": "Q10280194"
+    },
+    {
+      "nome": "Farol dos Três Bicos",
+      "municipio": "Matosinhos",
+      "ano_construcao": 1800,
+      "altura_m": 6,
+      "alcance_milhas_nauticas": 9,
+      "latitude": 41.2011,
+      "longitude": -8.71222,
+      "wikidata": "Q10280206"
+    },
+    {
+      "nome": "Farolim Costa Norte Porto Santo",
+      "municipio": "Porto Santo",
+      "ano_construcao": 1995,
+      "altura_m": 4.5,
+      "alcance_milhas_nauticas": 12,
+      "latitude": 33.09917,
+      "longitude": -16.33833,
+      "wikidata": "Q107361124"
+    },
+    {
+      "nome": "Farolim de Santiago",
+      "municipio": "Viana do Castelo",
+      "ano_construcao": 1878,
+      "altura_m": 6,
+      "alcance_milhas_nauticas": 5,
+      "latitude": 41.68879,
+      "longitude": -8.83906,
+      "wikidata": "Q10280186"
+    },
+    {
+      "nome": "Farolim do Molhe Norte do Douro",
+      "municipio": "Porto",
+      "ano_construcao": 2010,
+      "altura_m": 7,
+      "alcance_milhas_nauticas": 9,
+      "latitude": 41.14483,
+      "longitude": -8.67967,
+      "wikidata": "Q28374696"
+    },
+    {
+      "nome": "Farolim do Molhe Sul do Douro",
+      "municipio": "Porto",
+      "ano_construcao": 2009,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 6,
+      "latitude": 41.1445,
+      "longitude": -8.67533,
+      "wikidata": "Q28374697"
+    },
+    {
+      "nome": "Farolim do Quebra-mar da Horta",
+      "municipio": "Horta",
+      "ano_construcao": 1882,
+      "altura_m": 15,
+      "alcance_milhas_nauticas": 11,
+      "latitude": 38.54056,
+      "longitude": -28.62611,
+      "wikidata": "Q28375311"
+    },
+    {
+      "nome": "Farolim do molhe norte de Vila do Conde",
+      "municipio": "Vila do Conde",
+      "ano_construcao": 1981,
+      "altura_m": 7.8,
+      "alcance_milhas_nauticas": 9,
+      "latitude": 41.3367,
+      "longitude": -8.74969,
+      "wikidata": "Q10280211"
+    }
+  ],
+  "meta": {
+    "title": "Faróis de Portugal - Free Download",
+    "description": "Faróis de Portugal continental, Açores e Madeira com o município, ano de construção, altura da torre, alcance luminoso em milhas náuticas e coordenadas geográficas (dados do Wikidata). Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Faróis de Portugal | ListBase",
+    "seo_description": "Download Faróis de Portugal — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Q39715"
+    ]
+  }
+}

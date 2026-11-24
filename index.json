@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-24T02:10:57.927Z",
-  "total_datasets": 590,
-  "total_records": 754544,
+  "generated": "2026-11-24T02:11:08.599Z",
+  "total_datasets": 591,
+  "total_records": 754617,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -19986,6 +19986,35 @@
         "xlsx": {
           "name": "pt-cascatas-de-portugal_PT.xlsx",
           "size": 10511
+        }
+      }
+    },
+    {
+      "id": "pt-farois-de-portugal",
+      "name": "Faróis de Portugal",
+      "category": "tourism",
+      "record_count": 73,
+      "columns": [
+        "nome",
+        "municipio",
+        "ano_construcao",
+        "altura_m",
+        "alcance_milhas_nauticas",
+        "latitude",
+        "longitude",
+        "wikidata"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q39715",
+      "updated": "2026-11",
+      "size": 21053,
+      "files": {
+        "csv": {
+          "name": "pt-farois-de-portugal_PT.csv",
+          "size": 6555
+        },
+        "xlsx": {
+          "name": "pt-farois-de-portugal_PT.xlsx",
+          "size": 11509
         }
       }
     },
