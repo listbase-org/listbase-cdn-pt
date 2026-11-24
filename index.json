@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-23T02:42:17.960Z",
-  "total_datasets": 588,
-  "total_records": 754310,
+  "generated": "2026-11-24T02:10:49.096Z",
+  "total_datasets": 589,
+  "total_records": 754457,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -4634,6 +4634,33 @@
         "xlsx": {
           "name": "pt-br-constituicoes_PT.xlsx",
           "size": 17809
+        }
+      }
+    },
+    {
+      "id": "pt-br-emendas-constituicao-1988",
+      "name": "Emendas à Constituição brasileira de 1988",
+      "category": "law",
+      "record_count": 147,
+      "columns": [
+        "numero",
+        "tipo",
+        "data_promulgacao",
+        "data_publicacao",
+        "ementa",
+        "principais_alteracoes"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_emendas_à_constituição_brasileira_de_1988",
+      "updated": "2026-11",
+      "size": 77565,
+      "files": {
+        "csv": {
+          "name": "pt-br-emendas-constituicao-1988_PT.csv",
+          "size": 54091
+        },
+        "xlsx": {
+          "name": "pt-br-emendas-constituicao-1988_PT.xlsx",
+          "size": 24080
         }
       }
     },
