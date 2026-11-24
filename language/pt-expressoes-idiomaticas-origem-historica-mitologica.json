@@ -1,0 +1,476 @@
+{
+  "id": "pt-expressoes-idiomaticas-origem-historica-mitologica",
+  "name": "Expressões idiomáticas portuguesas de origem histórica ou mitológica",
+  "title": "Expressões idiomáticas portuguesas de origem histórica ou mitológica",
+  "description": "Expressões idiomáticas da língua portuguesa cuja origem remonta à mitologia ou a factos históricos, com o respetivo significado.",
+  "category": "language",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_expressões_idiomáticas_de_origem_histórica_ou_mitológica",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_expressões_idiomáticas_de_origem_histórica_ou_mitológica",
+  "updated": "2026-11",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "expressao",
+      "label": "Expressao",
+      "type": "string"
+    },
+    {
+      "key": "significado",
+      "label": "Significado",
+      "type": "string"
+    },
+    {
+      "key": "origem",
+      "label": "Origem",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "expressao": "trabalho de Sísifo",
+      "significado": "tarefa exaustiva, interminável e inútil",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "beber das águas de Letes",
+      "significado": "esquecer completamente",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "comer o fígado",
+      "significado": "impor castigo terrível, pior que a morte",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "esforço hercúleo ou titânico",
+      "significado": "esforço gigantesco, além (ou no limite) das possibilidades humanas",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "bicho de sete cabeças",
+      "significado": "enorme ameaça ou dificuldade, requerendo grande coragem e/ou astúcia para ser superada",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "canto das sereias",
+      "significado": "jogo de sedução utilizado para enganar alguém",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "camisa de Nesso",
+      "significado": "presente fatal",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "entre Cila e Caríbdis",
+      "significado": "entre duas formidáveis ameaças, sem chance de escapar e/ou sem saber qual das duas é o mais perigosa",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "calcanhar de Aquiles",
+      "significado": "ponto vulnerável, físico, moral ou intelectual",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "toque de Midas",
+      "significado": "capacidade de enriquecimento fácil, que pode se voltar contra o beneficiado, como castigo por sua ambição desmedida",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "belo como um Adônis",
+      "significado": "jovem de extrema beleza, disputado pelas mulheres",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "leito de Procrusto",
+      "significado": "aplicação arbitrária de uma medida única; sujeição forçada à opinião ou vontade de outrem",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "tomar a nuvem por Juno",
+      "significado": "iludir-se; tomar os desejos por realidade",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "pomo da discórdia",
+      "significado": "motivo principal de uma disputa; algo que dá motivo a uma grande desavença",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "profecia de Cassandra",
+      "significado": "profecia catastrófica, na qual ninguém acredita",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "presente de grego",
+      "significado": "presente ou oferta que traz prejuízo ou aborrecimentos a quem a recebe",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "agradar a gregos e troianos",
+      "significado": "agradar a todos, mesmo a pessoas com características muito diferentes; agradar a dois partidos opostos",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "voto de Minerva",
+      "significado": "voto de desempate, dado por uma autoridade superior",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "espada de Dâmocles",
+      "significado": "perigo iminente, fruto da inveja e/ou da ambição pelo poder",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "cova de Caco",
+      "significado": "esconderijo de ladrões",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "caixa de Pandora ou boceta de Pandora",
+      "significado": "algo que gera forte curiosidade, mas que é melhor não ser revelado ou estudado",
+      "origem": "mitológica"
+    },
+    {
+      "expressao": "ser o bode expiatório",
+      "significado": "pagar pela culpa dos outros",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "do arco-da-velha",
+      "significado": "algo de tempos antigos, espantoso, inacreditável, inverossímil",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "paciência de Jó",
+      "significado": "paciência, tolerância ou resignação acima dos limites razoáveis",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "sabedoria salomônica",
+      "significado": "grande sabedoria, utilizada para governar com justiça e equidade",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "cova dos leões",
+      "significado": "enorme perigo, do qual só se pode escapar com grande fé e coragem",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "Madalena arrependida",
+      "significado": "alguém que se arrepende do passado e/ou muda radicalmente de estilo de vida",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "espírito de porco",
+      "significado": "diz-se de pessoa cruel, ranzinza, inconveniente, com tendência a complicar situações e/ou causar constrangimentos",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "dar pérolas aos porcos",
+      "significado": "oferecer algo de grande valor a alguém incapaz de apreciá-lo; dizer preciosidades a quem não é capaz de entender",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "quem pariu Mateus que o embale",
+      "significado": "se alguém cria algum problema, deve ser responsável por ele",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "entregar de bandeja",
+      "significado": "entregar algo facilmente, sem resistência",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "ver para crer",
+      "significado": "incredulidade, necessidade de provas para acreditar",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "lavar as mãos",
+      "significado": "eximir-se de responsabilidade",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "beijo de Judas",
+      "significado": "sinal de traição",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "dinheiro de Judas",
+      "significado": "preço de uma traição",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "onde Judas perdeu as botas",
+      "significado": "lugar distante ou inacessível",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "se a montanha não vai a Maomé, Maomé vai à montanha",
+      "significado": "preferência por soluções simples e exequíveis",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "estar entre a cruz e caldeirinha",
+      "significado": "estar diante de um dilema, tendo que decidir entre duas opções igualmente ruins",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "a carne é fraca",
+      "significado": "sobre a facilidade com que cedemos às tentações",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "quem não está conosco está contra",
+      "significado": "sobre o alinhamento polarizado em situações de crise",
+      "origem": "religiosa"
+    },
+    {
+      "expressao": "estilo lacônico",
+      "significado": "modo breve ou conciso de falar ou de escrever",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "corrida de Aquiles contra a tartaruga",
+      "significado": "paradoxo, ilusão de movimento",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "leis draconianas",
+      "significado": "leis especialmente duras, envolvendo severas punições",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "cair no ostracismo",
+      "significado": "ser excluído ou rejeitado por um determinado grupo",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "amor platônico",
+      "significado": "relação afetuosa que exclui a atração sexual",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "ir além das sandálias",
+      "significado": "dar palpite em assunto que não seja de sua especialidade",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "atitude cínica",
+      "significado": "comportamento hipócrita, descarado, despudorado, insensível",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "estilo sibarítico",
+      "significado": "caracterizado por luxo excessivo ou efeminado",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "nó górdio",
+      "significado": "fulcro da questão; cerne de um problema complexo, resolvido de maneira simples e eficaz",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "vitória de Pirro ou vitória pírrica",
+      "significado": "uma vitória obtida a alto preço, causando prejuízos irreparáveis",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "queimar as naus, queimar os navios ou queimar as caravelas",
+      "significado": "seguir em frente, com confiança absoluta na vitória final",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "ficar para as calendas gregas",
+      "significado": "ser agendado ou transferido para uma data que jamais ocorrerá",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "ganso do Capitólio",
+      "significado": "pessoa que contribui involuntariamente para alguma ação importante",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "ai dos vencidos!",
+      "significado": "aos vencidos não resta senão resignar-se",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "espada de Breno",
+      "significado": "prepotência do vencedor",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "cruzar o Rubicão",
+      "significado": "tomar uma decisão arriscada de maneira irrevogável, sem volta",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "cuidado com os idos de março!",
+      "significado": "atenção à má sorte",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "não entender patavina",
+      "significado": "não conhecer ou entender nada sobre determinado assunto",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "erro crasso",
+      "significado": "falha grosseira de planejamento, com consequências trágicas",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "agir como um vândalo",
+      "significado": "destruir ou depredar bens públicos por revolta ou simples prazer da destruição",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "discutir o sexo dos anjos/o umbigo de Adão/quantos anjos sapateiam na cabeça de um alfinete",
+      "significado": "o mesmo que:",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "discussão bizantina",
+      "significado": "discussão que não leva a nada, sobre assunto sem nenhum interesse prático",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "Inês é morta",
+      "significado": "expressão utilizada, no sentido de “agora é tarde”, em relação a uma providência tomada atrasadamente",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "casa da Mãe Joana",
+      "significado": "lugar bagunçado, onde todos podem entrar, sem maiores cerimônias",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "ovo de Colombo",
+      "significado": "solução aparentemente fácil e óbvia, mas que não ocorreu a ninguém anteriormente",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "a ver navios",
+      "significado": "frustrado, desiludido, desenganado",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "custar os olhos da cara",
+      "significado": "custar muito caro",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "testa de ferro",
+      "significado": "alguém que aparece como responsável por um negócio ou empresa sem que o seja efetivamente",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "botar a mão no fogo",
+      "significado": "atestar confiança absoluta",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "cuspido e escarrado",
+      "significado": "idêntico ou muito semelhante",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "obra de Santa Engrácia",
+      "significado": "trabalho interminável, que leva muito tempo sendo feito",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "santo do pau oco",
+      "significado": "pessoa falsa, matreira ou dissimulada",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "tudo como dantes no quartel de Abrantes",
+      "significado": "permanecer tudo no status quo (ironicamente)",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "tempo de D. João Charuto",
+      "significado": "tempo muito antigo",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "discurso acaciano",
+      "significado": "discurso vazio, pomposo e sem conteúdo",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "entregar a carta a Garcia",
+      "significado": "ter iniciativa, espírito empreendedor e capacidade para cumprir difíceis missões",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "até aí morreu Neves",
+      "significado": "expressão idiomática que significa \"isto já sei, quero novidades\"",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "vá pro quinto dos infernos",
+      "significado": "expressão usada contra alguém, quando se está possesso de raiva",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "resvés Campo de Ourique",
+      "significado": "por pouco, por um triz, à justa",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "rodar a baiana",
+      "significado": "ter uma reação violenta a um abuso ou ofensa pessoal",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "dar pinta",
+      "significado": "revelar ou exagerar um traço de personalidade",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "tem caroço neste angu",
+      "significado": "algo está sendo escondido",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "disputar a nega (ou a negra)",
+      "significado": "jogar mais uma partida, para desempatar um jogo",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "ter um bizu",
+      "significado": "ter acesso a uma dica importante, especialmente com relação a uma prova escolar",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "aí é que está o busílis",
+      "significado": "aí é que se encontra a dificuldade, o nó gordio, o xis da questão",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "lei de Chico de Brito",
+      "significado": "imposição autocrática, sem possibilidade de apelação",
+      "origem": "histórica (ou pseudo-histórica)"
+    },
+    {
+      "expressao": "será o Benedito?",
+      "significado": "expressão de espanto diante de situação inesperada ou indesejável",
+      "origem": "histórica (ou pseudo-histórica)"
+    }
+  ],
+  "meta": {
+    "title": "Expressões idiomáticas portuguesas de origem histórica ou mitológica - Free Download",
+    "description": "Expressões idiomáticas da língua portuguesa cuja origem remonta à mitologia ou a factos históricos, com o respetivo significado. Contains 87 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Expressões idiomáticas portuguesas de origem histórica ou mitológica | ListBase",
+    "seo_description": "Download Expressões idiomáticas portuguesas de origem histórica ou mitológica — 87 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 87 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_expressões_idiomáticas_de_origem_histórica_ou_mitológica"
+    ]
+  }
+}

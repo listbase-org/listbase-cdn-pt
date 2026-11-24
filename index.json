@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-24T02:10:49.096Z",
-  "total_datasets": 589,
-  "total_records": 754457,
+  "generated": "2026-11-24T02:10:57.927Z",
+  "total_datasets": 590,
+  "total_records": 754544,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -4539,6 +4539,30 @@
         "xlsx": {
           "name": "pt-br-toponimos-tupi_PT.xlsx",
           "size": 9033
+        }
+      }
+    },
+    {
+      "id": "pt-expressoes-idiomaticas-origem-historica-mitologica",
+      "name": "Expressões idiomáticas portuguesas de origem histórica ou mitológica",
+      "category": "language",
+      "record_count": 87,
+      "columns": [
+        "expressao",
+        "significado",
+        "origem"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_expressões_idiomáticas_de_origem_histórica_ou_mitológica",
+      "updated": "2026-11",
+      "size": 17599,
+      "files": {
+        "csv": {
+          "name": "pt-expressoes-idiomaticas-origem-historica-mitologica_PT.csv",
+          "size": 9590
+        },
+        "xlsx": {
+          "name": "pt-expressoes-idiomaticas-origem-historica-mitologica_PT.xlsx",
+          "size": 11668
         }
       }
     },
