@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-25T02:26:36.585Z",
-  "total_datasets": 592,
-  "total_records": 754645,
+  "generated": "2026-11-25T02:26:46.732Z",
+  "total_datasets": 593,
+  "total_records": 754763,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -5206,6 +5206,31 @@
         "xlsx": {
           "name": "pt-br-presidentes-senado-federal_PT.xlsx",
           "size": 9718
+        }
+      }
+    },
+    {
+      "id": "pt-eleicoes-legislativas-resultados-por-partido",
+      "name": "Resultados das eleições legislativas em Portugal por partido (1975–2025)",
+      "category": "politics",
+      "record_count": 118,
+      "columns": [
+        "ano",
+        "partido",
+        "votos_pct",
+        "deputados"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Eleições_de_Portugal",
+      "updated": "2026-11",
+      "size": 14395,
+      "files": {
+        "csv": {
+          "name": "pt-eleicoes-legislativas-resultados-por-partido_PT.csv",
+          "size": 3331
+        },
+        "xlsx": {
+          "name": "pt-eleicoes-legislativas-resultados-por-partido_PT.xlsx",
+          "size": 9159
         }
       }
     },

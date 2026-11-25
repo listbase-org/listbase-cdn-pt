@@ -1,0 +1,754 @@
+{
+  "id": "pt-eleicoes-legislativas-resultados-por-partido",
+  "name": "Resultados das eleições legislativas em Portugal por partido (1975–2025)",
+  "title": "Resultados das eleições legislativas em Portugal por partido (1975–2025)",
+  "description": "Percentagem de votos e número de deputados eleitos por partido ou coligação em cada eleição para a Assembleia Constituinte e a Assembleia da República, de 1975 a 2025.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Eleições_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Eleições_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "votos_pct",
+      "label": "Votos Pct",
+      "type": "number"
+    },
+    {
+      "key": "deputados",
+      "label": "Deputados",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ano": 1975,
+      "partido": "PS",
+      "votos_pct": 37.87,
+      "deputados": 116
+    },
+    {
+      "ano": 1975,
+      "partido": "PPD/PSD",
+      "votos_pct": 26.39,
+      "deputados": 81
+    },
+    {
+      "ano": 1975,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 12.46,
+      "deputados": 30
+    },
+    {
+      "ano": 1975,
+      "partido": "CDS-PP",
+      "votos_pct": 7.61,
+      "deputados": 16
+    },
+    {
+      "ano": 1975,
+      "partido": "MDP/CDE",
+      "votos_pct": 4.14,
+      "deputados": 5
+    },
+    {
+      "ano": 1975,
+      "partido": "UDP",
+      "votos_pct": 0.79,
+      "deputados": 1
+    },
+    {
+      "ano": 1975,
+      "partido": "ADIM",
+      "votos_pct": 0.03,
+      "deputados": 1
+    },
+    {
+      "ano": 1976,
+      "partido": "PS",
+      "votos_pct": 34.89,
+      "deputados": 107
+    },
+    {
+      "ano": 1976,
+      "partido": "PPD/PSD",
+      "votos_pct": 24.35,
+      "deputados": 73
+    },
+    {
+      "ano": 1976,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 14.39,
+      "deputados": 40
+    },
+    {
+      "ano": 1976,
+      "partido": "CDS-PP",
+      "votos_pct": 15.98,
+      "deputados": 42
+    },
+    {
+      "ano": 1976,
+      "partido": "UDP",
+      "votos_pct": 1.67,
+      "deputados": 1
+    },
+    {
+      "ano": 1979,
+      "partido": "PS",
+      "votos_pct": 27.33,
+      "deputados": 74
+    },
+    {
+      "ano": 1979,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 18.8,
+      "deputados": 47
+    },
+    {
+      "ano": 1979,
+      "partido": "UDP",
+      "votos_pct": 2.18,
+      "deputados": 1
+    },
+    {
+      "ano": 1979,
+      "partido": "AD",
+      "votos_pct": 45.26,
+      "deputados": 128
+    },
+    {
+      "ano": 1980,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 16.75,
+      "deputados": 41
+    },
+    {
+      "ano": 1980,
+      "partido": "UDP",
+      "votos_pct": 1.38,
+      "deputados": 1
+    },
+    {
+      "ano": 1980,
+      "partido": "AD",
+      "votos_pct": 47.59,
+      "deputados": 134
+    },
+    {
+      "ano": 1980,
+      "partido": "FRS",
+      "votos_pct": 27.76,
+      "deputados": 74
+    },
+    {
+      "ano": 1983,
+      "partido": "PS",
+      "votos_pct": 36.11,
+      "deputados": 101
+    },
+    {
+      "ano": 1983,
+      "partido": "PPD/PSD",
+      "votos_pct": 27.24,
+      "deputados": 75
+    },
+    {
+      "ano": 1983,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 18.07,
+      "deputados": 44
+    },
+    {
+      "ano": 1983,
+      "partido": "CDS-PP",
+      "votos_pct": 12.56,
+      "deputados": 30
+    },
+    {
+      "ano": 1983,
+      "partido": "UDP",
+      "votos_pct": 0.48,
+      "deputados": 0
+    },
+    {
+      "ano": 1985,
+      "partido": "PS",
+      "votos_pct": 20.77,
+      "deputados": 57
+    },
+    {
+      "ano": 1985,
+      "partido": "PPD/PSD",
+      "votos_pct": 29.87,
+      "deputados": 88
+    },
+    {
+      "ano": 1985,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 15.49,
+      "deputados": 38
+    },
+    {
+      "ano": 1985,
+      "partido": "CDS-PP",
+      "votos_pct": 9.96,
+      "deputados": 22
+    },
+    {
+      "ano": 1985,
+      "partido": "UDP",
+      "votos_pct": 1.27,
+      "deputados": 0
+    },
+    {
+      "ano": 1985,
+      "partido": "PRD",
+      "votos_pct": 17.92,
+      "deputados": 45
+    },
+    {
+      "ano": 1987,
+      "partido": "PS",
+      "votos_pct": 22.24,
+      "deputados": 60
+    },
+    {
+      "ano": 1987,
+      "partido": "PPD/PSD",
+      "votos_pct": 50.22,
+      "deputados": 148
+    },
+    {
+      "ano": 1987,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 12.14,
+      "deputados": 31
+    },
+    {
+      "ano": 1987,
+      "partido": "CDS-PP",
+      "votos_pct": 4.44,
+      "deputados": 4
+    },
+    {
+      "ano": 1987,
+      "partido": "MDP/CDE",
+      "votos_pct": 0.57,
+      "deputados": 0
+    },
+    {
+      "ano": 1987,
+      "partido": "UDP",
+      "votos_pct": 0.89,
+      "deputados": 0
+    },
+    {
+      "ano": 1987,
+      "partido": "PRD",
+      "votos_pct": 4.91,
+      "deputados": 7
+    },
+    {
+      "ano": 1991,
+      "partido": "PS",
+      "votos_pct": 29.13,
+      "deputados": 72
+    },
+    {
+      "ano": 1991,
+      "partido": "PPD/PSD",
+      "votos_pct": 50.6,
+      "deputados": 135
+    },
+    {
+      "ano": 1991,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 8.8,
+      "deputados": 17
+    },
+    {
+      "ano": 1991,
+      "partido": "CDS-PP",
+      "votos_pct": 4.43,
+      "deputados": 5
+    },
+    {
+      "ano": 1991,
+      "partido": "UDP",
+      "votos_pct": 0.11,
+      "deputados": 0
+    },
+    {
+      "ano": 1991,
+      "partido": "PRD",
+      "votos_pct": 0.61,
+      "deputados": 0
+    },
+    {
+      "ano": 1991,
+      "partido": "PSN",
+      "votos_pct": 1.68,
+      "deputados": 1
+    },
+    {
+      "ano": 1995,
+      "partido": "PS",
+      "votos_pct": 43.76,
+      "deputados": 112
+    },
+    {
+      "ano": 1995,
+      "partido": "PPD/PSD",
+      "votos_pct": 34.12,
+      "deputados": 88
+    },
+    {
+      "ano": 1995,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 8.57,
+      "deputados": 15
+    },
+    {
+      "ano": 1995,
+      "partido": "CDS-PP",
+      "votos_pct": 9.05,
+      "deputados": 15
+    },
+    {
+      "ano": 1995,
+      "partido": "UDP",
+      "votos_pct": 0.57,
+      "deputados": 0
+    },
+    {
+      "ano": 1995,
+      "partido": "PSN",
+      "votos_pct": 0.21,
+      "deputados": 0
+    },
+    {
+      "ano": 1999,
+      "partido": "PS",
+      "votos_pct": 44.06,
+      "deputados": 115
+    },
+    {
+      "ano": 1999,
+      "partido": "PPD/PSD",
+      "votos_pct": 32.32,
+      "deputados": 81
+    },
+    {
+      "ano": 1999,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 8.99,
+      "deputados": 17
+    },
+    {
+      "ano": 1999,
+      "partido": "CDS-PP",
+      "votos_pct": 8.34,
+      "deputados": 15
+    },
+    {
+      "ano": 1999,
+      "partido": "PSN",
+      "votos_pct": 0.21,
+      "deputados": 0
+    },
+    {
+      "ano": 1999,
+      "partido": "B.E.",
+      "votos_pct": 2.44,
+      "deputados": 2
+    },
+    {
+      "ano": 2002,
+      "partido": "PS",
+      "votos_pct": 37.79,
+      "deputados": 96
+    },
+    {
+      "ano": 2002,
+      "partido": "PPD/PSD",
+      "votos_pct": 40.21,
+      "deputados": 105
+    },
+    {
+      "ano": 2002,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 6.94,
+      "deputados": 12
+    },
+    {
+      "ano": 2002,
+      "partido": "CDS-PP",
+      "votos_pct": 8.72,
+      "deputados": 14
+    },
+    {
+      "ano": 2002,
+      "partido": "B.E.",
+      "votos_pct": 2.81,
+      "deputados": 3
+    },
+    {
+      "ano": 2005,
+      "partido": "PS",
+      "votos_pct": 45.03,
+      "deputados": 121
+    },
+    {
+      "ano": 2005,
+      "partido": "PPD/PSD",
+      "votos_pct": 28.77,
+      "deputados": 75
+    },
+    {
+      "ano": 2005,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 7.54,
+      "deputados": 14
+    },
+    {
+      "ano": 2005,
+      "partido": "CDS-PP",
+      "votos_pct": 7.24,
+      "deputados": 12
+    },
+    {
+      "ano": 2005,
+      "partido": "B.E.",
+      "votos_pct": 6.35,
+      "deputados": 8
+    },
+    {
+      "ano": 2009,
+      "partido": "PS",
+      "votos_pct": 36.56,
+      "deputados": 97
+    },
+    {
+      "ano": 2009,
+      "partido": "PPD/PSD",
+      "votos_pct": 29.11,
+      "deputados": 81
+    },
+    {
+      "ano": 2009,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 7.86,
+      "deputados": 15
+    },
+    {
+      "ano": 2009,
+      "partido": "CDS-PP",
+      "votos_pct": 10.43,
+      "deputados": 21
+    },
+    {
+      "ano": 2009,
+      "partido": "B.E.",
+      "votos_pct": 9.81,
+      "deputados": 16
+    },
+    {
+      "ano": 2011,
+      "partido": "PS",
+      "votos_pct": 28.05,
+      "deputados": 74
+    },
+    {
+      "ano": 2011,
+      "partido": "PPD/PSD",
+      "votos_pct": 38.66,
+      "deputados": 108
+    },
+    {
+      "ano": 2011,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 7.9,
+      "deputados": 16
+    },
+    {
+      "ano": 2011,
+      "partido": "CDS-PP",
+      "votos_pct": 11.71,
+      "deputados": 24
+    },
+    {
+      "ano": 2011,
+      "partido": "B.E.",
+      "votos_pct": 5.17,
+      "deputados": 8
+    },
+    {
+      "ano": 2011,
+      "partido": "PAN",
+      "votos_pct": 1.04,
+      "deputados": 0
+    },
+    {
+      "ano": 2015,
+      "partido": "PS",
+      "votos_pct": 32.31,
+      "deputados": 86
+    },
+    {
+      "ano": 2015,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 8.25,
+      "deputados": 17
+    },
+    {
+      "ano": 2015,
+      "partido": "B.E.",
+      "votos_pct": 10.19,
+      "deputados": 19
+    },
+    {
+      "ano": 2015,
+      "partido": "PAN",
+      "votos_pct": 1.39,
+      "deputados": 1
+    },
+    {
+      "ano": 2015,
+      "partido": "PàF",
+      "votos_pct": 38.36,
+      "deputados": 107
+    },
+    {
+      "ano": 2015,
+      "partido": "L",
+      "votos_pct": 0.73,
+      "deputados": 0
+    },
+    {
+      "ano": 2019,
+      "partido": "PS",
+      "votos_pct": 36.35,
+      "deputados": 108
+    },
+    {
+      "ano": 2019,
+      "partido": "PPD/PSD",
+      "votos_pct": 27.77,
+      "deputados": 79
+    },
+    {
+      "ano": 2019,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 6.34,
+      "deputados": 12
+    },
+    {
+      "ano": 2019,
+      "partido": "CDS-PP",
+      "votos_pct": 4.22,
+      "deputados": 5
+    },
+    {
+      "ano": 2019,
+      "partido": "B.E.",
+      "votos_pct": 9.52,
+      "deputados": 19
+    },
+    {
+      "ano": 2019,
+      "partido": "PAN",
+      "votos_pct": 3.32,
+      "deputados": 4
+    },
+    {
+      "ano": 2019,
+      "partido": "L",
+      "votos_pct": 1.09,
+      "deputados": 1
+    },
+    {
+      "ano": 2019,
+      "partido": "CH",
+      "votos_pct": 1.29,
+      "deputados": 1
+    },
+    {
+      "ano": 2019,
+      "partido": "IL",
+      "votos_pct": 1.29,
+      "deputados": 1
+    },
+    {
+      "ano": 2022,
+      "partido": "PS",
+      "votos_pct": 41.37,
+      "deputados": 120
+    },
+    {
+      "ano": 2022,
+      "partido": "PPD/PSD",
+      "votos_pct": 29.09,
+      "deputados": 77
+    },
+    {
+      "ano": 2022,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 4.3,
+      "deputados": 6
+    },
+    {
+      "ano": 2022,
+      "partido": "CDS-PP",
+      "votos_pct": 1.6,
+      "deputados": 0
+    },
+    {
+      "ano": 2022,
+      "partido": "B.E.",
+      "votos_pct": 4.4,
+      "deputados": 5
+    },
+    {
+      "ano": 2022,
+      "partido": "PAN",
+      "votos_pct": 1.58,
+      "deputados": 1
+    },
+    {
+      "ano": 2022,
+      "partido": "L",
+      "votos_pct": 1.28,
+      "deputados": 1
+    },
+    {
+      "ano": 2022,
+      "partido": "CH",
+      "votos_pct": 7.18,
+      "deputados": 12
+    },
+    {
+      "ano": 2022,
+      "partido": "IL",
+      "votos_pct": 4.91,
+      "deputados": 8
+    },
+    {
+      "ano": 2024,
+      "partido": "PS",
+      "votos_pct": 27.98,
+      "deputados": 78
+    },
+    {
+      "ano": 2024,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 3.17,
+      "deputados": 4
+    },
+    {
+      "ano": 2024,
+      "partido": "AD",
+      "votos_pct": 28.83,
+      "deputados": 80
+    },
+    {
+      "ano": 2024,
+      "partido": "B.E.",
+      "votos_pct": 4.36,
+      "deputados": 5
+    },
+    {
+      "ano": 2024,
+      "partido": "PAN",
+      "votos_pct": 1.95,
+      "deputados": 1
+    },
+    {
+      "ano": 2024,
+      "partido": "L",
+      "votos_pct": 3.16,
+      "deputados": 4
+    },
+    {
+      "ano": 2024,
+      "partido": "CH",
+      "votos_pct": 18.06,
+      "deputados": 50
+    },
+    {
+      "ano": 2024,
+      "partido": "IL",
+      "votos_pct": 4.94,
+      "deputados": 8
+    },
+    {
+      "ano": 2025,
+      "partido": "PS",
+      "votos_pct": 22.83,
+      "deputados": 58
+    },
+    {
+      "ano": 2025,
+      "partido": "FEPU / APU / CDU",
+      "votos_pct": 2.91,
+      "deputados": 3
+    },
+    {
+      "ano": 2025,
+      "partido": "AD",
+      "votos_pct": 31.78,
+      "deputados": 91
+    },
+    {
+      "ano": 2025,
+      "partido": "B.E.",
+      "votos_pct": 1.99,
+      "deputados": 1
+    },
+    {
+      "ano": 2025,
+      "partido": "PAN",
+      "votos_pct": 1.38,
+      "deputados": 1
+    },
+    {
+      "ano": 2025,
+      "partido": "L",
+      "votos_pct": 4.07,
+      "deputados": 6
+    },
+    {
+      "ano": 2025,
+      "partido": "CH",
+      "votos_pct": 22.76,
+      "deputados": 60
+    },
+    {
+      "ano": 2025,
+      "partido": "IL",
+      "votos_pct": 5.36,
+      "deputados": 9
+    }
+  ],
+  "meta": {
+    "title": "Resultados das eleições legislativas em Portugal por partido (1975–2025) - Free Download",
+    "description": "Percentagem de votos e número de deputados eleitos por partido ou coligação em cada eleição para a Assembleia Constituinte e a Assembleia da República, de 1975 a 2025. Contains 118 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Resultados das eleições legislativas em Portugal por partido (1975–2025) | ListBase",
+    "seo_description": "Download Resultados das eleições legislativas em Portugal por partido (1975–2025) — 118 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 118 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Eleições_de_Portugal"
+    ]
+  }
+}
