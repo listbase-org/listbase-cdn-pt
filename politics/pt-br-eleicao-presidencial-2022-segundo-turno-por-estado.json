@@ -1,0 +1,412 @@
+{
+  "id": "pt-br-eleicao-presidencial-2022-segundo-turno-por-estado",
+  "name": "Eleição presidencial no Brasil em 2022: 2.º turno por estado",
+  "title": "Eleição presidencial no Brasil em 2022: 2.º turno por estado",
+  "description": "Resultados do segundo turno da eleição presidencial brasileira de 30 de outubro de 2022 por unidade da federação: eleitorado, abstenção, votos e percentuais de Lula e Bolsonaro, votos brancos e nulos.",
+  "category": "politics",
+  "source": "https://pt.wikipedia.org/wiki/Resultados_da_eleição_presidencial_no_Brasil_em_2022",
+  "source_url": "https://pt.wikipedia.org/wiki/Resultados_da_eleição_presidencial_no_Brasil_em_2022",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "eleitorado",
+      "label": "Eleitorado",
+      "type": "number"
+    },
+    {
+      "key": "abstencao",
+      "label": "Abstencao",
+      "type": "number"
+    },
+    {
+      "key": "abstencao_pct",
+      "label": "Abstencao Pct",
+      "type": "number"
+    },
+    {
+      "key": "lula_votos",
+      "label": "Lula Votos",
+      "type": "number"
+    },
+    {
+      "key": "lula_pct",
+      "label": "Lula Pct",
+      "type": "number"
+    },
+    {
+      "key": "bolsonaro_votos",
+      "label": "Bolsonaro Votos",
+      "type": "number"
+    },
+    {
+      "key": "bolsonaro_pct",
+      "label": "Bolsonaro Pct",
+      "type": "number"
+    },
+    {
+      "key": "votos_brancos",
+      "label": "Votos Brancos",
+      "type": "number"
+    },
+    {
+      "key": "votos_nulos",
+      "label": "Votos Nulos",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "estado": "Acre",
+      "eleitorado": 587765,
+      "abstencao": 167005,
+      "abstencao_pct": 28.41,
+      "lula_votos": 121566,
+      "lula_pct": 29.7,
+      "bolsonaro_votos": 287750,
+      "bolsonaro_pct": 70.3,
+      "votos_brancos": 4722,
+      "votos_nulos": 6722
+    },
+    {
+      "estado": "Alagoas",
+      "eleitorado": 2325814,
+      "abstencao": 540826,
+      "abstencao_pct": 23.25,
+      "lula_votos": 976831,
+      "lula_pct": 58.68,
+      "bolsonaro_votos": 687827,
+      "bolsonaro_pct": 41.32,
+      "votos_brancos": 23376,
+      "votos_nulos": 96954
+    },
+    {
+      "estado": "Amapá",
+      "eleitorado": 550131,
+      "abstencao": 149448,
+      "abstencao_pct": 27.17,
+      "lula_votos": 189918,
+      "lula_pct": 48.64,
+      "bolsonaro_votos": 200547,
+      "bolsonaro_pct": 51.36,
+      "votos_brancos": 4018,
+      "votos_nulos": 6200
+    },
+    {
+      "estado": "Amazonas",
+      "eleitorado": 2647039,
+      "abstencao": 579164,
+      "abstencao_pct": 21.88,
+      "lula_votos": 1004991,
+      "lula_pct": 51.1,
+      "bolsonaro_votos": 961741,
+      "bolsonaro_pct": 48.9,
+      "votos_brancos": 21594,
+      "votos_nulos": 79549
+    },
+    {
+      "estado": "Bahia",
+      "eleitorado": 11282999,
+      "abstencao": 2311271,
+      "abstencao_pct": 20.48,
+      "lula_votos": 6097815,
+      "lula_pct": 72.12,
+      "bolsonaro_votos": 2357028,
+      "bolsonaro_pct": 27.88,
+      "votos_brancos": 121221,
+      "votos_nulos": 395664
+    },
+    {
+      "estado": "Ceará",
+      "eleitorado": 6818192,
+      "abstencao": 1168794,
+      "abstencao_pct": 17.14,
+      "lula_votos": 3807891,
+      "lula_pct": 69.97,
+      "bolsonaro_votos": 1634477,
+      "bolsonaro_pct": 30.03,
+      "votos_brancos": 67045,
+      "votos_nulos": 139985
+    },
+    {
+      "estado": "Distrito Federal",
+      "eleitorado": 2207628,
+      "abstencao": 369136,
+      "abstencao_pct": 16.72,
+      "lula_votos": 729295,
+      "lula_pct": 41.19,
+      "bolsonaro_votos": 1041331,
+      "bolsonaro_pct": 58.81,
+      "votos_brancos": 29663,
+      "votos_nulos": 38203
+    },
+    {
+      "estado": "Espírito Santo",
+      "eleitorado": 2922264,
+      "abstencao": 599995,
+      "abstencao_pct": 20.53,
+      "lula_votos": 926767,
+      "lula_pct": 41.96,
+      "bolsonaro_votos": 1282145,
+      "bolsonaro_pct": 58.04,
+      "votos_brancos": 37214,
+      "votos_nulos": 76143
+    },
+    {
+      "estado": "Goiás",
+      "eleitorado": 4870621,
+      "abstencao": 1010270,
+      "abstencao_pct": 20.74,
+      "lula_votos": 1542115,
+      "lula_pct": 41.29,
+      "bolsonaro_votos": 2193041,
+      "bolsonaro_pct": 58.71,
+      "votos_brancos": 43610,
+      "votos_nulos": 81585
+    },
+    {
+      "estado": "Maranhão",
+      "eleitorado": 5039307,
+      "abstencao": 1184503,
+      "abstencao_pct": 23.51,
+      "lula_votos": 2668425,
+      "lula_pct": 71.14,
+      "bolsonaro_votos": 1082749,
+      "bolsonaro_pct": 28.86,
+      "votos_brancos": 35807,
+      "votos_nulos": 67823
+    },
+    {
+      "estado": "Mato Grosso",
+      "eleitorado": 2469797,
+      "abstencao": 556566,
+      "abstencao_pct": 22.53,
+      "lula_votos": 652786,
+      "lula_pct": 34.92,
+      "bolsonaro_votos": 1216730,
+      "bolsonaro_pct": 65.08,
+      "votos_brancos": 16317,
+      "votos_nulos": 27398
+    },
+    {
+      "estado": "Mato Grosso do Sul",
+      "eleitorado": 1996066,
+      "abstencao": 446193,
+      "abstencao_pct": 22.35,
+      "lula_votos": 599547,
+      "lula_pct": 40.51,
+      "bolsonaro_votos": 880606,
+      "bolsonaro_pct": 59.49,
+      "votos_brancos": 18062,
+      "votos_nulos": 51658
+    },
+    {
+      "estado": "Minas Gerais",
+      "eleitorado": 16284615,
+      "abstencao": 3418331,
+      "abstencao_pct": 20.99,
+      "lula_votos": 6190960,
+      "lula_pct": 50.2,
+      "bolsonaro_votos": 6141310,
+      "bolsonaro_pct": 49.8,
+      "votos_brancos": 183206,
+      "votos_nulos": 350808
+    },
+    {
+      "estado": "Pará",
+      "eleitorado": 6078857,
+      "abstencao": 1377117,
+      "abstencao_pct": 22.65,
+      "lula_votos": 2509084,
+      "lula_pct": 54.75,
+      "bolsonaro_votos": 2073895,
+      "bolsonaro_pct": 45.25,
+      "votos_brancos": 43602,
+      "votos_nulos": 75159
+    },
+    {
+      "estado": "Paraíba",
+      "eleitorado": 3091719,
+      "abstencao": 517504,
+      "abstencao_pct": 16.74,
+      "lula_votos": 1601953,
+      "lula_pct": 66.62,
+      "bolsonaro_votos": 802502,
+      "bolsonaro_pct": 33.38,
+      "votos_brancos": 35467,
+      "votos_nulos": 134293
+    },
+    {
+      "estado": "Paraná",
+      "eleitorado": 8480626,
+      "abstencao": 1580206,
+      "abstencao_pct": 18.63,
+      "lula_votos": 2506605,
+      "lula_pct": 37.6,
+      "bolsonaro_votos": 4159343,
+      "bolsonaro_pct": 62.4,
+      "votos_brancos": 95555,
+      "votos_nulos": 138917
+    },
+    {
+      "estado": "Pernambuco",
+      "eleitorado": 7015086,
+      "abstencao": 1214351,
+      "abstencao_pct": 17.31,
+      "lula_votos": 3640933,
+      "lula_pct": 66.93,
+      "bolsonaro_votos": 1798832,
+      "bolsonaro_pct": 33.07,
+      "votos_brancos": 74435,
+      "votos_nulos": 286535
+    },
+    {
+      "estado": "Piauí",
+      "eleitorado": 2570253,
+      "abstencao": 481723,
+      "abstencao_pct": 18.74,
+      "lula_votos": 1551383,
+      "lula_pct": 76.86,
+      "bolsonaro_votos": 467065,
+      "bolsonaro_pct": 23.14,
+      "votos_brancos": 19027,
+      "votos_nulos": 51055
+    },
+    {
+      "estado": "Rio de Janeiro",
+      "eleitorado": 12827044,
+      "abstencao": 2853222,
+      "abstencao_pct": 22.24,
+      "lula_votos": 4156217,
+      "lula_pct": 43.47,
+      "bolsonaro_votos": 5403894,
+      "bolsonaro_pct": 56.53,
+      "votos_brancos": 126645,
+      "votos_nulos": 287066
+    },
+    {
+      "estado": "Rio Grande do Norte",
+      "eleitorado": 2554326,
+      "abstencao": 445527,
+      "abstencao_pct": 17.44,
+      "lula_votos": 1326785,
+      "lula_pct": 65.1,
+      "bolsonaro_votos": 711381,
+      "bolsonaro_pct": 34.9,
+      "votos_brancos": 20585,
+      "votos_nulos": 50048
+    },
+    {
+      "estado": "Rio Grande do Sul",
+      "eleitorado": 8589684,
+      "abstencao": 1658832,
+      "abstencao_pct": 19.31,
+      "lula_votos": 2891851,
+      "lula_pct": 43.65,
+      "bolsonaro_votos": 3733185,
+      "bolsonaro_pct": 56.35,
+      "votos_brancos": 122456,
+      "votos_nulos": 183360
+    },
+    {
+      "estado": "Rondônia",
+      "eleitorado": 1230172,
+      "abstencao": 303655,
+      "abstencao_pct": 24.68,
+      "lula_votos": 262904,
+      "lula_pct": 29.34,
+      "bolsonaro_votos": 633236,
+      "bolsonaro_pct": 70.66,
+      "votos_brancos": 9428,
+      "votos_nulos": 20949
+    },
+    {
+      "estado": "Roraima",
+      "eleitorado": 366641,
+      "abstencao": 80372,
+      "abstencao_pct": 21.92,
+      "lula_votos": 67128,
+      "lula_pct": 23.92,
+      "bolsonaro_votos": 213518,
+      "bolsonaro_pct": 76.08,
+      "votos_brancos": 2173,
+      "votos_nulos": 3450
+    },
+    {
+      "estado": "Santa Catarina",
+      "eleitorado": 5501284,
+      "abstencao": 958467,
+      "abstencao_pct": 17.42,
+      "lula_votos": 1351918,
+      "lula_pct": 30.73,
+      "bolsonaro_votos": 3047630,
+      "bolsonaro_pct": 69.27,
+      "votos_brancos": 56475,
+      "votos_nulos": 86794
+    },
+    {
+      "estado": "São Paulo",
+      "eleitorado": 34684876,
+      "abstencao": 7304385,
+      "abstencao_pct": 21.06,
+      "lula_votos": 11519882,
+      "lula_pct": 44.76,
+      "bolsonaro_votos": 14216587,
+      "bolsonaro_pct": 55.24,
+      "votos_brancos": 526677,
+      "votos_nulos": 1117345
+    },
+    {
+      "estado": "Sergipe",
+      "eleitorado": 1671241,
+      "abstencao": 315774,
+      "abstencao_pct": 18.89,
+      "lula_votos": 862951,
+      "lula_pct": 67.21,
+      "bolsonaro_votos": 421086,
+      "bolsonaro_pct": 32.79,
+      "votos_brancos": 18240,
+      "votos_nulos": 53190
+    },
+    {
+      "estado": "Tocantins",
+      "eleitorado": 1094302,
+      "abstencao": 223064,
+      "abstencao_pct": 20.38,
+      "lula_votos": 434593,
+      "lula_pct": 51.36,
+      "bolsonaro_votos": 411654,
+      "bolsonaro_pct": 48.64,
+      "votos_brancos": 7158,
+      "votos_nulos": 17833
+    },
+    {
+      "estado": "Exterior",
+      "eleitorado": 695005,
+      "abstencao": 384857,
+      "abstencao_pct": 55.37,
+      "lula_votos": 152905,
+      "lula_pct": 51.28,
+      "bolsonaro_votos": 145264,
+      "bolsonaro_pct": 48.72,
+      "votos_brancos": 5900,
+      "votos_nulos": 6079
+    }
+  ],
+  "meta": {
+    "title": "Eleição presidencial no Brasil em 2022: 2.º turno por estado - Free Download",
+    "description": "Resultados do segundo turno da eleição presidencial brasileira de 30 de outubro de 2022 por unidade da federação: eleitorado, abstenção, votos e percentuais de Lula e Bolsonaro, votos brancos e nulos. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eleição presidencial no Brasil em 2022: 2.º turno por estado | ListBase",
+    "seo_description": "Download Eleição presidencial no Brasil em 2022: 2.º turno por estado — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Resultados_da_eleição_presidencial_no_Brasil_em_2022"
+    ]
+  }
+}

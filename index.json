@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-24T02:11:08.599Z",
-  "total_datasets": 591,
-  "total_records": 754617,
+  "generated": "2026-11-25T02:26:36.585Z",
+  "total_datasets": 592,
+  "total_records": 754645,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -5066,6 +5066,37 @@
         "xlsx": {
           "name": "pt-vencedores-festival-rtp-cancao_PT.xlsx",
           "size": 12121
+        }
+      }
+    },
+    {
+      "id": "pt-br-eleicao-presidencial-2022-segundo-turno-por-estado",
+      "name": "Eleição presidencial no Brasil em 2022: 2.º turno por estado",
+      "category": "politics",
+      "record_count": 28,
+      "columns": [
+        "estado",
+        "eleitorado",
+        "abstencao",
+        "abstencao_pct",
+        "lula_votos",
+        "lula_pct",
+        "bolsonaro_votos",
+        "bolsonaro_pct",
+        "votos_brancos",
+        "votos_nulos"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Resultados_da_eleição_presidencial_no_Brasil_em_2022",
+      "updated": "2026-11",
+      "size": 11083,
+      "files": {
+        "csv": {
+          "name": "pt-br-eleicao-presidencial-2022-segundo-turno-por-estado_PT.csv",
+          "size": 2690
+        },
+        "xlsx": {
+          "name": "pt-br-eleicao-presidencial-2022-segundo-turno-por-estado_PT.xlsx",
+          "size": 9049
         }
       }
     },
