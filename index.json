@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-25T02:26:46.732Z",
-  "total_datasets": 593,
-  "total_records": 754763,
+  "generated": "2026-11-25T02:26:55.462Z",
+  "total_datasets": 594,
+  "total_records": 754798,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -16309,6 +16309,31 @@
         "xlsx": {
           "name": "pt-premio-pessoa_PT.xlsx",
           "size": 8374
+        }
+      }
+    },
+    {
+      "id": "pt-repteis-de-portugal",
+      "name": "Répteis de Portugal",
+      "category": "science",
+      "record_count": 35,
+      "columns": [
+        "nome_comum",
+        "nome_cientifico",
+        "familia",
+        "ordem"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_répteis_de_Portugal",
+      "updated": "2026-11",
+      "size": 7337,
+      "files": {
+        "csv": {
+          "name": "pt-repteis-de-portugal_PT.csv",
+          "size": 2442
+        },
+        "xlsx": {
+          "name": "pt-repteis-de-portugal_PT.xlsx",
+          "size": 8205
         }
       }
     },

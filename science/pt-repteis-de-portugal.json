@@ -1,0 +1,256 @@
+{
+  "id": "pt-repteis-de-portugal",
+  "name": "Répteis de Portugal",
+  "title": "Répteis de Portugal",
+  "description": "Lista das espécies de répteis de Portugal continental e insular – cágados, tartarugas marinhas, osgas, lagartos, lagartixas, cobras e víboras – com nome comum, nome científico, família e ordem.",
+  "category": "science",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_répteis_de_Portugal",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_répteis_de_Portugal",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "nome_comum",
+      "label": "Nome Comum",
+      "type": "string"
+    },
+    {
+      "key": "nome_cientifico",
+      "label": "Nome Cientifico",
+      "type": "string"
+    },
+    {
+      "key": "familia",
+      "label": "Familia",
+      "type": "string"
+    },
+    {
+      "key": "ordem",
+      "label": "Ordem",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome_comum": "Cágado-de-carapaça-estriada",
+      "nome_cientifico": "Emys orbicularis",
+      "familia": "Emydidae",
+      "ordem": "Testudines"
+    },
+    {
+      "nome_comum": "Cágado-mediterrânico",
+      "nome_cientifico": "Mauremys leprosa",
+      "familia": "Emydidae",
+      "ordem": "Testudines"
+    },
+    {
+      "nome_comum": "Tartaruga-comum",
+      "nome_cientifico": "Caretta caretta",
+      "familia": "Cheloniidae",
+      "ordem": "Testudines"
+    },
+    {
+      "nome_comum": "Tartaruga-verde",
+      "nome_cientifico": "Chelonia mydas",
+      "familia": "Cheloniidae",
+      "ordem": "Testudines"
+    },
+    {
+      "nome_comum": "Tartaruga-de-pente, Tartaruga-imbricada ou tartaruga-de-escama",
+      "nome_cientifico": "Eretmochelys imbricata",
+      "familia": "Cheloniidae",
+      "ordem": "Testudines"
+    },
+    {
+      "nome_comum": "Tartaruga-de-kemp",
+      "nome_cientifico": "Lepidochelys kempii",
+      "familia": "Cheloniidae",
+      "ordem": "Testudines"
+    },
+    {
+      "nome_comum": "Tartaruga-de-couro",
+      "nome_cientifico": "Dermochelys coriacea",
+      "familia": "Dermochelidae",
+      "ordem": "Testudines"
+    },
+    {
+      "nome_comum": "Osga-turca",
+      "nome_cientifico": "Hemidactylus turcicus",
+      "familia": "Gekkonidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Osga-moura",
+      "nome_cientifico": "Tarentola mauritanica",
+      "familia": "Gekkonidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Osga-das-selvagens",
+      "nome_cientifico": "Tarentola bischoffi",
+      "familia": "Gekkonidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Camaleão-comum",
+      "nome_cientifico": "Chamaeleo chamaeleon",
+      "familia": "Chamaeleonidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Licranço",
+      "nome_cientifico": "Anguis fragilis",
+      "familia": "Anguidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Cobra-cega",
+      "nome_cientifico": "Blanus cinereus",
+      "familia": "Amphisbaenidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-de-dedos-denteados",
+      "nome_cientifico": "Acanthodactylus erythrurus",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Sardão",
+      "nome_cientifico": "Timon lepidus",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagarto-de-água",
+      "nome_cientifico": "Lacerta schreiberi",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-da-montanha",
+      "nome_cientifico": "Lacerta monticula",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-da-Madeira",
+      "nome_cientifico": "Lacerta dugesii",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-de-bocage",
+      "nome_cientifico": "Podarcis bocagei",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-de-carbonell",
+      "nome_cientifico": "Podarcis carbonelli",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-ibérica",
+      "nome_cientifico": "Podarcis hispanica",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-do-mato",
+      "nome_cientifico": "Psammodromus algirus",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Lagartixa-do-mato-ibérica",
+      "nome_cientifico": "Psammodromus hispanicus",
+      "familia": "Lacertidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Cobra-de-pernas-pentadáctila",
+      "nome_cientifico": "Chalcides bedriagai",
+      "familia": "Scincidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Fura-pastos",
+      "nome_cientifico": "Chalcides striatus",
+      "familia": "Scincidae",
+      "ordem": "Squamata"
+    },
+    {
+      "nome_comum": "Cobra-de-ferradura",
+      "nome_cientifico": "Hemorrhois hippocrepis",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Cobra-lisa-austriaca",
+      "nome_cientifico": "Coronella austriaca",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Cobra-lisa-bordalesa",
+      "nome_cientifico": "Coronella girondica",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Cobra-de-escada",
+      "nome_cientifico": "Zamenis scalaris",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Cobra-de-capuz",
+      "nome_cientifico": "Macroprotodon brevis",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Cobra-rateira",
+      "nome_cientifico": "Malpolon monspessulanus",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Cobra-de-água-viperina",
+      "nome_cientifico": "Natrix maura",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Cobra-de-água-de-colar-mediterrânica",
+      "nome_cientifico": "Natrix astreptophora",
+      "familia": "Colubridae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Víbora-cornuda",
+      "nome_cientifico": "Vipera latastei",
+      "familia": "Viperidae",
+      "ordem": "Serpentes"
+    },
+    {
+      "nome_comum": "Víbora-de-seoane",
+      "nome_cientifico": "Vipera seoanei",
+      "familia": "Viperidae",
+      "ordem": "Serpentes"
+    }
+  ],
+  "meta": {
+    "title": "Répteis de Portugal - Free Download",
+    "description": "Lista das espécies de répteis de Portugal continental e insular – cágados, tartarugas marinhas, osgas, lagartos, lagartixas, cobras e víboras – com nome comum, nome científico, família e ordem. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Répteis de Portugal | ListBase",
+    "seo_description": "Download Répteis de Portugal — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_répteis_de_Portugal"
+    ]
+  }
+}
