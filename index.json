@@ -1,12 +1,12 @@
 {
   "lang": "pt",
-  "generated": "2026-11-25T02:26:55.462Z",
-  "total_datasets": 594,
-  "total_records": 754798,
+  "generated": "2026-11-26T02:23:50.299Z",
+  "total_datasets": 595,
+  "total_records": 754825,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -102,6 +102,38 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pt-br-efetivo-dos-rebanhos-por-estado-2025",
+      "name": "Efetivo dos rebanhos por estado do Brasil (2025)",
+      "category": "agriculture",
+      "record_count": 27,
+      "columns": [
+        "uf",
+        "bovinos",
+        "bubalinos",
+        "equinos",
+        "suinos",
+        "suinos_matrizes",
+        "caprinos",
+        "ovinos",
+        "galinaceos_total",
+        "galinhas",
+        "codornas"
+      ],
+      "source": "https://sidra.ibge.gov.br/tabela/3939",
+      "updated": "2026-11",
+      "size": 10752,
+      "files": {
+        "csv": {
+          "name": "pt-br-efetivo-dos-rebanhos-por-estado-2025_PT.csv",
+          "size": 2916
+        },
+        "xlsx": {
+          "name": "pt-br-efetivo-dos-rebanhos-por-estado-2025_PT.xlsx",
+          "size": 9180
+        }
+      }
+    },
     {
       "id": "pt-br-ministros-agricultura",
       "name": "Ministros da Agricultura do Brasil",

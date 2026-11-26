@@ -1,0 +1,432 @@
+{
+  "id": "pt-br-efetivo-dos-rebanhos-por-estado-2025",
+  "name": "Efetivo dos rebanhos por estado do Brasil (2025)",
+  "title": "Efetivo dos rebanhos por estado do Brasil (2025)",
+  "description": "Número de cabeças de bovinos, bubalinos, equinos, suínos, caprinos, ovinos, galináceos e codornas em cada unidade da federação do Brasil em 2025, segundo a Pesquisa da Pecuária Municipal (IBGE, tabela 3939).",
+  "category": "agriculture",
+  "source": "https://sidra.ibge.gov.br/tabela/3939",
+  "source_url": "https://sidra.ibge.gov.br/tabela/3939",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "bovinos",
+      "label": "Bovinos",
+      "type": "number"
+    },
+    {
+      "key": "bubalinos",
+      "label": "Bubalinos",
+      "type": "number"
+    },
+    {
+      "key": "equinos",
+      "label": "Equinos",
+      "type": "number"
+    },
+    {
+      "key": "suinos",
+      "label": "Suinos",
+      "type": "number"
+    },
+    {
+      "key": "suinos_matrizes",
+      "label": "Suinos Matrizes",
+      "type": "number"
+    },
+    {
+      "key": "caprinos",
+      "label": "Caprinos",
+      "type": "number"
+    },
+    {
+      "key": "ovinos",
+      "label": "Ovinos",
+      "type": "number"
+    },
+    {
+      "key": "galinaceos_total",
+      "label": "Galinaceos Total",
+      "type": "number"
+    },
+    {
+      "key": "galinhas",
+      "label": "Galinhas",
+      "type": "number"
+    },
+    {
+      "key": "codornas",
+      "label": "Codornas",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "uf": "Rondônia",
+      "bovinos": 17089633,
+      "bubalinos": 7032,
+      "equinos": 202260,
+      "suinos": 197962,
+      "suinos_matrizes": 28972,
+      "caprinos": 7222,
+      "ovinos": 119936,
+      "galinaceos_total": 10712100,
+      "galinhas": 2629935,
+      "codornas": 30390
+    },
+    {
+      "uf": "Acre",
+      "bovinos": 5191559,
+      "bubalinos": 5882,
+      "equinos": 85221,
+      "suinos": 159233,
+      "suinos_matrizes": 19436,
+      "caprinos": 9599,
+      "ovinos": 77208,
+      "galinaceos_total": 2925564,
+      "galinhas": 851472,
+      "codornas": 390
+    },
+    {
+      "uf": "Amazonas",
+      "bovinos": 2686769,
+      "bubalinos": 173818,
+      "equinos": 54503,
+      "suinos": 90257,
+      "suinos_matrizes": 18599,
+      "caprinos": 17256,
+      "ovinos": 45446,
+      "galinaceos_total": 5867531,
+      "galinhas": 4688438,
+      "codornas": 56965
+    },
+    {
+      "uf": "Roraima",
+      "bovinos": 1231062,
+      "bubalinos": 2308,
+      "equinos": 42587,
+      "suinos": 75430,
+      "suinos_matrizes": 6515,
+      "caprinos": 20253,
+      "ovinos": 42888,
+      "galinaceos_total": 1412570,
+      "galinhas": 1128900,
+      "codornas": 13000
+    },
+    {
+      "uf": "Pará",
+      "bovinos": 25559452,
+      "bubalinos": 736437,
+      "equinos": 487854,
+      "suinos": 532967,
+      "suinos_matrizes": 89393,
+      "caprinos": 61005,
+      "ovinos": 270205,
+      "galinaceos_total": 24219454,
+      "galinhas": 3635924,
+      "codornas": 1075
+    },
+    {
+      "uf": "Amapá",
+      "bovinos": 61413,
+      "bubalinos": 346321,
+      "equinos": 12233,
+      "suinos": 27139,
+      "suinos_matrizes": 2125,
+      "caprinos": 3521,
+      "ovinos": 5695,
+      "galinaceos_total": 73543,
+      "galinhas": 8178,
+      "codornas": ""
+    },
+    {
+      "uf": "Tocantins",
+      "bovinos": 11532757,
+      "bubalinos": 6642,
+      "equinos": 153208,
+      "suinos": 186990,
+      "suinos_matrizes": 58223,
+      "caprinos": 8360,
+      "ovinos": 87133,
+      "galinaceos_total": 6763859,
+      "galinhas": 3040213,
+      "codornas": 70
+    },
+    {
+      "uf": "Maranhão",
+      "bovinos": 10323144,
+      "bubalinos": 96950,
+      "equinos": 236583,
+      "suinos": 898165,
+      "suinos_matrizes": 156829,
+      "caprinos": 348700,
+      "ovinos": 312493,
+      "galinaceos_total": 13718948,
+      "galinhas": 3355653,
+      "codornas": 3538
+    },
+    {
+      "uf": "Piauí",
+      "bovinos": 1363083,
+      "bubalinos": 527,
+      "equinos": 56715,
+      "suinos": 1094004,
+      "suinos_matrizes": 184006,
+      "caprinos": 2094626,
+      "ovinos": 1885056,
+      "galinaceos_total": 12526909,
+      "galinhas": 2907401,
+      "codornas": 13176
+    },
+    {
+      "uf": "Ceará",
+      "bovinos": 2989015,
+      "bubalinos": 1754,
+      "equinos": 142604,
+      "suinos": 1410841,
+      "suinos_matrizes": 239704,
+      "caprinos": 1114107,
+      "ovinos": 2616875,
+      "galinaceos_total": 36375012,
+      "galinhas": 14095052,
+      "codornas": 710268
+    },
+    {
+      "uf": "Rio Grande do Norte",
+      "bovinos": 1495747,
+      "bubalinos": 1662,
+      "equinos": 95327,
+      "suinos": 540038,
+      "suinos_matrizes": 129632,
+      "caprinos": 600971,
+      "ovinos": 787324,
+      "galinaceos_total": 13590613,
+      "galinhas": 7014479,
+      "codornas": 148855
+    },
+    {
+      "uf": "Paraíba",
+      "bovinos": 1559195,
+      "bubalinos": 1029,
+      "equinos": 79245,
+      "suinos": 343312,
+      "suinos_matrizes": 56123,
+      "caprinos": 858137,
+      "ovinos": 872377,
+      "galinaceos_total": 15756944,
+      "galinhas": 4478309,
+      "codornas": 207093
+    },
+    {
+      "uf": "Pernambuco",
+      "bovinos": 2779499,
+      "bubalinos": 10696,
+      "equinos": 131033,
+      "suinos": 864972,
+      "suinos_matrizes": 123421,
+      "caprinos": 3272199,
+      "ovinos": 3857506,
+      "galinaceos_total": 67684464,
+      "galinhas": 18041075,
+      "codornas": 2200992
+    },
+    {
+      "uf": "Alagoas",
+      "bovinos": 1485386,
+      "bubalinos": 3064,
+      "equinos": 102126,
+      "suinos": 202932,
+      "suinos_matrizes": 22546,
+      "caprinos": 61226,
+      "ovinos": 357109,
+      "galinaceos_total": 5544064,
+      "galinhas": 1950157,
+      "codornas": 135370
+    },
+    {
+      "uf": "Sergipe",
+      "bovinos": 1479203,
+      "bubalinos": 720,
+      "equinos": 74263,
+      "suinos": 186728,
+      "suinos_matrizes": 13431,
+      "caprinos": 25960,
+      "ovinos": 223537,
+      "galinaceos_total": 6657610,
+      "galinhas": 2367526,
+      "codornas": 28000
+    },
+    {
+      "uf": "Bahia",
+      "bovinos": 13792045,
+      "bubalinos": 23434,
+      "equinos": 494093,
+      "suinos": 1162940,
+      "suinos_matrizes": 194284,
+      "caprinos": 4693784,
+      "ovinos": 5987470,
+      "galinaceos_total": 48079333,
+      "galinhas": 7814578,
+      "codornas": 259309
+    },
+    {
+      "uf": "Minas Gerais",
+      "bovinos": 22102505,
+      "bubalinos": 94253,
+      "equinos": 721421,
+      "suinos": 5760042,
+      "suinos_matrizes": 512614,
+      "caprinos": 69474,
+      "ovinos": 175004,
+      "galinaceos_total": 133185104,
+      "galinhas": 26931650,
+      "codornas": 2988451
+    },
+    {
+      "uf": "Espírito Santo",
+      "bovinos": 2164541,
+      "bubalinos": 3437,
+      "equinos": 56214,
+      "suinos": 160780,
+      "suinos_matrizes": 14056,
+      "caprinos": 5346,
+      "ovinos": 31291,
+      "galinaceos_total": 28790958,
+      "galinhas": 16965072,
+      "codornas": 2964893
+    },
+    {
+      "uf": "Rio de Janeiro",
+      "bovinos": 2783227,
+      "bubalinos": 9671,
+      "equinos": 118912,
+      "suinos": 52135,
+      "suinos_matrizes": 8093,
+      "caprinos": 11998,
+      "ovinos": 40065,
+      "galinaceos_total": 20040118,
+      "galinhas": 1334450,
+      "codornas": 109525
+    },
+    {
+      "uf": "São Paulo",
+      "bovinos": 10291548,
+      "bubalinos": 112615,
+      "equinos": 354547,
+      "suinos": 1465535,
+      "suinos_matrizes": 147065,
+      "caprinos": 46165,
+      "ovinos": 262139,
+      "galinaceos_total": 196363079,
+      "galinhas": 59046504,
+      "codornas": 2308475
+    },
+    {
+      "uf": "Paraná",
+      "bovinos": 8472972,
+      "bubalinos": 46735,
+      "equinos": 227430,
+      "suinos": 7047439,
+      "suinos_matrizes": 614553,
+      "caprinos": 51670,
+      "ovinos": 463418,
+      "galinaceos_total": 463493696,
+      "galinhas": 29160501,
+      "codornas": 506032
+    },
+    {
+      "uf": "Santa Catarina",
+      "bovinos": 4250624,
+      "bubalinos": 12523,
+      "equinos": 108092,
+      "suinos": 9350304,
+      "suinos_matrizes": 1116484,
+      "caprinos": 32158,
+      "ovinos": 345130,
+      "galinaceos_total": 143165477,
+      "galinhas": 19116754,
+      "codornas": 2597695
+    },
+    {
+      "uf": "Rio Grande do Sul",
+      "bovinos": 11403760,
+      "bubalinos": 44354,
+      "equinos": 483894,
+      "suinos": 6375913,
+      "suinos_matrizes": 556544,
+      "caprinos": 49004,
+      "ovinos": 2679974,
+      "galinaceos_total": 166194733,
+      "galinhas": 23876551,
+      "codornas": 713350
+    },
+    {
+      "uf": "Mato Grosso do Sul",
+      "bovinos": 17946309,
+      "bubalinos": 16223,
+      "equinos": 274033,
+      "suinos": 1961957,
+      "suinos_matrizes": 216194,
+      "caprinos": 12458,
+      "ovinos": 275374,
+      "galinaceos_total": 35548106,
+      "galinhas": 7204099,
+      "codornas": 39224
+    },
+    {
+      "uf": "Mato Grosso",
+      "bovinos": 31645874,
+      "bubalinos": 17483,
+      "equinos": 413538,
+      "suinos": 2092539,
+      "suinos_matrizes": 207361,
+      "caprinos": 23937,
+      "ovinos": 377557,
+      "galinaceos_total": 45531968,
+      "galinhas": 15113658,
+      "codornas": 342454
+    },
+    {
+      "uf": "Goiás",
+      "bovinos": 22494716,
+      "bubalinos": 20709,
+      "equinos": 338240,
+      "suinos": 1606294,
+      "suinos_matrizes": 210116,
+      "caprinos": 22244,
+      "ovinos": 95576,
+      "galinaceos_total": 95101239,
+      "galinhas": 15384301,
+      "codornas": 356754
+    },
+    {
+      "uf": "Distrito Federal",
+      "bovinos": 76003,
+      "bubalinos": 509,
+      "equinos": 17150,
+      "suinos": 146753,
+      "suinos_matrizes": 16582,
+      "caprinos": 3327,
+      "ovinos": 15156,
+      "galinaceos_total": 8164577,
+      "galinhas": 1185487,
+      "codornas": 51813
+    }
+  ],
+  "meta": {
+    "title": "Efetivo dos rebanhos por estado do Brasil (2025) - Free Download",
+    "description": "Número de cabeças de bovinos, bubalinos, equinos, suínos, caprinos, ovinos, galináceos e codornas em cada unidade da federação do Brasil em 2025, segundo a Pesquisa da Pecuária Municipal (IBGE, tabela 3939). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Efetivo dos rebanhos por estado do Brasil (2025) | ListBase",
+    "seo_description": "Download Efetivo dos rebanhos por estado do Brasil (2025) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sidra.ibge.gov.br/tabela/3939"
+    ]
+  }
+}
