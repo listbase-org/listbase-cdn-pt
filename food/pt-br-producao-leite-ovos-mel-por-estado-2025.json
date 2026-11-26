@@ -1,0 +1,272 @@
+{
+  "id": "pt-br-producao-leite-ovos-mel-por-estado-2025",
+  "name": "Produção de leite, ovos e mel por estado do Brasil (2025)",
+  "title": "Produção de leite, ovos e mel por estado do Brasil (2025)",
+  "description": "Produção de leite (mil litros), ovos de galinha e de codorna (mil dúzias) e mel de abelha (kg) e valor total da produção de origem animal (mil R$) em cada unidade da federação em 2025 (IBGE, Pesquisa da Pecuária Municipal, tabela 74). Valor vazio = sem produção ou dado não disponível.",
+  "category": "food",
+  "source": "https://sidra.ibge.gov.br/tabela/74",
+  "source_url": "https://sidra.ibge.gov.br/tabela/74",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "uf",
+      "label": "Uf",
+      "type": "string"
+    },
+    {
+      "key": "leite_mil_litros",
+      "label": "Leite Mil Litros",
+      "type": "number"
+    },
+    {
+      "key": "ovos_galinha_mil_duzias",
+      "label": "Ovos Galinha Mil Duzias",
+      "type": "number"
+    },
+    {
+      "key": "ovos_codorna_mil_duzias",
+      "label": "Ovos Codorna Mil Duzias",
+      "type": "number"
+    },
+    {
+      "key": "mel_kg",
+      "label": "Mel Kg",
+      "type": "number"
+    },
+    {
+      "key": "valor_total_mil_reais",
+      "label": "Valor Total Mil Reais",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "uf": "Rondônia",
+      "leite_mil_litros": 583711,
+      "ovos_galinha_mil_duzias": 34746,
+      "ovos_codorna_mil_duzias": 593,
+      "mel_kg": 296316,
+      "valor_total_mil_reais": 1529598
+    },
+    {
+      "uf": "Acre",
+      "leite_mil_litros": 36881,
+      "ovos_galinha_mil_duzias": 11556,
+      "ovos_codorna_mil_duzias": 4,
+      "mel_kg": 9638,
+      "valor_total_mil_reais": 154121
+    },
+    {
+      "uf": "Amazonas",
+      "leite_mil_litros": 72906,
+      "ovos_galinha_mil_duzias": 85349,
+      "ovos_codorna_mil_duzias": 1038,
+      "mel_kg": 62069,
+      "valor_total_mil_reais": 845727
+    },
+    {
+      "uf": "Roraima",
+      "leite_mil_litros": 20665,
+      "ovos_galinha_mil_duzias": 17827,
+      "ovos_codorna_mil_duzias": 155,
+      "mel_kg": 93125,
+      "valor_total_mil_reais": 180540
+    },
+    {
+      "uf": "Pará",
+      "leite_mil_litros": 555350,
+      "ovos_galinha_mil_duzias": 68419,
+      "ovos_codorna_mil_duzias": 20,
+      "mel_kg": 814443,
+      "valor_total_mil_reais": 1609054
+    },
+    {
+      "uf": "Amapá",
+      "leite_mil_litros": 5142,
+      "ovos_galinha_mil_duzias": 39,
+      "ovos_codorna_mil_duzias": "",
+      "mel_kg": 20765,
+      "valor_total_mil_reais": 20239
+    },
+    {
+      "uf": "Tocantins",
+      "leite_mil_litros": 421694,
+      "ovos_galinha_mil_duzias": 55810,
+      "ovos_codorna_mil_duzias": 0,
+      "mel_kg": 123525,
+      "valor_total_mil_reais": 1497683
+    },
+    {
+      "uf": "Maranhão",
+      "leite_mil_litros": 412160,
+      "ovos_galinha_mil_duzias": 47138,
+      "ovos_codorna_mil_duzias": 24,
+      "mel_kg": 4633433,
+      "valor_total_mil_reais": 1435308
+    },
+    {
+      "uf": "Piauí",
+      "leite_mil_litros": 71003,
+      "ovos_galinha_mil_duzias": 35320,
+      "ovos_codorna_mil_duzias": 100,
+      "mel_kg": 8560008,
+      "valor_total_mil_reais": 625961
+    },
+    {
+      "uf": "Ceará",
+      "leite_mil_litros": 1298495,
+      "ovos_galinha_mil_duzias": 278823,
+      "ovos_codorna_mil_duzias": 17591,
+      "mel_kg": 5242378,
+      "valor_total_mil_reais": 5061329
+    },
+    {
+      "uf": "Rio Grande do Norte",
+      "leite_mil_litros": 440261,
+      "ovos_galinha_mil_duzias": 117882,
+      "ovos_codorna_mil_duzias": 2609,
+      "mel_kg": 924457,
+      "valor_total_mil_reais": 2180095
+    },
+    {
+      "uf": "Paraíba",
+      "leite_mil_litros": 358398,
+      "ovos_galinha_mil_duzias": 75851,
+      "ovos_codorna_mil_duzias": 2785,
+      "mel_kg": 433723,
+      "valor_total_mil_reais": 1428893
+    },
+    {
+      "uf": "Pernambuco",
+      "leite_mil_litros": 1529537,
+      "ovos_galinha_mil_duzias": 373614,
+      "ovos_codorna_mil_duzias": 32261,
+      "mel_kg": 1089857,
+      "valor_total_mil_reais": 5618010
+    },
+    {
+      "uf": "Alagoas",
+      "leite_mil_litros": 579766,
+      "ovos_galinha_mil_duzias": 39268,
+      "ovos_codorna_mil_duzias": 2522,
+      "mel_kg": 591759,
+      "valor_total_mil_reais": 1555751
+    },
+    {
+      "uf": "Sergipe",
+      "leite_mil_litros": 701328,
+      "ovos_galinha_mil_duzias": 47180,
+      "ovos_codorna_mil_duzias": 13,
+      "mel_kg": 203586,
+      "valor_total_mil_reais": 2015077
+    },
+    {
+      "uf": "Bahia",
+      "leite_mil_litros": 1229664,
+      "ovos_galinha_mil_duzias": 134065,
+      "ovos_codorna_mil_duzias": 2126,
+      "mel_kg": 4793568,
+      "valor_total_mil_reais": 3464460
+    },
+    {
+      "uf": "Minas Gerais",
+      "leite_mil_litros": 10070127,
+      "ovos_galinha_mil_duzias": 553186,
+      "ovos_codorna_mil_duzias": 63328,
+      "mel_kg": 6996853,
+      "valor_total_mil_reais": 29079052
+    },
+    {
+      "uf": "Espírito Santo",
+      "leite_mil_litros": 334519,
+      "ovos_galinha_mil_duzias": 389114,
+      "ovos_codorna_mil_duzias": 61096,
+      "mel_kg": 860758,
+      "valor_total_mil_reais": 3112634
+    },
+    {
+      "uf": "Rio de Janeiro",
+      "leite_mil_litros": 379252,
+      "ovos_galinha_mil_duzias": 20336,
+      "ovos_codorna_mil_duzias": 2201,
+      "mel_kg": 448034,
+      "valor_total_mil_reais": 1207905
+    },
+    {
+      "uf": "São Paulo",
+      "leite_mil_litros": 1504625,
+      "ovos_galinha_mil_duzias": 1292026,
+      "ovos_codorna_mil_duzias": 34389,
+      "mel_kg": 6451914,
+      "valor_total_mil_reais": 12028247
+    },
+    {
+      "uf": "Paraná",
+      "leite_mil_litros": 4800868,
+      "ovos_galinha_mil_duzias": 535720,
+      "ovos_codorna_mil_duzias": 9754,
+      "mel_kg": 10707491,
+      "valor_total_mil_reais": 16342669
+    },
+    {
+      "uf": "Santa Catarina",
+      "leite_mil_litros": 3432778,
+      "ovos_galinha_mil_duzias": 334908,
+      "ovos_codorna_mil_duzias": 35966,
+      "mel_kg": 4836271,
+      "valor_total_mil_reais": 10575503
+    },
+    {
+      "uf": "Rio Grande do Sul",
+      "leite_mil_litros": 4237264,
+      "ovos_galinha_mil_duzias": 419494,
+      "ovos_codorna_mil_duzias": 10449,
+      "mel_kg": 10935491,
+      "valor_total_mil_reais": 12965646
+    },
+    {
+      "uf": "Mato Grosso do Sul",
+      "leite_mil_litros": 264415,
+      "ovos_galinha_mil_duzias": 134107,
+      "ovos_codorna_mil_duzias": 423,
+      "mel_kg": 732047,
+      "valor_total_mil_reais": 1542157
+    },
+    {
+      "uf": "Mato Grosso",
+      "leite_mil_litros": 403959,
+      "ovos_galinha_mil_duzias": 312009,
+      "ovos_codorna_mil_duzias": 4916,
+      "mel_kg": 983193,
+      "valor_total_mil_reais": 2648888
+    },
+    {
+      "uf": "Goiás",
+      "leite_mil_litros": 2906910,
+      "ovos_galinha_mil_duzias": 293096,
+      "ovos_codorna_mil_duzias": 6557,
+      "mel_kg": 456053,
+      "valor_total_mil_reais": 8799431
+    },
+    {
+      "uf": "Distrito Federal",
+      "leite_mil_litros": 32598,
+      "ovos_galinha_mil_duzias": 28818,
+      "ovos_codorna_mil_duzias": 252,
+      "mel_kg": 28265,
+      "valor_total_mil_reais": 456703
+    }
+  ],
+  "meta": {
+    "title": "Produção de leite, ovos e mel por estado do Brasil (2025) - Free Download",
+    "description": "Produção de leite (mil litros), ovos de galinha e de codorna (mil dúzias) e mel de abelha (kg) e valor total da produção de origem animal (mil R$) em cada unidade da federação em 2025 (IBGE, Pesquisa da Pecuária Municipal, tabela 74). Valor vazio = sem produção ou dado não disponível. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produção de leite, ovos e mel por estado do Brasil (2025) | ListBase",
+    "seo_description": "Download Produção de leite, ovos e mel por estado do Brasil (2025) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sidra.ibge.gov.br/tabela/74"
+    ]
+  }
+}

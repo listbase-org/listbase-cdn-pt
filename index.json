@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-26T02:23:50.299Z",
-  "total_datasets": 595,
-  "total_records": 754825,
+  "generated": "2026-11-26T02:23:59.593Z",
+  "total_datasets": 596,
+  "total_records": 754852,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -2484,6 +2484,33 @@
         "xlsx": {
           "name": "pt-br-pratos-tipicos-parana_PT.xlsx",
           "size": 7787
+        }
+      }
+    },
+    {
+      "id": "pt-br-producao-leite-ovos-mel-por-estado-2025",
+      "name": "Produção de leite, ovos e mel por estado do Brasil (2025)",
+      "category": "food",
+      "record_count": 27,
+      "columns": [
+        "uf",
+        "leite_mil_litros",
+        "ovos_galinha_mil_duzias",
+        "ovos_codorna_mil_duzias",
+        "mel_kg",
+        "valor_total_mil_reais"
+      ],
+      "source": "https://sidra.ibge.gov.br/tabela/74",
+      "updated": "2026-11",
+      "size": 8080,
+      "files": {
+        "csv": {
+          "name": "pt-br-producao-leite-ovos-mel-por-estado-2025_PT.csv",
+          "size": 1622
+        },
+        "xlsx": {
+          "name": "pt-br-producao-leite-ovos-mel-por-estado-2025_PT.xlsx",
+          "size": 8184
         }
       }
     },
