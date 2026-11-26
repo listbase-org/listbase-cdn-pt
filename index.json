@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-26T02:23:59.593Z",
-  "total_datasets": 596,
-  "total_records": 754852,
+  "generated": "2026-11-26T02:24:07.905Z",
+  "total_datasets": 597,
+  "total_records": 754859,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -4912,6 +4912,30 @@
         "xlsx": {
           "name": "pt-presidentes-supremo-tribunal-justica_PT.xlsx",
           "size": 9618
+        }
+      }
+    },
+    {
+      "id": "pt-revisoes-constituicao-portuguesa-1976",
+      "name": "Revisões da Constituição da República Portuguesa de 1976",
+      "category": "law",
+      "record_count": 7,
+      "columns": [
+        "revisao",
+        "ano",
+        "principais_alteracoes"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Constituição_portuguesa_de_1976",
+      "updated": "2026-11",
+      "size": 6528,
+      "files": {
+        "csv": {
+          "name": "pt-revisoes-constituicao-portuguesa-1976_PT.csv",
+          "size": 4279
+        },
+        "xlsx": {
+          "name": "pt-revisoes-constituicao-portuguesa-1976_PT.xlsx",
+          "size": 8570
         }
       }
     },
