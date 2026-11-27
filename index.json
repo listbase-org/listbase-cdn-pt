@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-27T02:34:34.779Z",
-  "total_datasets": 598,
-  "total_records": 754944,
+  "generated": "2026-11-27T02:34:44.439Z",
+  "total_datasets": 599,
+  "total_records": 754972,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -714,6 +714,41 @@
         "xlsx": {
           "name": "pt-br-presidentes-banco-central_PT.xlsx",
           "size": 8333
+        }
+      }
+    },
+    {
+      "id": "pt-br-rendimento-domiciliar-per-capita-por-estado",
+      "name": "Rendimento domiciliar per capita por unidade federativa (2011–2023)",
+      "category": "economy",
+      "record_count": 28,
+      "columns": [
+        "posicao_2023",
+        "unidade_federativa",
+        "rendimento_2011",
+        "rendimento_2012",
+        "rendimento_2013",
+        "rendimento_2014",
+        "rendimento_2015",
+        "rendimento_2016",
+        "rendimento_2017",
+        "rendimento_2018",
+        "rendimento_2019",
+        "rendimento_2020",
+        "rendimento_2022",
+        "rendimento_2023"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_renda_per_capita",
+      "updated": "2026-11",
+      "size": 15635,
+      "files": {
+        "csv": {
+          "name": "pt-br-rendimento-domiciliar-per-capita-por-estado_PT.csv",
+          "size": 2936
+        },
+        "xlsx": {
+          "name": "pt-br-rendimento-domiciliar-per-capita-por-estado_PT.xlsx",
+          "size": 9091
         }
       }
     },
