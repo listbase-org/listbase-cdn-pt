@@ -1,0 +1,826 @@
+{
+  "id": "pt-br-artilheiros-campeonato-brasileiro-por-edicao",
+  "name": "Artilheiros do Campeonato Brasileiro por edição (1937–2025)",
+  "title": "Artilheiros do Campeonato Brasileiro por edição (1937–2025)",
+  "description": "Artilheiro (ou artilheiros empatados) de cada edição do Campeonato Brasileiro de Futebol, incluindo Taça Brasil e Robertão (RGP), com nacionalidade, clube, gols, jogos e média de gols por jogo.",
+  "category": "sports",
+  "source": "https://pt.wikipedia.org/wiki/Lista_de_artilheiros_do_Campeonato_Brasileiro_de_Futebol",
+  "source_url": "https://pt.wikipedia.org/wiki/Lista_de_artilheiros_do_Campeonato_Brasileiro_de_Futebol",
+  "updated": "2026-11",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "edicao",
+      "label": "Edicao",
+      "type": "number"
+    },
+    {
+      "key": "jogador",
+      "label": "Jogador",
+      "type": "string"
+    },
+    {
+      "key": "nacionalidade",
+      "label": "Nacionalidade",
+      "type": "string"
+    },
+    {
+      "key": "clube",
+      "label": "Clube",
+      "type": "string"
+    },
+    {
+      "key": "gols",
+      "label": "Gols",
+      "type": "number"
+    },
+    {
+      "key": "jogos",
+      "label": "Jogos",
+      "type": "number"
+    },
+    {
+      "key": "media_gols_por_jogo",
+      "label": "Media Gols Por Jogo",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "edicao": "1937",
+      "jogador": "Paulista",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 8,
+      "jogos": 6,
+      "media_gols_por_jogo": 1.33
+    },
+    {
+      "edicao": "1959",
+      "jogador": "Léo Briglia",
+      "nacionalidade": "Brasil",
+      "clube": "Bahia",
+      "gols": 8,
+      "jogos": 14,
+      "media_gols_por_jogo": 0.57
+    },
+    {
+      "edicao": "1960",
+      "jogador": "Bececê",
+      "nacionalidade": "Brasil",
+      "clube": "Fortaleza",
+      "gols": 8,
+      "jogos": 10,
+      "media_gols_por_jogo": 0.8
+    },
+    {
+      "edicao": "1961",
+      "jogador": "Pelé",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 7,
+      "jogos": 10,
+      "media_gols_por_jogo": 0.7
+    },
+    {
+      "edicao": "1962",
+      "jogador": "Coutinho",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 7,
+      "jogos": 5,
+      "media_gols_por_jogo": 1.4
+    },
+    {
+      "edicao": "1963",
+      "jogador": "Ruiter",
+      "nacionalidade": "Brasil",
+      "clube": "Confiança",
+      "gols": 9,
+      "jogos": 3,
+      "media_gols_por_jogo": 3
+    },
+    {
+      "edicao": "1964",
+      "jogador": "Pelé (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 7,
+      "jogos": 6,
+      "media_gols_por_jogo": 1.17
+    },
+    {
+      "edicao": "1965",
+      "jogador": "Bita",
+      "nacionalidade": "Brasil",
+      "clube": "Náutico",
+      "gols": 9,
+      "jogos": 9,
+      "media_gols_por_jogo": 1
+    },
+    {
+      "edicao": "1966",
+      "jogador": "Toninho Guerreiro",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 10,
+      "jogos": 5,
+      "media_gols_por_jogo": 2
+    },
+    {
+      "edicao": "1966",
+      "jogador": "Bita (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Náutico",
+      "gols": 10,
+      "jogos": 8,
+      "media_gols_por_jogo": 1.25
+    },
+    {
+      "edicao": "TB - 1967",
+      "jogador": "Chicletes",
+      "nacionalidade": "Brasil",
+      "clube": "Treze",
+      "gols": 9,
+      "jogos": 10,
+      "media_gols_por_jogo": 0.9
+    },
+    {
+      "edicao": "RGP - 1967",
+      "jogador": "César Maluco",
+      "nacionalidade": "Brasil",
+      "clube": "Palmeiras",
+      "gols": 15,
+      "jogos": 10,
+      "media_gols_por_jogo": 1.5
+    },
+    {
+      "edicao": "RGP - 1967",
+      "jogador": "Ademar Pantera",
+      "nacionalidade": "Brasil",
+      "clube": "Flamengo",
+      "gols": 15,
+      "jogos": 14,
+      "media_gols_por_jogo": 1.07
+    },
+    {
+      "edicao": "TB - 1968",
+      "jogador": "Ferretti",
+      "nacionalidade": "Brasil",
+      "clube": "Botafogo",
+      "gols": 7,
+      "jogos": 6,
+      "media_gols_por_jogo": 1.16
+    },
+    {
+      "edicao": "RGP - 1968",
+      "jogador": "Toninho Guerreiro (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 18,
+      "jogos": 14,
+      "media_gols_por_jogo": 1.28
+    },
+    {
+      "edicao": "1969",
+      "jogador": "Edu Coimbra",
+      "nacionalidade": "Brasil",
+      "clube": "America",
+      "gols": 14,
+      "jogos": 9,
+      "media_gols_por_jogo": 1.55
+    },
+    {
+      "edicao": "1970",
+      "jogador": "Tostão",
+      "nacionalidade": "Brasil",
+      "clube": "Cruzeiro",
+      "gols": 12,
+      "jogos": 18,
+      "media_gols_por_jogo": 0.67
+    },
+    {
+      "edicao": "1971",
+      "jogador": "Dadá Maravilha",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 15,
+      "jogos": 27,
+      "media_gols_por_jogo": 0.55
+    },
+    {
+      "edicao": "1972",
+      "jogador": "Dadá Maravilha (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 17,
+      "jogos": 28,
+      "media_gols_por_jogo": 0.61
+    },
+    {
+      "edicao": "1972",
+      "jogador": "Pedro Rocha",
+      "nacionalidade": "Uruguai",
+      "clube": "São Paulo",
+      "gols": 17,
+      "jogos": 18,
+      "media_gols_por_jogo": 0.94
+    },
+    {
+      "edicao": "1973",
+      "jogador": "Ramón",
+      "nacionalidade": "Brasil",
+      "clube": "Santa Cruz",
+      "gols": 21,
+      "jogos": 34,
+      "media_gols_por_jogo": 0.62
+    },
+    {
+      "edicao": "1974",
+      "jogador": "Roberto Dinamite",
+      "nacionalidade": "Brasil",
+      "clube": "Vasco da Gama",
+      "gols": 16,
+      "jogos": 26,
+      "media_gols_por_jogo": 0.61
+    },
+    {
+      "edicao": "1975",
+      "jogador": "Flávio Minuano",
+      "nacionalidade": "Brasil",
+      "clube": "Internacional",
+      "gols": 16,
+      "jogos": 25,
+      "media_gols_por_jogo": 0.64
+    },
+    {
+      "edicao": "1976",
+      "jogador": "Dadá Maravilha (3)",
+      "nacionalidade": "Brasil",
+      "clube": "Internacional",
+      "gols": 16,
+      "jogos": 21,
+      "media_gols_por_jogo": 0.76
+    },
+    {
+      "edicao": "1977",
+      "jogador": "Reinaldo",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 28,
+      "jogos": 18,
+      "media_gols_por_jogo": 1.55
+    },
+    {
+      "edicao": "1978",
+      "jogador": "Paulinho",
+      "nacionalidade": "Brasil",
+      "clube": "Vasco da Gama",
+      "gols": 19,
+      "jogos": 30,
+      "media_gols_por_jogo": 0.63
+    },
+    {
+      "edicao": "1979",
+      "jogador": "César",
+      "nacionalidade": "Brasil",
+      "clube": "America",
+      "gols": 13,
+      "jogos": 16,
+      "media_gols_por_jogo": 0.81
+    },
+    {
+      "edicao": "1980",
+      "jogador": "Zico",
+      "nacionalidade": "Brasil",
+      "clube": "Flamengo",
+      "gols": 21,
+      "jogos": 19,
+      "media_gols_por_jogo": 1.1
+    },
+    {
+      "edicao": "1981",
+      "jogador": "Nunes",
+      "nacionalidade": "Brasil",
+      "clube": "Flamengo",
+      "gols": 16,
+      "jogos": 17,
+      "media_gols_por_jogo": 0.94
+    },
+    {
+      "edicao": "1982",
+      "jogador": "Zico (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Flamengo",
+      "gols": 21,
+      "jogos": 23,
+      "media_gols_por_jogo": 0.91
+    },
+    {
+      "edicao": "1983",
+      "jogador": "Serginho Chulapa",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 22,
+      "jogos": 21,
+      "media_gols_por_jogo": 1.05
+    },
+    {
+      "edicao": "1984",
+      "jogador": "Roberto Dinamite (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Vasco da Gama",
+      "gols": 16,
+      "jogos": 19,
+      "media_gols_por_jogo": 0.84
+    },
+    {
+      "edicao": "1985",
+      "jogador": "Edmar",
+      "nacionalidade": "Brasil",
+      "clube": "Guarani",
+      "gols": 20,
+      "jogos": 26,
+      "media_gols_por_jogo": 0.77
+    },
+    {
+      "edicao": "1986",
+      "jogador": "Careca",
+      "nacionalidade": "Brasil",
+      "clube": "São Paulo",
+      "gols": 25,
+      "jogos": 28,
+      "media_gols_por_jogo": 0.89
+    },
+    {
+      "edicao": "1987",
+      "jogador": "Müller",
+      "nacionalidade": "Brasil",
+      "clube": "São Paulo",
+      "gols": 10,
+      "jogos": 17,
+      "media_gols_por_jogo": 0.59
+    },
+    {
+      "edicao": "1988",
+      "jogador": "Nílson",
+      "nacionalidade": "Brasil",
+      "clube": "Internacional",
+      "gols": 15,
+      "jogos": 23,
+      "media_gols_por_jogo": 0.65
+    },
+    {
+      "edicao": "1989",
+      "jogador": "Túlio Maravilha",
+      "nacionalidade": "Brasil",
+      "clube": "Goiás",
+      "gols": 11,
+      "jogos": 18,
+      "media_gols_por_jogo": 0.61
+    },
+    {
+      "edicao": "1990",
+      "jogador": "Charles",
+      "nacionalidade": "Brasil",
+      "clube": "Bahia",
+      "gols": 11,
+      "jogos": 21,
+      "media_gols_por_jogo": 0.52
+    },
+    {
+      "edicao": "1991",
+      "jogador": "Paulinho McLaren",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 15,
+      "jogos": 16,
+      "media_gols_por_jogo": 0.94
+    },
+    {
+      "edicao": "1992",
+      "jogador": "Bebeto",
+      "nacionalidade": "Brasil",
+      "clube": "Vasco da Gama",
+      "gols": 18,
+      "jogos": 25,
+      "media_gols_por_jogo": 0.72
+    },
+    {
+      "edicao": "1993",
+      "jogador": "Guga",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 15,
+      "jogos": 17,
+      "media_gols_por_jogo": 0.88
+    },
+    {
+      "edicao": "1994",
+      "jogador": "Amoroso",
+      "nacionalidade": "Brasil",
+      "clube": "Guarani",
+      "gols": 19,
+      "jogos": 26,
+      "media_gols_por_jogo": 0.73
+    },
+    {
+      "edicao": "1994",
+      "jogador": "Túlio Maravilha (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Botafogo",
+      "gols": 19,
+      "jogos": 25,
+      "media_gols_por_jogo": 0.76
+    },
+    {
+      "edicao": "1995",
+      "jogador": "Túlio Maravilha (3)",
+      "nacionalidade": "Brasil",
+      "clube": "Botafogo",
+      "gols": 23,
+      "jogos": 25,
+      "media_gols_por_jogo": 0.92
+    },
+    {
+      "edicao": "1996",
+      "jogador": "Paulo Nunes",
+      "nacionalidade": "Brasil",
+      "clube": "Grêmio",
+      "gols": 16,
+      "jogos": 27,
+      "media_gols_por_jogo": 0.59
+    },
+    {
+      "edicao": "1996",
+      "jogador": "Renaldo",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 16,
+      "jogos": 20,
+      "media_gols_por_jogo": 0.8
+    },
+    {
+      "edicao": "1997",
+      "jogador": "Edmundo",
+      "nacionalidade": "Brasil",
+      "clube": "Vasco da Gama",
+      "gols": 29,
+      "jogos": 28,
+      "media_gols_por_jogo": 1.03
+    },
+    {
+      "edicao": "1998",
+      "jogador": "Viola",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 21,
+      "jogos": 28,
+      "media_gols_por_jogo": 0.75
+    },
+    {
+      "edicao": "1999",
+      "jogador": "Guilherme",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 28,
+      "jogos": 27,
+      "media_gols_por_jogo": 1.04
+    },
+    {
+      "edicao": "2000",
+      "jogador": "Adhemar",
+      "nacionalidade": "Brasil",
+      "clube": "São Caetano",
+      "gols": 22,
+      "jogos": "",
+      "media_gols_por_jogo": ""
+    },
+    {
+      "edicao": "2001",
+      "jogador": "Romário",
+      "nacionalidade": "Brasil",
+      "clube": "Vasco da Gama",
+      "gols": 21,
+      "jogos": 18,
+      "media_gols_por_jogo": 1.16
+    },
+    {
+      "edicao": "2002",
+      "jogador": "Luís Fabiano",
+      "nacionalidade": "Brasil",
+      "clube": "São Paulo",
+      "gols": 19,
+      "jogos": 23,
+      "media_gols_por_jogo": 0.83
+    },
+    {
+      "edicao": "2002",
+      "jogador": "Rodrigo Fabri",
+      "nacionalidade": "Brasil",
+      "clube": "Grêmio",
+      "gols": 19,
+      "jogos": 27,
+      "media_gols_por_jogo": 0.7
+    },
+    {
+      "edicao": "2003",
+      "jogador": "Dimba",
+      "nacionalidade": "Brasil",
+      "clube": "Goiás",
+      "gols": 31,
+      "jogos": 41,
+      "media_gols_por_jogo": 0.76
+    },
+    {
+      "edicao": "2004",
+      "jogador": "Washington",
+      "nacionalidade": "Brasil",
+      "clube": "Athletico Paranaense",
+      "gols": 34,
+      "jogos": 38,
+      "media_gols_por_jogo": 0.89
+    },
+    {
+      "edicao": "2005",
+      "jogador": "Romário (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Vasco da Gama",
+      "gols": 22,
+      "jogos": 30,
+      "media_gols_por_jogo": 0.73
+    },
+    {
+      "edicao": "2006",
+      "jogador": "Souza",
+      "nacionalidade": "Brasil",
+      "clube": "Goiás",
+      "gols": 17,
+      "jogos": 30,
+      "media_gols_por_jogo": 0.57
+    },
+    {
+      "edicao": "2007",
+      "jogador": "Josiel",
+      "nacionalidade": "Brasil",
+      "clube": "Paraná",
+      "gols": 20,
+      "jogos": 36,
+      "media_gols_por_jogo": 0.55
+    },
+    {
+      "edicao": "2008",
+      "jogador": "Washington (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Fluminense",
+      "gols": 21,
+      "jogos": 28,
+      "media_gols_por_jogo": 0.75
+    },
+    {
+      "edicao": "2008",
+      "jogador": "Keirrison",
+      "nacionalidade": "Brasil",
+      "clube": "Coritiba",
+      "gols": 21,
+      "jogos": 31,
+      "media_gols_por_jogo": 0.68
+    },
+    {
+      "edicao": "2008",
+      "jogador": "Kléber Pereira",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 21,
+      "jogos": 35,
+      "media_gols_por_jogo": 0.6
+    },
+    {
+      "edicao": "2009",
+      "jogador": "Adriano",
+      "nacionalidade": "Brasil",
+      "clube": "Flamengo",
+      "gols": 19,
+      "jogos": 30,
+      "media_gols_por_jogo": 0.63
+    },
+    {
+      "edicao": "2009",
+      "jogador": "Diego Tardelli",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 19,
+      "jogos": 33,
+      "media_gols_por_jogo": 0.58
+    },
+    {
+      "edicao": "2010",
+      "jogador": "Jonas",
+      "nacionalidade": "Brasil",
+      "clube": "Grêmio",
+      "gols": 23,
+      "jogos": 33,
+      "media_gols_por_jogo": 0.7
+    },
+    {
+      "edicao": "2011",
+      "jogador": "Borges",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 23,
+      "jogos": 31,
+      "media_gols_por_jogo": 0.74
+    },
+    {
+      "edicao": "2012",
+      "jogador": "Fred",
+      "nacionalidade": "Brasil",
+      "clube": "Fluminense",
+      "gols": 20,
+      "jogos": 28,
+      "media_gols_por_jogo": 0.71
+    },
+    {
+      "edicao": "2013",
+      "jogador": "Éderson",
+      "nacionalidade": "Brasil",
+      "clube": "Athletico Paranaense",
+      "gols": 21,
+      "jogos": 36,
+      "media_gols_por_jogo": 0.58
+    },
+    {
+      "edicao": "2014",
+      "jogador": "Fred (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Fluminense",
+      "gols": 18,
+      "jogos": 28,
+      "media_gols_por_jogo": 0.64
+    },
+    {
+      "edicao": "2015",
+      "jogador": "Ricardo Oliveira",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 20,
+      "jogos": 32,
+      "media_gols_por_jogo": 0.63
+    },
+    {
+      "edicao": "2016",
+      "jogador": "Fred (3)",
+      "nacionalidade": "Brasil",
+      "clube": "Fluminense",
+      "gols": 2,
+      "jogos": 6,
+      "media_gols_por_jogo": 0.41
+    },
+    {
+      "edicao": "2016",
+      "jogador": "Fred (3)",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 12,
+      "jogos": 28,
+      "media_gols_por_jogo": 0.41
+    },
+    {
+      "edicao": "2016",
+      "jogador": "William Pottker",
+      "nacionalidade": "Brasil",
+      "clube": "Ponte Preta",
+      "gols": 14,
+      "jogos": 31,
+      "media_gols_por_jogo": 0.45
+    },
+    {
+      "edicao": "2016",
+      "jogador": "Diego Souza",
+      "nacionalidade": "Brasil",
+      "clube": "Sport",
+      "gols": 14,
+      "jogos": 34,
+      "media_gols_por_jogo": 0.41
+    },
+    {
+      "edicao": "2017",
+      "jogador": "Jô",
+      "nacionalidade": "Brasil",
+      "clube": "Corinthians",
+      "gols": 18,
+      "jogos": 34,
+      "media_gols_por_jogo": 0.53
+    },
+    {
+      "edicao": "2017",
+      "jogador": "Henrique Dourado",
+      "nacionalidade": "Brasil",
+      "clube": "Fluminense",
+      "gols": 18,
+      "jogos": 32,
+      "media_gols_por_jogo": 0.56
+    },
+    {
+      "edicao": "2018",
+      "jogador": "Gabigol",
+      "nacionalidade": "Brasil",
+      "clube": "Santos",
+      "gols": 18,
+      "jogos": 35,
+      "media_gols_por_jogo": 0.51
+    },
+    {
+      "edicao": "2019",
+      "jogador": "Gabigol (2)",
+      "nacionalidade": "Brasil",
+      "clube": "Flamengo",
+      "gols": 25,
+      "jogos": 29,
+      "media_gols_por_jogo": 0.86
+    },
+    {
+      "edicao": "2020",
+      "jogador": "Luciano",
+      "nacionalidade": "Brasil",
+      "clube": "São Paulo",
+      "gols": 18,
+      "jogos": 32,
+      "media_gols_por_jogo": 0.56
+    },
+    {
+      "edicao": "2020",
+      "jogador": "Claudinho",
+      "nacionalidade": "Brasil",
+      "clube": "Red Bull Bragantino",
+      "gols": 18,
+      "jogos": 35,
+      "media_gols_por_jogo": 0.51
+    },
+    {
+      "edicao": "2021",
+      "jogador": "Hulk",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 19,
+      "jogos": 35,
+      "media_gols_por_jogo": 0.54
+    },
+    {
+      "edicao": "2022",
+      "jogador": "Cano",
+      "nacionalidade": "Argentina",
+      "clube": "Fluminense",
+      "gols": 26,
+      "jogos": 38,
+      "media_gols_por_jogo": 0.68
+    },
+    {
+      "edicao": "2023",
+      "jogador": "Paulinho",
+      "nacionalidade": "Brasil",
+      "clube": "Atlético Mineiro",
+      "gols": 20,
+      "jogos": 36,
+      "media_gols_por_jogo": 0.55
+    },
+    {
+      "edicao": "2024",
+      "jogador": "Yuri Alberto",
+      "nacionalidade": "Brasil",
+      "clube": "Corinthians",
+      "gols": 15,
+      "jogos": 29,
+      "media_gols_por_jogo": 0.51
+    },
+    {
+      "edicao": "2024",
+      "jogador": "Alerrandro",
+      "nacionalidade": "Brasil",
+      "clube": "Vitória",
+      "gols": 15,
+      "jogos": 34,
+      "media_gols_por_jogo": 0.44
+    },
+    {
+      "edicao": "2025",
+      "jogador": "Kaio Jorge",
+      "nacionalidade": "Brasil",
+      "clube": "Cruzeiro",
+      "gols": 21,
+      "jogos": 33,
+      "media_gols_por_jogo": 0.63
+    }
+  ],
+  "meta": {
+    "title": "Artilheiros do Campeonato Brasileiro por edição (1937–2025) - Free Download",
+    "description": "Artilheiro (ou artilheiros empatados) de cada edição do Campeonato Brasileiro de Futebol, incluindo Taça Brasil e Robertão (RGP), com nacionalidade, clube, gols, jogos e média de gols por jogo. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Artilheiros do Campeonato Brasileiro por edição (1937–2025) | ListBase",
+    "seo_description": "Download Artilheiros do Campeonato Brasileiro por edição (1937–2025) — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pt.wikipedia.org/wiki/Lista_de_artilheiros_do_Campeonato_Brasileiro_de_Futebol"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "pt",
-  "generated": "2026-11-26T02:24:07.905Z",
-  "total_datasets": 597,
-  "total_records": 754859,
+  "generated": "2026-11-27T02:34:34.779Z",
+  "total_datasets": 598,
+  "total_records": 754944,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -16660,6 +16660,34 @@
         "xlsx": {
           "name": "pt-municipios-por-populacao_PT.xlsx",
           "size": 20622
+        }
+      }
+    },
+    {
+      "id": "pt-br-artilheiros-campeonato-brasileiro-por-edicao",
+      "name": "Artilheiros do Campeonato Brasileiro por edição (1937–2025)",
+      "category": "sports",
+      "record_count": 85,
+      "columns": [
+        "edicao",
+        "jogador",
+        "nacionalidade",
+        "clube",
+        "gols",
+        "jogos",
+        "media_gols_por_jogo"
+      ],
+      "source": "https://pt.wikipedia.org/wiki/Lista_de_artilheiros_do_Campeonato_Brasileiro_de_Futebol",
+      "updated": "2026-11",
+      "size": 19314,
+      "files": {
+        "csv": {
+          "name": "pt-br-artilheiros-campeonato-brasileiro-por-edicao_PT.csv",
+          "size": 5058
+        },
+        "xlsx": {
+          "name": "pt-br-artilheiros-campeonato-brasileiro-por-edicao_PT.xlsx",
+          "size": 10619
         }
       }
     },
